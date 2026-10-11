@@ -1,3 +1,4 @@
+import hashlib
 import json
 import re
 import time
@@ -13,6 +14,7 @@ ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
 GAMES_FILE = DATA_DIR / "games.json"
 CANDIDATES_FILE = DATA_DIR / "candidates.json"
+REVIEW_QUEUE_FILE = DATA_DIR / "review_queue.json"
 
 USER_AGENT = "RecompileRadar/0.4 (public project discovery)"
 TIMEOUT = 20
@@ -639,6 +641,146 @@ def check_github_project(candidate):
     return result
 
 
+
+def stable_candidate_id(candidate):
+    """Стабильный ID на основе URL, чтобы не плодить дубликаты."""
+    url = normalise_url(candidate.get("url", "")).lower()
+    if not url:
+        url = candidate.get("title", "").strip().lower()
+    return hashlib.sha256(url.encode("utf-8")).hexdigest()[:16]
+
+
+def review_priority(candidate):
+    """
+    Очередь — это план проверки, не оценка качества игры.
+    Высокий приоритет у браузерных проектов и записей с файлами релизов.
+    """
+    category = candidate.get("category", "needs_review")
+    build_links = candidate.get("build_links") or []
+    check = candidate.get("check") or {}
+    release_assets = check.get("release_assets") or []
+
+    has_build = bool(build_links or release_assets)
+    browser_hint = category == "browser"
+    platform_hint = category in ("pc", "android")
+
+    if browser_hint and has_build:
+        return "high"
+    if browser_hint:
+        return "high"
+    if platform_hint and has_build:
+        return "medium"
+    if platform_hint:
+        return "medium"
+    if category == "other":
+        return "low"
+    return "low"
+
+
+def sync_review_queue(candidates, queue_file):
+    """
+    Добавляет кандидатов в review_queue.json и обновляет сведения,
+    сохраняя ручные поля и состояние проверки существующих записей.
+    Не меняет candidates.json и не подтверждает игры автоматически.
+    """
+    queue_data = load_json(
+        queue_file,
+        {
+            "schema_version": 1,
+            "last_updated": None,
+            "items": [],
+        },
+    )
+
+    queue_data.setdefault("schema_version", 1)
+    queue_data.setdefault("items", [])
+
+    existing_items = {}
+    for item in queue_data["items"]:
+        if not isinstance(item, dict):
+            continue
+
+        item_id = item.get("id")
+        if not item_id:
+            item_id = stable_candidate_id(item)
+            item["id"] = item_id
+
+        # Если в старой очереди случайно есть дубликаты, оставляем
+        # первую запись и не затираем её ручные поля.
+        existing_items.setdefault(item_id, item)
+
+    added = 0
+    updated = 0
+    seen_ids = set()
+    now = now_iso()
+
+    for candidate in candidates:
+        if not isinstance(candidate, dict) or not candidate.get("url"):
+            continue
+
+        item_id = stable_candidate_id(candidate)
+        seen_ids.add(item_id)
+
+        current = existing_items.get(item_id)
+        if current is None:
+            current = {
+                "id": item_id,
+                "review_status": "pending",
+                "manual_notes": "",
+                "added_to_queue_at": now,
+            }
+            existing_items[item_id] = current
+            added += 1
+        else:
+            updated += 1
+
+        # Обновляем только поля, формируемые сборщиком.
+        # review_status, manual_notes и added_to_queue_at сохраняются.
+        current.update({
+            "title": candidate.get("title", ""),
+            "url": candidate.get("url", ""),
+            "source_name": candidate.get("source_name", ""),
+            "published": candidate.get("published", ""),
+            "summary": candidate.get("summary", ""),
+            "category": candidate.get("category", "needs_review"),
+            "platforms_guess": candidate.get("platforms_guess", []),
+            "category_evidence": candidate.get("category_evidence", {}),
+            "priority": review_priority(candidate),
+            "status": candidate.get("status", "unverified"),
+            "verification": "unverified",
+            "browser_playable": "unknown",
+            "build_links": candidate.get("build_links", []),
+            "check": candidate.get("check"),
+            "classification_notes": candidate.get(
+                "classification_notes", []
+            ),
+            "found_at": candidate.get("found_at"),
+            "last_seen_in_candidates_at": now,
+        })
+
+        # Поле статуса проверки не должно исчезать, если запись уже
+        # была просмотрена вручную.
+        current.setdefault("review_status", "pending")
+        current.setdefault("manual_notes", "")
+        current.setdefault("added_to_queue_at", now)
+
+    # Не удаляем элементы, которых больше нет в candidates.json:
+    # они могли быть вручную отмечены или временно отсутствовать.
+    queue_data["items"] = sorted(
+        existing_items.values(),
+        key=lambda item: (
+            {"high": 0, "medium": 1, "low": 2}.get(
+                item.get("priority", "low"), 2
+            ),
+            item.get("title", "").lower(),
+        ),
+    )
+    queue_data["last_updated"] = now
+    save_json(queue_file, queue_data)
+
+    return added, updated, len(queue_data["items"])
+
+
 def main():
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -778,6 +920,11 @@ def main():
 
     save_json(CANDIDATES_FILE, candidates_data)
 
+    # Этап 4: синхронизируем очередь проверки, сохраняя ручные отметки.
+    queue_added, queue_updated, queue_total = sync_review_queue(
+        candidates, REVIEW_QUEUE_FILE
+    )
+
     # Итоговая статистика.
     counts = {
         "browser": 0,
@@ -803,6 +950,9 @@ def main():
     print(f"  Другие платформы: {counts['other']}")
     print(f"  Требуют уточнения: {counts['needs_review']}")
     print(f"Ошибок источников: {len(errors)}")
+    print(f"Новых записей добавлено в очередь проверки: {queue_added}")
+    print(f"Записей очереди обновлено: {queue_updated}")
+    print(f"Всего записей в review_queue.json: {queue_total}")
     print(
         "Важно: category — предварительная классификация. "
         "verification остаётся unverified до отдельного подтверждения."
