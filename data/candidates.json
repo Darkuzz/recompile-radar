@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-11T17:23:39.610979+00:00",
+  "last_updated": "2026-10-11T17:31:20.379874+00:00",
   "candidates": [
     {
       "title": "veritr1x/pharaoh-recomp",
@@ -11,7 +11,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:27.640177+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:31:07.232643+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Recompilation of Pharaoh Gold built on recomp-kit: macOS, iPad, Linux, Windows and Android hosts, FFmpeg cinematics, touch play. Bring your own game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -43,7 +60,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:27.640150+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:31:08.752909+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "God of War II HD static recompilation — curated work artifacts (lift boundaries, SPU lift sources, scripts, findings). Game data & build artifacts excluded.",
+        "latest_release_url": "https://github.com/andrebrumdev/gow2-recomp/releases/tag/kit-macos-20260930",
+        "latest_release_name": "Kit macOS 2026-09-30 — mais rápido (ideias do runtime do Go)",
+        "release_assets": [
+          {
+            "name": "gow2-recomp-kit-macos-20260930-b323750.zip",
+            "url": "https://github.com/andrebrumdev/gow2-recomp/releases/download/kit-macos-20260930/gow2-recomp-kit-macos-20260930-b323750.zip",
+            "size": 15233983
+          }
+        ],
+        "releases": [
+          {
+            "name": "Kit macOS 2026-09-30 — mais rápido (ideias do runtime do Go)",
+            "url": "https://github.com/andrebrumdev/gow2-recomp/releases/tag/kit-macos-20260930",
+            "published_at": "2026-09-30T19:28:53Z",
+            "assets": [
+              {
+                "name": "gow2-recomp-kit-macos-20260930-b323750.zip",
+                "url": "https://github.com/andrebrumdev/gow2-recomp/releases/download/kit-macos-20260930/gow2-recomp-kit-macos-20260930-b323750.zip",
+                "size": 15233983
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Kit macOS 2026-09-23 — central estilo PS5",
+            "url": "https://github.com/andrebrumdev/gow2-recomp/releases/tag/kit-macos-20260923",
+            "published_at": "2026-09-24T01:55:19Z",
+            "assets": [
+              {
+                "name": "gow2-recomp-kit-macos-20260923-ec2ba46.zip",
+                "url": "https://github.com/andrebrumdev/gow2-recomp/releases/download/kit-macos-20260923/gow2-recomp-kit-macos-20260923-ec2ba46.zip",
+                "size": 12324902
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -56,9 +125,21 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "gow2-recomp-kit-macos-20260930-b323750.zip",
+          "url": "https://github.com/andrebrumdev/gow2-recomp/releases/download/kit-macos-20260930/gow2-recomp-kit-macos-20260930-b323750.zip",
+          "type": "archive"
+        },
+        {
+          "name": "gow2-recomp-kit-macos-20260923-ec2ba46.zip",
+          "url": "https://github.com/andrebrumdev/gow2-recomp/releases/download/kit-macos-20260923/gow2-recomp-kit-macos-20260923-ec2ba46.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ]
     },
     {
@@ -70,7 +151,236 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:27.640125+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:31:10.354618+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of the Sega 32X game Knuckles' Chaotix into native C++ (Windows/Linux/macOS/Android), with true widescreen. Bring your own ROM; no game data included.",
+        "latest_release_url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/tag/v0.3.9",
+        "latest_release_name": "0.3.9 - Music replacement, 32-bit Android",
+        "release_assets": [
+          {
+            "name": "ChaotixRecompiled-0.3.9-android-armeabi-v7a.apk",
+            "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.9/ChaotixRecompiled-0.3.9-android-armeabi-v7a.apk",
+            "size": 9652695
+          },
+          {
+            "name": "ChaotixRecompiled-0.3.9-android.apk",
+            "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.9/ChaotixRecompiled-0.3.9-android.apk",
+            "size": 26137590
+          },
+          {
+            "name": "ChaotixRecompiled-0.3.9-windows-x64.zip",
+            "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.9/ChaotixRecompiled-0.3.9-windows-x64.zip",
+            "size": 8491787
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.3.9 - Music replacement, 32-bit Android",
+            "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/tag/v0.3.9",
+            "published_at": "2026-10-10T15:56:15Z",
+            "assets": [
+              {
+                "name": "ChaotixRecompiled-0.3.9-android-armeabi-v7a.apk",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.9/ChaotixRecompiled-0.3.9-android-armeabi-v7a.apk",
+                "size": 9652695
+              },
+              {
+                "name": "ChaotixRecompiled-0.3.9-android.apk",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.9/ChaotixRecompiled-0.3.9-android.apk",
+                "size": 26137590
+              },
+              {
+                "name": "ChaotixRecompiled-0.3.9-windows-x64.zip",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.9/ChaotixRecompiled-0.3.9-windows-x64.zip",
+                "size": 8491787
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.3.8 - Widescreen special stages, 4:3 lobby",
+            "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/tag/v0.3.8",
+            "published_at": "2026-10-10T14:23:48Z",
+            "assets": [
+              {
+                "name": "ChaotixRecompiled-0.3.8-android.apk",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.8/ChaotixRecompiled-0.3.8-android.apk",
+                "size": 26102086
+              },
+              {
+                "name": "ChaotixRecompiled-0.3.8-windows-x64.zip",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.8/ChaotixRecompiled-0.3.8-windows-x64.zip",
+                "size": 8475490
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.3.7 - Non-ASCII paths, front menu and install message fixes",
+            "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/tag/v0.3.7",
+            "published_at": "2026-10-08T16:51:13Z",
+            "assets": [
+              {
+                "name": "ChaotixRecompiled-0.3.7-android.apk",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.7/ChaotixRecompiled-0.3.7-android.apk",
+                "size": 26098742
+              },
+              {
+                "name": "ChaotixRecompiled-0.3.7-windows-x64.zip",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.7/ChaotixRecompiled-0.3.7-windows-x64.zip",
+                "size": 8473679
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.3.6 - Widescreen, rendering and touch menu fixes",
+            "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/tag/v0.3.6",
+            "published_at": "2026-10-04T19:48:53Z",
+            "assets": [
+              {
+                "name": "ChaotixRecompiled-0.3.6-android.apk",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.6/ChaotixRecompiled-0.3.6-android.apk",
+                "size": 26077878
+              },
+              {
+                "name": "ChaotixRecompiled-0.3.6-windows-x64.zip",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.6/ChaotixRecompiled-0.3.6-windows-x64.zip",
+                "size": 8470715
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.3.5 - ROM import and startup recovery",
+            "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/tag/v0.3.5",
+            "published_at": "2026-09-28T04:10:44Z",
+            "assets": [
+              {
+                "name": "ChaotixRecompiled-0.3.5-android.apk",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.5/ChaotixRecompiled-0.3.5-android.apk",
+                "size": 26076226
+              },
+              {
+                "name": "ChaotixRecompiled-0.3.5-windows-x64.zip",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.5/ChaotixRecompiled-0.3.5-windows-x64.zip",
+                "size": 8721874
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.3.4 - Audio fixes",
+            "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/tag/v0.3.4",
+            "published_at": "2026-09-27T11:23:26Z",
+            "assets": [
+              {
+                "name": "ChaotixRecompiled-0.3.4-android.apk",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.4/ChaotixRecompiled-0.3.4-android.apk",
+                "size": 26073154
+              },
+              {
+                "name": "ChaotixRecompiled-0.3.4-windows-x64.zip",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.4/ChaotixRecompiled-0.3.4-windows-x64.zip",
+                "size": 8720794
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.3.3 - Frame pacing",
+            "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/tag/v0.3.3",
+            "published_at": "2026-09-27T03:06:37Z",
+            "assets": [
+              {
+                "name": "ChaotixRecompiled-0.3.3-android.apk",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.3/ChaotixRecompiled-0.3.3-android.apk",
+                "size": 26072674
+              },
+              {
+                "name": "ChaotixRecompiled-0.3.3-windows-x64.zip",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.3/ChaotixRecompiled-0.3.3-windows-x64.zip",
+                "size": 8720675
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.3.2 - Android ROM import",
+            "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/tag/v0.3.2",
+            "published_at": "2026-09-27T02:15:54Z",
+            "assets": [
+              {
+                "name": "ChaotixRecompiled-0.3.2-android.apk",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.2/ChaotixRecompiled-0.3.2-android.apk",
+                "size": 26072290
+              },
+              {
+                "name": "ChaotixRecompiled-0.3.2-windows-x64.zip",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.2/ChaotixRecompiled-0.3.2-windows-x64.zip",
+                "size": 8721909
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.3.1 - the time attack clock",
+            "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/tag/v0.3.1",
+            "published_at": "2026-09-26T16:37:22Z",
+            "assets": [
+              {
+                "name": "ChaotixRecompiled-0.3.1-android.apk",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.1/ChaotixRecompiled-0.3.1-android.apk",
+                "size": 26067970
+              },
+              {
+                "name": "ChaotixRecompiled-0.3.1-windows-x64.zip",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.1/ChaotixRecompiled-0.3.1-windows-x64.zip",
+                "size": 8498658
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.3.0 - a front end, and a time attack",
+            "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/tag/v0.3.0",
+            "published_at": "2026-09-26T15:43:07Z",
+            "assets": [
+              {
+                "name": "ChaotixRecompiled-0.3.0-android.apk",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.0/ChaotixRecompiled-0.3.0-android.apk",
+                "size": 26067202
+              },
+              {
+                "name": "ChaotixRecompiled-0.3.0-windows-x64.zip",
+                "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.0/ChaotixRecompiled-0.3.0-windows-x64.zip",
+                "size": 8498545
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -87,10 +397,117 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "ChaotixRecompiled-0.3.9-android-armeabi-v7a.apk",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.9/ChaotixRecompiled-0.3.9-android-armeabi-v7a.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.9-android.apk",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.9/ChaotixRecompiled-0.3.9-android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.9-windows-x64.zip",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.9/ChaotixRecompiled-0.3.9-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.8-android.apk",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.8/ChaotixRecompiled-0.3.8-android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.8-windows-x64.zip",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.8/ChaotixRecompiled-0.3.8-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.7-android.apk",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.7/ChaotixRecompiled-0.3.7-android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.7-windows-x64.zip",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.7/ChaotixRecompiled-0.3.7-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.6-android.apk",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.6/ChaotixRecompiled-0.3.6-android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.6-windows-x64.zip",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.6/ChaotixRecompiled-0.3.6-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.5-android.apk",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.5/ChaotixRecompiled-0.3.5-android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.5-windows-x64.zip",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.5/ChaotixRecompiled-0.3.5-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.4-android.apk",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.4/ChaotixRecompiled-0.3.4-android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.4-windows-x64.zip",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.4/ChaotixRecompiled-0.3.4-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.3-android.apk",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.3/ChaotixRecompiled-0.3.3-android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.3-windows-x64.zip",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.3/ChaotixRecompiled-0.3.3-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.2-android.apk",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.2/ChaotixRecompiled-0.3.2-android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.2-windows-x64.zip",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.2/ChaotixRecompiled-0.3.2-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.1-android.apk",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.1/ChaotixRecompiled-0.3.1-android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.1-windows-x64.zip",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.1/ChaotixRecompiled-0.3.1-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.0-android.apk",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.0/ChaotixRecompiled-0.3.0-android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ChaotixRecompiled-0.3.0-windows-x64.zip",
+          "url": "https://github.com/YuutaTsubasa/ChaotixRecompiled/releases/download/v0.3.0/ChaotixRecompiled-0.3.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ]
     },
     {
@@ -102,7 +519,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:27.640107+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:31:12.050464+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "The Legend of Zelda: The Wind Waker HD natively on Android (static recompilation, Vulkan). Built-in Brazilian Portuguese translation, HUD editor, .wua support, controller gyro, and more. Bring your own game.",
+        "latest_release_url": "https://github.com/Nycolazs/WindWakerHD-Android-Plus/releases/tag/v1.6",
+        "latest_release_name": "Plus v1.6 — 60 fps (generated), less GPU work, safer saves",
+        "release_assets": [
+          {
+            "name": "WindWakerHD-Android-Plus-v1.6.apk",
+            "url": "https://github.com/Nycolazs/WindWakerHD-Android-Plus/releases/download/v1.6/WindWakerHD-Android-Plus-v1.6.apk",
+            "size": 64334105
+          }
+        ],
+        "releases": [
+          {
+            "name": "Plus v1.6 — 60 fps (generated), less GPU work, safer saves",
+            "url": "https://github.com/Nycolazs/WindWakerHD-Android-Plus/releases/tag/v1.6",
+            "published_at": "2026-10-10T16:49:57Z",
+            "assets": [
+              {
+                "name": "WindWakerHD-Android-Plus-v1.6.apk",
+                "url": "https://github.com/Nycolazs/WindWakerHD-Android-Plus/releases/download/v1.6/WindWakerHD-Android-Plus-v1.6.apk",
+                "size": 64334105
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Plus v1.5 — Portuguese translation, HUD editor, controller gyro",
+            "url": "https://github.com/Nycolazs/WindWakerHD-Android-Plus/releases/tag/v1.5",
+            "published_at": "2026-10-09T14:02:42Z",
+            "assets": [
+              {
+                "name": "WindWakerHD-Android-Plus-v1.5.apk",
+                "url": "https://github.com/Nycolazs/WindWakerHD-Android-Plus/releases/download/v1.5/WindWakerHD-Android-Plus-v1.5.apk",
+                "size": 64283965
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -115,9 +584,21 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "WindWakerHD-Android-Plus-v1.6.apk",
+          "url": "https://github.com/Nycolazs/WindWakerHD-Android-Plus/releases/download/v1.6/WindWakerHD-Android-Plus-v1.6.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "WindWakerHD-Android-Plus-v1.5.apk",
+          "url": "https://github.com/Nycolazs/WindWakerHD-Android-Plus/releases/download/v1.5/WindWakerHD-Android-Plus-v1.5.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ]
     },
     {
@@ -129,7 +610,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:27.640089+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:31:13.686376+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Captain Toad Wii U EUR static recompilation prototype for Android ARM64. Not playable yet; bring your own game dump.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -156,7 +654,215 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:27.640043+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:31:15.194891+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "New Super Mario Bros. Wii running natively on Android and Windows: a static recompilation built on WiiCompiled. Bring your own game.",
+        "latest_release_url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/tag/v0.0.12",
+        "latest_release_name": "NSMBW 0.0.12: spinning coins everywhere, saves per game",
+        "release_assets": [
+          {
+            "name": "NSMBW-0.0.12-android-arm64.apk",
+            "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.12/NSMBW-0.0.12-android-arm64.apk",
+            "size": 132525676
+          },
+          {
+            "name": "NSMBW-0.0.12-windows-x64.zip",
+            "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.12/NSMBW-0.0.12-windows-x64.zip",
+            "size": 45081309
+          }
+        ],
+        "releases": [
+          {
+            "name": "NSMBW 0.0.12: spinning coins everywhere, saves per game",
+            "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/tag/v0.0.12",
+            "published_at": "2026-10-10T20:40:36Z",
+            "assets": [
+              {
+                "name": "NSMBW-0.0.12-android-arm64.apk",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.12/NSMBW-0.0.12-android-arm64.apk",
+                "size": 132525676
+              },
+              {
+                "name": "NSMBW-0.0.12-windows-x64.zip",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.12/NSMBW-0.0.12-windows-x64.zip",
+                "size": 45081309
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "NSMBW 0.0.11: performance fix (V-Sync and frame rate reverted)",
+            "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/tag/v0.0.11",
+            "published_at": "2026-10-10T18:49:01Z",
+            "assets": [
+              {
+                "name": "NSMBW-0.0.11-android-arm64.apk",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.11/NSMBW-0.0.11-android-arm64.apk",
+                "size": 132492908
+              },
+              {
+                "name": "NSMBW-0.0.11-windows-x64.zip",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.11/NSMBW-0.0.11-windows-x64.zip",
+                "size": 45058696
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "NSMBW 0.0.10: spinning coins, smoother frame pacing, clickable menus",
+            "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/tag/v0.0.10",
+            "published_at": "2026-10-09T07:32:39Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "NSMBW 0.0.9: World 5 slowdown fixed, settings on the start menu",
+            "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/tag/v0.0.9",
+            "published_at": "2026-10-09T00:03:18Z",
+            "assets": [
+              {
+                "name": "NSMBW-0.0.9-android-arm64.apk",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.9/NSMBW-0.0.9-android-arm64.apk",
+                "size": 132460140
+              },
+              {
+                "name": "NSMBW-0.0.9-windows-x64.zip",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.9/NSMBW-0.0.9-windows-x64.zip",
+                "size": 45042785
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "NSMBW 0.0.8: saves kept across updates, pause-menu settings, Esc for +",
+            "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/tag/v0.0.8",
+            "published_at": "2026-10-08T18:32:04Z",
+            "assets": [
+              {
+                "name": "NSMBW-0.0.8-android-arm64.apk",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.8/NSMBW-0.0.8-android-arm64.apk",
+                "size": 132443756
+              },
+              {
+                "name": "NSMBW-0.0.8-windows-x64.zip",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.8/NSMBW-0.0.8-windows-x64.zip",
+                "size": 45025515
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "NSMBW 0.0.7: real ultrawide, settings gear, rebindable keys",
+            "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/tag/v0.0.7",
+            "published_at": "2026-10-08T17:54:58Z",
+            "assets": [
+              {
+                "name": "NSMBW-0.0.7-android-arm64.apk",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.7/NSMBW-0.0.7-android-arm64.apk",
+                "size": 132427372
+              },
+              {
+                "name": "NSMBW-0.0.7-windows-x64.zip",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.7/NSMBW-0.0.7-windows-x64.zip",
+                "size": 45008535
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "NSMBW 0.0.6: tap the menus",
+            "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/tag/v0.0.6",
+            "published_at": "2026-10-08T11:11:55Z",
+            "assets": [
+              {
+                "name": "NSMBW-0.0.6-android-arm64.apk",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.6/NSMBW-0.0.6-android-arm64.apk",
+                "size": 132394600
+              },
+              {
+                "name": "NSMBW-0.0.6-windows-x64.zip",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.6/NSMBW-0.0.6-windows-x64.zip",
+                "size": 44965356
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "NSMBW 0.0.5: Couch / LAN button, app icon",
+            "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/tag/v0.0.5",
+            "published_at": "2026-10-08T10:36:43Z",
+            "assets": [
+              {
+                "name": "NSMBW-0.0.5-android-arm64.apk",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.5/NSMBW-0.0.5-android-arm64.apk",
+                "size": 132378220
+              },
+              {
+                "name": "NSMBW-0.0.5-windows-x64.zip",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.5/NSMBW-0.0.5-windows-x64.zip",
+                "size": 44956778
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "NSMBW 0.0.4: no more shader compiling every launch",
+            "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/tag/v0.0.4",
+            "published_at": "2026-10-08T07:51:06Z",
+            "assets": [
+              {
+                "name": "NSMBW-0.0.4-android-arm64.apk",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.4/NSMBW-0.0.4-android-arm64.apk",
+                "size": 132164992
+              },
+              {
+                "name": "NSMBW-0.0.4-windows-x64.zip",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.4/NSMBW-0.0.4-windows-x64.zip",
+                "size": 44836838
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "NSMBW 0.0.3: windows fixes",
+            "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/tag/v0.0.3",
+            "published_at": "2026-10-07T16:36:38Z",
+            "assets": [
+              {
+                "name": "NSMBW-0.0.3-android-arm64.apk",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.3/NSMBW-0.0.3-android-arm64.apk",
+                "size": 132045194
+              },
+              {
+                "name": "NSMBW-0.0.3-windows-x64.zip",
+                "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.3/NSMBW-0.0.3-windows-x64.zip",
+                "size": 44716688
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -172,10 +878,102 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "NSMBW-0.0.12-android-arm64.apk",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.12/NSMBW-0.0.12-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NSMBW-0.0.12-windows-x64.zip",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.12/NSMBW-0.0.12-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NSMBW-0.0.11-android-arm64.apk",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.11/NSMBW-0.0.11-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NSMBW-0.0.11-windows-x64.zip",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.11/NSMBW-0.0.11-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NSMBW-0.0.9-android-arm64.apk",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.9/NSMBW-0.0.9-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NSMBW-0.0.9-windows-x64.zip",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.9/NSMBW-0.0.9-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NSMBW-0.0.8-android-arm64.apk",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.8/NSMBW-0.0.8-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NSMBW-0.0.8-windows-x64.zip",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.8/NSMBW-0.0.8-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NSMBW-0.0.7-android-arm64.apk",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.7/NSMBW-0.0.7-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NSMBW-0.0.7-windows-x64.zip",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.7/NSMBW-0.0.7-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NSMBW-0.0.6-android-arm64.apk",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.6/NSMBW-0.0.6-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NSMBW-0.0.6-windows-x64.zip",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.6/NSMBW-0.0.6-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NSMBW-0.0.5-android-arm64.apk",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.5/NSMBW-0.0.5-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NSMBW-0.0.5-windows-x64.zip",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.5/NSMBW-0.0.5-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NSMBW-0.0.4-android-arm64.apk",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.4/NSMBW-0.0.4-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NSMBW-0.0.4-windows-x64.zip",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.4/NSMBW-0.0.4-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NSMBW-0.0.3-android-arm64.apk",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.3/NSMBW-0.0.3-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NSMBW-0.0.3-windows-x64.zip",
+          "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/download/v0.0.3/NSMBW-0.0.3-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ]
     },
     {
@@ -187,7 +985,226 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:26.214552+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:31:16.865621+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "bliss-x64",
+        "description": "GameNative ported to x86_64 (bionic) for Bass:Lineout / Bliss OS / Android-x86 / Googlebook devices - Proton/Wine gaming with Mesa ANV/RADV/lavapipe Vulkan",
+        "latest_release_url": "https://github.com/Bliss-Bass/GameNative-x64/releases/tag/v1.2.0-x64.22",
+        "latest_release_name": "v1.2.0-x64.22",
+        "release_assets": [
+          {
+            "name": "app-modernX64-debug.apk",
+            "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.22/app-modernX64-debug.apk",
+            "size": 279992362
+          },
+          {
+            "name": "app-modernX64-release.apk",
+            "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.22/app-modernX64-release.apk",
+            "size": 250256605
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.2.0-x64.22",
+            "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/tag/v1.2.0-x64.22",
+            "published_at": "2026-10-09T22:09:12Z",
+            "assets": [
+              {
+                "name": "app-modernX64-debug.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.22/app-modernX64-debug.apk",
+                "size": 279992362
+              },
+              {
+                "name": "app-modernX64-release.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.22/app-modernX64-release.apk",
+                "size": 250256605
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.2.0-x64.21",
+            "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/tag/v1.2.0-x64.21",
+            "published_at": "2026-10-09T20:48:50Z",
+            "assets": [
+              {
+                "name": "app-modernX64-debug.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.21/app-modernX64-debug.apk",
+                "size": 279893098
+              },
+              {
+                "name": "app-modernX64-release.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.21/app-modernX64-release.apk",
+                "size": 250187953
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.2.0-x64.20",
+            "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/tag/v1.2.0-x64.20",
+            "published_at": "2026-10-07T16:09:45Z",
+            "assets": [
+              {
+                "name": "app-modernX64-debug.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.20/app-modernX64-debug.apk",
+                "size": 279880082
+              },
+              {
+                "name": "app-modernX64-release.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.20/app-modernX64-release.apk",
+                "size": 250176093
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.2.0-x64.19",
+            "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/tag/v1.2.0-x64.19",
+            "published_at": "2026-10-07T15:44:22Z",
+            "assets": [
+              {
+                "name": "app-modernX64-debug.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.19/app-modernX64-debug.apk",
+                "size": 279878542
+              },
+              {
+                "name": "app-modernX64-release.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.19/app-modernX64-release.apk",
+                "size": 250174909
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.2.0-x64.18",
+            "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/tag/v1.2.0-x64.18",
+            "published_at": "2026-10-05T15:27:00Z",
+            "assets": [
+              {
+                "name": "app-modernX64-debug.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.18/app-modernX64-debug.apk",
+                "size": 279858650
+              },
+              {
+                "name": "app-modernX64-release.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.18/app-modernX64-release.apk",
+                "size": 250161329
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.2.0-x64.17",
+            "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/tag/v1.2.0-x64.17",
+            "published_at": "2026-09-29T23:40:58Z",
+            "assets": [
+              {
+                "name": "app-modernX64-debug.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.17/app-modernX64-debug.apk",
+                "size": 279858106
+              },
+              {
+                "name": "app-modernX64-release.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.17/app-modernX64-release.apk",
+                "size": 250160733
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.2.0-x64.16",
+            "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/tag/v1.2.0-x64.16",
+            "published_at": "2026-09-27T17:49:33Z",
+            "assets": [
+              {
+                "name": "app-modernX64-debug.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.16/app-modernX64-debug.apk",
+                "size": 279733286
+              },
+              {
+                "name": "app-modernX64-release.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.16/app-modernX64-release.apk",
+                "size": 250068013
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.2.0-x64.15",
+            "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/tag/v1.2.0-x64.15",
+            "published_at": "2026-09-24T01:00:59Z",
+            "assets": [
+              {
+                "name": "app-modernX64-debug.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.15/app-modernX64-debug.apk",
+                "size": 279611738
+              },
+              {
+                "name": "app-modernX64-release.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.15/app-modernX64-release.apk",
+                "size": 249980457
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.2.0-x64.14",
+            "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/tag/v1.2.0-x64.14",
+            "published_at": "2026-09-23T16:16:33Z",
+            "assets": [
+              {
+                "name": "app-modernX64-debug.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.14/app-modernX64-debug.apk",
+                "size": 279190110
+              },
+              {
+                "name": "app-modernX64-release.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.14/app-modernX64-release.apk",
+                "size": 249558705
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.2.0-x64.13",
+            "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/tag/v1.2.0-x64.13",
+            "published_at": "2026-09-16T04:46:42Z",
+            "assets": [
+              {
+                "name": "app-modernX64-debug.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.13/app-modernX64-debug.apk",
+                "size": 279570902
+              },
+              {
+                "name": "app-modernX64-release.apk",
+                "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.13/app-modernX64-release.apk",
+                "size": 249946765
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -200,9 +1217,111 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "app-modernX64-debug.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.22/app-modernX64-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-release.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.22/app-modernX64-release.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-debug.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.21/app-modernX64-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-release.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.21/app-modernX64-release.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-debug.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.20/app-modernX64-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-release.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.20/app-modernX64-release.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-debug.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.19/app-modernX64-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-release.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.19/app-modernX64-release.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-debug.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.18/app-modernX64-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-release.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.18/app-modernX64-release.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-debug.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.17/app-modernX64-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-release.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.17/app-modernX64-release.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-debug.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.16/app-modernX64-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-release.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.16/app-modernX64-release.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-debug.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.15/app-modernX64-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-release.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.15/app-modernX64-release.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-debug.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.14/app-modernX64-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-release.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.14/app-modernX64-release.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-debug.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.13/app-modernX64-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "app-modernX64-release.apk",
+          "url": "https://github.com/Bliss-Bass/GameNative-x64/releases/download/v1.2.0-x64.13/app-modernX64-release.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ]
     },
     {
@@ -214,7 +1333,146 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:24.455349+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:31:18.707778+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Discover, install, update, and launch native game recompilations and PC ports. A customizable C# and Avalonia launcher for Windows, Linux, and macOS.",
+        "latest_release_url": "https://github.com/Spicywonda/WLauncher/releases/tag/v2.0.0",
+        "latest_release_name": "WLauncher 2.0.0",
+        "release_assets": [
+          {
+            "name": "WLauncher-Linux-ARM64.tar.gz",
+            "url": "https://github.com/Spicywonda/WLauncher/releases/download/v2.0.0/WLauncher-Linux-ARM64.tar.gz",
+            "size": 41910967
+          },
+          {
+            "name": "WLauncher-Linux-x64.tar.gz",
+            "url": "https://github.com/Spicywonda/WLauncher/releases/download/v2.0.0/WLauncher-Linux-x64.tar.gz",
+            "size": 46656061
+          },
+          {
+            "name": "WLauncher-macOS-x64.zip",
+            "url": "https://github.com/Spicywonda/WLauncher/releases/download/v2.0.0/WLauncher-macOS-x64.zip",
+            "size": 48178809
+          },
+          {
+            "name": "WLauncher-Windows-x64.zip",
+            "url": "https://github.com/Spicywonda/WLauncher/releases/download/v2.0.0/WLauncher-Windows-x64.zip",
+            "size": 46439878
+          }
+        ],
+        "releases": [
+          {
+            "name": "WLauncher 2.0.0",
+            "url": "https://github.com/Spicywonda/WLauncher/releases/tag/v2.0.0",
+            "published_at": "2026-09-13T17:37:39Z",
+            "assets": [
+              {
+                "name": "WLauncher-Linux-ARM64.tar.gz",
+                "url": "https://github.com/Spicywonda/WLauncher/releases/download/v2.0.0/WLauncher-Linux-ARM64.tar.gz",
+                "size": 41910967
+              },
+              {
+                "name": "WLauncher-Linux-x64.tar.gz",
+                "url": "https://github.com/Spicywonda/WLauncher/releases/download/v2.0.0/WLauncher-Linux-x64.tar.gz",
+                "size": 46656061
+              },
+              {
+                "name": "WLauncher-macOS-x64.zip",
+                "url": "https://github.com/Spicywonda/WLauncher/releases/download/v2.0.0/WLauncher-macOS-x64.zip",
+                "size": 48178809
+              },
+              {
+                "name": "WLauncher-Windows-x64.zip",
+                "url": "https://github.com/Spicywonda/WLauncher/releases/download/v2.0.0/WLauncher-Windows-x64.zip",
+                "size": 46439878
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0.13",
+            "url": "https://github.com/Spicywonda/WLauncher/releases/tag/v1.0.13",
+            "published_at": "2026-07-21T07:42:55Z",
+            "assets": [
+              {
+                "name": "WLauncher-Linux-ARM64.tar.gz",
+                "url": "https://github.com/Spicywonda/WLauncher/releases/download/v1.0.13/WLauncher-Linux-ARM64.tar.gz",
+                "size": 41904203
+              },
+              {
+                "name": "WLauncher-Linux-x64.tar.gz",
+                "url": "https://github.com/Spicywonda/WLauncher/releases/download/v1.0.13/WLauncher-Linux-x64.tar.gz",
+                "size": 46646407
+              },
+              {
+                "name": "WLauncher-macOS-x64.zip",
+                "url": "https://github.com/Spicywonda/WLauncher/releases/download/v1.0.13/WLauncher-macOS-x64.zip",
+                "size": 48177803
+              },
+              {
+                "name": "WLauncher-Windows-x64.zip",
+                "url": "https://github.com/Spicywonda/WLauncher/releases/download/v1.0.13/WLauncher-Windows-x64.zip",
+                "size": 46432057
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "1.0.12",
+            "url": "https://github.com/Spicywonda/WLauncher/releases/tag/1.0.12",
+            "published_at": "2026-07-03T12:39:41Z",
+            "assets": [
+              {
+                "name": "WLauncher.zip",
+                "url": "https://github.com/Spicywonda/WLauncher/releases/download/1.0.12/WLauncher.zip",
+                "size": 46039664
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "1.0.11",
+            "url": "https://github.com/Spicywonda/WLauncher/releases/tag/1.0.11",
+            "published_at": "2026-07-01T20:03:43Z",
+            "assets": [
+              {
+                "name": "WLauncher.zip",
+                "url": "https://github.com/Spicywonda/WLauncher/releases/download/1.0.11/WLauncher.zip",
+                "size": 45962029
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "1.0.10",
+            "url": "https://github.com/Spicywonda/WLauncher/releases/tag/1.0.10",
+            "published_at": "2026-06-30T15:50:06Z",
+            "assets": [
+              {
+                "name": "WLauncher.zip",
+                "url": "https://github.com/Spicywonda/WLauncher/releases/download/1.0.10/WLauncher.zip",
+                "size": 45410940
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -229,9 +1487,66 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "WLauncher-Linux-ARM64.tar.gz",
+          "url": "https://github.com/Spicywonda/WLauncher/releases/download/v2.0.0/WLauncher-Linux-ARM64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "WLauncher-Linux-x64.tar.gz",
+          "url": "https://github.com/Spicywonda/WLauncher/releases/download/v2.0.0/WLauncher-Linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "WLauncher-macOS-x64.zip",
+          "url": "https://github.com/Spicywonda/WLauncher/releases/download/v2.0.0/WLauncher-macOS-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "WLauncher-Windows-x64.zip",
+          "url": "https://github.com/Spicywonda/WLauncher/releases/download/v2.0.0/WLauncher-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "WLauncher-Linux-ARM64.tar.gz",
+          "url": "https://github.com/Spicywonda/WLauncher/releases/download/v1.0.13/WLauncher-Linux-ARM64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "WLauncher-Linux-x64.tar.gz",
+          "url": "https://github.com/Spicywonda/WLauncher/releases/download/v1.0.13/WLauncher-Linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "WLauncher-macOS-x64.zip",
+          "url": "https://github.com/Spicywonda/WLauncher/releases/download/v1.0.13/WLauncher-macOS-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "WLauncher-Windows-x64.zip",
+          "url": "https://github.com/Spicywonda/WLauncher/releases/download/v1.0.13/WLauncher-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "WLauncher.zip",
+          "url": "https://github.com/Spicywonda/WLauncher/releases/download/1.0.12/WLauncher.zip",
+          "type": "archive"
+        },
+        {
+          "name": "WLauncher.zip",
+          "url": "https://github.com/Spicywonda/WLauncher/releases/download/1.0.11/WLauncher.zip",
+          "type": "archive"
+        },
+        {
+          "name": "WLauncher.zip",
+          "url": "https://github.com/Spicywonda/WLauncher/releases/download/1.0.10/WLauncher.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ]
     },
     {
