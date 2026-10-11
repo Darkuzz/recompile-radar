@@ -124,6 +124,21 @@ EXCLUDE_TERMS = (
 # но сами по себе не являются основанием добавить новый проект.
 KEYWORDS = STRONG_PROJECT_TERMS
 
+
+def contains_term(text, term):
+    """Ищет целое слово/фразу, а не случайную подстроку (например, port в support)."""
+    text = str(text or "").lower()
+    term = str(term or "").lower().strip()
+    if not term:
+        return False
+    # Эти основы намеренно распознают разные формы слов: recompilation, decompiled и т. п.
+    if term in ("recompil", "decompil"):
+        return re.search(r"\b" + re.escape(term) + r"[a-z]*\b", text) is not None
+    return re.search(
+        r"(?<![a-z0-9])" + re.escape(term) + r"(?![a-z0-9])",
+        text,
+    ) is not None
+
 BROWSER_TERMS = (
     "browser", "webassembly", "webgl", "html5",
     "play in browser", "playable in browser",
@@ -346,7 +361,7 @@ def relevance_assessment(item):
     # для более гибких проверок формулировок вроде "port ... to WebGL".
     normalized = re.sub(r"[^a-z0-9+#]+", " ", project_text)
 
-    strong_hits = [term for term in STRONG_PROJECT_TERMS if term in project_text]
+    strong_hits = [term for term in STRONG_PROJECT_TERMS if contains_term(project_text, term)]
     explicit_port_patterns = (
         r"\bport(?:ed|ing)?\s+(?:or|of|the|an?)\b.{0,100}\b(?:game|webgl|webassembly|wasm|browser|html5)\b",
         r"\bport(?:ed|ing)?\b.{0,100}\bto\s+(?:webgl|webassembly|wasm|the browser|browser|html5)\b",
@@ -357,8 +372,8 @@ def relevance_assessment(item):
     if explicit_port and "explicit port/recompilation wording" not in strong_hits:
         strong_hits.append("explicit port/recompilation wording")
 
-    support_hits = [term for term in SUPPORTING_TERMS if term in project_text]
-    exclude_hits = [term for term in EXCLUDE_TERMS if term in context_text]
+    support_hits = [term for term in SUPPORTING_TERMS if contains_term(project_text, term)]
+    exclude_hits = [term for term in EXCLUDE_TERMS if contains_term(context_text, term)]
 
     score = 0
     reasons = []
@@ -370,11 +385,11 @@ def relevance_assessment(item):
         score += min(3, len(support_hits))
         reasons.append("Есть игровые/платформенные признаки: " + ", ".join(support_hits[:5]))
 
-    source_port_hint = any(term in source_name.lower() for term in (
+    source_port_hint = any(contains_term(source_name, term) for term in (
         "browser ports", "webgl ports", "source ports", "pc ports",
         "android ports", "static recompilation", "android recompilation",
     ))
-    game_context = any(term in project_text for term in (
+    game_context = any(contains_term(project_text, term) for term in (
         "game", "gameplay", "original game", "rom", "recompil",
         "decompil", "source port", "game port", "webgl port",
     ))
@@ -382,10 +397,25 @@ def relevance_assessment(item):
         score += 2
         reasons.append("Источник специализируется на портах; требуется проверить сам проект")
 
+    # Веб-технология сама по себе не доказывает наличие порта.
     generic_web_only = (
-        any(term in project_text for term in ("webgl", "webassembly", "wasm", "html5"))
+        any(contains_term(project_text, term) for term in ("webgl", "webassembly", "wasm", "html5"))
         and not strong_hits
     )
+
+    # Иногда описание явно говорит, что игра запускается в браузере,
+    # но не использует слово port. Оставляем такие проекты на ручную проверку.
+    browser_game_context = (
+        contains_term(project_text, "game")
+        and any(phrase in normalized for phrase in (
+            "in the browser", "play in browser", "playable in browser",
+            "browser version", "browser game",
+        ))
+        and any(contains_term(project_text, term) for term in ("webassembly", "wasm", "webgl", "html5", "browser"))
+    )
+    if browser_game_context and not strong_hits:
+        score += 2
+        reasons.append("Описание указывает на игру в браузере; требуется ручная проверка способа переноса")
     if generic_web_only:
         reasons.append("Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено")
 
@@ -402,7 +432,7 @@ def relevance_assessment(item):
         status = "likely_irrelevant"
     elif strong_hits and score >= 5:
         status = "promising"
-    elif strong_hits or (source_port_hint and game_context):
+    elif strong_hits or (source_port_hint and game_context) or browser_game_context:
         status = "possible"
     elif score <= -4:
         status = "likely_irrelevant"
@@ -886,11 +916,14 @@ def sync_review_queue(candidates, queue_file):
             and not current.get("manual_notes", "").strip()
         ):
             current["review_status"] = "filtered"
+            current["review_status_origin"] = "auto"
         elif (
             current.get("relevance_status") != "likely_irrelevant"
             and current.get("review_status") == "filtered"
+            and current.get("review_status_origin") == "auto"
         ):
             current["review_status"] = "pending"
+            current.pop("review_status_origin", None)
 
     # Не удаляем элементы, которых больше нет в candidates.json:
     # они могли быть вручную отмечены или временно отсутствовать.
