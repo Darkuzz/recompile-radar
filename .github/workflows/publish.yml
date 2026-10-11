@@ -1,4 +1,3 @@
-```yaml
 name: RecompileRadar Collector
 
 on:
@@ -68,4 +67,3 @@ jobs:
           git add data/candidates.json data/published.json
           git diff --cached --quiet || git commit -m "Update RecompileRadar database"
           git push
-```
