@@ -64,6 +64,10 @@ jobs:
             printf '{\n  "schema_version": 1,\n  "published_ids": []\n}\n' > data/published.json
           fi
 
-          git add data/candidates.json data/published.json
+          if [ ! -f data/review_queue.json ]; then
+            printf '{\n  "schema_version": 1,\n  "last_updated": null,\n  "items": []\n}\n' > data/review_queue.json
+          fi
+
+          git add data/candidates.json data/published.json data/review_queue.json
           git diff --cached --quiet || git commit -m "Update RecompileRadar database"
           git push
