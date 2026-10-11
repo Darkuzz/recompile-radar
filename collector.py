@@ -15,48 +15,118 @@ DATA_DIR = ROOT / "data"
 GAMES_FILE = DATA_DIR / "games.json"
 CANDIDATES_FILE = DATA_DIR / "candidates.json"
 
-USER_AGENT = "RecompileRadar/0.2 (public game project discovery)"
+USER_AGENT = "RecompileRadar/0.2 (public game-port discovery)"
 TIMEOUT = 25
 MAX_ITEMS_PER_SOURCE = 50
-REQUEST_DELAY = 2
 
-KEYWORDS = (
-    "recompil", "decompil", "source port", "source-port",
-    "browser port", "web port", "webassembly", "wasm",
-    "webgl", "play in browser", "playable in browser",
-    "html5 game", "game engine port", "reverse engineering",
-    "open source game", "classic game", "port of",
-    "liberation", "reimplementation", "game remake",
-    "playable", "dos game", "game port",
-)
-
-# GitHub Search API возвращает JSON, а не Atom/XML.
-# Остальные источники используют RSS/Atom.
+# Ищем рекомпиляции, порты классических игр и браузерные версии.
 SOURCES = [
     {
         "name": "GamingOnLinux",
-        "type": "feed",
         "url": "https://www.gamingonlinux.com/article_rss.php",
     },
     {
         "name": "GitHub: browser ports",
-        "type": "github",
-        "url": "https://api.github.com/search/repositories?"
-               "q=game+browser+port&sort=updated&order=desc&per_page=50",
+        "url": "https://github.com/search.atom?q=game+browser+port&type=repositories",
     },
     {
         "name": "GitHub: WebAssembly games",
-        "type": "github",
-        "url": "https://api.github.com/search/repositories?"
-               "q=game+WebAssembly&sort=updated&order=desc&per_page=50",
+        "url": "https://github.com/search.atom?q=game+WebAssembly+OR+wasm&type=repositories",
     },
     {
         "name": "GitHub: source ports",
-        "type": "github",
-        "url": "https://api.github.com/search/repositories?"
-               "q=game+source+port&sort=updated&order=desc&per_page=50",
+        "url": "https://github.com/search.atom?q=game+source+port&type=repositories",
+    },
+    {
+        "name": "GitHub: static recompilation",
+        "url": "https://github.com/search.atom?q=game+recompilation&type=repositories",
+    },
+    {
+        "name": "GitHub: Android game ports",
+        "url": "https://github.com/search.atom?q=game+port+android&type=repositories",
     },
 ]
+
+# Сильные признаки нужного проекта.
+POSITIVE_PATTERNS = [
+    r"\bstatic recompil",
+    r"\bstatic re-compil",
+    r"\bdecompil(?:ation|ed|ing)?\b",
+    r"\brecompil(?:ation|ed|ing)?\b",
+    r"\bsource port\b",
+    r"\bsource-port\b",
+    r"\bgame port\b",
+    r"\bport of\b",
+    r"\bport to (?:android|windows|linux|web|browser)\b",
+    r"\bweb port\b",
+    r"\bbrowser port\b",
+    r"\bplay(?:able)? in (?:the )?browser\b",
+    r"\bwebassembly\b",
+    r"\bwasm\b",
+    r"\bwebgl\b",
+    r"\bhtml5 game\b",
+    r"\bgame preservation\b",
+    r"\bopen[- ]source port\b",
+    r"\bport of the original game\b",
+    r"\b(?:android|windows|linux) port of\b",
+]
+
+# Признаки, что репозиторий, вероятно, не является портом самой игры.
+# Исключаем его только при отсутствии сильных игровых признаков.
+NOISE_PATTERNS = [
+    r"\bportfolio\b",
+    r"\bgamebanfix\b",
+    r"\bmetamod\b",
+    r"\bplugin(?:s)?\b",
+    r"\btheme for\b",
+    r"\bawesome[- ]list\b",
+    r"\bcollection of tools\b",
+    r"\bporting toolkit\b",
+    r"\bgame porting tool(?:kit)?\b",
+    r"\bport any .* source code\b",
+    r"\bsource code samples\b",
+]
+
+# Эти платформы сами по себе не являются нашей основной целью.
+# Не исключаем проект, если он также поддерживает PC, Android или браузер.
+EXCLUSIVE_PLATFORM_PATTERNS = [
+    r"\b(?:ios|iphone|ipad|vision pro)\b",
+    r"\bplaystation vita\b",
+    r"\bps vita\b",
+    r"\baltstore\b",
+    r"\bsidestore\b",
+]
+
+BROWSER_PATTERNS = [
+    r"\bbrowser\b",
+    r"\bwebassembly\b",
+    r"\bwasm\b",
+    r"\bwebgl\b",
+    r"\bhtml5\b",
+    r"\bplay(?:able)? in (?:the )?browser\b",
+    r"\bweb port\b",
+]
+
+ANDROID_PATTERNS = [
+    r"\bandroid\b",
+    r"\bapk\b",
+]
+
+PC_PATTERNS = [
+    r"\bwindows\b",
+    r"\blinux\b",
+    r"\bdesktop\b",
+    r"\bpc\b",
+    r"\bwin32\b",
+]
+
+USER_AGENT_HEADERS = {
+    "User-Agent": USER_AGENT,
+    "Accept": (
+        "application/atom+xml, application/rss+xml, "
+        "application/xml, text/xml"
+    ),
+}
 
 
 def clean_text(value):
@@ -65,19 +135,8 @@ def clean_text(value):
     return re.sub(r"\s+", " ", value).strip()
 
 
-def fetch_url(url, source_type="feed"):
-    headers = {
-        "User-Agent": USER_AGENT,
-        "Accept": (
-            "application/vnd.github+json"
-            if source_type == "github"
-            else "application/atom+xml, application/rss+xml, "
-                 "application/xml, text/xml"
-        ),
-    }
-
-    request = urllib.request.Request(url, headers=headers)
-
+def fetch_url(url):
+    request = urllib.request.Request(url, headers=USER_AGENT_HEADERS)
     with urllib.request.urlopen(request, timeout=TIMEOUT) as response:
         return response.read()
 
@@ -89,23 +148,33 @@ def local_name(tag):
 def child_text(element, names):
     for child in element.iter():
         if local_name(child.tag) in names and child.text:
-            text = clean_text(child.text)
-            if text:
-                return text
+            value = clean_text(child.text)
+            if value:
+                return value
     return ""
 
 
 def entry_link(entry):
+    links = []
+
     for child in entry:
-        if local_name(child.tag) == "link":
-            href = child.attrib.get("href")
-            if href:
-                return href.strip()
+        if local_name(child.tag) != "link":
+            continue
 
-            if child.text:
-                return child.text.strip()
+        href = child.attrib.get("href")
+        rel = child.attrib.get("rel", "alternate")
 
-    return ""
+        if href:
+            links.append((rel, href.strip()))
+        elif child.text:
+            links.append((rel, child.text.strip()))
+
+    # Для Atom предпочитаем ссылку на сам проект.
+    for rel, href in links:
+        if rel == "alternate":
+            return href
+
+    return links[0][1] if links else ""
 
 
 def parse_feed(xml_data):
@@ -117,21 +186,23 @@ def parse_feed(xml_data):
             continue
 
         title = child_text(element, {"title"})
-        link = entry_link(element)
+        url = entry_link(element)
+
         summary = child_text(
             element,
             {"description", "summary", "content", "encoded"},
         )
+
         published = child_text(
             element,
             {"pubdate", "published", "updated", "date"},
         )
 
-        if title and link:
+        if title and url:
             entries.append({
                 "title": title,
-                "url": link,
-                "summary": summary[:1500],
+                "url": url,
+                "summary": summary[:2000],
                 "published": published,
             })
 
@@ -141,36 +212,102 @@ def parse_feed(xml_data):
     return entries
 
 
-def parse_github(data):
-    payload = json.loads(data.decode("utf-8"))
-    entries = []
-
-    for repo in payload.get("items", [])[:MAX_ITEMS_PER_SOURCE]:
-        title = clean_text(repo.get("full_name", ""))
-        description = clean_text(repo.get("description", ""))
-
-        if not title or not repo.get("html_url"):
-            continue
-
-        topics = repo.get("topics", [])
-        summary = description
-
-        if topics:
-            summary += " Topics: " + ", ".join(topics)
-
-        entries.append({
-            "title": title,
-            "url": repo["html_url"],
-            "summary": summary[:1500],
-            "published": repo.get("updated_at", ""),
-        })
-
-    return entries
+def matches_any(text, patterns):
+    return any(re.search(pattern, text, re.IGNORECASE) for pattern in patterns)
 
 
-def matches_keywords(item):
+def classify_platforms(text):
+    platforms = []
+
+    if matches_any(text, BROWSER_PATTERNS):
+        platforms.append("browser")
+
+    if matches_any(text, ANDROID_PATTERNS):
+        platforms.append("android")
+
+    if matches_any(text, PC_PATTERNS):
+        platforms.append("pc")
+
+    return platforms
+
+
+def is_relevant(item):
+    title = item.get("title", "")
+    summary = item.get("summary", "")
+    url = item.get("url", "")
+
+    text = f"{title} {summary} {url}".lower()
+
+    # Требуем явный признак рекомпиляции, порта или браузерной версии.
+    if not matches_any(text, POSITIVE_PATTERNS):
+        return False
+
+    # Отсекаем инструменты, плагины и портфолио,
+    # если они не имеют более конкретного признака игрового порта.
+    if matches_any(text, NOISE_PATTERNS):
+        strong_game_port = any(
+            phrase in text
+            for phrase in (
+                "source port of ",
+                "port of the ",
+                "browser port",
+                "web port of ",
+                "static recompilation",
+                "static recomp of ",
+                "native android port of ",
+                "native windows port of ",
+            )
+        )
+        if not strong_game_port:
+            return False
+
+    # Не берем проект только для неподдерживаемой нами платформы.
+    platforms = classify_platforms(text)
+    if (
+        matches_any(text, EXCLUSIVE_PLATFORM_PATTERNS)
+        and not any(p in platforms for p in ("pc", "android", "browser"))
+    ):
+        return False
+
+    return True
+
+
+def detect_browser_playable(item):
     text = f"{item.get('title', '')} {item.get('summary', '')}".lower()
-    return any(keyword in text for keyword in KEYWORDS)
+
+    # Наличие веб-порта не всегда означает готовую игру в браузере.
+    if re.search(
+        r"\bplay(?:able)? in (?:the )?browser\b|"
+        r"\bplay online\b|"
+        r"\bplay:\s*https?://",
+        text,
+    ):
+        return "possible"
+
+    if matches_any(text, BROWSER_PATTERNS):
+        return "unknown"
+
+    return "no_evidence"
+
+
+def normalise_url(url):
+    url = (url or "").strip()
+    if not url:
+        return ""
+
+    parts = urllib.parse.urlsplit(url)
+    if parts.scheme not in ("http", "https"):
+        return url.rstrip("/")
+
+    # Убираем завершающий слеш и фрагмент страницы.
+    # Остальные параметры сохраняем, чтобы не объединить разные ссылки.
+    return urllib.parse.urlunsplit((
+        parts.scheme.lower(),
+        parts.netloc.lower(),
+        parts.path.rstrip("/"),
+        parts.query,
+        "",
+    ))
 
 
 def load_json(path, default):
@@ -191,51 +328,6 @@ def load_json(path, default):
     return data
 
 
-def normalise_url(url):
-    url = (url or "").strip()
-
-    if not url:
-        return ""
-
-    try:
-        parsed = urllib.parse.urlsplit(url)
-        scheme = parsed.scheme.lower()
-        host = (parsed.hostname or "").lower()
-
-        if not scheme or not host:
-            return url.rstrip("/")
-
-        port = parsed.port
-        netloc = host
-
-        if port and not (
-            (scheme == "https" and port == 443)
-            or (scheme == "http" and port == 80)
-        ):
-            netloc = f"{host}:{port}"
-
-        path = parsed.path.rstrip("/")
-
-        # Удаляем только типичные tracking-параметры.
-        query_items = urllib.parse.parse_qsl(
-            parsed.query,
-            keep_blank_values=True,
-        )
-        query_items = [
-            (key, value)
-            for key, value in query_items
-            if not key.lower().startswith("utm_")
-            and key.lower() not in {"ref", "fbclid"}
-        ]
-        query = urllib.parse.urlencode(query_items)
-
-        return urllib.parse.urlunsplit(
-            (scheme, netloc, path, query, "")
-        )
-    except (ValueError, TypeError):
-        return url.rstrip("/")
-
-
 def main():
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -247,7 +339,7 @@ def main():
 
     if not isinstance(candidates_data.get("candidates"), list):
         raise RuntimeError(
-            "Поле candidates в candidates.json должно быть списком"
+            "В candidates.json поле candidates должно быть списком"
         )
 
     known = {
@@ -256,60 +348,54 @@ def main():
         if isinstance(item, dict) and item.get("url")
     }
 
-    # games.json используется только для проверки дублей.
-    # Сборщик не изменяет проверенную базу игр.
+    # Проверенную базу игр не изменяем.
     games_data = load_json(GAMES_FILE, {"games": []})
-    games = games_data.get("games", [])
-
-    if not isinstance(games, list):
-        raise RuntimeError("Поле games в games.json должно быть списком")
-
     known_games = set()
 
-    for game in games:
-        if not isinstance(game, dict):
+    for item in games_data.get("games", []):
+        if not isinstance(item, dict):
             continue
 
         for field in ("source_url", "build_url"):
-            value = normalise_url(game.get(field, ""))
-            if value:
-                known_games.add(value)
+            if item.get(field):
+                known_games.add(normalise_url(item[field]))
 
     added = 0
     errors = []
 
-    for index, source in enumerate(SOURCES):
+    for source in SOURCES:
         try:
-            raw_data = fetch_url(source["url"], source["type"])
-
-            if source["type"] == "github":
-                entries = parse_github(raw_data)
-            else:
-                entries = parse_feed(raw_data)
-
-            print(
-                f"{source['name']}: получено записей — {len(entries)}"
-            )
-
+            entries = parse_feed(fetch_url(source["url"]))
             source_added = 0
 
+            print(
+                f"{source['name']}: "
+                f"получено записей — {len(entries)}"
+            )
+
             for entry in entries:
-                url = normalise_url(entry.get("url", ""))
+                url = normalise_url(entry["url"])
 
                 if not url or url in known or url in known_games:
                     continue
 
-                if not matches_keywords(entry):
+                if not is_relevant(entry):
                     continue
+
+                text = (
+                    f"{entry.get('title', '')} "
+                    f"{entry.get('summary', '')}"
+                )
 
                 candidate = {
                     "title": entry["title"],
                     "url": entry["url"],
                     "source_name": source["name"],
-                    "published": entry.get("published", ""),
-                    "summary": entry.get("summary", ""),
+                    "published": entry["published"],
+                    "summary": entry["summary"],
                     "status": "unverified",
-                    "browser_playable": "unknown",
+                    "browser_playable": detect_browser_playable(entry),
+                    "platforms": classify_platforms(text),
                     "found_at": datetime.now(timezone.utc).isoformat(),
                 }
 
@@ -319,72 +405,45 @@ def main():
                 source_added += 1
 
             print(
-                f"{source['name']}: новых кандидатов — {source_added}"
+                f"{source['name']}: "
+                f"новых кандидатов — {source_added}"
             )
 
-        except urllib.error.HTTPError as error:
-            details = error.read().decode("utf-8", errors="replace")
-            details = clean_text(details)[:500]
-
-            if error.code == 403 and "rate limit" in details.lower():
-                reason = "GitHub API: достигнут лимит запросов"
-            elif error.code == 406:
-                reason = "HTTP 406: сервер отклонил формат запроса"
-            else:
-                reason = f"HTTP {error.code}: {details or error.reason}"
-
-            message = f"{source['name']}: {reason}"
-            errors.append(message)
-            print(f"ОШИБКА источника: {message}")
+            # Не перегружаем внешние сайты частыми запросами.
+            time.sleep(1)
 
         except (
             urllib.error.URLError,
             TimeoutError,
             ET.ParseError,
-            json.JSONDecodeError,
             OSError,
         ) as error:
-            message = f"{source['name']}: {type(error).__name__}: {error}"
+            message = f"{source['name']}: {error}"
             errors.append(message)
             print(f"ОШИБКА источника: {message}")
 
         except Exception as error:
             message = (
-                f"{source['name']}: {type(error).__name__}: {error}"
+                f"{source['name']}: "
+                f"{type(error).__name__}: {error}"
             )
             errors.append(message)
             print(f"ОШИБКА обработки: {message}")
 
-        if index < len(SOURCES) - 1:
-            time.sleep(REQUEST_DELAY)
-
-    candidates_data["last_updated"] = datetime.now(
-        timezone.utc
-    ).isoformat()
-
+    candidates_data["last_updated"] = datetime.now(timezone.utc).isoformat()
     candidates_data["candidates"].sort(
         key=lambda item: item.get("found_at", ""),
         reverse=True,
     )
 
-    temporary_file = CANDIDATES_FILE.with_suffix(".json.tmp")
-
-    try:
-        with temporary_file.open("w", encoding="utf-8") as file:
-            json.dump(
-                candidates_data,
-                file,
-                ensure_ascii=False,
-                indent=2,
-            )
-            file.write("\n")
-
-        temporary_file.replace(CANDIDATES_FILE)
-
-    except OSError:
-        if temporary_file.exists():
-            temporary_file.unlink()
-        raise
+    with CANDIDATES_FILE.open("w", encoding="utf-8") as file:
+        json.dump(
+            candidates_data,
+            file,
+            ensure_ascii=False,
+            indent=2,
+        )
+        file.write("\n")
 
     print(f"Новых кандидатов добавлено: {added}")
     print(
@@ -392,9 +451,6 @@ def main():
         f"{len(candidates_data['candidates'])}"
     )
     print(f"Ошибок источников: {len(errors)}")
-
-    if errors:
-        print("Некоторые источники не сработали; остальные обработаны.")
 
 
 if __name__ == "__main__":
