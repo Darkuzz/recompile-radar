@@ -1,7 +1,987 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-11T16:22:52.062044+00:00",
+  "last_updated": "2026-10-11T16:28:23.933932+00:00",
   "candidates": [
+    {
+      "title": "burningurine/blinx-android",
+      "url": "https://github.com/burningurine/blinx-android",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-09-30T13:18:01Z",
+      "summary": "Unofficial Android port of Blinx: The Time Sweeper (Xbox) by static recompilation. No game code or assets included; you need your own copy.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933818+00:00"
+    },
+    {
+      "title": "hajimimaodie8/maze-dash-web",
+      "url": "https://github.com/hajimimaodie8/maze-dash-web",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-01T09:32:20Z",
+      "summary": "?????? Maze Dash ??web port (single-file standalone + HTTP build), originally an Android game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933816+00:00"
+    },
+    {
+      "title": "deivid22srk/Theft4-Android",
+      "url": "https://github.com/deivid22srk/Theft4-Android",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-02T22:57:02Z",
+      "summary": "Android (arm64-v8a) port of Theft4 / LibertyRecomp - static ahead-of-time recompilation of GTA IV (Xbox 360) on the RexGlue runtime (SDL3 + Vulkan). Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933804+00:00"
+    },
+    {
+      "title": "hidinginthefireplace/The-Simpsons-Hit-and-Run-Android",
+      "url": "https://github.com/hidinginthefireplace/The-Simpsons-Hit-and-Run-Android",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-11T13:48:06Z",
+      "summary": "Unofficial Android port of The Simpsons: Hit & Run. Requires legally owned game files. No assets included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933802+00:00"
+    },
+    {
+      "title": "patheticaesthetic94/fade-decompilation",
+      "url": "https://github.com/patheticaesthetic94/fade-decompilation",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-03T17:29:15Z",
+      "summary": "Complete decompilation and native Android and Web port of the game Fade (version 1.09) originally and only released for PocketPC. Developed by Fade Team in 2001, this game was previously unable to be played by any modern device without running a virtual machine and legacy software.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933798+00:00"
+    },
+    {
+      "title": "yugenmagan/elfen-lied-fighting-android",
+      "url": "https://github.com/yugenmagan/elfen-lied-fighting-android",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-05T00:04:04Z",
+      "summary": "Unofficial native Android port of the original Elfen Lied Fighting fan-made PC game. Offline play, touch controls and Japanese / English / Russian language options. RC1. Topics: android, android-port, elfen-lied, fangame, fighting-game, game-preservation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933791+00:00"
+    },
+    {
+      "title": "hazevauks/smashhit_nx",
+      "url": "https://github.com/hazevauks/smashhit_nx",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-05T02:02:42Z",
+      "summary": "Smash Hit for Nintendo Switch: a port of the 32-bit Android game on the android32 runtime (no game files)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933785+00:00"
+    },
+    {
+      "title": "RandomityGuy/MBHaxe",
+      "url": "https://github.com/RandomityGuy/MBHaxe",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-05T12:44:12Z",
+      "summary": "An optimized port of Marble Blast Gold, Platinum, Ultra and PlatinumQuest with 99% identical physics and cross platform multiplayer, runs on Windows, Mac, Linux, Web, iOS and Android! Written in Haxe! Topics: cross-platform, game, haxe, heaps, marble-blast, marble-game, multiplayer, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933781+00:00"
+    },
+    {
+      "title": "DanielLMcGuire/chrome-dino-cpp",
+      "url": "https://github.com/DanielLMcGuire/chrome-dino-cpp",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-06T01:08:09Z",
+      "summary": "SDL2 port of chromium dino_game with desktop, android, ps2, original xbox and UWP (xbox1/series/windows) support Topics: chrome-dino, chrome-dino-game, mobile-game, original-xbox, ps2, ps2-homebrew, ps2sdk, sdl2, xbox, xbox-one",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933777+00:00"
+    },
+    {
+      "title": "lhr0909/richman4-remastered",
+      "url": "https://github.com/lhr0909/richman4-remastered",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-06T02:20:41Z",
+      "summary": "Native C++/SDL3 port of 大富翁4 (Richman 4) for macOS, Android and iOS — requires your own copy of the game (buy it on Steam). Unofficial; not affiliated with SOFTSTAR. Topics: android, cpp20, game-port, ios, monopoly, reverse-engineering, richman4, sdl3",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933771+00:00"
+    },
+    {
+      "title": "hazevauks/deadspace_nx",
+      "url": "https://github.com/hazevauks/deadspace_nx",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-06T21:44:50Z",
+      "summary": "Dead Space: Sabotage (2011) for Nintendo Switch: a port of the 32-bit Android game on the android32 runtime. No game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933756+00:00"
+    },
+    {
+      "title": "CrownParkComputing/Hypseus-Singe-Android",
+      "url": "https://github.com/CrownParkComputing/Hypseus-Singe-Android",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-07T11:16:21Z",
+      "summary": "Port of Hypseus-Singe to android. Individual Launchers per game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933752+00:00"
+    },
+    {
+      "title": "danielbuva/ror2-android-port",
+      "url": "https://github.com/danielbuva/ror2-android-port",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-09T06:55:38Z",
+      "summary": "Environment bootstrap and validation for a future native ARM64 Android port. No proprietary game content.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933733+00:00"
+    },
+    {
+      "title": "Metallikus/amazingtd5800",
+      "url": "https://github.com/Metallikus/amazingtd5800",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-09T11:20:29Z",
+      "summary": "Android port of the simple Symbian/J2ME tower defense game Amazing TD (Nokia 5800).",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933728+00:00"
+    },
+    {
+      "title": "olivierh59500/krytonegg",
+      "url": "https://github.com/olivierh59500/krytonegg",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-09T13:47:59Z",
+      "summary": "A native Go port of the Amiga game Krypton Egg Topics: android, breakout-game, ebitengine, golang, retrogaming",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933724+00:00"
+    },
+    {
+      "title": "codepdbh/the-simpsons-game-android",
+      "url": "https://github.com/codepdbh/the-simpsons-game-android",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-09T15:18:56Z",
+      "summary": "Native Android ARM64 port groundwork for The Simpsons Game using static recompilation, SDL3 and Vulkan 1.1",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933719+00:00"
+    },
+    {
+      "title": "thibautbus/top",
+      "url": "https://github.com/thibautbus/top",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-09T15:31:10Z",
+      "summary": "The Oracles Project - A faithful, moddable port of Oracle of Ages and Oracle of Seasons for PC, macOS and Android: your own ROM runs in an unmodified SameBoy core, with a widescreen Enhanced mode, Hotkeys, Lua mods and fan-game patches. Topics: emulation, fan-games, game-boy-color, lua, mgba, modding, oracle-of-ages, oracle-of-seasons, sameboy, widescreen",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933717+00:00"
+    },
+    {
+      "title": "codepdbh/NFS3-HP-AndroidEvolved",
+      "url": "https://github.com/codepdbh/NFS3-HP-AndroidEvolved",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-09T21:46:09Z",
+      "summary": "Native ARM64 Android community port of NFS III Hot Pursuit, based on motor-dev/nfs-recompiled. Original game data required.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933706+00:00"
+    },
+    {
+      "title": "hazevauks/dantheman_nx",
+      "url": "https://github.com/hazevauks/dantheman_nx",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-09T22:32:26Z",
+      "summary": "Dan the Man 1.2.1 for Nintendo Switch: a port of the 32-bit Android game on the android32 runtime. No game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933704+00:00"
+    },
+    {
+      "title": "dorPXP/driftdroid",
+      "url": "https://github.com/dorPXP/driftdroid",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-09T23:04:53Z",
+      "summary": "A native Android port of Mario Kart Wii and Retro Rewind. Fast, easy. Topics: android, game, port, recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933700+00:00"
+    },
+    {
+      "title": "woo3113/openbgi-eve-kr",
+      "url": "https://github.com/woo3113/openbgi-eve-kr",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-10T06:26:33Z",
+      "summary": "EVE burst error A - Android port based on OpenBGI (engine source + KR notes; game data not included)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933691+00:00"
+    },
+    {
+      "title": "Coastrhododendronsafetyfuse419/AM2R-Autopatcher-Android",
+      "url": "https://github.com/Coastrhododendronsafetyfuse419/AM2R-Autopatcher-Android",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-10T07:42:43Z",
+      "summary": "Patch original AM2R 1.1 game files into a native 64-bit Android port with touch controls, controller support, and haptics. Topics: a, a2a, a2a-mcp, acme, activemq, amqp, android, autoupdater, editor, generic, java, jms, kotlin, linux-foundation, patcher, sam, termux",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933687+00:00"
+    },
+    {
+      "title": "mrpolonium0/Dirge-Of-Cerberus-Lost-Episode-for-Android",
+      "url": "https://github.com/mrpolonium0/Dirge-Of-Cerberus-Lost-Episode-for-Android",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-10T07:51:27Z",
+      "summary": "A forked mobile port of the i-appli game \"Dirge Of Cerberus-Lost Episode\" for modern Android 9.0+",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933681+00:00"
+    },
+    {
+      "title": "openeggbert/mobile-eggbert",
+      "url": "https://github.com/openeggbert/mobile-eggbert",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-10T15:13:20Z",
+      "summary": "C++ port of Speedy Blupi (2013 Windows Phone XNA game) on the CNA framework - desktop, Android, and web (playable at speedyblupi.com). Topics: cna, cpp, emscripten, game, port, sdl3, speedy-blupi, xna",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933676+00:00"
+    },
+    {
+      "title": "Nyaldee/Ports-Launcher",
+      "url": "https://github.com/Nyaldee/Ports-Launcher",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-10T22:56:09Z",
+      "summary": "A library manager and installer for unofficial native game ports and recomps. Fully portable, with zero runtime dependencies, and compatible with Windows, Linux, and Android. Written in Rust. Requires a working OpenGL driver for the UI.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933667+00:00"
+    },
+    {
+      "title": "NoxProductions/Casualties_Android",
+      "url": "https://github.com/NoxProductions/Casualties_Android",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-11T01:13:44Z",
+      "summary": "An Android port of the well known game Scav Prototype ( Also known as Casualties: Unknown )",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933661+00:00"
+    },
+    {
+      "title": "worldofunreal/shadows-of-war",
+      "url": "https://github.com/worldofunreal/shadows-of-war",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-11T05:14:27Z",
+      "summary": "Command one of hundreds of legendary historic leaders in real-time territory wars. Build cities, factories and ports, forge alliances, betray rivals, and redraw the world map on this multiplayer game. Topics: agpl-3-0, android, android-game, blade, ios, ios-game, maps, mmorts, multiplayer, openfront, rts, rust, rust-crate, vulkan, wasm, wasm-game, web-game, webgl, wgpu, wgpu-rs",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933656+00:00"
+    },
+    {
+      "title": "nathanialf/ico-pc",
+      "url": "https://github.com/nathanialf/ico-pc",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-11T05:24:23Z",
+      "summary": "PC and Android port of the ICO (PS2) decompilation (nathanialf/ico): Windows, Linux, Steam Deck and Android (experimental). Contains no game data. Topics: android, decompilation, ico, linux, port, ps2, steam-deck, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933652+00:00"
+    },
+    {
+      "title": "xxl2005/86Box-Android-Final",
+      "url": "https://github.com/xxl2005/86Box-Android-Final",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-11T09:14:12Z",
+      "summary": "Native 86Box Android port with a universal APK, physical mouse and keyboard support, and customizable touch and game controls.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933649+00:00"
+    },
+    {
+      "title": "GeorgeRadev/dicewars_android",
+      "url": "https://github.com/GeorgeRadev/dicewars_android",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-11T13:31:05Z",
+      "summary": "Dice Wars game ported to Android",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933643+00:00"
+    },
+    {
+      "title": "Odrannnn/MetroidPrimePort",
+      "url": "https://github.com/Odrannnn/MetroidPrimePort",
+      "source_name": "GitHub: Android game ports",
+      "published": "2026-10-11T16:01:12Z",
+      "summary": "Native port of Metroid Prime (GameCube) for Linux, Windows and Android, built from the PrimeDecomp decompilation. No emulator, no game assets included: bring your own disc image. Topics: android, archipelago, decompilation, gamecube, linux, metroid-prime, native-port, randomizer, sdl3, webgpu, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:22.933609+00:00"
+    },
+    {
+      "title": "halamov/tic-tac-toe-3d",
+      "url": "https://github.com/halamov/tic-tac-toe-3d",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-11T16:27:42Z",
+      "summary": "3D крестики-нолики в одном HTML-файле: поля 3×3×3, 5×5×5, 7×7×7, ИИ (минимакс), 2–4 игрока, демо-режим, хаос, 4 языка. + Android-проект. / 3D tic-tac-toe in a single HTML file. Topics: android, game, html5, tictactoe, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:20.809235+00:00"
+    },
+    {
+      "title": "Darkuzz/recompile-radar",
+      "url": "https://github.com/Darkuzz/recompile-radar",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-11T16:27:44Z",
+      "summary": "Automated game recompilation digest for PC and Android",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:20.809212+00:00"
+    },
+    {
+      "title": "jval1972/DelphiDoom",
+      "url": "https://github.com/jval1972/DelphiDoom",
+      "source_name": "GitHub: source ports",
+      "published": "2023-12-10T05:16:16Z",
+      "summary": "Source port of Doom, Heretic, Hexen and Strife developed in Delphi Topics: delphi, delphi-game, delphidoom, doom, first-person-shooter, game, heretic, hexen, opengl, retrogame, retrogaming, source-port, source-ports, strife",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697102+00:00"
+    },
+    {
+      "title": "jprzywoski/pgaie",
+      "url": "https://github.com/jprzywoski/pgaie",
+      "source_name": "GitHub: source ports",
+      "published": "2023-12-25T14:13:28Z",
+      "summary": "Mingw gcc source port of 'Programming game AI by example' by Mat Buckland, 2005, Wordware.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697100+00:00"
+    },
+    {
+      "title": "shurcooL/Hover",
+      "url": "https://github.com/shurcooL/Hover",
+      "source_name": "GitHub: source ports",
+      "published": "2024-01-14T21:26:38Z",
+      "summary": "A work-in-progress source port of Hover. Topics: game, go, racing, remake",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697098+00:00"
+    },
+    {
+      "title": "Zorcher/Zandronum",
+      "url": "https://github.com/Zorcher/Zandronum",
+      "source_name": "GitHub: source ports",
+      "published": "2024-04-29T19:02:20Z",
+      "summary": "Game and master server support for the Zandronum source port.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697095+00:00"
+    },
+    {
+      "title": "AntoineJT/dos-games-steam-launchers",
+      "url": "https://github.com/AntoineJT/dos-games-steam-launchers",
+      "source_name": "GitHub: source ports",
+      "published": "2024-06-13T01:35:19Z",
+      "summary": "Just a simple collection of minimal C programs to launch some old DOS games from Steam using source ports instead of the original versions via DOSBox Topics: blood, bloodgdx, chocolate-doom, dos, heretic, hexen, hexendd, steam",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697093+00:00"
+    },
+    {
+      "title": "Jakz/openmom",
+      "url": "https://github.com/Jakz/openmom",
+      "source_name": "GitHub: source ports",
+      "published": "2024-06-25T23:24:22Z",
+      "summary": "A cross-platform open source port of Master of Magic game from Microprose Topics: 4x-strategy-game, cpp, cpp14, cross-platform-game, game, game-port, sdl2",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697086+00:00"
+    },
+    {
+      "title": "jerome-trc/viletech-2022",
+      "url": "https://github.com/jerome-trc/viletech-2022",
+      "source_name": "GitHub: source ports",
+      "published": "2024-11-20T21:38:33Z",
+      "summary": "Doom source port and related technologies Topics: doom, doom-2, game, game-engine, wad, zig, zig-package",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697084+00:00"
+    },
+    {
+      "title": "FriskTheFallenHuman/KROOM-3-legacy",
+      "url": "https://github.com/FriskTheFallenHuman/KROOM-3-legacy",
+      "source_name": "GitHub: source ports",
+      "published": "2025-03-01T01:51:56Z",
+      "summary": "Fork of TEKUUM source port aims to modernize DOOM 3 (2004) while also trying to mainting the same look of the game but giving more flexibility to modders, succesor of D3ModdingKit. Topics: 64-bit, doom3, gaming, idtech4, kroom3, mod, modding-tools, moding, netradiant, pbr, portable",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697081+00:00"
+    },
+    {
+      "title": "jval1972/Mars3D",
+      "url": "https://github.com/jval1972/Mars3D",
+      "source_name": "GitHub: source ports",
+      "published": "2025-08-07T17:56:14Z",
+      "summary": "Source port of the game \"Mars - The Ultimate Fighter\"  Topics: delphi, delphi-game, delphidoom, doom, first-person-shooter, game, mars3d, opengl, retrogame, retrogaming, source-port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697078+00:00"
+    },
+    {
+      "title": "imustafin/brie_doom",
+      "url": "https://github.com/imustafin/brie_doom",
+      "source_name": "GitHub: source ports",
+      "published": "2025-09-09T19:08:08Z",
+      "summary": "DOOM source port in Eiffel with SDL2 Topics: doom, eiffel, game, game-development, hacktoberfest, sdl2, wrap-sdl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697075+00:00"
+    },
+    {
+      "title": "tonytins/dressupzack",
+      "url": "https://github.com/tonytins/dressupzack",
+      "source_name": "GitHub: source ports",
+      "published": "2025-11-20T16:26:59Z",
+      "summary": "An open source port of ZC's Dress Up, an old Flash game that I developed back in 2007. Topics: archive, dressup, game, godot, godot-engine, godot4, video-game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697073+00:00"
+    },
+    {
+      "title": "Keljian/Modern-Tyrian2k",
+      "url": "https://github.com/Keljian/Modern-Tyrian2k",
+      "source_name": "GitHub: source ports",
+      "published": "2025-12-10T10:41:39Z",
+      "summary": "This is a comprehensive modernization of OpenTyrian (Tyrian 2000 source port) to leverage modern hardware while preserving the original gameplay experience. The goal is to bring 1995 game technology into 2025 without sacrificing what made Tyrian special.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697070+00:00"
+    },
+    {
+      "title": "NagyD/SDLPoP",
+      "url": "https://github.com/NagyD/SDLPoP",
+      "source_name": "GitHub: source ports",
+      "published": "2025-12-24T11:24:48Z",
+      "summary": "An open-source port of Prince of Persia, based on the disassembly of the DOS version. Topics: game, prince-of-persia",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697067+00:00"
+    },
+    {
+      "title": "StooM-DP/.github",
+      "url": "https://github.com/StooM-DP/.github",
+      "source_name": "GitHub: source ports",
+      "published": "2026-01-31T07:32:26Z",
+      "summary": "StooM : D & P (StooM: Download and Play) is an application related to the game DooM. The features of this application include downloading WADs, managing them in a personal library, playing in single-player mode with multiple source ports, and the ability to play multiplayer via GZDooom.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697065+00:00"
+    },
+    {
+      "title": "Russian-Doom/russian-doom",
+      "url": "https://github.com/Russian-Doom/russian-doom",
+      "source_name": "GitHub: source ports",
+      "published": "2026-05-11T18:32:17Z",
+      "summary": "A limit-removing source port of Doom, Heretic and Hexen. It has numerous vanilla bug fixes, enhanced 640x400 and 1280x800 rendering resolutions, improved game palettes and offers many optional aesthetic game enhancements along with the maximum possible translation to the Russian language. Topics: doom, heretic, hexen",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697062+00:00"
+    },
+    {
+      "title": "gettierproblem/pararena2-port",
+      "url": "https://github.com/gettierproblem/pararena2-port",
+      "source_name": "GitHub: source ports",
+      "published": "2026-05-29T00:32:05Z",
+      "summary": "Faithful Windows & WebAssembly source port of John Calhoun's 1992 Mac game Pararena 2 (SDL2 + Mac-Toolbox shim).",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697059+00:00"
+    },
+    {
+      "title": "skyjake/Doomsday-Engine",
+      "url": "https://github.com/skyjake/Doomsday-Engine",
+      "source_name": "GitHub: source ports",
+      "published": "2026-06-03T10:02:32Z",
+      "summary": "A portable, enhanced source port of Doom, Heretic and Hexen. Topics: c-plus-plus, desktop-application, doom, first-person-shooter, fmod, game, heretic, hexen, linux, macos, opengl, portable, source-port, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697056+00:00"
+    },
+    {
+      "title": "CheezyMaker/GamepadMotionSharp",
+      "url": "https://github.com/CheezyMaker/GamepadMotionSharp",
+      "source_name": "GitHub: source ports",
+      "published": "2026-07-11T07:20:33Z",
+      "summary": "Independent C# source port of gamepad motion calibration and sensor-fusion processing.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697054+00:00"
+    },
+    {
+      "title": "bitburner/Awesome-Browser-Game-Ports",
+      "url": "https://github.com/bitburner/Awesome-Browser-Game-Ports",
+      "source_name": "GitHub: source ports",
+      "published": "2026-07-15T22:34:13Z",
+      "summary": "A curated list of real games that run directly inside your browser using WebAssembly, Emscripten, DOSBox, js-dos, WebGL, source ports, and emulation.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697051+00:00"
+    },
+    {
+      "title": "nullcore629/des-asset-pipeline",
+      "url": "https://github.com/nullcore629/des-asset-pipeline",
+      "source_name": "GitHub: source ports",
+      "published": "2026-07-18T11:14:03Z",
+      "summary": "A native C++ monorepo for parsing, extracting, and modernizing Demon's Souls (2009) PS3 game assets. The foundational data pipeline for a future source port.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697048+00:00"
+    },
+    {
+      "title": "missingno7/dos_re",
+      "url": "https://github.com/missingno7/dos_re",
+      "source_name": "GitHub: source ports",
+      "published": "2026-07-23T09:35:08Z",
+      "summary": "Oracle-driven DOS game reverse-engineering framework for building faithful native source ports.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697046+00:00"
+    },
+    {
+      "title": "bigfnj/acid-tetris-reborn",
+      "url": "https://github.com/bigfnj/acid-tetris-reborn",
+      "source_name": "GitHub: source ports",
+      "published": "2026-07-23T20:48:45Z",
+      "summary": "Faithful modern C++20/SDL3 source port of the 1997 DOS game ACiD Tetris (bring your own ATET.DAT)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697043+00:00"
+    },
+    {
+      "title": "digows/cosmo",
+      "url": "https://github.com/digows/cosmo",
+      "source_name": "GitHub: source ports",
+      "published": "2026-07-24T18:37:48Z",
+      "summary": "Native source port of Cosmo's Cosmic Adventure: Forbidden Planet (Apogee, 1992) for macOS, Linux and Windows. Built from the original game's code, with an emulated EGA, PIT, PC speaker and AdLib — no DOSBox. Topics: 1992, adlib, apogee, c, cosmo-cosmic-adventure, dos-games, ega, game-porting, ms-dos, opl2, platformer, retrogaming, reverse-engineering, sdl3, source-port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697041+00:00"
+    },
+    {
+      "title": "dgcole/noctis-iv-lr",
+      "url": "https://github.com/dgcole/noctis-iv-lr",
+      "source_name": "GitHub: source ports",
+      "published": "2026-07-26T02:14:15Z",
+      "summary": "Modern source port of Noctis IV Topics: cpp, game, linux, noctis, noctis-iv, planet-generation, procedural-generation, raylib, retrogaming",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697034+00:00"
+    },
+    {
+      "title": "dungnotnull/rework-oldschul-games",
+      "url": "https://github.com/dungnotnull/rework-oldschul-games",
+      "source_name": "GitHub: source ports",
+      "published": "2026-07-28T04:00:26Z",
+      "summary": "🕹️🛠️ Old-School Game Modernization & Source-Port Harness | Using Claude Code skill & Python framework for retro game reverse engineering, 60+ FPS unlocking, widescreen fixes, low-latency input...",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.697032+00:00"
+    },
+    {
+      "title": "themuffinator/openPREY",
+      "url": "https://github.com/themuffinator/openPREY",
+      "source_name": "GitHub: source ports",
+      "published": "2026-08-04T16:33:09Z",
+      "summary": "The definitive source-port and game binary replacement to run PREY (2006) on modern systems. [WIP] Topics: action-game, engine, fps, fps-gaming, idtech4, open-source, open-source-project, prey-2006, quake4doom, rbdoom3bfg, shooter-game, source-port, sourceport",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.696647+00:00"
+    },
+    {
+      "title": "ahmedalqamzi/classic-game-ports-catalog",
+      "url": "https://github.com/ahmedalqamzi/classic-game-ports-catalog",
+      "source_name": "GitHub: source ports",
+      "published": "2026-08-09T14:10:57Z",
+      "summary": "Public, twice-daily metadata feed for classic game recompilation, decompilation, and source-port projects",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.696644+00:00"
+    },
+    {
+      "title": "Andiweli/ZGloom-macOS",
+      "url": "https://github.com/Andiweli/ZGloom-macOS",
+      "source_name": "GitHub: source ports",
+      "published": "2026-08-17T20:09:46Z",
+      "summary": "ZGloom is a modern macOS (Silicon/Intel) source port of the Amiga FPS Gloom. This port focuses on an improved renderer, extended in-game options and subtle post-processing effects while staying faithful to the original look and gameplay. Topics: amiga, fps, gloom, gloom3, gloomdeluxe, macos, silicon, zombiemassacre",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.696641+00:00"
+    },
+    {
+      "title": "a740g/SpaceShooter2K",
+      "url": "https://github.com/a740g/SpaceShooter2K",
+      "source_name": "GitHub: source ports",
+      "published": "2026-08-19T10:14:32Z",
+      "summary": "Space Shooter 2000 (QB64-PE source port) Topics: basic, basic-programming, game, game-development, qb64, qb64-pe, qbasic, quickbasic, retrogaming, source-port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.696638+00:00"
+    },
+    {
+      "title": "vs-sr-dev/pc-grandiahd-doc",
+      "url": "https://github.com/vs-sr-dev/pc-grandiahd-doc",
+      "source_name": "GitHub: source ports",
+      "published": "2026-08-26T17:54:37Z",
+      "summary": "Reverse-engineering notes on the PC (Steam) release of GRANDIA HD Remaster: a native x86 source port of the 1997 PlayStation game, with the PSX GPU/SPU/CD libraries reimplemented on D3D11/XAudio2 and a hash-keyed HD texture replacement layer. Documentation only. Topics: direct3d11, documentation, file-formats, game-preservation, grandia, playstation, port-analysis, psx, retro-gaming, reverse-engineering, rpg, steam",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.696636+00:00"
+    },
+    {
+      "title": "akosela/game-console",
+      "url": "https://github.com/akosela/game-console",
+      "source_name": "GitHub: source ports",
+      "published": "2026-08-30T09:59:29Z",
+      "summary": "Classic PC game reference collection covering console commands, HUD/crosshair removal, and texture-filtering tweaks for a sharp, pixelated look, with a focus on original engines and clearly documented source-port exceptions. Topics: classic-games, console-commands, dark-engine-games, developer-console, game-console, game-modding-tool, pc-gaming, quake, retro-gaming, source-ports, texture-filtering",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.696632+00:00"
+    },
+    {
+      "title": "paul8483/doom",
+      "url": "https://github.com/paul8483/doom",
+      "source_name": "GitHub: source ports",
+      "published": "2026-09-08T10:43:49Z",
+      "summary": "Not a source port - DOOM rebuilt from scratch in Unity/C#: stop-motion 3D monsters and objects derived from the WAD sprites, a fully redrawn Episode 1, and a bit-faithful Classic mode. Freedoom bundled; Windows & Linux. Topics: 3d, csharp, doom, doom-remake, fps, freedoom, game, remake, retro-fps, unity, urp",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.696628+00:00"
+    },
+    {
+      "title": "dxx-redux/dxx-redux",
+      "url": "https://github.com/dxx-redux/dxx-redux",
+      "source_name": "GitHub: source ports",
+      "published": "2026-09-15T18:12:07Z",
+      "summary": "Descent 1&2 source port based on DXX-Retro Topics: descent, first-person-shooter, game, opengl, retrogaming, sdl, source-port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.696625+00:00"
+    },
+    {
+      "title": "kodi-game/game.libretro.boom3",
+      "url": "https://github.com/kodi-game/game.libretro.boom3",
+      "source_name": "GitHub: source ports",
+      "published": "2026-09-15T19:33:18Z",
+      "summary": "Doom 3 GPL source port to libretro",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.696622+00:00"
+    },
+    {
+      "title": "h4mu/rott94",
+      "url": "https://github.com/h4mu/rott94",
+      "source_name": "GitHub: source ports",
+      "published": "2026-09-20T09:14:59Z",
+      "summary": "Rise of the Triad source port to SDL2, Android and WinRT Topics: android, apk, c, game, rise, triad, windows-10, windows-8, windows-phone",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.696620+00:00"
+    },
+    {
+      "title": "Xoce02/SAMP-Firewall",
+      "url": "https://github.com/Xoce02/SAMP-Firewall",
+      "source_name": "GitHub: source ports",
+      "published": "2026-09-23T10:04:37Z",
+      "summary": "XDP/eBPF packet filter for SA:MP servers. Filters UDP query traffic by port, source port range, payload signature, and opcode, with per-IP rate limiting and basic anti-spoofing. Drops malicious traffic at the network driver level, before it reaches the game server.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.696617+00:00"
+    },
+    {
+      "title": "a740g/Alien-Alley",
+      "url": "https://github.com/a740g/Alien-Alley",
+      "source_name": "GitHub: source ports",
+      "published": "2026-09-27T22:35:36Z",
+      "summary": "Alien Alley (QB64-PE source port) Topics: basic, basic-programming, game, game-development, qb64, qb64-pe, qbasic, quickbasic, retrogaming, source-port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.696606+00:00"
+    },
+    {
+      "title": "noouch/CTGL",
+      "url": "https://github.com/noouch/CTGL",
+      "source_name": "GitHub: source ports",
+      "published": "2026-09-30T07:01:47Z",
+      "summary": "An OpenGL source port of the game Chicken Tournament",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:18.696585+00:00"
+    },
+    {
+      "title": "neavesj88/xevil-reincarnated",
+      "url": "https://github.com/neavesj88/xevil-reincarnated",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-05-16T11:57:46Z",
+      "summary": "XEvil: Reincarnated — browser port of the 1994 C++ game via WebAssembly + React",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916067+00:00"
+    },
+    {
+      "title": "Krapas2/pedra",
+      "url": "https://github.com/Krapas2/pedra",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-05-27T19:31:32Z",
+      "summary": "browser port for c game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916064+00:00"
+    },
+    {
+      "title": "sniebauer/sink-sub-web",
+      "url": "https://github.com/sniebauer/sink-sub-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-06-17T14:55:47Z",
+      "summary": "Browser port of SinkSub for Windows (1993), rebuilt from the original game's extracted assets",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916062+00:00"
+    },
+    {
+      "title": "hiddenwaffle/starwars",
+      "url": "https://github.com/hiddenwaffle/starwars",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-06-27T21:41:36Z",
+      "summary": "Browser Port of Donald Brown's 1979 Star Wars text adventure game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916059+00:00"
+    },
+    {
+      "title": "Ad1d0z/Pacboy-html",
+      "url": "https://github.com/Ad1d0z/Pacboy-html",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-07-03T13:43:16Z",
+      "summary": "Pacboy as a self-contained HTML game - single file, no dependencies, embeddable in a presentation. Browser port of Ad1d0z/Pacboy.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916057+00:00"
+    },
+    {
+      "title": "punal100/WebGL_Multiplayer_Controller",
+      "url": "https://github.com/punal100/WebGL_Multiplayer_Controller",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-07-22T14:53:41Z",
+      "summary": "WebGL Multiplayer Controller — turn phones into wireless gamepads. A two-player WebGL game runs in your PC browser (port 4567); scan the on-screen QR codes to open a touch controller at /<Game>/<1|2> on each phone. Touches relay over Socket.io and become synthetic keypresses on the host, so the game plays with no app install or code changes.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916054+00:00"
+    },
+    {
+      "title": "jimerb/Twiddle",
+      "url": "https://github.com/jimerb/Twiddle",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-07-25T16:53:15Z",
+      "summary": "A browser port of Twiddle, a 1987 Run Magazine type-in BASIC game for the Commodore 128",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916048+00:00"
+    },
+    {
+      "title": "submarat/cat-the-caterpillar",
+      "url": "https://github.com/submarat/cat-the-caterpillar",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-07-27T03:49:01Z",
+      "summary": "Browser port of Cat the Caterpillar (Level 5) - reconstructed from the original game's data files",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916046+00:00"
+    },
+    {
+      "title": "b3llabug33/speed-typing-game-web",
+      "url": "https://github.com/b3llabug33/speed-typing-game-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-08-02T01:03:34Z",
+      "summary": "Browser port of my speed typing game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916043+00:00"
+    },
+    {
+      "title": "b3llabug33/snakes-and-ladders-web",
+      "url": "https://github.com/b3llabug33/snakes-and-ladders-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-08-03T00:53:05Z",
+      "summary": "Browser port of my Snakes and Ladders game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916041+00:00"
+    },
+    {
+      "title": "VorticonCmdr/pushover",
+      "url": "https://github.com/VorticonCmdr/pushover",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-08-07T12:52:21Z",
+      "summary": "a from-scratch, reverse-engineered browser port of the classic game Pushover Topics: css, html, javascript",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916038+00:00"
+    },
+    {
+      "title": "MkThingsHQ/mkgame-poly",
+      "url": "https://github.com/MkThingsHQ/mkgame-poly",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-08-13T02:18:13Z",
+      "summary": "Standalone browser port of the original Super Blocks puzzle game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916035+00:00"
+    },
+    {
+      "title": "LostMyCode/whiplash-gunz",
+      "url": "https://github.com/LostMyCode/whiplash-gunz",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-08-14T00:08:04Z",
+      "summary": "Whiplash GunZ is a full browser port of GunZ: The Duel — playable instantly with zero downloads or installation. Topics: cpp, cross-platform, game, webassembly, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916033+00:00"
+    },
+    {
+      "title": "theodorecharles/source-wasm",
+      "url": "https://github.com/theodorecharles/source-wasm",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-08-16T01:30:31Z",
+      "summary": "Source engine browser-port workspace built on wasm-game-framework",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916029+00:00"
+    },
+    {
+      "title": "matzekFloyd/ZahlenZebra",
+      "url": "https://github.com/matzekFloyd/ZahlenZebra",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-08-20T17:49:36Z",
+      "summary": "Webcam math game: solve levels, show colour-coded digits to the camera; Processing + OpenCV desktop app and a p5.js browser port.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916026+00:00"
+    },
+    {
+      "title": "blhsing/uqm-hd-web",
+      "url": "https://github.com/blhsing/uqm-hd-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-08-24T17:10:24Z",
+      "summary": "Full browser port of The Ur-Quan Masters HD with English and Traditional Chinese Topics: game, star-control-2, traditional-chinese, ur-quan-masters, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916023+00:00"
+    },
+    {
+      "title": "kokoima/openu5",
+      "url": "https://github.com/kokoima/openu5",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-08-26T07:34:59Z",
+      "summary": "A byte-exact browser port of Ultima V: Warriors of Destiny (1988). Requires your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916020+00:00"
+    },
+    {
+      "title": "AndreNijman/blade-hymn",
+      "url": "https://github.com/AndreNijman/blade-hymn",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-09-04T11:42:27Z",
+      "summary": "Blade Hymn — browser port of the platformer sword-fighting game by Eason (https://github.com/Eason-F/Blade-Hymn), with speedrun leaderboards and rebindable keys",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916017+00:00"
+    },
+    {
+      "title": "VorticonCmdr/re-Duke",
+      "url": "https://github.com/VorticonCmdr/re-Duke",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-09-06T14:37:33Z",
+      "summary": "HTML + vanilla-JS browser port of the original MS-DOS Duke Nukem (1991) — decodes the real game data files at runtime, no emulator.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916013+00:00"
+    },
+    {
+      "title": "imelendez/amazing-race-web",
+      "url": "https://github.com/imelendez/amazing-race-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-09-08T13:57:09Z",
+      "summary": "2D browser port of a 2016 Panda3D college game — played on the original's real maze, extracted from its 3D model Topics: canvas, game, gamedev, javascript, panda3d",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916009+00:00"
+    },
+    {
+      "title": "eveluvsadam/GTAIII2HTML",
+      "url": "https://github.com/eveluvsadam/GTAIII2HTML",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-09-08T23:59:29Z",
+      "summary": "GTA III Web — A WebAssembly/WebGL browser port of Grand Theft Auto III powered by the re3 engine. Designed to run the real GTA III engine in modern browsers while keeping the user's own legally obtained GTA III PC game files external to the project. Built for fullscreen browser gameplay and static hosting such as GitHub Pages.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.916005+00:00"
+    },
+    {
+      "title": "RunningShogun/clu3web",
+      "url": "https://github.com/RunningShogun/clu3web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-09-09T17:09:13Z",
+      "summary": "Browser port of C.L.U.^3 (Combustible Lagomorphic Unit), a 2001 Stanford CS248 game, reconstructed from its binary",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.915998+00:00"
+    },
+    {
+      "title": "valinux/ezeus-browser",
+      "url": "https://github.com/valinux/ezeus-browser",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-09-19T21:08:12Z",
+      "summary": "Unofficial eZeus browser port: C++/SDL via WebAssembly, full-window game client, local asset setup and city blueprints. Topics: browser-game, city-builder, cpp, emscripten, javascript, poseidon, sdl2, webassembly, zeus",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.915996+00:00"
+    },
+    {
+      "title": "zednaked/greedy-bastards-js",
+      "url": "https://github.com/zednaked/greedy-bastards-js",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-09-23T19:08:15Z",
+      "summary": "Browser port of Greedy Bastards, in plain JavaScript. Topics: browser-game, game, javascript",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.915992+00:00"
+    },
+    {
+      "title": "Shay-Silversmith/IranMaze",
+      "url": "https://github.com/Shay-Silversmith/IranMaze",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-09-29T13:05:33Z",
+      "summary": "Browser port of the ATP maze game - fly the B-2 through a generated maze. Play: https://shay-silversmith.github.io/IranMaze/",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.915989+00:00"
+    },
+    {
+      "title": "navinsreejithprep/pong-game",
+      "url": "https://github.com/navinsreejithprep/pong-game",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-01T13:40:59Z",
+      "summary": "Single-player Pong: Python/pygame desktop game + HTML5/JS browser port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.915985+00:00"
+    },
+    {
+      "title": "yurkagon/gravity-defied-web",
+      "url": "https://github.com/yurkagon/gravity-defied-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-01T17:56:08Z",
+      "summary": "Legendary Gravity Defied game - web browser port Topics: gravity-defied, html, j2me, port, typescript, web",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:28:13.915959+00:00"
+    },
     {
       "title": "SkeletonLogic/mc2-reboned",
       "url": "https://github.com/SkeletonLogic/mc2-reboned",
