@@ -3,7 +3,8 @@ name: RecompileRadar Telegram Test
 
 on:
   workflow_dispatch:
-
+  schedule:
+    - cron: '0 5,12,20 * * *'
 permissions:
   contents: read
 
