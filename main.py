@@ -1,8 +1,8 @@
 
 import json
 import os
-import urllib.error
 import urllib.request
+import urllib.error
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
@@ -113,7 +113,6 @@ def make_message(game):
         lines.append(f"📰 Источник новости: {announcement_url}")
 
     lines.append("\n🛰 RecompileRadar")
-
     return "\n".join(lines)
 
 
@@ -138,9 +137,7 @@ def publish_one(token, chat_id):
         if game.get("status") not in ("released", "playable", "demo"):
             continue
 
-        if not game.get("build_url") and not (
-            game.get("browser_playable") is True
-        ):
+        if not game.get("build_url") and game.get("browser_playable") is not True:
             continue
 
         message = make_message(game)
@@ -170,7 +167,7 @@ def main():
         test_message(token, chat_id)
         return
 
-    if event == "schedule":
+    if task == "publish" or event == "schedule":
         if not token or not chat_id:
             raise RuntimeError("Не настроены секреты Telegram")
         publish_one(token, chat_id)
