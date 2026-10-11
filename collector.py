@@ -97,7 +97,10 @@ STRONG_PROJECT_TERMS = (
     "re-implementation", "byte-matching", "byte-exact",
     "bring-your-own-rom", "game port", "native port",
     "fan port", "fan-made port", "engine recreation",
-    "game remake", "android port",
+    "game remake", "android port", "port to webgl",
+    "port to browser", "port to html5", "port to wasm",
+    "port to webassembly", "webgl port of", "browser version of",
+    "web version of", "playable browser port",
 )
 
 SUPPORTING_TERMS = (
@@ -329,7 +332,7 @@ def github_repo_path(url):
 
 
 def relevance_assessment(item):
-    """Оценивает тематическую релевантность, не подтверждая готовность игры."""
+    """Оценивает релевантность; не подтверждает запуск или готовность игры."""
     title = str(item.get("title", ""))
     summary = str(item.get("summary", ""))
     check = item.get("check") or {}
@@ -337,27 +340,36 @@ def relevance_assessment(item):
     source_name = str(item.get("source_name", ""))
     category = str(item.get("category", ""))
 
-    # Основные сигналы берём из описания проекта, а не из названия поискового
-    # запроса: иначе любой результат источника "browser ports" станет целевым.
     project_text = " ".join([title, summary, description]).lower()
     context_text = " ".join([project_text, source_name, category]).lower()
+    # Нормализуем пунктуацию для поиска фраз, но сохраняем исходный текст
+    # для более гибких проверок формулировок вроде "port ... to WebGL".
+    normalized = re.sub(r"[^a-z0-9+#]+", " ", project_text)
 
     strong_hits = [term for term in STRONG_PROJECT_TERMS if term in project_text]
+    explicit_port_patterns = (
+        r"\bport(?:ed|ing)?\s+(?:or|of|the|an?)\b.{0,100}\b(?:game|webgl|webassembly|wasm|browser|html5)\b",
+        r"\bport(?:ed|ing)?\b.{0,100}\bto\s+(?:webgl|webassembly|wasm|the browser|browser|html5)\b",
+        r"\b(?:browser|webgl|webassembly|wasm|html5)\s+port\b",
+        r"\b(?:recompil(?:e|ation|ed)|decompil(?:e|ation|ed))\b",
+    )
+    explicit_port = any(re.search(pattern, normalized) for pattern in explicit_port_patterns)
+    if explicit_port and "explicit port/recompilation wording" not in strong_hits:
+        strong_hits.append("explicit port/recompilation wording")
+
     support_hits = [term for term in SUPPORTING_TERMS if term in project_text]
     exclude_hits = [term for term in EXCLUDE_TERMS if term in context_text]
 
     score = 0
     reasons = []
-
     if strong_hits:
-        score += min(8, len(strong_hits) * 2)
+        # Явная формулировка о переносе важнее случайных слов вроде portfolio.
+        score += min(10, len(strong_hits) * 3)
         reasons.append("Есть прямые признаки порта/рекомпиляции: " + ", ".join(strong_hits[:5]))
     if support_hits:
         score += min(3, len(support_hits))
         reasons.append("Есть игровые/платформенные признаки: " + ", ".join(support_hits[:5]))
 
-    # Название источника — слабый сигнал, а не доказательство: он помогает
-    # не терять проекты из специализированных запросов, но не делает их verified.
     source_port_hint = any(term in source_name.lower() for term in (
         "browser ports", "webgl ports", "source ports", "pc ports",
         "android ports", "static recompilation", "android recompilation",
@@ -370,8 +382,6 @@ def relevance_assessment(item):
         score += 2
         reasons.append("Источник специализируется на портах; требуется проверить сам проект")
 
-    # Общие веб-технологии не являются доказательством порта, но и не должны
-    # автоматически отбрасывать потенциально полезный проект.
     generic_web_only = (
         any(term in project_text for term in ("webgl", "webassembly", "wasm", "html5"))
         and not strong_hits
@@ -379,19 +389,18 @@ def relevance_assessment(item):
     if generic_web_only:
         reasons.append("Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено")
 
-    # Явные нерелевантные признаки снижают оценку. Но прямое описание порта
-    # важнее случайного упоминания portfolio/website в контексте; в таком случае
-    # отправляем на проверку, а не исключаем автоматически.
     if exclude_hits and not strong_hits:
         score -= 8
         reasons.append("Найдены признаки постороннего проекта: " + ", ".join(exclude_hits[:5]))
     elif exclude_hits and strong_hits:
-        score -= 2
-        reasons.append("Есть и признаки постороннего контекста, и прямые признаки порта — нужна ручная проверка")
+        score -= 1
+        reasons.append("Есть признаки постороннего контекста, но также прямое указание на порт — нужна ручная проверка")
 
-    if exclude_hits and not strong_hits and not game_context:
+    # Портфолио/шахматные приложения и подобные проекты не должны проходить
+    # только потому, что в описании есть слова game, WebGL или WebAssembly.
+    if exclude_hits and not strong_hits:
         status = "likely_irrelevant"
-    elif strong_hits and score >= 4:
+    elif strong_hits and score >= 5:
         status = "promising"
     elif strong_hits or (source_port_hint and game_context):
         status = "possible"
