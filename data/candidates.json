@@ -1,5 +1,1166 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-11T15:55:40.005857+00:00",
-  "candidates": []
+  "last_updated": "2026-10-11T16:16:07.338340+00:00",
+  "candidates": [
+    {
+      "title": "SkeletonLogic/mc2-reboned",
+      "url": "https://github.com/SkeletonLogic/mc2-reboned",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-03T13:20:05Z",
+      "summary": "MechCommander 2 - REBONED: 64-bit Windows and browser port of Microsoft's MechCommander 2 source release (source only, no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.338333+00:00"
+    },
+    {
+      "title": "zachholt/pad-ports-altstore",
+      "url": "https://github.com/zachholt/pad-ports-altstore",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-03T17:35:57Z",
+      "summary": "Audited AltStore Classic source for standalone iPhone and iPad game ports",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.338306+00:00"
+    },
+    {
+      "title": "diegoami/discola-web",
+      "url": "https://github.com/diegoami/discola-web",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-03T19:06:15Z",
+      "summary": "Discola, two-player Briscola (web port of the 1997 Delphi game). Source code. Android downloads: https://github.com/diegoami/discola-releases",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.338290+00:00"
+    },
+    {
+      "title": "OpenFodder/openfodder",
+      "url": "https://github.com/OpenFodder/openfodder",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-07T21:37:56Z",
+      "summary": "Open Fodder: An open source port of Cannon Fodder Topics: amiga, cannon-fodder, dos, game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.338257+00:00"
+    },
+    {
+      "title": "cristhiantey/goldenballoon-android-arm64",
+      "url": "https://github.com/cristhiantey/goldenballoon-android-arm64",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-08T06:26:12Z",
+      "summary": "Experimental Android ARM64 port of Golden Balloon by Cristhiantey, developed with AI assistance. Based on the original open-source project. Requires a legally owned game ROM.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.338223+00:00"
+    },
+    {
+      "title": "Rensuto/InnerDatum",
+      "url": "https://github.com/Rensuto/InnerDatum",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-05T12:42:23Z",
+      "summary": "Multiplayer turn-based roguelike played inside a Discord voice channel, as a Discord Activity. A partial source port of Tales of Maj'Eyal, rebuilt for in-Discord multiplayer. TypeScript on Node 24 with no build step — Fastify + WebSocket, zod, a canvas client bundled by Vite. Server-authoritative, self-hosted, GPL-3.0-or-later. Art not included. Topics: discord-activity, fastify, game, nodejs, typescript, vite, websocket",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.338206+00:00"
+    },
+    {
+      "title": "AngelZINxL/bt3-vita-port",
+      "url": "https://github.com/AngelZINxL/bt3-vita-port",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-06T20:36:15Z",
+      "summary": "Experimental native PlayStation Vita port of an open-source PS2 runtime. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.338189+00:00"
+    },
+    {
+      "title": "memomedo2018/unity-mobile-game-portfolio",
+      "url": "https://github.com/memomedo2018/unity-mobile-game-portfolio",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-06T15:42:38Z",
+      "summary": "Unity mobile game portfolio with standalone C# input, AI and save-system samples, tested on Windows and Linux. Commercial game source stays private. Topics: csharp, game-development, portfolio, unity",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.338172+00:00"
+    },
+    {
+      "title": "hammerill/ps-vita-porter",
+      "url": "https://github.com/hammerill/ps-vita-porter",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-07T18:08:36Z",
+      "summary": "Point any AI at any game source code and make it port it to PS Vita. Inspired by universal-modder, powered by universal-decompiler.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.338133+00:00"
+    },
+    {
+      "title": "TheGh0stShip/RenegadeVita",
+      "url": "https://github.com/TheGh0stShip/RenegadeVita",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-07T21:37:56Z",
+      "summary": "Native PlayStation Vita/PSTV source port of C&C Renegade. Full-game work in progress. Host and ARM compile closure verified locally; campaign, visual and physical-device acceptance remain open. Topics: c-plus-plus, command-and-conquer, game-port, playstation-vita, ps-vita, renegade, vitagl, vitasdk",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.338119+00:00"
+    },
+    {
+      "title": "TranquilMT/OpenFootManager-Android-ByTranquil",
+      "url": "https://github.com/TranquilMT/OpenFootManager-Android-ByTranquil",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-08T09:59:12Z",
+      "summary": "Open Foot Manager open source game made and ported to android with new improved updates and player databases! looking to create a full open source game for everyone for free!",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.338105+00:00"
+    },
+    {
+      "title": "buberlo/pt-ipad",
+      "url": "https://github.com/buberlo/pt-ipad",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-11T08:27:47Z",
+      "summary": "Native ARM64 P.T. source port for iPad, based on the reconstructed pt-pc C++ runtime. Original game assets required.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.338089+00:00"
+    },
+    {
+      "title": "lurendrejer/wwfmania_recomp_public",
+      "url": "https://github.com/lurendrejer/wwfmania_recomp_public",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-10T15:15:54Z",
+      "summary": "A C port of Midway's WWF WrestleMania: The Arcade Game (Wolf Unit, TMS34010), translated from the original assembly source. Desktop and Android. GPL-3.0.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.338063+00:00"
+    },
+    {
+      "title": "ericargyle/ScorchedEverittWin11",
+      "url": "https://github.com/ericargyle/ScorchedEverittWin11",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-09T14:04:24Z",
+      "summary": "Source-derived native Windows port of the UIUC 2001 Scorched Everitt game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.338043+00:00"
+    },
+    {
+      "title": "kandowontu2/simtower-native-windows-port",
+      "url": "https://github.com/kandowontu2/simtower-native-windows-port",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-09T22:30:34Z",
+      "summary": "Unofficial disassembly-backed native Windows port of SimTower (source only; original game assets excluded) Topics: cpp, game-preservation, reverse-engineering, simtower, win32",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337978+00:00"
+    },
+    {
+      "title": "lldrattles/devxh",
+      "url": "https://github.com/lldrattles/devxh",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-10T01:05:25Z",
+      "summary": "DevXH is a custom port of DevilutionX — the open-source reimplementation of Diablo & Hellfire — that turns the game itself into a dedicated server.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337961+00:00"
+    },
+    {
+      "title": "FriskTheFallenHuman/KROOM-3",
+      "url": "https://github.com/FriskTheFallenHuman/KROOM-3",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-10T01:43:18Z",
+      "summary": "Fork of RBDOOM3-BFG v1.3.0 source port aims to modernize DOOM 3 BFG while also trying to mainting the same look of the game but giving more flexibility to modders",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337944+00:00"
+    },
+    {
+      "title": "Benehiko/protium",
+      "url": "https://github.com/Benehiko/protium",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-10T05:50:40Z",
+      "summary": "Play Windows games and Steam games on macOS. Free, open-source CLI that sets up Wine and Apple's D3DMetal (Game Porting Toolkit) on Apple silicon Macs. Topics: apple-silicon, cli, crossover, d3dmetal, directx, elden-ring, elden-ring-macos, game-porting-toolkit, gaming, gptk, mac-gaming, macos, macos-gaming, metal, steam, steam-games, windows-games, wine, zig",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337930+00:00"
+    },
+    {
+      "title": "rebelancap/all-ports",
+      "url": "https://github.com/rebelancap/all-ports",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-10T15:49:10Z",
+      "summary": "SideStore sources for every rebelancap game port — iPhone, iPad, and Apple Vision Pro",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337861+00:00"
+    },
+    {
+      "title": "DalsinAI/amigachrome-gameports",
+      "url": "https://github.com/DalsinAI/amigachrome-gameports",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-10T18:39:47Z",
+      "summary": "Open-source game ports and compatiblity work for hte M68k AROS and AmigaChrome",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337843+00:00"
+    },
+    {
+      "title": "ff4e/ff4e.github.io",
+      "url": "https://github.com/ff4e/ff4e.github.io",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-10T22:35:36Z",
+      "summary": "Fish Fillets 4ever — faithful open-source web port of the 1998 ALTAR puzzle game (GPL). Play: https://ff4e.github.io/ Topics: czech, delphi, fish-fillets, game, game-preservation, port, puzzle-game, retrogaming, typescript, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337813+00:00"
+    },
+    {
+      "title": "realtechnick/bobsgame-modern",
+      "url": "https://github.com/realtechnick/bobsgame-modern",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-11T01:28:29Z",
+      "summary": "Modern SDL3 port of Bob's Game (recovered C++ source, SDL2→SDL3 migration)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337773+00:00"
+    },
+    {
+      "title": "ablactationscent13/awesome-idtech4",
+      "url": "https://github.com/ablactationscent13/awesome-idtech4",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-11T07:25:46Z",
+      "summary": "Curate and access a collection of free source ports, tools, and plugins for idTech4 game development and modding. Topics: awesome, doom3, doom3-bfg-edition, game-development, idtech4, idtech4-engine, indie, indiedev, prey-2006, quake4",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337756+00:00"
+    },
+    {
+      "title": "ViTaminza/plugify-gamebanfix",
+      "url": "https://github.com/ViTaminza/plugify-gamebanfix",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-11T10:40:43Z",
+      "summary": "Plugify port of the Metamod:Source plugin 'GameBanFix' (the plugin that shipped as addons/gamebanfix)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337741+00:00"
+    },
+    {
+      "title": "bradharding/doomretro",
+      "url": "https://github.com/bradharding/doomretro",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-11T08:36:04Z",
+      "summary": "The classic, refined DOOM source port. For Windows PC. Topics: boom, c, doom, doom2, fps, free-software, game, gpl, gplv3, limit-removing, mbf, mbf21, retro, sdl, sdl2, sdl2-mixer, source-port, vanilla-doom, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337726+00:00"
+    },
+    {
+      "title": "MarkusSela/IW4-Pocket",
+      "url": "https://github.com/MarkusSela/IW4-Pocket",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-11T09:14:07Z",
+      "summary": "IW4 Pocket: unofficial iOS port of the open-source IW4L runtime for Modern Warfare 2 (2009). Experimental. No game files included. Topics: bevy, game-engine, ios, iphone, iw4, metal, rust, sideloading, sidestore, wgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337712+00:00"
+    },
+    {
+      "title": "Hero88go/melee-unlocked",
+      "url": "https://github.com/Hero88go/melee-unlocked",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-11T10:37:14Z",
+      "summary": "Super Smash Bros. Melee for Windows as a true Source Port: the game compiled natively from its decompiled C source, no emulation, with unlocked FPS and Slippi rollback online. A Static Recomp of the original code is included as a second engine. Beta. Bring your own NTSC 1.02 ISO.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337695+00:00"
+    },
+    {
+      "title": "ZinexDa/sonic-r-android",
+      "url": "https://github.com/ZinexDa/sonic-r-android",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-11T12:29:23Z",
+      "summary": "Native Android port of the Sonic R PC decompilation (jnmartin84). Features a custom GLES2 shader pipeline, 60 FPS, customizable touch controls, and SAF asset installation. Requires original PC game files (no retail assets included). Non-commercial open-source project. Topics: android, android-port, c, game-port, gles2, kotlin, opengl-es, sdl2, sdl2-mixer, sega, sonic, sonic-r, sonic-the-hedgehog",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337681+00:00"
+    },
+    {
+      "title": "fabiangreffrath/woof",
+      "url": "https://github.com/fabiangreffrath/woof",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-11T13:45:35Z",
+      "summary": "Woof! is a continuation of the Boom/MBF bloodline of Doom source ports Topics: boom, dehextra, doom, faithful, free-software, game, gplv2, id24, mbf, mbf21, sdl3, source-port, umapinfo",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337666+00:00"
+    },
+    {
+      "title": "limeylicious/Nightfire-Windows-Port",
+      "url": "https://github.com/limeylicious/Nightfire-Windows-Port",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-11T15:46:21Z",
+      "summary": "Native Windows static recompilation of PAL Xbox 007 Nightfire, built on xboxrecomp. Source only: bring your own copy of the game. No game files or generated code included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337645+00:00"
+    },
+    {
+      "title": "AdrianPol-projects/NotBlood-Chosen",
+      "url": "https://github.com/AdrianPol-projects/NotBlood-Chosen",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-11T15:57:49Z",
+      "summary": "NotBlood (Blood source port) with co-op saves, online lobbies and a live game dashboard - ready-to-play builds for Windows, Linux, macOS and Android",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337614+00:00"
+    },
+    {
+      "title": "kirklandsig/halo2-decompiled",
+      "url": "https://github.com/kirklandsig/halo2-decompiled",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-11T16:11:23Z",
+      "summary": "Halo 2 decompilation (decomp) for the original Xbox: a matching decompilation of the retail game into C/C++ source, rebuilt byte for byte, toward native PC, Linux and handheld ports. Contributors welcome. Source only; bring your own disc. Topics: bungie, cpp, decomp, decompilation, game-decompilation, game-preservation, halo, halo-2, halo2, matching-decompilation, msvc, original-xbox, reverse-engineering, source-port, xbox, xbox-decompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337559+00:00"
+    },
+    {
+      "title": "mgd34msu/Quake-Anthology",
+      "url": "https://github.com/mgd34msu/Quake-Anthology",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-11T16:13:34Z",
+      "summary": "C port of the Quake-Anthology-TS engine, which is itself based on the Quake 1, Quake 1 Rerelease, Quake 2, Quake 2 Rerelease, and Quake 3 source code. It's come full circle: C -> TS -> C. My Quake Anthology TS engine eventually ran into issues with getting game ticks to happen fast enough. This port should be able to solve the issue.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:07.337525+00:00"
+    },
+    {
+      "title": "valaoss/sancak-oyna",
+      "url": "https://github.com/valaoss/sancak-oyna",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-10T08:40:30Z",
+      "summary": "Sancak — playable web build (Godot 4, HTML5) Topics: game, gdscript, godot, html5-game, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988844+00:00"
+    },
+    {
+      "title": "clearmeasure-aisf-sample-apps/adameve-app",
+      "url": "https://github.com/clearmeasure-aisf-sample-apps/adameve-app",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-10T10:39:56Z",
+      "summary": "Adam and woman in the garden of Eden: a browser game that tells Genesis 1 to 3 in the King James Version (Blazor WebAssembly, .NET 10)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988824+00:00"
+    },
+    {
+      "title": "esengine/estella",
+      "url": "https://github.com/esengine/estella",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-10T11:43:00Z",
+      "summary": "A fast 2D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, playable ads, and native Android / iOS. Topics: 2d-game-engine, android, cpp, ecs, game-editor, game-engine, gamedev, ios, typescript, webassembly, webgl, webgpu, wechat-minigame",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988809+00:00"
+    },
+    {
+      "title": "HKTITAN/rangeplay",
+      "url": "https://github.com/HKTITAN/rangeplay",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-10T13:09:42Z",
+      "summary": "Play-as-you-download for the web: run a game engine in the browser and stream its data from any CDN with HTTP Range requests. Not cloud gaming: no servers, no GPUs, no video. Topics: browser-games, cdn, game-engine, opfs, sharedarraybuffer, streaming, webassembly, webgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988792+00:00"
+    },
+    {
+      "title": "kalki-kgp/gtav-native",
+      "url": "https://github.com/kalki-kgp/gtav-native",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T10:44:54Z",
+      "summary": "GTA V's WebAssembly build running natively on Apple silicon Macs and iPhone (no browser, no JIT). No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988778+00:00"
+    },
+    {
+      "title": "rread/coffee_maker_rust",
+      "url": "https://github.com/rread/coffee_maker_rust",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-10T15:43:55Z",
+      "summary": "A Rust and WebAssembly port of the coffee_maker_ada parser game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988764+00:00"
+    },
+    {
+      "title": "FredDeadRedemption/pejsesten",
+      "url": "https://github.com/FredDeadRedemption/pejsesten",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-10T16:01:55Z",
+      "summary": "TCG Game Engine; macroquad + webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988749+00:00"
+    },
+    {
+      "title": "vimalananddev/voice-racer",
+      "url": "https://github.com/vimalananddev/voice-racer",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T10:37:53Z",
+      "summary": "A pixel-art racing game you drive with your voice. NeuDecide (43 MB speech-to-tool-call model) runs locally: no speech-to-text, no cloud. Topics: game, javascript, neudecide, onnxruntime, pixel-art, speech, tool-calling, voice-ai, voice-control, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988736+00:00"
+    },
+    {
+      "title": "LostBeard/SpawnDev.GameUI",
+      "url": "https://github.com/LostBeard/SpawnDev.GameUI",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-10T17:26:51Z",
+      "summary": "GPU-rendered game UI library for Blazor WebAssembly. PC, VR, AR, mobile. Mouse, keyboard, gamepad, VR controllers, hand tracking. Topics: ar-ui, blazor, blazor-webassembly, ga, game-ui, vr, vr-ui, xr",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988722+00:00"
+    },
+    {
+      "title": "d4140n-4h3-1/MazeGame-web",
+      "url": "https://github.com/d4140n-4h3-1/MazeGame-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-10T17:29:53Z",
+      "summary": "Maze, the first-person Fyrox maze game, playable in the browser (WebAssembly + WebGL 2).",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988708+00:00"
+    },
+    {
+      "title": "mariuz/castle-doom",
+      "url": "https://github.com/mariuz/castle-doom",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T09:49:55Z",
+      "summary": "Doom levels rendered and played with Castle Game Engine (Object Pascal), with a WebAssembly build",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988695+00:00"
+    },
+    {
+      "title": "yunophilia/hotd2-recompiled",
+      "url": "https://github.com/yunophilia/hotd2-recompiled",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-10T23:54:23Z",
+      "summary": "The House of the Dead 2 (Sega NAOMI) statically recompiled to C/WebAssembly and played in the browser. Bring your own ROM; no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988671+00:00"
+    },
+    {
+      "title": "OpenKingdoms/OpenKingdoms",
+      "url": "https://github.com/OpenKingdoms/OpenKingdoms",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T00:32:42Z",
+      "summary": "Open-source engine reimplementation of Total Annihilation: Kingdoms (C11, native + WebAssembly). Bring your own game files. Topics: c11, cavedog, game-engine, open-source-game, real-time-strategy, reimplementation, rts, sdl2, total-annihilation, total-annihilation-kingdoms, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988658+00:00"
+    },
+    {
+      "title": "Project-Graphite/pixelpocket",
+      "url": "https://github.com/Project-Graphite/pixelpocket",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T01:15:30Z",
+      "summary": "Play Game Boy games in your browser. A custom C++ Game Boy emulator compiled to WebAssembly, with a React frontend and a Node.js API.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988643+00:00"
+    },
+    {
+      "title": "Real-Fruit-Snacks/chess-trainer",
+      "url": "https://github.com/Real-Fruit-Snacks/chess-trainer",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T01:34:01Z",
+      "summary": "Learn, practise and play chess at any level — lessons, puzzles, drills, opening repertoires, game review and a human-like opponent. Stockfish and Maia run in your browser: free, private and offline. Topics: chess, chess-analysis, chess-openings, chess-puzzles, chess-trainer, chessground, education, github-pages, glicko2, lichess, maia-chess, offline-first, pwa, react, spaced-repetition, stockfish, typescript, vite, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988623+00:00"
+    },
+    {
+      "title": "sgilson7/lowballer",
+      "url": "https://github.com/sgilson7/lowballer",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T01:46:00Z",
+      "summary": "A 2D browser game about lowballing sellers on a neighbourhood marketplace. Rust core, WebAssembly, TikZ art.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988604+00:00"
+    },
+    {
+      "title": "CatanCats/Ouro",
+      "url": "https://github.com/CatanCats/Ouro",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T02:00:31Z",
+      "summary": "Open-Source slither.io-style snake game in your browser. Features include AI snakes, Web Assembly, WebGPU or WebGL one HTML file, no download needed Topics: creative-commons-license, efficient, fun, game, html-css-javascript, html5, open-source, single-file, slitherio, snake, snake-game, snake-game-2d, snake-game-js, snakegame, webassembly, webgame, webgames, webgl, webgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988591+00:00"
+    },
+    {
+      "title": "jonathanperis/super-mango-editor",
+      "url": "https://github.com/jonathanperis/super-mango-editor",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T03:14:52Z",
+      "summary": "C11/raylib platformer and visual level editor. Play in the browser via WebAssembly, build TOML worlds, and learn game development with Sandbox School. Topics: 2d-game, c, c11, educational, emscripten, game-development, gamedev, learning-by-doing, level-editor, open-source, pixel-art, platformer, raylib, toml, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988574+00:00"
+    },
+    {
+      "title": "shreytalreja25/gba-crossover-mod-runner",
+      "url": "https://github.com/shreytalreja25/gba-crossover-mod-runner",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T03:44:38Z",
+      "summary": "Reverse-engineered Game Boy Advance ROM modder & 60 FPS WebAssembly runner for Pokemon LeafGreen (Mario & Spider-Man Crossover) and Super Mario Bros.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988558+00:00"
+    },
+    {
+      "title": "vishvananda/card-glint",
+      "url": "https://github.com/vishvananda/card-glint",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T03:57:24Z",
+      "summary": "Game-neutral Rust/WASM card rendering, cached WebGL2 foil and etching, and original example artwork Topics: renderer, rust, webassembly, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988543+00:00"
+    },
+    {
+      "title": "kpreid/all-is-cubes",
+      "url": "https://github.com/kpreid/all-is-cubes",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T06:28:43Z",
+      "summary": "Yet another block/voxel game; in this one the blocks are made out of blocks. Runs in browsers on WebGPU+WebAssembly. Topics: game-engine, rust, voxel-game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988527+00:00"
+    },
+    {
+      "title": "VdustR/game-save-dw3cer",
+      "url": "https://github.com/VdustR/game-save-dw3cer",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T07:13:29Z",
+      "summary": "DW3CER Save Patch for Dynasty Warriors 3: Complete Edition Remastered (真・三國無双２ with 猛将伝 Remastered). Browser-local Legal Max and Experimental Overlimit presets with verified native/browser parity. Topics: browser-local, dw3cer, dynasty-warriors, dynasty-warriors-3, mise, mit-license, oxc, oxfmt, oxlint, perfect-save, pnpm, pyodide, rolldown, save-editor, save-patcher, shin-sangoku-musou-2, steam, typescript, vite-plus, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988511+00:00"
+    },
+    {
+      "title": "ojos/game-forge",
+      "url": "https://github.com/ojos/game-forge",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T07:53:20Z",
+      "summary": "プロンプト 1 行からブラウザで遊べる 2D ゲームを生成し、作品を改造（フォーク）して公開し合う UGC コミュニティ。Go（Ebitengine）→ WebAssembly、Cloudflare Pages + AWS Lambda / Bedrock 構成。 Topics: amazon-bedrock, aws-lambda, cloudflare-pages, ebitengine, game-generation, ugc, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988491+00:00"
+    },
+    {
+      "title": "Spreadsheet-Company/Alonzo",
+      "url": "https://github.com/Spreadsheet-Company/Alonzo",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T09:02:41Z",
+      "summary": "The browser's Lisp machine: a game engine in WebAssembly whose language is VLA, whose scene is a grid of cells, whose devices are sheets, and whose first game is Frazaro, the spreadsheet.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988472+00:00"
+    },
+    {
+      "title": "askrejans/xplorers-redressed",
+      "url": "https://github.com/askrejans/xplorers-redressed",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T11:26:44Z",
+      "summary": "Unofficial modern desktop compatibility wrapper for AsoBrain Xplorers. Original game, artwork and community by AsoBrain; please support the original project. Topics: asobrain, desktop, electron, game-preservation, gpl-3-0, java-applet, linux, macos, webassembly, windows, xplorers",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988457+00:00"
+    },
+    {
+      "title": "MahanKenway/PlayChive",
+      "url": "https://github.com/MahanKenway/PlayChive",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T11:49:45Z",
+      "summary": "Play classic games right in your browser. No installs, no accounts, just retro gaming. 🎮✨ Topics: browser, browser-game, classic, doom, game, game-development, iran, open-source, psp, retro, retrogaming, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988442+00:00"
+    },
+    {
+      "title": "Mikolaj0524/GameBoyOnline",
+      "url": "https://github.com/Mikolaj0524/GameBoyOnline",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T13:16:33Z",
+      "summary": "Game Boy emulator running in the browser, powered by C#, React and WebAssembly.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988424+00:00"
+    },
+    {
+      "title": "dchau360/frozen-bubble-sdl3",
+      "url": "https://github.com/dchau360/frozen-bubble-sdl3",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T13:43:07Z",
+      "summary": "Frozen Bubble 2, rewritten in C++/SDL3: online multiplayer for up to 20 players, bots, tournaments and replays. Play on Linux, macOS, Windows, Android or in your browser. Topics: android-game, browser-game, bubble-shooter, cpp, frozen-bubble, game, linux-game, multiplayer, open-source-game, puzzle-game, sdl3, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988412+00:00"
+    },
+    {
+      "title": "belacmu/towerfall-browser",
+      "url": "https://github.com/belacmu/towerfall-browser",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T13:44:15Z",
+      "summary": "TowerFall Ascension in the browser (WebAssembly + FNA). Bring your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988397+00:00"
+    },
+    {
+      "title": "deeptelar/telar-demo",
+      "url": "https://github.com/deeptelar/telar-demo",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T14:32:11Z",
+      "summary": "Pixel Pizza: a small game about AI agent workflows in Kotlin. Eight stages, each a Telar graph that runs in your browser. Compose Multiplatform for Wasm, desktop and Android. No API key needed. Topics: agentic-workflow, ai-agents, claude, compose-multiplatform, demo, game, human-in-the-loop, kmp, kotlin, kotlin-multiplatform, kotlin-wasm, llm, telar, tutorial, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988383+00:00"
+    },
+    {
+      "title": "vshengbro/vice-city-web",
+      "url": "https://github.com/vshengbro/vice-city-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T14:39:24Z",
+      "summary": "GTA Vice City style open-world browser game built with Blender + euv (Rust/WASM) Topics: 3d, blender, euv, game, gamedev, opengame, rust, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988368+00:00"
+    },
+    {
+      "title": "KaanAlper/UnderRune",
+      "url": "https://github.com/KaanAlper/UnderRune",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T14:42:30Z",
+      "summary": "DELTARUNE boss battles in the browser, running the original game code from your own install. Fan project; no game files included. Topics: deltarune, fan-project, gamemaker, undertale, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988355+00:00"
+    },
+    {
+      "title": "agreyling-glitch/Chess",
+      "url": "https://github.com/agreyling-glitch/Chess",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T14:58:31Z",
+      "summary": "Ironwood Chess is an open-source browser chess app with Stockfish analysis, FICS online play, game review, and a Rust/WebAssembly interface",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988342+00:00"
+    },
+    {
+      "title": "arianrhodsandlot/retroassembly",
+      "url": "https://github.com/arianrhodsandlot/retroassembly",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T15:30:16Z",
+      "summary": "The personal retro game collection cabinet in your browser. Join us on Discord https://discord.gg/gwaKRAYG6t Topics: atari, atari2600, emulator, gb, gba, gbc, megadrive, nes, nintendo, pwa, retroarch, retroarch-wasm, retroarch-web, retrogaming, sega, snes, virtualboy, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988330+00:00"
+    },
+    {
+      "title": "volodymyr-pavlov/go-game",
+      "url": "https://github.com/volodymyr-pavlov/go-game",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T15:26:24Z",
+      "summary": "A 9x9 game of Go in the browser, against a Monte Carlo Tree Search engine in Go compiled to WebAssembly.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988316+00:00"
+    },
+    {
+      "title": "lowqen/RapfiWeb",
+      "url": "https://github.com/lowqen/RapfiWeb",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T15:28:22Z",
+      "summary": "Championship-level Gomoku & Renju AI in your browser: the Rapfi engine as multi-threaded WebAssembly, with game review, opening explorer and offline storage. No server. Topics: board-game, cloudflare-pages, emscripten, five-in-a-row, game-ai, gobang, gomoku, rapfi, react, renju, typescript, vite, wasm, web-worker, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988303+00:00"
+    },
+    {
+      "title": "awangs1986/goodgoodstudy",
+      "url": "https://github.com/awangs1986/goodgoodstudy",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T15:36:27Z",
+      "summary": "A story-driven C programming learning game: solve 140 RPG coding quests with an in-browser C editor, real Clang/WebAssembly compilation, hints, an optional AI mentor, and Windows offline support. Free to adapt under the MIT License. Topics: c, c-programming, clang, coding-game, learning-game, programming-education, rpg, wasm, webassembly, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988288+00:00"
+    },
+    {
+      "title": "thpham/dash-boots",
+      "url": "https://github.com/thpham/dash-boots",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T15:42:18Z",
+      "summary": "Dash Boots — an original SNES-style platformer in Rust compiled to WebAssembly, playable online (GitHub Pages) Topics: game, github-pages, platformer, rust, tiled, vite, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988274+00:00"
+    },
+    {
+      "title": "gkizior/blazor-2048",
+      "url": "https://github.com/gkizior/blazor-2048",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T15:47:17Z",
+      "summary": "2048 as a .NET 10 Blazor WebAssembly PWA: dark mode, fluid CSS animations, built-in docs with Mermaid diagrams, tested with xUnit v3, bUnit and Playwright, deployed to GitHub Pages Topics: 2048, 2048-game, blazor, blazor-webassembly, bunit, csharp, css-animations, dark-mode, docs, dotnet, dotnet10, game, github-pages, mermaid, playwright, pwa, webassembly, xunit",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988258+00:00"
+    },
+    {
+      "title": "Pr1nted/Open-Doctrines",
+      "url": "https://github.com/Pr1nted/Open-Doctrines",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T15:50:26Z",
+      "summary": "A free, source-available grand strategy game — play in a browser, on desktop, or in a Discord call. 1641 provinces, six historical scenarios, a map editor and a WebAssembly mod SDK for thirteen languages. Topics: alternate-history, cpp, discord-activity, emscripten, gamedev, grand-strategy, hoi4, indie-game, map-editor, moddable, multiplayer, open-source-game, raylib, simulation-game, strategy-game, turn-based-strategy, wargame, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988243+00:00"
+    },
+    {
+      "title": "Svahnen/open-web-racer",
+      "url": "https://github.com/Svahnen/open-web-racer",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T15:51:20Z",
+      "summary": "Open-source arcade racing game for the browser. Rust + WebAssembly client, authoritative Rust server for multiplayer, procedural cars and tracks. Topics: arcade-racing, browser-game, game, multiplayer, procedural-generation, racing-game, rust, wasm, webassembly, webgl2, wgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988224+00:00"
+    },
+    {
+      "title": "JohnImril/diablo_web",
+      "url": "https://github.com/JohnImril/diablo_web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T16:00:46Z",
+      "summary": "Play the original Diablo in your browser. Powered by React, TypeScript, Vite, and WebAssembly, with local saves, a free shareware demo, and support for your own MPQ files. Topics: browser-game, canvas, game, react, typescript, vite, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988208+00:00"
+    },
+    {
+      "title": "joncodeofficial/gta-vice-city-wasm",
+      "url": "https://github.com/joncodeofficial/gta-vice-city-wasm",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T16:06:21Z",
+      "summary": "🎮 GTA: Vice City in your browser — WebAssembly ⚙️ , OPFS 💾, Service Worker 🔧, fully offline. No CDN, no server. 🚀 Topics: browser-game, game, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988191+00:00"
+    },
+    {
+      "title": "Sada23112/chessbook-ai",
+      "url": "https://github.com/Sada23112/chessbook-ai",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T16:10:41Z",
+      "summary": "Chessbook AI - Personal Chess Coach: Free, local-first chess analysis, Stockfish WebAssembly engine, Chess.com game review, brilliant move detection, opening repertoires, and spaced repetition training.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988171+00:00"
+    },
+    {
+      "title": "sgilson7/ribbit-king",
+      "url": "https://github.com/sgilson7/ribbit-king",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T16:11:33Z",
+      "summary": "Frolf in the browser: golf played with frogs. A fan game after Ribbit King (GameCube, 2003). Rust core, WebAssembly, WebGL 2, TikZ art.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988152+00:00"
+    },
+    {
+      "title": "cuihairu/sandtable",
+      "url": "https://github.com/cuihairu/sandtable",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T16:12:10Z",
+      "summary": "Configuration-driven simulation and experimentation framework for game systems Topics: analytics, arrow, cli, deterministic, discrete-event-simulation, duckdb, experiment-framework, game-balance, game-development, game-economy, monte-carlo, parquet, rust, sensitivity-analysis, simulation, tauri, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:03.988117+00:00"
+    },
+    {
+      "title": "andrewnakas/pokeleafgreen-web",
+      "url": "https://github.com/andrewnakas/pokeleafgreen-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-05T15:08:30Z",
+      "summary": "Pokemon LeafGreen: byte-matching build from the pret/pokefirered decompilation, plus a bring-your-own-ROM browser port on mGBA/WebAssembly. Ships no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858421+00:00"
+    },
+    {
+      "title": "andrewnakas/fe8-web",
+      "url": "https://github.com/andrewnakas/fe8-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-05T15:12:06Z",
+      "summary": "Fire Emblem: The Sacred Stones: byte-matching decompilation build, plus a bring-your-own-ROM browser port on WebAssembly. Ships no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858408+00:00"
+    },
+    {
+      "title": "andrewnakas/knidl-web",
+      "url": "https://github.com/andrewnakas/knidl-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-05T15:13:06Z",
+      "summary": "Kirby: Nightmare in Dream Land: byte-matching decompilation build, plus a bring-your-own-ROM browser port on WebAssembly. Ships no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858397+00:00"
+    },
+    {
+      "title": "andrewnakas/pmdred-web",
+      "url": "https://github.com/andrewnakas/pmdred-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-05T15:14:54Z",
+      "summary": "Pokemon Mystery Dungeon: Red Rescue Team: byte-matching decompilation build, plus a bring-your-own-ROM browser port on WebAssembly. Ships no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858385+00:00"
+    },
+    {
+      "title": "andrewnakas/mzm-web",
+      "url": "https://github.com/andrewnakas/mzm-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-05T15:18:29Z",
+      "summary": "Metroid: Zero Mission: byte-matching decompilation build, plus a bring-your-own-ROM browser port on WebAssembly. Ships no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858373+00:00"
+    },
+    {
+      "title": "andrewnakas/pokefirered-web",
+      "url": "https://github.com/andrewnakas/pokefirered-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-05T15:19:20Z",
+      "summary": "Pokemon FireRed: byte-matching decompilation build, plus a bring-your-own-ROM browser port on WebAssembly. Ships no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858361+00:00"
+    },
+    {
+      "title": "andrewnakas/pokegold-web",
+      "url": "https://github.com/andrewnakas/pokegold-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-05T15:20:23Z",
+      "summary": "Pokemon Gold and Silver: byte-matching decompilation build, plus a bring-your-own-ROM browser port on WebAssembly. Ships no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858349+00:00"
+    },
+    {
+      "title": "andrewnakas/pokeruby-web",
+      "url": "https://github.com/andrewnakas/pokeruby-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-05T15:21:02Z",
+      "summary": "Pokemon Ruby and Sapphire: byte-matching decompilation build, plus a bring-your-own-ROM browser port on WebAssembly. Ships no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858337+00:00"
+    },
+    {
+      "title": "andrewnakas/poketcg-web",
+      "url": "https://github.com/andrewnakas/poketcg-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-05T15:21:15Z",
+      "summary": "Pokemon Trading Card Game: byte-matching decompilation build, plus a bring-your-own-ROM browser port on WebAssembly. Ships no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858325+00:00"
+    },
+    {
+      "title": "andrewnakas/pokeyellow-web",
+      "url": "https://github.com/andrewnakas/pokeyellow-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-05T15:21:39Z",
+      "summary": "Pokemon Yellow: byte-matching decompilation build, plus a bring-your-own-ROM browser port on WebAssembly. Ships no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858313+00:00"
+    },
+    {
+      "title": "andrewnakas/supermetroid-web",
+      "url": "https://github.com/andrewnakas/supermetroid-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-05T15:21:54Z",
+      "summary": "Super Metroid: C reimplementation verified by frame-by-frame co-simulation against the original machine code, plus a bring-your-own-ROM browser port on WebAssembly. Ships no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858300+00:00"
+    },
+    {
+      "title": "andrewnakas/tmc-web",
+      "url": "https://github.com/andrewnakas/tmc-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-05T15:22:08Z",
+      "summary": "The Legend of Zelda: The Minish Cap: byte-matching decompilation build, plus a bring-your-own-ROM browser port on WebAssembly. Ships no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858287+00:00"
+    },
+    {
+      "title": "andrewnakas/warioland4-web",
+      "url": "https://github.com/andrewnakas/warioland4-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-05T15:22:40Z",
+      "summary": "Wario Land 4: byte-matching decompilation build, plus a bring-your-own-ROM browser port on WebAssembly. Ships no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858274+00:00"
+    },
+    {
+      "title": "andrewnakas/zelda3-web",
+      "url": "https://github.com/andrewnakas/zelda3-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-05T15:24:07Z",
+      "summary": "The Legend of Zelda: A Link to the Past: C reimplementation verified by frame-by-frame co-simulation against the original machine code, plus a bring-your-own-ROM browser port on WebAssembly. Ships no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858262+00:00"
+    },
+    {
+      "title": "Snake3ite/SaturdayDynasty",
+      "url": "https://github.com/Snake3ite/SaturdayDynasty",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-05T16:10:18Z",
+      "summary": "Saturday dynasty football game ported to browser.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858249+00:00"
+    },
+    {
+      "title": "andrewnakas/zelda1-web",
+      "url": "https://github.com/andrewnakas/zelda1-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-06T04:30:05Z",
+      "summary": "The Legend of Zelda (NES): byte-exact PRG0 reassembly from the aldonunez disassembly, plus a bring-your-own-ROM browser port. Ships no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858233+00:00"
+    },
+    {
+      "title": "andrewnakas/sonic1-web",
+      "url": "https://github.com/andrewnakas/sonic1-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-06T05:48:03Z",
+      "summary": "Sonic the Hedgehog (Mega Drive): byte-exact reassembly from sonicretro/s1disasm, plus a bring-your-own-ROM browser port on mdcore, an MIT-licensed Mega Drive core. Ships no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858201+00:00"
+    },
+    {
+      "title": "isDemetrio/melee-web",
+      "url": "https://github.com/isDemetrio/melee-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-06T09:58:24Z",
+      "summary": "Phase 0: WebAssembly port with a browser harness and a measurement suite. No game data in this repository.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858188+00:00"
+    },
+    {
+      "title": "iamstupidplaceholder/benilla-wasm",
+      "url": "https://github.com/iamstupidplaceholder/benilla-wasm",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-06T20:15:11Z",
+      "summary": "WebAssembly browser port of benilla, a Rust/Bevy WoW 1.12.1 client. English and Russian localization. No game assets included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858174+00:00"
+    },
+    {
+      "title": "jparish1977/jsstarlanes",
+      "url": "https://github.com/jparish1977/jsstarlanes",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-06T13:51:54Z",
+      "summary": "A space-age stock trading game. JS port of the 1982/1997 ncurses Starlanes, rebalanced, with browser and terminal front-ends. No dependencies.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858160+00:00"
+    },
+    {
+      "title": "Nico-Bernaola/port-royale-2-web",
+      "url": "https://github.com/Nico-Bernaola/port-royale-2-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-07T04:10:30Z",
+      "summary": "Port Royale 2 running in the browser: WebAssembly simulation core + WebGL (Three.js) renderer, assets extracted from your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858145+00:00"
+    },
+    {
+      "title": "Simonization/web-cub3d",
+      "url": "https://github.com/Simonization/web-cub3d",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-07T13:07:30Z",
+      "summary": "A browser port of the 42 cub3D raycaster — draw your own map and pick your own colours from inside the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858131+00:00"
+    },
+    {
+      "title": "tranmh/Quake-2-web",
+      "url": "https://github.com/tranmh/Quake-2-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-07T17:49:25Z",
+      "summary": "Faithful port of id Software's Quake II (v3.19) to the web: authoritative Go server (engine, full game logic, CTF), hand-ported TypeScript client with a WebGL2 renderer and AudioWorklet sound, and a Next.js shell with accounts, saves and a server browser. Verified bit-for-bit against the original C source. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858105+00:00"
+    },
+    {
+      "title": "alesha-pro/bench-portal",
+      "url": "https://github.com/alesha-pro/bench-portal",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-08T14:43:21Z",
+      "summary": "Playable browser game benchmark portal",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858090+00:00"
+    },
+    {
+      "title": "ppittocco/ptc-trainer",
+      "url": "https://github.com/ppittocco/ptc-trainer",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-08T16:18:26Z",
+      "summary": "PTC TRAINER: a Menyoo-style in-game trainer for the GTA V WebAssembly browser port (F8). Made by @ppittocco.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858063+00:00"
+    },
+    {
+      "title": "Ale7208/Geometry-Dash-webport",
+      "url": "https://github.com/Ale7208/Geometry-Dash-webport",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-10T23:01:16Z",
+      "summary": "Geometry Dash Webport is a web-based port of Geometry Dash 2.2081 that allows you to play the game directly in your browser, without needing to install the original game. It brings the classic Geometry Dash experience to the web, including its gameplay, levels, and features. Topics: geometry-dash, html, html5, unblockedatschool, unblocker-for-school, web, web-games",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858050+00:00"
+    },
+    {
+      "title": "MihailPreis/Wheelie",
+      "url": "https://github.com/MihailPreis/Wheelie",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-09T08:50:11Z",
+      "summary": "Wheelie! — an unofficial fan-made web port of Gravity Defied, the classic J2ME trial racing game. Mods, replays and sharing in the browser. Topics: browser-game, canvas, fan-game, game, gravity-defied, html5-game, itch-io, j2me, port, racing-game, retro-game, trial-racing, typescript, vite, web-game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.858031+00:00"
+    },
+    {
+      "title": "LIN4CRE/tabulous-games",
+      "url": "https://github.com/LIN4CRE/tabulous-games",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-10T10:22:51Z",
+      "summary": "🎮 The Curated Browser Gaming Vault — 23 Classic 3D PC ports, shooters, zombies co-op, and WebAssembly games running in your browser.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.857962+00:00"
+    },
+    {
+      "title": "escapedcat/armagetronad-web",
+      "url": "https://github.com/escapedcat/armagetronad-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-10T14:10:19Z",
+      "summary": "Armagetron Advanced running in the browser — Emscripten/WASM port of the original C++ game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.857945+00:00"
+    },
+    {
+      "title": "mattrbeck/dingbat",
+      "url": "https://github.com/mattrbeck/dingbat",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-10T16:30:13Z",
+      "summary": "A fully-featured, accurate, and fast Game Boy Advance emulator built to run in the browser. Originally ported from https://github.com/mattrbeck/crab Topics: emulator, gameboy-advance, gameboy-advance-emulator, gameboy-color, gameboy-color-emulator, gameboy-emulator, gba, gba-emulator, nim, nim-lang, wasm",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.857926+00:00"
+    },
+    {
+      "title": "dynamiteswag81/webcompiled",
+      "url": "https://github.com/dynamiteswag81/webcompiled",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-10T21:10:36Z",
+      "summary": "Browser (WebAssembly + WebGPU) port of WiiCompiled - Mario Kart Wii static recompilation. No game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.857895+00:00"
+    },
+    {
+      "title": "jeiel85/minebombers-reloaded",
+      "url": "https://github.com/jeiel85/minebombers-reloaded",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-10T23:19:15Z",
+      "summary": "Port of the 1995 MS-DOS game Mine Bombers 3.11 to modern systems: a Rust/SDL2 native engine and a browser edition. Code: MIT OR Apache-2.0. Bring your own copy of the game files. Topics: arcade, dos-game, game, game-port, mine-bombers, reimplementation, retro-gaming, rust, sdl2, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.857860+00:00"
+    },
+    {
+      "title": "Suleiman700/zt2-web-port",
+      "url": "https://github.com/Suleiman700/zt2-web-port",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-10T23:38:38Z",
+      "summary": "Zoo Tycoon 2 rebuilt natively in the browser (WebGL2, plain JS) from the original game data. Unofficial fan project, work in progress.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.857842+00:00"
+    },
+    {
+      "title": "GhostFaceModz/GhostGames",
+      "url": "https://github.com/GhostFaceModz/GhostGames",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-11T01:16:46Z",
+      "summary": "GhostGames: a 3D browser games library. Play classic and WebAssembly game ports instantly, no installs. Topics: browser-games, game-portal, games, html5-games, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.857819+00:00"
+    },
+    {
+      "title": "McGregory99/empire-earth-web",
+      "url": "https://github.com/McGregory99/empire-earth-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-11T13:40:09Z",
+      "summary": "Incremental reverse engineering of Empire Earth (2001) toward a browser port. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.857286+00:00"
+    },
+    {
+      "title": "moynaastir205/SkyRoads-Codex",
+      "url": "https://github.com/moynaastir205/SkyRoads-Codex",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-11T14:22:54Z",
+      "summary": "Rebuild the original SkyRoads DOS game with a true native port that matches its simulation, rendering, and audio on modern platforms. Topics: ai, api, automation, browser, centos, claude, computer, distributed-tracing, gpt, llm, observability, openvpn, powerautomate, prometheus, puppeteer, rpa, service-mesh, skywalking, ubuntu, vibe-coding",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.857254+00:00"
+    },
+    {
+      "title": "SubmitGame/awesome-decomp-games",
+      "url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-11T16:04:15Z",
+      "summary": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports. Topics: awesome, awesome-list, decompilation, game-preservation, recompilation, reverse-engineering, source-port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T16:16:00.857190+00:00"
+    }
+  ]
 }
