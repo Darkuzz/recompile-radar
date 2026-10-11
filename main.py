@@ -6,6 +6,10 @@ import urllib.error
 
 
 def main():
+    if os.environ.get("GITHUB_EVENT_NAME") == "schedule":
+        print("Автоматический запуск: публикации пока отключены.")
+        return
+
     token = os.environ["TELEGRAM_BOT_TOKEN"]
     chat_id = os.environ["TELEGRAM_CHAT_ID"]
 
