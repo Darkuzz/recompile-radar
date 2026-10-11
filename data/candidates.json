@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-11T17:31:20.379874+00:00",
+  "last_updated": "2026-10-11T17:36:12.703342+00:00",
   "candidates": [
     {
       "title": "veritr1x/pharaoh-recomp",
@@ -1558,7 +1558,172 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:24.455331+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:35:59.770799+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Native PC port of the Xbox 360 XBLA game Dead Rising 2: Case West, by static recompilation. Windows and Linux, Vulkan, keyboard/mouse and controller. You supply your own copy of the game.",
+        "latest_release_url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/tag/v1.1.1",
+        "latest_release_name": "Dead Rising 2: Case West — Native PC Recomp v1.1.1",
+        "release_assets": [
+          {
+            "name": "CaseWestRecomp-linux-x86_64.AppImage",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.1/CaseWestRecomp-linux-x86_64.AppImage",
+            "size": 30472696
+          },
+          {
+            "name": "CaseWestRecomp-linux-x86_64.tar.zst",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.1/CaseWestRecomp-linux-x86_64.tar.zst",
+            "size": 31861812
+          },
+          {
+            "name": "CaseWestRecomp-steamdeck-x86_64.tar.gz",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.1/CaseWestRecomp-steamdeck-x86_64.tar.gz",
+            "size": 31970995
+          },
+          {
+            "name": "CaseWestRecomp-windows-x86_64.zip",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.1/CaseWestRecomp-windows-x86_64.zip",
+            "size": 24891116
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.1/SHA256SUMS",
+            "size": 410
+          }
+        ],
+        "releases": [
+          {
+            "name": "Dead Rising 2: Case West — Native PC Recomp v1.1.1",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/tag/v1.1.1",
+            "published_at": "2026-09-17T06:44:49Z",
+            "assets": [
+              {
+                "name": "CaseWestRecomp-linux-x86_64.AppImage",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.1/CaseWestRecomp-linux-x86_64.AppImage",
+                "size": 30472696
+              },
+              {
+                "name": "CaseWestRecomp-linux-x86_64.tar.zst",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.1/CaseWestRecomp-linux-x86_64.tar.zst",
+                "size": 31861812
+              },
+              {
+                "name": "CaseWestRecomp-steamdeck-x86_64.tar.gz",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.1/CaseWestRecomp-steamdeck-x86_64.tar.gz",
+                "size": 31970995
+              },
+              {
+                "name": "CaseWestRecomp-windows-x86_64.zip",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.1/CaseWestRecomp-windows-x86_64.zip",
+                "size": 24891116
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.1/SHA256SUMS",
+                "size": 410
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Dead Rising 2: Case West — Native PC Recomp v1.1.0",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/tag/v1.1.0",
+            "published_at": "2026-09-13T01:59:00Z",
+            "assets": [
+              {
+                "name": "CaseWestRecomp-linux-x86_64.AppImage",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.0/CaseWestRecomp-linux-x86_64.AppImage",
+                "size": 30267896
+              },
+              {
+                "name": "CaseWestRecomp-linux-x86_64.tar.zst",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.0/CaseWestRecomp-linux-x86_64.tar.zst",
+                "size": 31656879
+              },
+              {
+                "name": "CaseWestRecomp-steamdeck-x86_64.tar.gz",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.0/CaseWestRecomp-steamdeck-x86_64.tar.gz",
+                "size": 31757479
+              },
+              {
+                "name": "CaseWestRecomp-windows-x86_64.zip",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.0/CaseWestRecomp-windows-x86_64.zip",
+                "size": 24690032
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.0/SHA256SUMS",
+                "size": 410
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Dead Rising 2: Case West — Native PC Recomp v1.0.1",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/tag/v1.0.1",
+            "published_at": "2026-09-10T06:45:01Z",
+            "assets": [
+              {
+                "name": "CaseWestRecomp-linux-x86_64.AppImage",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.0.1/CaseWestRecomp-linux-x86_64.AppImage",
+                "size": 27355640
+              },
+              {
+                "name": "CaseWestRecomp-linux-x86_64.tar.zst",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.0.1/CaseWestRecomp-linux-x86_64.tar.zst",
+                "size": 28359146
+              },
+              {
+                "name": "CaseWestRecomp-windows-x86_64.zip",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.0.1/CaseWestRecomp-windows-x86_64.zip",
+                "size": 22212742
+              },
+              {
+                "name": "release-notes-v1.0.1.md",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.0.1/release-notes-v1.0.1.md",
+                "size": 9092
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.0.1/SHA256SUMS",
+                "size": 305
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Dead Rising 2: Case West — Native PC Recomp v1.0.0",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/tag/v1.0.0",
+            "published_at": "2026-09-07T02:27:27Z",
+            "assets": [
+              {
+                "name": "CaseWestRecomp-linux-x86_64.tar.zst",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.0.0/CaseWestRecomp-linux-x86_64.tar.zst",
+                "size": 28254916
+              },
+              {
+                "name": "CaseWestRecomp-windows-x86_64.zip",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.0.0/CaseWestRecomp-windows-x86_64.zip",
+                "size": 22142617
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -1574,9 +1739,96 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "CaseWestRecomp-linux-x86_64.AppImage",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.1/CaseWestRecomp-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "CaseWestRecomp-linux-x86_64.tar.zst",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.1/CaseWestRecomp-linux-x86_64.tar.zst",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseWestRecomp-steamdeck-x86_64.tar.gz",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.1/CaseWestRecomp-steamdeck-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "CaseWestRecomp-windows-x86_64.zip",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.1/CaseWestRecomp-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseWestRecomp-linux-x86_64.AppImage",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.0/CaseWestRecomp-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "CaseWestRecomp-linux-x86_64.tar.zst",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.0/CaseWestRecomp-linux-x86_64.tar.zst",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseWestRecomp-steamdeck-x86_64.tar.gz",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.0/CaseWestRecomp-steamdeck-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "CaseWestRecomp-windows-x86_64.zip",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.0/CaseWestRecomp-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.1.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseWestRecomp-linux-x86_64.AppImage",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.0.1/CaseWestRecomp-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "CaseWestRecomp-linux-x86_64.tar.zst",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.0.1/CaseWestRecomp-linux-x86_64.tar.zst",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseWestRecomp-windows-x86_64.zip",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.0.1/CaseWestRecomp-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "release-notes-v1.0.1.md",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.0.1/release-notes-v1.0.1.md",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.0.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseWestRecomp-linux-x86_64.tar.zst",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.0.0/CaseWestRecomp-linux-x86_64.tar.zst",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseWestRecomp-windows-x86_64.zip",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/releases/download/v1.0.0/CaseWestRecomp-windows-x86_64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ]
     },
     {
@@ -1588,7 +1840,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:24.455318+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:36:01.475082+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Faithful native port of the 1989 DOS game Lost Dutchman Mine (Linux and Windows, SDL2). Original game files not included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -1616,7 +1885,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:24.455304+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:36:03.040261+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows/Linux port of Earthworm Jim HD (Xbox 360) via static recompilation. Bring your own game.",
+        "latest_release_url": "https://github.com/devEx780/earthworm-jim-hd-recomp/releases/tag/v0.1.0",
+        "latest_release_name": "Earthworm Jim HD PC port 0.1.0",
+        "release_assets": [
+          {
+            "name": "ewj-hd-linux.tar.gz",
+            "url": "https://github.com/devEx780/earthworm-jim-hd-recomp/releases/download/v0.1.0/ewj-hd-linux.tar.gz",
+            "size": 33721133
+          },
+          {
+            "name": "ewj-hd-windows.zip",
+            "url": "https://github.com/devEx780/earthworm-jim-hd-recomp/releases/download/v0.1.0/ewj-hd-windows.zip",
+            "size": 27915165
+          }
+        ],
+        "releases": [
+          {
+            "name": "Earthworm Jim HD PC port 0.1.0",
+            "url": "https://github.com/devEx780/earthworm-jim-hd-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-09-30T09:20:21Z",
+            "assets": [
+              {
+                "name": "ewj-hd-linux.tar.gz",
+                "url": "https://github.com/devEx780/earthworm-jim-hd-recomp/releases/download/v0.1.0/ewj-hd-linux.tar.gz",
+                "size": 33721133
+              },
+              {
+                "name": "ewj-hd-windows.zip",
+                "url": "https://github.com/devEx780/earthworm-jim-hd-recomp/releases/download/v0.1.0/ewj-hd-windows.zip",
+                "size": 27915165
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -1630,9 +1947,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "ewj-hd-linux.tar.gz",
+          "url": "https://github.com/devEx780/earthworm-jim-hd-recomp/releases/download/v0.1.0/ewj-hd-linux.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "ewj-hd-windows.zip",
+          "url": "https://github.com/devEx780/earthworm-jim-hd-recomp/releases/download/v0.1.0/ewj-hd-windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ]
     },
     {
@@ -1644,7 +1973,127 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:24.455291+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:36:04.599666+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Old 1993 game Companions of Xanth decompiled byte for byte. Port for windows 11 and bazzite linux. You need the old game cd.",
+        "latest_release_url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/tag/v0.1.0-alpha.5",
+        "latest_release_name": "Companions of Xanth port v0.1.0-alpha.5",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.5/SHA256SUMS",
+            "size": 112
+          },
+          {
+            "name": "xanth-port-v0.1.0-alpha.5-linux-x86_64.tar.gz",
+            "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.5/xanth-port-v0.1.0-alpha.5-linux-x86_64.tar.gz",
+            "size": 290078
+          }
+        ],
+        "releases": [
+          {
+            "name": "Companions of Xanth port v0.1.0-alpha.5",
+            "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/tag/v0.1.0-alpha.5",
+            "published_at": "2026-09-30T17:47:04Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.5/SHA256SUMS",
+                "size": 112
+              },
+              {
+                "name": "xanth-port-v0.1.0-alpha.5-linux-x86_64.tar.gz",
+                "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.5/xanth-port-v0.1.0-alpha.5-linux-x86_64.tar.gz",
+                "size": 290078
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Companions of Xanth port v0.1.0-alpha.4",
+            "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/tag/v0.1.0-alpha.4",
+            "published_at": "2026-09-30T16:00:40Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.4/SHA256SUMS",
+                "size": 218
+              },
+              {
+                "name": "xanth-port-v0.1.0-alpha.4-linux-x86_64.tar.gz",
+                "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.4/xanth-port-v0.1.0-alpha.4-linux-x86_64.tar.gz",
+                "size": 287506
+              },
+              {
+                "name": "xanth-port-v0.1.0-alpha.4-source.tar.gz",
+                "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.4/xanth-port-v0.1.0-alpha.4-source.tar.gz",
+                "size": 1057593
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Companions of Xanth port v0.1.0-alpha.3",
+            "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/tag/v0.1.0-alpha.3",
+            "published_at": "2026-09-30T09:08:35Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.3/SHA256SUMS",
+                "size": 218
+              },
+              {
+                "name": "xanth-port-v0.1.0-alpha.3-linux-x86_64.tar.gz",
+                "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.3/xanth-port-v0.1.0-alpha.3-linux-x86_64.tar.gz",
+                "size": 130874
+              },
+              {
+                "name": "xanth-port-v0.1.0-alpha.3-source.tar.gz",
+                "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.3/xanth-port-v0.1.0-alpha.3-source.tar.gz",
+                "size": 1008848
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Companions of Xanth port v0.1.0-alpha.2",
+            "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/tag/v0.1.0-alpha.2",
+            "published_at": "2026-09-30T07:06:38Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.2/SHA256SUMS",
+                "size": 218
+              },
+              {
+                "name": "xanth-port-v0.1.0-alpha.2-linux-x86_64.tar.gz",
+                "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.2/xanth-port-v0.1.0-alpha.2-linux-x86_64.tar.gz",
+                "size": 122674
+              },
+              {
+                "name": "xanth-port-v0.1.0-alpha.2-source.tar.gz",
+                "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.2/xanth-port-v0.1.0-alpha.2-source.tar.gz",
+                "size": 953030
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -1658,9 +2107,66 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.5/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "xanth-port-v0.1.0-alpha.5-linux-x86_64.tar.gz",
+          "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.5/xanth-port-v0.1.0-alpha.5-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.4/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "xanth-port-v0.1.0-alpha.4-linux-x86_64.tar.gz",
+          "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.4/xanth-port-v0.1.0-alpha.4-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "xanth-port-v0.1.0-alpha.4-source.tar.gz",
+          "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.4/xanth-port-v0.1.0-alpha.4-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.3/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "xanth-port-v0.1.0-alpha.3-linux-x86_64.tar.gz",
+          "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.3/xanth-port-v0.1.0-alpha.3-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "xanth-port-v0.1.0-alpha.3-source.tar.gz",
+          "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.3/xanth-port-v0.1.0-alpha.3-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "xanth-port-v0.1.0-alpha.2-linux-x86_64.tar.gz",
+          "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.2/xanth-port-v0.1.0-alpha.2-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "xanth-port-v0.1.0-alpha.2-source.tar.gz",
+          "url": "https://github.com/Blizz127/Companions-Of-Xanth-Decompile/releases/download/v0.1.0-alpha.2/xanth-port-v0.1.0-alpha.2-source.tar.gz",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ]
     },
     {
@@ -1672,7 +2178,74 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:24.455271+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:36:06.299704+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows and Linux port of Namco's Dig Dug arcade game (bring your own ROMs). Controller support, widescreen fill, in-game menu.",
+        "latest_release_url": "https://github.com/TekRantGaming/digdug-native/releases/tag/v1.1.0",
+        "latest_release_name": "Dig Dug native port v1.1.0",
+        "release_assets": [
+          {
+            "name": "DigDug-windows-x64.zip",
+            "url": "https://github.com/TekRantGaming/digdug-native/releases/download/v1.1.0/DigDug-windows-x64.zip",
+            "size": 30628851
+          },
+          {
+            "name": "DigDug-x86_64.AppImage",
+            "url": "https://github.com/TekRantGaming/digdug-native/releases/download/v1.1.0/DigDug-x86_64.AppImage",
+            "size": 30751224
+          }
+        ],
+        "releases": [
+          {
+            "name": "Dig Dug native port v1.1.0",
+            "url": "https://github.com/TekRantGaming/digdug-native/releases/tag/v1.1.0",
+            "published_at": "2026-10-01T12:30:48Z",
+            "assets": [
+              {
+                "name": "DigDug-windows-x64.zip",
+                "url": "https://github.com/TekRantGaming/digdug-native/releases/download/v1.1.0/DigDug-windows-x64.zip",
+                "size": 30628851
+              },
+              {
+                "name": "DigDug-x86_64.AppImage",
+                "url": "https://github.com/TekRantGaming/digdug-native/releases/download/v1.1.0/DigDug-x86_64.AppImage",
+                "size": 30751224
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Dig Dug native port v1.0.0",
+            "url": "https://github.com/TekRantGaming/digdug-native/releases/tag/v1.0.0",
+            "published_at": "2026-10-01T03:41:36Z",
+            "assets": [
+              {
+                "name": "DigDug-windows-x64.zip",
+                "url": "https://github.com/TekRantGaming/digdug-native/releases/download/v1.0.0/DigDug-windows-x64.zip",
+                "size": 30602288
+              },
+              {
+                "name": "DigDug-x86_64.AppImage",
+                "url": "https://github.com/TekRantGaming/digdug-native/releases/download/v1.0.0/DigDug-x86_64.AppImage",
+                "size": 30726648
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -1686,9 +2259,31 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "DigDug-windows-x64.zip",
+          "url": "https://github.com/TekRantGaming/digdug-native/releases/download/v1.1.0/DigDug-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "DigDug-x86_64.AppImage",
+          "url": "https://github.com/TekRantGaming/digdug-native/releases/download/v1.1.0/DigDug-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "DigDug-windows-x64.zip",
+          "url": "https://github.com/TekRantGaming/digdug-native/releases/download/v1.0.0/DigDug-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "DigDug-x86_64.AppImage",
+          "url": "https://github.com/TekRantGaming/digdug-native/releases/download/v1.0.0/DigDug-x86_64.AppImage",
+          "type": "desktop_package"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ]
     },
     {
@@ -1700,7 +2295,108 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:24.455245+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:36:07.938085+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Rust port of Curse of War 1.3.0 — a terminal-based hex-grid real-time strategy game (TUI RTS) with Chinese UI by default. Fast-paced Linux/macOS/Windows strategy: place flags, capture gold mines, manage population. Built with ratatui + crossterm.",
+        "latest_release_url": "https://github.com/lunrenyi/curseofwar-rs/releases/tag/v0.1.2",
+        "latest_release_name": "v0.1.2",
+        "release_assets": [
+          {
+            "name": "curseofwar-v0.1.2-aarch64-apple-darwin.tar.gz",
+            "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.2/curseofwar-v0.1.2-aarch64-apple-darwin.tar.gz",
+            "size": 339115
+          },
+          {
+            "name": "curseofwar-v0.1.2-aarch64-unknown-linux-musl.tar.gz",
+            "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.2/curseofwar-v0.1.2-aarch64-unknown-linux-musl.tar.gz",
+            "size": 394435
+          },
+          {
+            "name": "curseofwar-v0.1.2-x86_64-unknown-linux-gnu.tar.gz",
+            "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.2/curseofwar-v0.1.2-x86_64-unknown-linux-gnu.tar.gz",
+            "size": 368182
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.2",
+            "url": "https://github.com/lunrenyi/curseofwar-rs/releases/tag/v0.1.2",
+            "published_at": "2026-10-05T14:01:29Z",
+            "assets": [
+              {
+                "name": "curseofwar-v0.1.2-aarch64-apple-darwin.tar.gz",
+                "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.2/curseofwar-v0.1.2-aarch64-apple-darwin.tar.gz",
+                "size": 339115
+              },
+              {
+                "name": "curseofwar-v0.1.2-aarch64-unknown-linux-musl.tar.gz",
+                "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.2/curseofwar-v0.1.2-aarch64-unknown-linux-musl.tar.gz",
+                "size": 394435
+              },
+              {
+                "name": "curseofwar-v0.1.2-x86_64-unknown-linux-gnu.tar.gz",
+                "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.2/curseofwar-v0.1.2-x86_64-unknown-linux-gnu.tar.gz",
+                "size": 368182
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.1",
+            "url": "https://github.com/lunrenyi/curseofwar-rs/releases/tag/v0.1.1",
+            "published_at": "2026-09-03T01:53:02Z",
+            "assets": [
+              {
+                "name": "curseofwar-v0.1.1-aarch64-apple-darwin.tar.gz",
+                "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.1/curseofwar-v0.1.1-aarch64-apple-darwin.tar.gz",
+                "size": 338462
+              },
+              {
+                "name": "curseofwar-v0.1.1-aarch64-unknown-linux-musl.tar.gz",
+                "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.1/curseofwar-v0.1.1-aarch64-unknown-linux-musl.tar.gz",
+                "size": 395808
+              },
+              {
+                "name": "curseofwar-v0.1.1-x86_64-unknown-linux-gnu.tar.gz",
+                "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.1/curseofwar-v0.1.1-x86_64-unknown-linux-gnu.tar.gz",
+                "size": 366677
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.0 — Initial Rust port",
+            "url": "https://github.com/lunrenyi/curseofwar-rs/releases/tag/v0.1.0",
+            "published_at": "2026-09-02T18:21:45Z",
+            "assets": [
+              {
+                "name": "curseofwar-linux-x86_64.tar.gz",
+                "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.0/curseofwar-linux-x86_64.tar.gz",
+                "size": 367676
+              },
+              {
+                "name": "curseofwar-macos-aarch64.tar.gz",
+                "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.0/curseofwar-macos-aarch64.tar.gz",
+                "size": 338681
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -1714,9 +2410,51 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "curseofwar-v0.1.2-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.2/curseofwar-v0.1.2-aarch64-apple-darwin.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "curseofwar-v0.1.2-aarch64-unknown-linux-musl.tar.gz",
+          "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.2/curseofwar-v0.1.2-aarch64-unknown-linux-musl.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "curseofwar-v0.1.2-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.2/curseofwar-v0.1.2-x86_64-unknown-linux-gnu.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "curseofwar-v0.1.1-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.1/curseofwar-v0.1.1-aarch64-apple-darwin.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "curseofwar-v0.1.1-aarch64-unknown-linux-musl.tar.gz",
+          "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.1/curseofwar-v0.1.1-aarch64-unknown-linux-musl.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "curseofwar-v0.1.1-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.1/curseofwar-v0.1.1-x86_64-unknown-linux-gnu.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "curseofwar-linux-x86_64.tar.gz",
+          "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.0/curseofwar-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "curseofwar-macos-aarch64.tar.gz",
+          "url": "https://github.com/lunrenyi/curseofwar-rs/releases/download/v0.1.0/curseofwar-macos-aarch64.tar.gz",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ]
     },
     {
@@ -1728,7 +2466,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:24.455220+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:36:09.627372+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Configure MCHOSE gaming mice on Linux. DPI, polling rate, lift-off distance and debounce, from a CLI or a small window. Unofficial Linux port of the Windows-only M HUB driver.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -1756,7 +2511,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:24.455197+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:36:11.167330+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Native PC port of Downhill Domination (PS2) for Linux/Windows, by the community. Engine reimplementation loading data from your own disc: levels, collision and bike physics work. Port nativo por y para la comunidad. No game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
