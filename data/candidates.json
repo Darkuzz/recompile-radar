@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-11T17:50:44.438345+00:00",
+  "last_updated": "2026-10-11T18:00:09.642421+00:00",
   "candidates": [
     {
       "title": "HerbFargus/viper-racing-port",
@@ -11,7 +11,162 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:50:35.709595+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:59:56.676833+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A reimplementation of Viper Racing (1998) on OpenGL and SDL2, for Windows and Linux. Needs your own copy of the game.",
+        "latest_release_url": "https://github.com/HerbFargus/viper-racing-port/releases/tag/v1.3",
+        "latest_release_name": "v1.3: detailed cars load fast",
+        "release_assets": [
+          {
+            "name": "viperport-linux-2026.10.09-7356e48.tar.gz",
+            "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.3/viperport-linux-2026.10.09-7356e48.tar.gz",
+            "size": 3432453
+          },
+          {
+            "name": "viperport-linux-2026.10.09-7356e48.tar.gz.sha256",
+            "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.3/viperport-linux-2026.10.09-7356e48.tar.gz.sha256",
+            "size": 108
+          },
+          {
+            "name": "viperport-windows-2026.10.09-7356e48.zip",
+            "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.3/viperport-windows-2026.10.09-7356e48.zip",
+            "size": 2543176
+          },
+          {
+            "name": "viperport-windows-2026.10.09-7356e48.zip.sha256",
+            "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.3/viperport-windows-2026.10.09-7356e48.zip.sha256",
+            "size": 108
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.3: detailed cars load fast",
+            "url": "https://github.com/HerbFargus/viper-racing-port/releases/tag/v1.3",
+            "published_at": "2026-10-09T23:00:12Z",
+            "assets": [
+              {
+                "name": "viperport-linux-2026.10.09-7356e48.tar.gz",
+                "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.3/viperport-linux-2026.10.09-7356e48.tar.gz",
+                "size": 3432453
+              },
+              {
+                "name": "viperport-linux-2026.10.09-7356e48.tar.gz.sha256",
+                "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.3/viperport-linux-2026.10.09-7356e48.tar.gz.sha256",
+                "size": 108
+              },
+              {
+                "name": "viperport-windows-2026.10.09-7356e48.zip",
+                "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.3/viperport-windows-2026.10.09-7356e48.zip",
+                "size": 2543176
+              },
+              {
+                "name": "viperport-windows-2026.10.09-7356e48.zip.sha256",
+                "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.3/viperport-windows-2026.10.09-7356e48.zip.sha256",
+                "size": 108
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "viperport v1.2 — controllers",
+            "url": "https://github.com/HerbFargus/viper-racing-port/releases/tag/v1.2",
+            "published_at": "2026-10-09T05:06:46Z",
+            "assets": [
+              {
+                "name": "viperport-linux-2026.10.08-98541a8.tar.gz",
+                "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.2/viperport-linux-2026.10.08-98541a8.tar.gz",
+                "size": 3431280
+              },
+              {
+                "name": "viperport-linux-2026.10.08-98541a8.tar.gz.sha256",
+                "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.2/viperport-linux-2026.10.08-98541a8.tar.gz.sha256",
+                "size": 108
+              },
+              {
+                "name": "viperport-windows-2026.10.08-98541a8.zip",
+                "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.2/viperport-windows-2026.10.08-98541a8.zip",
+                "size": 2539908
+              },
+              {
+                "name": "viperport-windows-2026.10.08-98541a8.zip.sha256",
+                "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.2/viperport-windows-2026.10.08-98541a8.zip.sha256",
+                "size": 108
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "viperport v1.1 — graphics settings",
+            "url": "https://github.com/HerbFargus/viper-racing-port/releases/tag/v1.1",
+            "published_at": "2026-10-08T14:30:56Z",
+            "assets": [
+              {
+                "name": "viperport-linux-2026.10.08-ea8f6be.tar.gz",
+                "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.1/viperport-linux-2026.10.08-ea8f6be.tar.gz",
+                "size": 3423243
+              },
+              {
+                "name": "viperport-linux-2026.10.08-ea8f6be.tar.gz.sha256",
+                "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.1/viperport-linux-2026.10.08-ea8f6be.tar.gz.sha256",
+                "size": 108
+              },
+              {
+                "name": "viperport-windows-2026.10.08-ea8f6be.zip",
+                "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.1/viperport-windows-2026.10.08-ea8f6be.zip",
+                "size": 2518112
+              },
+              {
+                "name": "viperport-windows-2026.10.08-ea8f6be.zip.sha256",
+                "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.1/viperport-windows-2026.10.08-ea8f6be.zip.sha256",
+                "size": 108
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "viperport v1.0 — the first public release",
+            "url": "https://github.com/HerbFargus/viper-racing-port/releases/tag/v1.0",
+            "published_at": "2026-10-08T11:57:24Z",
+            "assets": [
+              {
+                "name": "viperport-linux-2026.10.08-badbf2a.tar.gz",
+                "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.0/viperport-linux-2026.10.08-badbf2a.tar.gz",
+                "size": 3422698
+              },
+              {
+                "name": "viperport-linux-2026.10.08-badbf2a.tar.gz.sha256",
+                "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.0/viperport-linux-2026.10.08-badbf2a.tar.gz.sha256",
+                "size": 108
+              },
+              {
+                "name": "viperport-windows-2026.10.08-badbf2a.zip",
+                "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.0/viperport-windows-2026.10.08-badbf2a.zip",
+                "size": 2516855
+              },
+              {
+                "name": "viperport-windows-2026.10.08-badbf2a.zip.sha256",
+                "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.0/viperport-windows-2026.10.08-badbf2a.zip.sha256",
+                "size": 108
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -25,14 +180,96 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "viperport-linux-2026.10.09-7356e48.tar.gz",
+          "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.3/viperport-linux-2026.10.09-7356e48.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "viperport-linux-2026.10.09-7356e48.tar.gz.sha256",
+          "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.3/viperport-linux-2026.10.09-7356e48.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "viperport-windows-2026.10.09-7356e48.zip",
+          "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.3/viperport-windows-2026.10.09-7356e48.zip",
+          "type": "archive"
+        },
+        {
+          "name": "viperport-windows-2026.10.09-7356e48.zip.sha256",
+          "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.3/viperport-windows-2026.10.09-7356e48.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "viperport-linux-2026.10.08-98541a8.tar.gz",
+          "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.2/viperport-linux-2026.10.08-98541a8.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "viperport-linux-2026.10.08-98541a8.tar.gz.sha256",
+          "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.2/viperport-linux-2026.10.08-98541a8.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "viperport-windows-2026.10.08-98541a8.zip",
+          "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.2/viperport-windows-2026.10.08-98541a8.zip",
+          "type": "archive"
+        },
+        {
+          "name": "viperport-windows-2026.10.08-98541a8.zip.sha256",
+          "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.2/viperport-windows-2026.10.08-98541a8.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "viperport-linux-2026.10.08-ea8f6be.tar.gz",
+          "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.1/viperport-linux-2026.10.08-ea8f6be.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "viperport-linux-2026.10.08-ea8f6be.tar.gz.sha256",
+          "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.1/viperport-linux-2026.10.08-ea8f6be.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "viperport-windows-2026.10.08-ea8f6be.zip",
+          "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.1/viperport-windows-2026.10.08-ea8f6be.zip",
+          "type": "archive"
+        },
+        {
+          "name": "viperport-windows-2026.10.08-ea8f6be.zip.sha256",
+          "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.1/viperport-windows-2026.10.08-ea8f6be.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "viperport-linux-2026.10.08-badbf2a.tar.gz",
+          "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.0/viperport-linux-2026.10.08-badbf2a.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "viperport-linux-2026.10.08-badbf2a.tar.gz.sha256",
+          "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.0/viperport-linux-2026.10.08-badbf2a.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "viperport-windows-2026.10.08-badbf2a.zip",
+          "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.0/viperport-windows-2026.10.08-badbf2a.zip",
+          "type": "archive"
+        },
+        {
+          "name": "viperport-windows-2026.10.08-badbf2a.zip.sha256",
+          "url": "https://github.com/HerbFargus/viper-racing-port/releases/download/v1.0/viperport-windows-2026.10.08-badbf2a.zip.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: reimplementation",
+        "Есть прямые признаки порта/рекомпиляции: reimplementation",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
@@ -87,7 +324,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil",
+        "Есть прямые признаки порта/рекомпиляции: recompil",
         "Есть игровые/платформенные признаки: game, windows, linux, android"
       ]
     },
@@ -184,7 +421,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -558,7 +795,7 @@
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, decompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation",
         "Есть игровые/платформенные признаки: game, rom, windows, linux, android"
       ]
     },
@@ -655,7 +892,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -705,7 +942,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game, playable, android"
       ]
     },
@@ -1042,7 +1279,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game, windows, android"
       ]
     },
@@ -1396,7 +1633,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: native port",
+        "Есть прямые признаки порта/рекомпиляции: native port",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -1627,7 +1864,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil",
+        "Есть прямые признаки порта/рекомпиляции: recompil",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
@@ -1915,7 +2152,7 @@
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
@@ -1966,7 +2203,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of, native port",
+        "Есть прямые признаки порта/рекомпиляции: port of, native port",
         "Есть игровые/платформенные признаки: game, original game, windows, linux"
       ]
     },
@@ -2060,7 +2297,7 @@
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
@@ -2271,7 +2508,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil",
+        "Есть прямые признаки порта/рекомпиляции: decompil",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
@@ -2394,7 +2631,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, rom, windows, linux"
       ]
     },
@@ -2571,7 +2808,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
@@ -2622,7 +2859,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: rom, windows, linux"
       ]
     },
@@ -2675,7 +2912,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of, reimplementation",
+        "Есть прямые признаки порта/рекомпиляции: port of, reimplementation",
         "Есть игровые/платформенные признаки: game, rom, windows, linux"
       ]
     },
@@ -2724,7 +2961,7 @@
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation",
         "Есть игровые/платформенные признаки: game, linux"
       ]
     },
@@ -2776,7 +3013,7 @@
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation",
         "Есть игровые/платформенные признаки: game, rom, windows, linux"
       ]
     },
@@ -2826,7 +3063,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil",
+        "Есть прямые признаки порта/рекомпиляции: recompil",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
@@ -2876,7 +3113,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of, native port",
+        "Есть прямые признаки порта/рекомпиляции: port of, native port",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
@@ -2919,7 +3156,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -2969,7 +3206,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -3012,7 +3249,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -3062,7 +3299,7 @@
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, decompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
@@ -3075,7 +3312,101 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:20.809366+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T17:59:58.399067+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Need for Speed: Most Wanted (2005), native on Apple Silicon Macs by static recompilation. Bring your own PC game.",
+        "latest_release_url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/tag/v2.0.0",
+        "latest_release_name": "v2.0.0",
+        "release_assets": [
+          {
+            "name": "NFS-Most-Wanted-Native-Setup-v2.0.0.dmg",
+            "url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/download/v2.0.0/NFS-Most-Wanted-Native-Setup-v2.0.0.dmg",
+            "size": 33653526
+          }
+        ],
+        "releases": [
+          {
+            "name": "v2.0.0",
+            "url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/tag/v2.0.0",
+            "published_at": "2026-10-10T23:49:00Z",
+            "assets": [
+              {
+                "name": "NFS-Most-Wanted-Native-Setup-v2.0.0.dmg",
+                "url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/download/v2.0.0/NFS-Most-Wanted-Native-Setup-v2.0.0.dmg",
+                "size": 33653526
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0.3 — setup fix for newer Pythons",
+            "url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/tag/v1.0.3",
+            "published_at": "2026-10-08T13:20:12Z",
+            "assets": [
+              {
+                "name": "NFS-Most-Wanted-Native-Setup-v1.0.3.dmg",
+                "url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/download/v1.0.3/NFS-Most-Wanted-Native-Setup-v1.0.3.dmg",
+                "size": 33314259
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0.2 — change any button",
+            "url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/tag/v1.0.2",
+            "published_at": "2026-10-07T23:56:24Z",
+            "assets": [
+              {
+                "name": "NFS-Most-Wanted-Native-Setup-v1.0.2.dmg",
+                "url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/download/v1.0.2/NFS-Most-Wanted-Native-Setup-v1.0.2.dmg",
+                "size": 33297355
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0.1 — setup fixes",
+            "url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/tag/v1.0.1",
+            "published_at": "2026-10-07T16:46:29Z",
+            "assets": [
+              {
+                "name": "NFS-Most-Wanted-Native-Setup-v1.0.1.dmg",
+                "url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/download/v1.0.1/NFS-Most-Wanted-Native-Setup-v1.0.1.dmg",
+                "size": 33280561
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0.0 — first public release",
+            "url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/tag/v1.0.0",
+            "published_at": "2026-10-07T04:25:58Z",
+            "assets": [
+              {
+                "name": "NFS-Most-Wanted-Native-Setup-v1.0.0.dmg",
+                "url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/download/v1.0.0/NFS-Most-Wanted-Native-Setup-v1.0.0.dmg",
+                "size": 33278138
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -3084,12 +3415,40 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "NFS-Most-Wanted-Native-Setup-v2.0.0.dmg",
+          "url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/download/v2.0.0/NFS-Most-Wanted-Native-Setup-v2.0.0.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "NFS-Most-Wanted-Native-Setup-v1.0.3.dmg",
+          "url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/download/v1.0.3/NFS-Most-Wanted-Native-Setup-v1.0.3.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "NFS-Most-Wanted-Native-Setup-v1.0.2.dmg",
+          "url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/download/v1.0.2/NFS-Most-Wanted-Native-Setup-v1.0.2.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "NFS-Most-Wanted-Native-Setup-v1.0.1.dmg",
+          "url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/download/v1.0.1/NFS-Most-Wanted-Native-Setup-v1.0.1.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "NFS-Most-Wanted-Native-Setup-v1.0.0.dmg",
+          "url": "https://github.com/elforeign/nfs-most-wanted-mac/releases/download/v1.0.0/NFS-Most-Wanted-Native-Setup-v1.0.0.dmg",
+          "type": "desktop_package"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -3102,7 +3461,230 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:20.809348+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T18:00:00.039742+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Native PC port of the Xbox 360 XBLA game Dead Rising 2: Case Zero, by static recompilation. Windows and Linux, Vulkan, keyboard/mouse and controller. You supply your own copy of the game.",
+        "latest_release_url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/tag/v1.1.2",
+        "latest_release_name": "v1.1.2 — sliced zombies, co-op fixes, shade exposure, ultrawide fills, the X attack prompt, and a speedrun status block",
+        "release_assets": [
+          {
+            "name": "CaseZeroRecomp-linux-x86_64.AppImage",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.2/CaseZeroRecomp-linux-x86_64.AppImage",
+            "size": 30444024
+          },
+          {
+            "name": "CaseZeroRecomp-linux-x86_64.tar.zst",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.2/CaseZeroRecomp-linux-x86_64.tar.zst",
+            "size": 31833855
+          },
+          {
+            "name": "CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.2/CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+            "size": 31957322
+          },
+          {
+            "name": "CaseZeroRecomp-windows-x86_64.zip",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.2/CaseZeroRecomp-windows-x86_64.zip",
+            "size": 24915637
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.2/SHA256SUMS",
+            "size": 410
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.1.2 — sliced zombies, co-op fixes, shade exposure, ultrawide fills, the X attack prompt, and a speedrun status block",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/tag/v1.1.2",
+            "published_at": "2026-09-30T06:50:46Z",
+            "assets": [
+              {
+                "name": "CaseZeroRecomp-linux-x86_64.AppImage",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.2/CaseZeroRecomp-linux-x86_64.AppImage",
+                "size": 30444024
+              },
+              {
+                "name": "CaseZeroRecomp-linux-x86_64.tar.zst",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.2/CaseZeroRecomp-linux-x86_64.tar.zst",
+                "size": 31833855
+              },
+              {
+                "name": "CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.2/CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+                "size": 31957322
+              },
+              {
+                "name": "CaseZeroRecomp-windows-x86_64.zip",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.2/CaseZeroRecomp-windows-x86_64.zip",
+                "size": 24915637
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.2/SHA256SUMS",
+                "size": 410
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.1.1 — night & interior exposure fix, tile seam, gas-station roof, leaderboard flush, co-op fixes",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/tag/v1.1.1",
+            "published_at": "2026-09-17T05:07:18Z",
+            "assets": [
+              {
+                "name": "CaseZeroRecomp-linux-x86_64.AppImage",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.1/CaseZeroRecomp-linux-x86_64.AppImage",
+                "size": 30378488
+              },
+              {
+                "name": "CaseZeroRecomp-linux-x86_64.tar.zst",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.1/CaseZeroRecomp-linux-x86_64.tar.zst",
+                "size": 31771320
+              },
+              {
+                "name": "CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.1/CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+                "size": 31890353
+              },
+              {
+                "name": "CaseZeroRecomp-windows-x86_64.zip",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.1/CaseZeroRecomp-windows-x86_64.zip",
+                "size": 24846620
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.1/SHA256SUMS",
+                "size": 410
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Dead Rising 2: Case Zero — Native PC Recomp v1.1.0 (online co-op)",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/tag/v1.1.0",
+            "published_at": "2026-09-13T07:53:51Z",
+            "assets": [
+              {
+                "name": "CaseZeroRecomp-linux-x86_64.AppImage",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.0/CaseZeroRecomp-linux-x86_64.AppImage",
+                "size": 30194168
+              },
+              {
+                "name": "CaseZeroRecomp-linux-x86_64.tar.zst",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.0/CaseZeroRecomp-linux-x86_64.tar.zst",
+                "size": 31545660
+              },
+              {
+                "name": "CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.0/CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+                "size": 31677255
+              },
+              {
+                "name": "CaseZeroRecomp-windows-x86_64.zip",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.0/CaseZeroRecomp-windows-x86_64.zip",
+                "size": 24645716
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.0/SHA256SUMS",
+                "size": 410
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Dead Rising 2: Case Zero — Native PC Recomp v1.0.2",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/tag/v1.0.2",
+            "published_at": "2026-09-10T05:07:59Z",
+            "assets": [
+              {
+                "name": "CaseZeroRecomp-linux-x86_64-pm4fix.tar.zst",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.2/CaseZeroRecomp-linux-x86_64-pm4fix.tar.zst",
+                "size": 28234715
+              },
+              {
+                "name": "CaseZeroRecomp-linux-x86_64.AppImage",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.2/CaseZeroRecomp-linux-x86_64.AppImage",
+                "size": 27224568
+              },
+              {
+                "name": "CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.2/CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+                "size": 28434335
+              },
+              {
+                "name": "CaseZeroRecomp-windows-x86_64.zip",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.2/CaseZeroRecomp-windows-x86_64.zip",
+                "size": 22136985
+              },
+              {
+                "name": "release-notes-v1.0.2.md",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.2/release-notes-v1.0.2.md",
+                "size": 11250
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.2/SHA256SUMS",
+                "size": 305
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Dead Rising 2: Case Zero — Native PC Recomp v1.0.1",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/tag/v1.0.1",
+            "published_at": "2026-09-07T02:06:20Z",
+            "assets": [
+              {
+                "name": "CaseZeroRecomp-linux-x86_64.tar.zst",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.1/CaseZeroRecomp-linux-x86_64.tar.zst",
+                "size": 28128501
+              },
+              {
+                "name": "CaseZeroRecomp-windows-x86_64.zip",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.1/CaseZeroRecomp-windows-x86_64.zip",
+                "size": 22078531
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Dead Rising 2: Case Zero — Native PC Recomp v1.0.0",
+            "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/tag/v1.0.0",
+            "published_at": "2026-09-06T01:38:53Z",
+            "assets": [
+              {
+                "name": "CaseZeroRecomp-linux-x86_64.tar.zst",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.0/CaseZeroRecomp-linux-x86_64.tar.zst",
+                "size": 28101741
+              },
+              {
+                "name": "CaseZeroRecomp-windows-x86_64.zip",
+                "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.0/CaseZeroRecomp-windows-x86_64.zip",
+                "size": 22058387
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -3118,14 +3700,141 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "CaseZeroRecomp-linux-x86_64.AppImage",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.2/CaseZeroRecomp-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "CaseZeroRecomp-linux-x86_64.tar.zst",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.2/CaseZeroRecomp-linux-x86_64.tar.zst",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.2/CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "CaseZeroRecomp-windows-x86_64.zip",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.2/CaseZeroRecomp-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseZeroRecomp-linux-x86_64.AppImage",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.1/CaseZeroRecomp-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "CaseZeroRecomp-linux-x86_64.tar.zst",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.1/CaseZeroRecomp-linux-x86_64.tar.zst",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.1/CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "CaseZeroRecomp-windows-x86_64.zip",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.1/CaseZeroRecomp-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseZeroRecomp-linux-x86_64.AppImage",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.0/CaseZeroRecomp-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "CaseZeroRecomp-linux-x86_64.tar.zst",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.0/CaseZeroRecomp-linux-x86_64.tar.zst",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.0/CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "CaseZeroRecomp-windows-x86_64.zip",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.0/CaseZeroRecomp-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.1.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseZeroRecomp-linux-x86_64-pm4fix.tar.zst",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.2/CaseZeroRecomp-linux-x86_64-pm4fix.tar.zst",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseZeroRecomp-linux-x86_64.AppImage",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.2/CaseZeroRecomp-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.2/CaseZeroRecomp-steamdeck-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "CaseZeroRecomp-windows-x86_64.zip",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.2/CaseZeroRecomp-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "release-notes-v1.0.2.md",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.2/release-notes-v1.0.2.md",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseZeroRecomp-linux-x86_64.tar.zst",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.1/CaseZeroRecomp-linux-x86_64.tar.zst",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseZeroRecomp-windows-x86_64.zip",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.1/CaseZeroRecomp-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CaseZeroRecomp-linux-x86_64.tar.zst",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.0/CaseZeroRecomp-linux-x86_64.tar.zst",
+          "type": "other_file"
+        },
+        {
+          "name": "CaseZeroRecomp-windows-x86_64.zip",
+          "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/releases/download/v1.0.0/CaseZeroRecomp-windows-x86_64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
@@ -3138,7 +3847,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:20.809335+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T18:00:01.699436+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Shared launcher and in-game UI for static recompilation projects · Part of the R.A.I.D. community",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -3152,7 +3878,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -3165,7 +3891,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:20.809321+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T18:00:03.226675+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Bully: Scholarship Edition (Xbox 360) to native Windows x64 using the ReXGlue SDK. No game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -3185,7 +3928,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game, windows"
       ]
     },
@@ -3198,7 +3941,162 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:20.809306+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T18:00:04.763135+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native PC port of Muscle March (WiiWare) via static recompilation: macOS, Linux, Steam Deck, Windows. Requires your own copy of the game. Beta.",
+        "latest_release_url": "https://github.com/tmcleroy/muscle-march-recomp/releases/tag/v0.1.0-beta.4",
+        "latest_release_name": "Muscle March Recomp 0.1.0-beta.4",
+        "release_assets": [
+          {
+            "name": "MuscleMarch-macOS.zip",
+            "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.4/MuscleMarch-macOS.zip",
+            "size": 12882924
+          },
+          {
+            "name": "MuscleMarch-windows.zip",
+            "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.4/MuscleMarch-windows.zip",
+            "size": 9524393
+          },
+          {
+            "name": "MuscleMarch-x86_64.AppImage",
+            "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.4/MuscleMarch-x86_64.AppImage",
+            "size": 10058232
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.4/SHA256SUMS.txt",
+            "size": 272
+          }
+        ],
+        "releases": [
+          {
+            "name": "Muscle March Recomp 0.1.0-beta.4",
+            "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/tag/v0.1.0-beta.4",
+            "published_at": "2026-10-11T05:06:14Z",
+            "assets": [
+              {
+                "name": "MuscleMarch-macOS.zip",
+                "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.4/MuscleMarch-macOS.zip",
+                "size": 12882924
+              },
+              {
+                "name": "MuscleMarch-windows.zip",
+                "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.4/MuscleMarch-windows.zip",
+                "size": 9524393
+              },
+              {
+                "name": "MuscleMarch-x86_64.AppImage",
+                "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.4/MuscleMarch-x86_64.AppImage",
+                "size": 10058232
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.4/SHA256SUMS.txt",
+                "size": 272
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Muscle March Recomp 0.1.0-beta.3",
+            "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/tag/v0.1.0-beta.3",
+            "published_at": "2026-10-10T06:48:11Z",
+            "assets": [
+              {
+                "name": "MuscleMarch-macOS.zip",
+                "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.3/MuscleMarch-macOS.zip",
+                "size": 12883244
+              },
+              {
+                "name": "MuscleMarch-windows.zip",
+                "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.3/MuscleMarch-windows.zip",
+                "size": 9522675
+              },
+              {
+                "name": "MuscleMarch-x86_64.AppImage",
+                "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.3/MuscleMarch-x86_64.AppImage",
+                "size": 10058232
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.3/SHA256SUMS.txt",
+                "size": 272
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Muscle March Recomp 0.1.0-beta.2",
+            "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/tag/v0.1.0-beta.2",
+            "published_at": "2026-10-10T05:32:32Z",
+            "assets": [
+              {
+                "name": "MuscleMarch-macOS.zip",
+                "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.2/MuscleMarch-macOS.zip",
+                "size": 12877107
+              },
+              {
+                "name": "MuscleMarch-windows.zip",
+                "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.2/MuscleMarch-windows.zip",
+                "size": 9515541
+              },
+              {
+                "name": "MuscleMarch-x86_64.AppImage",
+                "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.2/MuscleMarch-x86_64.AppImage",
+                "size": 10041848
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.2/SHA256SUMS.txt",
+                "size": 272
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Muscle March Recomp 0.1.0-beta.1",
+            "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/tag/v0.1.0-beta.1",
+            "published_at": "2026-10-08T16:48:08Z",
+            "assets": [
+              {
+                "name": "MuscleMarch-macOS.zip",
+                "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.1/MuscleMarch-macOS.zip",
+                "size": 12876510
+              },
+              {
+                "name": "MuscleMarch-windows.zip",
+                "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.1/MuscleMarch-windows.zip",
+                "size": 9515965
+              },
+              {
+                "name": "MuscleMarch-x86_64.AppImage",
+                "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.1/MuscleMarch-x86_64.AppImage",
+                "size": 10045944
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.1/SHA256SUMS.txt",
+                "size": 272
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -3214,14 +4112,96 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "MuscleMarch-macOS.zip",
+          "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.4/MuscleMarch-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MuscleMarch-windows.zip",
+          "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.4/MuscleMarch-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MuscleMarch-x86_64.AppImage",
+          "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.4/MuscleMarch-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.4/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "MuscleMarch-macOS.zip",
+          "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.3/MuscleMarch-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MuscleMarch-windows.zip",
+          "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.3/MuscleMarch-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MuscleMarch-x86_64.AppImage",
+          "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.3/MuscleMarch-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.3/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "MuscleMarch-macOS.zip",
+          "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.2/MuscleMarch-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MuscleMarch-windows.zip",
+          "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.2/MuscleMarch-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MuscleMarch-x86_64.AppImage",
+          "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.2/MuscleMarch-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.2/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "MuscleMarch-macOS.zip",
+          "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.1/MuscleMarch-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MuscleMarch-windows.zip",
+          "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.1/MuscleMarch-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MuscleMarch-x86_64.AppImage",
+          "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.1/MuscleMarch-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/tmcleroy/muscle-march-recomp/releases/download/v0.1.0-beta.1/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
@@ -3234,21 +4214,145 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:20.809292+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-10-11T18:00:06.398843+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Army of Two (Army of 2) 2008 [Xbox360] game static recompilation project based on RexGlue-SDK",
+        "latest_release_url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/tag/1.2",
+        "latest_release_name": "1.2",
+        "release_assets": [
+          {
+            "name": "Ao2-lin64.zip",
+            "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/download/1.2/Ao2-lin64.zip",
+            "size": 53994605
+          },
+          {
+            "name": "Ao2-win64.zip",
+            "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/download/1.2/Ao2-win64.zip",
+            "size": 28530352
+          }
+        ],
+        "releases": [
+          {
+            "name": "1.2",
+            "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/tag/1.2",
+            "published_at": "2026-10-07T16:17:04Z",
+            "assets": [
+              {
+                "name": "Ao2-lin64.zip",
+                "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/download/1.2/Ao2-lin64.zip",
+                "size": 53994605
+              },
+              {
+                "name": "Ao2-win64.zip",
+                "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/download/1.2/Ao2-win64.zip",
+                "size": 28530352
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "1.1",
+            "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/tag/1.1",
+            "published_at": "2026-10-01T07:09:57Z",
+            "assets": [
+              {
+                "name": "Ao2-lin64.zip",
+                "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/download/1.1/Ao2-lin64.zip",
+                "size": 53782078
+              },
+              {
+                "name": "Ao2-win64.zip",
+                "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/download/1.1/Ao2-win64.zip",
+                "size": 27728227
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "1.0",
+            "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/tag/1.0",
+            "published_at": "2026-09-16T06:02:34Z",
+            "assets": [
+              {
+                "name": "Ao2-lin64.zip",
+                "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/download/1.0/Ao2-lin64.zip",
+                "size": 53806868
+              },
+              {
+                "name": "Ao2-win64.zip",
+                "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/download/1.0/Ao2-win64.zip",
+                "size": 27775707
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "win64"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "Ao2-lin64.zip",
+          "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/download/1.2/Ao2-lin64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Ao2-win64.zip",
+          "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/download/1.2/Ao2-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Ao2-lin64.zip",
+          "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/download/1.1/Ao2-lin64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Ao2-win64.zip",
+          "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/download/1.1/Ao2-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Ao2-lin64.zip",
+          "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/download/1.0/Ao2-lin64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Ao2-win64.zip",
+          "url": "https://github.com/nikolaygorb/ArmyOfTwoRecomp/releases/download/1.0/Ao2-win64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -3261,21 +4365,174 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:20.809278+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-10-11T18:00:08.011510+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Perfect Dark Remaster 2010 [Xbox360] game static recompilation project based on RexGlue-SDK",
+        "latest_release_url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/tag/1.3",
+        "latest_release_name": "1.3",
+        "release_assets": [
+          {
+            "name": "PerfectDarkRemaster-lin64.zip",
+            "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.3/PerfectDarkRemaster-lin64.zip",
+            "size": 24058174
+          },
+          {
+            "name": "PerfectDarkRemaster-win64.zip",
+            "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.3/PerfectDarkRemaster-win64.zip",
+            "size": 13880385
+          }
+        ],
+        "releases": [
+          {
+            "name": "1.3",
+            "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/tag/1.3",
+            "published_at": "2026-10-07T06:54:19Z",
+            "assets": [
+              {
+                "name": "PerfectDarkRemaster-lin64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.3/PerfectDarkRemaster-lin64.zip",
+                "size": 24058174
+              },
+              {
+                "name": "PerfectDarkRemaster-win64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.3/PerfectDarkRemaster-win64.zip",
+                "size": 13880385
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "1.2",
+            "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/tag/1.2",
+            "published_at": "2026-10-05T16:05:48Z",
+            "assets": [
+              {
+                "name": "PerfectDarkRemaster-lin64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.2/PerfectDarkRemaster-lin64.zip",
+                "size": 24217171
+              },
+              {
+                "name": "PerfectDarkRemaster-win64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.2/PerfectDarkRemaster-win64.zip",
+                "size": 15208764
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "1.1",
+            "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/tag/1.1",
+            "published_at": "2026-09-17T16:13:13Z",
+            "assets": [
+              {
+                "name": "PerfectDarkRemaster-lin64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.1/PerfectDarkRemaster-lin64.zip",
+                "size": 24348240
+              },
+              {
+                "name": "PerfectDarkRemaster-win64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.1/PerfectDarkRemaster-win64.zip",
+                "size": 14806455
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "1.0",
+            "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/tag/1.0",
+            "published_at": "2026-09-05T07:10:21Z",
+            "assets": [
+              {
+                "name": "PerfectDarkRemaster-lin64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.0/PerfectDarkRemaster-lin64.zip",
+                "size": 24119128
+              },
+              {
+                "name": "PerfectDarkRemaster-win64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.0/PerfectDarkRemaster-win64.zip",
+                "size": 15801471
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "win64"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "PerfectDarkRemaster-lin64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.3/PerfectDarkRemaster-lin64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PerfectDarkRemaster-win64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.3/PerfectDarkRemaster-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PerfectDarkRemaster-lin64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.2/PerfectDarkRemaster-lin64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PerfectDarkRemaster-win64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.2/PerfectDarkRemaster-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PerfectDarkRemaster-lin64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.1/PerfectDarkRemaster-lin64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PerfectDarkRemaster-win64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.1/PerfectDarkRemaster-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PerfectDarkRemaster-lin64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.0/PerfectDarkRemaster-lin64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PerfectDarkRemaster-win64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp/releases/download/1.0/PerfectDarkRemaster-win64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -3302,7 +4559,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -3329,7 +4586,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -3356,7 +4613,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -3389,7 +4646,7 @@
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation",
         "Есть игровые/платформенные признаки: game, windows"
       ]
     },
@@ -3425,7 +4682,7 @@
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
@@ -3458,7 +4715,7 @@
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation, native port",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, native port",
         "Есть игровые/платформенные признаки: game, linux"
       ]
     },
@@ -3489,7 +4746,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -3516,7 +4773,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -3552,7 +4809,7 @@
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
@@ -3586,7 +4843,7 @@
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
@@ -3621,7 +4878,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game, windows"
       ]
     },
@@ -3655,7 +4912,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game, windows"
       ]
     },
@@ -3682,7 +4939,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -3718,7 +4975,7 @@
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
@@ -3749,10 +5006,10 @@
       "classification_notes": [
         "В описании обнаружены признаки PC-поддержки."
       ],
-      "relevance_score": 7,
+      "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, decompil, port of, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, port of, static recompilation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -3786,7 +5043,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -3813,7 +5070,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -3848,7 +5105,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: game port",
+        "Есть прямые признаки порта/рекомпиляции: game port",
         "Есть игровые/платформенные признаки: game, webgl, html5"
       ]
     },
@@ -3878,12 +5135,13 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -8,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -3,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, playable, webgl",
-        "Найдены признаки нерелевантного проекта: portfolio",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio"
       ]
     },
     {
@@ -3912,12 +5170,13 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -9,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl",
-        "Найдены признаки нерелевантного проекта: portfolio, personal portfolio",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio, personal portfolio"
       ]
     },
     {
@@ -3946,12 +5205,13 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -9,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl",
-        "Найдены признаки нерелевантного проекта: portfolio",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio"
       ]
     },
     {
@@ -3985,7 +5245,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: web port of, port of",
+        "Есть прямые признаки порта/рекомпиляции: web port of, port of",
         "Есть игровые/платформенные признаки: game, webgl"
       ]
     },
@@ -4015,12 +5275,13 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -8,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -3,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, playable, webgl",
-        "Найдены признаки нерелевантного проекта: portfolio",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio"
       ]
     },
     {
@@ -4051,11 +5312,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
-      "relevance_status": "needs_review",
+      "relevance_score": 5,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl, html5",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -4084,11 +5346,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -4117,11 +5380,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -4151,12 +5415,13 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -9,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl",
-        "Найдены признаки нерелевантного проекта: portfolio",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio"
       ]
     },
     {
@@ -4185,12 +5450,13 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -8,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -3,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, rom, webgl",
-        "Найдены признаки нерелевантного проекта: portfolio",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio"
       ]
     },
     {
@@ -4223,7 +5489,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: game port",
+        "Есть прямые признаки порта/рекомпиляции: game port",
         "Есть игровые/платформенные признаки: game, webassembly, webgl"
       ]
     },
@@ -4253,12 +5519,13 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -9,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl",
-        "Найдены признаки нерелевантного проекта: portfolio",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio"
       ]
     },
     {
@@ -4287,12 +5554,13 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -9,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl",
-        "Найдены признаки нерелевантного проекта: portfolio",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio"
       ]
     },
     {
@@ -4322,12 +5590,13 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -8,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -3,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, wasm, webgl",
-        "Найдены признаки нерелевантного проекта: portfolio",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio"
       ]
     },
     {
@@ -4356,11 +5625,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -4389,12 +5659,13 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -9,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl",
-        "Найдены признаки нерелевантного проекта: portfolio",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio"
       ]
     },
     {
@@ -4423,12 +5694,13 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -9,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl",
-        "Найдены признаки нерелевантного проекта: portfolio, ui/ux, game ui design",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio, ui/ux, game ui design"
       ]
     },
     {
@@ -4457,12 +5729,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -10,
+      "relevance_score": -7,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: webgl",
-        "Найдены признаки нерелевантного проекта: portfolio",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio"
       ]
     },
     {
@@ -4491,12 +5763,13 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -9,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl",
-        "Найдены признаки нерелевантного проекта: portfolio, personal portfolio",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio, personal portfolio"
       ]
     },
     {
@@ -4525,12 +5798,13 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -9,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl",
-        "Найдены признаки нерелевантного проекта: portfolio",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio"
       ]
     },
     {
@@ -4559,12 +5833,13 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -9,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl",
-        "Найдены признаки нерелевантного проекта: portfolio",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio"
       ]
     },
     {
@@ -4593,12 +5868,13 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -8,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -3,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, playable, webgl",
-        "Найдены признаки нерелевантного проекта: portfolio",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio"
       ]
     },
     {
@@ -4628,11 +5904,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
-      "relevance_status": "needs_review",
+      "relevance_score": 5,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, wasm, webgl",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -4661,12 +5938,13 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -8,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -3,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, playable, webgl",
-        "Найдены признаки нерелевантного проекта: portfolio, personal portfolio",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: portfolio, personal portfolio"
       ]
     },
     {
@@ -4696,11 +5974,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 2,
+      "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -4797,11 +6075,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, play in browser, webgl",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -4832,11 +6110,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, play in browser, webgl",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -5164,11 +6442,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, play in browser, html5",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -5252,7 +6530,7 @@
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, play in browser",
-        "Найдены признаки нерелевантного проекта: container day"
+        "Найдены признаки постороннего проекта: container day"
       ]
     },
     {
@@ -5583,7 +6861,7 @@
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, play in browser",
-        "Найдены признаки нерелевантного проекта: world's worst airline"
+        "Найдены признаки постороннего проекта: world's worst airline"
       ]
     },
     {
@@ -5684,7 +6962,7 @@
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, play in browser",
-        "Найдены признаки нерелевантного проекта: destroy any website"
+        "Найдены признаки постороннего проекта: destroy any website"
       ]
     },
     {
@@ -5783,11 +7061,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, play in browser, webgl, html5",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -5832,11 +7110,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -5882,10 +7161,10 @@
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
       ],
-      "relevance_score": 8,
+      "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of, static recompilation, android port",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, android port",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -6031,7 +7310,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -6081,7 +7360,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of, android port",
+        "Есть прямые признаки порта/рекомпиляции: port of, android port",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -6211,7 +7490,7 @@
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, web port of, port of",
+        "Есть прямые признаки порта/рекомпиляции: decompil, web port of, port of",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -6305,7 +7584,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of, android port",
+        "Есть прямые признаки порта/рекомпиляции: port of, android port",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -6401,7 +7680,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -7084,7 +8363,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, webgl, windows, linux, android"
       ]
     },
@@ -7243,7 +8522,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, rom, windows, android"
       ]
     },
@@ -7292,7 +8571,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -7417,7 +8696,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -8007,7 +9286,7 @@
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of, game port, android port",
+        "Есть прямые признаки порта/рекомпиляции: port of, game port, android port",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -8057,7 +9336,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: android port",
+        "Есть прямые признаки порта/рекомпиляции: android port",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -8155,7 +9434,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of, android port",
+        "Есть прямые признаки порта/рекомпиляции: port of, android port",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -8204,7 +9483,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -8297,7 +9576,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -8499,7 +9778,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, rom, android"
       ]
     },
@@ -8615,7 +9894,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of",
         "Есть игровые/платформенные признаки: game, original game, android"
       ]
     },
@@ -8798,7 +10077,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -9063,7 +10342,7 @@
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of, android port",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, android port",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -9113,7 +10392,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: android port",
+        "Есть прямые признаки порта/рекомпиляции: android port",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -9167,7 +10446,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: android port",
+        "Есть прямые признаки порта/рекомпиляции: android port",
         "Есть игровые/платформенные признаки: game, linux, android"
       ]
     },
@@ -9245,7 +10524,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -9299,7 +10578,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, playable, windows, android"
       ]
     },
@@ -9412,7 +10691,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: game port",
+        "Есть прямые признаки порта/рекомпиляции: game port",
         "Есть игровые/платформенные признаки: game, windows, linux, android"
       ]
     },
@@ -9670,7 +10949,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of, android port",
+        "Есть прямые признаки порта/рекомпиляции: port of, android port",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -9721,11 +11000,11 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
         "В описании обнаружены признаки Android-поддержки."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, wasm, webgl, android",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -10224,7 +11503,7 @@
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, port of, android port",
+        "Есть прямые признаки порта/рекомпиляции: decompil, port of, android port",
         "Есть игровые/платформенные признаки: game, windows, linux, android"
       ]
     },
@@ -10303,7 +11582,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: android port",
+        "Есть прямые признаки порта/рекомпиляции: android port",
         "Есть игровые/платформенные признаки: game, android, apk"
       ]
     },
@@ -10352,7 +11631,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: game port",
+        "Есть прямые признаки порта/рекомпиляции: game port",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -11061,7 +12340,7 @@
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, port of, native port",
+        "Есть прямые признаки порта/рекомпиляции: decompil, port of, native port",
         "Есть игровые/платформенные признаки: game, rom, windows, linux, android"
       ]
     },
@@ -11111,11 +12390,12 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
         "В описании обнаружены признаки Android-поддержки."
       ],
-      "relevance_score": 0,
-      "relevance_status": "needs_review",
+      "relevance_score": 5,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl, html5, android",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -11162,7 +12442,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil",
+        "Есть прямые признаки порта/рекомпиляции: recompil",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -11204,7 +12484,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, source-port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, source-port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -11246,7 +12526,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -11288,7 +12568,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -11330,7 +12610,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -11372,7 +12652,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game, rom"
       ]
     },
@@ -11414,7 +12694,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game, rom"
       ]
     },
@@ -11456,7 +12736,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game, rom"
       ]
     },
@@ -11498,7 +12778,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -11540,7 +12820,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, source-port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, source-port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -11582,7 +12862,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -11624,7 +12904,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -11666,7 +12946,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game, gameplay, original game"
       ]
     },
@@ -11708,7 +12988,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -11750,7 +13030,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -11792,7 +13072,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -11844,7 +13124,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game, webassembly, windows"
       ]
     },
@@ -11894,7 +13174,7 @@
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, source-port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, source-port, port of",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
@@ -11936,7 +13216,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -11986,7 +13266,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game, webassembly, webgl"
       ]
     },
@@ -12028,7 +13308,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -12071,7 +13351,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -12114,7 +13394,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -12375,7 +13655,7 @@
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, source-port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, source-port, port of",
         "Есть игровые/платформенные признаки: game, rom, original game, windows, linux"
       ]
     },
@@ -12424,7 +13704,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game, linux"
       ]
     },
@@ -12467,7 +13747,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source-port, reverse engineering",
+        "Есть прямые признаки порта/рекомпиляции: source-port, reverse engineering",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -12927,7 +14207,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source-port",
+        "Есть прямые признаки порта/рекомпиляции: source-port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -12967,10 +14247,10 @@
       },
       "build_links": [],
       "classification_notes": [],
-      "relevance_score": 7,
+      "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, decompil, source-port, classic game",
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, source-port, classic game",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -13129,7 +14409,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game, gameplay"
       ]
     },
@@ -13172,7 +14452,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, source-port",
+        "Есть прямые признаки порта/рекомпиляции: source port, source-port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -13215,7 +14495,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -13258,7 +14538,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source-port",
+        "Есть прямые признаки порта/рекомпиляции: source-port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -13544,7 +14824,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game, rom, windows, linux"
       ]
     },
@@ -14298,7 +15578,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, source-port",
+        "Есть прямые признаки порта/рекомпиляции: source port, source-port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -14341,7 +15621,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -14394,7 +15674,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game, windows, android, apk"
       ]
     },
@@ -14436,7 +15716,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -14478,7 +15758,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, source-port",
+        "Есть прямые признаки порта/рекомпиляции: source port, source-port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -14520,7 +15800,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -14570,7 +15850,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game, webassembly"
       ]
     },
@@ -14619,7 +15899,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port",
+        "Есть прямые признаки порта/рекомпиляции: browser port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -14672,7 +15952,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game, rom, original game, windows"
       ]
     },
@@ -14721,7 +16001,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -14770,7 +16050,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -14816,11 +16096,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webgl",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -14868,7 +16149,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -14917,7 +16198,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game, rom, original game"
       ]
     },
@@ -14966,7 +16247,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -15015,7 +16296,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -15064,7 +16345,7 @@
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of, classic game",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, classic game",
         "Есть игровые/платформенные признаки: game, rom"
       ]
     },
@@ -15113,7 +16394,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -15164,7 +16445,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game, playable, webassembly, webgl"
       ]
     },
@@ -15210,11 +16491,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, wasm",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -15266,7 +16548,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port",
+        "Есть прямые признаки порта/рекомпиляции: browser port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -15316,7 +16598,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game, webassembly"
       ]
     },
@@ -15365,7 +16647,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of, byte-exact",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, byte-exact",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -15414,7 +16696,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -15463,7 +16745,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -15512,7 +16794,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game, rom"
       ]
     },
@@ -15563,7 +16845,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game, gameplay, webassembly, webgl"
       ]
     },
@@ -15612,7 +16894,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game, rom"
       ]
     },
@@ -15666,7 +16948,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port",
+        "Есть прямые признаки порта/рекомпиляции: browser port",
         "Есть игровые/платформенные признаки: game, webassembly, linux"
       ]
     },
@@ -15715,7 +16997,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -15764,7 +17046,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -15818,7 +17100,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port",
+        "Есть прямые признаки порта/рекомпиляции: browser port",
         "Есть игровые/платформенные признаки: game, html5"
       ]
     },
@@ -15867,7 +17149,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port",
+        "Есть прямые признаки порта/рекомпиляции: browser port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -15920,7 +17202,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game, windows"
       ]
     },
@@ -15962,7 +17244,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: game port",
+        "Есть прямые признаки порта/рекомпиляции: game port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -16014,7 +17296,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: web port of, port of",
+        "Есть прямые признаки порта/рекомпиляции: web port of, port of",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -16056,7 +17338,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -16104,7 +17386,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, rom, android"
       ]
     },
@@ -16146,7 +17428,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -16192,7 +17474,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -16238,12 +17520,12 @@
       "classification_notes": [
         "В описании обнаружены признаки PC-поддержки."
       ],
-      "relevance_score": -3,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 3,
+      "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: game port",
+        "Есть прямые признаки порта/рекомпиляции: game port",
         "Есть игровые/платформенные признаки: game, windows, linux",
-        "Найдены признаки нерелевантного проекта: portfolio"
+        "Есть и признаки постороннего контекста, и прямые признаки порта — нужна ручная проверка"
       ]
     },
     {
@@ -16288,7 +17570,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil",
+        "Есть прямые признаки порта/рекомпиляции: decompil",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -16334,7 +17616,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, port of",
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -16379,10 +17661,11 @@
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
       ],
-      "relevance_score": 2,
-      "relevance_status": "needs_review",
+      "relevance_score": 4,
+      "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть игровые/платформенные признаки: game, android"
+        "Есть игровые/платформенные признаки: game, android",
+        "Источник специализируется на портах; требуется проверить сам проект"
       ]
     },
     {
@@ -16423,7 +17706,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game, original game"
       ]
     },
@@ -16475,7 +17758,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, rom, android"
       ]
     },
@@ -16523,7 +17806,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, windows"
       ]
     },
@@ -16571,7 +17854,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, original game, windows"
       ]
     },
@@ -16613,7 +17896,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of, reimplementation",
+        "Есть прямые признаки порта/рекомпиляции: port of, reimplementation",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -16655,7 +17938,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -16703,7 +17986,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: game port",
+        "Есть прямые признаки порта/рекомпиляции: game port",
         "Есть игровые/платформенные признаки: game, windows"
       ]
     },
@@ -16745,7 +18028,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: game port",
+        "Есть прямые признаки порта/рекомпиляции: game port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -16787,7 +18070,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: game port",
+        "Есть прямые признаки порта/рекомпиляции: game port",
         "Есть игровые/платформенные признаки: game, rom"
       ]
     },
@@ -16836,7 +18119,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: web port of, port of",
+        "Есть прямые признаки порта/рекомпиляции: web port of, port of",
         "Есть игровые/платформенные признаки: game, webgl"
       ]
     },
@@ -16878,7 +18161,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -16920,7 +18203,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -16962,7 +18245,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -17010,7 +18293,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, source-port",
+        "Есть прямые признаки порта/рекомпиляции: source port, source-port",
         "Есть игровые/платформенные признаки: game, windows"
       ]
     },
@@ -17056,7 +18339,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -17104,7 +18387,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, source port",
+        "Есть прямые признаки порта/рекомпиляции: decompil, source port",
         "Есть игровые/платформенные признаки: game, rom, windows"
       ]
     },
@@ -17153,7 +18436,7 @@
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, port of, android port",
+        "Есть прямые признаки порта/рекомпиляции: decompil, port of, android port",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
@@ -17195,7 +18478,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port, source-port",
+        "Есть прямые признаки порта/рекомпиляции: source port, source-port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -17243,7 +18526,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation",
         "Есть игровые/платформенные признаки: game, windows"
       ]
     },
@@ -17296,7 +18579,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: source port",
+        "Есть прямые признаки порта/рекомпиляции: source port",
         "Есть игровые/платформенные признаки: game, windows, linux, android"
       ]
     },
@@ -17345,7 +18628,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, source-port",
+        "Есть прямые признаки порта/рекомпиляции: decompil, source-port",
         "Есть игровые/платформенные признаки: game, linux"
       ]
     },
@@ -17387,7 +18670,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -17434,11 +18717,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, playable, webassembly, html5",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -17483,11 +18766,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 2,
+      "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -17540,11 +18823,11 @@
         "В описании обнаружены признаки Android-поддержки.",
         "В описании обнаружены признаки PC-поддержки."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, game engine, playable, webassembly, webgl",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -17589,11 +18872,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, rom, game engine, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -17638,11 +18921,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 2,
+      "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -17689,7 +18972,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, webassembly"
       ]
     },
@@ -17734,11 +19017,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, game engine, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -17782,11 +19065,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 2,
+      "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -17830,11 +19113,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 2,
+      "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -17880,11 +19163,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, playable, webassembly, webgl",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -17928,11 +19211,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, game engine, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -17980,7 +19263,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil",
+        "Есть прямые признаки порта/рекомпиляции: recompil",
         "Есть игровые/платформенные признаки: game, rom, webassembly"
       ]
     },
@@ -18028,7 +19311,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: reimplementation",
+        "Есть прямые признаки порта/рекомпиляции: reimplementation",
         "Есть игровые/платформенные признаки: game, webassembly"
       ]
     },
@@ -18074,11 +19357,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 2,
+      "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -18123,11 +19406,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
+      "relevance_score": -6,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: chess"
       ]
     },
     {
@@ -18172,11 +19456,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 2,
+      "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -18223,11 +19507,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly, webgl, html5",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -18272,11 +19556,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 2,
+      "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -18320,11 +19604,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, rom, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -18370,11 +19654,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly, wasm, webgl",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -18420,11 +19704,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 2,
+      "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -18544,11 +19828,11 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 2,
+      "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -18593,11 +19877,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 2,
+      "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -18643,11 +19927,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, game engine, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -18955,11 +20239,11 @@
         "В описании обнаружены признаки PC-поддержки.",
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, original game, webassembly, windows, linux",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -19008,7 +20292,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: classic game",
+        "Есть прямые признаки порта/рекомпиляции: classic game",
         "Есть игровые/платформенные признаки: game, webassembly"
       ]
     },
@@ -19055,11 +20339,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 2,
+      "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -19735,11 +21019,11 @@
         "В описании обнаружены признаки PC-поддержки.",
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly, windows, linux, android",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -19785,11 +21069,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 2,
+      "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -19844,11 +21128,11 @@
         "В описании обнаружены признаки Android-поддержки.",
         "В описании обнаружены признаки PC-поддержки."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly, wasm, android",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -19895,11 +21179,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly, wasm",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -19945,11 +21229,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, rom, original game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -19995,11 +21279,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
+      "relevance_score": -6,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: chess"
       ]
     },
     {
@@ -20104,11 +21389,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly, wasm",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -20154,11 +21439,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 2,
+      "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -20205,11 +21490,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly, wasm",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -20259,11 +21544,11 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
         "В описании обнаружены признаки PC-поддержки."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly, wasm, windows",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -20308,11 +21593,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, playable, webassembly, wasm",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -20356,11 +21641,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 2,
+      "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -20409,11 +21694,11 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
         "В описании обнаружены признаки PC-поддержки."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 2,
+      "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -20460,11 +21745,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly, wasm, webgl",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -20510,11 +21795,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly, wasm",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -20560,11 +21845,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly, wasm",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -20608,11 +21893,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
+      "relevance_score": -6,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено",
+        "Найдены признаки постороннего проекта: chess"
       ]
     },
     {
@@ -20658,11 +21944,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly, webgl",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -20707,11 +21993,11 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
+      "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly, wasm",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -20757,10 +22043,10 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 9,
+      "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
+        "Есть прямые признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
         "Есть игровые/платформенные признаки: game, rom, webassembly"
       ]
     },
@@ -20807,10 +22093,10 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 9,
+      "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
+        "Есть прямые признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
         "Есть игровые/платформенные признаки: game, rom, webassembly"
       ]
     },
@@ -20857,10 +22143,10 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 9,
+      "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
+        "Есть прямые признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
         "Есть игровые/платформенные признаки: game, rom, webassembly"
       ]
     },
@@ -20907,10 +22193,10 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 9,
+      "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
+        "Есть прямые признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
         "Есть игровые/платформенные признаки: game, rom, webassembly"
       ]
     },
@@ -20957,10 +22243,10 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 9,
+      "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
+        "Есть прямые признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
         "Есть игровые/платформенные признаки: game, rom, webassembly"
       ]
     },
@@ -21007,10 +22293,10 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 9,
+      "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
+        "Есть прямые признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
         "Есть игровые/платформенные признаки: game, rom, webassembly"
       ]
     },
@@ -21057,10 +22343,10 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 9,
+      "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
+        "Есть прямые признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
         "Есть игровые/платформенные признаки: game, rom, webassembly"
       ]
     },
@@ -21107,10 +22393,10 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 9,
+      "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
+        "Есть прямые признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
         "Есть игровые/платформенные признаки: game, rom, webassembly"
       ]
     },
@@ -21157,10 +22443,10 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 9,
+      "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
+        "Есть прямые признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
         "Есть игровые/платформенные признаки: game, rom, webassembly"
       ]
     },
@@ -21207,10 +22493,10 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 9,
+      "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
+        "Есть прямые признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
         "Есть игровые/платформенные признаки: game, rom, webassembly"
       ]
     },
@@ -21260,7 +22546,7 @@
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, reimplementation, bring-your-own-rom",
+        "Есть прямые признаки порта/рекомпиляции: browser port, reimplementation, bring-your-own-rom",
         "Есть игровые/платформенные признаки: game, rom, webassembly"
       ]
     },
@@ -21307,10 +22593,10 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 9,
+      "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
+        "Есть прямые признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
         "Есть игровые/платформенные признаки: game, rom, webassembly"
       ]
     },
@@ -21357,10 +22643,10 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 9,
+      "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
+        "Есть прямые признаки порта/рекомпиляции: decompil, browser port, byte-matching, bring-your-own-rom",
         "Есть игровые/платформенные признаки: game, rom, webassembly"
       ]
     },
@@ -21410,7 +22696,7 @@
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, reimplementation, bring-your-own-rom",
+        "Есть прямые признаки порта/рекомпиляции: browser port, reimplementation, bring-your-own-rom",
         "Есть игровые/платформенные признаки: game, rom, webassembly"
       ]
     },
@@ -21458,7 +22744,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: game port",
+        "Есть прямые признаки порта/рекомпиляции: game port",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -21507,7 +22793,7 @@
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, byte-exact, bring-your-own-rom",
+        "Есть прямые признаки порта/рекомпиляции: browser port, byte-exact, bring-your-own-rom",
         "Есть игровые/платформенные признаки: game, rom"
       ]
     },
@@ -21556,7 +22842,7 @@
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, byte-exact, bring-your-own-rom",
+        "Есть прямые признаки порта/рекомпиляции: browser port, byte-exact, bring-your-own-rom",
         "Есть игровые/платформенные признаки: game, rom"
       ]
     },
@@ -21602,11 +22888,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -21656,7 +22943,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game, webassembly, wasm"
       ]
     },
@@ -21704,7 +22991,7 @@
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -21752,11 +23039,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
-      "relevance_status": "needs_review",
+      "relevance_score": 5,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, rom, webassembly, webgl",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -21804,7 +23092,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, port of",
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of",
         "Есть игровые/платформенные признаки: game, rom"
       ]
     },
@@ -21853,7 +23141,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, webgl"
       ]
     },
@@ -21898,11 +23186,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": -6,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": -4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, playable",
-        "Найдены признаки нерелевантного проекта: game benchmark, benchmark portal"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Найдены признаки постороннего проекта: game benchmark, benchmark portal"
       ]
     },
     {
@@ -21951,7 +23240,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port",
+        "Есть прямые признаки порта/рекомпиляции: browser port",
         "Есть игровые/платформенные признаки: game, webassembly"
       ]
     },
@@ -22000,7 +23289,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, gameplay, original game, html5"
       ]
     },
@@ -22050,7 +23339,7 @@
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: web port of, port of",
+        "Есть прямые признаки порта/рекомпиляции: web port of, port of",
         "Есть игровые/платформенные признаки: game, html5"
       ]
     },
@@ -22100,11 +23389,12 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
         "В описании обнаружены признаки PC-поддержки."
       ],
-      "relevance_score": -1,
-      "relevance_status": "likely_irrelevant",
+      "relevance_score": 4,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -22152,7 +23442,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of",
         "Есть игровые/платформенные признаки: game, wasm"
       ]
     },
@@ -22198,11 +23488,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
-      "relevance_status": "needs_review",
+      "relevance_score": 5,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, rom, wasm",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -22250,7 +23541,7 @@
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, port of, static recompilation",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation",
         "Есть игровые/платформенные признаки: game, webassembly"
       ]
     },
@@ -22300,7 +23591,7 @@
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: port of, reimplementation",
+        "Есть прямые признаки порта/рекомпиляции: port of, reimplementation",
         "Есть игровые/платформенные признаки: game, webassembly, wasm"
       ]
     },
@@ -22346,11 +23637,12 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 0,
-      "relevance_status": "needs_review",
+      "relevance_score": 5,
+      "relevance_status": "possible",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, rom, original game, webgl",
-        "Есть только общие веб-технологии без явного признака порта игры"
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
     },
     {
@@ -22400,7 +23692,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: game port",
+        "Есть прямые признаки порта/рекомпиляции: game port",
         "Есть игровые/платформенные признаки: game, webassembly, wasm, html5"
       ]
     },
@@ -22449,7 +23741,7 @@
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: browser port, reverse engineering",
+        "Есть прямые признаки порта/рекомпиляции: browser port, reverse engineering",
         "Есть игровые/платформенные признаки: game"
       ]
     },
@@ -22497,7 +23789,7 @@
       "relevance_score": 4,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: native port",
+        "Есть прямые признаки порта/рекомпиляции: native port",
         "Есть игровые/платформенные признаки: game, rom"
       ]
     },
@@ -22543,10 +23835,10 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 7,
+      "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть признаки порта/рекомпиляции: recompil, decompil, source port, source-port, browser port",
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, source port, source-port, browser port",
         "Есть игровые/платформенные признаки: game"
       ]
     }
