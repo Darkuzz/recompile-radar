@@ -4,7 +4,8 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
+import xml.etree.ElementTree as ET
+from datetime import datetime, timezone, timedelta
 from html import unescape
 from pathlib import Path
 
@@ -13,55 +14,133 @@ DATA_DIR = ROOT / "data"
 GAMES_FILE = DATA_DIR / "games.json"
 CANDIDATES_FILE = DATA_DIR / "candidates.json"
 
-USER_AGENT = "RecompileRadar/0.3 (public project discovery)"
+USER_AGENT = "RecompileRadar/0.4 (public project discovery)"
 TIMEOUT = 20
-MAX_ITEMS_PER_SOURCE = 50
+MAX_ITEMS_PER_SOURCE = 30
+MAX_CHECKS_PER_RUN = 8
+CHECK_RETRY_DAYS = 7
+
+# Основные поисковые запросы. Категория определяется отдельно:
+# результат запроса не гарантирует, что проект относится к категории.
+SOURCES = [
+    {
+        "name": "GamingOnLinux",
+        "type": "rss",
+        "url": "https://www.gamingonlinux.com/article_rss.php",
+        "category_hint": "pc",
+    },
+    {
+        "name": "GitHub: browser ports",
+        "type": "github",
+        "query": '"browser port" game',
+        "category_hint": "browser",
+    },
+    {
+        "name": "GitHub: browser playable",
+        "type": "github",
+        "query": '"play in browser" game',
+        "category_hint": "browser",
+    },
+    {
+        "name": "GitHub: WebAssembly games",
+        "type": "github",
+        "query": "game WebAssembly",
+        "category_hint": "browser",
+    },
+    {
+        "name": "GitHub: WebGL ports",
+        "type": "github",
+        "query": "game WebGL port",
+        "category_hint": "browser",
+    },
+    {
+        "name": "GitHub: static recompilation",
+        "type": "github",
+        "query": '"static recompilation" game',
+        "category_hint": "pc",
+    },
+    {
+        "name": "GitHub: source ports",
+        "type": "github",
+        "query": '"source port" game',
+        "category_hint": "pc",
+    },
+    {
+        "name": "GitHub: PC ports",
+        "type": "github",
+        "query": "game port Windows Linux",
+        "category_hint": "pc",
+    },
+    {
+        "name": "GitHub: Android ports",
+        "type": "github",
+        "query": "android game port",
+        "category_hint": "android",
+    },
+    {
+        "name": "GitHub: Android recompilation",
+        "type": "github",
+        "query": "android recompilation game",
+        "category_hint": "android",
+    },
+]
 
 KEYWORDS = (
     "recompil", "decompil", "source port", "source-port",
     "browser port", "web port", "webassembly", "wasm",
     "webgl", "play in browser", "playable in browser",
     "html5 game", "game engine port", "reverse engineering",
-    "open source game", "classic game", "port of",
-    "android port", "static recompilation", "game port",
+    "classic game", "port of", "android port",
+    "static recompilation", "game port", "game remake",
+    "native port", "game preservation",
 )
 
-SOURCES = [
-    {
-        "name": "GamingOnLinux",
-        "type": "rss",
-        "url": "https://www.gamingonlinux.com/article_rss.php",
-    },
-    {
-        "name": "GitHub: browser ports",
-        "type": "github",
-        "query": '"browser port" game',
-    },
-    {
-        "name": "GitHub: WebAssembly games",
-        "type": "github",
-        "query": "game WebAssembly",
-    },
-    {
-        "name": "GitHub: source ports",
-        "type": "github",
-        "query": '"source port" game',
-    },
-    {
-        "name": "GitHub: static recompilation",
-        "type": "github",
-        "query": '"static recompilation" OR recomp game',
-    },
-    {
-        "name": "GitHub: Android game ports",
-        "type": "github",
-        "query": "android game port",
-    },
-]
+BROWSER_TERMS = (
+    "browser", "webassembly", "webgl", "html5",
+    "play in browser", "playable in browser",
+    "browser port", "web port", "web player",
+    "web version", "web build", "wasm",
+)
+
+ANDROID_TERMS = (
+    "android", "android port", "android apk",
+    "arm64-v8a", "android build",
+)
+
+PC_TERMS = (
+    "windows", "win64", "linux", "pc port",
+    "desktop", "native pc", "windows build",
+    "linux build",
+)
+
+OTHER_PLATFORM_TERMS = (
+    "nintendo switch", "switch port", "playstation vita",
+    "ps vita", "ps2 port", "xbox port", "ios port",
+    "3ds port", "wii port",
+)
+
+BUILD_EXTENSIONS = (
+    ".apk", ".exe", ".msi", ".msix", ".zip",
+    ".7z", ".tar.gz", ".tgz", ".dmg", ".deb",
+    ".appimage", ".html", ".wasm", ".ipa",
+)
 
 
 def now_iso():
     return datetime.now(timezone.utc).isoformat()
+
+
+def parse_datetime(value):
+    if not value:
+        return None
+
+    try:
+        result = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        if result.tzinfo is None:
+            result = result.replace(tzinfo=timezone.utc)
+        return result.astimezone(timezone.utc)
+    except (ValueError, TypeError):
+        return None
 
 
 def clean_text(value):
@@ -87,13 +166,9 @@ def fetch_json(url):
     return json.loads(raw.decode("utf-8"))
 
 
-def local_name(tag):
-    return tag.rsplit("}", 1)[-1].lower()
-
-
 def child_text(element, names):
     for child in element.iter():
-        if local_name(child.tag) in names and child.text:
+        if child.tag.rsplit("}", 1)[-1].lower() in names and child.text:
             value = clean_text(child.text)
             if value:
                 return value
@@ -102,7 +177,7 @@ def child_text(element, names):
 
 def entry_link(entry):
     for child in entry:
-        if local_name(child.tag) == "link":
+        if child.tag.rsplit("}", 1)[-1].lower() == "link":
             href = child.attrib.get("href")
             if href:
                 return href.strip()
@@ -112,24 +187,20 @@ def entry_link(entry):
 
 
 def parse_feed(xml_data):
-    import xml.etree.ElementTree as ET
-
     root = ET.fromstring(xml_data)
     entries = []
 
     for element in root.iter():
-        if local_name(element.tag) not in ("item", "entry"):
+        if element.tag.rsplit("}", 1)[-1].lower() not in ("item", "entry"):
             continue
 
         title = child_text(element, {"title"})
         link = entry_link(element)
         summary = child_text(
-            element,
-            {"description", "summary", "content", "encoded"},
+            element, {"description", "summary", "content", "encoded"}
         )
         published = child_text(
-            element,
-            {"pubdate", "published", "updated", "date"},
+            element, {"pubdate", "published", "updated", "date"}
         )
 
         if title and link:
@@ -171,31 +242,24 @@ def fetch_github_repositories(query):
                 f"{summary} Topics: {', '.join(topics)}"
             ).strip()
 
-        published = (
-            repo.get("pushed_at")
-            or repo.get("updated_at")
-            or repo.get("created_at")
-            or ""
-        )
-
         if title and link:
             entries.append({
                 "title": title,
                 "url": link,
                 "summary": clean_text(summary)[:1500],
-                "published": published,
+                "published": (
+                    repo.get("pushed_at")
+                    or repo.get("updated_at")
+                    or repo.get("created_at")
+                    or ""
+                ),
             })
 
     print(
-        "GitHub API: всего совпадений по запросу — "
+        "GitHub API: совпадений по запросу — "
         f"{data.get('total_count', len(entries))}"
     )
     return entries
-
-
-def matches_keywords(item):
-    text = f"{item['title']} {item['summary']}".lower()
-    return any(keyword in text for keyword in KEYWORDS)
 
 
 def load_json(path, default):
@@ -238,11 +302,200 @@ def github_repo_path(url):
     return f"{owner}/{repo}"
 
 
+def matches_keywords(item):
+    text = f"{item.get('title', '')} {item.get('summary', '')}".lower()
+    return any(keyword in text for keyword in KEYWORDS)
+
+
+def classify_candidate(candidate):
+    """
+    Предварительная классификация по описанию, названию,
+    ссылкам и найденным файлам. Это не подтверждение запуска.
+    """
+    title = candidate.get("title", "")
+    summary = candidate.get("summary", "")
+    url = candidate.get("url", "")
+    check = candidate.get("check") or {}
+
+    release_assets = check.get("release_assets", [])
+    releases = check.get("releases", [])
+
+    asset_text = " ".join(
+        asset.get("name", "")
+        for asset in release_assets
+        if isinstance(asset, dict)
+    )
+
+    text = " ".join([
+        title,
+        summary,
+        url,
+        check.get("description", ""),
+        asset_text,
+    ]).lower()
+
+    browser_hits = [term for term in BROWSER_TERMS if term in text]
+    android_hits = [term for term in ANDROID_TERMS if term in text]
+    pc_hits = [term for term in PC_TERMS if term in text]
+    other_hits = [term for term in OTHER_PLATFORM_TERMS if term in text]
+
+    platforms = []
+
+    if browser_hits:
+        platforms.append("Web")
+    if android_hits:
+        platforms.append("Android")
+    if pc_hits:
+        platforms.append("PC")
+
+    # Не отправляем сторонние платформы в основные категории
+    # только на основании их упоминания. Фиксируем их отдельно.
+    if not platforms and other_hits:
+        category = "other"
+    elif "Web" in platforms:
+        category = "browser"
+    elif "PC" in platforms:
+        category = "pc"
+    elif "Android" in platforms:
+        category = "android"
+    elif other_hits:
+        category = "other"
+    else:
+        category = "needs_review"
+
+    # Ссылки на релизы и сборки собираем без утверждения,
+    # что соответствующий файл точно работает.
+    build_links = []
+    for release in releases:
+        if not isinstance(release, dict):
+            continue
+
+        for asset in release.get("assets", []):
+            if not isinstance(asset, dict):
+                continue
+
+            asset_url = asset.get("url", "")
+            asset_name = asset.get("name", "")
+            if asset_url:
+                build_links.append({
+                    "name": asset_name,
+                    "url": asset_url,
+                    "type": file_type(asset_name),
+                })
+
+    for asset in release_assets:
+        if not isinstance(asset, dict):
+            continue
+
+        asset_url = asset.get("url", "")
+        asset_name = asset.get("name", "")
+        if asset_url:
+            build_links.append({
+                "name": asset_name,
+                "url": asset_url,
+                "type": file_type(asset_name),
+            })
+
+    unique_builds = []
+    seen_build_urls = set()
+    for item in build_links:
+        asset_url = item["url"]
+        if asset_url not in seen_build_urls:
+            unique_builds.append(item)
+            seen_build_urls.add(asset_url)
+
+    # Браузерный запуск остаётся unknown, пока не проверена
+    # реальная страница запуска.
+    browser_playable = "unknown"
+
+    notes = []
+    if browser_hits:
+        notes.append(
+            "Есть признаки веб-версии; запуск непосредственно "
+            "в браузере пока не подтверждён."
+        )
+    if android_hits:
+        notes.append("В описании обнаружены признаки Android-поддержки.")
+    if pc_hits:
+        notes.append("В описании обнаружены признаки PC-поддержки.")
+    if other_hits:
+        notes.append(
+            "Обнаружены упоминания других платформ; "
+            "нужно уточнить основную платформу проекта."
+        )
+    if unique_builds:
+        notes.append(
+            "Найдены ссылки на файлы релизов; работоспособность "
+            "и назначение файлов не подтверждены."
+        )
+
+    return {
+        "category": category,
+        "platforms_guess": platforms,
+        "category_evidence": {
+            "browser_terms": browser_hits,
+            "android_terms": android_hits,
+            "pc_terms": pc_hits,
+            "other_platform_terms": other_hits,
+        },
+        "browser_playable": browser_playable,
+        "build_links": unique_builds,
+        "classification_notes": notes,
+    }
+
+
+def file_type(name):
+    lower = (name or "").lower()
+
+    if lower.endswith(".apk"):
+        return "android_apk"
+    if lower.endswith((".exe", ".msi", ".msix")):
+        return "windows_installer_or_executable"
+    if lower.endswith((".zip", ".7z", ".tar.gz", ".tgz")):
+        return "archive"
+    if lower.endswith((".dmg", ".appimage", ".deb")):
+        return "desktop_package"
+    if lower.endswith(".html"):
+        return "html_file"
+    if lower.endswith(".wasm"):
+        return "webassembly_file"
+    if lower.endswith(".ipa"):
+        return "ios_package"
+    return "other_file"
+
+
+def should_check(candidate):
+    """
+    Ограничиваем число запросов к GitHub API.
+    Временные ошибки повторяем не чаще одного раза в неделю.
+    """
+    previous = candidate.get("check")
+    if not previous:
+        return True
+
+    notes = " ".join(previous.get("check_notes", [])).lower()
+    retry_markers = (
+        "http 403",
+        "http 429",
+        "временная ошибка",
+        "не удалось проверить релизы",
+        "не удалось разобрать ответ github",
+        "проверку нужно повторить",
+    )
+
+    if any(marker in notes for marker in retry_markers):
+        checked_at = parse_datetime(previous.get("checked_at"))
+        if checked_at is None:
+            return True
+        return datetime.now(timezone.utc) - checked_at >= timedelta(
+            days=CHECK_RETRY_DAYS
+        )
+
+    # Обычные успешные проверки не повторяем каждый запуск.
+    return False
+
+
 def check_github_project(candidate):
-    """
-    Проверяет только публичные метаданные GitHub.
-    Не подтверждает, что игра запускается или работает.
-    """
     repo_path = github_repo_path(candidate.get("url", ""))
 
     result = {
@@ -255,6 +508,7 @@ def check_github_project(candidate):
         "latest_release_url": None,
         "latest_release_name": None,
         "release_assets": [],
+        "releases": [],
         "verification": "unverified",
         "browser_playable": "unknown",
         "check_notes": [],
@@ -262,7 +516,7 @@ def check_github_project(candidate):
 
     if not repo_path:
         result["check_notes"].append(
-            "Не GitHub-ссылка: требуется отдельная проверка источника."
+            "Не GitHub-ссылка: требуется отдельная проверка."
         )
         return result
 
@@ -270,7 +524,6 @@ def check_github_project(candidate):
         repo = fetch_json(
             "https://api.github.com/repos/" + repo_path
         )
-
         result["repository_accessible"] = True
         result["archived"] = bool(repo.get("archived"))
         result["default_branch"] = repo.get("default_branch")
@@ -280,7 +533,7 @@ def check_github_project(candidate):
 
         if repo.get("archived"):
             result["check_notes"].append(
-                "Репозиторий архивирован; это не означает, "
+                "Репозиторий архивирован; это не доказывает, "
                 "что игра не работает."
             )
 
@@ -288,26 +541,25 @@ def check_github_project(candidate):
         if error.code == 404:
             result["repository_accessible"] = False
             result["check_notes"].append(
-                "GitHub вернул 404. Не считать проект удалённым "
-                "без повторной проверки."
+                "GitHub вернул 404. Проект не удаляем; "
+                "проверку нужно повторить."
             )
-            return result
-
-        result["check_notes"].append(
-            f"GitHub API вернул HTTP {error.code}; "
-            "проверку нужно повторить."
-        )
+        else:
+            result["check_notes"].append(
+                f"GitHub API вернул HTTP {error.code}; "
+                "проверку нужно повторить."
+            )
         return result
 
-    except (urllib.error.URLError, TimeoutError, OSError) as error:
+    except (
+        urllib.error.URLError,
+        TimeoutError,
+        OSError,
+        json.JSONDecodeError,
+        ValueError,
+    ) as error:
         result["check_notes"].append(
             f"Временная ошибка доступа: {error}"
-        )
-        return result
-
-    except (json.JSONDecodeError, ValueError) as error:
-        result["check_notes"].append(
-            f"Не удалось разобрать ответ GitHub: {error}"
         )
         return result
 
@@ -321,46 +573,38 @@ def check_github_project(candidate):
         )
 
         for release in releases:
-            assets = release.get("assets") or []
-            asset_info = []
+            if release.get("draft"):
+                continue
 
-            for asset in assets:
-                download_url = asset.get("browser_download_url")
-                if download_url:
-                    asset_info.append({
+            assets = []
+            for asset in release.get("assets", []):
+                asset_url = asset.get("browser_download_url")
+                if asset_url:
+                    assets.append({
                         "name": asset.get("name", ""),
-                        "url": download_url,
+                        "url": asset_url,
                         "size": asset.get("size"),
                     })
 
-            release_info = {
+            result["releases"].append({
                 "name": release.get("name") or release.get("tag_name"),
                 "url": release.get("html_url"),
                 "published_at": release.get("published_at"),
-                "assets": asset_info,
+                "assets": assets,
                 "draft": bool(release.get("draft")),
                 "prerelease": bool(release.get("prerelease")),
-            }
+            })
 
-            # Сохраняем сведения о релизах и их файлах.
-            result.setdefault("releases", []).append(release_info)
-
-        public_releases = [
-            release
-            for release in result.get("releases", [])
-            if not release["draft"]
-        ]
-
-        if public_releases:
-            latest = public_releases[0]
+        if result["releases"]:
+            latest = result["releases"][0]
             result["latest_release_url"] = latest.get("url")
             result["latest_release_name"] = latest.get("name")
             result["release_assets"] = latest.get("assets", [])
 
             if result["release_assets"]:
                 result["check_notes"].append(
-                    "Найдены файлы релиза. Их назначение и "
-                    "работоспособность автоматически не подтверждены."
+                    "Найдены файлы релиза; их работоспособность "
+                    "автоматически не подтверждена."
                 )
             else:
                 result["check_notes"].append(
@@ -368,7 +612,7 @@ def check_github_project(candidate):
                 )
         else:
             result["check_notes"].append(
-                "Публичный релиз не найден."
+                "Публичные релизы не найдены."
             )
 
     except urllib.error.HTTPError as error:
@@ -387,10 +631,9 @@ def check_github_project(candidate):
             f"Не удалось проверить релизы: {error}"
         )
 
-    # Не повышаем verification до verified автоматически.
     result["check_notes"].append(
-        "Нужна ручная проверка: игра запускается ли, "
-        "требуются ли оригинальные файлы и работает ли сборка."
+        "Нужна отдельная проверка запуска, совместимости "
+        "и необходимости оригинальных игровых файлов."
     )
 
     return result
@@ -407,46 +650,43 @@ def main():
             "candidates": [],
         },
     )
+
     candidates_data.setdefault("schema_version", 1)
     candidates_data.setdefault("candidates", [])
 
-    # Не меняем и не удаляем старые записи.
-    known = {
+    games_data = load_json(GAMES_FILE, {"games": []})
+
+    known_urls = {
         normalise_url(item.get("url", ""))
         for item in candidates_data["candidates"]
         if item.get("url")
     }
 
-    games_data = load_json(GAMES_FILE, {"games": []})
-    known_games = set()
-
+    known_game_urls = set()
     for game in games_data.get("games", []):
         for field in ("source_url", "build_url"):
             url = normalise_url(game.get(field, ""))
             if url:
-                known_games.add(url)
+                known_game_urls.add(url)
 
     added = 0
     errors = []
 
-    # Этап 1. Сбор новых кандидатов.
+    # Этап 1: собираем новые записи.
     for source in SOURCES:
         try:
             if source["type"] == "rss":
-                xml_data = fetch_url(
+                raw = fetch_url(
                     source["url"],
                     "application/rss+xml, application/atom+xml, "
                     "application/xml, text/xml",
                 )
-                entries = parse_feed(xml_data)
+                entries = parse_feed(raw)
             else:
-                entries = fetch_github_repositories(
-                    source["query"]
-                )
+                entries = fetch_github_repositories(source["query"])
 
             print(
-                f"{source['name']}: получено записей — "
-                f"{len(entries)}"
+                f"{source['name']}: получено записей — {len(entries)}"
             )
 
             source_added = 0
@@ -456,15 +696,15 @@ def main():
 
                 if (
                     not url
-                    or url in known
-                    or url in known_games
+                    or url in known_urls
+                    or url in known_game_urls
                     or not matches_keywords(entry)
                 ):
                     continue
 
                 candidate = {
-                    "title": entry["title"],
-                    "url": entry["url"],
+                    "title": entry.get("title", ""),
+                    "url": entry.get("url", ""),
                     "source_name": source["name"],
                     "published": entry.get("published", ""),
                     "summary": entry.get("summary", ""),
@@ -474,14 +714,15 @@ def main():
                     "check": None,
                 }
 
+                candidate.update(classify_candidate(candidate))
+
                 candidates_data["candidates"].append(candidate)
-                known.add(url)
+                known_urls.add(url)
                 added += 1
                 source_added += 1
 
             print(
-                f"{source['name']}: новых кандидатов — "
-                f"{source_added}"
+                f"{source['name']}: новых кандидатов — {source_added}"
             )
             time.sleep(1)
 
@@ -493,31 +734,36 @@ def main():
             errors.append(message)
             print(f"ОШИБКА источника: {message}")
 
-    # Этап 2. Предварительная проверка кандидатов GitHub.
-    # Проверяем только записи без результата проверки или
-    # с ошибкой/временной недоступностью в прошлой проверке.
-    checked = 0
+    # Этап 2: обогащаем все записи локальной классификацией.
+    # Это не вызывает сетевых запросов и не удаляет старые поля.
     candidates = candidates_data["candidates"]
 
     for candidate in candidates:
+        classification = classify_candidate(candidate)
+        for key, value in classification.items():
+            candidate[key] = value
+
+    # Этап 3: ограниченная проверка GitHub.
+    checked = 0
+
+    for candidate in candidates:
+        if checked >= MAX_CHECKS_PER_RUN:
+            break
+
         if not github_repo_path(candidate.get("url", "")):
             continue
 
-        previous = candidate.get("check") or {}
-        previous_notes = " ".join(previous.get("check_notes", []))
-
-        should_check = (
-            candidate.get("check") is None
-            or previous.get("repository_accessible") is False
-            or "временная ошибка" in previous_notes.lower()
-            or "нужно повторить" in previous_notes.lower()
-        )
-
-        if not should_check:
+        if not should_check(candidate):
             continue
 
         candidate["check"] = check_github_project(candidate)
         checked += 1
+
+        # Обновляем категорию с учётом описания и релизов.
+        classification = classify_candidate(candidate)
+        for key, value in classification.items():
+            candidate[key] = value
+
         print(
             "Проверен GitHub-проект: "
             f"{candidate.get('title', candidate.get('url'))}"
@@ -532,17 +778,34 @@ def main():
 
     save_json(CANDIDATES_FILE, candidates_data)
 
+    # Итоговая статистика.
+    counts = {
+        "browser": 0,
+        "pc": 0,
+        "android": 0,
+        "other": 0,
+        "needs_review": 0,
+    }
+
+    for candidate in candidates:
+        category = candidate.get("category", "needs_review")
+        if category not in counts:
+            category = "needs_review"
+        counts[category] += 1
+
     print(f"Новых кандидатов добавлено: {added}")
-    print(f"Предварительно проверено проектов: {checked}")
-    print(
-        "Всего кандидатов в базе: "
-        f"{len(candidates_data['candidates'])}"
-    )
+    print(f"Проверено GitHub-проектов в этом запуске: {checked}")
+    print(f"Всего кандидатов в базе: {len(candidates)}")
+    print("Распределение по категориям:")
+    print(f"  Браузер: {counts['browser']}")
+    print(f"  ПК: {counts['pc']}")
+    print(f"  Android: {counts['android']}")
+    print(f"  Другие платформы: {counts['other']}")
+    print(f"  Требуют уточнения: {counts['needs_review']}")
     print(f"Ошибок источников: {len(errors)}")
     print(
-        "Проверенные игры автоматически не публиковались. "
-        "Для публикации требуется отдельная подтверждённая запись "
-        "в data/games.json."
+        "Важно: category — предварительная классификация. "
+        "verification остаётся unverified до отдельного подтверждения."
     )
 
 
