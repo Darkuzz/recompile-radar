@@ -87,15 +87,39 @@ SOURCES = [
     },
 ]
 
-KEYWORDS = (
+# Сильные признаки нужного нам типа проекта.
+# Общих слов вроде WebGL/Android недостаточно: они дают много шума.
+STRONG_PROJECT_TERMS = (
     "recompil", "decompil", "source port", "source-port",
-    "browser port", "web port", "webassembly", "wasm",
-    "webgl", "play in browser", "playable in browser",
-    "html5 game", "game engine port", "reverse engineering",
-    "classic game", "port of", "android port",
-    "static recompilation", "game port", "game remake",
-    "native port", "game preservation",
+    "browser port", "web port of", "port of", "porting of",
+    "static recompilation", "game preservation",
+    "classic game", "reverse engineering", "reimplementation",
+    "re-implementation", "byte-matching", "byte-exact",
+    "bring-your-own-rom", "game port", "native port",
+    "fan port", "fan-made port", "engine recreation",
+    "game remake", "android port",
 )
+
+SUPPORTING_TERMS = (
+    "game", "gameplay", "rom", "original game", "game engine",
+    "playable", "play in browser", "playable in browser",
+    "webassembly", "wasm", "webgl", "html5",
+    "windows", "linux", "android", "apk",
+)
+
+# Если в описании явно говорится о портфолио/шаблоне/инструменте,
+# не считаем проект игровой рекомпиляцией только из-за WebGL/HTML5.
+EXCLUDE_TERMS = (
+    "portfolio", "ui/ux", "personal website", "personal portfolio",
+    "landing page", "website template", "admin dashboard",
+    "game ui design", "game benchmark", "benchmark portal",
+    "browser benchmark", "world's worst airline",
+    "destroy any website", "container day",
+)
+
+# Очень общие слова оставлены только для классификации платформы,
+# но сами по себе не являются основанием добавить новый проект.
+KEYWORDS = STRONG_PROJECT_TERMS
 
 BROWSER_TERMS = (
     "browser", "webassembly", "webgl", "html5",
@@ -304,9 +328,66 @@ def github_repo_path(url):
     return f"{owner}/{repo}"
 
 
+def relevance_assessment(item):
+    """
+    Эвристическая оценка тематической релевантности.
+    Не подтверждает запуск, законность распространения или готовность игры.
+    """
+    title = item.get("title", "")
+    summary = item.get("summary", "")
+    check = item.get("check") or {}
+    text = " ".join([
+        title,
+        summary,
+        check.get("description", ""),
+    ]).lower()
+
+    strong_hits = [term for term in STRONG_PROJECT_TERMS if term in text]
+    support_hits = [term for term in SUPPORTING_TERMS if term in text]
+    exclude_hits = [term for term in EXCLUDE_TERMS if term in text]
+
+    score = 0
+    reasons = []
+
+    if strong_hits:
+        score += min(6, len(strong_hits) * 2)
+        reasons.append("Есть признаки порта/рекомпиляции: " + ", ".join(strong_hits[:5]))
+    if support_hits:
+        score += min(3, len(support_hits))
+        reasons.append("Есть игровые/платформенные признаки: " + ", ".join(support_hits[:5]))
+    if exclude_hits:
+        score -= 8
+        reasons.append("Найдены признаки нерелевантного проекта: " + ", ".join(exclude_hits[:5]))
+
+    # Если описание говорит лишь о WebGL/HTML5, но не о порте игры,
+    # такой проект нельзя автоматически считать целевым.
+    generic_web_only = (
+        any(term in text for term in ("webgl", "webassembly", "wasm", "html5"))
+        and not strong_hits
+    )
+    if generic_web_only:
+        score -= 3
+        reasons.append("Есть только общие веб-технологии без явного признака порта игры")
+
+    if exclude_hits or score <= -1:
+        status = "likely_irrelevant"
+    elif strong_hits and score >= 4:
+        status = "promising"
+    elif strong_hits:
+        status = "possible"
+    else:
+        status = "needs_review"
+
+    return {
+        "relevance_score": score,
+        "relevance_status": status,
+        "relevance_reasons": reasons,
+    }
+
+
 def matches_keywords(item):
-    text = f"{item.get('title', '')} {item.get('summary', '')}".lower()
-    return any(keyword in text for keyword in KEYWORDS)
+    assessment = relevance_assessment(item)
+    return assessment["relevance_status"] in ("promising", "possible")
 
 
 def classify_candidate(candidate):
@@ -652,28 +733,29 @@ def stable_candidate_id(candidate):
 
 def review_priority(candidate):
     """
-    Очередь — это план проверки, не оценка качества игры.
-    Высокий приоритет у браузерных проектов и записей с файлами релизов.
+    Приоритет отражает порядок ручной проверки, а не качество/готовность игры.
+    Нерелевантные совпадения сохраняются, но уходят в конец очереди.
     """
+    assessment = relevance_assessment(candidate)
+    relevance = assessment["relevance_status"]
+
+    if relevance == "likely_irrelevant":
+        return "low"
+
     category = candidate.get("category", "needs_review")
     build_links = candidate.get("build_links") or []
     check = candidate.get("check") or {}
     release_assets = check.get("release_assets") or []
-
     has_build = bool(build_links or release_assets)
-    browser_hint = category == "browser"
-    platform_hint = category in ("pc", "android")
 
-    if browser_hint and has_build:
+    if relevance == "promising" and category == "browser":
         return "high"
-    if browser_hint:
+    if relevance == "promising" and has_build:
         return "high"
-    if platform_hint and has_build:
+    if relevance == "promising":
         return "medium"
-    if platform_hint:
+    if relevance == "possible" and has_build:
         return "medium"
-    if category == "other":
-        return "low"
     return "low"
 
 
@@ -746,6 +828,7 @@ def sync_review_queue(candidates, queue_file):
             "platforms_guess": candidate.get("platforms_guess", []),
             "category_evidence": candidate.get("category_evidence", {}),
             "priority": review_priority(candidate),
+            **relevance_assessment(candidate),
             "status": candidate.get("status", "unverified"),
             "verification": "unverified",
             "browser_playable": "unknown",
@@ -763,6 +846,20 @@ def sync_review_queue(candidates, queue_file):
         current.setdefault("review_status", "pending")
         current.setdefault("manual_notes", "")
         current.setdefault("added_to_queue_at", now)
+
+        # Не удаляем сомнительные записи из базы. Явно нерелевантные
+        # помечаем filtered, но не перезаписываем ручное решение пользователя.
+        if (
+            current.get("relevance_status") == "likely_irrelevant"
+            and current.get("review_status") == "pending"
+            and not current.get("manual_notes", "").strip()
+        ):
+            current["review_status"] = "filtered"
+        elif (
+            current.get("relevance_status") != "likely_irrelevant"
+            and current.get("review_status") == "filtered"
+        ):
+            current["review_status"] = "pending"
 
     # Не удаляем элементы, которых больше нет в candidates.json:
     # они могли быть вручную отмечены или временно отсутствовать.
@@ -857,6 +954,7 @@ def main():
                 }
 
                 candidate.update(classify_candidate(candidate))
+                candidate.update(relevance_assessment(candidate))
 
                 candidates_data["candidates"].append(candidate)
                 known_urls.add(url)
@@ -884,6 +982,7 @@ def main():
         classification = classify_candidate(candidate)
         for key, value in classification.items():
             candidate[key] = value
+        candidate.update(relevance_assessment(candidate))
 
     # Этап 3: ограниченная проверка GitHub.
     checked = 0
@@ -905,6 +1004,7 @@ def main():
         classification = classify_candidate(candidate)
         for key, value in classification.items():
             candidate[key] = value
+        candidate.update(relevance_assessment(candidate))
 
         print(
             "Проверен GitHub-проект: "
@@ -950,6 +1050,21 @@ def main():
     print(f"  Другие платформы: {counts['other']}")
     print(f"  Требуют уточнения: {counts['needs_review']}")
     print(f"Ошибок источников: {len(errors)}")
+    relevance_counts = {
+        "promising": 0,
+        "possible": 0,
+        "needs_review": 0,
+        "likely_irrelevant": 0,
+    }
+    for candidate in candidates:
+        status = candidate.get("relevance_status", "needs_review")
+        relevance_counts[status if status in relevance_counts else "needs_review"] += 1
+
+    print("Оценка тематической релевантности:")
+    print(f"  Перспективные: {relevance_counts['promising']}")
+    print(f"  Возможные: {relevance_counts['possible']}")
+    print(f"  Нужна проверка: {relevance_counts['needs_review']}")
+    print(f"  Вероятно нерелевантные (сохранены): {relevance_counts['likely_irrelevant']}")
     print(f"Новых записей добавлено в очередь проверки: {queue_added}")
     print(f"Записей очереди обновлено: {queue_updated}")
     print(f"Всего записей в review_queue.json: {queue_total}")
