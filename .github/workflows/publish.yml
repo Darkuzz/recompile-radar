@@ -1,4 +1,4 @@
-
+```yaml
 name: RecompileRadar Collector
 
 on:
@@ -60,6 +60,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [ ! -f data/published.json ]; then
+            printf '{\n  "schema_version": 1,\n  "published_ids": []\n}\n' > data/published.json
+          fi
+
           git add data/candidates.json data/published.json
           git diff --cached --quiet || git commit -m "Update RecompileRadar database"
           git push
+```
