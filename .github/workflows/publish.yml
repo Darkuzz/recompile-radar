@@ -1,26 +1,51 @@
-
-name: RecompileRadar Telegram Test
+name: RecompileRadar Collector Test
 
 on:
   workflow_dispatch:
+    inputs:
+      task:
+        description: "Что запустить"
+        required: true
+        type: choice
+        options:
+          - collector
+          - telegram_test
+        default: collector
   schedule:
     - cron: '0 5,12,20 * * *'
+
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  publish-test:
+  run-task:
     runs-on: ubuntu-latest
     steps:
       - name: Download repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
+      - name: Run collector
+        if: github.event_name == 'schedule' || inputs.task == 'collector'
+        run: python collector.py
+
+      - name: Save collector database changes
+        if: github.event_name == 'schedule' || inputs.task == 'collector'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/candidates.json
+          git diff --cached --quiet || git commit -m "Update discovered candidates"
+          git push
+
       - name: Send test message
+        if: github.event_name == 'workflow_dispatch' && inputs.task == 'telegram_test'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
