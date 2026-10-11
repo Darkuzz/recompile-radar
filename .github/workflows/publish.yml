@@ -1,4 +1,5 @@
-name: RecompileRadar Collector Test
+
+name: RecompileRadar Collector
 
 on:
   workflow_dispatch:
