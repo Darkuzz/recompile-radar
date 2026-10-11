@@ -1,7 +1,176 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-11T18:25:10.079755+00:00",
+  "last_updated": "2026-10-11T23:33:28.112866+00:00",
   "candidates": [
+    {
+      "title": "LockingFR/mkw-switch-recomp",
+      "url": "https://github.com/LockingFR/mkw-switch-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-11T18:50:31Z",
+      "summary": "MKW Switch - Mario Kart Wii static recompilation research for Nintendo Switch (no game files)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T23:33:08.031529+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "saulob/geometry-wars-retro-evolved-2-recompiled",
+      "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-11T22:06:09Z",
+      "summary": "Geometry Wars: Retro Evolved 2 native PC port via static recompilation, with TRG launcher, high frame rates, local achievements and offline leaderboards Topics: decomp, decompilation, game, geometry-wars, recomp, recompilation, rexglue, rexglue-recomp, static-recompilation, xbla, xbox-360, xbox360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T23:33:08.030545+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "danmcfan/arcade",
+      "url": "https://github.com/danmcfan/arcade",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-11T22:17:26Z",
+      "summary": "Pixel art games within a game — Go/Ebitengine (WASM) with an in-progress Odin/raylib port Topics: browser-game, ebitengine, game, gamedev, go, golang, odin-lang, pixel-art, raylib, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T23:33:04.176539+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "G-a-m-e/Cross-Dimension-Duel",
+      "url": "https://github.com/G-a-m-e/Cross-Dimension-Duel",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-09-06T23:39:02Z",
+      "summary": "26 web-novel protagonists, each reduced to one signature mechanic, dropped into an arena as bouncing balls and left to fight. A data-balanced auto-battler: self-running 26-hero tournament, local PvP, control mode, 8 arenas, and a pluggable-mechanic system. Zero dependencies, zero build — open index.html or play in-browser. Topics: 2d-game, arena, auto-battler, browser-game, game, html5-canvas, javascript, no-build, pvp, simulation, tournament, vanilla-javascript, xianxia",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T23:33:02.314420+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "html5"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, html5",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "cephyrixzyth/Oneirodex",
+      "url": "https://github.com/cephyrixzyth/Oneirodex",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-10-10T21:45:18Z",
+      "summary": "Oneirodex is a Flask + React game library server you run at home (or on a NAS). Point it at folders of DRM-free games, identify them with IGDB / Steam / GOG / RAWG, then give household members a modern browser UI to browse, download, play in-browser (where supported), and hang out. Topics: emulator, game-launcher-software, game-library, game-manager, gaming, launcher, pc-gaming, self-hosted, steam",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-11T23:33:02.311662+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 3,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
+      ]
+    },
     {
       "title": "Dvrxx-es/slendytubbies-2d-browser-port",
       "url": "https://github.com/Dvrxx-es/slendytubbies-2d-browser-port",
@@ -8106,23 +8275,665 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:20.809006+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T23:33:16.264051+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Experimental native PC port of Lost Odyssey using static recompilation. No game assets included.",
+        "latest_release_url": "https://github.com/freefrank/LostOdysseyRecomp/releases/tag/v0.9.22",
+        "latest_release_name": "v0.9.22",
+        "release_assets": [
+          {
+            "name": "LostOdysseyRecomp-android-arm64-v0.9.22.apk",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.22/LostOdysseyRecomp-android-arm64-v0.9.22.apk",
+            "size": 46057478
+          },
+          {
+            "name": "LostOdysseyRecomp-linux-x64-v0.9.22.AppImage",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.22/LostOdysseyRecomp-linux-x64-v0.9.22.AppImage",
+            "size": 77339128
+          },
+          {
+            "name": "LostOdysseyRecomp-linux-x64-v0.9.22.flatpak",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.22/LostOdysseyRecomp-linux-x64-v0.9.22.flatpak",
+            "size": 54949400
+          },
+          {
+            "name": "LostOdysseyRecomp-macos-arm64-v0.9.22.dmg",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.22/LostOdysseyRecomp-macos-arm64-v0.9.22.dmg",
+            "size": 61550278
+          },
+          {
+            "name": "LostOdysseyRecomp-windows-x64-v0.9.22.zip",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.22/LostOdysseyRecomp-windows-x64-v0.9.22.zip",
+            "size": 151348272
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.9.22",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/tag/v0.9.22",
+            "published_at": "2026-10-10T05:10:10Z",
+            "assets": [
+              {
+                "name": "LostOdysseyRecomp-android-arm64-v0.9.22.apk",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.22/LostOdysseyRecomp-android-arm64-v0.9.22.apk",
+                "size": 46057478
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.9.22.AppImage",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.22/LostOdysseyRecomp-linux-x64-v0.9.22.AppImage",
+                "size": 77339128
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.9.22.flatpak",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.22/LostOdysseyRecomp-linux-x64-v0.9.22.flatpak",
+                "size": 54949400
+              },
+              {
+                "name": "LostOdysseyRecomp-macos-arm64-v0.9.22.dmg",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.22/LostOdysseyRecomp-macos-arm64-v0.9.22.dmg",
+                "size": 61550278
+              },
+              {
+                "name": "LostOdysseyRecomp-windows-x64-v0.9.22.zip",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.22/LostOdysseyRecomp-windows-x64-v0.9.22.zip",
+                "size": 151348272
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.9.0",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/tag/v0.9.0",
+            "published_at": "2026-10-08T18:31:57Z",
+            "assets": [
+              {
+                "name": "LostOdysseyRecomp-android-arm64-v0.9.0.apk",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.0/LostOdysseyRecomp-android-arm64-v0.9.0.apk",
+                "size": 45768558
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.9.0.AppImage",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.0/LostOdysseyRecomp-linux-x64-v0.9.0.AppImage",
+                "size": 76995064
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.9.0.flatpak",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.0/LostOdysseyRecomp-linux-x64-v0.9.0.flatpak",
+                "size": 54695088
+              },
+              {
+                "name": "LostOdysseyRecomp-macos-arm64-v0.9.0.dmg",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.0/LostOdysseyRecomp-macos-arm64-v0.9.0.dmg",
+                "size": 61190962
+              },
+              {
+                "name": "LostOdysseyRecomp-windows-x64-v0.9.0.zip",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.0/LostOdysseyRecomp-windows-x64-v0.9.0.zip",
+                "size": 150994241
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.8.61",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/tag/v0.8.61",
+            "published_at": "2026-10-08T08:33:11Z",
+            "assets": [
+              {
+                "name": "LostOdysseyRecomp-android-arm64-v0.8.61.apk",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.61/LostOdysseyRecomp-android-arm64-v0.8.61.apk",
+                "size": 45766306
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.8.61.AppImage",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.61/LostOdysseyRecomp-linux-x64-v0.8.61.AppImage",
+                "size": 76986872
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.8.61.flatpak",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.61/LostOdysseyRecomp-linux-x64-v0.8.61.flatpak",
+                "size": 54691336
+              },
+              {
+                "name": "LostOdysseyRecomp-macos-arm64-v0.8.61.dmg",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.61/LostOdysseyRecomp-macos-arm64-v0.8.61.dmg",
+                "size": 61177380
+              },
+              {
+                "name": "LostOdysseyRecomp-windows-x64-v0.8.61.zip",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.61/LostOdysseyRecomp-windows-x64-v0.8.61.zip",
+                "size": 150982005
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.8.53",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/tag/v0.8.53",
+            "published_at": "2026-10-07T08:09:55Z",
+            "assets": [
+              {
+                "name": "LostOdysseyRecomp-android-arm64-v0.8.53.apk",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.53/LostOdysseyRecomp-android-arm64-v0.8.53.apk",
+                "size": 45360582
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.8.53.AppImage",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.53/LostOdysseyRecomp-linux-x64-v0.8.53.AppImage",
+                "size": 76478968
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.8.53.flatpak",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.53/LostOdysseyRecomp-linux-x64-v0.8.53.flatpak",
+                "size": 54289688
+              },
+              {
+                "name": "LostOdysseyRecomp-macos-arm64-v0.8.53.dmg",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.53/LostOdysseyRecomp-macos-arm64-v0.8.53.dmg",
+                "size": 60616756
+              },
+              {
+                "name": "LostOdysseyRecomp-windows-x64-v0.8.53.zip",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.53/LostOdysseyRecomp-windows-x64-v0.8.53.zip",
+                "size": 150459333
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.8.44",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/tag/v0.8.44",
+            "published_at": "2026-10-06T17:34:21Z",
+            "assets": [
+              {
+                "name": "LostOdysseyRecomp-android-arm64-v0.8.44.apk",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.44/LostOdysseyRecomp-android-arm64-v0.8.44.apk",
+                "size": 45263798
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.8.44.AppImage",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.44/LostOdysseyRecomp-linux-x64-v0.8.44.AppImage",
+                "size": 76343800
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.8.44.flatpak",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.44/LostOdysseyRecomp-linux-x64-v0.8.44.flatpak",
+                "size": 54161960
+              },
+              {
+                "name": "LostOdysseyRecomp-macos-arm64-v0.8.44.dmg",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.44/LostOdysseyRecomp-macos-arm64-v0.8.44.dmg",
+                "size": 60532515
+              },
+              {
+                "name": "LostOdysseyRecomp-windows-x64-v0.8.44.zip",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.44/LostOdysseyRecomp-windows-x64-v0.8.44.zip",
+                "size": 150342566
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.8.39",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/tag/v0.8.39",
+            "published_at": "2026-10-06T08:48:26Z",
+            "assets": [
+              {
+                "name": "LostOdysseyRecomp-android-arm64-v0.8.39.apk",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.39/LostOdysseyRecomp-android-arm64-v0.8.39.apk",
+                "size": 45253470
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.8.39.AppImage",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.39/LostOdysseyRecomp-linux-x64-v0.8.39.AppImage",
+                "size": 76339704
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.8.39.flatpak",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.39/LostOdysseyRecomp-linux-x64-v0.8.39.flatpak",
+                "size": 54176336
+              },
+              {
+                "name": "LostOdysseyRecomp-macos-arm64-v0.8.39.dmg",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.39/LostOdysseyRecomp-macos-arm64-v0.8.39.dmg",
+                "size": 60530342
+              },
+              {
+                "name": "LostOdysseyRecomp-windows-x64-v0.8.39.zip",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.39/LostOdysseyRecomp-windows-x64-v0.8.39.zip",
+                "size": 150346784
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.8.37",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/tag/v0.8.37",
+            "published_at": "2026-10-06T07:46:23Z",
+            "assets": [
+              {
+                "name": "LostOdysseyRecomp-android-arm64-v0.8.37.apk",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.37/LostOdysseyRecomp-android-arm64-v0.8.37.apk",
+                "size": 45234574
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.8.37.AppImage",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.37/LostOdysseyRecomp-linux-x64-v0.8.37.AppImage",
+                "size": 76368376
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.8.37.flatpak",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.37/LostOdysseyRecomp-linux-x64-v0.8.37.flatpak",
+                "size": 54094696
+              },
+              {
+                "name": "LostOdysseyRecomp-macos-arm64-v0.8.37.dmg",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.37/LostOdysseyRecomp-macos-arm64-v0.8.37.dmg",
+                "size": 60497783
+              },
+              {
+                "name": "LostOdysseyRecomp-windows-x64-v0.8.37.zip",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.37/LostOdysseyRecomp-windows-x64-v0.8.37.zip",
+                "size": 150315665
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.8.30",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/tag/v0.8.30",
+            "published_at": "2026-10-05T20:54:12Z",
+            "assets": [
+              {
+                "name": "LostOdysseyRecomp-android-arm64-v0.8.30.apk",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.30/LostOdysseyRecomp-android-arm64-v0.8.30.apk",
+                "size": 45222430
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.8.30.AppImage",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.30/LostOdysseyRecomp-linux-x64-v0.8.30.AppImage",
+                "size": 76364280
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.8.30.flatpak",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.30/LostOdysseyRecomp-linux-x64-v0.8.30.flatpak",
+                "size": 54125296
+              },
+              {
+                "name": "LostOdysseyRecomp-macos-arm64-v0.8.30.dmg",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.30/LostOdysseyRecomp-macos-arm64-v0.8.30.dmg",
+                "size": 60476104
+              },
+              {
+                "name": "LostOdysseyRecomp-windows-x64-v0.8.30.zip",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.30/LostOdysseyRecomp-windows-x64-v0.8.30.zip",
+                "size": 150316921
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.8.21",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/tag/v0.8.21",
+            "published_at": "2026-10-04T22:02:56Z",
+            "assets": [
+              {
+                "name": "LostOdysseyRecomp-android-arm64-v0.8.21.apk",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.21/LostOdysseyRecomp-android-arm64-v0.8.21.apk",
+                "size": 45205570
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.8.21.AppImage",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.21/LostOdysseyRecomp-linux-x64-v0.8.21.AppImage",
+                "size": 76343800
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.8.21.flatpak",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.21/LostOdysseyRecomp-linux-x64-v0.8.21.flatpak",
+                "size": 54185136
+              },
+              {
+                "name": "LostOdysseyRecomp-macos-arm64-v0.8.21.dmg",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.21/LostOdysseyRecomp-macos-arm64-v0.8.21.dmg",
+                "size": 60489102
+              },
+              {
+                "name": "LostOdysseyRecomp-windows-x64-v0.8.21.zip",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.21/LostOdysseyRecomp-windows-x64-v0.8.21.zip",
+                "size": 77157364
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.8.15",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/tag/v0.8.15",
+            "published_at": "2026-10-04T11:52:16Z",
+            "assets": [
+              {
+                "name": "LostOdysseyRecomp-android-arm64-v0.8.15.apk",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.15/LostOdysseyRecomp-android-arm64-v0.8.15.apk",
+                "size": 45191538
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.8.15.AppImage",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.15/LostOdysseyRecomp-linux-x64-v0.8.15.AppImage",
+                "size": 76306936
+              },
+              {
+                "name": "LostOdysseyRecomp-linux-x64-v0.8.15.flatpak",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.15/LostOdysseyRecomp-linux-x64-v0.8.15.flatpak",
+                "size": 54145680
+              },
+              {
+                "name": "LostOdysseyRecomp-macos-arm64-v0.8.15.dmg",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.15/LostOdysseyRecomp-macos-arm64-v0.8.15.dmg",
+                "size": 60451359
+              },
+              {
+                "name": "LostOdysseyRecomp-windows-x64-v0.8.15.zip",
+                "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.15/LostOdysseyRecomp-windows-x64-v0.8.15.zip",
+                "size": 77139729
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
+        "Android",
         "PC"
       ],
       "category_evidence": {
         "browser_terms": [],
-        "android_terms": [],
+        "android_terms": [
+          "android"
+        ],
         "pc_terms": [
+          "windows",
+          "linux",
           "pc port",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "LostOdysseyRecomp-android-arm64-v0.9.22.apk",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.22/LostOdysseyRecomp-android-arm64-v0.9.22.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.9.22.AppImage",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.22/LostOdysseyRecomp-linux-x64-v0.9.22.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.9.22.flatpak",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.22/LostOdysseyRecomp-linux-x64-v0.9.22.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "LostOdysseyRecomp-macos-arm64-v0.9.22.dmg",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.22/LostOdysseyRecomp-macos-arm64-v0.9.22.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-windows-x64-v0.9.22.zip",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.22/LostOdysseyRecomp-windows-x64-v0.9.22.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LostOdysseyRecomp-android-arm64-v0.9.0.apk",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.0/LostOdysseyRecomp-android-arm64-v0.9.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.9.0.AppImage",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.0/LostOdysseyRecomp-linux-x64-v0.9.0.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.9.0.flatpak",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.0/LostOdysseyRecomp-linux-x64-v0.9.0.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "LostOdysseyRecomp-macos-arm64-v0.9.0.dmg",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.0/LostOdysseyRecomp-macos-arm64-v0.9.0.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-windows-x64-v0.9.0.zip",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.9.0/LostOdysseyRecomp-windows-x64-v0.9.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LostOdysseyRecomp-android-arm64-v0.8.61.apk",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.61/LostOdysseyRecomp-android-arm64-v0.8.61.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.8.61.AppImage",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.61/LostOdysseyRecomp-linux-x64-v0.8.61.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.8.61.flatpak",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.61/LostOdysseyRecomp-linux-x64-v0.8.61.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "LostOdysseyRecomp-macos-arm64-v0.8.61.dmg",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.61/LostOdysseyRecomp-macos-arm64-v0.8.61.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-windows-x64-v0.8.61.zip",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.61/LostOdysseyRecomp-windows-x64-v0.8.61.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LostOdysseyRecomp-android-arm64-v0.8.53.apk",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.53/LostOdysseyRecomp-android-arm64-v0.8.53.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.8.53.AppImage",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.53/LostOdysseyRecomp-linux-x64-v0.8.53.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.8.53.flatpak",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.53/LostOdysseyRecomp-linux-x64-v0.8.53.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "LostOdysseyRecomp-macos-arm64-v0.8.53.dmg",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.53/LostOdysseyRecomp-macos-arm64-v0.8.53.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-windows-x64-v0.8.53.zip",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.53/LostOdysseyRecomp-windows-x64-v0.8.53.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LostOdysseyRecomp-android-arm64-v0.8.44.apk",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.44/LostOdysseyRecomp-android-arm64-v0.8.44.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.8.44.AppImage",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.44/LostOdysseyRecomp-linux-x64-v0.8.44.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.8.44.flatpak",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.44/LostOdysseyRecomp-linux-x64-v0.8.44.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "LostOdysseyRecomp-macos-arm64-v0.8.44.dmg",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.44/LostOdysseyRecomp-macos-arm64-v0.8.44.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-windows-x64-v0.8.44.zip",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.44/LostOdysseyRecomp-windows-x64-v0.8.44.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LostOdysseyRecomp-android-arm64-v0.8.39.apk",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.39/LostOdysseyRecomp-android-arm64-v0.8.39.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.8.39.AppImage",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.39/LostOdysseyRecomp-linux-x64-v0.8.39.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.8.39.flatpak",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.39/LostOdysseyRecomp-linux-x64-v0.8.39.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "LostOdysseyRecomp-macos-arm64-v0.8.39.dmg",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.39/LostOdysseyRecomp-macos-arm64-v0.8.39.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-windows-x64-v0.8.39.zip",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.39/LostOdysseyRecomp-windows-x64-v0.8.39.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LostOdysseyRecomp-android-arm64-v0.8.37.apk",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.37/LostOdysseyRecomp-android-arm64-v0.8.37.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.8.37.AppImage",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.37/LostOdysseyRecomp-linux-x64-v0.8.37.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.8.37.flatpak",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.37/LostOdysseyRecomp-linux-x64-v0.8.37.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "LostOdysseyRecomp-macos-arm64-v0.8.37.dmg",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.37/LostOdysseyRecomp-macos-arm64-v0.8.37.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-windows-x64-v0.8.37.zip",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.37/LostOdysseyRecomp-windows-x64-v0.8.37.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LostOdysseyRecomp-android-arm64-v0.8.30.apk",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.30/LostOdysseyRecomp-android-arm64-v0.8.30.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.8.30.AppImage",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.30/LostOdysseyRecomp-linux-x64-v0.8.30.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.8.30.flatpak",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.30/LostOdysseyRecomp-linux-x64-v0.8.30.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "LostOdysseyRecomp-macos-arm64-v0.8.30.dmg",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.30/LostOdysseyRecomp-macos-arm64-v0.8.30.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-windows-x64-v0.8.30.zip",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.30/LostOdysseyRecomp-windows-x64-v0.8.30.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LostOdysseyRecomp-android-arm64-v0.8.21.apk",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.21/LostOdysseyRecomp-android-arm64-v0.8.21.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.8.21.AppImage",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.21/LostOdysseyRecomp-linux-x64-v0.8.21.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.8.21.flatpak",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.21/LostOdysseyRecomp-linux-x64-v0.8.21.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "LostOdysseyRecomp-macos-arm64-v0.8.21.dmg",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.21/LostOdysseyRecomp-macos-arm64-v0.8.21.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-windows-x64-v0.8.21.zip",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.21/LostOdysseyRecomp-windows-x64-v0.8.21.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LostOdysseyRecomp-android-arm64-v0.8.15.apk",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.15/LostOdysseyRecomp-android-arm64-v0.8.15.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.8.15.AppImage",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.15/LostOdysseyRecomp-linux-x64-v0.8.15.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-linux-x64-v0.8.15.flatpak",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.15/LostOdysseyRecomp-linux-x64-v0.8.15.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "LostOdysseyRecomp-macos-arm64-v0.8.15.dmg",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.15/LostOdysseyRecomp-macos-arm64-v0.8.15.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LostOdysseyRecomp-windows-x64-v0.8.15.zip",
+          "url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v0.8.15/LostOdysseyRecomp-windows-x64-v0.8.15.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -8140,17 +8951,578 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:20.808948+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-10-11T23:33:17.813512+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of a PSP game into a native executable. Vulkan and SDL3. Bring your own copy of the game.",
+        "latest_release_url": "https://github.com/TeamGDB/Yakumo/releases/tag/v0.7.0-test.1",
+        "latest_release_name": "(test) Yakumo v0.7.0-test.1",
+        "release_assets": [
+          {
+            "name": "ffmpeg-7.1.5.tar.xz",
+            "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.7.0-test.1/ffmpeg-7.1.5.tar.xz",
+            "size": 11050340
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.7.0-test.1/SHA256SUMS",
+            "size": 190
+          },
+          {
+            "name": "yakumo-0.7.0-test.1-android-arm64.apk",
+            "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.7.0-test.1/yakumo-0.7.0-test.1-android-arm64.apk",
+            "size": 203230734
+          }
+        ],
+        "releases": [
+          {
+            "name": "(test) Yakumo v0.7.0-test.1",
+            "url": "https://github.com/TeamGDB/Yakumo/releases/tag/v0.7.0-test.1",
+            "published_at": "2026-09-29T00:57:02Z",
+            "assets": [
+              {
+                "name": "ffmpeg-7.1.5.tar.xz",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.7.0-test.1/ffmpeg-7.1.5.tar.xz",
+                "size": 11050340
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.7.0-test.1/SHA256SUMS",
+                "size": 190
+              },
+              {
+                "name": "yakumo-0.7.0-test.1-android-arm64.apk",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.7.0-test.1/yakumo-0.7.0-test.1-android-arm64.apk",
+                "size": 203230734
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "(unstable) Yakumo v0.6.6 — MediaTek Helio fix (Android)",
+            "url": "https://github.com/TeamGDB/Yakumo/releases/tag/v0.6.6",
+            "published_at": "2026-09-28T20:04:28Z",
+            "assets": [
+              {
+                "name": "ffmpeg-7.1.5.tar.xz",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.6/ffmpeg-7.1.5.tar.xz",
+                "size": 11050340
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.6/SHA256SUMS",
+                "size": 183
+              },
+              {
+                "name": "yakumo-0.6.6-android-arm64.apk",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.6/yakumo-0.6.6-android-arm64.apk",
+                "size": 203226638
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "(unstable) Yakumo v0.6.5",
+            "url": "https://github.com/TeamGDB/Yakumo/releases/tag/v0.6.0-alpha.5",
+            "published_at": "2026-09-28T15:54:37Z",
+            "assets": [
+              {
+                "name": "ffmpeg-7.1.5.tar.xz",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.5/ffmpeg-7.1.5.tar.xz",
+                "size": 11050340
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.5/SHA256SUMS",
+                "size": 730
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.5-android-arm64.apk",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.5/yakumo-0.6.0-alpha.5-android-arm64.apk",
+                "size": 203206158
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.5-linux-x86_64.flatpak",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.5/yakumo-0.6.0-alpha.5-linux-x86_64.flatpak",
+                "size": 99676400
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.5-linux-x86_64.tar.gz",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.5/yakumo-0.6.0-alpha.5-linux-x86_64.tar.gz",
+                "size": 225009783
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.5-macos-arm64.dmg",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.5/yakumo-0.6.0-alpha.5-macos-arm64.dmg",
+                "size": 97998879
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.5-windows-x86_64-portable.zip",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.5/yakumo-0.6.0-alpha.5-windows-x86_64-portable.zip",
+                "size": 220292601
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.5-windows-x86_64.zip",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.5/yakumo-0.6.0-alpha.5-windows-x86_64.zip",
+                "size": 220285317
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Yakumo v0.6.0-alpha.4",
+            "url": "https://github.com/TeamGDB/Yakumo/releases/tag/v0.6.0-alpha.4",
+            "published_at": "2026-09-24T22:43:54Z",
+            "assets": [
+              {
+                "name": "ffmpeg-7.1.5.tar.xz",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.4/ffmpeg-7.1.5.tar.xz",
+                "size": 11050340
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.4/SHA256SUMS",
+                "size": 615
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.4-android-arm64.apk",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.4/yakumo-0.6.0-alpha.4-android-arm64.apk",
+                "size": 202866190
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.4-linux-x86_64.flatpak",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.4/yakumo-0.6.0-alpha.4-linux-x86_64.flatpak",
+                "size": 99843928
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.4-linux-x86_64.tar.gz",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.4/yakumo-0.6.0-alpha.4-linux-x86_64.tar.gz",
+                "size": 224593466
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.4-macos-arm64.dmg",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.4/yakumo-0.6.0-alpha.4-macos-arm64.dmg",
+                "size": 97652310
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.4-windows-x86_64.zip",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.4/yakumo-0.6.0-alpha.4-windows-x86_64.zip",
+                "size": 219480211
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Yakumo v0.6.0-alpha.3",
+            "url": "https://github.com/TeamGDB/Yakumo/releases/tag/v0.6.0-alpha.3",
+            "published_at": "2026-09-24T18:30:49Z",
+            "assets": [
+              {
+                "name": "ffmpeg-7.1.5.tar.xz",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.3/ffmpeg-7.1.5.tar.xz",
+                "size": 11050340
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.3/SHA256SUMS",
+                "size": 191
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.3-android-arm64.apk",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.3/yakumo-0.6.0-alpha.3-android-arm64.apk",
+                "size": 202866190
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Yakumo v0.6.0-alpha.1",
+            "url": "https://github.com/TeamGDB/Yakumo/releases/tag/v0.6.0-alpha.1",
+            "published_at": "2026-09-23T22:38:52Z",
+            "assets": [
+              {
+                "name": "ffmpeg-7.1.5.tar.xz",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.1/ffmpeg-7.1.5.tar.xz",
+                "size": 11050340
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.1/SHA256SUMS",
+                "size": 621
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.1-android-arm64.apk",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.1/yakumo-0.6.0-alpha.1-android-arm64.apk",
+                "size": 202792462
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.1-linux-x86_64.flatpak",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.1/yakumo-0.6.0-alpha.1-linux-x86_64.flatpak",
+                "size": 99869536
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.1-linux-x86_64.tar.gz",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.1/yakumo-0.6.0-alpha.1-linux-x86_64.tar.gz",
+                "size": 224493101
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.1-macos-arm64.dmg",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.1/yakumo-0.6.0-alpha.1-macos-arm64.dmg",
+                "size": 100367088
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.1-windows-x86_64.zip",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.1/yakumo-0.6.0-alpha.1-windows-x86_64.zip",
+                "size": 219810606
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Yakumo v0.6.0-alpha.2",
+            "url": "https://github.com/TeamGDB/Yakumo/releases/tag/v0.6.0-alpha.2",
+            "published_at": "2026-09-23T23:59:48Z",
+            "assets": [
+              {
+                "name": "ffmpeg-7.1.5.tar.xz",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.2/ffmpeg-7.1.5.tar.xz",
+                "size": 11050340
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.2/SHA256SUMS",
+                "size": 191
+              },
+              {
+                "name": "yakumo-0.6.0-alpha.2-android-arm64.apk",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.2/yakumo-0.6.0-alpha.2-android-arm64.apk",
+                "size": 202792462
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Yakumo v0.5.0",
+            "url": "https://github.com/TeamGDB/Yakumo/releases/tag/v0.5.0",
+            "published_at": "2026-09-20T19:54:57Z",
+            "assets": [
+              {
+                "name": "ffmpeg-7.1.5.tar.xz",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.5.0/ffmpeg-7.1.5.tar.xz",
+                "size": 11050340
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.5.0/SHA256SUMS",
+                "size": 383
+              },
+              {
+                "name": "yakumo-0.5.0-linux-x86_64.flatpak",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.5.0/yakumo-0.5.0-linux-x86_64.flatpak",
+                "size": 99796464
+              },
+              {
+                "name": "yakumo-0.5.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.5.0/yakumo-0.5.0-linux-x86_64.tar.gz",
+                "size": 223885321
+              },
+              {
+                "name": "yakumo-0.5.0-windows-x86_64.zip",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.5.0/yakumo-0.5.0-windows-x86_64.zip",
+                "size": 219290459
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.4.0 — prebuilt for Linux and the Steam Deck, multiplayer",
+            "url": "https://github.com/TeamGDB/Yakumo/releases/tag/v0.4.0",
+            "published_at": "2026-09-19T15:52:43Z",
+            "assets": [
+              {
+                "name": "ffmpeg-7.1.5.tar.xz",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.4.0/ffmpeg-7.1.5.tar.xz",
+                "size": 11050340
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.4.0/SHA256SUMS",
+                "size": 285
+              },
+              {
+                "name": "yakumo-0.4.0-linux-x86_64.flatpak",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.4.0/yakumo-0.4.0-linux-x86_64.flatpak",
+                "size": 99259880
+              },
+              {
+                "name": "yakumo-0.4.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.4.0/yakumo-0.4.0-linux-x86_64.tar.gz",
+                "size": 223745762
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.3.0 — saves, menu, music, movies, lighting",
+            "url": "https://github.com/TeamGDB/Yakumo/releases/tag/v0.3.0",
+            "published_at": "2026-09-18T20:26:32Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
       "category_evidence": {
         "browser_terms": [],
-        "android_terms": [],
+        "android_terms": [
+          "android"
+        ],
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "ffmpeg-7.1.5.tar.xz",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.7.0-test.1/ffmpeg-7.1.5.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.7.0-test.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "yakumo-0.7.0-test.1-android-arm64.apk",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.7.0-test.1/yakumo-0.7.0-test.1-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ffmpeg-7.1.5.tar.xz",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.6/ffmpeg-7.1.5.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.6/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "yakumo-0.6.6-android-arm64.apk",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.6/yakumo-0.6.6-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ffmpeg-7.1.5.tar.xz",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.5/ffmpeg-7.1.5.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.5/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.5-android-arm64.apk",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.5/yakumo-0.6.0-alpha.5-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.5-linux-x86_64.flatpak",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.5/yakumo-0.6.0-alpha.5-linux-x86_64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.5-linux-x86_64.tar.gz",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.5/yakumo-0.6.0-alpha.5-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.5-macos-arm64.dmg",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.5/yakumo-0.6.0-alpha.5-macos-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.5-windows-x86_64-portable.zip",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.5/yakumo-0.6.0-alpha.5-windows-x86_64-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.5-windows-x86_64.zip",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.5/yakumo-0.6.0-alpha.5-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ffmpeg-7.1.5.tar.xz",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.4/ffmpeg-7.1.5.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.4/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.4-android-arm64.apk",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.4/yakumo-0.6.0-alpha.4-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.4-linux-x86_64.flatpak",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.4/yakumo-0.6.0-alpha.4-linux-x86_64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.4-linux-x86_64.tar.gz",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.4/yakumo-0.6.0-alpha.4-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.4-macos-arm64.dmg",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.4/yakumo-0.6.0-alpha.4-macos-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.4-windows-x86_64.zip",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.4/yakumo-0.6.0-alpha.4-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ffmpeg-7.1.5.tar.xz",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.3/ffmpeg-7.1.5.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.3/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.3-android-arm64.apk",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.3/yakumo-0.6.0-alpha.3-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ffmpeg-7.1.5.tar.xz",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.1/ffmpeg-7.1.5.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.1-android-arm64.apk",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.1/yakumo-0.6.0-alpha.1-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.1-linux-x86_64.flatpak",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.1/yakumo-0.6.0-alpha.1-linux-x86_64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.1-linux-x86_64.tar.gz",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.1/yakumo-0.6.0-alpha.1-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.1-macos-arm64.dmg",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.1/yakumo-0.6.0-alpha.1-macos-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.1-windows-x86_64.zip",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.1/yakumo-0.6.0-alpha.1-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ffmpeg-7.1.5.tar.xz",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.2/ffmpeg-7.1.5.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "yakumo-0.6.0-alpha.2-android-arm64.apk",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.6.0-alpha.2/yakumo-0.6.0-alpha.2-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ffmpeg-7.1.5.tar.xz",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.5.0/ffmpeg-7.1.5.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.5.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "yakumo-0.5.0-linux-x86_64.flatpak",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.5.0/yakumo-0.5.0-linux-x86_64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "yakumo-0.5.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.5.0/yakumo-0.5.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "yakumo-0.5.0-windows-x86_64.zip",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.5.0/yakumo-0.5.0-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ffmpeg-7.1.5.tar.xz",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.4.0/ffmpeg-7.1.5.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.4.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "yakumo-0.4.0-linux-x86_64.flatpak",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.4.0/yakumo-0.4.0-linux-x86_64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "yakumo-0.4.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/TeamGDB/Yakumo/releases/download/v0.4.0/yakumo-0.4.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -8167,7 +9539,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:19.121106+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T23:33:19.445336+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Best practices for publishing and optimizing HTML5 and WebGL games on browser game portals.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -8204,7 +9593,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:19.121088+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T23:33:20.876432+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Personal site — WebGL hero, playable Indus-script mini-game, command palette. Static, no build step.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -8239,7 +9645,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:19.121071+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T23:33:22.280154+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Using Unity webgl embedded into a react system you can view my personal portfolio in a 3d game scene",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -8274,7 +9697,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:19.121055+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T23:33:23.725513+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "An isometric 3D Real-Time Tactics (RTT) game with built with Unity 6 URP.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -8309,7 +9749,171 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:19.121038+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T23:33:25.164606+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A 3D survival game in your browser. Guide a destructible cube through rotating laser corridors as time, entropy and heat close in. Web port of Cube Libre.",
+        "latest_release_url": "https://github.com/FlyingFathead/cube-libre/releases/tag/v0.31.0",
+        "latest_release_name": "Cube Libre Web v0.31.0: Backup cubes",
+        "release_assets": [
+          {
+            "name": "cube-libre-web-port-v0.31.0.zip",
+            "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.31.0/cube-libre-web-port-v0.31.0.zip",
+            "size": 3769003
+          }
+        ],
+        "releases": [
+          {
+            "name": "Cube Libre Web v0.31.0: Backup cubes",
+            "url": "https://github.com/FlyingFathead/cube-libre/releases/tag/v0.31.0",
+            "published_at": "2026-09-07T14:33:03Z",
+            "assets": [
+              {
+                "name": "cube-libre-web-port-v0.31.0.zip",
+                "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.31.0/cube-libre-web-port-v0.31.0.zip",
+                "size": 3769003
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cube Libre Web v0.30.2: What remains",
+            "url": "https://github.com/FlyingFathead/cube-libre/releases/tag/v0.30.2",
+            "published_at": "2026-09-07T13:11:27Z",
+            "assets": [
+              {
+                "name": "cube-libre-web-port-v0.30.2.zip",
+                "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.30.2/cube-libre-web-port-v0.30.2.zip",
+                "size": 3575764
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cube Libre Web v0.30.1: Two seconds of mercy",
+            "url": "https://github.com/FlyingFathead/cube-libre/releases/tag/v0.30.1",
+            "published_at": "2026-09-07T12:40:10Z",
+            "assets": [
+              {
+                "name": "cube-libre-web-port-v0.30.1.zip",
+                "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.30.1/cube-libre-web-port-v0.30.1.zip",
+                "size": 3566896
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cube Libre Web v0.30.0: Critical grace",
+            "url": "https://github.com/FlyingFathead/cube-libre/releases/tag/v0.30.0",
+            "published_at": "2026-09-07T12:28:18Z",
+            "assets": [
+              {
+                "name": "cube-libre-web-port-v0.30.0.zip",
+                "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.30.0/cube-libre-web-port-v0.30.0.zip",
+                "size": 3564838
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cube Libre Web v0.29.3: Recouple batch recovery",
+            "url": "https://github.com/FlyingFathead/cube-libre/releases/tag/v0.29.3",
+            "published_at": "2026-09-07T11:44:52Z",
+            "assets": [
+              {
+                "name": "cube-libre-web-port-v0.29.3.zip",
+                "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.29.3/cube-libre-web-port-v0.29.3.zip",
+                "size": 3553777
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cube Libre Web v0.29.2: Tap the title",
+            "url": "https://github.com/FlyingFathead/cube-libre/releases/tag/v0.29.2",
+            "published_at": "2026-09-07T10:53:23Z",
+            "assets": [
+              {
+                "name": "cube-libre-web-port-v0.29.2.zip",
+                "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.29.2/cube-libre-web-port-v0.29.2.zip",
+                "size": 3545238
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cube Libre Web v0.29.1: Desktop action HUD",
+            "url": "https://github.com/FlyingFathead/cube-libre/releases/tag/v0.29.1",
+            "published_at": "2026-09-07T10:21:00Z",
+            "assets": [
+              {
+                "name": "cube-libre-web-port-v0.29.1.zip",
+                "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.29.1/cube-libre-web-port-v0.29.1.zip",
+                "size": 3543482
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cube Libre Web v0.29.0: Panic recovery",
+            "url": "https://github.com/FlyingFathead/cube-libre/releases/tag/v0.29.0",
+            "published_at": "2026-09-07T09:48:02Z",
+            "assets": [
+              {
+                "name": "cube-libre-web-port-v0.29.0.zip",
+                "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.29.0/cube-libre-web-port-v0.29.0.zip",
+                "size": 3536624
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cube Libre Web v0.28.2 — White tide",
+            "url": "https://github.com/FlyingFathead/cube-libre/releases/tag/v0.28.2",
+            "published_at": "2026-09-07T08:28:55Z",
+            "assets": [
+              {
+                "name": "cube-libre-web-port-v0.28.2.zip",
+                "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.28.2/cube-libre-web-port-v0.28.2.zip",
+                "size": 3466905
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cube Libre Web v0.28.1 — Silent arrival",
+            "url": "https://github.com/FlyingFathead/cube-libre/releases/tag/v0.28.1",
+            "published_at": "2026-09-07T03:29:25Z",
+            "assets": [
+              {
+                "name": "cube-libre-web-port-v0.28.1.zip",
+                "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.28.1/cube-libre-web-port-v0.28.1.zip",
+                "size": 3385995
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -8324,9 +9928,61 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "cube-libre-web-port-v0.31.0.zip",
+          "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.31.0/cube-libre-web-port-v0.31.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "cube-libre-web-port-v0.30.2.zip",
+          "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.30.2/cube-libre-web-port-v0.30.2.zip",
+          "type": "archive"
+        },
+        {
+          "name": "cube-libre-web-port-v0.30.1.zip",
+          "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.30.1/cube-libre-web-port-v0.30.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "cube-libre-web-port-v0.30.0.zip",
+          "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.30.0/cube-libre-web-port-v0.30.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "cube-libre-web-port-v0.29.3.zip",
+          "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.29.3/cube-libre-web-port-v0.29.3.zip",
+          "type": "archive"
+        },
+        {
+          "name": "cube-libre-web-port-v0.29.2.zip",
+          "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.29.2/cube-libre-web-port-v0.29.2.zip",
+          "type": "archive"
+        },
+        {
+          "name": "cube-libre-web-port-v0.29.1.zip",
+          "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.29.1/cube-libre-web-port-v0.29.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "cube-libre-web-port-v0.29.0.zip",
+          "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.29.0/cube-libre-web-port-v0.29.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "cube-libre-web-port-v0.28.2.zip",
+          "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.28.2/cube-libre-web-port-v0.28.2.zip",
+          "type": "archive"
+        },
+        {
+          "name": "cube-libre-web-port-v0.28.1.zip",
+          "url": "https://github.com/FlyingFathead/cube-libre/releases/download/v0.28.1/cube-libre-web-port-v0.28.1.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -8344,7 +10000,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:19.121021+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-11T23:33:26.723420+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Game dev portfolio — Vue 3 + Vite with two Unity WebGL games playable in the page",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"

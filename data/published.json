@@ -1,4 +1,9 @@
 {
   "schema_version": 1,
-  "published_ids": []
+  "published_ids": [
+    "https://github.com/devex780/earthworm-jim-hd-recomp",
+    "https://github.com/jonathandc64/ffcceot-recomp",
+    "https://github.com/wivi514/dead_rising_2_case_west_xenon_recomp",
+    "https://github.com/yuutatsubasa/chaotixrecompiled"
+  ]
 }
