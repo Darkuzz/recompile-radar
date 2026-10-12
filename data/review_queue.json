@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-11T23:33:28.149161+00:00",
+  "last_updated": "2026-10-12T12:57:35.109384+00:00",
   "items": [
     {
       "id": "f5e8f335e2cdb89f",
@@ -50,7 +50,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916057+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -106,7 +106,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858050+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -272,7 +272,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:18.696641+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -376,7 +376,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:27.640150+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -432,7 +432,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916017+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -489,7 +489,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858408+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -546,7 +546,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858397+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -603,7 +603,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858373+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -660,7 +660,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858385+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -717,7 +717,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858361+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -774,7 +774,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858349+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -831,7 +831,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858421+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -888,7 +888,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858337+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -945,7 +945,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858325+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -1002,7 +1002,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858313+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -1058,7 +1058,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858201+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -1115,7 +1115,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858300+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -1172,7 +1172,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858287+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -1229,7 +1229,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858274+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -1285,7 +1285,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858233+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -1342,7 +1342,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858262+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -1398,7 +1398,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916041+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -1454,7 +1454,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916043+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -1511,7 +1511,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916023+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -1729,7 +1729,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:24.455291+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -1951,7 +1951,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.809172+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -2074,7 +2074,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933706+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -2174,7 +2174,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933719+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -2771,7 +2771,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933752+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -2937,7 +2937,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933777+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -3038,7 +3038,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:24.455304+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -3097,7 +3097,7 @@
         "В описании обнаружены признаки Android-поддержки."
       ],
       "found_at": "2026-10-11T16:16:07.338290+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -3365,7 +3365,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:18.697041+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -3637,7 +3637,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933700+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -3700,7 +3700,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T18:08:59.584065+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00"
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
     },
     {
       "id": "acb9f99b9587bd1d",
@@ -4455,7 +4455,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:18.696625+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -4511,7 +4511,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.857895+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -4667,7 +4667,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.809366+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -4723,7 +4723,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.857945+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -4781,7 +4781,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916005+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -4816,12 +4816,29 @@
       "verification": "unverified",
       "browser_playable": "unknown",
       "build_links": [],
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-12T12:57:32.422997+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Port or the Original Ballance game to webgl",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120986+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -4877,7 +4894,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:07.337813+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -5135,7 +5152,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:19.121038+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -5818,7 +5835,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.809006+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -5877,7 +5894,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:28:18.697059+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -6067,7 +6084,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933704+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -6199,7 +6216,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933756+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -6302,7 +6319,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933785+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -6586,7 +6603,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:50:35.709595+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00"
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
     },
     {
       "id": "6b8e811cec781119",
@@ -6636,7 +6653,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916059+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -6694,7 +6711,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858174+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -6750,7 +6767,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916009+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -6806,7 +6823,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858188+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -7669,7 +7686,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.809123+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -7726,7 +7743,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.857860+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -7782,7 +7799,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916048+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -7837,7 +7854,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858160+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -7893,7 +7910,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916020+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -7949,7 +7966,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916064+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -8007,7 +8024,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916033+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -8191,7 +8208,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:24.455245+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -8251,7 +8268,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:28:13.916026+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -8307,7 +8324,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.857286+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -8412,7 +8429,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933728+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -8469,7 +8486,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858031+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -8525,7 +8542,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916035+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -8610,7 +8627,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933681+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -9117,7 +9134,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933652+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -9178,7 +9195,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:28:13.915985+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -9235,7 +9252,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916067+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -9399,7 +9416,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.809042+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -9658,7 +9675,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.809211+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -9898,7 +9915,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.809144+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -10056,7 +10073,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.809292+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -10243,7 +10260,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.809278+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -10430,7 +10447,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.809265+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -10695,7 +10712,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933661+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -10799,7 +10816,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:27.640107+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -11515,7 +11532,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933609+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -11570,7 +11587,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988658+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -11611,7 +11628,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120906+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -11748,7 +11765,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933798+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -12041,7 +12058,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:18.696628+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -12098,7 +12115,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858063+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -12154,7 +12171,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916054+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -12844,7 +12861,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933781+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -12899,7 +12916,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988764+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -12955,13 +12972,146 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.915998+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
         "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game"
       ]
+    },
+    {
+      "id": "6404226f93f9e60f",
+      "review_status": "pending",
+      "manual_notes": "",
+      "added_to_queue_at": "2026-10-11T23:33:28.149161+00:00",
+      "title": "saulob/geometry-wars-retro-evolved-2-recompiled",
+      "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-11T22:06:09Z",
+      "summary": "Geometry Wars: Retro Evolved 2 native PC port via static recompilation, with TRG launcher, high frame rates, local achievements and offline leaderboards Topics: decomp, decompilation, game, geometry-wars, recomp, recompilation, rexglue, rexglue-recomp, static-recompilation, xbla, xbox-360, xbox360",
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "priority": "high",
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ],
+      "status": "unverified",
+      "verification": "unverified",
+      "browser_playable": "unknown",
+      "build_links": [
+        {
+          "name": "GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.AppImage",
+          "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.sha256",
+          "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "GeometryWarsRetroEvolved2-v0.1.0-windows-x64.sha256",
+          "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-windows-x64.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "GeometryWarsRetroEvolved2-v0.1.0-windows-x64.zip",
+          "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
+      "check": {
+        "checked_at": "2026-10-12T12:57:25.465226+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Geometry Wars: Retro Evolved 2 native PC port via static recompilation, with TRG launcher, high frame rates, local achievements and offline leaderboards",
+        "latest_release_url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/tag/v0.1.0",
+        "latest_release_name": "Geometry Wars: Retro Evolved 2 PC Port v0.1.0",
+        "release_assets": [
+          {
+            "name": "GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.AppImage",
+            "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.AppImage",
+            "size": 10045944
+          },
+          {
+            "name": "GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.sha256",
+            "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.sha256",
+            "size": 121
+          },
+          {
+            "name": "GeometryWarsRetroEvolved2-v0.1.0-windows-x64.sha256",
+            "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-windows-x64.sha256",
+            "size": 115
+          },
+          {
+            "name": "GeometryWarsRetroEvolved2-v0.1.0-windows-x64.zip",
+            "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-windows-x64.zip",
+            "size": 7324327
+          }
+        ],
+        "releases": [
+          {
+            "name": "Geometry Wars: Retro Evolved 2 PC Port v0.1.0",
+            "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/tag/v0.1.0",
+            "published_at": "2026-10-11T21:48:27Z",
+            "assets": [
+              {
+                "name": "GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.AppImage",
+                "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.AppImage",
+                "size": 10045944
+              },
+              {
+                "name": "GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.sha256",
+                "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.sha256",
+                "size": 121
+              },
+              {
+                "name": "GeometryWarsRetroEvolved2-v0.1.0-windows-x64.sha256",
+                "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-windows-x64.sha256",
+                "size": 115
+              },
+              {
+                "name": "GeometryWarsRetroEvolved2-v0.1.0-windows-x64.zip",
+                "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-windows-x64.zip",
+                "size": 7324327
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "found_at": "2026-10-11T23:33:08.030545+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
     },
     {
       "id": "be7964bbeb9a1308",
@@ -13166,7 +13316,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.809103+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -13222,7 +13372,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.915989+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -13278,7 +13428,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858131+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -13338,7 +13488,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:16:07.338333+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -13398,7 +13548,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:28:13.916062+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -13796,7 +13946,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.809188+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -14034,7 +14184,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:24.455349+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -14090,7 +14240,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916046+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -14146,7 +14296,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.857190+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -14741,7 +14891,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.808948+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -14871,7 +15021,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:24.455271+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -14927,7 +15077,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916029+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -15136,7 +15286,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933717+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -15416,7 +15566,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.809306+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -15472,7 +15622,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858105+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -15533,7 +15683,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:28:13.915996+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -15784,7 +15934,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.809159+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -15840,7 +15990,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916038+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -15896,7 +16046,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.916013+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -16450,7 +16600,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.809077+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -16794,7 +16944,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:27.640043+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -17089,7 +17239,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:24.455331+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -17482,7 +17632,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:20.809348+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -17568,7 +17718,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933649+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -17669,7 +17819,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933791+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -17725,7 +17875,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988671+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -17781,7 +17931,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.915959+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -18162,7 +18312,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:27.640125+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -18218,7 +18368,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:13.915992+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -18267,7 +18417,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.696606+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -18317,7 +18467,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.696638+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -18377,7 +18527,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:16:07.337614+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -18427,7 +18577,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.696644+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -18485,7 +18635,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T17:23:24.455220+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -18538,7 +18688,7 @@
         "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
       ],
       "found_at": "2026-10-11T16:16:07.338189+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -18595,7 +18745,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T17:23:20.809416+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -18645,7 +18795,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697043+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -18700,7 +18850,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:16:07.337726+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -18749,7 +18899,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:16:07.338089+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -18806,13 +18956,203 @@
         "В описании обнаружены признаки Android-поддержки."
       ],
       "found_at": "2026-10-11T16:28:22.933818+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
         "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, android port, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game, android"
       ]
+    },
+    {
+      "id": "8ec56dfab6318a0e",
+      "review_status": "pending",
+      "manual_notes": "",
+      "added_to_queue_at": "2026-10-11T23:33:28.149161+00:00",
+      "title": "cephyrixzyth/Oneirodex",
+      "url": "https://github.com/cephyrixzyth/Oneirodex",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-10-10T21:45:18Z",
+      "summary": "Oneirodex is a Flask + React game library server you run at home (or on a NAS). Point it at folders of DRM-free games, identify them with IGDB / Steam / GOG / RAWG, then give household members a modern browser UI to browse, download, play in-browser (where supported), and hang out. Topics: emulator, game-launcher-software, game-library, game-manager, gaming, launcher, pc-gaming, self-hosted, steam",
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "priority": "medium",
+      "relevance_score": 3,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
+      ],
+      "status": "unverified",
+      "verification": "unverified",
+      "browser_playable": "unknown",
+      "build_links": [
+        {
+          "name": "OneirodexThin_1.1.8_amd64.AppImage",
+          "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_amd64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "OneirodexThin_1.1.8_amd64.deb",
+          "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "OneirodexThin_1.1.8_universal.dmg",
+          "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_universal.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "OneirodexThin_1.1.8_x64-setup.exe",
+          "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Oneirodex_1.1.8_amd64.AppImage",
+          "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_amd64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Oneirodex_1.1.8_amd64.deb",
+          "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Oneirodex_1.1.8_universal.dmg",
+          "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_universal.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Oneirodex_1.1.8_x64-setup.exe",
+          "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
+      "check": {
+        "checked_at": "2026-10-12T12:57:29.601185+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Oneirodex is a Flask + React game library server you run at home (or on a NAS). Point it at folders of DRM-free games, identify them with IGDB / Steam / GOG / RAWG, then give household members a modern browser UI to browse, download, play in-browser (where supported), and hang out.",
+        "latest_release_url": "https://github.com/cephyrixzyth/Oneirodex/releases/tag/v1.1.8",
+        "latest_release_name": "v1.1.8",
+        "release_assets": [
+          {
+            "name": "OneirodexThin_1.1.8_amd64.AppImage",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_amd64.AppImage",
+            "size": 82180600
+          },
+          {
+            "name": "OneirodexThin_1.1.8_amd64.deb",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_amd64.deb",
+            "size": 3593748
+          },
+          {
+            "name": "OneirodexThin_1.1.8_universal.dmg",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_universal.dmg",
+            "size": 7748875
+          },
+          {
+            "name": "OneirodexThin_1.1.8_x64-setup.exe",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_x64-setup.exe",
+            "size": 2230904
+          },
+          {
+            "name": "Oneirodex_1.1.8_amd64.AppImage",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_amd64.AppImage",
+            "size": 82201080
+          },
+          {
+            "name": "Oneirodex_1.1.8_amd64.deb",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_amd64.deb",
+            "size": 3602734
+          },
+          {
+            "name": "Oneirodex_1.1.8_universal.dmg",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_universal.dmg",
+            "size": 7768415
+          },
+          {
+            "name": "Oneirodex_1.1.8_x64-setup.exe",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_x64-setup.exe",
+            "size": 2242409
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.1.8",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/tag/v1.1.8",
+            "published_at": "2026-10-09T05:37:36Z",
+            "assets": [
+              {
+                "name": "OneirodexThin_1.1.8_amd64.AppImage",
+                "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_amd64.AppImage",
+                "size": 82180600
+              },
+              {
+                "name": "OneirodexThin_1.1.8_amd64.deb",
+                "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_amd64.deb",
+                "size": 3593748
+              },
+              {
+                "name": "OneirodexThin_1.1.8_universal.dmg",
+                "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_universal.dmg",
+                "size": 7748875
+              },
+              {
+                "name": "OneirodexThin_1.1.8_x64-setup.exe",
+                "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_x64-setup.exe",
+                "size": 2230904
+              },
+              {
+                "name": "Oneirodex_1.1.8_amd64.AppImage",
+                "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_amd64.AppImage",
+                "size": 82201080
+              },
+              {
+                "name": "Oneirodex_1.1.8_amd64.deb",
+                "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_amd64.deb",
+                "size": 3602734
+              },
+              {
+                "name": "Oneirodex_1.1.8_universal.dmg",
+                "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_universal.dmg",
+                "size": 7768415
+              },
+              {
+                "name": "Oneirodex_1.1.8_x64-setup.exe",
+                "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_x64-setup.exe",
+                "size": 2242409
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "found_at": "2026-10-11T23:33:02.311662+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
     },
     {
       "id": "34f231f2e7a2beef",
@@ -18855,7 +19195,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697054+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -18912,7 +19252,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T17:23:24.455318+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -18973,7 +19313,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:28:22.933687+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -19023,7 +19363,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T17:23:20.809404+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -19080,7 +19420,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T17:23:20.809321+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -19135,7 +19475,7 @@
         "В описании обнаружены признаки Android-поддержки."
       ],
       "found_at": "2026-10-11T16:16:07.338223+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -19192,7 +19532,7 @@
         "В описании обнаружены признаки Android-поддержки."
       ],
       "found_at": "2026-10-11T16:28:22.933733+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -19247,7 +19587,7 @@
         "В описании обнаружены признаки Android-поддержки."
       ],
       "found_at": "2026-10-11T16:28:20.809212+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -19934,7 +20274,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:16:03.988412+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -19992,7 +20332,7 @@
         "В описании обнаружены признаки Android-поддержки."
       ],
       "found_at": "2026-10-11T16:28:22.933804+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -20048,7 +20388,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:28:18.697034+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -20098,7 +20438,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697032+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -20156,7 +20496,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T17:23:20.809024+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -20211,7 +20551,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:16:07.338043+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -20262,7 +20602,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T17:23:20.809059+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -20322,7 +20662,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:28:18.696620+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 6,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -20377,7 +20717,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:16:07.337695+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -20434,13 +20774,47 @@
         "В описании обнаружены признаки Android-поддержки."
       ],
       "found_at": "2026-10-11T16:28:22.933802+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
         "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game, android"
       ]
+    },
+    {
+      "id": "2909588b41121351",
+      "review_status": "pending",
+      "manual_notes": "",
+      "added_to_queue_at": "2026-10-12T12:57:35.109384+00:00",
+      "title": "holdmysocks/mcla-recomp",
+      "url": "https://github.com/holdmysocks/mcla-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T12:31:24Z",
+      "summary": "Static recompilation of Midnight Club: Los Angeles (Xbox 360) for PC and PS5. No game data included.",
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "priority": "medium",
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ],
+      "status": "unverified",
+      "verification": "unverified",
+      "browser_playable": "unknown",
+      "build_links": [],
+      "check": null,
+      "classification_notes": [],
+      "found_at": "2026-10-12T12:57:15.761896+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
     },
     {
       "id": "554ee533d0fa2832",
@@ -20483,13 +20857,264 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697086+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
         "Есть прямые признаки порта/рекомпиляции: source port, port of, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game"
       ]
+    },
+    {
+      "id": "9474680ecbe347dc",
+      "review_status": "pending",
+      "manual_notes": "",
+      "added_to_queue_at": "2026-10-12T12:57:35.109384+00:00",
+      "title": "jarvis-jhk/super-mario-land-port",
+      "url": "https://github.com/jarvis-jhk/super-mario-land-port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-12T01:13:06Z",
+      "summary": "JARVIS's own Super Mario Land port (github.com/jarvis-jhk/super-mario-land-port): a cycle-exact C port of the Game Boy game that loads its data from the player's own ROM. Releases for Linux, Windows, PortMaster handhelds (Jan's Knulli \"gameboy\") and the Steam Deck, all auto-updating with an in-game changelog; widescreen, RetroAchievements, level ed",
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "priority": "medium",
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows, linux"
+      ],
+      "status": "unverified",
+      "verification": "unverified",
+      "browser_playable": "unknown",
+      "build_links": [],
+      "check": null,
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "found_at": "2026-10-12T12:57:19.614900+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
+    },
+    {
+      "id": "730f06205c26fd14",
+      "review_status": "pending",
+      "manual_notes": "",
+      "added_to_queue_at": "2026-10-12T12:57:35.109384+00:00",
+      "title": "jessetbh/VPW64Recomp",
+      "url": "https://github.com/jessetbh/VPW64Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T01:18:21Z",
+      "summary": "Native PC port of Virtual Pro Wrestling 64 (N64) via static recompilation. No game assets included - bring your own ROM. Topics: aki, game-preservation, n64, n64recomp, rt64, static-recompilation, windows, wrestling",
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "priority": "medium",
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows"
+      ],
+      "status": "unverified",
+      "verification": "unverified",
+      "browser_playable": "unknown",
+      "build_links": [],
+      "check": null,
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "found_at": "2026-10-12T12:57:15.767438+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
+    },
+    {
+      "id": "5032a3541d36af96",
+      "review_status": "pending",
+      "manual_notes": "",
+      "added_to_queue_at": "2026-10-12T12:57:35.109384+00:00",
+      "title": "jessetbh/WCWnWoRevengeRecomp",
+      "url": "https://github.com/jessetbh/WCWnWoRevengeRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T01:18:16Z",
+      "summary": "Native PC port of WCW/nWo Revenge (N64) via static recompilation. No game assets included - bring your own ROM. Topics: game-preservation, n64, n64recomp, rt64, static-recompilation, wcw, windows, wrestling",
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "priority": "medium",
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows"
+      ],
+      "status": "unverified",
+      "verification": "unverified",
+      "browser_playable": "unknown",
+      "build_links": [],
+      "check": null,
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "found_at": "2026-10-12T12:57:15.769586+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
+    },
+    {
+      "id": "7aeda0357ecd8451",
+      "review_status": "pending",
+      "manual_notes": "",
+      "added_to_queue_at": "2026-10-12T12:57:35.109384+00:00",
+      "title": "jessetbh/WCWvsNWOWorldTourRecomp",
+      "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T01:18:14Z",
+      "summary": "Native PC port of WCW vs. nWo World Tour (N64) via static recompilation. No game assets included — bring your own ROM. Topics: game-preservation, n64, n64recomp, port, recompilation, rt64, static-recompilation, wcw, windows, wrestling",
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "priority": "medium",
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows"
+      ],
+      "status": "unverified",
+      "verification": "unverified",
+      "browser_playable": "unknown",
+      "build_links": [],
+      "check": null,
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "found_at": "2026-10-12T12:57:15.770786+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
+    },
+    {
+      "id": "c2e12ad6927da5aa",
+      "review_status": "pending",
+      "manual_notes": "",
+      "added_to_queue_at": "2026-10-12T12:57:35.109384+00:00",
+      "title": "jessetbh/WWFNoMercyRecomp",
+      "url": "https://github.com/jessetbh/WWFNoMercyRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T01:35:14Z",
+      "summary": "Native PC port of WWF No Mercy (N64) via static recompilation. No game assets included — bring your own ROM. Topics: aki, game-preservation, n64, n64recomp, rt64, static-recompilation, windows, wrestling, wwf",
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "priority": "medium",
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows"
+      ],
+      "status": "unverified",
+      "verification": "unverified",
+      "browser_playable": "unknown",
+      "build_links": [],
+      "check": null,
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "found_at": "2026-10-12T12:57:15.766244+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
+    },
+    {
+      "id": "8b6bcb55474c599b",
+      "review_status": "pending",
+      "manual_notes": "",
+      "added_to_queue_at": "2026-10-12T12:57:35.109384+00:00",
+      "title": "jessetbh/WWFWrestleMania2000Recomp",
+      "url": "https://github.com/jessetbh/WWFWrestleMania2000Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T01:18:19Z",
+      "summary": "Native PC port of WWF WrestleMania 2000 (N64) via static recompilation. No game assets included - bring your own ROM. Topics: aki, game-preservation, n64, n64recomp, rt64, static-recompilation, windows, wrestling, wwf",
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "priority": "medium",
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows"
+      ],
+      "status": "unverified",
+      "verification": "unverified",
+      "browser_playable": "unknown",
+      "build_links": [],
+      "check": null,
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "found_at": "2026-10-12T12:57:15.768521+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
     },
     {
       "id": "6bfaaf538000ce80",
@@ -20542,7 +21167,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T17:23:24.455135+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -20591,7 +21216,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697100+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -20640,7 +21265,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697102+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -20689,7 +21314,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697078+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -20744,7 +21369,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:16:07.337978+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -20801,7 +21426,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T17:23:20.809382+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -20850,7 +21475,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697070+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -20906,7 +21531,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:16:07.337559+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -20962,7 +21587,7 @@
         "В описании обнаружены признаки Android-поддержки."
       ],
       "found_at": "2026-10-11T16:28:22.933771+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -21017,13 +21642,53 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:16:07.337645+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
         "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game, windows"
       ]
+    },
+    {
+      "id": "50354c37f2bdf530",
+      "review_status": "pending",
+      "manual_notes": "",
+      "added_to_queue_at": "2026-10-12T12:57:35.109384+00:00",
+      "title": "literalynn/BurnoutDominatorReversed",
+      "url": "https://github.com/literalynn/BurnoutDominatorReversed",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T12:49:19Z",
+      "summary": "Static recompilation of Burnout Dominator (PS2, PAL) into a native PC game, built on PS2Recomp. Work in progress: boots to the PROFILE screen, not playable yet. Bring your own disc. Topics: burnout, decompilation, emulation, ps2, ps2recomp, reverse-engineering, static-recompilation",
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "priority": "medium",
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable"
+      ],
+      "status": "unverified",
+      "verification": "unverified",
+      "browser_playable": "unknown",
+      "build_links": [],
+      "check": null,
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "found_at": "2026-10-12T12:57:15.760846+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
     },
     {
       "id": "100612fd3687420b",
@@ -21066,7 +21731,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:16:07.337961+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -21105,12 +21770,29 @@
       "verification": "unverified",
       "browser_playable": "unknown",
       "build_links": [],
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-12T12:57:24.109501+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "MKW Switch - Mario Kart Wii static recompilation research for Nintendo Switch (no game files)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "classification_notes": [
         "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
       ],
       "found_at": "2026-10-11T23:33:08.031529+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00"
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
     },
     {
       "id": "343143415975639d",
@@ -21163,7 +21845,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:16:07.338063+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -21216,13 +21898,53 @@
         "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
       ],
       "found_at": "2026-10-11T16:16:07.337712+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
         "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game"
       ]
+    },
+    {
+      "id": "cc55ccf0b4625d26",
+      "review_status": "pending",
+      "manual_notes": "",
+      "added_to_queue_at": "2026-10-12T12:57:35.109384+00:00",
+      "title": "MattSG/mm3-recomp",
+      "url": "https://github.com/MattSG/mm3-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T09:03:05Z",
+      "summary": "Static recompilation of Midtown Madness 3 (Xbox) to native Windows x64 with a Direct3D 11 renderer, on xboxrecomp. Bring your own game files.",
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "priority": "medium",
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ],
+      "status": "unverified",
+      "verification": "unverified",
+      "browser_playable": "unknown",
+      "build_links": [],
+      "check": null,
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "found_at": "2026-10-12T12:57:15.762720+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
     },
     {
       "id": "96b1c6c912a9b95a",
@@ -21265,7 +21987,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697067+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -21314,13 +22036,93 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.696585+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
         "Есть прямые признаки порта/рекомпиляции: source port, port of, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game"
       ]
+    },
+    {
+      "id": "dac1f6ad46e09dbc",
+      "review_status": "pending",
+      "manual_notes": "",
+      "added_to_queue_at": "2026-10-12T12:57:35.109384+00:00",
+      "title": "NoRain211/doa3-re",
+      "url": "https://github.com/NoRain211/doa3-re",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T03:28:18Z",
+      "summary": "Native Windows port of Dead or Alive 3 (Xbox), built by static recompilation with a hand-written runtime. Requires your own copy of the game. Topics: dead-or-alive, direct3d11, game-port, pc-port, recompilation, reverse-engineering, static-recompilation, windows, xbox",
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "priority": "medium",
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ],
+      "status": "unverified",
+      "verification": "unverified",
+      "browser_playable": "unknown",
+      "build_links": [],
+      "check": null,
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "found_at": "2026-10-12T12:57:15.765024+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
+    },
+    {
+      "id": "d9e8cc266d7f336d",
+      "review_status": "pending",
+      "manual_notes": "",
+      "added_to_queue_at": "2026-10-12T12:57:35.109384+00:00",
+      "title": "NoRain211/doaxvb-re",
+      "url": "https://github.com/NoRain211/doaxvb-re",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T08:01:07Z",
+      "summary": "Native Windows port of Dead or Alive Xtreme Beach Volleyball (Xbox), built by static recompilation with a hand-written runtime. Requires your own copy of the game. Topics: dead-or-alive, direct3d11, game-port, pc-port, recompilation, reverse-engineering, static-recompilation, windows, xbox",
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "priority": "medium",
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ],
+      "status": "unverified",
+      "verification": "unverified",
+      "browser_playable": "unknown",
+      "build_links": [],
+      "check": null,
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "found_at": "2026-10-12T12:57:15.763802+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
     },
     {
       "id": "21e5298d758c7a12",
@@ -21370,7 +22172,7 @@
         "В описании обнаружены признаки Android-поддержки."
       ],
       "found_at": "2026-10-11T16:28:22.933724+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -21431,7 +22233,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:28:22.933676+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -21480,7 +22282,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:16:07.338257+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -21540,7 +22342,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T17:23:24.455197+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -21589,7 +22391,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:16:07.337773+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -21638,7 +22440,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:16:07.338206+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -21689,7 +22491,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T17:23:20.809335+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -21746,7 +22548,7 @@
         "В описании обнаружены признаки Android-поддержки."
       ],
       "found_at": "2026-10-11T17:23:27.640089+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -21795,54 +22597,13 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697062+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
         "Есть прямые признаки порта/рекомпиляции: source port, port of",
         "Есть игровые/платформенные признаки: game"
       ]
-    },
-    {
-      "id": "6404226f93f9e60f",
-      "review_status": "pending",
-      "manual_notes": "",
-      "added_to_queue_at": "2026-10-11T23:33:28.149161+00:00",
-      "title": "saulob/geometry-wars-retro-evolved-2-recompiled",
-      "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled",
-      "source_name": "GitHub: static recompilation",
-      "published": "2026-10-11T22:06:09Z",
-      "summary": "Geometry Wars: Retro Evolved 2 native PC port via static recompilation, with TRG launcher, high frame rates, local achievements and offline leaderboards Topics: decomp, decompilation, game, geometry-wars, recomp, recompilation, rexglue, rexglue-recomp, static-recompilation, xbla, xbox-360, xbox360",
-      "category": "pc",
-      "platforms_guess": [
-        "PC"
-      ],
-      "category_evidence": {
-        "browser_terms": [],
-        "android_terms": [],
-        "pc_terms": [
-          "pc port",
-          "native pc"
-        ],
-        "other_platform_terms": []
-      },
-      "priority": "medium",
-      "relevance_score": 11,
-      "relevance_status": "promising",
-      "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
-        "Есть игровые/платформенные признаки: game"
-      ],
-      "status": "unverified",
-      "verification": "unverified",
-      "browser_playable": "unknown",
-      "build_links": [],
-      "check": null,
-      "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
-      ],
-      "found_at": "2026-10-11T23:33:08.030545+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00"
     },
     {
       "id": "135afebb37d59e02",
@@ -21885,7 +22646,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697098+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -21942,7 +22703,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:28:18.697056+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -21999,7 +22760,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T17:23:20.809224+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -22055,7 +22816,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T17:23:24.455176+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -22106,7 +22867,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T17:23:20.809237+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -22156,7 +22917,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T17:23:20.809429+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -22207,7 +22968,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T17:23:20.809251+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -22264,7 +23025,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T17:23:24.455107+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -22317,7 +23078,7 @@
         "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
       ],
       "found_at": "2026-10-11T16:16:07.338119+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -22784,7 +23545,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:18.696647+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -22833,7 +23594,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697073+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -22890,13 +23651,58 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T17:23:24.455067+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
         "Есть прямые признаки порта/рекомпиляции: port of, native port",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
+    },
+    {
+      "id": "fb20c04429a8db9a",
+      "review_status": "pending",
+      "manual_notes": "",
+      "added_to_queue_at": "2026-10-12T12:57:35.109384+00:00",
+      "title": "UndeadObvlivion/dead-space-mobile-pc",
+      "url": "https://github.com/UndeadObvlivion/dead-space-mobile-pc",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-12T03:22:47Z",
+      "summary": "Native PC port of Dead Space mobile (2011 Android release). Game files not included.",
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "priority": "medium",
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ],
+      "status": "unverified",
+      "verification": "unverified",
+      "browser_playable": "unknown",
+      "build_links": [],
+      "check": null,
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "found_at": "2026-10-12T12:57:21.487679+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
     },
     {
       "id": "6f07bfecd31417e6",
@@ -22952,7 +23758,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T17:23:27.640177+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -23002,7 +23808,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.696636+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -23059,7 +23865,7 @@
         "В описании обнаружены признаки Android-поддержки."
       ],
       "found_at": "2026-10-11T16:28:22.933691+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -23115,7 +23921,7 @@
         "В описании обнаружены признаки Android-поддержки."
       ],
       "found_at": "2026-10-11T16:16:07.337681+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -23164,7 +23970,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:16:07.337756+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -23221,7 +24027,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988342+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -6,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -23279,7 +24085,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.121071+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -4,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -23331,7 +24137,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.696632+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -23386,7 +24192,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858090+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -2,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -23428,7 +24234,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120809+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -4,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -23479,7 +24285,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697093+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 0,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -23594,7 +24400,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988330+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -23913,7 +24719,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:16:03.988457+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -23974,7 +24780,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:16:03.988288+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -24031,7 +24837,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988397+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -24087,7 +24893,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:16:07.337930+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -24144,7 +24950,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:28:18.697051+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -24507,7 +25313,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:26.214552+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 1,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -24565,7 +25371,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.121106+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -24609,7 +25415,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052917+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -24668,53 +25474,13 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988591+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
         "Есть игровые/платформенные признаки: game, webassembly, webgl, html5",
         "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
       ]
-    },
-    {
-      "id": "8ec56dfab6318a0e",
-      "review_status": "pending",
-      "manual_notes": "",
-      "added_to_queue_at": "2026-10-11T23:33:28.149161+00:00",
-      "title": "cephyrixzyth/Oneirodex",
-      "url": "https://github.com/cephyrixzyth/Oneirodex",
-      "source_name": "GitHub: browser playable",
-      "published": "2026-10-10T21:45:18Z",
-      "summary": "Oneirodex is a Flask + React game library server you run at home (or on a NAS). Point it at folders of DRM-free games, identify them with IGDB / Steam / GOG / RAWG, then give household members a modern browser UI to browse, download, play in-browser (where supported), and hang out. Topics: emulator, game-launcher-software, game-library, game-manager, gaming, launcher, pc-gaming, self-hosted, steam",
-      "category": "browser",
-      "platforms_guess": [
-        "Web"
-      ],
-      "category_evidence": {
-        "browser_terms": [
-          "browser"
-        ],
-        "android_terms": [],
-        "pc_terms": [],
-        "other_platform_terms": []
-      },
-      "priority": "low",
-      "relevance_score": 3,
-      "relevance_status": "possible",
-      "relevance_reasons": [
-        "Есть игровые/платформенные признаки: game",
-        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
-      ],
-      "status": "unverified",
-      "verification": "unverified",
-      "browser_playable": "unknown",
-      "build_links": [],
-      "check": null,
-      "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
-      ],
-      "found_at": "2026-10-11T23:33:02.311662+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00"
     },
     {
       "id": "2d41e582c0bc7a36",
@@ -24749,7 +25515,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052782+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -24805,7 +25571,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988824+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -25044,7 +25810,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T17:23:15.052674+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -4,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -25101,7 +25867,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988117+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -25158,7 +25924,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988708+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -25208,7 +25974,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:16:07.337843+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -25252,12 +26018,71 @@
       "verification": "unverified",
       "browser_playable": "unknown",
       "build_links": [],
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-12T12:57:26.839354+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Pixel art games within a game — Go/Ebitengine (WASM) with an in-progress Odin/raylib port",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T23:33:04.176539+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00"
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
+    },
+    {
+      "id": "46328a8dd1102dfe",
+      "review_status": "pending",
+      "manual_notes": "",
+      "added_to_queue_at": "2026-10-12T12:57:35.109384+00:00",
+      "title": "debesh16/night-garden-snake",
+      "url": "https://github.com/debesh16/night-garden-snake",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-12T11:58:13Z",
+      "summary": "Snake in C, compiled to WebAssembly: rewind, perks, weird boards, daily seed, ghost racing and a level editor. Topics: browser-game, c, emscripten, game, snake-game, webassembly",
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "priority": "low",
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ],
+      "status": "unverified",
+      "verification": "unverified",
+      "browser_playable": "unknown",
+      "build_links": [],
+      "check": null,
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "found_at": "2026-10-12T12:57:11.712673+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
     },
     {
       "id": "874c33b35227eab2",
@@ -25317,7 +26142,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:16:03.988383+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -25357,7 +26182,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120649+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -3,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -25399,7 +26224,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120796+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -7,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -25464,7 +26289,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:16:03.988809+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -25513,7 +26338,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:16:07.337666+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -25568,7 +26393,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988749+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -25617,7 +26442,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:16:07.337944+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -25666,7 +26491,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697081+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -25701,12 +26526,29 @@
       "verification": "unverified",
       "browser_playable": "unknown",
       "build_links": [],
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-12T12:57:33.738570+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "2.0 webgl game",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120957+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -25750,12 +26592,38 @@
       "verification": "unverified",
       "browser_playable": "unknown",
       "build_links": [],
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-12T12:57:28.194055+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "26 web-novel protagonists, each reduced to one signature mechanic, dropped into an arena as bouncing balls and left to fight. A data-balanced auto-battler: self-running 26-hero tournament, local PvP, control mode, 8 arenas, and a pluggable-mechanic system. Zero dependencies, zero build — open index.html or play in-browser.",
+        "latest_release_url": "https://github.com/G-a-m-e/Cross-Dimension-Duel/releases/tag/v2.1",
+        "latest_release_name": "v2.1",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "v2.1",
+            "url": "https://github.com/G-a-m-e/Cross-Dimension-Duel/releases/tag/v2.1",
+            "published_at": "2026-07-20T16:47:24Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T23:33:02.314420+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00"
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00"
     },
     {
       "id": "33f82831b074c615",
@@ -25805,7 +26673,7 @@
         "В описании обнаружены признаки Android-поддержки."
       ],
       "found_at": "2026-10-11T16:28:22.933643+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 2,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -25862,7 +26730,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.857819+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -25919,7 +26787,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988258+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 2,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -26023,7 +26891,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933816+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 2,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -26082,7 +26950,7 @@
         "В описании обнаружены признаки Android-поддержки."
       ],
       "found_at": "2026-10-11T16:28:20.809235+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -26136,7 +27004,7 @@
         "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
       ],
       "found_at": "2026-10-11T16:16:07.338133+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -26176,7 +27044,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120773+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -4,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -26234,7 +27102,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988792+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -26276,7 +27144,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120941+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -2,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -26319,7 +27187,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120890+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -4,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -26370,7 +27238,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697075+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -26419,7 +27287,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697084+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -26460,7 +27328,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052842+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -26517,7 +27385,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988208+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -26574,7 +27442,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988574+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -26632,7 +27500,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988191+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -26674,7 +27542,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052816+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -26714,7 +27582,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120746+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -4,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -26773,7 +27641,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988355+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -26830,7 +27698,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988778+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 2,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -26871,7 +27739,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052802+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -26913,7 +27781,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052932+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -26955,7 +27823,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052888+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 1,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -27004,7 +27872,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.696622+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -27061,7 +27929,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988527+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 2,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -27121,7 +27989,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:16:00.857962+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 1,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -27176,7 +28044,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988722+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 2,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -27216,7 +28084,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120836+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -27275,7 +28143,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988303+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -27332,7 +28200,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988442+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -27390,7 +28258,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.121088+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -3,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -27447,7 +28315,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988695+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -27503,7 +28371,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.857926+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 6,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -27561,7 +28429,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:16:07.338172+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -3,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -27612,7 +28480,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:16:07.337525+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -27669,7 +28537,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988424+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -27728,7 +28596,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052655+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -27768,7 +28636,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120727+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -4,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -27820,7 +28688,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697046+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -27875,7 +28743,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.857254+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -27916,7 +28784,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052873+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -27953,12 +28821,29 @@
       "verification": "unverified",
       "browser_playable": "unknown",
       "build_links": [],
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-12T12:57:31.052554+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Surf: a free browser CS surf game on a faithful Source-engine movement port. No auto-strafe, two original courses, a personal-best ghost and a bot that proves the course is runnable. Built with three.js.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.121001+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -28018,7 +28903,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858145+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 7,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -28061,7 +28946,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052728+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -28119,7 +29004,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052690+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -28161,7 +29046,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052746+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -28203,7 +29088,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120686+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -28253,7 +29138,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697048+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -28373,7 +29258,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:28:22.933667+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -28413,7 +29298,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052830+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -28469,7 +29354,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988491+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 2,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -28526,7 +29411,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.121055+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -4,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -28569,7 +29454,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:16.751738+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -28630,7 +29515,7 @@
         "В описании обнаружены признаки PC-поддержки."
       ],
       "found_at": "2026-10-11T16:16:03.988243+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 2,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -28671,7 +29556,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052984+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -28727,7 +29612,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988643+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 2,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -28784,7 +29669,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.121021+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -3,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -28827,7 +29712,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052856+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -28883,7 +29768,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988623+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -6,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -28933,7 +29818,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:16:07.337861+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -28973,7 +29858,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120921+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -4,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -29030,7 +29915,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988171+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -6,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -29071,7 +29956,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120707+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -3,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -29129,7 +30014,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988604+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -29187,7 +30072,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988152+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -29243,7 +30128,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988558+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -29303,7 +30188,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052522+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -29362,7 +30247,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052703+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 1,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -29402,7 +30287,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052945+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -29457,7 +30342,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.858249+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -29497,7 +30382,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120871+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -4,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -29556,7 +30441,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988472+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -29605,7 +30490,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697065+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -29661,7 +30546,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:00.857842+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 6,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -29720,7 +30605,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988224+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -29777,7 +30662,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988274+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -29833,7 +30718,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:08:14.693094+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 6,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -29890,7 +30775,7 @@
         "В описании обнаружены признаки Android-поддержки."
       ],
       "found_at": "2026-10-11T16:16:07.338105+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -29947,7 +30832,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988844+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -30078,7 +30963,7 @@
         "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "found_at": "2026-10-11T16:16:03.988511+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 2,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -30133,7 +31018,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988736+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 2,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -30190,7 +31075,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988543+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -30239,7 +31124,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:16:07.337741+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -30295,7 +31180,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988316+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -30354,7 +31239,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052602+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -30412,7 +31297,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T16:16:03.988368+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 5,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -30474,7 +31359,7 @@
         "В описании обнаружены признаки Android-поддержки."
       ],
       "found_at": "2026-10-11T16:28:22.933656+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "needs_review",
       "relevance_reasons": [
@@ -30523,7 +31408,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.696617+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -30564,7 +31449,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052903+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -30622,7 +31507,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052630+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -4,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -30681,7 +31566,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:15.052716+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -4,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -30723,7 +31608,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120851+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -3,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -30774,7 +31659,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:16:07.338306+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 3,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -30814,7 +31699,7 @@
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
       "found_at": "2026-10-11T17:23:19.120822+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": -7,
       "relevance_status": "likely_irrelevant",
       "relevance_reasons": [
@@ -30864,7 +31749,7 @@
       },
       "classification_notes": [],
       "found_at": "2026-10-11T16:28:18.697095+00:00",
-      "last_seen_in_candidates_at": "2026-10-11T23:33:28.149161+00:00",
+      "last_seen_in_candidates_at": "2026-10-12T12:57:35.109384+00:00",
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [

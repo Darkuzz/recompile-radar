@@ -1,7 +1,448 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-11T23:33:28.112866+00:00",
+  "last_updated": "2026-10-12T12:57:35.065704+00:00",
   "candidates": [
+    {
+      "title": "UndeadObvlivion/dead-space-mobile-pc",
+      "url": "https://github.com/UndeadObvlivion/dead-space-mobile-pc",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-12T03:22:47Z",
+      "summary": "Native PC port of Dead Space mobile (2011 Android release). Game files not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-12T12:57:21.487679+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "jarvis-jhk/super-mario-land-port",
+      "url": "https://github.com/jarvis-jhk/super-mario-land-port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-12T01:13:06Z",
+      "summary": "JARVIS's own Super Mario Land port (github.com/jarvis-jhk/super-mario-land-port): a cycle-exact C port of the Game Boy game that loads its data from the player's own ROM. Releases for Linux, Windows, PortMaster handhelds (Jan's Knulli \"gameboy\") and the Steam Deck, all auto-updating with an in-game changelog; widescreen, RetroAchievements, level ed",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-12T12:57:19.614900+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows, linux"
+      ]
+    },
+    {
+      "title": "jessetbh/WCWvsNWOWorldTourRecomp",
+      "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T01:18:14Z",
+      "summary": "Native PC port of WCW vs. nWo World Tour (N64) via static recompilation. No game assets included — bring your own ROM. Topics: game-preservation, n64, n64recomp, port, recompilation, rt64, static-recompilation, wcw, windows, wrestling",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-12T12:57:15.770786+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows"
+      ]
+    },
+    {
+      "title": "jessetbh/WCWnWoRevengeRecomp",
+      "url": "https://github.com/jessetbh/WCWnWoRevengeRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T01:18:16Z",
+      "summary": "Native PC port of WCW/nWo Revenge (N64) via static recompilation. No game assets included - bring your own ROM. Topics: game-preservation, n64, n64recomp, rt64, static-recompilation, wcw, windows, wrestling",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-12T12:57:15.769586+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows"
+      ]
+    },
+    {
+      "title": "jessetbh/WWFWrestleMania2000Recomp",
+      "url": "https://github.com/jessetbh/WWFWrestleMania2000Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T01:18:19Z",
+      "summary": "Native PC port of WWF WrestleMania 2000 (N64) via static recompilation. No game assets included - bring your own ROM. Topics: aki, game-preservation, n64, n64recomp, rt64, static-recompilation, windows, wrestling, wwf",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-12T12:57:15.768521+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows"
+      ]
+    },
+    {
+      "title": "jessetbh/VPW64Recomp",
+      "url": "https://github.com/jessetbh/VPW64Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T01:18:21Z",
+      "summary": "Native PC port of Virtual Pro Wrestling 64 (N64) via static recompilation. No game assets included - bring your own ROM. Topics: aki, game-preservation, n64, n64recomp, rt64, static-recompilation, windows, wrestling",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-12T12:57:15.767438+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows"
+      ]
+    },
+    {
+      "title": "jessetbh/WWFNoMercyRecomp",
+      "url": "https://github.com/jessetbh/WWFNoMercyRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T01:35:14Z",
+      "summary": "Native PC port of WWF No Mercy (N64) via static recompilation. No game assets included — bring your own ROM. Topics: aki, game-preservation, n64, n64recomp, rt64, static-recompilation, windows, wrestling, wwf",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-12T12:57:15.766244+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows"
+      ]
+    },
+    {
+      "title": "NoRain211/doa3-re",
+      "url": "https://github.com/NoRain211/doa3-re",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T03:28:18Z",
+      "summary": "Native Windows port of Dead or Alive 3 (Xbox), built by static recompilation with a hand-written runtime. Requires your own copy of the game. Topics: dead-or-alive, direct3d11, game-port, pc-port, recompilation, reverse-engineering, static-recompilation, windows, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-12T12:57:15.765024+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "NoRain211/doaxvb-re",
+      "url": "https://github.com/NoRain211/doaxvb-re",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T08:01:07Z",
+      "summary": "Native Windows port of Dead or Alive Xtreme Beach Volleyball (Xbox), built by static recompilation with a hand-written runtime. Requires your own copy of the game. Topics: dead-or-alive, direct3d11, game-port, pc-port, recompilation, reverse-engineering, static-recompilation, windows, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-12T12:57:15.763802+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "MattSG/mm3-recomp",
+      "url": "https://github.com/MattSG/mm3-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T09:03:05Z",
+      "summary": "Static recompilation of Midtown Madness 3 (Xbox) to native Windows x64 with a Direct3D 11 renderer, on xboxrecomp. Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-12T12:57:15.762720+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "holdmysocks/mcla-recomp",
+      "url": "https://github.com/holdmysocks/mcla-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T12:31:24Z",
+      "summary": "Static recompilation of Midnight Club: Los Angeles (Xbox 360) for PC and PS5. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-12T12:57:15.761896+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "literalynn/BurnoutDominatorReversed",
+      "url": "https://github.com/literalynn/BurnoutDominatorReversed",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T12:49:19Z",
+      "summary": "Static recompilation of Burnout Dominator (PS2, PAL) into a native PC game, built on PS2Recomp. Work in progress: boots to the PROFILE screen, not playable yet. Bring your own disc. Topics: burnout, decompilation, emulation, ps2, ps2recomp, reverse-engineering, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-12T12:57:15.760846+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable"
+      ]
+    },
+    {
+      "title": "debesh16/night-garden-snake",
+      "url": "https://github.com/debesh16/night-garden-snake",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-12T11:58:13Z",
+      "summary": "Snake in C, compiled to WebAssembly: rewind, perks, weird boards, daily seed, ghost racing and a level editor. Topics: browser-game, c, emscripten, game, snake-game, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-12T12:57:11.712673+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "LockingFR/mkw-switch-recomp",
       "url": "https://github.com/LockingFR/mkw-switch-recomp",
@@ -11,7 +452,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T23:33:08.031529+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-12T12:57:24.109501+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "MKW Switch - Mario Kart Wii static recompilation research for Nintendo Switch (no game files)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -42,7 +500,75 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T23:33:08.030545+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-12T12:57:25.465226+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Geometry Wars: Retro Evolved 2 native PC port via static recompilation, with TRG launcher, high frame rates, local achievements and offline leaderboards",
+        "latest_release_url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/tag/v0.1.0",
+        "latest_release_name": "Geometry Wars: Retro Evolved 2 PC Port v0.1.0",
+        "release_assets": [
+          {
+            "name": "GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.AppImage",
+            "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.AppImage",
+            "size": 10045944
+          },
+          {
+            "name": "GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.sha256",
+            "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.sha256",
+            "size": 121
+          },
+          {
+            "name": "GeometryWarsRetroEvolved2-v0.1.0-windows-x64.sha256",
+            "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-windows-x64.sha256",
+            "size": 115
+          },
+          {
+            "name": "GeometryWarsRetroEvolved2-v0.1.0-windows-x64.zip",
+            "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-windows-x64.zip",
+            "size": 7324327
+          }
+        ],
+        "releases": [
+          {
+            "name": "Geometry Wars: Retro Evolved 2 PC Port v0.1.0",
+            "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/tag/v0.1.0",
+            "published_at": "2026-10-11T21:48:27Z",
+            "assets": [
+              {
+                "name": "GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.AppImage",
+                "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.AppImage",
+                "size": 10045944
+              },
+              {
+                "name": "GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.sha256",
+                "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.sha256",
+                "size": 121
+              },
+              {
+                "name": "GeometryWarsRetroEvolved2-v0.1.0-windows-x64.sha256",
+                "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-windows-x64.sha256",
+                "size": 115
+              },
+              {
+                "name": "GeometryWarsRetroEvolved2-v0.1.0-windows-x64.zip",
+                "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-windows-x64.zip",
+                "size": 7324327
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -51,14 +577,38 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
+          "windows",
+          "linux",
           "pc port",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.AppImage",
+          "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.sha256",
+          "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-linux-x86_64.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "GeometryWarsRetroEvolved2-v0.1.0-windows-x64.sha256",
+          "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-windows-x64.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "GeometryWarsRetroEvolved2-v0.1.0-windows-x64.zip",
+          "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled/releases/download/v0.1.0/GeometryWarsRetroEvolved2-v0.1.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -76,7 +626,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T23:33:04.176539+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-12T12:57:26.839354+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Pixel art games within a game — Go/Ebitengine (WASM) with an in-progress Odin/raylib port",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -112,7 +679,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T23:33:02.314420+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-12T12:57:28.194055+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "26 web-novel protagonists, each reduced to one signature mechanic, dropped into an arena as bouncing balls and left to fight. A data-balanced auto-battler: self-running 26-hero tournament, local PvP, control mode, 8 arenas, and a pluggable-mechanic system. Zero dependencies, zero build — open index.html or play in-browser.",
+        "latest_release_url": "https://github.com/G-a-m-e/Cross-Dimension-Duel/releases/tag/v2.1",
+        "latest_release_name": "v2.1",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "v2.1",
+            "url": "https://github.com/G-a-m-e/Cross-Dimension-Duel/releases/tag/v2.1",
+            "published_at": "2026-07-20T16:47:24Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -147,7 +740,115 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T23:33:02.311662+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-12T12:57:29.601185+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Oneirodex is a Flask + React game library server you run at home (or on a NAS). Point it at folders of DRM-free games, identify them with IGDB / Steam / GOG / RAWG, then give household members a modern browser UI to browse, download, play in-browser (where supported), and hang out.",
+        "latest_release_url": "https://github.com/cephyrixzyth/Oneirodex/releases/tag/v1.1.8",
+        "latest_release_name": "v1.1.8",
+        "release_assets": [
+          {
+            "name": "OneirodexThin_1.1.8_amd64.AppImage",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_amd64.AppImage",
+            "size": 82180600
+          },
+          {
+            "name": "OneirodexThin_1.1.8_amd64.deb",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_amd64.deb",
+            "size": 3593748
+          },
+          {
+            "name": "OneirodexThin_1.1.8_universal.dmg",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_universal.dmg",
+            "size": 7748875
+          },
+          {
+            "name": "OneirodexThin_1.1.8_x64-setup.exe",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_x64-setup.exe",
+            "size": 2230904
+          },
+          {
+            "name": "Oneirodex_1.1.8_amd64.AppImage",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_amd64.AppImage",
+            "size": 82201080
+          },
+          {
+            "name": "Oneirodex_1.1.8_amd64.deb",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_amd64.deb",
+            "size": 3602734
+          },
+          {
+            "name": "Oneirodex_1.1.8_universal.dmg",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_universal.dmg",
+            "size": 7768415
+          },
+          {
+            "name": "Oneirodex_1.1.8_x64-setup.exe",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_x64-setup.exe",
+            "size": 2242409
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.1.8",
+            "url": "https://github.com/cephyrixzyth/Oneirodex/releases/tag/v1.1.8",
+            "published_at": "2026-10-09T05:37:36Z",
+            "assets": [
+              {
+                "name": "OneirodexThin_1.1.8_amd64.AppImage",
+                "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_amd64.AppImage",
+                "size": 82180600
+              },
+              {
+                "name": "OneirodexThin_1.1.8_amd64.deb",
+                "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_amd64.deb",
+                "size": 3593748
+              },
+              {
+                "name": "OneirodexThin_1.1.8_universal.dmg",
+                "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_universal.dmg",
+                "size": 7748875
+              },
+              {
+                "name": "OneirodexThin_1.1.8_x64-setup.exe",
+                "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_x64-setup.exe",
+                "size": 2230904
+              },
+              {
+                "name": "Oneirodex_1.1.8_amd64.AppImage",
+                "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_amd64.AppImage",
+                "size": 82201080
+              },
+              {
+                "name": "Oneirodex_1.1.8_amd64.deb",
+                "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_amd64.deb",
+                "size": 3602734
+              },
+              {
+                "name": "Oneirodex_1.1.8_universal.dmg",
+                "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_universal.dmg",
+                "size": 7768415
+              },
+              {
+                "name": "Oneirodex_1.1.8_x64-setup.exe",
+                "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_x64-setup.exe",
+                "size": 2242409
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -160,9 +861,51 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "OneirodexThin_1.1.8_amd64.AppImage",
+          "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_amd64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "OneirodexThin_1.1.8_amd64.deb",
+          "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "OneirodexThin_1.1.8_universal.dmg",
+          "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_universal.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "OneirodexThin_1.1.8_x64-setup.exe",
+          "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/OneirodexThin_1.1.8_x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Oneirodex_1.1.8_amd64.AppImage",
+          "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_amd64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Oneirodex_1.1.8_amd64.deb",
+          "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Oneirodex_1.1.8_universal.dmg",
+          "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_universal.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Oneirodex_1.1.8_x64-setup.exe",
+          "url": "https://github.com/cephyrixzyth/Oneirodex/releases/download/v1.1.8/Oneirodex_1.1.8_x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 3,
       "relevance_status": "possible",
@@ -10052,7 +10795,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:19.121001+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-12T12:57:31.052554+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Surf: a free browser CS surf game on a faithful Source-engine movement port. No auto-strafe, two original courses, a personal-best ghost and a bot that proves the course is runnable. Built with three.js.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -10089,7 +10849,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:19.120986+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-12T12:57:32.422997+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Port or the Original Ballance game to webgl",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -10122,7 +10899,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-11T17:23:19.120957+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-12T12:57:33.738570+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "2.0 webgl game",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
