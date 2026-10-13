@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-13T12:34:35.567544+00:00",
+  "last_updated": "2026-10-13T23:41:47.765873+00:00",
   "candidates": [
     {
-      "title": "pablocpas/OpenCMR2",
-      "url": "https://github.com/pablocpas/OpenCMR2",
+      "title": "Jorge262007/FFTARecomp",
+      "url": "https://github.com/Jorge262007/FFTARecomp",
       "source_name": "GitHub: PC ports",
-      "published": "2026-10-13T09:15:51Z",
-      "summary": "Native SDL3 port of Colin McRae Rally 2.0 built from the CMR2Decomp decompilation. No game data included. Topics: cmr2, colin-mcrae-rally, colin-mcrae-rally-2, cpp, cross-platform, decompilation, game-port, linux, macos, metal, native-port, pc-port, racing-game, rally, retro-gaming, reverse-engineering, sdl3, source-port, vulkan, windows",
+      "published": "2026-10-13T17:34:15Z",
+      "summary": "Native Windows port of Final Fantasy Tactics Advance with widescreen, video/audio options and a one-click installer. Topics: emulator, fftarecomp, final-fantasy, game, gaming, linux, recompilation, rust, steamdeck, windows",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-13T12:34:17.341042+00:00",
+      "found_at": "2026-10-13T23:41:31.572949+00:00",
       "check": null,
       "category": "pc",
       "platforms_guess": [
@@ -29,22 +29,57 @@
       "classification_notes": [
         "В описании обнаружены признаки PC-поддержки."
       ],
-      "relevance_score": 13,
+      "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: decompil, source-port, port of, explicit port/recompilation wording",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
     {
-      "title": "shihabal3amri/tekken-tag-tournament-2-pc",
-      "url": "https://github.com/shihabal3amri/tekken-tag-tournament-2-pc",
-      "source_name": "GitHub: static recompilation",
-      "published": "2026-10-12T21:34:02Z",
-      "summary": "Native Windows port of Tekken Tag Tournament 2 (Xbox 360) by static recompilation. Not an emulator. Ships no game data - the installer builds the game from your own disc image and Title Update 3.",
+      "title": "jkdansereau/goldeneye-pc-port",
+      "url": "https://github.com/jkdansereau/goldeneye-pc-port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-13T22:14:00Z",
+      "summary": "GoldenEye 007 (N64, 1997) as a native PC game for Windows, Linux, Steam Deck and macOS. Built from the open decompilation, with widescreen, mouse and keyboard or controller, and split-screen. Not an emulator. Topics: agentic-development, c, claude-code, decompilation, game-porting, goldeneye, goldeneye-007, linux, macos, mips, n64, n64-decomp, nintendo-64, opengl, pc-port, retro-gaming, reverse-engineering, sdl2, steam-deck, windows",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-13T12:34:13.224338+00:00",
+      "found_at": "2026-10-13T23:41:31.571581+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "viktor-malieichyk/terrafire-port",
+      "url": "https://github.com/viktor-malieichyk/terrafire-port",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-13T20:09:09Z",
+      "summary": "Source port of TerraFire (1997 DOS game by Owen Thomas) to macOS and Windows with SDL3, verified frame by frame against the original Topics: dos-game, reverse-engineering, sdl3, source-port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:29.603149+00:00",
       "check": null,
       "category": "pc",
       "platforms_guess": [
@@ -65,19 +100,53 @@
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть прямые признаки порта/рекомпиляции: source port, source-port, port of, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game, windows"
       ]
     },
     {
-      "title": "codepdbh/nfsu2-recompiled",
-      "url": "https://github.com/codepdbh/nfsu2-recompiled",
-      "source_name": "GitHub: static recompilation",
-      "published": "2026-10-12T22:32:11Z",
-      "summary": "Static recompilation of Need for Speed Underground 2 (SPEED2.EXE x86-32 -> C) with pcrecomp. Bring your own game; no game code or data included.",
+      "title": "victormoraesaraujo343/ports-catalogue",
+      "url": "https://github.com/victormoraesaraujo343/ports-catalogue",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-13T20:47:03Z",
+      "summary": "Open list of native PC ports of console games (recompilations and source ports). No game data. Readable by any launcher.",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-13T12:34:13.223633+00:00",
+      "found_at": "2026-10-13T23:41:29.602194+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "phobos665/gladius-recomp",
+      "url": "https://github.com/phobos665/gladius-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T16:39:08Z",
+      "summary": "Static Recompilation of Original Xbox game - Gladius",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:27.652689+00:00",
       "check": null,
       "category": "needs_review",
       "platforms_guess": [],
@@ -97,6 +166,1504 @@
       ]
     },
     {
+      "title": "IanWorley/impure",
+      "url": "https://github.com/IanWorley/impure",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T17:31:49Z",
+      "summary": "A pure-recomp: static recompilation of Pure (2008, Xbox 360) that rebuilds the game from your own copy",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:27.651980+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "tmcleroy/satrecomp",
+      "url": "https://github.com/tmcleroy/satrecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T17:42:10Z",
+      "summary": "Toolkit for static recompilations of Sega Saturn games into native programs. No game is included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:27.651214+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "jajdp/sfex2p-xbox",
+      "url": "https://github.com/jajdp/sfex2p-xbox",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T18:29:20Z",
+      "summary": "Run the PSXRecomp static recompilation of Street Fighter EX2 Plus on an Xbox Series in Developer Mode: a UWP profile for a framework that has none, sixteen guarded patches and the packaging scripts. No game code, disc, BIOS or artwork. Topics: game-port, homebrew, playstation, psx, psxrecomp, static-recompilation, street-fighter, uwp, winrt, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:27.650136+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "arelkair/wiiparty-recomp",
+      "url": "https://github.com/arelkair/wiiparty-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T19:57:39Z",
+      "summary": "Static recompilation of Wii Party for native PC. Requires your own legally obtained copy of the game; no copyrighted assets included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:27.649009+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "DanielPerezL/CarsPSPRecomp",
+      "url": "https://github.com/DanielPerezL/CarsPSPRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T20:02:38Z",
+      "summary": "Cars PSP Recomp is a native PC port of Disney·Pixar Cars for the PSP, built through static recompilation instead of emulation. It runs on Linux and Windows with high resolution, frame interpolation above 120 fps and editable textures. Bring your own copy of the game. Topics: hle, opengl, pc-port, psp, recompiler, reverse-engineering, sdl2, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:27.647677+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "tmcleroy/cps2recomp",
+      "url": "https://github.com/tmcleroy/cps2recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T20:39:33Z",
+      "summary": "Toolkit for static recompilations of Capcom CPS-2 arcade games into native programs. No game is included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:27.646397+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "erreib/pure-recomp",
+      "url": "https://github.com/erreib/pure-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T21:02:42Z",
+      "summary": "Wipeout Pure (PSP, 2005) as a native program for Apple Silicon Macs and Windows, by static recompilation. No game data included: you play it from your own disc image. Topics: apple-silicon, decompilation, game-port, macos, metal, psp, racing-game, recompilation, static-recompilation, vulkan, windows, wipeout, wipeout-pure",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:27.645337+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "phobos665/Rainbow-six-three-recomp",
+      "url": "https://github.com/phobos665/Rainbow-six-three-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T21:32:50Z",
+      "summary": "Static Recompilation of Original Xbox game Rainbow Six 3",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:27.644340+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "TekRantGaming/outpost-kaloki-x-recompiled",
+      "url": "https://github.com/TekRantGaming/outpost-kaloki-x-recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T22:17:48Z",
+      "summary": "Native PC port of the XBLA game Outpost Kaloki X via static recompilation (ReXGlue). Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:27.643590+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "sonsegajp/HWDER",
+      "url": "https://github.com/sonsegajp/HWDER",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T22:25:01Z",
+      "summary": "Hyrule Warriors: Definitive Edition Recomp (HWDE) - static recompilation of the Switch game to a native Windows executable",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:27.642747+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "EmiRZx/kutup",
+      "url": "https://github.com/EmiRZx/kutup",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-13T19:29:14Z",
+      "summary": "A library management system disguised as a Papers, Please-style librarian game. TypeScript, React and SQLite (WebAssembly), all in the browser. Topics: game, library-management-system, papers-please, react, sql-js, sqlite, typescript, vite, vitest, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:23.804271+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "jasonsperske/re-volt-web",
+      "url": "https://github.com/jasonsperske/re-volt-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-13T22:11:51Z",
+      "summary": "Play Re-Volt (1999) in the browser from your own PC disc image: Rust/WebAssembly engine, WebGL2, gamepad support. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:23.801574+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "cadenburleson/primordia",
+      "url": "https://github.com/cadenburleson/primordia",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-13T22:30:53Z",
+      "summary": "A god game where life evolves from single cells on a planet with honest physics. Rust engine in WebAssembly, three.js in the browser. Topics: alife, artificial-life, evolution, god-game, rust, simulation, threejs, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:23.800570+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "pablocpas/OpenCMR2",
+      "url": "https://github.com/pablocpas/OpenCMR2",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-13T09:15:51Z",
+      "summary": "Native SDL3 port of Colin McRae Rally 2.0 built from the CMR2Decomp decompilation. No game data included. Topics: cmr2, colin-mcrae-rally, colin-mcrae-rally-2, cpp, cross-platform, decompilation, game-port, linux, macos, metal, native-port, pc-port, racing-game, rally, retro-gaming, reverse-engineering, sdl3, source-port, vulkan, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:17.341042+00:00",
+      "check": {
+        "checked_at": "2026-10-13T23:41:35.845491+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native SDL3 port of Colin McRae Rally 2.0 built from the CMR2Decomp decompilation. No game data included.",
+        "latest_release_url": "https://github.com/pablocpas/OpenCMR2/releases/tag/v1.1.3",
+        "latest_release_name": "v1.1.3",
+        "release_assets": [
+          {
+            "name": "OpenCMR2-Android.apk",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Android.apk",
+            "size": 13315691
+          },
+          {
+            "name": "OpenCMR2-Linux-arm64.tar.gz",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-arm64.tar.gz",
+            "size": 8271531
+          },
+          {
+            "name": "OpenCMR2-Linux-arm64.tar.gz.sha256",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-arm64.tar.gz.sha256",
+            "size": 94
+          },
+          {
+            "name": "OpenCMR2-Linux-i686.tar.gz",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-i686.tar.gz",
+            "size": 8507339
+          },
+          {
+            "name": "OpenCMR2-Linux-i686.tar.gz.sha256",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-i686.tar.gz.sha256",
+            "size": 93
+          },
+          {
+            "name": "OpenCMR2-Linux-x86_64.tar.gz",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-x86_64.tar.gz",
+            "size": 8516353
+          },
+          {
+            "name": "OpenCMR2-Linux-x86_64.tar.gz.sha256",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-x86_64.tar.gz.sha256",
+            "size": 95
+          },
+          {
+            "name": "OpenCMR2-macOS-arm64.zip",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-macOS-arm64.zip",
+            "size": 2270712
+          },
+          {
+            "name": "OpenCMR2-macOS-arm64.zip.sha256",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-macOS-arm64.zip.sha256",
+            "size": 91
+          },
+          {
+            "name": "OpenCMR2-Windows-x64.zip",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Windows-x64.zip",
+            "size": 2601311
+          },
+          {
+            "name": "OpenCMR2-Windows-x64.zip.sha256",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Windows-x64.zip.sha256",
+            "size": 92
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.1.3",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/tag/v1.1.3",
+            "published_at": "2026-10-13T19:05:02Z",
+            "assets": [
+              {
+                "name": "OpenCMR2-Android.apk",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Android.apk",
+                "size": 13315691
+              },
+              {
+                "name": "OpenCMR2-Linux-arm64.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-arm64.tar.gz",
+                "size": 8271531
+              },
+              {
+                "name": "OpenCMR2-Linux-arm64.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-arm64.tar.gz.sha256",
+                "size": 94
+              },
+              {
+                "name": "OpenCMR2-Linux-i686.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-i686.tar.gz",
+                "size": 8507339
+              },
+              {
+                "name": "OpenCMR2-Linux-i686.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-i686.tar.gz.sha256",
+                "size": 93
+              },
+              {
+                "name": "OpenCMR2-Linux-x86_64.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-x86_64.tar.gz",
+                "size": 8516353
+              },
+              {
+                "name": "OpenCMR2-Linux-x86_64.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-x86_64.tar.gz.sha256",
+                "size": 95
+              },
+              {
+                "name": "OpenCMR2-macOS-arm64.zip",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-macOS-arm64.zip",
+                "size": 2270712
+              },
+              {
+                "name": "OpenCMR2-macOS-arm64.zip.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-macOS-arm64.zip.sha256",
+                "size": 91
+              },
+              {
+                "name": "OpenCMR2-Windows-x64.zip",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Windows-x64.zip",
+                "size": 2601311
+              },
+              {
+                "name": "OpenCMR2-Windows-x64.zip.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Windows-x64.zip.sha256",
+                "size": 92
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.1.2",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/tag/v1.1.2",
+            "published_at": "2026-10-13T08:14:12Z",
+            "assets": [
+              {
+                "name": "OpenCMR2-Android.apk",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Android.apk",
+                "size": 13315227
+              },
+              {
+                "name": "OpenCMR2-Linux-arm64.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Linux-arm64.tar.gz",
+                "size": 8271289
+              },
+              {
+                "name": "OpenCMR2-Linux-arm64.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Linux-arm64.tar.gz.sha256",
+                "size": 94
+              },
+              {
+                "name": "OpenCMR2-Linux-i686.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Linux-i686.tar.gz",
+                "size": 8507171
+              },
+              {
+                "name": "OpenCMR2-Linux-i686.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Linux-i686.tar.gz.sha256",
+                "size": 93
+              },
+              {
+                "name": "OpenCMR2-Linux-x86_64.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Linux-x86_64.tar.gz",
+                "size": 8516248
+              },
+              {
+                "name": "OpenCMR2-Linux-x86_64.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Linux-x86_64.tar.gz.sha256",
+                "size": 95
+              },
+              {
+                "name": "OpenCMR2-macOS-arm64.zip",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-macOS-arm64.zip",
+                "size": 2270727
+              },
+              {
+                "name": "OpenCMR2-macOS-arm64.zip.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-macOS-arm64.zip.sha256",
+                "size": 91
+              },
+              {
+                "name": "OpenCMR2-Windows-x64.zip",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Windows-x64.zip",
+                "size": 2601236
+              },
+              {
+                "name": "OpenCMR2-Windows-x64.zip.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Windows-x64.zip.sha256",
+                "size": 92
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.1.1",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/tag/v1.1.1",
+            "published_at": "2026-10-13T07:37:26Z",
+            "assets": [
+              {
+                "name": "OpenCMR2-Android.apk",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Android.apk",
+                "size": 13314727
+              },
+              {
+                "name": "OpenCMR2-Linux-arm64.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Linux-arm64.tar.gz",
+                "size": 8270730
+              },
+              {
+                "name": "OpenCMR2-Linux-arm64.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Linux-arm64.tar.gz.sha256",
+                "size": 94
+              },
+              {
+                "name": "OpenCMR2-Linux-i686.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Linux-i686.tar.gz",
+                "size": 8505958
+              },
+              {
+                "name": "OpenCMR2-Linux-i686.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Linux-i686.tar.gz.sha256",
+                "size": 93
+              },
+              {
+                "name": "OpenCMR2-Linux-x86_64.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Linux-x86_64.tar.gz",
+                "size": 8515877
+              },
+              {
+                "name": "OpenCMR2-Linux-x86_64.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Linux-x86_64.tar.gz.sha256",
+                "size": 95
+              },
+              {
+                "name": "OpenCMR2-macOS-arm64.zip",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-macOS-arm64.zip",
+                "size": 2270624
+              },
+              {
+                "name": "OpenCMR2-macOS-arm64.zip.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-macOS-arm64.zip.sha256",
+                "size": 91
+              },
+              {
+                "name": "OpenCMR2-Windows-x64.zip",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Windows-x64.zip",
+                "size": 2600829
+              },
+              {
+                "name": "OpenCMR2-Windows-x64.zip.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Windows-x64.zip.sha256",
+                "size": 92
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.1.0",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/tag/v1.1.0",
+            "published_at": "2026-10-13T07:18:29Z",
+            "assets": [
+              {
+                "name": "OpenCMR2-Android.apk",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Android.apk",
+                "size": 13314107
+              },
+              {
+                "name": "OpenCMR2-Linux-arm64.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Linux-arm64.tar.gz",
+                "size": 8269211
+              },
+              {
+                "name": "OpenCMR2-Linux-arm64.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Linux-arm64.tar.gz.sha256",
+                "size": 94
+              },
+              {
+                "name": "OpenCMR2-Linux-i686.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Linux-i686.tar.gz",
+                "size": 8505109
+              },
+              {
+                "name": "OpenCMR2-Linux-i686.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Linux-i686.tar.gz.sha256",
+                "size": 93
+              },
+              {
+                "name": "OpenCMR2-Linux-x86_64.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Linux-x86_64.tar.gz",
+                "size": 8515212
+              },
+              {
+                "name": "OpenCMR2-Linux-x86_64.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Linux-x86_64.tar.gz.sha256",
+                "size": 95
+              },
+              {
+                "name": "OpenCMR2-macOS-arm64.zip",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-macOS-arm64.zip",
+                "size": 2270400
+              },
+              {
+                "name": "OpenCMR2-macOS-arm64.zip.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-macOS-arm64.zip.sha256",
+                "size": 91
+              },
+              {
+                "name": "OpenCMR2-Windows-x64.zip",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Windows-x64.zip",
+                "size": 2600378
+              },
+              {
+                "name": "OpenCMR2-Windows-x64.zip.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Windows-x64.zip.sha256",
+                "size": 92
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "OpenCMR2 1.0.2",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/tag/v1.0.2",
+            "published_at": "2026-10-12T18:36:59Z",
+            "assets": [
+              {
+                "name": "OpenCMR2-Linux-arm64.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-Linux-arm64.tar.gz",
+                "size": 7706887
+              },
+              {
+                "name": "OpenCMR2-Linux-arm64.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-Linux-arm64.tar.gz.sha256",
+                "size": 94
+              },
+              {
+                "name": "OpenCMR2-Linux-i686.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-Linux-i686.tar.gz",
+                "size": 7939564
+              },
+              {
+                "name": "OpenCMR2-Linux-i686.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-Linux-i686.tar.gz.sha256",
+                "size": 93
+              },
+              {
+                "name": "OpenCMR2-Linux-x86_64.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-Linux-x86_64.tar.gz",
+                "size": 7951730
+              },
+              {
+                "name": "OpenCMR2-Linux-x86_64.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-Linux-x86_64.tar.gz.sha256",
+                "size": 95
+              },
+              {
+                "name": "OpenCMR2-macOS-arm64.zip",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-macOS-arm64.zip",
+                "size": 2131606
+              },
+              {
+                "name": "OpenCMR2-macOS-arm64.zip.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-macOS-arm64.zip.sha256",
+                "size": 91
+              },
+              {
+                "name": "OpenCMR2-Windows-x64.zip",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-Windows-x64.zip",
+                "size": 2441684
+              },
+              {
+                "name": "OpenCMR2-Windows-x64.zip.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-Windows-x64.zip.sha256",
+                "size": 92
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "OpenCMR2 1.0.1",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/tag/v1.0.1",
+            "published_at": "2026-10-12T18:09:23Z",
+            "assets": [
+              {
+                "name": "OpenCMR2-Linux-arm64.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-Linux-arm64.tar.gz",
+                "size": 7703854
+              },
+              {
+                "name": "OpenCMR2-Linux-arm64.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-Linux-arm64.tar.gz.sha256",
+                "size": 94
+              },
+              {
+                "name": "OpenCMR2-Linux-i686.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-Linux-i686.tar.gz",
+                "size": 7937177
+              },
+              {
+                "name": "OpenCMR2-Linux-i686.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-Linux-i686.tar.gz.sha256",
+                "size": 93
+              },
+              {
+                "name": "OpenCMR2-Linux-x86_64.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-Linux-x86_64.tar.gz",
+                "size": 7950314
+              },
+              {
+                "name": "OpenCMR2-Linux-x86_64.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-Linux-x86_64.tar.gz.sha256",
+                "size": 95
+              },
+              {
+                "name": "OpenCMR2-macOS-arm64.zip",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-macOS-arm64.zip",
+                "size": 2131643
+              },
+              {
+                "name": "OpenCMR2-macOS-arm64.zip.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-macOS-arm64.zip.sha256",
+                "size": 91
+              },
+              {
+                "name": "OpenCMR2-Windows-x64.zip",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-Windows-x64.zip",
+                "size": 2441682
+              },
+              {
+                "name": "OpenCMR2-Windows-x64.zip.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-Windows-x64.zip.sha256",
+                "size": 92
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "OpenCMR2 1.0",
+            "url": "https://github.com/pablocpas/OpenCMR2/releases/tag/v1.0",
+            "published_at": "2026-10-12T17:27:16Z",
+            "assets": [
+              {
+                "name": "OpenCMR2-Linux-arm64.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-Linux-arm64.tar.gz",
+                "size": 7604671
+              },
+              {
+                "name": "OpenCMR2-Linux-arm64.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-Linux-arm64.tar.gz.sha256",
+                "size": 94
+              },
+              {
+                "name": "OpenCMR2-Linux-i686.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-Linux-i686.tar.gz",
+                "size": 7839260
+              },
+              {
+                "name": "OpenCMR2-Linux-i686.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-Linux-i686.tar.gz.sha256",
+                "size": 93
+              },
+              {
+                "name": "OpenCMR2-Linux-x86_64.tar.gz",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-Linux-x86_64.tar.gz",
+                "size": 7845347
+              },
+              {
+                "name": "OpenCMR2-Linux-x86_64.tar.gz.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-Linux-x86_64.tar.gz.sha256",
+                "size": 95
+              },
+              {
+                "name": "OpenCMR2-macOS-arm64.zip",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-macOS-arm64.zip",
+                "size": 2130613
+              },
+              {
+                "name": "OpenCMR2-macOS-arm64.zip.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-macOS-arm64.zip.sha256",
+                "size": 91
+              },
+              {
+                "name": "OpenCMR2-Windows-x64.zip",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-Windows-x64.zip",
+                "size": 2410035
+              },
+              {
+                "name": "OpenCMR2-Windows-x64.zip.sha256",
+                "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-Windows-x64.zip.sha256",
+                "size": 92
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "OpenCMR2-Android.apk",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "OpenCMR2-Linux-arm64.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-arm64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-arm64.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-arm64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-i686.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-i686.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-i686.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-i686.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-x86_64.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-x86_64.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Linux-x86_64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-macOS-arm64.zip",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-macOS-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-macOS-arm64.zip.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-macOS-arm64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Windows-x64.zip",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Windows-x64.zip.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.3/OpenCMR2-Windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Android.apk",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "OpenCMR2-Linux-arm64.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Linux-arm64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-arm64.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Linux-arm64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-i686.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Linux-i686.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-i686.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Linux-i686.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-x86_64.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-x86_64.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Linux-x86_64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-macOS-arm64.zip",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-macOS-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-macOS-arm64.zip.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-macOS-arm64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Windows-x64.zip",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Windows-x64.zip.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.2/OpenCMR2-Windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Android.apk",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "OpenCMR2-Linux-arm64.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Linux-arm64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-arm64.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Linux-arm64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-i686.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Linux-i686.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-i686.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Linux-i686.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-x86_64.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-x86_64.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Linux-x86_64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-macOS-arm64.zip",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-macOS-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-macOS-arm64.zip.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-macOS-arm64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Windows-x64.zip",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Windows-x64.zip.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.1/OpenCMR2-Windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Android.apk",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "OpenCMR2-Linux-arm64.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Linux-arm64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-arm64.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Linux-arm64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-i686.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Linux-i686.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-i686.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Linux-i686.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-x86_64.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-x86_64.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Linux-x86_64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-macOS-arm64.zip",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-macOS-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-macOS-arm64.zip.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-macOS-arm64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Windows-x64.zip",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Windows-x64.zip.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.1.0/OpenCMR2-Windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-arm64.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-Linux-arm64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-arm64.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-Linux-arm64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-i686.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-Linux-i686.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-i686.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-Linux-i686.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-x86_64.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-Linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-x86_64.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-Linux-x86_64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-macOS-arm64.zip",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-macOS-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-macOS-arm64.zip.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-macOS-arm64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Windows-x64.zip",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Windows-x64.zip.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.2/OpenCMR2-Windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-arm64.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-Linux-arm64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-arm64.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-Linux-arm64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-i686.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-Linux-i686.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-i686.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-Linux-i686.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-x86_64.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-Linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-x86_64.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-Linux-x86_64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-macOS-arm64.zip",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-macOS-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-macOS-arm64.zip.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-macOS-arm64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Windows-x64.zip",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Windows-x64.zip.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0.1/OpenCMR2-Windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-arm64.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-Linux-arm64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-arm64.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-Linux-arm64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-i686.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-Linux-i686.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-i686.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-Linux-i686.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Linux-x86_64.tar.gz",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-Linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Linux-x86_64.tar.gz.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-Linux-x86_64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-macOS-arm64.zip",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-macOS-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-macOS-arm64.zip.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-macOS-arm64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "OpenCMR2-Windows-x64.zip",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "OpenCMR2-Windows-x64.zip.sha256",
+          "url": "https://github.com/pablocpas/OpenCMR2/releases/download/v1.0/OpenCMR2-Windows-x64.zip.sha256",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, source-port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "shihabal3amri/tekken-tag-tournament-2-pc",
+      "url": "https://github.com/shihabal3amri/tekken-tag-tournament-2-pc",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T21:34:02Z",
+      "summary": "Native Windows port of Tekken Tag Tournament 2 (Xbox 360) by static recompilation. Not an emulator. Ships no game data - the installer builds the game from your own disc image and Title Update 3.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:13.224338+00:00",
+      "check": {
+        "checked_at": "2026-10-13T23:41:37.422668+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows port of Tekken Tag Tournament 2 (Xbox 360) by static recompilation. Not an emulator. Ships no game data - the installer builds the game from your own disc image and Title Update 3.",
+        "latest_release_url": "https://github.com/shihabal3amri/tekken-tag-tournament-2-pc/releases/tag/v0.1.1",
+        "latest_release_name": "v0.1.1 - first release: the full game natively, and online over Steam",
+        "release_assets": [
+          {
+            "name": "ttt2_setup.exe",
+            "url": "https://github.com/shihabal3amri/tekken-tag-tournament-2-pc/releases/download/v0.1.1/ttt2_setup.exe",
+            "size": 65282048
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.1 - first release: the full game natively, and online over Steam",
+            "url": "https://github.com/shihabal3amri/tekken-tag-tournament-2-pc/releases/tag/v0.1.1",
+            "published_at": "2026-10-13T17:22:52Z",
+            "assets": [
+              {
+                "name": "ttt2_setup.exe",
+                "url": "https://github.com/shihabal3amri/tekken-tag-tournament-2-pc/releases/download/v0.1.1/ttt2_setup.exe",
+                "size": 65282048
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "ttt2_setup.exe",
+          "url": "https://github.com/shihabal3amri/tekken-tag-tournament-2-pc/releases/download/v0.1.1/ttt2_setup.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "codepdbh/nfsu2-recompiled",
+      "url": "https://github.com/codepdbh/nfsu2-recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T22:32:11Z",
+      "summary": "Static recompilation of Need for Speed Underground 2 (SPEED2.EXE x86-32 -> C) with pcrecomp. Bring your own game; no game code or data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:13.223633+00:00",
+      "check": {
+        "checked_at": "2026-10-13T23:41:38.873014+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Need for Speed Underground 2 (SPEED2.EXE x86-32 -> C) with pcrecomp. Bring your own game; no game code or data included.",
+        "latest_release_url": "https://github.com/codepdbh/nfsu2-recompiled/releases/tag/v0.14.3",
+        "latest_release_name": "NFSU2 Android Evolved v0.14.3",
+        "release_assets": [
+          {
+            "name": "NFSU2-AndroidEvolved-v0.14.3-arm64.apk",
+            "url": "https://github.com/codepdbh/nfsu2-recompiled/releases/download/v0.14.3/NFSU2-AndroidEvolved-v0.14.3-arm64.apk",
+            "size": 70318355
+          },
+          {
+            "name": "NFSU2-AndroidEvolved-v0.14.3-armeabi-v7a.apk",
+            "url": "https://github.com/codepdbh/nfsu2-recompiled/releases/download/v0.14.3/NFSU2-AndroidEvolved-v0.14.3-armeabi-v7a.apk",
+            "size": 80818161
+          }
+        ],
+        "releases": [
+          {
+            "name": "NFSU2 Android Evolved v0.14.3",
+            "url": "https://github.com/codepdbh/nfsu2-recompiled/releases/tag/v0.14.3",
+            "published_at": "2026-10-13T19:50:21Z",
+            "assets": [
+              {
+                "name": "NFSU2-AndroidEvolved-v0.14.3-arm64.apk",
+                "url": "https://github.com/codepdbh/nfsu2-recompiled/releases/download/v0.14.3/NFSU2-AndroidEvolved-v0.14.3-arm64.apk",
+                "size": 70318355
+              },
+              {
+                "name": "NFSU2-AndroidEvolved-v0.14.3-armeabi-v7a.apk",
+                "url": "https://github.com/codepdbh/nfsu2-recompiled/releases/download/v0.14.3/NFSU2-AndroidEvolved-v0.14.3-armeabi-v7a.apk",
+                "size": 80818161
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "NFSU2-AndroidEvolved-v0.14.3-arm64.apk",
+          "url": "https://github.com/codepdbh/nfsu2-recompiled/releases/download/v0.14.3/NFSU2-AndroidEvolved-v0.14.3-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NFSU2-AndroidEvolved-v0.14.3-armeabi-v7a.apk",
+          "url": "https://github.com/codepdbh/nfsu2-recompiled/releases/download/v0.14.3/NFSU2-AndroidEvolved-v0.14.3-armeabi-v7a.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
       "title": "Dyotson/RecompiledForzaHorizon",
       "url": "https://github.com/Dyotson/RecompiledForzaHorizon",
       "source_name": "GitHub: static recompilation",
@@ -105,7 +1672,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-13T12:34:13.222912+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T23:41:40.257292+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Forza Horizon (Xbox 360) natively on PC, rebuilt around the modern Horizon experience: shared online free roam, leaderboards and rivals, 120/144 fps, and a self-hostable online server.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -139,7 +1723,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-13T12:34:13.221834+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T23:41:41.952246+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Midtown Madness 3 PC Native: an improved and modded MM3 PC port for Windows 10/11 x64. Xbox static recompilation with Direct3D 11, keyboard controls, widescreen, custom cars, gameplay fixes and performance improvements. Build from your own game disc.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -173,17 +1774,710 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-13T12:34:13.220799+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-10-13T23:41:43.326492+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of FINAL FANTASY XI's FFXiMain.dll (and FFXi.dll) from 32-bit x86 to C, so the game runs natively on arm64 macOS without Wine or Rosetta",
+        "latest_release_url": "https://github.com/rubymatrix/xi-on-anything/releases/tag/v0.2.4",
+        "latest_release_name": "XI on Anything 0.2.4",
+        "release_assets": [
+          {
+            "name": "latest.json",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/latest.json",
+            "size": 1902
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/SHA256SUMS",
+            "size": 714
+          },
+          {
+            "name": "XI-on-Anything-linux-x86_64.AppImage",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Anything-linux-x86_64.AppImage",
+            "size": 131262968
+          },
+          {
+            "name": "XI-on-Anything-linux-x86_64.AppImage.sig",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Anything-linux-x86_64.AppImage.sig",
+            "size": 428
+          },
+          {
+            "name": "XI-on-Anything-windows-x64-setup.exe",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Anything-windows-x64-setup.exe",
+            "size": 49040777
+          },
+          {
+            "name": "XI-on-Anything-windows-x64-setup.exe.sig",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Anything-windows-x64-setup.exe.sig",
+            "size": 444
+          },
+          {
+            "name": "XI-on-Mac-macos-arm64.app.tar.gz",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Mac-macos-arm64.app.tar.gz",
+            "size": 49852899
+          },
+          {
+            "name": "XI-on-Mac-macos-arm64.app.tar.gz.sig",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Mac-macos-arm64.app.tar.gz.sig",
+            "size": 424
+          },
+          {
+            "name": "XI-on-Mac-macos-arm64.zip",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Mac-macos-arm64.zip",
+            "size": 50792887
+          }
+        ],
+        "releases": [
+          {
+            "name": "XI on Anything 0.2.4",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/tag/v0.2.4",
+            "published_at": "2026-10-03T17:11:45Z",
+            "assets": [
+              {
+                "name": "latest.json",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/latest.json",
+                "size": 1902
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/SHA256SUMS",
+                "size": 714
+              },
+              {
+                "name": "XI-on-Anything-linux-x86_64.AppImage",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Anything-linux-x86_64.AppImage",
+                "size": 131262968
+              },
+              {
+                "name": "XI-on-Anything-linux-x86_64.AppImage.sig",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Anything-linux-x86_64.AppImage.sig",
+                "size": 428
+              },
+              {
+                "name": "XI-on-Anything-windows-x64-setup.exe",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Anything-windows-x64-setup.exe",
+                "size": 49040777
+              },
+              {
+                "name": "XI-on-Anything-windows-x64-setup.exe.sig",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Anything-windows-x64-setup.exe.sig",
+                "size": 444
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.app.tar.gz",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Mac-macos-arm64.app.tar.gz",
+                "size": 49852899
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.app.tar.gz.sig",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Mac-macos-arm64.app.tar.gz.sig",
+                "size": 424
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.zip",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Mac-macos-arm64.zip",
+                "size": 50792887
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "XI on Anything 0.2.3",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/tag/v0.2.3",
+            "published_at": "2026-10-03T14:32:31Z",
+            "assets": [
+              {
+                "name": "latest.json",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/latest.json",
+                "size": 1902
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/SHA256SUMS",
+                "size": 714
+              },
+              {
+                "name": "XI-on-Anything-linux-x86_64.AppImage",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/XI-on-Anything-linux-x86_64.AppImage",
+                "size": 128301560
+              },
+              {
+                "name": "XI-on-Anything-linux-x86_64.AppImage.sig",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/XI-on-Anything-linux-x86_64.AppImage.sig",
+                "size": 428
+              },
+              {
+                "name": "XI-on-Anything-windows-x64-setup.exe",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/XI-on-Anything-windows-x64-setup.exe",
+                "size": 49038464
+              },
+              {
+                "name": "XI-on-Anything-windows-x64-setup.exe.sig",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/XI-on-Anything-windows-x64-setup.exe.sig",
+                "size": 444
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.app.tar.gz",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/XI-on-Mac-macos-arm64.app.tar.gz",
+                "size": 49853075
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.app.tar.gz.sig",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/XI-on-Mac-macos-arm64.app.tar.gz.sig",
+                "size": 424
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.zip",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/XI-on-Mac-macos-arm64.zip",
+                "size": 50792790
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "XI on Anything 0.2.2",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/tag/v0.2.2",
+            "published_at": "2026-10-03T08:30:24Z",
+            "assets": [
+              {
+                "name": "latest.json",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/latest.json",
+                "size": 1902
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/SHA256SUMS",
+                "size": 714
+              },
+              {
+                "name": "XI-on-Anything-linux-x86_64.AppImage",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/XI-on-Anything-linux-x86_64.AppImage",
+                "size": 128297464
+              },
+              {
+                "name": "XI-on-Anything-linux-x86_64.AppImage.sig",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/XI-on-Anything-linux-x86_64.AppImage.sig",
+                "size": 428
+              },
+              {
+                "name": "XI-on-Anything-windows-x64-setup.exe",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/XI-on-Anything-windows-x64-setup.exe",
+                "size": 49039686
+              },
+              {
+                "name": "XI-on-Anything-windows-x64-setup.exe.sig",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/XI-on-Anything-windows-x64-setup.exe.sig",
+                "size": 444
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.app.tar.gz",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/XI-on-Mac-macos-arm64.app.tar.gz",
+                "size": 49851843
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.app.tar.gz.sig",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/XI-on-Mac-macos-arm64.app.tar.gz.sig",
+                "size": 424
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.zip",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/XI-on-Mac-macos-arm64.zip",
+                "size": 50790424
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "XI on Anything 0.2.1",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/tag/v0.2.1",
+            "published_at": "2026-10-03T07:56:53Z",
+            "assets": [
+              {
+                "name": "latest.json",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/latest.json",
+                "size": 1902
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/SHA256SUMS",
+                "size": 714
+              },
+              {
+                "name": "XI-on-Anything-linux-x86_64.AppImage",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/XI-on-Anything-linux-x86_64.AppImage",
+                "size": 128297464
+              },
+              {
+                "name": "XI-on-Anything-linux-x86_64.AppImage.sig",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/XI-on-Anything-linux-x86_64.AppImage.sig",
+                "size": 428
+              },
+              {
+                "name": "XI-on-Anything-windows-x64-setup.exe",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/XI-on-Anything-windows-x64-setup.exe",
+                "size": 49038167
+              },
+              {
+                "name": "XI-on-Anything-windows-x64-setup.exe.sig",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/XI-on-Anything-windows-x64-setup.exe.sig",
+                "size": 444
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.app.tar.gz",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/XI-on-Mac-macos-arm64.app.tar.gz",
+                "size": 49849914
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.app.tar.gz.sig",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/XI-on-Mac-macos-arm64.app.tar.gz.sig",
+                "size": 424
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.zip",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/XI-on-Mac-macos-arm64.zip",
+                "size": 50788802
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "XI on Anything 0.2.0",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/tag/v0.2.0",
+            "published_at": "2026-10-03T06:49:01Z",
+            "assets": [
+              {
+                "name": "latest.json",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/latest.json",
+                "size": 1902
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/SHA256SUMS",
+                "size": 714
+              },
+              {
+                "name": "XI-on-Anything-linux-x86_64.AppImage",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/XI-on-Anything-linux-x86_64.AppImage",
+                "size": 128289272
+              },
+              {
+                "name": "XI-on-Anything-linux-x86_64.AppImage.sig",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/XI-on-Anything-linux-x86_64.AppImage.sig",
+                "size": 428
+              },
+              {
+                "name": "XI-on-Anything-windows-x64-setup.exe",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/XI-on-Anything-windows-x64-setup.exe",
+                "size": 49032288
+              },
+              {
+                "name": "XI-on-Anything-windows-x64-setup.exe.sig",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/XI-on-Anything-windows-x64-setup.exe.sig",
+                "size": 444
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.app.tar.gz",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/XI-on-Mac-macos-arm64.app.tar.gz",
+                "size": 49844899
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.app.tar.gz.sig",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/XI-on-Mac-macos-arm64.app.tar.gz.sig",
+                "size": 424
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.zip",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/XI-on-Mac-macos-arm64.zip",
+                "size": 50784551
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Windows build tools 2b53c93af598",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/tag/win-toolchain-2b53c93af598",
+            "published_at": "2026-10-03T03:29:03Z",
+            "assets": [
+              {
+                "name": "xi-win-toolchain-2b53c93af598.tar.gz",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/win-toolchain-2b53c93af598/xi-win-toolchain-2b53c93af598.tar.gz",
+                "size": 124123944
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Linux kit",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/tag/kit-linux",
+            "published_at": "2026-10-03T05:36:12Z",
+            "assets": [
+              {
+                "name": "xi-kit-linux-x86_64.tar.gz",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/kit-linux/xi-kit-linux-x86_64.tar.gz",
+                "size": 27927943
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "XI on Anything 0.1.3",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/tag/v0.1.3",
+            "published_at": "2026-10-02T20:40:48Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.1.3/SHA256SUMS",
+                "size": 92
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.zip",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.1.3/XI-on-Mac-macos-arm64.zip",
+                "size": 50981328
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "XI on Anything 0.1.2",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/tag/v0.1.2",
+            "published_at": "2026-10-02T19:39:03Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.1.2/SHA256SUMS",
+                "size": 92
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.zip",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.1.2/XI-on-Mac-macos-arm64.zip",
+                "size": 50670225
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "XI on Anything 0.1.1",
+            "url": "https://github.com/rubymatrix/xi-on-anything/releases/tag/v0.1.1",
+            "published_at": "2026-10-02T18:27:04Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.1.1/SHA256SUMS",
+                "size": 92
+              },
+              {
+                "name": "XI-on-Mac-macos-arm64.zip",
+                "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.1.1/XI-on-Mac-macos-arm64.zip",
+                "size": 50659123
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "latest.json",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/latest.json",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Anything-linux-x86_64.AppImage",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Anything-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "XI-on-Anything-linux-x86_64.AppImage.sig",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Anything-linux-x86_64.AppImage.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Anything-windows-x64-setup.exe",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Anything-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "XI-on-Anything-windows-x64-setup.exe.sig",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Anything-windows-x64-setup.exe.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.app.tar.gz",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Mac-macos-arm64.app.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.app.tar.gz.sig",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Mac-macos-arm64.app.tar.gz.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.zip",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.4/XI-on-Mac-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "latest.json",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/latest.json",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Anything-linux-x86_64.AppImage",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/XI-on-Anything-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "XI-on-Anything-linux-x86_64.AppImage.sig",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/XI-on-Anything-linux-x86_64.AppImage.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Anything-windows-x64-setup.exe",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/XI-on-Anything-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "XI-on-Anything-windows-x64-setup.exe.sig",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/XI-on-Anything-windows-x64-setup.exe.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.app.tar.gz",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/XI-on-Mac-macos-arm64.app.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.app.tar.gz.sig",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/XI-on-Mac-macos-arm64.app.tar.gz.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.zip",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.3/XI-on-Mac-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "latest.json",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/latest.json",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Anything-linux-x86_64.AppImage",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/XI-on-Anything-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "XI-on-Anything-linux-x86_64.AppImage.sig",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/XI-on-Anything-linux-x86_64.AppImage.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Anything-windows-x64-setup.exe",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/XI-on-Anything-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "XI-on-Anything-windows-x64-setup.exe.sig",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/XI-on-Anything-windows-x64-setup.exe.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.app.tar.gz",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/XI-on-Mac-macos-arm64.app.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.app.tar.gz.sig",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/XI-on-Mac-macos-arm64.app.tar.gz.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.zip",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.2/XI-on-Mac-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "latest.json",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/latest.json",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Anything-linux-x86_64.AppImage",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/XI-on-Anything-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "XI-on-Anything-linux-x86_64.AppImage.sig",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/XI-on-Anything-linux-x86_64.AppImage.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Anything-windows-x64-setup.exe",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/XI-on-Anything-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "XI-on-Anything-windows-x64-setup.exe.sig",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/XI-on-Anything-windows-x64-setup.exe.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.app.tar.gz",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/XI-on-Mac-macos-arm64.app.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.app.tar.gz.sig",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/XI-on-Mac-macos-arm64.app.tar.gz.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.zip",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.1/XI-on-Mac-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "latest.json",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/latest.json",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Anything-linux-x86_64.AppImage",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/XI-on-Anything-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "XI-on-Anything-linux-x86_64.AppImage.sig",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/XI-on-Anything-linux-x86_64.AppImage.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Anything-windows-x64-setup.exe",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/XI-on-Anything-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "XI-on-Anything-windows-x64-setup.exe.sig",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/XI-on-Anything-windows-x64-setup.exe.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.app.tar.gz",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/XI-on-Mac-macos-arm64.app.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.app.tar.gz.sig",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/XI-on-Mac-macos-arm64.app.tar.gz.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.zip",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.2.0/XI-on-Mac-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "xi-win-toolchain-2b53c93af598.tar.gz",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/win-toolchain-2b53c93af598/xi-win-toolchain-2b53c93af598.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "xi-kit-linux-x86_64.tar.gz",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/kit-linux/xi-kit-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.1.3/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.zip",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.1.3/XI-on-Mac-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.1.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.zip",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.1.2/XI-on-Mac-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.1.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "XI-on-Mac-macos-arm64.zip",
+          "url": "https://github.com/rubymatrix/xi-on-anything/releases/download/v0.1.1/XI-on-Mac-macos-arm64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -200,17 +2494,98 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-13T12:34:13.220093+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-10-13T23:41:44.789169+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A fan-made project to bring the classic PS1 rhythm game Bust a Groove to modern platforms through static recompilation, preserving its original gameplay and iconic style.",
+        "latest_release_url": "https://github.com/brankomatija/BustAGrooveRecompiled-Releases/releases/tag/v0.1.0",
+        "latest_release_name": "Bust A Groove Recompiled v0.1.0",
+        "release_assets": [
+          {
+            "name": "BustAGroove-v0.1.0-switch-nro.zip",
+            "url": "https://github.com/brankomatija/BustAGrooveRecompiled-Releases/releases/download/v0.1.0/BustAGroove-v0.1.0-switch-nro.zip",
+            "size": 14288798
+          },
+          {
+            "name": "BustAGroove-v0.1.0-switch.nsp",
+            "url": "https://github.com/brankomatija/BustAGrooveRecompiled-Releases/releases/download/v0.1.0/BustAGroove-v0.1.0-switch.nsp",
+            "size": 18120920
+          },
+          {
+            "name": "BustAGroove-v0.1.0-windows-x64.zip",
+            "url": "https://github.com/brankomatija/BustAGrooveRecompiled-Releases/releases/download/v0.1.0/BustAGroove-v0.1.0-windows-x64.zip",
+            "size": 40270934
+          }
+        ],
+        "releases": [
+          {
+            "name": "Bust A Groove Recompiled v0.1.0",
+            "url": "https://github.com/brankomatija/BustAGrooveRecompiled-Releases/releases/tag/v0.1.0",
+            "published_at": "2026-10-13T02:50:14Z",
+            "assets": [
+              {
+                "name": "BustAGroove-v0.1.0-switch-nro.zip",
+                "url": "https://github.com/brankomatija/BustAGrooveRecompiled-Releases/releases/download/v0.1.0/BustAGroove-v0.1.0-switch-nro.zip",
+                "size": 14288798
+              },
+              {
+                "name": "BustAGroove-v0.1.0-switch.nsp",
+                "url": "https://github.com/brankomatija/BustAGrooveRecompiled-Releases/releases/download/v0.1.0/BustAGroove-v0.1.0-switch.nsp",
+                "size": 18120920
+              },
+              {
+                "name": "BustAGroove-v0.1.0-windows-x64.zip",
+                "url": "https://github.com/brankomatija/BustAGrooveRecompiled-Releases/releases/download/v0.1.0/BustAGroove-v0.1.0-windows-x64.zip",
+                "size": 40270934
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "BustAGroove-v0.1.0-switch-nro.zip",
+          "url": "https://github.com/brankomatija/BustAGrooveRecompiled-Releases/releases/download/v0.1.0/BustAGroove-v0.1.0-switch-nro.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BustAGroove-v0.1.0-switch.nsp",
+          "url": "https://github.com/brankomatija/BustAGrooveRecompiled-Releases/releases/download/v0.1.0/BustAGroove-v0.1.0-switch.nsp",
+          "type": "other_file"
+        },
+        {
+          "name": "BustAGroove-v0.1.0-windows-x64.zip",
+          "url": "https://github.com/brankomatija/BustAGrooveRecompiled-Releases/releases/download/v0.1.0/BustAGroove-v0.1.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -227,7 +2602,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-13T12:34:13.219362+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T23:41:46.263429+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Code shared between recomp ports (native ports made by static recompilation): an in-game overlay menu with no dependencies",
+        "latest_release_url": "https://github.com/tmcleroy/recomp-common/releases/tag/v0.4.0",
+        "latest_release_name": "recomp-common 0.4.0",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "recomp-common 0.4.0",
+            "url": "https://github.com/tmcleroy/recomp-common/releases/tag/v0.4.0",
+            "published_at": "2026-10-13T17:30:38Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {

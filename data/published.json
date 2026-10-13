@@ -1,7 +1,9 @@
 {
   "schema_version": 1,
   "published_ids": [
+    "https://github.com/danielperezl/carspsprecomp",
     "https://github.com/devex780/earthworm-jim-hd-recomp",
+    "https://github.com/jackandbeans/snap64recomp",
     "https://github.com/jessetbh/vpw64recomp",
     "https://github.com/jessetbh/wcwnworevengerecomp",
     "https://github.com/jessetbh/wcwvsnwoworldtourrecomp",
@@ -9,6 +11,8 @@
     "https://github.com/jessetbh/wwfwrestlemania2000recomp",
     "https://github.com/jonathandc64/ffcceot-recomp",
     "https://github.com/kazuyette/rr-decomp",
+    "https://github.com/nathanialf/ico-pc",
+    "https://github.com/nefariousjosiah/wwe-svr2008-recomp",
     "https://github.com/nefariousjosiah/wwe-svr2009-recomp",
     "https://github.com/nefariousjosiah/wwe-svr2010-recomp",
     "https://github.com/pablocpas/opencmr2",
