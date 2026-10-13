@@ -1,16 +1,515 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-13T01:56:42.727508+00:00",
+  "last_updated": "2026-10-13T12:34:35.567544+00:00",
   "candidates": [
     {
-      "title": "abhishekpradhan/warpowers",
-      "url": "https://github.com/abhishekpradhan/warpowers",
-      "source_name": "GitHub: WebAssembly games",
-      "published": "2026-10-12T15:34:18Z",
-      "summary": "War Powers: a free browser real-time strategy game with original content, built on the GeneralsX engine compiled to WebAssembly. Topics: browser-game, emscripten, game, open-source-game, real-time-strategy, rts, webassembly, webgl2",
+      "title": "pablocpas/OpenCMR2",
+      "url": "https://github.com/pablocpas/OpenCMR2",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-13T09:15:51Z",
+      "summary": "Native SDL3 port of Colin McRae Rally 2.0 built from the CMR2Decomp decompilation. No game data included. Topics: cmr2, colin-mcrae-rally, colin-mcrae-rally-2, cpp, cross-platform, decompilation, game-port, linux, macos, metal, native-port, pc-port, racing-game, rally, retro-gaming, reverse-engineering, sdl3, source-port, vulkan, windows",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-13T01:56:29.151334+00:00",
+      "found_at": "2026-10-13T12:34:17.341042+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, source-port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "shihabal3amri/tekken-tag-tournament-2-pc",
+      "url": "https://github.com/shihabal3amri/tekken-tag-tournament-2-pc",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T21:34:02Z",
+      "summary": "Native Windows port of Tekken Tag Tournament 2 (Xbox 360) by static recompilation. Not an emulator. Ships no game data - the installer builds the game from your own disc image and Title Update 3.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:13.224338+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "codepdbh/nfsu2-recompiled",
+      "url": "https://github.com/codepdbh/nfsu2-recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T22:32:11Z",
+      "summary": "Static recompilation of Need for Speed Underground 2 (SPEED2.EXE x86-32 -> C) with pcrecomp. Bring your own game; no game code or data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:13.223633+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Dyotson/RecompiledForzaHorizon",
+      "url": "https://github.com/Dyotson/RecompiledForzaHorizon",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-12T23:24:46Z",
+      "summary": "Native PC port of Forza Horizon (Xbox 360) via static recompilation with ReXGlue. No game code or assets included - bring your own copy. Topics: decompilation, forza, forza-horizon, reverse-engineering, static-recompilation, xbox360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:13.222912+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "lakshya16157/midtown-madness-3-PC-Native",
+      "url": "https://github.com/lakshya16157/midtown-madness-3-PC-Native",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T08:59:09Z",
+      "summary": "Midtown Madness 3 PC Native: an improved and modded MM3 PC port for Windows 10/11 x64. Xbox static recompilation with Direct3D 11, keyboard controls, widescreen, custom cars, gameplay fixes and performance improvements. Build from your own game disc. Topics: arcade-racing, custom-cars, direct3d11, game-mods, keyboard-controls, midtown-madness, midtown-madness-3, mm3, mm3-mods, mm3-recomp, modding, native-pc-port, pc-gaming, performance, shader-cache, static-recompilation, widescreen, windows, windows-11, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:13.221834+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, gameplay, windows"
+      ]
+    },
+    {
+      "title": "rubymatrix/xi-on-anything",
+      "url": "https://github.com/rubymatrix/xi-on-anything",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T01:13:51Z",
+      "summary": "Static recompilation of FINAL FANTASY XI's FFXiMain.dll (and FFXi.dll) from 32-bit x86 to C, so the game runs natively on arm64 macOS without Wine or Rosetta",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:13.220799+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "brankomatija/BustAGrooveRecompiled-Releases",
+      "url": "https://github.com/brankomatija/BustAGrooveRecompiled-Releases",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T02:50:14Z",
+      "summary": "A fan-made project to bring the classic PS1 rhythm game Bust a Groove to modern platforms through static recompilation, preserving its original gameplay and iconic style.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:13.220093+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, gameplay"
+      ]
+    },
+    {
+      "title": "tmcleroy/recomp-common",
+      "url": "https://github.com/tmcleroy/recomp-common",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T07:19:39Z",
+      "summary": "Code shared between recomp ports (native ports made by static recompilation): an in-game overlay menu with no dependencies Topics: cpp17, game-port, recompilation, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:13.219362+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Unowa001/crackdown-recomp",
+      "url": "https://github.com/Unowa001/crackdown-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T05:57:57Z",
+      "summary": "Unofficial native PC port of Crackdown (Xbox 360) via static recompilation - beta releases and setup guide. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:13.218694+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Dr3amyBerry/callofrecomp",
+      "url": "https://github.com/Dr3amyBerry/callofrecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T06:05:39Z",
+      "summary": "Experimental static recompilation of classic Call of Duty 1.5 for Android. Bring your own original PC game files. Topics: android, c-language, call-of-duty, game-porting, game-preservation, retro-gaming, reverse-engineering, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:13.217977+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "ReFraX32/Baja1000-Xbox360-Recomp",
+      "url": "https://github.com/ReFraX32/Baja1000-Xbox360-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T06:21:36Z",
+      "summary": "ReXGlue Static recompilation of Score International Baja 1000 (Xbox 360 version) for PC. Does not include game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:13.217248+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "BigDaddyJRich/hctp-recomp",
+      "url": "https://github.com/BigDaddyJRich/hctp-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T09:53:58Z",
+      "summary": "WWE SmackDown! Here Comes the Pain (PS2) static recompilation for PC - work in progress. Bring your own disc; no game code or files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:13.216594+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "sp00nznet/streetsofsimcity",
+      "url": "https://github.com/sp00nznet/streetsofsimcity",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T11:13:58Z",
+      "summary": "Static recompilation of Streets of SimCity (Maxis, 1997), Win32. Drives the city on the software renderer. Built on pcrecomp. Bring your own copy; no game files included. Topics: maxis, pcrecomp, recompilation, static-recompilation, streets-of-simcity, win32",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:13.215838+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "tmcleroy/vampire-savior-recomp",
+      "url": "https://github.com/tmcleroy/vampire-savior-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T11:27:29Z",
+      "summary": "Unofficial native PC port of Vampire Savior (CPS-2 arcade) via static recompilation, with a training mode: macOS, Linux, Steam Deck, Windows. Requires your own copy of the game. Beta. Topics: arcade, cps2, fighting-game, game-port, pc-port, recompilation, static-recompilation, steam-deck, training-mode",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:13.214917+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Gumpolas/TooTawersRecomp",
+      "url": "https://github.com/Gumpolas/TooTawersRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-13T12:33:24Z",
+      "summary": "A native Windows PC port of The Lord of the Rings: The Two Towers (Xbox, USA, 2002), made by static recompilation. It needs your own copy of the game, either the disc image (ISO) or an extracted folder. No game data is included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:13.213985+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "jlagedo/dreams-to-reality-re",
+      "url": "https://github.com/jlagedo/dreams-to-reality-re",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-13T06:27:34Z",
+      "summary": "Static recompilation of Dreams to Reality (Cryo, 1997) for modern PCs: the Windows game lifted to C, with a GPU renderer, SDL3, a disc-image launcher, smooth motion, Cryo's restored level editor and a browser demo. Bring your own discs. Topics: cryo-interactive, dreams-to-reality, game-preservation, ghidra, pcrecomp, recompilation, retrocomputing, reverse-engineering, sdl3, static-recompilation, watcom, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:08.944188+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, windows"
+      ]
+    },
+    {
+      "title": "chiikabu/the-browsing-of-isaac",
+      "url": "https://github.com/chiikabu/the-browsing-of-isaac",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-13T07:01:41Z",
+      "summary": "The Binding of Isaac: Repentance+ recompiled to WebAssembly, playable in the browser. Topics: binding-of-isaac, browser-game, emscripten, game, game-development, game-port, games, mobile-game, port, repentance, static-recompilation, tboi, the-binding-of-isaac, the-binding-of-isaac-rebirth, touch-controls, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:08.942174+00:00",
       "check": null,
       "category": "browser",
       "platforms_guess": [
@@ -20,7 +519,7 @@
         "browser_terms": [
           "browser",
           "webassembly",
-          "webgl"
+          "wasm"
         ],
         "android_terms": [],
         "pc_terms": [],
@@ -30,23 +529,22 @@
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
       ],
-      "relevance_score": 4,
-      "relevance_status": "possible",
+      "relevance_score": 9,
+      "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть игровые/платформенные признаки: game, webassembly",
-        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
-        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable, webassembly, wasm"
       ]
     },
     {
-      "title": "kylerharris730-source/crucible",
-      "url": "https://github.com/kylerharris730-source/crucible",
+      "title": "dzhng/battlesim",
+      "url": "https://github.com/dzhng/battlesim",
       "source_name": "GitHub: WebAssembly games",
-      "published": "2026-10-12T18:17:48Z",
-      "summary": "Cinderlift - a falling-sand sandbox with real heat, pressure, fluids and circuits, on a planet you are trying to leave. Plays free in the browser. Topics: cellular-automata, cpp, emscripten, falling-sand, game, gamedev, indie-game, physics-simulation, procedural-generation, sandbox-game, simulation-game, webassembly",
+      "published": "2026-10-13T07:37:05Z",
+      "summary": "Armata is a browser real-time tactics game built with Rust, WebAssembly, and WebGPU. Topics: browser-game, real-time-strategy, rust, vite, webassembly, webgpu",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-13T01:56:29.150353+00:00",
+      "found_at": "2026-10-13T12:34:08.941352+00:00",
       "check": null,
       "category": "browser",
       "platforms_guess": [
@@ -74,6 +572,910 @@
       ]
     },
     {
+      "title": "lukashold/openepoch",
+      "url": "https://github.com/lukashold/openepoch",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-13T08:05:24Z",
+      "summary": "Free open-source browser RTS spanning six epochs, from clubmen to nuclear submarines. Rust + WebAssembly + WebGL2, thousands of units at 60 fps. Topics: browser-game, game, html5-game, open-source-game, rts, rust, strategy-game, wasm, webassembly, webgl2",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:08.940588+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl",
+          "html5",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm, html5",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "coko7/tuxtrivia",
+      "url": "https://github.com/coko7/tuxtrivia",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-13T08:10:00Z",
+      "summary": "🐧 Web trivia game about famous computer scientists. Built with Rust + Leptos (WASM) frontend. Topics: browser-game, computer-history, computer-science, docker, leptos, quiz-game, rust, self-hosted, trivia, trunk, wasm, webassembly, wikimedia-commons",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:08.939156+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "matteo-pacini/theme-hospital-enhanced",
+      "url": "https://github.com/matteo-pacini/theme-hospital-enhanced",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-13T12:33:05Z",
+      "summary": "Theme Hospital (1997) rebuilt in C++20 from a matching decompilation: any resolution, on Windows, macOS, Linux and in the browser. Bring your own copy of the game. Topics: bullfrog, cpp20, decompilation, dos, game-engine, game-preservation, matching-decompilation, nix-flake, retro-gaming, reverse-engineering, sdl3, theme-hospital, watcom, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:08.935104+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, windows, linux"
+      ]
+    },
+    {
+      "title": "billpeet/stranded2-web",
+      "url": "https://github.com/billpeet/stranded2-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-13T06:21:06Z",
+      "summary": "Unofficial browser port of Stranded II (Unreal Software) in TypeScript/Three.js. Non-commercial, CC BY-NC-SA 3.0 DE. Game data not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:04.478825+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "dragoonant/not-enough-minerals",
+      "url": "https://github.com/dragoonant/not-enough-minerals",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-13T12:21:10Z",
+      "summary": "Not Enough Minerals - unofficial fan browser port of StarCraft: Tabletop Miniatures Game, player vs AI. Not affiliated with Archon Studio or Blizzard Entertainment.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T12:34:04.478125+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "abhishekpradhan/warpowers",
+      "url": "https://github.com/abhishekpradhan/warpowers",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-12T15:34:18Z",
+      "summary": "War Powers: a free browser real-time strategy game with original content, built on the GeneralsX engine compiled to WebAssembly. Topics: browser-game, emscripten, game, open-source-game, real-time-strategy, rts, webassembly, webgl2",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T01:56:29.151334+00:00",
+      "check": {
+        "checked_at": "2026-10-13T12:34:22.263021+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "War Powers: a free browser real-time strategy game with original content, built on the GeneralsX engine compiled to WebAssembly.",
+        "latest_release_url": "https://github.com/abhishekpradhan/warpowers/releases/tag/v0.1.4",
+        "latest_release_name": "War Powers 0.1.4",
+        "release_assets": [
+          {
+            "name": "warpowers-0.1.4-web-bundle.zip",
+            "url": "https://github.com/abhishekpradhan/warpowers/releases/download/v0.1.4/warpowers-0.1.4-web-bundle.zip",
+            "size": 38946361
+          }
+        ],
+        "releases": [
+          {
+            "name": "War Powers 0.1.4",
+            "url": "https://github.com/abhishekpradhan/warpowers/releases/tag/v0.1.4",
+            "published_at": "2026-09-26T16:23:22Z",
+            "assets": [
+              {
+                "name": "warpowers-0.1.4-web-bundle.zip",
+                "url": "https://github.com/abhishekpradhan/warpowers/releases/download/v0.1.4/warpowers-0.1.4-web-bundle.zip",
+                "size": 38946361
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "War Powers 0.1.3",
+            "url": "https://github.com/abhishekpradhan/warpowers/releases/tag/v0.1.3",
+            "published_at": "2026-09-09T18:18:50Z",
+            "assets": [
+              {
+                "name": "warpowers-0.1.3-web-bundle.zip",
+                "url": "https://github.com/abhishekpradhan/warpowers/releases/download/v0.1.3/warpowers-0.1.3-web-bundle.zip",
+                "size": 38940217
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "War Powers 0.1.2",
+            "url": "https://github.com/abhishekpradhan/warpowers/releases/tag/v0.1.2",
+            "published_at": "2026-09-09T18:01:04Z",
+            "assets": [
+              {
+                "name": "warpowers-0.1.2-web-bundle.zip",
+                "url": "https://github.com/abhishekpradhan/warpowers/releases/download/v0.1.2/warpowers-0.1.2-web-bundle.zip",
+                "size": 38939463
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "War Powers 0.1.1",
+            "url": "https://github.com/abhishekpradhan/warpowers/releases/tag/v0.1.1",
+            "published_at": "2026-09-09T17:34:46Z",
+            "assets": [
+              {
+                "name": "warpowers-0.1.1-web-bundle.zip",
+                "url": "https://github.com/abhishekpradhan/warpowers/releases/download/v0.1.1/warpowers-0.1.1-web-bundle.zip",
+                "size": 38938167
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "War Powers 0.1.0",
+            "url": "https://github.com/abhishekpradhan/warpowers/releases/tag/v0.1.0",
+            "published_at": "2026-09-09T15:49:55Z",
+            "assets": [
+              {
+                "name": "warpowers-0.1.0-web-bundle.zip",
+                "url": "https://github.com/abhishekpradhan/warpowers/releases/download/v0.1.0/warpowers-0.1.0-web-bundle.zip",
+                "size": 38821341
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "warpowers-0.1.4-web-bundle.zip",
+          "url": "https://github.com/abhishekpradhan/warpowers/releases/download/v0.1.4/warpowers-0.1.4-web-bundle.zip",
+          "type": "archive"
+        },
+        {
+          "name": "warpowers-0.1.3-web-bundle.zip",
+          "url": "https://github.com/abhishekpradhan/warpowers/releases/download/v0.1.3/warpowers-0.1.3-web-bundle.zip",
+          "type": "archive"
+        },
+        {
+          "name": "warpowers-0.1.2-web-bundle.zip",
+          "url": "https://github.com/abhishekpradhan/warpowers/releases/download/v0.1.2/warpowers-0.1.2-web-bundle.zip",
+          "type": "archive"
+        },
+        {
+          "name": "warpowers-0.1.1-web-bundle.zip",
+          "url": "https://github.com/abhishekpradhan/warpowers/releases/download/v0.1.1/warpowers-0.1.1-web-bundle.zip",
+          "type": "archive"
+        },
+        {
+          "name": "warpowers-0.1.0-web-bundle.zip",
+          "url": "https://github.com/abhishekpradhan/warpowers/releases/download/v0.1.0/warpowers-0.1.0-web-bundle.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "kylerharris730-source/crucible",
+      "url": "https://github.com/kylerharris730-source/crucible",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-12T18:17:48Z",
+      "summary": "Cinderlift - a falling-sand sandbox with real heat, pressure, fluids and circuits, on a planet you are trying to leave. Plays free in the browser. Topics: cellular-automata, cpp, emscripten, falling-sand, game, gamedev, indie-game, physics-simulation, procedural-generation, sandbox-game, simulation-game, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T01:56:29.150353+00:00",
+      "check": {
+        "checked_at": "2026-10-13T12:34:23.980703+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Cinderlift - a falling-sand sandbox with real heat, pressure, fluids and circuits, on a planet you are trying to leave. Plays free in the browser.",
+        "latest_release_url": "https://github.com/kylerharris730-source/crucible/releases/tag/v0.7.0",
+        "latest_release_name": "Cinderlift v0.7.0",
+        "release_assets": [
+          {
+            "name": "cinderlift-launcher.exe",
+            "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.7.0/cinderlift-launcher.exe",
+            "size": 662778
+          },
+          {
+            "name": "cinderlift-manifest.txt",
+            "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.7.0/cinderlift-manifest.txt",
+            "size": 392
+          },
+          {
+            "name": "cinderlift.exe",
+            "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.7.0/cinderlift.exe",
+            "size": 9567353
+          },
+          {
+            "name": "crucible-manifest.txt",
+            "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.7.0/crucible-manifest.txt",
+            "size": 392
+          }
+        ],
+        "releases": [
+          {
+            "name": "Cinderlift v0.7.0",
+            "url": "https://github.com/kylerharris730-source/crucible/releases/tag/v0.7.0",
+            "published_at": "2026-09-27T22:51:19Z",
+            "assets": [
+              {
+                "name": "cinderlift-launcher.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.7.0/cinderlift-launcher.exe",
+                "size": 662778
+              },
+              {
+                "name": "cinderlift-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.7.0/cinderlift-manifest.txt",
+                "size": 392
+              },
+              {
+                "name": "cinderlift.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.7.0/cinderlift.exe",
+                "size": 9567353
+              },
+              {
+                "name": "crucible-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.7.0/crucible-manifest.txt",
+                "size": 392
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cinderlift v0.6.19",
+            "url": "https://github.com/kylerharris730-source/crucible/releases/tag/v0.6.19",
+            "published_at": "2026-09-27T03:02:35Z",
+            "assets": [
+              {
+                "name": "cinderlift-launcher.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.19/cinderlift-launcher.exe",
+                "size": 662778
+              },
+              {
+                "name": "cinderlift-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.19/cinderlift-manifest.txt",
+                "size": 395
+              },
+              {
+                "name": "cinderlift.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.19/cinderlift.exe",
+                "size": 9556433
+              },
+              {
+                "name": "crucible-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.19/crucible-manifest.txt",
+                "size": 395
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cinderlift v0.6.18",
+            "url": "https://github.com/kylerharris730-source/crucible/releases/tag/v0.6.18",
+            "published_at": "2026-09-27T02:15:45Z",
+            "assets": [
+              {
+                "name": "cinderlift-launcher.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.18/cinderlift-launcher.exe",
+                "size": 662778
+              },
+              {
+                "name": "cinderlift-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.18/cinderlift-manifest.txt",
+                "size": 395
+              },
+              {
+                "name": "cinderlift.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.18/cinderlift.exe",
+                "size": 9553189
+              },
+              {
+                "name": "crucible-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.18/crucible-manifest.txt",
+                "size": 395
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cinderlift v0.6.17",
+            "url": "https://github.com/kylerharris730-source/crucible/releases/tag/v0.6.17",
+            "published_at": "2026-09-26T17:36:03Z",
+            "assets": [
+              {
+                "name": "cinderlift-launcher.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.17/cinderlift-launcher.exe",
+                "size": 662778
+              },
+              {
+                "name": "cinderlift-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.17/cinderlift-manifest.txt",
+                "size": 395
+              },
+              {
+                "name": "cinderlift.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.17/cinderlift.exe",
+                "size": 9549459
+              },
+              {
+                "name": "crucible-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.17/crucible-manifest.txt",
+                "size": 395
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cinderlift v0.6.16",
+            "url": "https://github.com/kylerharris730-source/crucible/releases/tag/v0.6.16",
+            "published_at": "2026-09-25T01:45:42Z",
+            "assets": [
+              {
+                "name": "cinderlift-launcher.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.16/cinderlift-launcher.exe",
+                "size": 662778
+              },
+              {
+                "name": "cinderlift-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.16/cinderlift-manifest.txt",
+                "size": 395
+              },
+              {
+                "name": "cinderlift.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.16/cinderlift.exe",
+                "size": 9574491
+              },
+              {
+                "name": "crucible-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.16/crucible-manifest.txt",
+                "size": 395
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cinderlift v0.6.15",
+            "url": "https://github.com/kylerharris730-source/crucible/releases/tag/v0.6.15",
+            "published_at": "2026-09-24T21:17:56Z",
+            "assets": [
+              {
+                "name": "cinderlift-launcher.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.15/cinderlift-launcher.exe",
+                "size": 662778
+              },
+              {
+                "name": "cinderlift-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.15/cinderlift-manifest.txt",
+                "size": 395
+              },
+              {
+                "name": "cinderlift.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.15/cinderlift.exe",
+                "size": 9585243
+              },
+              {
+                "name": "crucible-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.15/crucible-manifest.txt",
+                "size": 395
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cinderlift v0.6.14",
+            "url": "https://github.com/kylerharris730-source/crucible/releases/tag/v0.6.14",
+            "published_at": "2026-09-24T20:47:52Z",
+            "assets": [
+              {
+                "name": "cinderlift-launcher.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.14/cinderlift-launcher.exe",
+                "size": 662778
+              },
+              {
+                "name": "cinderlift-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.14/cinderlift-manifest.txt",
+                "size": 395
+              },
+              {
+                "name": "cinderlift.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.14/cinderlift.exe",
+                "size": 9586188
+              },
+              {
+                "name": "crucible-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.14/crucible-manifest.txt",
+                "size": 395
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cinderlift v0.6.13",
+            "url": "https://github.com/kylerharris730-source/crucible/releases/tag/v0.6.13",
+            "published_at": "2026-09-24T20:42:37Z",
+            "assets": [
+              {
+                "name": "cinderlift-launcher.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.13/cinderlift-launcher.exe",
+                "size": 662778
+              },
+              {
+                "name": "cinderlift-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.13/cinderlift-manifest.txt",
+                "size": 395
+              },
+              {
+                "name": "cinderlift.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.13/cinderlift.exe",
+                "size": 9586188
+              },
+              {
+                "name": "crucible-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.13/crucible-manifest.txt",
+                "size": 395
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cinderlift v0.6.12",
+            "url": "https://github.com/kylerharris730-source/crucible/releases/tag/v0.6.12",
+            "published_at": "2026-09-24T20:13:18Z",
+            "assets": [
+              {
+                "name": "cinderlift-launcher.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.12/cinderlift-launcher.exe",
+                "size": 662778
+              },
+              {
+                "name": "cinderlift-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.12/cinderlift-manifest.txt",
+                "size": 395
+              },
+              {
+                "name": "cinderlift.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.12/cinderlift.exe",
+                "size": 9585676
+              },
+              {
+                "name": "crucible-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.12/crucible-manifest.txt",
+                "size": 395
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Cinderlift v0.6.11",
+            "url": "https://github.com/kylerharris730-source/crucible/releases/tag/v0.6.11",
+            "published_at": "2026-09-24T04:51:05Z",
+            "assets": [
+              {
+                "name": "cinderlift-launcher.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.11/cinderlift-launcher.exe",
+                "size": 662778
+              },
+              {
+                "name": "cinderlift-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.11/cinderlift-manifest.txt",
+                "size": 395
+              },
+              {
+                "name": "cinderlift.exe",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.11/cinderlift.exe",
+                "size": 9557400
+              },
+              {
+                "name": "crucible-manifest.txt",
+                "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.11/crucible-manifest.txt",
+                "size": 395
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "cinderlift-launcher.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.7.0/cinderlift-launcher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "cinderlift-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.7.0/cinderlift-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.7.0/cinderlift.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "crucible-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.7.0/crucible-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift-launcher.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.19/cinderlift-launcher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "cinderlift-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.19/cinderlift-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.19/cinderlift.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "crucible-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.19/crucible-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift-launcher.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.18/cinderlift-launcher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "cinderlift-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.18/cinderlift-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.18/cinderlift.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "crucible-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.18/crucible-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift-launcher.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.17/cinderlift-launcher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "cinderlift-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.17/cinderlift-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.17/cinderlift.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "crucible-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.17/crucible-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift-launcher.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.16/cinderlift-launcher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "cinderlift-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.16/cinderlift-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.16/cinderlift.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "crucible-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.16/crucible-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift-launcher.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.15/cinderlift-launcher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "cinderlift-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.15/cinderlift-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.15/cinderlift.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "crucible-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.15/crucible-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift-launcher.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.14/cinderlift-launcher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "cinderlift-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.14/cinderlift-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.14/cinderlift.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "crucible-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.14/crucible-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift-launcher.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.13/cinderlift-launcher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "cinderlift-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.13/cinderlift-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.13/cinderlift.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "crucible-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.13/crucible-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift-launcher.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.12/cinderlift-launcher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "cinderlift-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.12/cinderlift-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.12/cinderlift.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "crucible-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.12/crucible-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift-launcher.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.11/cinderlift-launcher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "cinderlift-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.11/cinderlift-manifest.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "cinderlift.exe",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.11/cinderlift.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "crucible-manifest.txt",
+          "url": "https://github.com/kylerharris730-source/crucible/releases/download/v0.6.11/crucible-manifest.txt",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
       "title": "sacha9214/subway-coinless",
       "url": "https://github.com/sacha9214/subway-coinless",
       "source_name": "GitHub: WebAssembly games",
@@ -82,7 +1484,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-13T01:56:29.149723+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T12:34:25.685653+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Subway Surfers upside down: touch one coin and the run is over. Playable in the browser.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -117,7 +1536,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-13T01:56:29.149149+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T12:34:27.209745+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Browser-based flight and dogfighting game over Istanbul, Rust/WebAssembly physics core with Three.js rendering.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -153,7 +1589,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-13T01:56:29.148437+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T12:34:28.687705+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Theme Hospital (1997) rebuilt in C++20 from a matching decompilation: any resolution, on Windows, macOS, Linux and in the browser. Bring your own copy of the game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -192,7 +1645,281 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-13T01:56:29.147395+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T12:34:30.669562+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Play Morrowind in your browser — the OpenMW engine compiled to WebAssembly, now with multiplayer and a cloud locker for your own game data.",
+        "latest_release_url": "https://github.com/Virtastic/openmw-web/releases/tag/v1.5.1",
+        "latest_release_name": "OpenMW-Web v1.5.1 — by Virtastic",
+        "release_assets": [
+          {
+            "name": "openmw-web-src-v1.5.1.tar.gz",
+            "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.5.1/openmw-web-src-v1.5.1.tar.gz",
+            "size": 11151666
+          },
+          {
+            "name": "openmw-web-v1.5.1.zip",
+            "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.5.1/openmw-web-v1.5.1.zip",
+            "size": 155498059
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.5.1/SHA256SUMS",
+            "size": 183
+          }
+        ],
+        "releases": [
+          {
+            "name": "OpenMW-Web v1.5.1 — by Virtastic",
+            "url": "https://github.com/Virtastic/openmw-web/releases/tag/v1.5.1",
+            "published_at": "2026-10-12T21:09:22Z",
+            "assets": [
+              {
+                "name": "openmw-web-src-v1.5.1.tar.gz",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.5.1/openmw-web-src-v1.5.1.tar.gz",
+                "size": 11151666
+              },
+              {
+                "name": "openmw-web-v1.5.1.zip",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.5.1/openmw-web-v1.5.1.zip",
+                "size": 155498059
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.5.1/SHA256SUMS",
+                "size": 183
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "OpenMW-Web v1.5.0 — by Virtastic",
+            "url": "https://github.com/Virtastic/openmw-web/releases/tag/v1.5.0",
+            "published_at": "2026-09-30T15:43:38Z",
+            "assets": [
+              {
+                "name": "openmw-web-src-v1.5.0.tar.gz",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.5.0/openmw-web-src-v1.5.0.tar.gz",
+                "size": 11145272
+              },
+              {
+                "name": "openmw-web-v1.5.0.zip",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.5.0/openmw-web-v1.5.0.zip",
+                "size": 155496839
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.5.0/SHA256SUMS",
+                "size": 183
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "OpenMW-Web v1.4.1 — by Virtastic",
+            "url": "https://github.com/Virtastic/openmw-web/releases/tag/v1.4.1",
+            "published_at": "2026-09-22T22:41:48Z",
+            "assets": [
+              {
+                "name": "openmw-web-src-v1.4.1.tar.gz",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.4.1/openmw-web-src-v1.4.1.tar.gz",
+                "size": 10971355
+              },
+              {
+                "name": "openmw-web-v1.4.1.zip",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.4.1/openmw-web-v1.4.1.zip",
+                "size": 155447353
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.4.1/SHA256SUMS",
+                "size": 183
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "OpenMW-Web v1.4.0 — by Virtastic",
+            "url": "https://github.com/Virtastic/openmw-web/releases/tag/v1.4.0",
+            "published_at": "2026-09-22T13:46:29Z",
+            "assets": [
+              {
+                "name": "openmw-web-src-v1.4.0.tar.gz",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.4.0/openmw-web-src-v1.4.0.tar.gz",
+                "size": 10967081
+              },
+              {
+                "name": "openmw-web-v1.4.0.zip",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.4.0/openmw-web-v1.4.0.zip",
+                "size": 155449941
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.4.0/SHA256SUMS",
+                "size": 183
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "OpenMW-Web v1.3.4 — by Virtastic",
+            "url": "https://github.com/Virtastic/openmw-web/releases/tag/v1.3.4",
+            "published_at": "2026-09-08T23:51:28Z",
+            "assets": [
+              {
+                "name": "openmw-web-src-v1.3.4.tar.gz",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.4/openmw-web-src-v1.3.4.tar.gz",
+                "size": 10427500
+              },
+              {
+                "name": "openmw-web-v1.3.4.zip",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.4/openmw-web-v1.3.4.zip",
+                "size": 155259707
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.4/SHA256SUMS",
+                "size": 183
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "OpenMW-Web v1.3.3 — by Virtastic",
+            "url": "https://github.com/Virtastic/openmw-web/releases/tag/v1.3.3",
+            "published_at": "2026-09-08T11:11:28Z",
+            "assets": [
+              {
+                "name": "openmw-web-src-v1.3.3.tar.gz",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.3/openmw-web-src-v1.3.3.tar.gz",
+                "size": 10416549
+              },
+              {
+                "name": "openmw-web-v1.3.3.zip",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.3/openmw-web-v1.3.3.zip",
+                "size": 155257889
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.3/SHA256SUMS",
+                "size": 183
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "OpenMW-Web v1.3.2 — by Virtastic",
+            "url": "https://github.com/Virtastic/openmw-web/releases/tag/v1.3.2",
+            "published_at": "2026-09-07T17:26:54Z",
+            "assets": [
+              {
+                "name": "openmw-web-src-v1.3.2.tar.gz",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.2/openmw-web-src-v1.3.2.tar.gz",
+                "size": 10392798
+              },
+              {
+                "name": "openmw-web-v1.3.2.zip",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.2/openmw-web-v1.3.2.zip",
+                "size": 155251978
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.2/SHA256SUMS",
+                "size": 183
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "OpenMW-Web v1.3.1 — by Virtastic",
+            "url": "https://github.com/Virtastic/openmw-web/releases/tag/v1.3.1",
+            "published_at": "2026-09-06T17:21:06Z",
+            "assets": [
+              {
+                "name": "openmw-web-src-v1.3.1.tar.gz",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.1/openmw-web-src-v1.3.1.tar.gz",
+                "size": 10355114
+              },
+              {
+                "name": "openmw-web-v1.3.1.zip",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.1/openmw-web-v1.3.1.zip",
+                "size": 155256879
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.1/SHA256SUMS",
+                "size": 183
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "OpenMW-Web v1.3.0 — by Virtastic",
+            "url": "https://github.com/Virtastic/openmw-web/releases/tag/v1.3.0",
+            "published_at": "2026-09-05T04:04:01Z",
+            "assets": [
+              {
+                "name": "openmw-web-src-v1.3.0.tar.gz",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.0/openmw-web-src-v1.3.0.tar.gz",
+                "size": 10341129
+              },
+              {
+                "name": "openmw-web-v1.3.0.zip",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.0/openmw-web-v1.3.0.zip",
+                "size": 155269128
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.0/SHA256SUMS",
+                "size": 183
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "OpenMW-Web v1.2.0 — by Virtastic",
+            "url": "https://github.com/Virtastic/openmw-web/releases/tag/v1.2.0",
+            "published_at": "2026-09-01T17:33:56Z",
+            "assets": [
+              {
+                "name": "openmw-web-src-v1.2.0.tar.gz",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.2.0/openmw-web-src-v1.2.0.tar.gz",
+                "size": 10290791
+              },
+              {
+                "name": "openmw-web-v1.2.0.zip",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.2.0/openmw-web-v1.2.0.zip",
+                "size": 155242464
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.2.0/SHA256SUMS",
+                "size": 183
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -208,9 +1935,161 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "openmw-web-src-v1.5.1.tar.gz",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.5.1/openmw-web-src-v1.5.1.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "openmw-web-v1.5.1.zip",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.5.1/openmw-web-v1.5.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.5.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "openmw-web-src-v1.5.0.tar.gz",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.5.0/openmw-web-src-v1.5.0.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "openmw-web-v1.5.0.zip",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.5.0/openmw-web-v1.5.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.5.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "openmw-web-src-v1.4.1.tar.gz",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.4.1/openmw-web-src-v1.4.1.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "openmw-web-v1.4.1.zip",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.4.1/openmw-web-v1.4.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.4.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "openmw-web-src-v1.4.0.tar.gz",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.4.0/openmw-web-src-v1.4.0.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "openmw-web-v1.4.0.zip",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.4.0/openmw-web-v1.4.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.4.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "openmw-web-src-v1.3.4.tar.gz",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.4/openmw-web-src-v1.3.4.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "openmw-web-v1.3.4.zip",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.4/openmw-web-v1.3.4.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.4/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "openmw-web-src-v1.3.3.tar.gz",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.3/openmw-web-src-v1.3.3.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "openmw-web-v1.3.3.zip",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.3/openmw-web-v1.3.3.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.3/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "openmw-web-src-v1.3.2.tar.gz",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.2/openmw-web-src-v1.3.2.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "openmw-web-v1.3.2.zip",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.2/openmw-web-v1.3.2.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "openmw-web-src-v1.3.1.tar.gz",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.1/openmw-web-src-v1.3.1.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "openmw-web-v1.3.1.zip",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.1/openmw-web-v1.3.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "openmw-web-src-v1.3.0.tar.gz",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.0/openmw-web-src-v1.3.0.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "openmw-web-v1.3.0.zip",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.0/openmw-web-v1.3.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.3.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "openmw-web-src-v1.2.0.tar.gz",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.2.0/openmw-web-src-v1.2.0.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "openmw-web-v1.2.0.zip",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.2.0/openmw-web-v1.2.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/Virtastic/openmw-web/releases/download/v1.2.0/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "possible",
@@ -229,7 +2108,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-13T01:56:29.145464+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T12:34:32.394026+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Blockyard: an open-source multiplayer game platform for the browser. Rust/WebAssembly voxel engine, three.js renderer, authoritative server with client prediction. A game is a few TypeScript files: 9 included, from a CoD-style shooter to Bed Wars. Discord sign-in, private lobbies, achievements.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -265,7 +2161,181 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-13T01:56:29.144088+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T12:34:33.895294+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A cycle-accurate Game Boy and Game Boy Color emulator written in Rust that runs on the desktop and in the browser.",
+        "latest_release_url": "https://github.com/mschoenm/nubo/releases/tag/v0.4.0",
+        "latest_release_name": "Nubo 0.4.0",
+        "release_assets": [
+          {
+            "name": "Nubo-linux-aarch64.flatpak",
+            "url": "https://github.com/mschoenm/nubo/releases/download/v0.4.0/Nubo-linux-aarch64.flatpak",
+            "size": 7041432
+          },
+          {
+            "name": "Nubo-linux-x86_64.flatpak",
+            "url": "https://github.com/mschoenm/nubo/releases/download/v0.4.0/Nubo-linux-x86_64.flatpak",
+            "size": 7976976
+          },
+          {
+            "name": "Nubo-windows-x64-setup.exe",
+            "url": "https://github.com/mschoenm/nubo/releases/download/v0.4.0/Nubo-windows-x64-setup.exe",
+            "size": 8736743
+          },
+          {
+            "name": "Nubo-windows-x64.zip",
+            "url": "https://github.com/mschoenm/nubo/releases/download/v0.4.0/Nubo-windows-x64.zip",
+            "size": 9517499
+          }
+        ],
+        "releases": [
+          {
+            "name": "Nubo 0.4.0",
+            "url": "https://github.com/mschoenm/nubo/releases/tag/v0.4.0",
+            "published_at": "2026-10-13T12:27:59Z",
+            "assets": [
+              {
+                "name": "Nubo-linux-aarch64.flatpak",
+                "url": "https://github.com/mschoenm/nubo/releases/download/v0.4.0/Nubo-linux-aarch64.flatpak",
+                "size": 7041432
+              },
+              {
+                "name": "Nubo-linux-x86_64.flatpak",
+                "url": "https://github.com/mschoenm/nubo/releases/download/v0.4.0/Nubo-linux-x86_64.flatpak",
+                "size": 7976976
+              },
+              {
+                "name": "Nubo-windows-x64-setup.exe",
+                "url": "https://github.com/mschoenm/nubo/releases/download/v0.4.0/Nubo-windows-x64-setup.exe",
+                "size": 8736743
+              },
+              {
+                "name": "Nubo-windows-x64.zip",
+                "url": "https://github.com/mschoenm/nubo/releases/download/v0.4.0/Nubo-windows-x64.zip",
+                "size": 9517499
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Nubo 0.3.0",
+            "url": "https://github.com/mschoenm/nubo/releases/tag/v0.3.0",
+            "published_at": "2026-10-13T10:08:02Z",
+            "assets": [
+              {
+                "name": "Nubo-linux-aarch64.flatpak",
+                "url": "https://github.com/mschoenm/nubo/releases/download/v0.3.0/Nubo-linux-aarch64.flatpak",
+                "size": 7001104
+              },
+              {
+                "name": "Nubo-linux-x86_64.flatpak",
+                "url": "https://github.com/mschoenm/nubo/releases/download/v0.3.0/Nubo-linux-x86_64.flatpak",
+                "size": 7929352
+              },
+              {
+                "name": "Nubo-windows-x64-setup.exe",
+                "url": "https://github.com/mschoenm/nubo/releases/download/v0.3.0/Nubo-windows-x64-setup.exe",
+                "size": 8692368
+              },
+              {
+                "name": "Nubo-windows-x64.zip",
+                "url": "https://github.com/mschoenm/nubo/releases/download/v0.3.0/Nubo-windows-x64.zip",
+                "size": 9439343
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Nubo 0.2.0",
+            "url": "https://github.com/mschoenm/nubo/releases/tag/v0.2.0",
+            "published_at": "2026-10-13T08:45:05Z",
+            "assets": [
+              {
+                "name": "Nubo-linux-aarch64.flatpak",
+                "url": "https://github.com/mschoenm/nubo/releases/download/v0.2.0/Nubo-linux-aarch64.flatpak",
+                "size": 7002576
+              },
+              {
+                "name": "Nubo-linux-x86_64.flatpak",
+                "url": "https://github.com/mschoenm/nubo/releases/download/v0.2.0/Nubo-linux-x86_64.flatpak",
+                "size": 7926072
+              },
+              {
+                "name": "Nubo-windows-x64-setup.exe",
+                "url": "https://github.com/mschoenm/nubo/releases/download/v0.2.0/Nubo-windows-x64-setup.exe",
+                "size": 8680993
+              },
+              {
+                "name": "Nubo-windows-x64.zip",
+                "url": "https://github.com/mschoenm/nubo/releases/download/v0.2.0/Nubo-windows-x64.zip",
+                "size": 9441376
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Nubo 0.1.0",
+            "url": "https://github.com/mschoenm/nubo/releases/tag/v0.1.0",
+            "published_at": "2026-10-12T21:14:25Z",
+            "assets": [
+              {
+                "name": "Nubo-0.1.0-aarch64.flatpak",
+                "url": "https://github.com/mschoenm/nubo/releases/download/v0.1.0/Nubo-0.1.0-aarch64.flatpak",
+                "size": 6996048
+              },
+              {
+                "name": "Nubo-0.1.0-x86_64.flatpak",
+                "url": "https://github.com/mschoenm/nubo/releases/download/v0.1.0/Nubo-0.1.0-x86_64.flatpak",
+                "size": 7908288
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Nightly build 2026-10-12",
+            "url": "https://github.com/mschoenm/nubo/releases/tag/nightly",
+            "published_at": "2026-10-12T22:19:16Z",
+            "assets": [
+              {
+                "name": "Nubo-nightly-2026-10-12-linux-aarch64.flatpak",
+                "url": "https://github.com/mschoenm/nubo/releases/download/nightly/Nubo-nightly-2026-10-12-linux-aarch64.flatpak",
+                "size": 6998288
+              },
+              {
+                "name": "Nubo-nightly-2026-10-12-linux-x86_64.flatpak",
+                "url": "https://github.com/mschoenm/nubo/releases/download/nightly/Nubo-nightly-2026-10-12-linux-x86_64.flatpak",
+                "size": 7909072
+              },
+              {
+                "name": "Nubo-nightly-2026-10-12-windows-x64-setup.exe",
+                "url": "https://github.com/mschoenm/nubo/releases/download/nightly/Nubo-nightly-2026-10-12-windows-x64-setup.exe",
+                "size": 8707472
+              },
+              {
+                "name": "Nubo-nightly-2026-10-12-windows-x64.zip",
+                "url": "https://github.com/mschoenm/nubo/releases/download/nightly/Nubo-nightly-2026-10-12-windows-x64.zip",
+                "size": 9432211
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -278,14 +2348,108 @@
         ],
         "android_terms": [],
         "pc_terms": [
+          "windows",
+          "linux",
           "desktop"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Nubo-linux-aarch64.flatpak",
+          "url": "https://github.com/mschoenm/nubo/releases/download/v0.4.0/Nubo-linux-aarch64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "Nubo-linux-x86_64.flatpak",
+          "url": "https://github.com/mschoenm/nubo/releases/download/v0.4.0/Nubo-linux-x86_64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "Nubo-windows-x64-setup.exe",
+          "url": "https://github.com/mschoenm/nubo/releases/download/v0.4.0/Nubo-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Nubo-windows-x64.zip",
+          "url": "https://github.com/mschoenm/nubo/releases/download/v0.4.0/Nubo-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Nubo-linux-aarch64.flatpak",
+          "url": "https://github.com/mschoenm/nubo/releases/download/v0.3.0/Nubo-linux-aarch64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "Nubo-linux-x86_64.flatpak",
+          "url": "https://github.com/mschoenm/nubo/releases/download/v0.3.0/Nubo-linux-x86_64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "Nubo-windows-x64-setup.exe",
+          "url": "https://github.com/mschoenm/nubo/releases/download/v0.3.0/Nubo-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Nubo-windows-x64.zip",
+          "url": "https://github.com/mschoenm/nubo/releases/download/v0.3.0/Nubo-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Nubo-linux-aarch64.flatpak",
+          "url": "https://github.com/mschoenm/nubo/releases/download/v0.2.0/Nubo-linux-aarch64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "Nubo-linux-x86_64.flatpak",
+          "url": "https://github.com/mschoenm/nubo/releases/download/v0.2.0/Nubo-linux-x86_64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "Nubo-windows-x64-setup.exe",
+          "url": "https://github.com/mschoenm/nubo/releases/download/v0.2.0/Nubo-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Nubo-windows-x64.zip",
+          "url": "https://github.com/mschoenm/nubo/releases/download/v0.2.0/Nubo-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Nubo-0.1.0-aarch64.flatpak",
+          "url": "https://github.com/mschoenm/nubo/releases/download/v0.1.0/Nubo-0.1.0-aarch64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "Nubo-0.1.0-x86_64.flatpak",
+          "url": "https://github.com/mschoenm/nubo/releases/download/v0.1.0/Nubo-0.1.0-x86_64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "Nubo-nightly-2026-10-12-linux-aarch64.flatpak",
+          "url": "https://github.com/mschoenm/nubo/releases/download/nightly/Nubo-nightly-2026-10-12-linux-aarch64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "Nubo-nightly-2026-10-12-linux-x86_64.flatpak",
+          "url": "https://github.com/mschoenm/nubo/releases/download/nightly/Nubo-nightly-2026-10-12-linux-x86_64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "Nubo-nightly-2026-10-12-windows-x64-setup.exe",
+          "url": "https://github.com/mschoenm/nubo/releases/download/nightly/Nubo-nightly-2026-10-12-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Nubo-nightly-2026-10-12-windows-x64.zip",
+          "url": "https://github.com/mschoenm/nubo/releases/download/nightly/Nubo-nightly-2026-10-12-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 4,
       "relevance_status": "possible",
