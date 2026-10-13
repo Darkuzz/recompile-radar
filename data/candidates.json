@@ -1,7 +1,442 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-12T12:57:35.065704+00:00",
+  "last_updated": "2026-10-13T01:56:42.727508+00:00",
   "candidates": [
+    {
+      "title": "abhishekpradhan/warpowers",
+      "url": "https://github.com/abhishekpradhan/warpowers",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-12T15:34:18Z",
+      "summary": "War Powers: a free browser real-time strategy game with original content, built on the GeneralsX engine compiled to WebAssembly. Topics: browser-game, emscripten, game, open-source-game, real-time-strategy, rts, webassembly, webgl2",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T01:56:29.151334+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "kylerharris730-source/crucible",
+      "url": "https://github.com/kylerharris730-source/crucible",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-12T18:17:48Z",
+      "summary": "Cinderlift - a falling-sand sandbox with real heat, pressure, fluids and circuits, on a planet you are trying to leave. Plays free in the browser. Topics: cellular-automata, cpp, emscripten, falling-sand, game, gamedev, indie-game, physics-simulation, procedural-generation, sandbox-game, simulation-game, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T01:56:29.150353+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "sacha9214/subway-coinless",
+      "url": "https://github.com/sacha9214/subway-coinless",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-12T19:14:59Z",
+      "summary": "Subway Surfers upside down: touch one coin and the run is over. Playable in the browser. Topics: bevy, game, rust, subway-surfers, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T01:56:29.149723+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, playable, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "enesbuyuk/1923-air-combat",
+      "url": "https://github.com/enesbuyuk/1923-air-combat",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-12T19:45:22Z",
+      "summary": "Browser-based flight and dogfighting game over Istanbul, Rust/WebAssembly physics core with Three.js rendering. Topics: browser-game, combat-game, dogfight, flight-physics, flight-simulator, flight-simulators, istanbul, rust, threejs, wasm, webassembly, webaudio",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T01:56:29.149149+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "matteo-pacini/theme-hospital-decomp",
+      "url": "https://github.com/matteo-pacini/theme-hospital-decomp",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-13T01:21:33Z",
+      "summary": "Theme Hospital (1997) rebuilt in C++20 from a matching decompilation: any resolution, on Windows, macOS, Linux and in the browser. Bring your own copy of the game. Topics: bullfrog, cpp20, decompilation, dos, game-engine, game-preservation, matching-decompilation, nix-flake, retro-gaming, reverse-engineering, sdl3, theme-hospital, watcom, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T01:56:29.148437+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, windows, linux"
+      ]
+    },
+    {
+      "title": "Virtastic/openmw-web",
+      "url": "https://github.com/Virtastic/openmw-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-12T22:12:29Z",
+      "summary": "Play Morrowind in your browser — the OpenMW engine compiled to WebAssembly, now with multiplayer and a cloud locker for your own game data. Topics: browser-game, cpp, elder-scrolls, emscripten, game-engine, morrowind, multiplayer, openmw, self-hosted, wasm, webassembly, webgl2, webrtc",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T01:56:29.147395+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "Potrock/blockyard",
+      "url": "https://github.com/Potrock/blockyard",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-12T23:57:30Z",
+      "summary": "Blockyard: an open-source multiplayer game platform for the browser. Rust/WebAssembly voxel engine, three.js renderer, authoritative server with client prediction. A game is a few TypeScript files: 9 included, from a CoD-style shooter to Bed Wars. Discord sign-in, private lobbies, achievements. Topics: browser-game, game-engine, game-platform, multiplayer, rust, threejs, typescript, voxel, voxel-engine, webassembly, webgl2",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T01:56:29.145464+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "mschoenm/nubo",
+      "url": "https://github.com/mschoenm/nubo",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-13T01:08:24Z",
+      "summary": "A cycle-accurate Game Boy and Game Boy Color emulator written in Rust that runs on the desktop and in the browser. Topics: emulator, game-boy, game-boy-color, iced, rust, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T01:56:29.144088+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "mt-shihab26/runnr",
+      "url": "https://github.com/mt-shihab26/runnr",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-13T01:56:18Z",
+      "summary": "A 3D endless runner game written in C with raylib. Obstacles come from a recycled object pool, and the game is compiled to WebAssembly with Emscripten so it can be played in the browser.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T01:56:29.143513+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "Zemakigaming/gemm-quest",
+      "url": "https://github.com/Zemakigaming/gemm-quest",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-10-12T20:43:17Z",
+      "summary": "GEMM QUEST card game — play in browser",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T01:56:27.301682+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "play in browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, play in browser",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
+      ]
+    },
+    {
+      "title": "Abelo9996/browser-port",
+      "url": "https://github.com/Abelo9996/browser-port",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-12T23:46:02Z",
+      "summary": "Give your agent the power to port any open-source desktop app or game to the browser, so it runs from a link anyone can open. Topics: ai-agents, claude-code, emscripten, games, mcp, mcp-server, porting, sdl2, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T01:56:25.114282+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, wasm"
+      ]
+    },
+    {
+      "title": "Dobby-Cinematic-Universe/Adventures-Of-Daniel",
+      "url": "https://github.com/Dobby-Cinematic-Universe/Adventures-Of-Daniel",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-13T01:33:09Z",
+      "summary": "Adventures Of Daniel Remastered: A faithful browser port of Daniel's original game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T01:56:25.113727+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game"
+      ]
+    },
     {
       "title": "UndeadObvlivion/dead-space-mobile-pc",
       "url": "https://github.com/UndeadObvlivion/dead-space-mobile-pc",
@@ -11,7 +446,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-12T12:57:21.487679+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T01:56:30.816569+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of Dead Space mobile (2011 Android release). Game files not included.",
+        "latest_release_url": "https://github.com/UndeadObvlivion/dead-space-mobile-pc/releases/tag/v1.0.0",
+        "latest_release_name": "Dead Space Mobile PC Port 1.0.0",
+        "release_assets": [
+          {
+            "name": "DeadSpaceMobilePCPort-Setup.exe",
+            "url": "https://github.com/UndeadObvlivion/dead-space-mobile-pc/releases/download/v1.0.0/DeadSpaceMobilePCPort-Setup.exe",
+            "size": 10385408
+          }
+        ],
+        "releases": [
+          {
+            "name": "Dead Space Mobile PC Port 1.0.0",
+            "url": "https://github.com/UndeadObvlivion/dead-space-mobile-pc/releases/tag/v1.0.0",
+            "published_at": "2026-10-11T18:09:22Z",
+            "assets": [
+              {
+                "name": "DeadSpaceMobilePCPort-Setup.exe",
+                "url": "https://github.com/UndeadObvlivion/dead-space-mobile-pc/releases/download/v1.0.0/DeadSpaceMobilePCPort-Setup.exe",
+                "size": 10385408
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -28,10 +501,17 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "DeadSpaceMobilePCPort-Setup.exe",
+          "url": "https://github.com/UndeadObvlivion/dead-space-mobile-pc/releases/download/v1.0.0/DeadSpaceMobilePCPort-Setup.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 8,
       "relevance_status": "promising",
@@ -49,7 +529,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-12T12:57:19.614900+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T01:56:32.275930+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "JARVIS's own Super Mario Land port (github.com/jarvis-jhk/super-mario-land-port): a cycle-exact C port of the Game Boy game that loads its data from the player's own ROM. Releases for Linux, Windows, PortMaster handhelds (Jan's Knulli \"gameboy\") and the Steam Deck, all auto-updating with an in-game changelog; widescreen, RetroAchievements, level ed",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -83,7 +580,93 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-12T12:57:15.770786+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T01:56:33.756844+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of WCW vs. nWo World Tour (N64) via static recompilation. No game assets included — bring your own ROM.",
+        "latest_release_url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/tag/v0.1.2",
+        "latest_release_name": "WCW vs. nWo World Tour: Recompiled v0.1.2",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/download/v0.1.2/SHA256SUMS",
+            "size": 99
+          },
+          {
+            "name": "WCWRecompiled-v0.1.2-Windows.zip",
+            "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/download/v0.1.2/WCWRecompiled-v0.1.2-Windows.zip",
+            "size": 16941584
+          }
+        ],
+        "releases": [
+          {
+            "name": "WCW vs. nWo World Tour: Recompiled v0.1.2",
+            "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/tag/v0.1.2",
+            "published_at": "2026-07-08T22:53:06Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/download/v0.1.2/SHA256SUMS",
+                "size": 99
+              },
+              {
+                "name": "WCWRecompiled-v0.1.2-Windows.zip",
+                "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/download/v0.1.2/WCWRecompiled-v0.1.2-Windows.zip",
+                "size": 16941584
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "WCW vs. nWo World Tour: Recompiled v0.1.1",
+            "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/tag/v0.1.1",
+            "published_at": "2026-07-08T02:45:36Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/download/v0.1.1/SHA256SUMS",
+                "size": 99
+              },
+              {
+                "name": "WCWRecompiled-v0.1.1-Windows.zip",
+                "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/download/v0.1.1/WCWRecompiled-v0.1.1-Windows.zip",
+                "size": 16941758
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "WCW vs. nWo World Tour: Recompiled v0.1.0 (beta)",
+            "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/tag/v0.1.0",
+            "published_at": "2026-07-07T03:02:48Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/download/v0.1.0/SHA256SUMS",
+                "size": 99
+              },
+              {
+                "name": "WCWRecompiled-v0.1.0-Windows.zip",
+                "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/download/v0.1.0/WCWRecompiled-v0.1.0-Windows.zip",
+                "size": 16641993
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -98,9 +681,41 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/download/v0.1.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "WCWRecompiled-v0.1.2-Windows.zip",
+          "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/download/v0.1.2/WCWRecompiled-v0.1.2-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/download/v0.1.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "WCWRecompiled-v0.1.1-Windows.zip",
+          "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/download/v0.1.1/WCWRecompiled-v0.1.1-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/download/v0.1.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "WCWRecompiled-v0.1.0-Windows.zip",
+          "url": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp/releases/download/v0.1.0/WCWRecompiled-v0.1.0-Windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -118,7 +733,74 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-12T12:57:15.769586+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T01:56:35.367951+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of WCW/nWo Revenge (N64) via static recompilation. No game assets included - bring your own ROM.",
+        "latest_release_url": "https://github.com/jessetbh/WCWnWoRevengeRecomp/releases/tag/v0.1.1",
+        "latest_release_name": "WCW/nWo Revenge: Recompiled v0.1.1",
+        "release_assets": [
+          {
+            "name": "RevengeRecompiled-v0.1.1-Windows.zip",
+            "url": "https://github.com/jessetbh/WCWnWoRevengeRecomp/releases/download/v0.1.1/RevengeRecompiled-v0.1.1-Windows.zip",
+            "size": 17139767
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/jessetbh/WCWnWoRevengeRecomp/releases/download/v0.1.1/SHA256SUMS",
+            "size": 103
+          }
+        ],
+        "releases": [
+          {
+            "name": "WCW/nWo Revenge: Recompiled v0.1.1",
+            "url": "https://github.com/jessetbh/WCWnWoRevengeRecomp/releases/tag/v0.1.1",
+            "published_at": "2026-07-18T15:01:48Z",
+            "assets": [
+              {
+                "name": "RevengeRecompiled-v0.1.1-Windows.zip",
+                "url": "https://github.com/jessetbh/WCWnWoRevengeRecomp/releases/download/v0.1.1/RevengeRecompiled-v0.1.1-Windows.zip",
+                "size": 17139767
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/jessetbh/WCWnWoRevengeRecomp/releases/download/v0.1.1/SHA256SUMS",
+                "size": 103
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "WCW/nWo Revenge: Recompiled v0.1.0",
+            "url": "https://github.com/jessetbh/WCWnWoRevengeRecomp/releases/tag/v0.1.0",
+            "published_at": "2026-07-08T23:46:20Z",
+            "assets": [
+              {
+                "name": "RevengeRecompiled-v0.1.0-Windows.zip",
+                "url": "https://github.com/jessetbh/WCWnWoRevengeRecomp/releases/download/v0.1.0/RevengeRecompiled-v0.1.0-Windows.zip",
+                "size": 17122660
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/jessetbh/WCWnWoRevengeRecomp/releases/download/v0.1.0/SHA256SUMS",
+                "size": 103
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -133,9 +815,31 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "RevengeRecompiled-v0.1.1-Windows.zip",
+          "url": "https://github.com/jessetbh/WCWnWoRevengeRecomp/releases/download/v0.1.1/RevengeRecompiled-v0.1.1-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/jessetbh/WCWnWoRevengeRecomp/releases/download/v0.1.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "RevengeRecompiled-v0.1.0-Windows.zip",
+          "url": "https://github.com/jessetbh/WCWnWoRevengeRecomp/releases/download/v0.1.0/RevengeRecompiled-v0.1.0-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/jessetbh/WCWnWoRevengeRecomp/releases/download/v0.1.0/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -153,7 +857,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-12T12:57:15.768521+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T01:56:36.867137+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of WWF WrestleMania 2000 (N64) via static recompilation. No game assets included - bring your own ROM.",
+        "latest_release_url": "https://github.com/jessetbh/WWFWrestleMania2000Recomp/releases/tag/v0.1.0",
+        "latest_release_name": "WWF WrestleMania 2000: Recompiled v0.1.0",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/jessetbh/WWFWrestleMania2000Recomp/releases/download/v0.1.0/SHA256SUMS",
+            "size": 100
+          },
+          {
+            "name": "Wm2kRecompiled-v0.1.0-Windows.zip",
+            "url": "https://github.com/jessetbh/WWFWrestleMania2000Recomp/releases/download/v0.1.0/Wm2kRecompiled-v0.1.0-Windows.zip",
+            "size": 17659544
+          }
+        ],
+        "releases": [
+          {
+            "name": "WWF WrestleMania 2000: Recompiled v0.1.0",
+            "url": "https://github.com/jessetbh/WWFWrestleMania2000Recomp/releases/tag/v0.1.0",
+            "published_at": "2026-07-15T01:33:06Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/jessetbh/WWFWrestleMania2000Recomp/releases/download/v0.1.0/SHA256SUMS",
+                "size": 100
+              },
+              {
+                "name": "Wm2kRecompiled-v0.1.0-Windows.zip",
+                "url": "https://github.com/jessetbh/WWFWrestleMania2000Recomp/releases/download/v0.1.0/Wm2kRecompiled-v0.1.0-Windows.zip",
+                "size": 17659544
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -168,9 +920,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/jessetbh/WWFWrestleMania2000Recomp/releases/download/v0.1.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Wm2kRecompiled-v0.1.0-Windows.zip",
+          "url": "https://github.com/jessetbh/WWFWrestleMania2000Recomp/releases/download/v0.1.0/Wm2kRecompiled-v0.1.0-Windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -188,7 +952,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-12T12:57:15.767438+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T01:56:38.308537+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of Virtual Pro Wrestling 64 (N64) via static recompilation. No game assets included - bring your own ROM.",
+        "latest_release_url": "https://github.com/jessetbh/VPW64Recomp/releases/tag/v0.1.0",
+        "latest_release_name": "Virtual Pro Wrestling 64: Recompiled v0.1.0",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/jessetbh/VPW64Recomp/releases/download/v0.1.0/SHA256SUMS",
+            "size": 101
+          },
+          {
+            "name": "Vpw64Recompiled-v0.1.0-Windows.zip",
+            "url": "https://github.com/jessetbh/VPW64Recomp/releases/download/v0.1.0/Vpw64Recompiled-v0.1.0-Windows.zip",
+            "size": 17197977
+          }
+        ],
+        "releases": [
+          {
+            "name": "Virtual Pro Wrestling 64: Recompiled v0.1.0",
+            "url": "https://github.com/jessetbh/VPW64Recomp/releases/tag/v0.1.0",
+            "published_at": "2026-07-15T00:31:17Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/jessetbh/VPW64Recomp/releases/download/v0.1.0/SHA256SUMS",
+                "size": 101
+              },
+              {
+                "name": "Vpw64Recompiled-v0.1.0-Windows.zip",
+                "url": "https://github.com/jessetbh/VPW64Recomp/releases/download/v0.1.0/Vpw64Recompiled-v0.1.0-Windows.zip",
+                "size": 17197977
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -203,9 +1015,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/jessetbh/VPW64Recomp/releases/download/v0.1.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Vpw64Recompiled-v0.1.0-Windows.zip",
+          "url": "https://github.com/jessetbh/VPW64Recomp/releases/download/v0.1.0/Vpw64Recompiled-v0.1.0-Windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -223,7 +1047,74 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-12T12:57:15.766244+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T01:56:39.823757+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of WWF No Mercy (N64) via static recompilation. No game assets included — bring your own ROM.",
+        "latest_release_url": "https://github.com/jessetbh/WWFNoMercyRecomp/releases/tag/v0.1.1",
+        "latest_release_name": "WWF No Mercy: Recompiled v0.1.1",
+        "release_assets": [
+          {
+            "name": "NoMercyRecompiled-v0.1.1-Windows.zip",
+            "url": "https://github.com/jessetbh/WWFNoMercyRecomp/releases/download/v0.1.1/NoMercyRecompiled-v0.1.1-Windows.zip",
+            "size": 17762790
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/jessetbh/WWFNoMercyRecomp/releases/download/v0.1.1/SHA256SUMS",
+            "size": 103
+          }
+        ],
+        "releases": [
+          {
+            "name": "WWF No Mercy: Recompiled v0.1.1",
+            "url": "https://github.com/jessetbh/WWFNoMercyRecomp/releases/tag/v0.1.1",
+            "published_at": "2026-07-22T00:45:59Z",
+            "assets": [
+              {
+                "name": "NoMercyRecompiled-v0.1.1-Windows.zip",
+                "url": "https://github.com/jessetbh/WWFNoMercyRecomp/releases/download/v0.1.1/NoMercyRecompiled-v0.1.1-Windows.zip",
+                "size": 17762790
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/jessetbh/WWFNoMercyRecomp/releases/download/v0.1.1/SHA256SUMS",
+                "size": 103
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "WWF No Mercy: Recompiled v0.1.0",
+            "url": "https://github.com/jessetbh/WWFNoMercyRecomp/releases/tag/v0.1.0",
+            "published_at": "2026-07-17T21:52:07Z",
+            "assets": [
+              {
+                "name": "NoMercyRecompiled-v0.1.0-Windows.zip",
+                "url": "https://github.com/jessetbh/WWFNoMercyRecomp/releases/download/v0.1.0/NoMercyRecompiled-v0.1.0-Windows.zip",
+                "size": 17654308
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/jessetbh/WWFNoMercyRecomp/releases/download/v0.1.0/SHA256SUMS",
+                "size": 103
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -238,9 +1129,31 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "NoMercyRecompiled-v0.1.1-Windows.zip",
+          "url": "https://github.com/jessetbh/WWFNoMercyRecomp/releases/download/v0.1.1/NoMercyRecompiled-v0.1.1-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/jessetbh/WWFNoMercyRecomp/releases/download/v0.1.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "NoMercyRecompiled-v0.1.0-Windows.zip",
+          "url": "https://github.com/jessetbh/WWFNoMercyRecomp/releases/download/v0.1.0/NoMercyRecompiled-v0.1.0-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/jessetbh/WWFNoMercyRecomp/releases/download/v0.1.0/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -258,7 +1171,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-12T12:57:15.765024+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-13T01:56:41.294988+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows port of Dead or Alive 3 (Xbox), built by static recompilation with a hand-written runtime. Requires your own copy of the game.",
+        "latest_release_url": "https://github.com/NoRain211/doa3-re/releases/tag/v0.2",
+        "latest_release_name": "0.2 Alpha (experimental)",
+        "release_assets": [
+          {
+            "name": "DOA3-0.2-Alpha.zip",
+            "url": "https://github.com/NoRain211/doa3-re/releases/download/v0.2/DOA3-0.2-Alpha.zip",
+            "size": 2494455
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.2 Alpha (experimental)",
+            "url": "https://github.com/NoRain211/doa3-re/releases/tag/v0.2",
+            "published_at": "2026-10-10T01:11:20Z",
+            "assets": [
+              {
+                "name": "DOA3-0.2-Alpha.zip",
+                "url": "https://github.com/NoRain211/doa3-re/releases/download/v0.2/DOA3-0.2-Alpha.zip",
+                "size": 2494455
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.1 Alpha (experimental)",
+            "url": "https://github.com/NoRain211/doa3-re/releases/tag/v0.1",
+            "published_at": "2026-10-09T11:10:17Z",
+            "assets": [
+              {
+                "name": "DOA3-0.1-Alpha.zip",
+                "url": "https://github.com/NoRain211/doa3-re/releases/download/v0.1/DOA3-0.1-Alpha.zip",
+                "size": 2477179
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -271,9 +1236,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "DOA3-0.2-Alpha.zip",
+          "url": "https://github.com/NoRain211/doa3-re/releases/download/v0.2/DOA3-0.2-Alpha.zip",
+          "type": "archive"
+        },
+        {
+          "name": "DOA3-0.1-Alpha.zip",
+          "url": "https://github.com/NoRain211/doa3-re/releases/download/v0.1/DOA3-0.1-Alpha.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
