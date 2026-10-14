@@ -1,7 +1,135 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-14T16:58:54.215187+00:00",
+  "last_updated": "2026-10-14T23:06:32.938998+00:00",
   "candidates": [
+    {
+      "title": "yaqzans/gladiator-kricket-port",
+      "url": "https://github.com/yaqzans/gladiator-kricket-port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-14T21:10:53Z",
+      "summary": "Android port of a 2011 J2ME cricket game: MIDP shim, touch controls, decompiler fixes. Bring your own jar.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T23:06:18.520995+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "jajdp/castlevania-chronicles-xbox",
+      "url": "https://github.com/jajdp/castlevania-chronicles-xbox",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T17:08:46Z",
+      "summary": "Run the RecompOne static recompilation of Castlevania Chronicles on an Xbox Series in Developer Mode: the first RecompOne game on a console. A .NET game compiled with NativeAOT for UWP, over SDL2 and Mesa. The recipe only: no disc, no BIOS, no binaries. Topics: castlevania, dotnet, homebrew, nativeaot, playstation, recompone, static-recompilation, uwp, xbox, xbox-series",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T23:06:12.699692+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "imiziuk/hobbit-web",
+      "url": "https://github.com/imiziuk/hobbit-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-14T15:29:54Z",
+      "summary": "The Hobbit (2003) PC recompiled to WebAssembly, playable in Chrome (bring your own game copy)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T23:06:08.475917+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable, webassembly"
+      ]
+    },
+    {
+      "title": "parkrye/WebProject_YachtDice",
+      "url": "https://github.com/parkrye/WebProject_YachtDice",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-10-14T16:09:01Z",
+      "summary": "Online Yacht dice for 1-4 players with AI bots. Play in browser. Topics: board-game, dice-game, game, mobile, multiplayer, web",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T23:06:06.490135+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "play in browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, play in browser",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
+      ]
+    },
     {
       "title": "Octoblimp/ZOS-3DS",
       "url": "https://github.com/Octoblimp/ZOS-3DS",
@@ -11,7 +139,74 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:38.530966+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T23:06:21.293333+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Zombie Outbreak Simulator Android Game Port to Nintendo 3DS",
+        "latest_release_url": "https://github.com/Octoblimp/ZOS-3DS/releases/tag/v1.1.0",
+        "latest_release_name": "ZOS-3DS v1.1.0",
+        "release_assets": [
+          {
+            "name": "ZOS-3DS.3dsx",
+            "url": "https://github.com/Octoblimp/ZOS-3DS/releases/download/v1.1.0/ZOS-3DS.3dsx",
+            "size": 123129952
+          },
+          {
+            "name": "ZOS-3DS.cia",
+            "url": "https://github.com/Octoblimp/ZOS-3DS/releases/download/v1.1.0/ZOS-3DS.cia",
+            "size": 123827136
+          }
+        ],
+        "releases": [
+          {
+            "name": "ZOS-3DS v1.1.0",
+            "url": "https://github.com/Octoblimp/ZOS-3DS/releases/tag/v1.1.0",
+            "published_at": "2026-10-14T00:09:02Z",
+            "assets": [
+              {
+                "name": "ZOS-3DS.3dsx",
+                "url": "https://github.com/Octoblimp/ZOS-3DS/releases/download/v1.1.0/ZOS-3DS.3dsx",
+                "size": 123129952
+              },
+              {
+                "name": "ZOS-3DS.cia",
+                "url": "https://github.com/Octoblimp/ZOS-3DS/releases/download/v1.1.0/ZOS-3DS.cia",
+                "size": 123827136
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "ZOS-3DS v1.0.0",
+            "url": "https://github.com/Octoblimp/ZOS-3DS/releases/tag/v1.0.0",
+            "published_at": "2026-10-13T21:37:41Z",
+            "assets": [
+              {
+                "name": "ZOS-3DS.3dsx",
+                "url": "https://github.com/Octoblimp/ZOS-3DS/releases/download/v1.0.0/ZOS-3DS.3dsx",
+                "size": 123098368
+              },
+              {
+                "name": "ZOS-3DS.cia",
+                "url": "https://github.com/Octoblimp/ZOS-3DS/releases/download/v1.0.0/ZOS-3DS.cia",
+                "size": 123810752
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -24,9 +219,31 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "ZOS-3DS.3dsx",
+          "url": "https://github.com/Octoblimp/ZOS-3DS/releases/download/v1.1.0/ZOS-3DS.3dsx",
+          "type": "other_file"
+        },
+        {
+          "name": "ZOS-3DS.cia",
+          "url": "https://github.com/Octoblimp/ZOS-3DS/releases/download/v1.1.0/ZOS-3DS.cia",
+          "type": "other_file"
+        },
+        {
+          "name": "ZOS-3DS.3dsx",
+          "url": "https://github.com/Octoblimp/ZOS-3DS/releases/download/v1.0.0/ZOS-3DS.3dsx",
+          "type": "other_file"
+        },
+        {
+          "name": "ZOS-3DS.cia",
+          "url": "https://github.com/Octoblimp/ZOS-3DS/releases/download/v1.0.0/ZOS-3DS.cia",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
@@ -44,7 +261,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:38.527517+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T23:06:22.778023+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "An Android port of the PC web game of Poke Survivors",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -78,7 +312,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:38.526249+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T23:06:24.208280+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Gears of War 2 native PC port: the Xbox 360 game statically recompiled to x64 (not an emulator). 1440p/4K, FSR, 4K texture packs, keyboard & mouse, Android in progress. Bring your own copy.",
+        "latest_release_url": "https://github.com/santiquiroz/gears-of-war-2-pc-port/releases/tag/v0.1.0",
+        "latest_release_name": "v0.1.0 — First playable build (Act 1)",
+        "release_assets": [
+          {
+            "name": "gow2-recomp-0.1.0-win64.zip",
+            "url": "https://github.com/santiquiroz/gears-of-war-2-pc-port/releases/download/v0.1.0/gow2-recomp-0.1.0-win64.zip",
+            "size": 47159973
+          },
+          {
+            "name": "gow2-recomp-0.1.0-win64.zip.sha256",
+            "url": "https://github.com/santiquiroz/gears-of-war-2-pc-port/releases/download/v0.1.0/gow2-recomp-0.1.0-win64.zip.sha256",
+            "size": 95
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0 — First playable build (Act 1)",
+            "url": "https://github.com/santiquiroz/gears-of-war-2-pc-port/releases/tag/v0.1.0",
+            "published_at": "2026-10-14T14:54:05Z",
+            "assets": [
+              {
+                "name": "gow2-recomp-0.1.0-win64.zip",
+                "url": "https://github.com/santiquiroz/gears-of-war-2-pc-port/releases/download/v0.1.0/gow2-recomp-0.1.0-win64.zip",
+                "size": 47159973
+              },
+              {
+                "name": "gow2-recomp-0.1.0-win64.zip.sha256",
+                "url": "https://github.com/santiquiroz/gears-of-war-2-pc-port/releases/download/v0.1.0/gow2-recomp-0.1.0-win64.zip.sha256",
+                "size": 95
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -91,15 +373,28 @@
         ],
         "pc_terms": [
           "windows",
+          "win64",
           "pc port",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "gow2-recomp-0.1.0-win64.zip",
+          "url": "https://github.com/santiquiroz/gears-of-war-2-pc-port/releases/download/v0.1.0/gow2-recomp-0.1.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "gow2-recomp-0.1.0-win64.zip.sha256",
+          "url": "https://github.com/santiquiroz/gears-of-war-2-pc-port/releases/download/v0.1.0/gow2-recomp-0.1.0-win64.zip.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -117,7 +412,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:38.524970+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T23:06:25.682589+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "An Android port of the PC web game of Poke Survivors made by JayElDragon",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -151,7 +463,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:36.278675+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T23:06:27.111499+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "mods",
+        "description": "Wind Waker HD native port (macOS/Linux/Windows) with extra mods: spooky sea events, Tetra's ship, Shadow Beast, experimental online co-op. Bring your own copy of the game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -185,7 +514,138 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:36.277026+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T23:06:28.596425+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "NovaSwift — an unofficial, faithful port of Escape Velocity Nova. Native Swift app for macOS, iOS, iPadOS and tvOS, plus a Godot build for Linux and Steam Deck (Windows coming). Bring your own game data.",
+        "latest_release_url": "https://github.com/SirStig/NovaSwift/releases/tag/v0.7.0-beta.2",
+        "latest_release_name": "NovaSwift for Linux & Steam Deck 0.7.0-beta.2",
+        "release_assets": [
+          {
+            "name": "NovaSwift-linux-x86_64.tar.gz",
+            "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.2/NovaSwift-linux-x86_64.tar.gz",
+            "size": 100516857
+          },
+          {
+            "name": "NovaSwift-macos-arm64.zip",
+            "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.2/NovaSwift-macos-arm64.zip",
+            "size": 48453260
+          },
+          {
+            "name": "update.json",
+            "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.2/update.json",
+            "size": 474
+          },
+          {
+            "name": "update.json.sig",
+            "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.2/update.json.sig",
+            "size": 512
+          }
+        ],
+        "releases": [
+          {
+            "name": "NovaSwift for Linux & Steam Deck 0.7.0-beta.2",
+            "url": "https://github.com/SirStig/NovaSwift/releases/tag/v0.7.0-beta.2",
+            "published_at": "2026-10-14T06:29:36Z",
+            "assets": [
+              {
+                "name": "NovaSwift-linux-x86_64.tar.gz",
+                "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.2/NovaSwift-linux-x86_64.tar.gz",
+                "size": 100516857
+              },
+              {
+                "name": "NovaSwift-macos-arm64.zip",
+                "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.2/NovaSwift-macos-arm64.zip",
+                "size": 48453260
+              },
+              {
+                "name": "update.json",
+                "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.2/update.json",
+                "size": 474
+              },
+              {
+                "name": "update.json.sig",
+                "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.2/update.json.sig",
+                "size": 512
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "NovaSwift for Linux & Steam Deck 0.7.0-beta.1 (Godot, experimental)",
+            "url": "https://github.com/SirStig/NovaSwift/releases/tag/v0.7.0-beta.1",
+            "published_at": "2026-10-14T00:22:16Z",
+            "assets": [
+              {
+                "name": "NovaSwift-linux-x86_64.tar.gz",
+                "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.1/NovaSwift-linux-x86_64.tar.gz",
+                "size": 97826016
+              },
+              {
+                "name": "NovaSwift-macos-arm64.zip",
+                "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.1/NovaSwift-macos-arm64.zip",
+                "size": 47049073
+              },
+              {
+                "name": "update.json",
+                "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.1/update.json",
+                "size": 479
+              },
+              {
+                "name": "update.json.sig",
+                "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.1/update.json.sig",
+                "size": 512
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "NovaSwift Dedicated Server 0.1.0 (beta)",
+            "url": "https://github.com/SirStig/NovaSwift/releases/tag/server-v0.1.0",
+            "published_at": "2026-10-14T06:33:56Z",
+            "assets": [
+              {
+                "name": "NovaSwiftServer-linux-arm64.tar.gz",
+                "url": "https://github.com/SirStig/NovaSwift/releases/download/server-v0.1.0/NovaSwiftServer-linux-arm64.tar.gz",
+                "size": 25420193
+              },
+              {
+                "name": "NovaSwiftServer-linux-x86_64.tar.gz",
+                "url": "https://github.com/SirStig/NovaSwift/releases/download/server-v0.1.0/NovaSwiftServer-linux-x86_64.tar.gz",
+                "size": 26293346
+              },
+              {
+                "name": "NovaSwiftServer-macos-arm64.zip",
+                "url": "https://github.com/SirStig/NovaSwift/releases/download/server-v0.1.0/NovaSwiftServer-macos-arm64.zip",
+                "size": 3766249
+              },
+              {
+                "name": "server-update.json",
+                "url": "https://github.com/SirStig/NovaSwift/releases/download/server-v0.1.0/server-update.json",
+                "size": 662
+              },
+              {
+                "name": "server-update.json.sig",
+                "url": "https://github.com/SirStig/NovaSwift/releases/download/server-v0.1.0/server-update.json.sig",
+                "size": 512
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -199,9 +659,76 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "NovaSwift-linux-x86_64.tar.gz",
+          "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.2/NovaSwift-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "NovaSwift-macos-arm64.zip",
+          "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.2/NovaSwift-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "update.json",
+          "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.2/update.json",
+          "type": "other_file"
+        },
+        {
+          "name": "update.json.sig",
+          "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.2/update.json.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "NovaSwift-linux-x86_64.tar.gz",
+          "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.1/NovaSwift-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "NovaSwift-macos-arm64.zip",
+          "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.1/NovaSwift-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "update.json",
+          "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.1/update.json",
+          "type": "other_file"
+        },
+        {
+          "name": "update.json.sig",
+          "url": "https://github.com/SirStig/NovaSwift/releases/download/v0.7.0-beta.1/update.json.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "NovaSwiftServer-linux-arm64.tar.gz",
+          "url": "https://github.com/SirStig/NovaSwift/releases/download/server-v0.1.0/NovaSwiftServer-linux-arm64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "NovaSwiftServer-linux-x86_64.tar.gz",
+          "url": "https://github.com/SirStig/NovaSwift/releases/download/server-v0.1.0/NovaSwiftServer-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "NovaSwiftServer-macos-arm64.zip",
+          "url": "https://github.com/SirStig/NovaSwift/releases/download/server-v0.1.0/NovaSwiftServer-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "server-update.json",
+          "url": "https://github.com/SirStig/NovaSwift/releases/download/server-v0.1.0/server-update.json",
+          "type": "other_file"
+        },
+        {
+          "name": "server-update.json.sig",
+          "url": "https://github.com/SirStig/NovaSwift/releases/download/server-v0.1.0/server-update.json.sig",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -219,7 +746,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:31.934916+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T23:06:30.113866+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Twilight Princess HD native port for macOS (Apple Silicon): static recompilation of the Wii U version, Metal renderer, no emulator. Bring your own game dump.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -246,7 +790,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:31.933737+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T23:06:31.552134+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native Apple Silicon port of SpaceEngine by static recompilation: translates your own copy of the Windows executable to arm64. Contains no game code; requires the game on Steam.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
