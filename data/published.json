@@ -2,6 +2,11 @@
   "schema_version": 1,
   "published_ids": [
     "https://github.com/andrewnakas/fe8-web",
+    "https://github.com/andrewnakas/knidl-web",
+    "https://github.com/andrewnakas/mzm-web",
+    "https://github.com/andrewnakas/pmdred-web",
+    "https://github.com/andrewnakas/pokefirered-web",
+    "https://github.com/andrewnakas/pokegold-web",
     "https://github.com/andrewnakas/pokeleafgreen-web",
     "https://github.com/danielperezl/carspsprecomp",
     "https://github.com/devex780/earthworm-jim-hd-recomp",

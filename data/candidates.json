@@ -1,7 +1,697 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-14T10:01:49.816325+00:00",
+  "last_updated": "2026-10-14T16:58:54.215187+00:00",
   "candidates": [
+    {
+      "title": "Octoblimp/ZOS-3DS",
+      "url": "https://github.com/Octoblimp/ZOS-3DS",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-14T00:08:57Z",
+      "summary": "Zombie Outbreak Simulator Android Game Port to Nintendo 3DS",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:38.530966+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: game port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "JayElDragon/Pokemon-Survivors-Android",
+      "url": "https://github.com/JayElDragon/Pokemon-Survivors-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-14T14:37:12Z",
+      "summary": "An Android port of the PC web game of Poke Survivors",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:38.527517+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "santiquiroz/gears-of-war-2-pc-port",
+      "url": "https://github.com/santiquiroz/gears-of-war-2-pc-port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-14T14:54:04Z",
+      "summary": "Gears of War 2 native PC port: the Xbox 360 game statically recompiled to x64 (not an emulator). 1440p/4K, FSR, 4K texture packs, keyboard & mouse, Android in progress. Bring your own copy. Topics: android, cpp, fidelityfx, fsr, game-preservation, gears-of-war, gears-of-war-2, native-port, pc-port, recomp, recompilation, reverse-engineering, rexglue, static-recompilation, ue3, unreal-engine-3, windows, xbox-360, xbox360, xenia",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:38.526249+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "JayElDragon/pokesurvivors-android",
+      "url": "https://github.com/JayElDragon/pokesurvivors-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-14T15:16:59Z",
+      "summary": "An Android port of the PC web game of Poke Survivors made by JayElDragon",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:38.524970+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "AsadSi/wwhd-recomp-mods",
+      "url": "https://github.com/AsadSi/wwhd-recomp-mods",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-14T14:08:55Z",
+      "summary": "Wind Waker HD native port (macOS/Linux/Windows) with extra mods: spooky sea events, Tetra's ship, Shadow Beast, experimental online co-op. Bring your own copy of the game. Topics: game-mods, macos, metal, recompilation, static-recompilation, vulkan, wii-u, wind-waker, wind-waker-hd, zelda",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:36.278675+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "SirStig/NovaSwift",
+      "url": "https://github.com/SirStig/NovaSwift",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-14T15:46:41Z",
+      "summary": "NovaSwift — an unofficial, faithful port of Escape Velocity Nova. Native Swift app for macOS, iOS, iPadOS and tvOS, plus a Godot build for Linux and Steam Deck (Windows coming). Bring your own game data. Topics: bring-your-own-data, escape-velocity, ev-nova, game-port, game-preservation, game-reverse-engineering, gdextension, godot, ios, ipados, linux, macos, multiplayer, space-game, space-sim, spritekit, steam-deck, swift, swiftui, tvos",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:36.277026+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "AsadSi/twilight-princess-hd-recomp",
+      "url": "https://github.com/AsadSi/twilight-princess-hd-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T10:43:11Z",
+      "summary": "Twilight Princess HD native port for macOS (Apple Silicon): static recompilation of the Wii U version, Metal renderer, no emulator. Bring your own game dump. Topics: apple-silicon, macos, metal, recompilation, static-recompilation, twilight-princess, twilight-princess-hd, wii-u, zelda",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:31.934916+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "fpetras/spaceengine-mac",
+      "url": "https://github.com/fpetras/spaceengine-mac",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T13:24:32Z",
+      "summary": "Unofficial native Apple Silicon port of SpaceEngine by static recompilation: translates your own copy of the Windows executable to arm64. Contains no game code; requires the game on Steam. Topics: apple-silicon, arm64, game-port, macos, opengl, spaceengine, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:31.933737+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "abilliontokens/urbz-recomp",
+      "url": "https://github.com/abilliontokens/urbz-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T14:38:09Z",
+      "summary": "Static recompilation port scaffold for the original Xbox game The Urbz: Sims in the City (USA), built on XboxXBERecomp. No game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:31.932408+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "iagodemacedo/OpenPopTB-MacOS",
+      "url": "https://github.com/iagodemacedo/OpenPopTB-MacOS",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T15:01:57Z",
+      "summary": "Native Apple Silicon macOS port of Populous: The Beginning via static recompilation. Bring your own copy of the game (GOG). Topics: apple-silicon, game-port, macos, populous, reverse-engineering, sdl3, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:31.931549+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "jajdp/supermetroid-recomp-xbox",
+      "url": "https://github.com/jajdp/supermetroid-recomp-xbox",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T15:06:15Z",
+      "summary": "Run the SuperMetroidRecomp static recompilation of Super Metroid on an Xbox Series in Developer Mode: the UWP port, as a recipe you apply to your own checkout. A Direct3D 11 presenter on CoreWindow, 16:9 at 58 fps. No ROM, no game code, no binaries. Topics: direct3d11, game-port, homebrew, snes, snesrecomp, static-recompilation, super-metroid, uwp, xbox, xbox-series",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:31.930203+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom"
+      ]
+    },
+    {
+      "title": "TalhaMudo/NFSU2Recomp",
+      "url": "https://github.com/TalhaMudo/NFSU2Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T15:36:33Z",
+      "summary": "Static recompilation of Need for Speed: Underground 2 (Win32/x86, Direct3D 9) to native ARM64 macOS. No Wine, no emulator. Tools and runtime only; no game code or assets. Topics: arm64, binary-translation, direct3d9, macos, metal, recompilation, static-recompilation, x86",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:31.928960+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "crabinacrabic/ArmyOfTwo40thDayRecomp",
+      "url": "https://github.com/crabinacrabic/ArmyOfTwo40thDayRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T15:51:37Z",
+      "summary": "Army of Two: The 40th Day (Xbox 360, 2010, 454108D8) static recompilation using ReXGlue SDK v0.10. No game assets included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:31.928059+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "jajdp/dkc1-xbox",
+      "url": "https://github.com/jajdp/dkc1-xbox",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T16:21:43Z",
+      "summary": "Run the DKC1Recomp static recompilation of Donkey Kong Country on an Xbox Series in Developer Mode: the UWP port, as a recipe you apply to your own checkout. The OpenGL host is replaced by a Direct3D 11 one. No ROM, no game code, no binaries. Topics: direct3d11, donkey-kong-country, game-port, homebrew, snes, snesrecomp, static-recompilation, uwp, xbox, xbox-series",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:31.927050+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom"
+      ]
+    },
+    {
+      "title": "jajdp/dkc2-xbox",
+      "url": "https://github.com/jajdp/dkc2-xbox",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T16:22:46Z",
+      "summary": "Run the DKC2Recomp static recompilation of Donkey Kong Country 2 on an Xbox Series in Developer Mode: the UWP port, as a recipe you apply to your own checkout. The OpenGL host is replaced by a Direct3D 11 one. No ROM, no game code, no binaries. Topics: direct3d11, donkey-kong-country, game-port, homebrew, snes, snesrecomp, static-recompilation, uwp, xbox, xbox-series",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:31.925580+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom"
+      ]
+    },
+    {
+      "title": "jajdp/dkc3-xbox",
+      "url": "https://github.com/jajdp/dkc3-xbox",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T16:23:21Z",
+      "summary": "Run the DKC3Recomp static recompilation of Donkey Kong Country 3 on an Xbox Series in Developer Mode: the UWP port, as a recipe you apply to your own checkout. The OpenGL host is replaced by a Direct3D 11 one. No ROM, no game code, no binaries. Topics: direct3d11, donkey-kong-country, game-port, homebrew, snes, snesrecomp, static-recompilation, uwp, xbox, xbox-series",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:31.923995+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom"
+      ]
+    },
+    {
+      "title": "RecompPort/pandora-tower-pc",
+      "url": "https://github.com/RecompPort/pandora-tower-pc",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T16:48:30Z",
+      "summary": "Pandora's Tower PC v1.0 Native Windows port created using static recompilation (wiikit). Does not include any game files: you'll need your own copy (ISO), and the game is compiled on your PC during installation (about 5 minutes).",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:31.922574+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "rgnv/ut2004-wasm",
+      "url": "https://github.com/rgnv/ut2004-wasm",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-14T15:18:21Z",
+      "summary": "Unreal Tournament 2004 in the browser — an Emscripten/WebAssembly engine port with WebSocket multiplayer and a headless Node harness. First public release v0.1.0; no game assets included — supply your own legal copy.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:27.328184+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "seppegadeyne/grandline-avontuur",
+      "url": "https://github.com/seppegadeyne/grandline-avontuur",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-14T16:36:52Z",
+      "summary": "One Piece-inspired action adventure game in Python (pygame-ce), playable in the browser via WebAssembly. Concept by Ace. Topics: game, one-piece, pygame, pygbag, python, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:27.325648+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, playable, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "parkrye/WebProject_PirateDice",
+      "url": "https://github.com/parkrye/WebProject_PirateDice",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-10-14T16:08:20Z",
+      "summary": "Bluffing dice game (Liar's Dice), 2-6 players online. Play in browser.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:25.309792+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "play in browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, play in browser",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
+      ]
+    },
+    {
+      "title": "parkrye/WebProject_LostBureauUnit7",
+      "url": "https://github.com/parkrye/WebProject_LostBureauUnit7",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-10-14T16:08:35Z",
+      "summary": "Co-op 3D web game: recover lost items and extract in time. Play in browser.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:25.308943+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "play in browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, play in browser",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
+      ]
+    },
+    {
+      "title": "parkrye/WebProject_FireworksFestival",
+      "url": "https://github.com/parkrye/WebProject_FireworksFestival",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-10-14T16:08:48Z",
+      "summary": "Co-op online merge game: slingshot fireworks up and combine them. Play in browser.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T16:58:25.308015+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "play in browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, play in browser",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
+      ]
+    },
     {
       "title": "neurocontrarian/recomp-board",
       "url": "https://github.com/neurocontrarian/recomp-board",
@@ -11,7 +701,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T10:01:35.635756+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T16:58:41.396705+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Submissions for recomp.board, the list of game recompilation, source port and decompilation projects",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -38,7 +745,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T10:01:33.530799+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T16:58:43.018210+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Experimental native Windows x64 port of Call of Duty 3 Xbox 360 single-player using ReXGlue static recompilation. Bring your own game assets.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -71,7 +795,93 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T10:01:33.530059+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T16:58:44.597592+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A static recompilation project of the N64 game The World Is Not Enough",
+        "latest_release_url": "https://github.com/riseio/TWIPE_00Sheven/releases/tag/ICHGYTW_0.1.92",
+        "latest_release_name": "ICHGYTW_0.1.92",
+        "release_assets": [
+          {
+            "name": "ICHGYTW-Portable.exe",
+            "url": "https://github.com/riseio/TWIPE_00Sheven/releases/download/ICHGYTW_0.1.92/ICHGYTW-Portable.exe",
+            "size": 99840000
+          },
+          {
+            "name": "ICHGYTW-SteamDeck-x86_64.AppImage",
+            "url": "https://github.com/riseio/TWIPE_00Sheven/releases/download/ICHGYTW_0.1.92/ICHGYTW-SteamDeck-x86_64.AppImage",
+            "size": 100080120
+          }
+        ],
+        "releases": [
+          {
+            "name": "ICHGYTW_0.1.92",
+            "url": "https://github.com/riseio/TWIPE_00Sheven/releases/tag/ICHGYTW_0.1.92",
+            "published_at": "2026-10-14T05:49:00Z",
+            "assets": [
+              {
+                "name": "ICHGYTW-Portable.exe",
+                "url": "https://github.com/riseio/TWIPE_00Sheven/releases/download/ICHGYTW_0.1.92/ICHGYTW-Portable.exe",
+                "size": 99840000
+              },
+              {
+                "name": "ICHGYTW-SteamDeck-x86_64.AppImage",
+                "url": "https://github.com/riseio/TWIPE_00Sheven/releases/download/ICHGYTW_0.1.92/ICHGYTW-SteamDeck-x86_64.AppImage",
+                "size": 100080120
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "ICHGYTW_0.1.82",
+            "url": "https://github.com/riseio/TWIPE_00Sheven/releases/tag/ICHGYTW_0.1.82",
+            "published_at": "2026-10-09T06:57:01Z",
+            "assets": [
+              {
+                "name": "ICHGYTW-Portable.exe",
+                "url": "https://github.com/riseio/TWIPE_00Sheven/releases/download/ICHGYTW_0.1.82/ICHGYTW-Portable.exe",
+                "size": 99826176
+              },
+              {
+                "name": "ICHGYTW-SteamDeck-x86_64.AppImage",
+                "url": "https://github.com/riseio/TWIPE_00Sheven/releases/download/ICHGYTW_0.1.82/ICHGYTW-SteamDeck-x86_64.AppImage",
+                "size": 100051448
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "ICHGYTW_0.1.74",
+            "url": "https://github.com/riseio/TWIPE_00Sheven/releases/tag/IWouldHaveGivenYouTheWorld_0.1.74",
+            "published_at": "2026-10-05T02:58:52Z",
+            "assets": [
+              {
+                "name": "ICHGYTW-Portable.exe",
+                "url": "https://github.com/riseio/TWIPE_00Sheven/releases/download/IWouldHaveGivenYouTheWorld_0.1.74/ICHGYTW-Portable.exe",
+                "size": 99780096
+              },
+              {
+                "name": "ICHGYTW-SteamDeck-x86_64.AppImage",
+                "url": "https://github.com/riseio/TWIPE_00Sheven/releases/download/IWouldHaveGivenYouTheWorld_0.1.74/ICHGYTW-SteamDeck-x86_64.AppImage",
+                "size": 100030968
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -80,8 +890,41 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "ICHGYTW-Portable.exe",
+          "url": "https://github.com/riseio/TWIPE_00Sheven/releases/download/ICHGYTW_0.1.92/ICHGYTW-Portable.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "ICHGYTW-SteamDeck-x86_64.AppImage",
+          "url": "https://github.com/riseio/TWIPE_00Sheven/releases/download/ICHGYTW_0.1.92/ICHGYTW-SteamDeck-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ICHGYTW-Portable.exe",
+          "url": "https://github.com/riseio/TWIPE_00Sheven/releases/download/ICHGYTW_0.1.82/ICHGYTW-Portable.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "ICHGYTW-SteamDeck-x86_64.AppImage",
+          "url": "https://github.com/riseio/TWIPE_00Sheven/releases/download/ICHGYTW_0.1.82/ICHGYTW-SteamDeck-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ICHGYTW-Portable.exe",
+          "url": "https://github.com/riseio/TWIPE_00Sheven/releases/download/IWouldHaveGivenYouTheWorld_0.1.74/ICHGYTW-Portable.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "ICHGYTW-SteamDeck-x86_64.AppImage",
+          "url": "https://github.com/riseio/TWIPE_00Sheven/releases/download/IWouldHaveGivenYouTheWorld_0.1.74/ICHGYTW-SteamDeck-x86_64.AppImage",
+          "type": "desktop_package"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -98,7 +941,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T10:01:33.529212+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T16:58:46.263173+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Monster Hunter 3 Ultimate (Wii U, USA) to native Windows and Linux. Bring your own legally dumped copy; no game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -132,7 +992,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T10:01:33.528219+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T16:58:47.858959+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "The Darkness (2007, Starbreeze) - working toward VR on PC. Reverse-engineering notes and tooling around the Xbox 360 static recompilation effort. Non-commercial fan project; no game assets.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -159,7 +1036,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T10:01:33.527162+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T16:58:49.392378+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android ports of console games through static recompilation. Import your own disc and NativePlay installs it as a native port. First supported game: Call of Duty: Modern Warfare 2 (Xbox 360).",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -193,7 +1087,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T10:01:33.526292+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T16:58:50.968578+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A static recompilation of a GameCube game to native PC.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -226,7 +1137,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T10:01:33.525486+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T16:58:52.614165+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Static recompilation of Microsoft Bob (1995), a Win16 NE app and its Jet/Access Basic database engine, lifted to C and running on a Win16 runtime. Built on pcrecomp. Bring your own copy; no game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
