@@ -1,8 +1,11 @@
 {
   "schema_version": 1,
   "published_ids": [
+    "https://github.com/andrewnakas/fe8-web",
+    "https://github.com/andrewnakas/pokeleafgreen-web",
     "https://github.com/danielperezl/carspsprecomp",
     "https://github.com/devex780/earthworm-jim-hd-recomp",
+    "https://github.com/glinesbdev/mh3u-port",
     "https://github.com/jackandbeans/snap64recomp",
     "https://github.com/jessetbh/vpw64recomp",
     "https://github.com/jessetbh/wcwnworevengerecomp",
@@ -15,7 +18,9 @@
     "https://github.com/nefariousjosiah/wwe-svr2008-recomp",
     "https://github.com/nefariousjosiah/wwe-svr2009-recomp",
     "https://github.com/nefariousjosiah/wwe-svr2010-recomp",
+    "https://github.com/odrannnn/metroidprimeport",
     "https://github.com/pablocpas/opencmr2",
+    "https://github.com/skyjake/doomsday-engine",
     "https://github.com/tmcleroy/muscle-march-recomp",
     "https://github.com/tmcleroy/vampire-savior-recomp",
     "https://github.com/wivi514/dead_rising_2_case_west_xenon_recomp",

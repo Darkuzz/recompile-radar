@@ -1,85 +1,43 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-13T23:41:47.765873+00:00",
+  "last_updated": "2026-10-14T10:01:49.816325+00:00",
   "candidates": [
     {
-      "title": "Jorge262007/FFTARecomp",
-      "url": "https://github.com/Jorge262007/FFTARecomp",
-      "source_name": "GitHub: PC ports",
-      "published": "2026-10-13T17:34:15Z",
-      "summary": "Native Windows port of Final Fantasy Tactics Advance with widescreen, video/audio options and a one-click installer. Topics: emulator, fftarecomp, final-fantasy, game, gaming, linux, recompilation, rust, steamdeck, windows",
-      "status": "unverified",
-      "browser_playable": "unknown",
-      "found_at": "2026-10-13T23:41:31.572949+00:00",
-      "check": null,
-      "category": "pc",
-      "platforms_guess": [
-        "PC"
-      ],
-      "category_evidence": {
-        "browser_terms": [],
-        "android_terms": [],
-        "pc_terms": [
-          "windows",
-          "linux"
-        ],
-        "other_platform_terms": []
-      },
-      "build_links": [],
-      "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
-      ],
-      "relevance_score": 12,
-      "relevance_status": "promising",
-      "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
-        "Есть игровые/платформенные признаки: game, windows, linux"
-      ]
-    },
-    {
-      "title": "jkdansereau/goldeneye-pc-port",
-      "url": "https://github.com/jkdansereau/goldeneye-pc-port",
-      "source_name": "GitHub: PC ports",
-      "published": "2026-10-13T22:14:00Z",
-      "summary": "GoldenEye 007 (N64, 1997) as a native PC game for Windows, Linux, Steam Deck and macOS. Built from the open decompilation, with widescreen, mouse and keyboard or controller, and split-screen. Not an emulator. Topics: agentic-development, c, claude-code, decompilation, game-porting, goldeneye, goldeneye-007, linux, macos, mips, n64, n64-decomp, nintendo-64, opengl, pc-port, retro-gaming, reverse-engineering, sdl2, steam-deck, windows",
-      "status": "unverified",
-      "browser_playable": "unknown",
-      "found_at": "2026-10-13T23:41:31.571581+00:00",
-      "check": null,
-      "category": "pc",
-      "platforms_guess": [
-        "PC"
-      ],
-      "category_evidence": {
-        "browser_terms": [],
-        "android_terms": [],
-        "pc_terms": [
-          "windows",
-          "linux",
-          "native pc"
-        ],
-        "other_platform_terms": []
-      },
-      "build_links": [],
-      "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
-      ],
-      "relevance_score": 9,
-      "relevance_status": "promising",
-      "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: decompil, explicit port/recompilation wording",
-        "Есть игровые/платформенные признаки: game, windows, linux"
-      ]
-    },
-    {
-      "title": "viktor-malieichyk/terrafire-port",
-      "url": "https://github.com/viktor-malieichyk/terrafire-port",
+      "title": "neurocontrarian/recomp-board",
+      "url": "https://github.com/neurocontrarian/recomp-board",
       "source_name": "GitHub: source ports",
-      "published": "2026-10-13T20:09:09Z",
-      "summary": "Source port of TerraFire (1997 DOS game by Owen Thomas) to macOS and Windows with SDL3, verified frame by frame against the original Topics: dos-game, reverse-engineering, sdl3, source-port",
+      "published": "2026-10-14T03:22:02Z",
+      "summary": "Submissions for recomp.board, the list of game recompilation, source port and decompilation projects Topics: decompilation, recomp, recompilation, reverse-engineering, source-port, static-recompilation",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-13T23:41:29.603149+00:00",
+      "found_at": "2026-10-14T10:01:35.635756+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, source port, source-port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "alekszverr-jpg/cod3pc",
+      "url": "https://github.com/alekszverr-jpg/cod3pc",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T05:08:49Z",
+      "summary": "Experimental native Windows x64 port of Call of Duty 3 Xbox 360 single-player using ReXGlue static recompilation. Bring your own game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:33.530799+00:00",
       "check": null,
       "category": "pc",
       "platforms_guess": [
@@ -100,6 +58,974 @@
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "riseio/TWIPE_00Sheven",
+      "url": "https://github.com/riseio/TWIPE_00Sheven",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T05:48:16Z",
+      "summary": "A static recompilation project of the N64 game The World Is Not Enough",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:33.530059+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "glinesbdev/mh3u-port",
+      "url": "https://github.com/glinesbdev/mh3u-port",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T06:06:36Z",
+      "summary": "Static recompilation of Monster Hunter 3 Ultimate (Wii U, USA) to native Windows and Linux. Bring your own legally dumped copy; no game files included. Topics: decompilation, mh3u, monster-hunter, static-recompilation, wii-u",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:33.529212+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "TefMeister/the-darkness-vr",
+      "url": "https://github.com/TefMeister/the-darkness-vr",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T06:10:02Z",
+      "summary": "The Darkness (2007, Starbreeze) - working toward VR on PC. Reverse-engineering notes and tooling around the Xbox 360 static recompilation effort. Non-commercial fan project; no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:33.528219+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "CraftParking/NativePlay",
+      "url": "https://github.com/CraftParking/NativePlay",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T09:04:40Z",
+      "summary": "Native Android ports of console games through static recompilation. Import your own disc and NativePlay installs it as a native port. First supported game: Call of Duty: Modern Warfare 2 (Xbox 360). Topics: android, arm64, game-ports, static-recompilation, vulkan, xbox360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:33.527162+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "sp00nznet/ww",
+      "url": "https://github.com/sp00nznet/ww",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T07:24:58Z",
+      "summary": "A static recompilation of a GameCube game to native PC.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:33.526292+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "sp00nznet/bob",
+      "url": "https://github.com/sp00nznet/bob",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T07:25:06Z",
+      "summary": "Static recompilation of Microsoft Bob (1995), a Win16 NE app and its Jet/Access Basic database engine, lifted to C and running on a Win16 runtime. Built on pcrecomp. Bring your own copy; no game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:33.525486+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "sp00nznet/chipschallenge-lynx-recomp",
+      "url": "https://github.com/sp00nznet/chipschallenge-lynx-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T07:25:27Z",
+      "summary": "Static recompilation of Chip's Challenge (Atari Lynx) — the first game on the lynxrecomp toolkit.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:33.524507+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "sp00nznet/crystalmines2-lynx-recomp",
+      "url": "https://github.com/sp00nznet/crystalmines2-lynx-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T07:25:30Z",
+      "summary": "Static recompilation of Crystal Mines II (Atari Lynx) - the second game on the lynxrecomp toolkit.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:33.523633+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "sp00nznet/nocturne",
+      "url": "https://github.com/sp00nznet/nocturne",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T07:25:41Z",
+      "summary": "Static recompilation of Nocturne (1999, Terminal Reality) to native Windows. Watcom C/C++32 binary lifted to C; the engine's 37-call APIDLL* renderer seam retargeted to modern hardware. Bring your own copy; no game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:33.522737+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "danisandoval/fukami",
+      "url": "https://github.com/danisandoval/fukami",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T07:40:38Z",
+      "summary": "Fukami: native macOS / Steam Deck port of Ridge Racer V (USA) by static recompilation. No game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:33.521845+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "sp00nznet/simpsonsarcade-ps3",
+      "url": "https://github.com/sp00nznet/simpsonsarcade-ps3",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T08:36:06Z",
+      "summary": "Static recompilation of The Simpsons Arcade Game (PS3/PSN) to native PC via ps3recomp. Sibling of the playable 360 port.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:33.521080+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable"
+      ]
+    },
+    {
+      "title": "sp00nznet/LinksAwakening",
+      "url": "https://github.com/sp00nznet/LinksAwakening",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T08:36:33Z",
+      "summary": "A static recompilation of The Legend of Zelda: Link's Awakening DX (Game Boy Color) into a native Windows application.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:33.520278+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "sp00nznet/pokemon-crystal",
+      "url": "https://github.com/sp00nznet/pokemon-crystal",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T08:36:37Z",
+      "summary": "Static recompilation of Pokemon Crystal (Game Boy Color, 2000/2001) into native code via gb-recompiled. Sibling of sp00nznet/pokemon-gold; same MBC3+RTC infrastructure.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:33.519402+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "sp00nznet/pokemon-gold",
+      "url": "https://github.com/sp00nznet/pokemon-gold",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T08:36:39Z",
+      "summary": "Static recompilation of Pokemon Gold (Game Boy Color, 1999) into native code via gb-recompiled. Gen 2 MBC3+RTC work-in-progress.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:33.518540+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "sp00nznet/pokemon-silver",
+      "url": "https://github.com/sp00nznet/pokemon-silver",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T08:36:42Z",
+      "summary": "Static recompilation of Pokemon Silver (Game Boy Color, 1999/2000) into native code via gb-recompiled. Sibling of sp00nznet/pokemon-gold and sp00nznet/pokemon-crystal.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:33.517638+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "dbefer123/mcweb",
+      "url": "https://github.com/dbefer123/mcweb",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-14T00:34:11Z",
+      "summary": "Minecraft Java Edition 26.3 in the browser: the real game compiled to WebAssembly (GraalVM Web Image) with WebGPU rendering. Contains no Minecraft code or assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:29.211522+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "doublegate/RustyNES",
+      "url": "https://github.com/doublegate/RustyNES",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-14T06:10:21Z",
+      "summary": "[RustyNES] Cycle-accurate Nintendo Entertainment System NES emulator built in pure Rust — 208+ mappers, WebAssembly-ready, GGPO netplay, TAS tools, and RetroAchievements integration for game preservation. \"Precise. Pure. Powerful.\" Topics: 6502, 8-bit, cross-platform, cycle-accurate, emulation, emulator, game-preservation, ggpo, lua, mapper, nes, netplay, nintendo, no-std, retro-gaming, retroachievements, rust, tas, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:29.206970+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: game preservation",
+        "Есть игровые/платформенные признаки: game, webassembly, wasm"
+      ]
+    },
+    {
+      "title": "RichardAtCT/simgolf-web",
+      "url": "https://github.com/RichardAtCT/simgolf-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-14T07:58:14Z",
+      "summary": "Sid Meier's SimGolf (2002) in the browser via WebAssembly. Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-14T10:01:29.205033+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "Jorge262007/FFTARecomp",
+      "url": "https://github.com/Jorge262007/FFTARecomp",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-13T17:34:15Z",
+      "summary": "Native Windows port of Final Fantasy Tactics Advance with widescreen, video/audio options and a one-click installer. Topics: emulator, fftarecomp, final-fantasy, game, gaming, linux, recompilation, rust, steamdeck, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:31.572949+00:00",
+      "check": {
+        "checked_at": "2026-10-14T10:01:37.251600+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows port of Final Fantasy Tactics Advance with widescreen, video/audio options and a one-click installer.",
+        "latest_release_url": "https://github.com/Jorge262007/FFTARecomp/releases/tag/v2.0",
+        "latest_release_name": "FFTARecomp v2.0",
+        "release_assets": [
+          {
+            "name": "FFTARecomp-linux-x86_64.tar.gz",
+            "url": "https://github.com/Jorge262007/FFTARecomp/releases/download/v2.0/FFTARecomp-linux-x86_64.tar.gz",
+            "size": 12073163
+          },
+          {
+            "name": "FFTARecomp-windows-x86_64.zip",
+            "url": "https://github.com/Jorge262007/FFTARecomp/releases/download/v2.0/FFTARecomp-windows-x86_64.zip",
+            "size": 191997882
+          }
+        ],
+        "releases": [
+          {
+            "name": "FFTARecomp v2.0",
+            "url": "https://github.com/Jorge262007/FFTARecomp/releases/tag/v2.0",
+            "published_at": "2026-10-13T09:26:28Z",
+            "assets": [
+              {
+                "name": "FFTARecomp-linux-x86_64.tar.gz",
+                "url": "https://github.com/Jorge262007/FFTARecomp/releases/download/v2.0/FFTARecomp-linux-x86_64.tar.gz",
+                "size": 12073163
+              },
+              {
+                "name": "FFTARecomp-windows-x86_64.zip",
+                "url": "https://github.com/Jorge262007/FFTARecomp/releases/download/v2.0/FFTARecomp-windows-x86_64.zip",
+                "size": 191997882
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "FFTARecomp v1.0",
+            "url": "https://github.com/Jorge262007/FFTARecomp/releases/tag/v1.0",
+            "published_at": "2026-10-10T00:48:40Z",
+            "assets": [
+              {
+                "name": "FFTARecomp.rar",
+                "url": "https://github.com/Jorge262007/FFTARecomp/releases/download/v1.0/FFTARecomp.rar",
+                "size": 153302994
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "FFTARecomp-linux-x86_64.tar.gz",
+          "url": "https://github.com/Jorge262007/FFTARecomp/releases/download/v2.0/FFTARecomp-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "FFTARecomp-windows-x86_64.zip",
+          "url": "https://github.com/Jorge262007/FFTARecomp/releases/download/v2.0/FFTARecomp-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "FFTARecomp.rar",
+          "url": "https://github.com/Jorge262007/FFTARecomp/releases/download/v1.0/FFTARecomp.rar",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "jkdansereau/goldeneye-pc-port",
+      "url": "https://github.com/jkdansereau/goldeneye-pc-port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-13T22:14:00Z",
+      "summary": "GoldenEye 007 (N64, 1997) as a native PC game for Windows, Linux, Steam Deck and macOS. Built from the open decompilation, with widescreen, mouse and keyboard or controller, and split-screen. Not an emulator. Topics: agentic-development, c, claude-code, decompilation, game-porting, goldeneye, goldeneye-007, linux, macos, mips, n64, n64-decomp, nintendo-64, opengl, pc-port, retro-gaming, reverse-engineering, sdl2, steam-deck, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:31.571581+00:00",
+      "check": {
+        "checked_at": "2026-10-14T10:01:38.797324+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "GoldenEye 007 (N64, 1997) as a native PC game for Windows, Linux, Steam Deck and macOS. Built from the open decompilation, with widescreen, mouse and keyboard or controller, and split-screen. Not an emulator.",
+        "latest_release_url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/tag/v0.5.0",
+        "latest_release_name": "GoldenEye 007 PC Port v0.5.0",
+        "release_assets": [
+          {
+            "name": "goldeneye-pc-port-0.5.0-linux-x86_64.tar.gz",
+            "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.5.0/goldeneye-pc-port-0.5.0-linux-x86_64.tar.gz",
+            "size": 11527864
+          },
+          {
+            "name": "goldeneye-pc-port-0.5.0-linux-x86_64.tar.gz.sha256",
+            "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.5.0/goldeneye-pc-port-0.5.0-linux-x86_64.tar.gz.sha256",
+            "size": 110
+          },
+          {
+            "name": "goldeneye-pc-port-0.5.0-win64.zip",
+            "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.5.0/goldeneye-pc-port-0.5.0-win64.zip",
+            "size": 17178242
+          },
+          {
+            "name": "goldeneye-pc-port-0.5.0-win64.zip.sha256",
+            "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.5.0/goldeneye-pc-port-0.5.0-win64.zip.sha256",
+            "size": 100
+          }
+        ],
+        "releases": [
+          {
+            "name": "GoldenEye 007 PC Port v0.5.0",
+            "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/tag/v0.5.0",
+            "published_at": "2026-10-07T15:42:22Z",
+            "assets": [
+              {
+                "name": "goldeneye-pc-port-0.5.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.5.0/goldeneye-pc-port-0.5.0-linux-x86_64.tar.gz",
+                "size": 11527864
+              },
+              {
+                "name": "goldeneye-pc-port-0.5.0-linux-x86_64.tar.gz.sha256",
+                "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.5.0/goldeneye-pc-port-0.5.0-linux-x86_64.tar.gz.sha256",
+                "size": 110
+              },
+              {
+                "name": "goldeneye-pc-port-0.5.0-win64.zip",
+                "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.5.0/goldeneye-pc-port-0.5.0-win64.zip",
+                "size": 17178242
+              },
+              {
+                "name": "goldeneye-pc-port-0.5.0-win64.zip.sha256",
+                "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.5.0/goldeneye-pc-port-0.5.0-win64.zip.sha256",
+                "size": 100
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "GoldenEye 007 PC Port v0.4.0",
+            "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/tag/v0.4.0",
+            "published_at": "2026-09-28T14:35:30Z",
+            "assets": [
+              {
+                "name": "goldeneye-pc-port-0.4.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.4.0/goldeneye-pc-port-0.4.0-linux-x86_64.tar.gz",
+                "size": 12962604
+              },
+              {
+                "name": "goldeneye-pc-port-0.4.0-linux-x86_64.tar.gz.sha256",
+                "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.4.0/goldeneye-pc-port-0.4.0-linux-x86_64.tar.gz.sha256",
+                "size": 110
+              },
+              {
+                "name": "goldeneye-pc-port-0.4.0-win64.zip",
+                "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.4.0/goldeneye-pc-port-0.4.0-win64.zip",
+                "size": 17103717
+              },
+              {
+                "name": "goldeneye-pc-port-0.4.0-win64.zip.sha256",
+                "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.4.0/goldeneye-pc-port-0.4.0-win64.zip.sha256",
+                "size": 100
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "GoldenEye 007 PC Port v0.3.0",
+            "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/tag/v0.3.0",
+            "published_at": "2026-09-20T21:39:24Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "GoldenEye 007 PC Port v0.2.2",
+            "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/tag/v0.2.2",
+            "published_at": "2026-09-16T13:30:57Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "GoldenEye 007 PC Port v0.2.1",
+            "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/tag/v0.2.1",
+            "published_at": "2026-09-15T16:57:48Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "GoldenEye 007 PC Port v0.2.0",
+            "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/tag/v0.2.0",
+            "published_at": "2026-09-14T04:32:54Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "GoldenEye 007 PC Port v0.1.0",
+            "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/tag/v0.1.0",
+            "published_at": "2026-09-04T04:25:11Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "win64",
+          "linux",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "goldeneye-pc-port-0.5.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.5.0/goldeneye-pc-port-0.5.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "goldeneye-pc-port-0.5.0-linux-x86_64.tar.gz.sha256",
+          "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.5.0/goldeneye-pc-port-0.5.0-linux-x86_64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "goldeneye-pc-port-0.5.0-win64.zip",
+          "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.5.0/goldeneye-pc-port-0.5.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "goldeneye-pc-port-0.5.0-win64.zip.sha256",
+          "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.5.0/goldeneye-pc-port-0.5.0-win64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "goldeneye-pc-port-0.4.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.4.0/goldeneye-pc-port-0.4.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "goldeneye-pc-port-0.4.0-linux-x86_64.tar.gz.sha256",
+          "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.4.0/goldeneye-pc-port-0.4.0-linux-x86_64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "goldeneye-pc-port-0.4.0-win64.zip",
+          "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.4.0/goldeneye-pc-port-0.4.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "goldeneye-pc-port-0.4.0-win64.zip.sha256",
+          "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/download/v0.4.0/goldeneye-pc-port-0.4.0-win64.zip.sha256",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "viktor-malieichyk/terrafire-port",
+      "url": "https://github.com/viktor-malieichyk/terrafire-port",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-13T20:09:09Z",
+      "summary": "Source port of TerraFire (1997 DOS game by Owen Thomas) to macOS and Windows with SDL3, verified frame by frame against the original Topics: dos-game, reverse-engineering, sdl3, source-port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-13T23:41:29.603149+00:00",
+      "check": {
+        "checked_at": "2026-10-14T10:01:40.479471+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Source port of TerraFire (1997 DOS game by Owen Thomas) to macOS and Windows with SDL3, verified frame by frame against the original",
+        "latest_release_url": "https://github.com/viktor-malieichyk/terrafire-port/releases/tag/v1.0.0",
+        "latest_release_name": "TerraFire v1.0.0",
+        "release_assets": [
+          {
+            "name": "TerraFire-v1.0.0-macos.zip",
+            "url": "https://github.com/viktor-malieichyk/terrafire-port/releases/download/v1.0.0/TerraFire-v1.0.0-macos.zip",
+            "size": 2671426
+          },
+          {
+            "name": "TerraFire-v1.0.0-windows-x64.zip",
+            "url": "https://github.com/viktor-malieichyk/terrafire-port/releases/download/v1.0.0/TerraFire-v1.0.0-windows-x64.zip",
+            "size": 1272652
+          }
+        ],
+        "releases": [
+          {
+            "name": "TerraFire v1.0.0",
+            "url": "https://github.com/viktor-malieichyk/terrafire-port/releases/tag/v1.0.0",
+            "published_at": "2026-10-13T20:11:49Z",
+            "assets": [
+              {
+                "name": "TerraFire-v1.0.0-macos.zip",
+                "url": "https://github.com/viktor-malieichyk/terrafire-port/releases/download/v1.0.0/TerraFire-v1.0.0-macos.zip",
+                "size": 2671426
+              },
+              {
+                "name": "TerraFire-v1.0.0-windows-x64.zip",
+                "url": "https://github.com/viktor-malieichyk/terrafire-port/releases/download/v1.0.0/TerraFire-v1.0.0-windows-x64.zip",
+                "size": 1272652
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "TerraFire-v1.0.0-macos.zip",
+          "url": "https://github.com/viktor-malieichyk/terrafire-port/releases/download/v1.0.0/TerraFire-v1.0.0-macos.zip",
+          "type": "archive"
+        },
+        {
+          "name": "TerraFire-v1.0.0-windows-x64.zip",
+          "url": "https://github.com/viktor-malieichyk/terrafire-port/releases/download/v1.0.0/TerraFire-v1.0.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
         "Есть прямые признаки порта/рекомпиляции: source port, source-port, port of, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game, windows"
       ]
@@ -113,7 +1039,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-13T23:41:29.602194+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T10:01:42.027939+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Open list of native PC ports of console games (recompilations and source ports). No game data. Readable by any launcher.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -147,7 +1090,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-13T23:41:27.652689+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T10:01:43.592825+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static Recompilation of Original Xbox game - Gladius",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -174,7 +1134,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-13T23:41:27.651980+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T10:01:45.059093+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A pure-recomp: static recompilation of Pure (2008, Xbox 360) that rebuilds the game from your own copy",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -201,7 +1178,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-13T23:41:27.651214+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T10:01:46.555243+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Toolkit for static recompilations of Sega Saturn games into native programs. No game is included.",
+        "latest_release_url": "https://github.com/tmcleroy/satrecomp/releases/tag/v0.2.0",
+        "latest_release_name": "satrecomp 0.2.0",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "satrecomp 0.2.0",
+            "url": "https://github.com/tmcleroy/satrecomp/releases/tag/v0.2.0",
+            "published_at": "2026-10-13T17:42:27Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -228,7 +1231,115 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-13T23:41:27.650136+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-14T10:01:48.128177+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Run the PSXRecomp static recompilation of Street Fighter EX2 Plus on an Xbox Series in Developer Mode: a UWP profile for a framework that has none, sixteen guarded patches and the packaging scripts. No game code, disc, BIOS or artwork.",
+        "latest_release_url": "https://github.com/jajdp/sfex2p-xbox/releases/tag/v1.0.5",
+        "latest_release_name": "sfex2p-xbox 1.0.5 — the UWP port for Xbox Developer Mode",
+        "release_assets": [
+          {
+            "name": "sfex2p-xbox-1.0.5.zip",
+            "url": "https://github.com/jajdp/sfex2p-xbox/releases/download/v1.0.5/sfex2p-xbox-1.0.5.zip",
+            "size": 105667
+          }
+        ],
+        "releases": [
+          {
+            "name": "sfex2p-xbox 1.0.5 — the UWP port for Xbox Developer Mode",
+            "url": "https://github.com/jajdp/sfex2p-xbox/releases/tag/v1.0.5",
+            "published_at": "2026-10-14T00:10:38Z",
+            "assets": [
+              {
+                "name": "sfex2p-xbox-1.0.5.zip",
+                "url": "https://github.com/jajdp/sfex2p-xbox/releases/download/v1.0.5/sfex2p-xbox-1.0.5.zip",
+                "size": 105667
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "sfex2p-xbox 1.0.4 — the UWP port for Xbox Developer Mode",
+            "url": "https://github.com/jajdp/sfex2p-xbox/releases/tag/v1.0.4",
+            "published_at": "2026-10-13T18:31:33Z",
+            "assets": [
+              {
+                "name": "sfex2p-xbox-1.0.4.zip",
+                "url": "https://github.com/jajdp/sfex2p-xbox/releases/download/v1.0.4/sfex2p-xbox-1.0.4.zip",
+                "size": 104732
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "sfex2p-xbox 1.0.3 — the UWP port for Xbox Developer Mode",
+            "url": "https://github.com/jajdp/sfex2p-xbox/releases/tag/v1.0.3",
+            "published_at": "2026-10-13T17:21:14Z",
+            "assets": [
+              {
+                "name": "sfex2p-xbox-1.0.3.zip",
+                "url": "https://github.com/jajdp/sfex2p-xbox/releases/download/v1.0.3/sfex2p-xbox-1.0.3.zip",
+                "size": 102065
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "sfex2p-xbox 1.0.2 — the UWP port for Xbox Developer Mode",
+            "url": "https://github.com/jajdp/sfex2p-xbox/releases/tag/v1.0.2",
+            "published_at": "2026-10-13T16:19:02Z",
+            "assets": [
+              {
+                "name": "sfex2p-xbox-1.0.2.zip",
+                "url": "https://github.com/jajdp/sfex2p-xbox/releases/download/v1.0.2/sfex2p-xbox-1.0.2.zip",
+                "size": 96903
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "sfex2p-xbox 1.0.1 — the UWP port for Xbox Developer Mode",
+            "url": "https://github.com/jajdp/sfex2p-xbox/releases/tag/v1.0.1",
+            "published_at": "2026-10-10T06:17:10Z",
+            "assets": [
+              {
+                "name": "sfex2p-xbox-1.0.1.zip",
+                "url": "https://github.com/jajdp/sfex2p-xbox/releases/download/v1.0.1/sfex2p-xbox-1.0.1.zip",
+                "size": 85970
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "sfex2p-xbox 1.0.0 — the UWP port for Xbox Developer Mode",
+            "url": "https://github.com/jajdp/sfex2p-xbox/releases/tag/v1.0.0",
+            "published_at": "2026-10-09T02:47:52Z",
+            "assets": [
+              {
+                "name": "sfex2p-xbox-1.0.0.zip",
+                "url": "https://github.com/jajdp/sfex2p-xbox/releases/download/v1.0.0/sfex2p-xbox-1.0.0.zip",
+                "size": 93718
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -237,8 +1348,41 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "sfex2p-xbox-1.0.5.zip",
+          "url": "https://github.com/jajdp/sfex2p-xbox/releases/download/v1.0.5/sfex2p-xbox-1.0.5.zip",
+          "type": "archive"
+        },
+        {
+          "name": "sfex2p-xbox-1.0.4.zip",
+          "url": "https://github.com/jajdp/sfex2p-xbox/releases/download/v1.0.4/sfex2p-xbox-1.0.4.zip",
+          "type": "archive"
+        },
+        {
+          "name": "sfex2p-xbox-1.0.3.zip",
+          "url": "https://github.com/jajdp/sfex2p-xbox/releases/download/v1.0.3/sfex2p-xbox-1.0.3.zip",
+          "type": "archive"
+        },
+        {
+          "name": "sfex2p-xbox-1.0.2.zip",
+          "url": "https://github.com/jajdp/sfex2p-xbox/releases/download/v1.0.2/sfex2p-xbox-1.0.2.zip",
+          "type": "archive"
+        },
+        {
+          "name": "sfex2p-xbox-1.0.1.zip",
+          "url": "https://github.com/jajdp/sfex2p-xbox/releases/download/v1.0.1/sfex2p-xbox-1.0.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "sfex2p-xbox-1.0.0.zip",
+          "url": "https://github.com/jajdp/sfex2p-xbox/releases/download/v1.0.0/sfex2p-xbox-1.0.0.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
