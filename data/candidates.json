@@ -1,7 +1,111 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-15T09:43:45.488667+00:00",
+  "last_updated": "2026-10-15T16:45:51.053392+00:00",
   "candidates": [
+    {
+      "title": "identity-md-launches/launch-1848-project-doom-1993",
+      "url": "https://github.com/identity-md-launches/launch-1848-project-doom-1993",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-15T15:29:07Z",
+      "summary": "# Project: DOOM 1993 — Browser Game with Security Audit (made by IMD Swarm) Build a fully functional website where users can play the original DOOM 1993 engine directly in their browsers using WebAssembly. Use existing open-source code rather than recreating the game from scratch. ## 1. Source Code Research Analyze these GitHub repositories: - h...",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-15T16:45:35.068383+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "DonJaimeHash/turbo-gol",
+      "url": "https://github.com/DonJaimeHash/turbo-gol",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-15T16:11:18Z",
+      "summary": "Physics car soccer in the browser: 1v1, 2v2 and 3v3 against bots or online, with ranked play. WebAssembly physics, three.js WebGPU, Cloudflare Workers. AGPL-3.0. Topics: agpl, browser-game, car-soccer, cloudflare-workers, durable-objects, game, multiplayer, physics, rollback-netcode, threejs, typescript, webassembly, webgpu, webrtc",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-15T16:45:35.066156+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "cyberneticangel/cultures-saga-wasm",
+      "url": "https://github.com/cyberneticangel/cultures-saga-wasm",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-15T16:18:36Z",
+      "summary": "Cultures – Die Saga (2005) recompiled to WebAssembly for Firefox: static x86->C recompilation plus a Win32/DirectX runtime. Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-15T16:45:35.065156+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, wasm"
+      ]
+    },
     {
       "title": "Heromachine/Burnout-Recompilation",
       "url": "https://github.com/Heromachine/Burnout-Recompilation",
@@ -11,7 +115,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T09:43:24.873506+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-15T16:45:39.303636+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Burnout (Xbox, Criterion 2002) to a native Windows build. Ships the tool, not the game: you supply your own disc image.",
+        "latest_release_url": "https://github.com/Heromachine/Burnout-Recompilation/releases/tag/v0.1.0",
+        "latest_release_name": "v0.1.0: first release, Windows launcher with Options and up to 3× resolution",
+        "release_assets": [
+          {
+            "name": "Burnout-Recompilation-v0.1.0-windows-x64.zip",
+            "url": "https://github.com/Heromachine/Burnout-Recompilation/releases/download/v0.1.0/Burnout-Recompilation-v0.1.0-windows-x64.zip",
+            "size": 143526891
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0: first release, Windows launcher with Options and up to 3× resolution",
+            "url": "https://github.com/Heromachine/Burnout-Recompilation/releases/tag/v0.1.0",
+            "published_at": "2026-10-14T23:36:04Z",
+            "assets": [
+              {
+                "name": "Burnout-Recompilation-v0.1.0-windows-x64.zip",
+                "url": "https://github.com/Heromachine/Burnout-Recompilation/releases/download/v0.1.0/Burnout-Recompilation-v0.1.0-windows-x64.zip",
+                "size": 143526891
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -25,9 +167,16 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Burnout-Recompilation-v0.1.0-windows-x64.zip",
+          "url": "https://github.com/Heromachine/Burnout-Recompilation/releases/download/v0.1.0/Burnout-Recompilation-v0.1.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -45,7 +194,336 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T09:43:24.872711+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-15T16:45:40.793530+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of a GameCube fighting game via static recompilation - PowerPC translated to C, run as native x86-64 on a Dolphin-derived runtime",
+        "latest_release_url": "https://github.com/jackpoison-prog/RingOut/releases/tag/v1.6.8.1",
+        "latest_release_name": "Ring Out 1.6.8.1",
+        "release_assets": [
+          {
+            "name": "RingOut-1.6.8.1-linux-x86_64.zip",
+            "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8.1/RingOut-1.6.8.1-linux-x86_64.zip",
+            "size": 69531853
+          },
+          {
+            "name": "RingOut-1.6.8.1-steamdeck-x86_64.zip",
+            "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8.1/RingOut-1.6.8.1-steamdeck-x86_64.zip",
+            "size": 20909163
+          },
+          {
+            "name": "RingOut-1.6.8.1-windows-x64-setup.exe",
+            "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8.1/RingOut-1.6.8.1-windows-x64-setup.exe",
+            "size": 151842774
+          },
+          {
+            "name": "RingOut-1.6.8.1-windows-x64.zip",
+            "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8.1/RingOut-1.6.8.1-windows-x64.zip",
+            "size": 242282564
+          }
+        ],
+        "releases": [
+          {
+            "name": "Ring Out 1.6.8.1",
+            "url": "https://github.com/jackpoison-prog/RingOut/releases/tag/v1.6.8.1",
+            "published_at": "2026-10-15T14:09:46Z",
+            "assets": [
+              {
+                "name": "RingOut-1.6.8.1-linux-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8.1/RingOut-1.6.8.1-linux-x86_64.zip",
+                "size": 69531853
+              },
+              {
+                "name": "RingOut-1.6.8.1-steamdeck-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8.1/RingOut-1.6.8.1-steamdeck-x86_64.zip",
+                "size": 20909163
+              },
+              {
+                "name": "RingOut-1.6.8.1-windows-x64-setup.exe",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8.1/RingOut-1.6.8.1-windows-x64-setup.exe",
+                "size": 151842774
+              },
+              {
+                "name": "RingOut-1.6.8.1-windows-x64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8.1/RingOut-1.6.8.1-windows-x64.zip",
+                "size": 242282564
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Ring Out 1.6.8",
+            "url": "https://github.com/jackpoison-prog/RingOut/releases/tag/v1.6.8",
+            "published_at": "2026-10-15T02:44:38Z",
+            "assets": [
+              {
+                "name": "RingOut-1.6.8-linux-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8/RingOut-1.6.8-linux-x86_64.zip",
+                "size": 69530472
+              },
+              {
+                "name": "RingOut-1.6.8-steamdeck-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8/RingOut-1.6.8-steamdeck-x86_64.zip",
+                "size": 20908954
+              },
+              {
+                "name": "RingOut-1.6.8-windows-x64-setup.exe",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8/RingOut-1.6.8-windows-x64-setup.exe",
+                "size": 151856664
+              },
+              {
+                "name": "RingOut-1.6.8-windows-x64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8/RingOut-1.6.8-windows-x64.zip",
+                "size": 242234103
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Ring Out 1.6.7",
+            "url": "https://github.com/jackpoison-prog/RingOut/releases/tag/v1.6.7",
+            "published_at": "2026-10-08T21:59:32Z",
+            "assets": [
+              {
+                "name": "RingOut-1.6.7-linux-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.7/RingOut-1.6.7-linux-x86_64.zip",
+                "size": 69616355
+              },
+              {
+                "name": "RingOut-1.6.7-steamdeck-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.7/RingOut-1.6.7-steamdeck-x86_64.zip",
+                "size": 20877644
+              },
+              {
+                "name": "RingOut-1.6.7-windows-x64-setup.exe",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.7/RingOut-1.6.7-windows-x64-setup.exe",
+                "size": 150750905
+              },
+              {
+                "name": "RingOut-1.6.7-windows-x64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.7/RingOut-1.6.7-windows-x64.zip",
+                "size": 241930558
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Ring Out 1.6.6",
+            "url": "https://github.com/jackpoison-prog/RingOut/releases/tag/v1.6.6",
+            "published_at": "2026-10-03T04:58:49Z",
+            "assets": [
+              {
+                "name": "RingOut-1.6.6-linux-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.6/RingOut-1.6.6-linux-x86_64.zip",
+                "size": 69492537
+              },
+              {
+                "name": "RingOut-1.6.6-steamdeck-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.6/RingOut-1.6.6-steamdeck-x86_64.zip",
+                "size": 20838732
+              },
+              {
+                "name": "RingOut-1.6.6-windows-x64-setup.exe",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.6/RingOut-1.6.6-windows-x64-setup.exe",
+                "size": 150885985
+              },
+              {
+                "name": "RingOut-1.6.6-windows-x64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.6/RingOut-1.6.6-windows-x64.zip",
+                "size": 241882064
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Ring Out 1.6.5",
+            "url": "https://github.com/jackpoison-prog/RingOut/releases/tag/v1.6.5",
+            "published_at": "2026-09-27T23:26:50Z",
+            "assets": [
+              {
+                "name": "RingOut-1.6.5-linux-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.5/RingOut-1.6.5-linux-x86_64.zip",
+                "size": 57274870
+              },
+              {
+                "name": "RingOut-1.6.5-steamdeck-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.5/RingOut-1.6.5-steamdeck-x86_64.zip",
+                "size": 22627141
+              },
+              {
+                "name": "RingOut-1.6.5-windows-x64-setup.exe",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.5/RingOut-1.6.5-windows-x64-setup.exe",
+                "size": 149534938
+              },
+              {
+                "name": "RingOut-1.6.5-windows-x64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.5/RingOut-1.6.5-windows-x64.zip",
+                "size": 235708319
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Ring Out 1.6.4",
+            "url": "https://github.com/jackpoison-prog/RingOut/releases/tag/v1.6.4",
+            "published_at": "2026-09-27T16:20:18Z",
+            "assets": [
+              {
+                "name": "RingOut-1.6.4-linux-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.4/RingOut-1.6.4-linux-x86_64.zip",
+                "size": 57290192
+              },
+              {
+                "name": "RingOut-1.6.4-steamdeck-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.4/RingOut-1.6.4-steamdeck-x86_64.zip",
+                "size": 22626683
+              },
+              {
+                "name": "RingOut-1.6.4-windows-x64-setup.exe",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.4/RingOut-1.6.4-windows-x64-setup.exe",
+                "size": 149459924
+              },
+              {
+                "name": "RingOut-1.6.4-windows-x64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.4/RingOut-1.6.4-windows-x64.zip",
+                "size": 235726351
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Ring Out 1.6.3",
+            "url": "https://github.com/jackpoison-prog/RingOut/releases/tag/v1.6.3",
+            "published_at": "2026-09-22T23:58:34Z",
+            "assets": [
+              {
+                "name": "RingOut-1.6.3-linux-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.3/RingOut-1.6.3-linux-x86_64.zip",
+                "size": 57293231
+              },
+              {
+                "name": "RingOut-1.6.3-steamdeck-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.3/RingOut-1.6.3-steamdeck-x86_64.zip",
+                "size": 22574656
+              },
+              {
+                "name": "RingOut-1.6.3-windows-x64-setup.exe",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.3/RingOut-1.6.3-windows-x64-setup.exe",
+                "size": 147997773
+              },
+              {
+                "name": "RingOut-1.6.3-windows-x64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.3/RingOut-1.6.3-windows-x64.zip",
+                "size": 235395557
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Ring Out 1.6.2",
+            "url": "https://github.com/jackpoison-prog/RingOut/releases/tag/v1.6.2",
+            "published_at": "2026-09-17T22:23:47Z",
+            "assets": [
+              {
+                "name": "RingOut-1.6.2-linux-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.2/RingOut-1.6.2-linux-x86_64.zip",
+                "size": 57296809
+              },
+              {
+                "name": "RingOut-1.6.2-steamdeck-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.2/RingOut-1.6.2-steamdeck-x86_64.zip",
+                "size": 22573805
+              },
+              {
+                "name": "RingOut-1.6.2-windows-x64-setup.exe",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.2/RingOut-1.6.2-windows-x64-setup.exe",
+                "size": 147982205
+              },
+              {
+                "name": "RingOut-1.6.2-windows-x64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.2/RingOut-1.6.2-windows-x64.zip",
+                "size": 235401103
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Ring Out 1.6.1",
+            "url": "https://github.com/jackpoison-prog/RingOut/releases/tag/v1.6.1",
+            "published_at": "2026-09-13T03:52:10Z",
+            "assets": [
+              {
+                "name": "RingOut-1.6.1-linux-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.1/RingOut-1.6.1-linux-x86_64.zip",
+                "size": 57814657
+              },
+              {
+                "name": "RingOut-1.6.1-steamdeck-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.1/RingOut-1.6.1-steamdeck-x86_64.zip",
+                "size": 22569629
+              },
+              {
+                "name": "RingOut-1.6.1-windows-x64-setup.exe",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.1/RingOut-1.6.1-windows-x64-setup.exe",
+                "size": 149733760
+              },
+              {
+                "name": "RingOut-1.6.1-windows-x64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.1/RingOut-1.6.1-windows-x64.zip",
+                "size": 235916579
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Ring Out 1.6",
+            "url": "https://github.com/jackpoison-prog/RingOut/releases/tag/v1.6",
+            "published_at": "2026-09-11T12:12:23Z",
+            "assets": [
+              {
+                "name": "RingOut-1.6-linux-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6/RingOut-1.6-linux-x86_64.zip",
+                "size": 57807208
+              },
+              {
+                "name": "RingOut-1.6-steamdeck-x86_64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6/RingOut-1.6-steamdeck-x86_64.zip",
+                "size": 22566100
+              },
+              {
+                "name": "RingOut-1.6-windows-x64-setup.exe",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6/RingOut-1.6-windows-x64-setup.exe",
+                "size": 149727741
+              },
+              {
+                "name": "RingOut-1.6-windows-x64.zip",
+                "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6/RingOut-1.6-windows-x64.zip",
+                "size": 235868309
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -54,14 +532,218 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
+          "windows",
+          "linux",
           "pc port",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "RingOut-1.6.8.1-linux-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8.1/RingOut-1.6.8.1-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.8.1-steamdeck-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8.1/RingOut-1.6.8.1-steamdeck-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.8.1-windows-x64-setup.exe",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8.1/RingOut-1.6.8.1-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "RingOut-1.6.8.1-windows-x64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8.1/RingOut-1.6.8.1-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.8-linux-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8/RingOut-1.6.8-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.8-steamdeck-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8/RingOut-1.6.8-steamdeck-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.8-windows-x64-setup.exe",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8/RingOut-1.6.8-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "RingOut-1.6.8-windows-x64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.8/RingOut-1.6.8-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.7-linux-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.7/RingOut-1.6.7-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.7-steamdeck-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.7/RingOut-1.6.7-steamdeck-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.7-windows-x64-setup.exe",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.7/RingOut-1.6.7-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "RingOut-1.6.7-windows-x64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.7/RingOut-1.6.7-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.6-linux-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.6/RingOut-1.6.6-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.6-steamdeck-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.6/RingOut-1.6.6-steamdeck-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.6-windows-x64-setup.exe",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.6/RingOut-1.6.6-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "RingOut-1.6.6-windows-x64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.6/RingOut-1.6.6-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.5-linux-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.5/RingOut-1.6.5-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.5-steamdeck-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.5/RingOut-1.6.5-steamdeck-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.5-windows-x64-setup.exe",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.5/RingOut-1.6.5-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "RingOut-1.6.5-windows-x64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.5/RingOut-1.6.5-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.4-linux-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.4/RingOut-1.6.4-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.4-steamdeck-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.4/RingOut-1.6.4-steamdeck-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.4-windows-x64-setup.exe",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.4/RingOut-1.6.4-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "RingOut-1.6.4-windows-x64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.4/RingOut-1.6.4-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.3-linux-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.3/RingOut-1.6.3-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.3-steamdeck-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.3/RingOut-1.6.3-steamdeck-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.3-windows-x64-setup.exe",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.3/RingOut-1.6.3-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "RingOut-1.6.3-windows-x64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.3/RingOut-1.6.3-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.2-linux-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.2/RingOut-1.6.2-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.2-steamdeck-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.2/RingOut-1.6.2-steamdeck-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.2-windows-x64-setup.exe",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.2/RingOut-1.6.2-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "RingOut-1.6.2-windows-x64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.2/RingOut-1.6.2-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.1-linux-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.1/RingOut-1.6.1-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.1-steamdeck-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.1/RingOut-1.6.1-steamdeck-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6.1-windows-x64-setup.exe",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.1/RingOut-1.6.1-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "RingOut-1.6.1-windows-x64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6.1/RingOut-1.6.1-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6-linux-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6/RingOut-1.6-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6-steamdeck-x86_64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6/RingOut-1.6-steamdeck-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RingOut-1.6-windows-x64-setup.exe",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6/RingOut-1.6-windows-x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "RingOut-1.6-windows-x64.zip",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/download/v1.6/RingOut-1.6-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -79,7 +761,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T09:43:24.871780+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-15T16:45:42.385659+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Dragon Quest IX (EU) research: Nintendo DS decompilation tooling, ARM/Thumb static recompilation, and experimental SDL2/Godot native runtime. No game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -106,7 +805,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T09:43:24.870836+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-15T16:45:43.821230+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "WWE 2K14 Recomp: unofficial native PC port of WWE 2K14 (Xbox 360) for Windows, made by static recompilation. 60 FPS, up to 4K. Bring your own game. Based on WWE '13 Recomp and ReXGlue.",
+        "latest_release_url": "https://github.com/mikeflare007/wwe2k14-recomp/releases/tag/v1.0",
+        "latest_release_name": "WWE 2K14 Recomp v1.0",
+        "release_assets": [
+          {
+            "name": "WWE2K14-Recomp-v1.0.zip",
+            "url": "https://github.com/mikeflare007/wwe2k14-recomp/releases/download/v1.0/WWE2K14-Recomp-v1.0.zip",
+            "size": 33276669
+          }
+        ],
+        "releases": [
+          {
+            "name": "WWE 2K14 Recomp v1.0",
+            "url": "https://github.com/mikeflare007/wwe2k14-recomp/releases/tag/v1.0",
+            "published_at": "2026-10-15T08:24:22Z",
+            "assets": [
+              {
+                "name": "WWE2K14-Recomp-v1.0.zip",
+                "url": "https://github.com/mikeflare007/wwe2k14-recomp/releases/download/v1.0/WWE2K14-Recomp-v1.0.zip",
+                "size": 33276669
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -115,20 +852,28 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
+          "windows",
           "pc port",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+      "build_links": [
+        {
+          "name": "WWE2K14-Recomp-v1.0.zip",
+          "url": "https://github.com/mikeflare007/wwe2k14-recomp/releases/download/v1.0/WWE2K14-Recomp-v1.0.zip",
+          "type": "archive"
+        }
       ],
-      "relevance_score": 11,
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
         "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
-        "Есть игровые/платформенные признаки: game"
+        "Есть игровые/платформенные признаки: game, windows"
       ]
     },
     {
@@ -140,7 +885,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T09:43:24.869888+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-15T16:45:45.311056+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "StarCraft II for Android — AI-assisted static recompilation toolkit (x86-32 → native ARM64). Tools & method only: NO game code, NO assets — bring your own copy. Offline/single-player.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -173,7 +935,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T09:43:20.635091+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-15T16:45:46.785816+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Play EA Sports Rugby 08 (PC, 2007) in the browser: static recompilation of the x86 game to WebAssembly, Direct3D 8 on WebGL 2. Installable PWA. Bring your own copy.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -208,7 +987,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T09:43:20.632070+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-15T16:45:48.164441+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Stars! in the browser: decompiling the 1995 Windows 3.11 Stars! (stars26i.exe) into C and recompiling it to WebAssembly, with the original Win 3.1 look and feel preserved pixel for pixel. Every decompiled function is diff-tested against the original code running in a Unicorn emulator, and save and turn files stay byte-compatible with the original.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -1462,7 +2258,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:31.928059+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-15T16:45:49.602297+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Army of Two: The 40th Day (Xbox 360, 2010, 454108D8) static recompilation using ReXGlue SDK v0.10. No game assets included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
