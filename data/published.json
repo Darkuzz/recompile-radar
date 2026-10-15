@@ -1,6 +1,7 @@
 {
   "schema_version": 1,
   "published_ids": [
+    "https://github.com/andrewloable/stars-game-recompiled",
     "https://github.com/andrewnakas/fe8-web",
     "https://github.com/andrewnakas/knidl-web",
     "https://github.com/andrewnakas/mzm-web",
@@ -13,9 +14,12 @@
     "https://github.com/andrewnakas/pokeyellow-web",
     "https://github.com/andrewnakas/supermetroid-web",
     "https://github.com/andrewnakas/tmc-web",
+    "https://github.com/andrewnakas/warioland4-web",
+    "https://github.com/andrewnakas/zelda3-web",
     "https://github.com/danielperezl/carspsprecomp",
     "https://github.com/devex780/earthworm-jim-hd-recomp",
     "https://github.com/glinesbdev/mh3u-port",
+    "https://github.com/ifaka/rugby08-web",
     "https://github.com/jackandbeans/snap64recomp",
     "https://github.com/jessetbh/vpw64recomp",
     "https://github.com/jessetbh/wcwnworevengerecomp",
@@ -35,6 +39,7 @@
     "https://github.com/tmcleroy/vampire-savior-recomp",
     "https://github.com/wivi514/dead_rising_2_case_west_xenon_recomp",
     "https://github.com/wivi514/dead_rising_2_case_zero_xenon_recomp",
+    "https://github.com/yaqzans/gladiator-kricket-port",
     "https://github.com/yuutatsubasa/chaotixrecompiled"
   ]
 }

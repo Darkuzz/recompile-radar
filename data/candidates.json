@@ -1,7 +1,242 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-14T23:06:32.938998+00:00",
+  "last_updated": "2026-10-15T09:43:45.488667+00:00",
   "candidates": [
+    {
+      "title": "Heromachine/Burnout-Recompilation",
+      "url": "https://github.com/Heromachine/Burnout-Recompilation",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-14T23:36:04Z",
+      "summary": "Static recompilation of Burnout (Xbox, Criterion 2002) to a native Windows build. Ships the tool, not the game: you supply your own disc image.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-15T09:43:24.873506+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "windows build"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "jackpoison-prog/RingOut",
+      "url": "https://github.com/jackpoison-prog/RingOut",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-15T02:44:38Z",
+      "summary": "Native PC port of a GameCube fighting game via static recompilation - PowerPC translated to C, run as native x86-64 on a Dolphin-derived runtime",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-15T09:43:24.872711+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "0bAndyWirus/DQ9-Decomp",
+      "url": "https://github.com/0bAndyWirus/DQ9-Decomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-15T07:23:17Z",
+      "summary": "Dragon Quest IX (EU) research: Nintendo DS decompilation tooling, ARM/Thumb static recompilation, and experimental SDL2/Godot native runtime. No game data. Topics: cpp, decompilation, dq9, dqix, dragon-quest, dragon-quest-ix, godot, nintendo-ds, reverse-engineering, sdl2, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-15T09:43:24.871780+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "mikeflare007/wwe2k14-recomp",
+      "url": "https://github.com/mikeflare007/wwe2k14-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-15T08:24:21Z",
+      "summary": "Unofficial native PC port of WWE 2K14 (Xbox 360) by static recompilation. 60 FPS, up to 4K. Bring your own game. Based on WWE '13 Recomp and ReXGlue.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-15T09:43:24.870836+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "elkir0/sc2-android-recomp",
+      "url": "https://github.com/elkir0/sc2-android-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-15T08:39:42Z",
+      "summary": "StarCraft II for Android — AI-assisted static recompilation toolkit (x86-32 → native ARM64). Tools & method only: NO game code, NO assets — bring your own copy. Offline/single-player.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-15T09:43:24.869888+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "IFAKA/rugby08-web",
+      "url": "https://github.com/IFAKA/rugby08-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-15T00:34:03Z",
+      "summary": "Play EA Sports Rugby 08 (PC, 2007) in the browser: static recompilation of the x86 game to WebAssembly, Direct3D 8 on WebGL 2. Installable PWA. Bring your own copy. Topics: browser-game, direct3d8, emscripten, game-port, pwa, recompilation, reverse-engineering, rugby, rugby-08, static-recompilation, webassembly, webgl2",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-15T09:43:20.635091+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, webgl"
+      ]
+    },
+    {
+      "title": "andrewloable/stars-game-recompiled",
+      "url": "https://github.com/andrewloable/stars-game-recompiled",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-15T06:57:34Z",
+      "summary": "Stars! in the browser: decompiling the 1995 Windows 3.11 Stars! (stars26i.exe) into C and recompiling it to WebAssembly, with the original Win 3.1 look and feel preserved pixel for pixel. Every decompiled function is diff-tested against the original code running in a Unicorn emulator, and save and turn files stay byte-compatible with the original.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-15T09:43:20.632070+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, windows"
+      ]
+    },
     {
       "title": "yaqzans/gladiator-kricket-port",
       "url": "https://github.com/yaqzans/gladiator-kricket-port",
@@ -11,7 +246,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T23:06:18.520995+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-15T09:43:33.615637+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Android port of a 2011 J2ME cricket game: MIDP shim, touch controls, decompiler fixes. Bring your own jar.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +297,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T23:06:12.699692+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-15T09:43:35.051208+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Run the RecompOne static recompilation of Castlevania Chronicles on an Xbox Series in Developer Mode: the first RecompOne game on a console. A .NET game compiled with NativeAOT for UWP, over SDL2 and Mesa. The recipe only: no disc, no BIOS, no binaries.",
+        "latest_release_url": "https://github.com/jajdp/castlevania-chronicles-xbox/releases/tag/v1.0.0",
+        "latest_release_name": "castlevania-chronicles-xbox 1.0.0",
+        "release_assets": [
+          {
+            "name": "castlevania-chronicles-xbox-1.0.0.zip",
+            "url": "https://github.com/jajdp/castlevania-chronicles-xbox/releases/download/v1.0.0/castlevania-chronicles-xbox-1.0.0.zip",
+            "size": 47821
+          }
+        ],
+        "releases": [
+          {
+            "name": "castlevania-chronicles-xbox 1.0.0",
+            "url": "https://github.com/jajdp/castlevania-chronicles-xbox/releases/tag/v1.0.0",
+            "published_at": "2026-10-14T17:08:50Z",
+            "assets": [
+              {
+                "name": "castlevania-chronicles-xbox-1.0.0.zip",
+                "url": "https://github.com/jajdp/castlevania-chronicles-xbox/releases/download/v1.0.0/castlevania-chronicles-xbox-1.0.0.zip",
+                "size": 47821
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -54,8 +344,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "castlevania-chronicles-xbox-1.0.0.zip",
+          "url": "https://github.com/jajdp/castlevania-chronicles-xbox/releases/download/v1.0.0/castlevania-chronicles-xbox-1.0.0.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -72,7 +370,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T23:06:08.475917+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-15T09:43:36.511915+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "The Hobbit (2003) PC recompiled to WebAssembly, playable in Chrome (bring your own game copy)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -105,7 +420,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T23:06:06.490135+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-15T09:43:37.968265+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Online Yacht dice for 1-4 players with AI bots. Play in browser.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -840,7 +1172,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:31.932408+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-15T09:43:39.462856+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Static recompilation port scaffold for the original Xbox game The Urbz: Sims in the City (USA), built on XboxXBERecomp. No game data.",
+        "latest_release_url": "https://github.com/abilliontokens/urbz-recomp/releases/tag/v0.1.0",
+        "latest_release_name": "v0.1.0 - first playable build",
+        "release_assets": [
+          {
+            "name": "Urbz.zip",
+            "url": "https://github.com/abilliontokens/urbz-recomp/releases/download/v0.1.0/Urbz.zip",
+            "size": 5906521
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0 - first playable build",
+            "url": "https://github.com/abilliontokens/urbz-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-10-15T09:42:17Z",
+            "assets": [
+              {
+                "name": "Urbz.zip",
+                "url": "https://github.com/abilliontokens/urbz-recomp/releases/download/v0.1.0/Urbz.zip",
+                "size": 5906521
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -849,8 +1219,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "Urbz.zip",
+          "url": "https://github.com/abilliontokens/urbz-recomp/releases/download/v0.1.0/Urbz.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -867,7 +1245,67 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:31.931549+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-15T09:43:40.922189+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Apple Silicon macOS port of Populous: The Beginning via static recompilation. Bring your own copy of the game (GOG).",
+        "latest_release_url": "https://github.com/iagodemacedo/OpenPopTB-MacOS/releases/tag/v0.1.2",
+        "latest_release_name": "v0.1.2: signed and notarized",
+        "release_assets": [
+          {
+            "name": "OpenPopTB-MacOS-0.1.2.zip",
+            "url": "https://github.com/iagodemacedo/OpenPopTB-MacOS/releases/download/v0.1.2/OpenPopTB-MacOS-0.1.2.zip",
+            "size": 6129087
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.2: signed and notarized",
+            "url": "https://github.com/iagodemacedo/OpenPopTB-MacOS/releases/tag/v0.1.2",
+            "published_at": "2026-10-15T00:33:19Z",
+            "assets": [
+              {
+                "name": "OpenPopTB-MacOS-0.1.2.zip",
+                "url": "https://github.com/iagodemacedo/OpenPopTB-MacOS/releases/download/v0.1.2/OpenPopTB-MacOS-0.1.2.zip",
+                "size": 6129087
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.1: prebuilt download",
+            "url": "https://github.com/iagodemacedo/OpenPopTB-MacOS/releases/tag/v0.1.1",
+            "published_at": "2026-10-14T15:02:42Z",
+            "assets": [
+              {
+                "name": "OpenPopTB-MacOS-0.1.1.zip",
+                "url": "https://github.com/iagodemacedo/OpenPopTB-MacOS/releases/download/v0.1.1/OpenPopTB-MacOS-0.1.1.zip",
+                "size": 5994451
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.0 — first public version",
+            "url": "https://github.com/iagodemacedo/OpenPopTB-MacOS/releases/tag/v0.1.0",
+            "published_at": "2026-10-14T03:35:24Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -876,8 +1314,21 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "OpenPopTB-MacOS-0.1.2.zip",
+          "url": "https://github.com/iagodemacedo/OpenPopTB-MacOS/releases/download/v0.1.2/OpenPopTB-MacOS-0.1.2.zip",
+          "type": "archive"
+        },
+        {
+          "name": "OpenPopTB-MacOS-0.1.1.zip",
+          "url": "https://github.com/iagodemacedo/OpenPopTB-MacOS/releases/download/v0.1.1/OpenPopTB-MacOS-0.1.1.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -894,7 +1345,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:31.930203+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-15T09:43:42.501330+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Run the SuperMetroidRecomp static recompilation of Super Metroid on an Xbox Series in Developer Mode: the UWP port, as a recipe you apply to your own checkout. A Direct3D 11 presenter on CoreWindow, 16:9 at 58 fps. No ROM, no game code, no binaries.",
+        "latest_release_url": "https://github.com/jajdp/supermetroid-recomp-xbox/releases/tag/v1.0.0",
+        "latest_release_name": "supermetroid-recomp-xbox 1.0.0 — the UWP port for Xbox Developer Mode",
+        "release_assets": [
+          {
+            "name": "supermetroid-recomp-xbox-1.0.0.zip",
+            "url": "https://github.com/jajdp/supermetroid-recomp-xbox/releases/download/v1.0.0/supermetroid-recomp-xbox-1.0.0.zip",
+            "size": 82015
+          }
+        ],
+        "releases": [
+          {
+            "name": "supermetroid-recomp-xbox 1.0.0 — the UWP port for Xbox Developer Mode",
+            "url": "https://github.com/jajdp/supermetroid-recomp-xbox/releases/tag/v1.0.0",
+            "published_at": "2026-10-14T15:07:52Z",
+            "assets": [
+              {
+                "name": "supermetroid-recomp-xbox-1.0.0.zip",
+                "url": "https://github.com/jajdp/supermetroid-recomp-xbox/releases/download/v1.0.0/supermetroid-recomp-xbox-1.0.0.zip",
+                "size": 82015
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -903,8 +1392,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "supermetroid-recomp-xbox-1.0.0.zip",
+          "url": "https://github.com/jajdp/supermetroid-recomp-xbox/releases/download/v1.0.0/supermetroid-recomp-xbox-1.0.0.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -921,7 +1418,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:31.928960+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-15T09:43:44.054663+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Need for Speed: Underground 2 (Win32/x86, Direct3D 9) to native ARM64 macOS. No Wine, no emulator. Tools and runtime only; no game code or assets.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
