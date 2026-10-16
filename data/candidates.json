@@ -1,7 +1,870 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-16T09:37:10.922001+00:00",
+  "last_updated": "2026-10-16T16:28:58.394626+00:00",
   "candidates": [
+    {
+      "title": "LeightonW87/Brickin-it-NES-Edition",
+      "url": "https://github.com/LeightonW87/Brickin-it-NES-Edition",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-15T10:32:51Z",
+      "summary": "NES port of a game I made for Android, made with help of Claude Code.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:44.327044+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "grzrobak/waternet-android",
+      "url": "https://github.com/grzrobak/waternet-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-15T12:56:50Z",
+      "summary": "Port of Dingux Waternet game to Android",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:44.325745+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "lloydstellar/override-android",
+      "url": "https://github.com/lloydstellar/override-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-15T22:37:11Z",
+      "summary": "A 2048 puzzle against a rogue AI on a retro CRT terminal. Android port of the browser game on lloydstellar.nl, no ads, no account, offline. Topics: 2048, android, jetpack-compose, kotlin, puzzle-game, retro",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:44.324236+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "frangarcj/sf4ce_vita",
+      "url": "https://github.com/frangarcj/sf4ce_vita",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-15T23:00:51Z",
+      "summary": "Offline ARMv7 Android compatibility port of Street Fighter IV CE for PS Vita. Game data not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:44.323184+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "ps vita"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "maxenceprrs-prog/PlatinumDroid",
+      "url": "https://github.com/maxenceprrs-prog/PlatinumDroid",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-16T07:49:45Z",
+      "summary": "Work-in-progress native Android port of a Nintendo DS RPG. Requires your own legally obtained ROM. No game assets included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:44.322036+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, android"
+      ]
+    },
+    {
+      "title": "lunchwine/space-trader-classic",
+      "url": "https://github.com/lunchwine/space-trader-classic",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-16T13:00:53Z",
+      "summary": "An HTML/JS/CSS port of the classic Space Trader game, available as PWA or Android APK.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:44.320462+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android apk"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "XHYN-PH/XHYN-V-reborn",
+      "url": "https://github.com/XHYN-PH/XHYN-V-reborn",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-16T13:40:11Z",
+      "summary": "An unofficial native GTA V port for Android, based on the Chinese Android port. Maintained by XHYN-PH. Requires your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:44.319043+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "lesad710/openxray-android",
+      "url": "https://github.com/lesad710/openxray-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-16T15:21:28Z",
+      "summary": "Android port of the OpenXRay engine (X-Ray, GSC Game World)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:44.318235+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "RussoPhone/tomodachi-ltd-recomp",
+      "url": "https://github.com/RussoPhone/tomodachi-ltd-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-16T09:47:24Z",
+      "summary": "Experimental static recompilation using suyu-derived emulation. Native PC port in development. NO game files included. Topics: aarch64, linux, nintendo-switch, preservation, recompilation, static-recompilation, suyu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:37.118691+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "zap0xfce2/Kula-World-Recompiled",
+      "url": "https://github.com/zap0xfce2/Kula-World-Recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-16T10:27:03Z",
+      "summary": "Static recompilation of Kula World (PAL, SCES-01000) to native Linux and macOS using psxrecomp. No game data included – bring your own disc image and BIOS.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:37.117572+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "jmverges/hollywood-monsters-port",
+      "url": "https://github.com/jmverges/hollywood-monsters-port",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-16T12:30:06Z",
+      "summary": "Static recompilation port of Hollywood Monsters (FX 2010) to Linux, Windows and other systems. Needs your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:37.116551+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "BelmanteGu/SuperMarioWonderRecomp",
+      "url": "https://github.com/BelmanteGu/SuperMarioWonderRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-16T13:32:09Z",
+      "summary": "Super Mario Bros. Wonder static recompilation (NVN on Vulkan/MoltenVK), macOS, Android and Windows. No game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:37.115710+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "cherryduck/PS5_EccoDefender",
+      "url": "https://github.com/cherryduck/PS5_EccoDefender",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-16T14:19:45Z",
+      "summary": "Ecco the Dolphin: Defender of the Future, natively on PS5: a static recompilation (dreamcomp) of the Dreamcast game. Bring your own disc. Topics: dreamcast, dreamcomp, ecco-the-dolphin, homebrew, ps5, recomp, recompilation, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:37.114725+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "dguillot-gh/phantom-hourglass-recomp",
+      "url": "https://github.com/dguillot-gh/phantom-hourglass-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-16T15:36:14Z",
+      "summary": "Native PC and Android port of The Legend of Zelda: Phantom Hourglass by static recompilation. Bring your own ROM: no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:37.113717+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, android"
+      ]
+    },
+    {
+      "title": "Coz-0/smo-recomp",
+      "url": "https://github.com/Coz-0/smo-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-16T16:04:21Z",
+      "summary": "Static recompilation of Super Mario Odyssey (Switch, 1.0.0) to native Windows x64. No game data included; bring your own dump. Topics: aarch64, decompilation-tools, nintendo-switch, preservation, recompilation, static-recompilation, super-mario-odyssey, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:37.112706+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "jajdp/mhp3rd-xbox",
+      "url": "https://github.com/jajdp/mhp3rd-xbox",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-16T16:27:59Z",
+      "summary": "Run the Yakumo static recompilation of Monster Hunter Portable 3rd HD on an Xbox Series in Developer Mode: the UWP port, as a recipe. An Xbox has no Vulkan, so this goes through Mesa Dozen. With music and movies, via an FFmpeg built for UWP. No ISO, no game data, no binaries. Topics: dozen, mesa, monster-hunter, psp, source-port, static-recompilation, uwp, vulkan, xbox, yakumo",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:37.111366+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, source-port, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "k1gs/drakengard1-recomp",
+      "url": "https://github.com/k1gs/drakengard1-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-16T16:24:32Z",
+      "summary": "Preparation and research for Drakengard (PS2, Europe) static recompilation. No game data or playable build.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:37.110174+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable"
+      ]
+    },
+    {
+      "title": "ThaddeusHackz/DIVIDED-HORIZON-THE-REVERSE-ENGINEERED-GAME-",
+      "url": "https://github.com/ThaddeusHackz/DIVIDED-HORIZON-THE-REVERSE-ENGINEERED-GAME-",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-16T14:08:06Z",
+      "summary": "First-person combat prototype with shared C simulation, browser WebAssembly gameplay, a Windows raylib build, and a separate Unreal Engine 5 source foundation Topics: 3d-game, browser-game, c, combat-simulation, cpp, first-person-shooter, fps-game, game-assets, game-development, game-prototype, indie-game, pathfinding, raylib, singleplayer, unreal-engine, unreal-engine-5, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:33.141714+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, gameplay, webassembly, wasm, windows",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "AndrewC776/wasm-arcade",
+      "url": "https://github.com/AndrewC776/wasm-arcade",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-16T14:10:44Z",
+      "summary": "Wasm Arcade: play Minecraft Classic online and browse 1,081 classic game entries in your browser Topics: arcade, browser-games, minecraft-classic, retro-games, wasm-arcade, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:33.140419+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: classic game",
+        "Есть игровые/платформенные признаки: game, webassembly, wasm"
+      ]
+    },
+    {
+      "title": "rgnv/wc3-wasm",
+      "url": "https://github.com/rgnv/wc3-wasm",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-16T14:33:25Z",
+      "summary": "Warcraft III in the browser — WebAssembly port of the OpenRealm engine (Reign of Chaos + The Frozen Throne, Reforged-era data) with WebSocket multiplayer. Bring your own legally-owned game data. Topics: emscripten, game-port, warcraft-iii, warcraft3, wasm, wc3, webassembly, websocket",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:33.139058+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, wasm"
+      ]
+    },
+    {
+      "title": "SuperBox64/SuperBox64Kit",
+      "url": "https://github.com/SuperBox64/SuperBox64Kit",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-16T14:55:32Z",
+      "summary": "SuperBox64 SpriteKit is an open source Swift reimplementation of Apple SpriteKit for WebAssembly/WASM/WASI including Native Direct builds on any platform including Linux, Windows, Mac round trip, Android and possibly Nintendo Switch. Also planning a game system platform that uses WASM as virtual game cartridges from the same cross platform Swift.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:33.137227+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: reimplementation",
+        "Есть игровые/платформенные признаки: game, webassembly, wasm, windows, linux"
+      ]
+    },
+    {
+      "title": "remodivito/cuttle",
+      "url": "https://github.com/remodivito/cuttle",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-16T16:10:33Z",
+      "summary": "Cuttle card game in the browser, with a C++ AI opponent compiled to WebAssembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:33.133646+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "qn5530/phoenix-infinity",
+      "url": "https://github.com/qn5530/phoenix-infinity",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-10-16T02:09:00Z",
+      "summary": "A calculator shooter that evolves: faithful 1-bit TI-83 Phoenix → neon → DoDonPachi-style bullet hell. Play in browser, mod it via mods.js. Topics: bullet-hell, calculator, game, html5-game, shmup, ti-83",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:31.298852+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "html5",
+          "play in browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, play in browser, html5",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "Nekoarc123/Nekoarc123.github.io",
+      "url": "https://github.com/Nekoarc123/Nekoarc123.github.io",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-16T13:09:30Z",
+      "summary": "This is a Sonic Mania Browser port that ACTUALLY will boot into the menu, save, and even have no crashes basically the full game unlike other ports!",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:29.092387+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 7,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "cookertron/BubbleBobble",
+      "url": "https://github.com/cookertron/BubbleBobble",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-16T13:46:42Z",
+      "summary": "A faithful browser port of the ZX Spectrum Bubble Bobble (Firebird, 1987), reconstructed from the Z80 machine code: the 48K beeper game and the 128K with its AY music, every behaviour measured against the original running in a Z80 simulator.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T16:28:29.090562+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "IshaanKalra2103/recomps",
       "url": "https://github.com/IshaanKalra2103/recomps",
@@ -647,7 +1510,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T22:58:51.006626+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-16T16:28:47.236245+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": false,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub вернул 404. Проект не удаляем; проверку нужно повторить."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -682,7 +1561,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T22:58:51.002931+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-16T16:28:47.901974+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Browser (WebAssembly + WebGL) reverse-engineering port of AXIS (2005 OpenGL action game). Original code only — decoders, compiled-C engine, and web shim; bring your own legally-owned game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -3506,7 +4402,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:27.325648+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-16T16:28:49.795024+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "One Piece-inspired action adventure game in Python (pygame-ce), playable in the browser via WebAssembly. Concept by Ace.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -3541,7 +4454,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:25.309792+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-16T16:28:51.192904+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Bluffing dice game (Liar's Dice), 2-6 players online. Play in browser.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -3575,7 +4505,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:25.308943+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-16T16:28:52.684796+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Co-op 3D web game: recover lost items and extract in time. Play in browser.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -3609,7 +4556,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T16:58:25.308015+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-16T16:28:54.150089+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Co-op online merge game: slingshot fireworks up and combine them. Play in browser.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -4123,7 +5087,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T10:01:33.524507+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-16T16:28:55.526041+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Chip's Challenge (Atari Lynx) — the first game on the lynxrecomp toolkit.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -4150,7 +5131,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-14T10:01:33.523633+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-16T16:28:56.985330+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Crystal Mines II (Atari Lynx) - the second game on the lynxrecomp toolkit.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
