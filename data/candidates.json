@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-15T22:59:11.875317+00:00",
+  "last_updated": "2026-10-16T09:37:10.922001+00:00",
   "candidates": [
     {
       "title": "IshaanKalra2103/recomps",
@@ -11,7 +11,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T22:58:55.442395+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-16T09:36:58.099129+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A directory of static recompilations of PC and Xbox games, focused on running natively on Apple Silicon Macs. Bring your own game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -38,7 +55,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T22:58:55.441776+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-16T09:36:59.684658+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Linux port of Tekken Tag Tournament 2 Wii U Edition by static recompilation. No game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -71,17 +105,83 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T22:58:55.441107+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-10-16T09:37:01.210485+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "GoldenEye007: Reloaded 2011 [Xbox360] game static recompilation project based on RexGlue-SDK",
+        "latest_release_url": "https://github.com/nikolaygorb/GoldenEye007ReloadedRecomp/releases/tag/1.0",
+        "latest_release_name": "1.0",
+        "release_assets": [
+          {
+            "name": "GER-lin64.zip",
+            "url": "https://github.com/nikolaygorb/GoldenEye007ReloadedRecomp/releases/download/1.0/GER-lin64.zip",
+            "size": 40518450
+          },
+          {
+            "name": "GER-win64.zip",
+            "url": "https://github.com/nikolaygorb/GoldenEye007ReloadedRecomp/releases/download/1.0/GER-win64.zip",
+            "size": 20897948
+          }
+        ],
+        "releases": [
+          {
+            "name": "1.0",
+            "url": "https://github.com/nikolaygorb/GoldenEye007ReloadedRecomp/releases/tag/1.0",
+            "published_at": "2026-10-15T17:01:58Z",
+            "assets": [
+              {
+                "name": "GER-lin64.zip",
+                "url": "https://github.com/nikolaygorb/GoldenEye007ReloadedRecomp/releases/download/1.0/GER-lin64.zip",
+                "size": 40518450
+              },
+              {
+                "name": "GER-win64.zip",
+                "url": "https://github.com/nikolaygorb/GoldenEye007ReloadedRecomp/releases/download/1.0/GER-win64.zip",
+                "size": 20897948
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "win64"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "GER-lin64.zip",
+          "url": "https://github.com/nikolaygorb/GoldenEye007ReloadedRecomp/releases/download/1.0/GER-lin64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GER-win64.zip",
+          "url": "https://github.com/nikolaygorb/GoldenEye007ReloadedRecomp/releases/download/1.0/GER-win64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -98,7 +198,94 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T22:58:55.440384+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-16T09:37:02.873912+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Experimental static recompilation of Forza Motorsport 4 using ReXGlue. No game files included.",
+        "latest_release_url": "https://github.com/Alexbeav/fm4-recomp/releases/tag/v0.1.0-alpha.2",
+        "latest_release_name": "FM4 Recompiled v0.1.0-alpha.2 - win-x64",
+        "release_assets": [
+          {
+            "name": "fm4-recomp-0.1.0-alpha.2-win-x64.zip",
+            "url": "https://github.com/Alexbeav/fm4-recomp/releases/download/v0.1.0-alpha.2/fm4-recomp-0.1.0-alpha.2-win-x64.zip",
+            "size": 54753905
+          },
+          {
+            "name": "fm4-recomp-0.1.0-alpha.2-win-x64.zip.sha256",
+            "url": "https://github.com/Alexbeav/fm4-recomp/releases/download/v0.1.0-alpha.2/fm4-recomp-0.1.0-alpha.2-win-x64.zip.sha256",
+            "size": 103
+          },
+          {
+            "name": "fm4-recomp-source-0.1.0-alpha.2-win-x64.zip",
+            "url": "https://github.com/Alexbeav/fm4-recomp/releases/download/v0.1.0-alpha.2/fm4-recomp-source-0.1.0-alpha.2-win-x64.zip",
+            "size": 44857646
+          },
+          {
+            "name": "fm4-recomp-source-0.1.0-alpha.2-win-x64.zip.sha256",
+            "url": "https://github.com/Alexbeav/fm4-recomp/releases/download/v0.1.0-alpha.2/fm4-recomp-source-0.1.0-alpha.2-win-x64.zip.sha256",
+            "size": 110
+          }
+        ],
+        "releases": [
+          {
+            "name": "FM4 Recompiled v0.1.0-alpha.2 - win-x64",
+            "url": "https://github.com/Alexbeav/fm4-recomp/releases/tag/v0.1.0-alpha.2",
+            "published_at": "2026-10-15T19:50:44Z",
+            "assets": [
+              {
+                "name": "fm4-recomp-0.1.0-alpha.2-win-x64.zip",
+                "url": "https://github.com/Alexbeav/fm4-recomp/releases/download/v0.1.0-alpha.2/fm4-recomp-0.1.0-alpha.2-win-x64.zip",
+                "size": 54753905
+              },
+              {
+                "name": "fm4-recomp-0.1.0-alpha.2-win-x64.zip.sha256",
+                "url": "https://github.com/Alexbeav/fm4-recomp/releases/download/v0.1.0-alpha.2/fm4-recomp-0.1.0-alpha.2-win-x64.zip.sha256",
+                "size": 103
+              },
+              {
+                "name": "fm4-recomp-source-0.1.0-alpha.2-win-x64.zip",
+                "url": "https://github.com/Alexbeav/fm4-recomp/releases/download/v0.1.0-alpha.2/fm4-recomp-source-0.1.0-alpha.2-win-x64.zip",
+                "size": 44857646
+              },
+              {
+                "name": "fm4-recomp-source-0.1.0-alpha.2-win-x64.zip.sha256",
+                "url": "https://github.com/Alexbeav/fm4-recomp/releases/download/v0.1.0-alpha.2/fm4-recomp-source-0.1.0-alpha.2-win-x64.zip.sha256",
+                "size": 110
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "FM4 Recompiled v0.1.0-alpha.1",
+            "url": "https://github.com/Alexbeav/fm4-recomp/releases/tag/v0.1.0-alpha.1",
+            "published_at": "2026-09-03T09:45:53Z",
+            "assets": [
+              {
+                "name": "fm4-recomp-source-0.1.0-alpha.1.zip",
+                "url": "https://github.com/Alexbeav/fm4-recomp/releases/download/v0.1.0-alpha.1/fm4-recomp-source-0.1.0-alpha.1.zip",
+                "size": 43034250
+              },
+              {
+                "name": "fm4-recomp-source-0.1.0-alpha.1.zip.sha256",
+                "url": "https://github.com/Alexbeav/fm4-recomp/releases/download/v0.1.0-alpha.1/fm4-recomp-source-0.1.0-alpha.1.zip.sha256",
+                "size": 103
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -107,8 +294,41 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "fm4-recomp-0.1.0-alpha.2-win-x64.zip",
+          "url": "https://github.com/Alexbeav/fm4-recomp/releases/download/v0.1.0-alpha.2/fm4-recomp-0.1.0-alpha.2-win-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "fm4-recomp-0.1.0-alpha.2-win-x64.zip.sha256",
+          "url": "https://github.com/Alexbeav/fm4-recomp/releases/download/v0.1.0-alpha.2/fm4-recomp-0.1.0-alpha.2-win-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "fm4-recomp-source-0.1.0-alpha.2-win-x64.zip",
+          "url": "https://github.com/Alexbeav/fm4-recomp/releases/download/v0.1.0-alpha.2/fm4-recomp-source-0.1.0-alpha.2-win-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "fm4-recomp-source-0.1.0-alpha.2-win-x64.zip.sha256",
+          "url": "https://github.com/Alexbeav/fm4-recomp/releases/download/v0.1.0-alpha.2/fm4-recomp-source-0.1.0-alpha.2-win-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "fm4-recomp-source-0.1.0-alpha.1.zip",
+          "url": "https://github.com/Alexbeav/fm4-recomp/releases/download/v0.1.0-alpha.1/fm4-recomp-source-0.1.0-alpha.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "fm4-recomp-source-0.1.0-alpha.1.zip.sha256",
+          "url": "https://github.com/Alexbeav/fm4-recomp/releases/download/v0.1.0-alpha.1/fm4-recomp-source-0.1.0-alpha.1.zip.sha256",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -125,7 +345,75 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T22:58:55.439533+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-16T09:37:04.517940+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native PC port of Street Fighter Alpha 2 (CPS-2 arcade) via static recompilation, with a training mode: macOS, Linux, Steam Deck, Windows. Requires your own copy of the game. Beta.",
+        "latest_release_url": "https://github.com/tmcleroy/sfa2-recomp/releases/tag/v0.1.0-beta.2",
+        "latest_release_name": "v0.1.0-beta.2",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/tmcleroy/sfa2-recomp/releases/download/v0.1.0-beta.2/SHA256SUMS.txt",
+            "size": 304
+          },
+          {
+            "name": "StreetFighterAlpha2-linux-x86_64.tar.gz",
+            "url": "https://github.com/tmcleroy/sfa2-recomp/releases/download/v0.1.0-beta.2/StreetFighterAlpha2-linux-x86_64.tar.gz",
+            "size": 8341209
+          },
+          {
+            "name": "StreetFighterAlpha2-macOS.zip",
+            "url": "https://github.com/tmcleroy/sfa2-recomp/releases/download/v0.1.0-beta.2/StreetFighterAlpha2-macOS.zip",
+            "size": 11502126
+          },
+          {
+            "name": "StreetFighterAlpha2-windows-x64.zip",
+            "url": "https://github.com/tmcleroy/sfa2-recomp/releases/download/v0.1.0-beta.2/StreetFighterAlpha2-windows-x64.zip",
+            "size": 6928262
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0-beta.2",
+            "url": "https://github.com/tmcleroy/sfa2-recomp/releases/tag/v0.1.0-beta.2",
+            "published_at": "2026-10-15T20:11:24Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/tmcleroy/sfa2-recomp/releases/download/v0.1.0-beta.2/SHA256SUMS.txt",
+                "size": 304
+              },
+              {
+                "name": "StreetFighterAlpha2-linux-x86_64.tar.gz",
+                "url": "https://github.com/tmcleroy/sfa2-recomp/releases/download/v0.1.0-beta.2/StreetFighterAlpha2-linux-x86_64.tar.gz",
+                "size": 8341209
+              },
+              {
+                "name": "StreetFighterAlpha2-macOS.zip",
+                "url": "https://github.com/tmcleroy/sfa2-recomp/releases/download/v0.1.0-beta.2/StreetFighterAlpha2-macOS.zip",
+                "size": 11502126
+              },
+              {
+                "name": "StreetFighterAlpha2-windows-x64.zip",
+                "url": "https://github.com/tmcleroy/sfa2-recomp/releases/download/v0.1.0-beta.2/StreetFighterAlpha2-windows-x64.zip",
+                "size": 6928262
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -141,9 +429,31 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/tmcleroy/sfa2-recomp/releases/download/v0.1.0-beta.2/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "StreetFighterAlpha2-linux-x86_64.tar.gz",
+          "url": "https://github.com/tmcleroy/sfa2-recomp/releases/download/v0.1.0-beta.2/StreetFighterAlpha2-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "StreetFighterAlpha2-macOS.zip",
+          "url": "https://github.com/tmcleroy/sfa2-recomp/releases/download/v0.1.0-beta.2/StreetFighterAlpha2-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "StreetFighterAlpha2-windows-x64.zip",
+          "url": "https://github.com/tmcleroy/sfa2-recomp/releases/download/v0.1.0-beta.2/StreetFighterAlpha2-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -161,7 +471,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T22:58:55.438694+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-16T09:37:06.144912+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Chibi-Robo! (GameCube) as a native PC game: static recompilation with no emulated hardware. Decompilation, multiplayer, remaster and mods planned.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -194,7 +521,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T22:58:55.438028+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-16T09:37:07.719623+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Jet Set Radio Future (Xbox) to Windows — bring your own game files",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -227,7 +571,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-15T22:58:55.437228+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-16T09:37:09.302564+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Prototype and Prototype 2 (Xbox 360) for Nintendo Switch: static recompilation with ReXGlue, native Vulkan renderer. Free, not for sale. No game files.",
+        "latest_release_url": "https://github.com/fungalspores/prototype-switch/releases/tag/v1.0.0",
+        "latest_release_name": "Prototype + Prototype 2 for Switch 1.0.0",
+        "release_assets": [
+          {
+            "name": "Prototype-1-2-Switch-1.0.0.zip",
+            "url": "https://github.com/fungalspores/prototype-switch/releases/download/v1.0.0/Prototype-1-2-Switch-1.0.0.zip",
+            "size": 60201224
+          }
+        ],
+        "releases": [
+          {
+            "name": "Prototype + Prototype 2 for Switch 1.0.0",
+            "url": "https://github.com/fungalspores/prototype-switch/releases/tag/v1.0.0",
+            "published_at": "2026-10-15T19:59:53Z",
+            "assets": [
+              {
+                "name": "Prototype-1-2-Switch-1.0.0.zip",
+                "url": "https://github.com/fungalspores/prototype-switch/releases/download/v1.0.0/Prototype-1-2-Switch-1.0.0.zip",
+                "size": 60201224
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -238,9 +620,16 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Prototype-1-2-Switch-1.0.0.zip",
+          "url": "https://github.com/fungalspores/prototype-switch/releases/download/v1.0.0/Prototype-1-2-Switch-1.0.0.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 10,
       "relevance_status": "promising",
