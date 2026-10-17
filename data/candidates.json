@@ -1,26 +1,91 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-16T22:44:14.820684+00:00",
+  "last_updated": "2026-10-17T09:08:51.816337+00:00",
   "candidates": [
     {
-      "title": "radosek/ztraceny-ostrov",
-      "url": "https://github.com/radosek/ztraceny-ostrov",
-      "source_name": "GitHub: PC ports",
-      "published": "2026-10-16T22:08:15Z",
-      "summary": "Rust port of the Czech adventure game Ztracený Ostrov (2000) for macOS, Windows, Linux and the browser. No game data included.",
+      "title": "Farazs27/generalsandroid",
+      "url": "https://github.com/Farazs27/generalsandroid",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-16T23:14:03Z",
+      "summary": "Private native Android port of Generals and Zero Hour; original game data supplied locally",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-16T22:43:58.569952+00:00",
+      "found_at": "2026-10-17T09:08:36.118386+00:00",
       "check": null,
-      "category": "browser",
+      "category": "android",
       "platforms_guess": [
-        "Web",
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game, android"
+      ]
+    },
+    {
+      "title": "AFKmoney/kingpin-android",
+      "url": "https://github.com/AFKmoney/kingpin-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-17T03:02:50Z",
+      "summary": "Kingpin: Life of Crime Android port skeleton. Game module compiles. MDX header validation and Android load path in place. See MUSE.md for remaining work.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-17T09:08:36.117442+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "techknight/geow2",
+      "url": "https://github.com/techknight/geow2",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-17T04:10:16Z",
+      "summary": "Native port of Geometry Wars: Retro Evolved 2 (Xbox 360 XBLA) for Windows, macOS, Linux and Steam Deck, rebuilt by reverse engineering. Unofficial; needs your own copy of the game. Topics: cross-platform, game, game-port, geometry-wars, metal, reverse-engineering, sdl3, steam-deck, twin-stick-shooter, vulkan, xbla, xbox-360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-17T09:08:34.120176+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
         "PC"
       ],
       "category_evidence": {
-        "browser_terms": [
-          "browser"
-        ],
+        "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
           "windows",
@@ -30,79 +95,24 @@
       },
       "build_links": [],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
         "В описании обнаружены признаки PC-поддержки."
       ],
-      "relevance_score": 9,
+      "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть прямые признаки порта/рекомпиляции: port of, reverse engineering, native port",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
     {
-      "title": "LucasRamos96/Black-recomp-PTBR",
-      "url": "https://github.com/LucasRamos96/Black-recomp-PTBR",
+      "title": "TekRantGaming/south-park-tower-defense-recompiled",
+      "url": "https://github.com/TekRantGaming/south-park-tower-defense-recompiled",
       "source_name": "GitHub: static recompilation",
-      "published": "2026-10-16T19:20:10Z",
-      "summary": "Unofficial native port of Black (PS2) via static recompilation + Brazilian Portuguese mod. Bring your own disc; no game data.",
+      "published": "2026-10-17T04:05:31Z",
+      "summary": "South Park: Let's Go Tower Defense Play! (Xbox 360 XBLA) running natively on Windows and Linux: static recompilation with ReXGlue and the TRG launcher. Bring your own game.",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-16T22:43:54.718300+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
-      "category_evidence": {
-        "browser_terms": [],
-        "android_terms": [],
-        "pc_terms": [],
-        "other_platform_terms": []
-      },
-      "build_links": [],
-      "classification_notes": [],
-      "relevance_score": 11,
-      "relevance_status": "promising",
-      "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, native port, explicit port/recompilation wording",
-        "Есть игровые/платформенные признаки: game"
-      ]
-    },
-    {
-      "title": "omegakatana92/Street-Fighter-Alpha-Recomp-",
-      "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-",
-      "source_name": "GitHub: static recompilation",
-      "published": "2026-10-16T20:58:36Z",
-      "summary": "Street fighter Alpha (Capcom) made by static recompilation with cps2recomp. The game's 68000 and Z80 programs are translated ahead of time into C++ and run on a small machine written for it — no emulator. No game data is in this release. What you need",
-      "status": "unverified",
-      "browser_playable": "unknown",
-      "found_at": "2026-10-16T22:43:54.717676+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
-      "category_evidence": {
-        "browser_terms": [],
-        "android_terms": [],
-        "pc_terms": [],
-        "other_platform_terms": []
-      },
-      "build_links": [],
-      "classification_notes": [],
-      "relevance_score": 10,
-      "relevance_status": "promising",
-      "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
-        "Есть игровые/платформенные признаки: game"
-      ]
-    },
-    {
-      "title": "Revivedx/SavageWindRecomp",
-      "url": "https://github.com/Revivedx/SavageWindRecomp",
-      "source_name": "GitHub: static recompilation",
-      "published": "2026-10-16T21:21:12Z",
-      "summary": "Work-in-progress static recompilation of The Legend of Zelda: Breath of the Wild (Switch, v1.8.2) for Windows and Linux. Bring your own dump: no game files, keys or dumping tools included.",
-      "status": "unverified",
-      "browser_playable": "unknown",
-      "found_at": "2026-10-16T22:43:54.716996+00:00",
+      "found_at": "2026-10-17T09:08:30.028365+00:00",
       "check": null,
       "category": "pc",
       "platforms_guess": [
@@ -129,6 +139,574 @@
       ]
     },
     {
+      "title": "TekRantGaming/south-park-tenormans-revenge-recompiled",
+      "url": "https://github.com/TekRantGaming/south-park-tenormans-revenge-recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-17T04:43:06Z",
+      "summary": "South Park: Tenorman's Revenge (Xbox 360 XBLA) running natively on Windows and Linux: static recompilation with ReXGlue and the TRG launcher. Bring your own game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-17T09:08:30.027478+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "modelarious/recomp-index",
+      "url": "https://github.com/modelarious/recomp-index",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-17T05:30:01Z",
+      "summary": "Unified source-backed index of game decompilation, static recompilation, and source-port projects.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-17T09:08:30.026659+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, source-port, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "arnaldolima1/gow-ascension-pc",
+      "url": "https://github.com/arnaldolima1/gow-ascension-pc",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-17T06:47:10Z",
+      "summary": "God of War: Ascension (PS3), an experiment in static recompilation to run natively on PC, on ps3recomp. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-17T09:08:30.025877+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "k1gs/Drakengard1Recompile",
+      "url": "https://github.com/k1gs/Drakengard1Recompile",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-17T07:06:52Z",
+      "summary": "Preparation and research for Drakengard (PS2, Europe) static recompilation. No game data or playable build.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-17T09:08:30.024965+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable"
+      ]
+    },
+    {
+      "title": "nikolaygorb/PerfectDarkZeroRecomp",
+      "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-17T09:07:25Z",
+      "summary": "Perfect Dark Zero [Xbox360] game static recompilation project based on RexGlue-SDK Topics: perfect-dark, perfect-dark-zero, rexglue, rexglue-recomp, static-recomp, static-recompilation, xbox360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-17T09:08:30.023924+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "radosek/ztraceny-ostrov",
+      "url": "https://github.com/radosek/ztraceny-ostrov",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-16T22:08:15Z",
+      "summary": "Rust port of the Czech adventure game Ztracený Ostrov (2000) for macOS, Windows, Linux and the browser. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T22:43:58.569952+00:00",
+      "check": {
+        "checked_at": "2026-10-17T09:08:39.122714+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Rust port of the Czech adventure game Ztracený Ostrov (2000) for macOS, Windows, Linux and the browser. No game data included.",
+        "latest_release_url": "https://github.com/radosek/ztraceny-ostrov/releases/tag/v0.1.0",
+        "latest_release_name": "v0.1.0",
+        "release_assets": [
+          {
+            "name": "ztraceny-ostrov-linux-x86_64.AppImage",
+            "url": "https://github.com/radosek/ztraceny-ostrov/releases/download/v0.1.0/ztraceny-ostrov-linux-x86_64.AppImage",
+            "size": 6756856
+          },
+          {
+            "name": "ztraceny-ostrov-macos-universal.zip",
+            "url": "https://github.com/radosek/ztraceny-ostrov/releases/download/v0.1.0/ztraceny-ostrov-macos-universal.zip",
+            "size": 6628741
+          },
+          {
+            "name": "ztraceny-ostrov-web.tar.gz",
+            "url": "https://github.com/radosek/ztraceny-ostrov/releases/download/v0.1.0/ztraceny-ostrov-web.tar.gz",
+            "size": 302201
+          },
+          {
+            "name": "ztraceny-ostrov-windows-x64.zip",
+            "url": "https://github.com/radosek/ztraceny-ostrov/releases/download/v0.1.0/ztraceny-ostrov-windows-x64.zip",
+            "size": 3604074
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0",
+            "url": "https://github.com/radosek/ztraceny-ostrov/releases/tag/v0.1.0",
+            "published_at": "2026-10-16T22:10:14Z",
+            "assets": [
+              {
+                "name": "ztraceny-ostrov-linux-x86_64.AppImage",
+                "url": "https://github.com/radosek/ztraceny-ostrov/releases/download/v0.1.0/ztraceny-ostrov-linux-x86_64.AppImage",
+                "size": 6756856
+              },
+              {
+                "name": "ztraceny-ostrov-macos-universal.zip",
+                "url": "https://github.com/radosek/ztraceny-ostrov/releases/download/v0.1.0/ztraceny-ostrov-macos-universal.zip",
+                "size": 6628741
+              },
+              {
+                "name": "ztraceny-ostrov-web.tar.gz",
+                "url": "https://github.com/radosek/ztraceny-ostrov/releases/download/v0.1.0/ztraceny-ostrov-web.tar.gz",
+                "size": 302201
+              },
+              {
+                "name": "ztraceny-ostrov-windows-x64.zip",
+                "url": "https://github.com/radosek/ztraceny-ostrov/releases/download/v0.1.0/ztraceny-ostrov-windows-x64.zip",
+                "size": 3604074
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "ztraceny-ostrov-linux-x86_64.AppImage",
+          "url": "https://github.com/radosek/ztraceny-ostrov/releases/download/v0.1.0/ztraceny-ostrov-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ztraceny-ostrov-macos-universal.zip",
+          "url": "https://github.com/radosek/ztraceny-ostrov/releases/download/v0.1.0/ztraceny-ostrov-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ztraceny-ostrov-web.tar.gz",
+          "url": "https://github.com/radosek/ztraceny-ostrov/releases/download/v0.1.0/ztraceny-ostrov-web.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "ztraceny-ostrov-windows-x64.zip",
+          "url": "https://github.com/radosek/ztraceny-ostrov/releases/download/v0.1.0/ztraceny-ostrov-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "LucasRamos96/Black-recomp-PTBR",
+      "url": "https://github.com/LucasRamos96/Black-recomp-PTBR",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-16T19:20:10Z",
+      "summary": "Unofficial native port of Black (PS2) via static recompilation + Brazilian Portuguese mod. Bring your own disc; no game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T22:43:54.718300+00:00",
+      "check": {
+        "checked_at": "2026-10-17T09:08:40.736678+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native port of Black (PS2) via static recompilation + Brazilian Portuguese mod. Bring your own disc; no game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "omegakatana92/Street-Fighter-Alpha-Recomp-",
+      "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-16T20:58:36Z",
+      "summary": "Street fighter Alpha (Capcom) made by static recompilation with cps2recomp. The game's 68000 and Z80 programs are translated ahead of time into C++ and run on a small machine written for it — no emulator. No game data is in this release. What you need",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T22:43:54.717676+00:00",
+      "check": {
+        "checked_at": "2026-10-17T09:08:42.255118+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A native PC port of Street Fighter Alpha: Warriors' Dreams (CPS-2), recompiled from the arcade board's code with cps2recomp - no emulator. Bring your own sfa ROM set.",
+        "latest_release_url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/tag/v0.1.0-beta.2",
+        "latest_release_name": "Street Fighter Alpha Recomp v0.1.0-beta.2",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.2/SHA256SUMS.txt",
+            "size": 322
+          },
+          {
+            "name": "Street-Fighter-Alpha-linux-x86_64.AppImage",
+            "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.2/Street-Fighter-Alpha-linux-x86_64.AppImage",
+            "size": 7150072
+          },
+          {
+            "name": "Street-Fighter-Alpha-linux-x86_64.tar.gz",
+            "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.2/Street-Fighter-Alpha-linux-x86_64.tar.gz",
+            "size": 6838461
+          },
+          {
+            "name": "Street-Fighter-Alpha-windows-x64.zip",
+            "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.2/Street-Fighter-Alpha-windows-x64.zip",
+            "size": 6503906
+          }
+        ],
+        "releases": [
+          {
+            "name": "Street Fighter Alpha Recomp v0.1.0-beta.2",
+            "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/tag/v0.1.0-beta.2",
+            "published_at": "2026-10-17T00:33:56Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.2/SHA256SUMS.txt",
+                "size": 322
+              },
+              {
+                "name": "Street-Fighter-Alpha-linux-x86_64.AppImage",
+                "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.2/Street-Fighter-Alpha-linux-x86_64.AppImage",
+                "size": 7150072
+              },
+              {
+                "name": "Street-Fighter-Alpha-linux-x86_64.tar.gz",
+                "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.2/Street-Fighter-Alpha-linux-x86_64.tar.gz",
+                "size": 6838461
+              },
+              {
+                "name": "Street-Fighter-Alpha-windows-x64.zip",
+                "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.2/Street-Fighter-Alpha-windows-x64.zip",
+                "size": 6503906
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Street Fighter Alpha Recomp v0.1.0-beta.1",
+            "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/tag/v0.1.0-beta.1",
+            "published_at": "2026-10-16T23:06:59Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.1/SHA256SUMS.txt",
+                "size": 319
+              },
+              {
+                "name": "Street-Fighter-Alpha-linux-x86_64.AppImage",
+                "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.1/Street-Fighter-Alpha-linux-x86_64.AppImage",
+                "size": 7150072
+              },
+              {
+                "name": "Street-Fighter-Alpha-linux-x86_64.tar.gz",
+                "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.1/Street-Fighter-Alpha-linux-x86_64.tar.gz",
+                "size": 6837525
+              },
+              {
+                "name": "Street-Fighter-Alpha-windows-x64.zip",
+                "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.1/Street-Fighter-Alpha-windows-x64.zip",
+                "size": 6503691
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.2/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "Street-Fighter-Alpha-linux-x86_64.AppImage",
+          "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.2/Street-Fighter-Alpha-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Street-Fighter-Alpha-linux-x86_64.tar.gz",
+          "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.2/Street-Fighter-Alpha-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "Street-Fighter-Alpha-windows-x64.zip",
+          "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.2/Street-Fighter-Alpha-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.1/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "Street-Fighter-Alpha-linux-x86_64.AppImage",
+          "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.1/Street-Fighter-Alpha-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Street-Fighter-Alpha-linux-x86_64.tar.gz",
+          "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.1/Street-Fighter-Alpha-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "Street-Fighter-Alpha-windows-x64.zip",
+          "url": "https://github.com/omegakatana92/Street-Fighter-Alpha-Recomp-/releases/download/v0.1.0-beta.1/Street-Fighter-Alpha-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom"
+      ]
+    },
+    {
+      "title": "Revivedx/SavageWindRecomp",
+      "url": "https://github.com/Revivedx/SavageWindRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-16T21:21:12Z",
+      "summary": "Work-in-progress static recompilation of The Legend of Zelda: Breath of the Wild (Switch, v1.8.2) for Windows and Linux. Bring your own dump: no game files, keys or dumping tools included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-16T22:43:54.716996+00:00",
+      "check": {
+        "checked_at": "2026-10-17T09:08:43.919241+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Work-in-progress static recompilation of The Legend of Zelda: Breath of the Wild (Switch, v1.8.2) for Windows and Linux. Bring your own dump: no game files, keys or dumping tools included.",
+        "latest_release_url": "https://github.com/Revivedx/SavageWindRecomp/releases/tag/v0.1.0-alpha.1",
+        "latest_release_name": "Savage Wind Alpha 1 (0.1.0-alpha.1)",
+        "release_assets": [
+          {
+            "name": "SavageWind-0.1.0-alpha.1-windows.zip",
+            "url": "https://github.com/Revivedx/SavageWindRecomp/releases/download/v0.1.0-alpha.1/SavageWind-0.1.0-alpha.1-windows.zip",
+            "size": 89034461
+          }
+        ],
+        "releases": [
+          {
+            "name": "Savage Wind Alpha 1 (0.1.0-alpha.1)",
+            "url": "https://github.com/Revivedx/SavageWindRecomp/releases/tag/v0.1.0-alpha.1",
+            "published_at": "2026-10-17T05:45:49Z",
+            "assets": [
+              {
+                "name": "SavageWind-0.1.0-alpha.1-windows.zip",
+                "url": "https://github.com/Revivedx/SavageWindRecomp/releases/download/v0.1.0-alpha.1/SavageWind-0.1.0-alpha.1-windows.zip",
+                "size": 89034461
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "SavageWind-0.1.0-alpha.1-windows.zip",
+          "url": "https://github.com/Revivedx/SavageWindRecomp/releases/download/v0.1.0-alpha.1/SavageWind-0.1.0-alpha.1-windows.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
       "title": "KrzysiekR-00/BrowserGame",
       "url": "https://github.com/KrzysiekR-00/BrowserGame",
       "source_name": "GitHub: WebAssembly games",
@@ -137,7 +715,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-16T22:43:50.788526+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-17T09:08:45.527982+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Browser game. C#, ASP.NET Core Web API (REST), Blazor WebAssembly, EF Core",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -172,7 +767,336 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-16T22:43:50.785656+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-17T09:08:47.055357+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Full rust rewrite of Assetto Corsa. Bit-exact physics, AC's own renderer, sound, AI, multiplayer, HUD and launcher, verified against the original game. Runs with your own AC install on Windows, or in the browser via WebAssembly.",
+        "latest_release_url": "https://github.com/thesupersupersigma/rustyAC/releases/tag/v0.36.0",
+        "latest_release_name": "rustyAC v0.36.0",
+        "release_assets": [
+          {
+            "name": "rustyAC-v0.36.0-web.zip",
+            "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.36.0/rustyAC-v0.36.0-web.zip",
+            "size": 1873244
+          },
+          {
+            "name": "rustyAC-v0.36.0-web.zip.sha256",
+            "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.36.0/rustyAC-v0.36.0-web.zip.sha256",
+            "size": 90
+          },
+          {
+            "name": "rustyAC-v0.36.0-windows-x64.zip",
+            "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.36.0/rustyAC-v0.36.0-windows-x64.zip",
+            "size": 4890590
+          },
+          {
+            "name": "rustyAC-v0.36.0-windows-x64.zip.sha256",
+            "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.36.0/rustyAC-v0.36.0-windows-x64.zip.sha256",
+            "size": 98
+          }
+        ],
+        "releases": [
+          {
+            "name": "rustyAC v0.36.0",
+            "url": "https://github.com/thesupersupersigma/rustyAC/releases/tag/v0.36.0",
+            "published_at": "2026-10-16T22:16:31Z",
+            "assets": [
+              {
+                "name": "rustyAC-v0.36.0-web.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.36.0/rustyAC-v0.36.0-web.zip",
+                "size": 1873244
+              },
+              {
+                "name": "rustyAC-v0.36.0-web.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.36.0/rustyAC-v0.36.0-web.zip.sha256",
+                "size": 90
+              },
+              {
+                "name": "rustyAC-v0.36.0-windows-x64.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.36.0/rustyAC-v0.36.0-windows-x64.zip",
+                "size": 4890590
+              },
+              {
+                "name": "rustyAC-v0.36.0-windows-x64.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.36.0/rustyAC-v0.36.0-windows-x64.zip.sha256",
+                "size": 98
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "rustyAC v0.35.0",
+            "url": "https://github.com/thesupersupersigma/rustyAC/releases/tag/v0.35.0",
+            "published_at": "2026-10-16T17:55:58Z",
+            "assets": [
+              {
+                "name": "rustyAC-v0.35.0-web.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.35.0/rustyAC-v0.35.0-web.zip",
+                "size": 1873243
+              },
+              {
+                "name": "rustyAC-v0.35.0-web.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.35.0/rustyAC-v0.35.0-web.zip.sha256",
+                "size": 90
+              },
+              {
+                "name": "rustyAC-v0.35.0-windows-x64.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.35.0/rustyAC-v0.35.0-windows-x64.zip",
+                "size": 4557129
+              },
+              {
+                "name": "rustyAC-v0.35.0-windows-x64.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.35.0/rustyAC-v0.35.0-windows-x64.zip.sha256",
+                "size": 98
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "rustyAC v0.34.0",
+            "url": "https://github.com/thesupersupersigma/rustyAC/releases/tag/v0.34.0",
+            "published_at": "2026-10-16T03:52:56Z",
+            "assets": [
+              {
+                "name": "rustyAC-v0.34.0-web.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.34.0/rustyAC-v0.34.0-web.zip",
+                "size": 1872525
+              },
+              {
+                "name": "rustyAC-v0.34.0-web.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.34.0/rustyAC-v0.34.0-web.zip.sha256",
+                "size": 90
+              },
+              {
+                "name": "rustyAC-v0.34.0-windows-x64.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.34.0/rustyAC-v0.34.0-windows-x64.zip",
+                "size": 4138102
+              },
+              {
+                "name": "rustyAC-v0.34.0-windows-x64.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.34.0/rustyAC-v0.34.0-windows-x64.zip.sha256",
+                "size": 98
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "rustyAC v0.33.1",
+            "url": "https://github.com/thesupersupersigma/rustyAC/releases/tag/v0.33.1",
+            "published_at": "2026-10-15T18:55:10Z",
+            "assets": [
+              {
+                "name": "rustyAC-v0.33.1-web.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.33.1/rustyAC-v0.33.1-web.zip",
+                "size": 1867642
+              },
+              {
+                "name": "rustyAC-v0.33.1-web.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.33.1/rustyAC-v0.33.1-web.zip.sha256",
+                "size": 90
+              },
+              {
+                "name": "rustyAC-v0.33.1-windows-x64.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.33.1/rustyAC-v0.33.1-windows-x64.zip",
+                "size": 4060653
+              },
+              {
+                "name": "rustyAC-v0.33.1-windows-x64.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.33.1/rustyAC-v0.33.1-windows-x64.zip.sha256",
+                "size": 98
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "rustyAC v0.33.0",
+            "url": "https://github.com/thesupersupersigma/rustyAC/releases/tag/v0.33.0",
+            "published_at": "2026-10-15T11:34:30Z",
+            "assets": [
+              {
+                "name": "rustyAC-v0.33.0-web.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.33.0/rustyAC-v0.33.0-web.zip",
+                "size": 1865689
+              },
+              {
+                "name": "rustyAC-v0.33.0-web.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.33.0/rustyAC-v0.33.0-web.zip.sha256",
+                "size": 90
+              },
+              {
+                "name": "rustyAC-v0.33.0-windows-x64.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.33.0/rustyAC-v0.33.0-windows-x64.zip",
+                "size": 4016927
+              },
+              {
+                "name": "rustyAC-v0.33.0-windows-x64.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.33.0/rustyAC-v0.33.0-windows-x64.zip.sha256",
+                "size": 98
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "rustyAC v0.32.0",
+            "url": "https://github.com/thesupersupersigma/rustyAC/releases/tag/v0.32.0",
+            "published_at": "2026-10-14T19:57:51Z",
+            "assets": [
+              {
+                "name": "rustyAC-v0.32.0-web.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.32.0/rustyAC-v0.32.0-web.zip",
+                "size": 1862761
+              },
+              {
+                "name": "rustyAC-v0.32.0-web.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.32.0/rustyAC-v0.32.0-web.zip.sha256",
+                "size": 90
+              },
+              {
+                "name": "rustyAC-v0.32.0-windows-x64.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.32.0/rustyAC-v0.32.0-windows-x64.zip",
+                "size": 3917140
+              },
+              {
+                "name": "rustyAC-v0.32.0-windows-x64.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.32.0/rustyAC-v0.32.0-windows-x64.zip.sha256",
+                "size": 98
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "rustyAC v0.31.0",
+            "url": "https://github.com/thesupersupersigma/rustyAC/releases/tag/v0.31.0",
+            "published_at": "2026-10-14T16:12:40Z",
+            "assets": [
+              {
+                "name": "rustyAC-v0.31.0-web.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.31.0/rustyAC-v0.31.0-web.zip",
+                "size": 1861968
+              },
+              {
+                "name": "rustyAC-v0.31.0-web.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.31.0/rustyAC-v0.31.0-web.zip.sha256",
+                "size": 90
+              },
+              {
+                "name": "rustyAC-v0.31.0-windows-x64.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.31.0/rustyAC-v0.31.0-windows-x64.zip",
+                "size": 3739090
+              },
+              {
+                "name": "rustyAC-v0.31.0-windows-x64.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.31.0/rustyAC-v0.31.0-windows-x64.zip.sha256",
+                "size": 98
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "rustyAC v0.30.0",
+            "url": "https://github.com/thesupersupersigma/rustyAC/releases/tag/v0.30.0",
+            "published_at": "2026-10-13T22:36:13Z",
+            "assets": [
+              {
+                "name": "rustyAC-v0.30.0-web.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.30.0/rustyAC-v0.30.0-web.zip",
+                "size": 1854344
+              },
+              {
+                "name": "rustyAC-v0.30.0-web.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.30.0/rustyAC-v0.30.0-web.zip.sha256",
+                "size": 90
+              },
+              {
+                "name": "rustyAC-v0.30.0-windows-x64.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.30.0/rustyAC-v0.30.0-windows-x64.zip",
+                "size": 3564316
+              },
+              {
+                "name": "rustyAC-v0.30.0-windows-x64.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.30.0/rustyAC-v0.30.0-windows-x64.zip.sha256",
+                "size": 98
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "rustyAC v0.28.2",
+            "url": "https://github.com/thesupersupersigma/rustyAC/releases/tag/v0.28.2",
+            "published_at": "2026-10-13T05:14:14Z",
+            "assets": [
+              {
+                "name": "rustyAC-v0.28.2-web.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.28.2/rustyAC-v0.28.2-web.zip",
+                "size": 1846393
+              },
+              {
+                "name": "rustyAC-v0.28.2-web.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.28.2/rustyAC-v0.28.2-web.zip.sha256",
+                "size": 90
+              },
+              {
+                "name": "rustyAC-v0.28.2-windows-x64.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.28.2/rustyAC-v0.28.2-windows-x64.zip",
+                "size": 3211998
+              },
+              {
+                "name": "rustyAC-v0.28.2-windows-x64.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.28.2/rustyAC-v0.28.2-windows-x64.zip.sha256",
+                "size": 98
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "rustyAC v0.28.1",
+            "url": "https://github.com/thesupersupersigma/rustyAC/releases/tag/v0.28.1",
+            "published_at": "2026-10-13T01:47:16Z",
+            "assets": [
+              {
+                "name": "rustyAC-v0.28.1-web.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.28.1/rustyAC-v0.28.1-web.zip",
+                "size": 1845222
+              },
+              {
+                "name": "rustyAC-v0.28.1-web.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.28.1/rustyAC-v0.28.1-web.zip.sha256",
+                "size": 90
+              },
+              {
+                "name": "rustyAC-v0.28.1-windows-x64.zip",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.28.1/rustyAC-v0.28.1-windows-x64.zip",
+                "size": 3092653
+              },
+              {
+                "name": "rustyAC-v0.28.1-windows-x64.zip.sha256",
+                "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.28.1/rustyAC-v0.28.1-windows-x64.zip.sha256",
+                "size": 98
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -189,10 +1113,212 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "rustyAC-v0.36.0-web.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.36.0/rustyAC-v0.36.0-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.36.0-web.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.36.0/rustyAC-v0.36.0-web.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.36.0-windows-x64.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.36.0/rustyAC-v0.36.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.36.0-windows-x64.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.36.0/rustyAC-v0.36.0-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.35.0-web.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.35.0/rustyAC-v0.35.0-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.35.0-web.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.35.0/rustyAC-v0.35.0-web.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.35.0-windows-x64.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.35.0/rustyAC-v0.35.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.35.0-windows-x64.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.35.0/rustyAC-v0.35.0-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.34.0-web.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.34.0/rustyAC-v0.34.0-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.34.0-web.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.34.0/rustyAC-v0.34.0-web.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.34.0-windows-x64.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.34.0/rustyAC-v0.34.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.34.0-windows-x64.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.34.0/rustyAC-v0.34.0-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.33.1-web.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.33.1/rustyAC-v0.33.1-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.33.1-web.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.33.1/rustyAC-v0.33.1-web.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.33.1-windows-x64.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.33.1/rustyAC-v0.33.1-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.33.1-windows-x64.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.33.1/rustyAC-v0.33.1-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.33.0-web.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.33.0/rustyAC-v0.33.0-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.33.0-web.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.33.0/rustyAC-v0.33.0-web.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.33.0-windows-x64.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.33.0/rustyAC-v0.33.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.33.0-windows-x64.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.33.0/rustyAC-v0.33.0-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.32.0-web.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.32.0/rustyAC-v0.32.0-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.32.0-web.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.32.0/rustyAC-v0.32.0-web.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.32.0-windows-x64.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.32.0/rustyAC-v0.32.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.32.0-windows-x64.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.32.0/rustyAC-v0.32.0-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.31.0-web.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.31.0/rustyAC-v0.31.0-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.31.0-web.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.31.0/rustyAC-v0.31.0-web.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.31.0-windows-x64.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.31.0/rustyAC-v0.31.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.31.0-windows-x64.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.31.0/rustyAC-v0.31.0-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.30.0-web.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.30.0/rustyAC-v0.30.0-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.30.0-web.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.30.0/rustyAC-v0.30.0-web.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.30.0-windows-x64.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.30.0/rustyAC-v0.30.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.30.0-windows-x64.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.30.0/rustyAC-v0.30.0-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.28.2-web.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.28.2/rustyAC-v0.28.2-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.28.2-web.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.28.2/rustyAC-v0.28.2-web.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.28.2-windows-x64.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.28.2/rustyAC-v0.28.2-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.28.2-windows-x64.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.28.2/rustyAC-v0.28.2-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.28.1-web.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.28.1/rustyAC-v0.28.1-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.28.1-web.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.28.1/rustyAC-v0.28.1-web.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "rustyAC-v0.28.1-windows-x64.zip",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.28.1/rustyAC-v0.28.1-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rustyAC-v0.28.1-windows-x64.zip.sha256",
+          "url": "https://github.com/thesupersupersigma/rustyAC/releases/download/v0.28.1/rustyAC-v0.28.1-windows-x64.zip.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "possible",
@@ -211,7 +1337,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-16T22:43:46.716014+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-17T09:08:48.748101+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Browser port of Operation Spacehog (2000 freeware shooter); decodes the original game files in the browser",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -920,7 +2063,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-16T16:28:37.118691+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-17T09:08:50.280327+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Experimental static recompilation using suyu-derived emulation. Native PC port in development. NO game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
