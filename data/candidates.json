@@ -1,7 +1,244 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-17T15:22:45.557515+00:00",
+  "last_updated": "2026-10-17T22:08:52.580414+00:00",
   "candidates": [
+    {
+      "title": "Clank700/The-Right-Mix-Decomp",
+      "url": "https://github.com/Clank700/The-Right-Mix-Decomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-17T18:26:01Z",
+      "summary": "Bytecode-matching decompilation tooling and native Windows/Android ports for The Right Mix (Flash, 2004). Build from your own copy; no game files included. Topics: actionscript, avm1, decompilation, flash, flutter, game-preservation, reverse-engineering, swf",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-17T22:08:39.652014+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "DrummingBird1/PortHub",
+      "url": "https://github.com/DrummingBird1/PortHub",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-17T19:07:19Z",
+      "summary": "Install, update and launch native PC ports of classic console games, safely. Bring your own ROM; no game files hosted. Topics: decompilation, game-launcher, launcher, linux, pc-ports, ship-of-harkinian, steam-deck, tauri, windows, zelda",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-17T22:08:37.938833+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows, linux"
+      ]
+    },
+    {
+      "title": "1lawl/BoogermanRecomp",
+      "url": "https://github.com/1lawl/BoogermanRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-17T17:05:53Z",
+      "summary": "Native PC port of Boogerman (Sega Genesis) via static recompilation, built on segagenesisrecomp. Bring your own ROM; no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-17T22:08:34.502170+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom"
+      ]
+    },
+    {
+      "title": "K0NL/B2recomp",
+      "url": "https://github.com/K0NL/B2recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-17T17:52:03Z",
+      "summary": "Unofficial static recompilation of Bayonetta 2 (Switch) for Windows. Builds the game on your PC from your own legally dumped copy. No game files, keys or SDK code included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-17T22:08:34.501281+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "DiegoDeDios/AlienReRecomp",
+      "url": "https://github.com/DiegoDeDios/AlienReRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-17T20:17:08Z",
+      "summary": "Static recompilation of Alien Resurrection for PlayStation: a native port with modern rendering and gameplay improvements. Requires your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-17T22:08:34.500328+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, gameplay"
+      ]
+    },
+    {
+      "title": "Asterber/shiloh",
+      "url": "https://github.com/Asterber/shiloh",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-17T18:25:22Z",
+      "summary": "Open-source engine that runs The X-Files Game (1998) on modern PCs and in the browser. Rust + SDL2 + WebAssembly. Topics: adventure-game, fmv, game-engine, game-preservation, point-and-click, reimplementation, rust, sdl2, webassembly, x-files",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-17T22:08:30.901158+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: reimplementation",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
+    {
+      "title": "maximkone/kam-web",
+      "url": "https://github.com/maximkone/kam-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-17T18:08:32Z",
+      "summary": "Unofficial browser port of KaM Remake (Knights and Merchants): TypeScript simulation + WebGL2. AGPL-3.0. No game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-17T22:08:27.286313+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webgl",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "jarvis-jhk/rounds-port",
       "url": "https://github.com/jarvis-jhk/rounds-port",
@@ -11,7 +248,65 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-17T15:22:30.224086+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-17T22:08:42.410638+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A clean-room reimplementation of ROUNDS in Rust for Linux and Windows: up to 12 players on one screen or online over Warpzone with rollback netcode. Needs your own copy of the game.",
+        "latest_release_url": "https://github.com/jarvis-jhk/rounds-port/releases/tag/v0.1.0",
+        "latest_release_name": "rounds-port 0.1.0",
+        "release_assets": [
+          {
+            "name": "rounds-port-0.1.0-linux-x86_64.tar.gz",
+            "url": "https://github.com/jarvis-jhk/rounds-port/releases/download/v0.1.0/rounds-port-0.1.0-linux-x86_64.tar.gz",
+            "size": 8766092
+          },
+          {
+            "name": "rounds-port-0.1.0-windows-x86_64.zip",
+            "url": "https://github.com/jarvis-jhk/rounds-port/releases/download/v0.1.0/rounds-port-0.1.0-windows-x86_64.zip",
+            "size": 12474130
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/jarvis-jhk/rounds-port/releases/download/v0.1.0/SHA256SUMS",
+            "size": 207
+          }
+        ],
+        "releases": [
+          {
+            "name": "rounds-port 0.1.0",
+            "url": "https://github.com/jarvis-jhk/rounds-port/releases/tag/v0.1.0",
+            "published_at": "2026-10-17T14:43:43Z",
+            "assets": [
+              {
+                "name": "rounds-port-0.1.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/jarvis-jhk/rounds-port/releases/download/v0.1.0/rounds-port-0.1.0-linux-x86_64.tar.gz",
+                "size": 8766092
+              },
+              {
+                "name": "rounds-port-0.1.0-windows-x86_64.zip",
+                "url": "https://github.com/jarvis-jhk/rounds-port/releases/download/v0.1.0/rounds-port-0.1.0-windows-x86_64.zip",
+                "size": 12474130
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/jarvis-jhk/rounds-port/releases/download/v0.1.0/SHA256SUMS",
+                "size": 207
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -25,9 +320,26 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "rounds-port-0.1.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/jarvis-jhk/rounds-port/releases/download/v0.1.0/rounds-port-0.1.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rounds-port-0.1.0-windows-x86_64.zip",
+          "url": "https://github.com/jarvis-jhk/rounds-port/releases/download/v0.1.0/rounds-port-0.1.0-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/jarvis-jhk/rounds-port/releases/download/v0.1.0/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -45,17 +357,99 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-17T15:22:28.365079+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-10-17T22:08:43.681589+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Source port of Scratches: Director's Cut — any resolution, widescreen, FSR 1, gamepad, QoL. Bring your own game files.",
+        "latest_release_url": "https://github.com/extremecodetv/scream-rs/releases/tag/v0.1.0",
+        "latest_release_name": "v0.1.0",
+        "release_assets": [
+          {
+            "name": "scream-rs-linux-x64.tar.gz",
+            "url": "https://github.com/extremecodetv/scream-rs/releases/download/v0.1.0/scream-rs-linux-x64.tar.gz",
+            "size": 5288237
+          },
+          {
+            "name": "scream-rs-macos-arm64.tar.gz",
+            "url": "https://github.com/extremecodetv/scream-rs/releases/download/v0.1.0/scream-rs-macos-arm64.tar.gz",
+            "size": 3414639
+          },
+          {
+            "name": "scream-rs-windows-x64.zip",
+            "url": "https://github.com/extremecodetv/scream-rs/releases/download/v0.1.0/scream-rs-windows-x64.zip",
+            "size": 3746046
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0",
+            "url": "https://github.com/extremecodetv/scream-rs/releases/tag/v0.1.0",
+            "published_at": "2026-10-17T13:14:28Z",
+            "assets": [
+              {
+                "name": "scream-rs-linux-x64.tar.gz",
+                "url": "https://github.com/extremecodetv/scream-rs/releases/download/v0.1.0/scream-rs-linux-x64.tar.gz",
+                "size": 5288237
+              },
+              {
+                "name": "scream-rs-macos-arm64.tar.gz",
+                "url": "https://github.com/extremecodetv/scream-rs/releases/download/v0.1.0/scream-rs-macos-arm64.tar.gz",
+                "size": 3414639
+              },
+              {
+                "name": "scream-rs-windows-x64.zip",
+                "url": "https://github.com/extremecodetv/scream-rs/releases/download/v0.1.0/scream-rs-windows-x64.zip",
+                "size": 3746046
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "scream-rs-linux-x64.tar.gz",
+          "url": "https://github.com/extremecodetv/scream-rs/releases/download/v0.1.0/scream-rs-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "scream-rs-macos-arm64.tar.gz",
+          "url": "https://github.com/extremecodetv/scream-rs/releases/download/v0.1.0/scream-rs-macos-arm64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "scream-rs-windows-x64.zip",
+          "url": "https://github.com/extremecodetv/scream-rs/releases/download/v0.1.0/scream-rs-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -72,7 +466,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-17T15:22:26.374041+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-17T22:08:44.960694+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows port of Star Wars: The Clone Wars (Xbox) via static recompilation. Bring your own game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -105,7 +516,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-17T15:22:26.373522+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-17T22:08:46.222182+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of MechWarrior 3 (1999) to native C on pcrecomp. Bring your own disc; no game files or generated code included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -132,7 +560,115 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-17T15:22:26.372797+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-17T22:08:47.466604+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows port of Pokémon: Let's Go, Eevee! (Switch v1.0.0) by static recompilation, built on LAS Recomp. No game files included.",
+        "latest_release_url": "https://github.com/raulzrrs/letsgo-recomp/releases/tag/v0.2.2",
+        "latest_release_name": "0.2.2: offline communication screens",
+        "release_assets": [
+          {
+            "name": "LetsGoRecomp-0.2.2-windows.zip",
+            "url": "https://github.com/raulzrrs/letsgo-recomp/releases/download/v0.2.2/LetsGoRecomp-0.2.2-windows.zip",
+            "size": 87872736
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.2.2: offline communication screens",
+            "url": "https://github.com/raulzrrs/letsgo-recomp/releases/tag/v0.2.2",
+            "published_at": "2026-10-17T18:03:47Z",
+            "assets": [
+              {
+                "name": "LetsGoRecomp-0.2.2-windows.zip",
+                "url": "https://github.com/raulzrrs/letsgo-recomp/releases/download/v0.2.2/LetsGoRecomp-0.2.2-windows.zip",
+                "size": 87872736
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.2.1: Let's Go Pikachu",
+            "url": "https://github.com/raulzrrs/letsgo-recomp/releases/tag/v0.2.1",
+            "published_at": "2026-10-17T17:04:17Z",
+            "assets": [
+              {
+                "name": "LetsGoRecomp-0.2.1-windows.zip",
+                "url": "https://github.com/raulzrrs/letsgo-recomp/releases/download/v0.2.1/LetsGoRecomp-0.2.1-windows.zip",
+                "size": 87868780
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.2.0",
+            "url": "https://github.com/raulzrrs/letsgo-recomp/releases/tag/v0.2.0",
+            "published_at": "2026-10-17T13:08:07Z",
+            "assets": [
+              {
+                "name": "LetsGoRecomp-0.2.0-windows.zip",
+                "url": "https://github.com/raulzrrs/letsgo-recomp/releases/download/v0.2.0/LetsGoRecomp-0.2.0-windows.zip",
+                "size": 87859721
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Let's Go Recomp 0.1.2",
+            "url": "https://github.com/raulzrrs/letsgo-recomp/releases/tag/v0.1.2",
+            "published_at": "2026-10-16T05:06:52Z",
+            "assets": [
+              {
+                "name": "LetsGoRecomp-0.1.2-windows.zip",
+                "url": "https://github.com/raulzrrs/letsgo-recomp/releases/download/v0.1.2/LetsGoRecomp-0.1.2-windows.zip",
+                "size": 87795456
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Let's Go Recomp 0.1.1",
+            "url": "https://github.com/raulzrrs/letsgo-recomp/releases/tag/v0.1.1",
+            "published_at": "2026-10-16T04:30:32Z",
+            "assets": [
+              {
+                "name": "LetsGoRecomp-0.1.1-windows.zip",
+                "url": "https://github.com/raulzrrs/letsgo-recomp/releases/download/v0.1.1/LetsGoRecomp-0.1.1-windows.zip",
+                "size": 87792684
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Let's Go Recomp 0.1.0",
+            "url": "https://github.com/raulzrrs/letsgo-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-10-16T02:38:06Z",
+            "assets": [
+              {
+                "name": "LetsGoRecomp-0.1.0-windows.zip",
+                "url": "https://github.com/raulzrrs/letsgo-recomp/releases/download/v0.1.0/LetsGoRecomp-0.1.0-windows.zip",
+                "size": 87682755
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -145,9 +681,41 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "LetsGoRecomp-0.2.2-windows.zip",
+          "url": "https://github.com/raulzrrs/letsgo-recomp/releases/download/v0.2.2/LetsGoRecomp-0.2.2-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LetsGoRecomp-0.2.1-windows.zip",
+          "url": "https://github.com/raulzrrs/letsgo-recomp/releases/download/v0.2.1/LetsGoRecomp-0.2.1-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LetsGoRecomp-0.2.0-windows.zip",
+          "url": "https://github.com/raulzrrs/letsgo-recomp/releases/download/v0.2.0/LetsGoRecomp-0.2.0-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LetsGoRecomp-0.1.2-windows.zip",
+          "url": "https://github.com/raulzrrs/letsgo-recomp/releases/download/v0.1.2/LetsGoRecomp-0.1.2-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LetsGoRecomp-0.1.1-windows.zip",
+          "url": "https://github.com/raulzrrs/letsgo-recomp/releases/download/v0.1.1/LetsGoRecomp-0.1.1-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LetsGoRecomp-0.1.0-windows.zip",
+          "url": "https://github.com/raulzrrs/letsgo-recomp/releases/download/v0.1.0/LetsGoRecomp-0.1.0-windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -165,7 +733,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-17T15:22:26.372133+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-17T22:08:48.744027+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native Windows x64 PC port of Spider-Man: Web of Shadows (Xbox 360) created through static recompilation. No game assets included.",
+        "latest_release_url": "https://github.com/toowasmir/WebOfShadowsRecomp/releases/tag/v2.0.0",
+        "latest_release_name": "Spider-Man: Web of Shadows Recompiled — Modern Edition v2.0.0 (Win64)",
+        "release_assets": [
+          {
+            "name": "WoS_ReComp_Modern_Edition_v2.0_Win64.zip",
+            "url": "https://github.com/toowasmir/WebOfShadowsRecomp/releases/download/v2.0.0/WoS_ReComp_Modern_Edition_v2.0_Win64.zip",
+            "size": 34912484
+          }
+        ],
+        "releases": [
+          {
+            "name": "Spider-Man: Web of Shadows Recompiled — Modern Edition v2.0.0 (Win64)",
+            "url": "https://github.com/toowasmir/WebOfShadowsRecomp/releases/tag/v2.0.0",
+            "published_at": "2026-10-17T14:08:14Z",
+            "assets": [
+              {
+                "name": "WoS_ReComp_Modern_Edition_v2.0_Win64.zip",
+                "url": "https://github.com/toowasmir/WebOfShadowsRecomp/releases/download/v2.0.0/WoS_ReComp_Modern_Edition_v2.0_Win64.zip",
+                "size": 34912484
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -178,14 +784,22 @@
         "android_terms": [],
         "pc_terms": [
           "windows",
+          "win64",
           "pc port"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "WoS_ReComp_Modern_Edition_v2.0_Win64.zip",
+          "url": "https://github.com/toowasmir/WebOfShadowsRecomp/releases/download/v2.0.0/WoS_ReComp_Modern_Edition_v2.0_Win64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -748,17 +1362,237 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-17T09:08:30.023924+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-10-17T22:08:50.022446+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Perfect Dark Zero [Xbox360] game static recompilation project based on RexGlue-SDK",
+        "latest_release_url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/tag/1.6",
+        "latest_release_name": "1.6",
+        "release_assets": [
+          {
+            "name": "PDZrecomp-lin64.zip",
+            "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.6/PDZrecomp-lin64.zip",
+            "size": 51206464
+          },
+          {
+            "name": "PDZrecomp-win64.zip",
+            "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.6/PDZrecomp-win64.zip",
+            "size": 26070977
+          }
+        ],
+        "releases": [
+          {
+            "name": "1.6",
+            "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/tag/1.6",
+            "published_at": "2026-10-17T09:10:34Z",
+            "assets": [
+              {
+                "name": "PDZrecomp-lin64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.6/PDZrecomp-lin64.zip",
+                "size": 51206464
+              },
+              {
+                "name": "PDZrecomp-win64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.6/PDZrecomp-win64.zip",
+                "size": 26070977
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "1.5",
+            "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/tag/1.5",
+            "published_at": "2026-10-09T17:20:50Z",
+            "assets": [
+              {
+                "name": "PDZrecomp-win64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.5/PDZrecomp-win64.zip",
+                "size": 24413815
+              },
+              {
+                "name": "PDZrecomp-lin64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.5/PDZrecomp-lin64.zip",
+                "size": 48078710
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "1.4",
+            "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/tag/1.4",
+            "published_at": "2026-10-07T06:57:32Z",
+            "assets": [
+              {
+                "name": "PDZrecomp-lin64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.4/PDZrecomp-lin64.zip",
+                "size": 48078221
+              },
+              {
+                "name": "PDZrecomp-win64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.4/PDZrecomp-win64.zip",
+                "size": 24411487
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "1.3",
+            "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/tag/1.3",
+            "published_at": "2026-10-05T16:13:50Z",
+            "assets": [
+              {
+                "name": "PDZrecomp-win64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.3/PDZrecomp-win64.zip",
+                "size": 26622552
+              },
+              {
+                "name": "PDZrecomp-lin64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.3/PDZrecomp-lin64.zip",
+                "size": 48333816
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "1.2",
+            "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/tag/1.2",
+            "published_at": "2026-10-05T15:42:28Z",
+            "assets": [
+              {
+                "name": "PDZrecomp-lin64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.2/PDZrecomp-lin64.zip",
+                "size": 47795435
+              },
+              {
+                "name": "PDZrecomp-win64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.2/PDZrecomp-win64.zip",
+                "size": 23978863
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "1.1",
+            "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/tag/1.1",
+            "published_at": "2026-09-15T17:57:53Z",
+            "assets": [
+              {
+                "name": "PDZrecomp-win64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.1/PDZrecomp-win64.zip",
+                "size": 24015495
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "1.0 ",
+            "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/tag/1.0",
+            "published_at": "2026-09-02T17:48:40Z",
+            "assets": [
+              {
+                "name": "PDZrecomp-win64.zip",
+                "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.0/PDZrecomp-win64.zip",
+                "size": 24540475
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "win64"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "PDZrecomp-lin64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.6/PDZrecomp-lin64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PDZrecomp-win64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.6/PDZrecomp-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PDZrecomp-win64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.5/PDZrecomp-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PDZrecomp-lin64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.5/PDZrecomp-lin64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PDZrecomp-lin64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.4/PDZrecomp-lin64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PDZrecomp-win64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.4/PDZrecomp-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PDZrecomp-win64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.3/PDZrecomp-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PDZrecomp-lin64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.3/PDZrecomp-lin64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PDZrecomp-lin64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.2/PDZrecomp-lin64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PDZrecomp-win64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.2/PDZrecomp-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PDZrecomp-win64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.1/PDZrecomp-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PDZrecomp-win64.zip",
+          "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/releases/download/1.0/PDZrecomp-win64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -2601,7 +3435,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-16T16:28:37.117572+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-17T22:08:51.322416+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Kula World (PAL, SCES-01000) to native Linux and macOS using psxrecomp. No game data included – bring your own disc image and BIOS.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
