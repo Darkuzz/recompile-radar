@@ -1,7 +1,465 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-17T22:08:52.580414+00:00",
+  "last_updated": "2026-10-18T09:26:19.208688+00:00",
   "candidates": [
+    {
+      "title": "justxor/awesome-decomp-games-ru",
+      "url": "https://github.com/justxor/awesome-decomp-games-ru",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-10-18T09:25:38Z",
+      "summary": "🎮 Каталог и гайд на русском: декомпиляции, рекомпиляии и нативные порты игр — Zelda, Mario 64, Sonic, Diblo, GTA на ПК, Mac, Linux, Android и в браузере безэмулятора. 2100+ проектов, топ, FAQ, как декомпилироать самому Topics: awesome, awesome-list, decomp, decompilation, emulation, game-preservation, mario64, n64, n64recomp, ports, ps1, recompilation, retro-gaming, reverse-engineering, russian, source-port, static-recompilation, xbox360, xenonrecomp, zelda",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T09:26:05.246266+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, source-port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux, android"
+      ]
+    },
+    {
+      "title": "CrossplayGaming/megarocket",
+      "url": "https://github.com/CrossplayGaming/megarocket",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-18T02:58:05Z",
+      "summary": "All seven Commander Keen games in one app for Windows and Android - a native port checked against the DOS originals, with widescreen, smooth motion, quicksave, Keen Maker level builder, Keen's Closet and asset packs. Plays YOUR game files; ships none. Topics: android, commander-keen, dos-games, godot, level-editor, retro-gaming, source-port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T09:26:03.481719+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source-port, native port",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "keenglomerate/bounce-touch-android",
+      "url": "https://github.com/keenglomerate/bounce-touch-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-18T06:02:48Z",
+      "summary": "Standalone Android port of Rovio's classic Symbian S60v5 3D game Bounce Touch (2008). Features 1-tap launch, 1080p widescreen, and native touch controls.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T09:26:03.480625+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "murkantor/Project-Midas",
+      "url": "https://github.com/murkantor/Project-Midas",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-18T02:29:31Z",
+      "summary": "PC port of GE for Windows and Linux, built from the N64 decompilation. Widescreen, mouse look, modern controller support and in-game settings. Co-op, netplay and mods in development. Topics: decompilation, game-port, goldeneye, goldeneye-007, n64, opengl, pc-port, retrogaming, sdl2",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T09:26:01.408418+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "ventz/falldown",
+      "url": "https://github.com/ventz/falldown",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-18T04:15:18Z",
+      "summary": "Faithful Go port of Fall Down, the TI-83 Plus assembly game: line-by-line from the Z80 source, original timing, 2-player over TCP. macOS, Linux and Windows. Topics: arcade, ebitengine, falldown, game, go, golang, mirageos, port, retro-gaming, source-port, ti-83, ti-83-plus, ti-calculator, z80",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T09:26:01.407490+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source-port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "elprogramadorloco-arch/fuc-recomp",
+      "url": "https://github.com/elprogramadorloco-arch/fuc-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-17T22:12:06Z",
+      "summary": "Hybrid native Fate/unlimited codes project: PS2 static-recompilation/gameplay base with PSP assets and controls in development. No game files included. Topics: allegrex, cpp, fate-unlimited-codes, mips, native-port, ps2, psp, reverse-engineering, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T09:25:57.310070+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, gameplay"
+      ]
+    },
+    {
+      "title": "LasVola/godhand-recomp",
+      "url": "https://github.com/LasVola/godhand-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-18T00:48:30Z",
+      "summary": "God Hand Recompiled: native PC port of God Hand (PS2) via static recompilation. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T09:25:57.309335+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "navjack/KnifeEdgeRecomp",
+      "url": "https://github.com/navjack/KnifeEdgeRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-18T01:01:16Z",
+      "summary": "Native macOS (Apple Silicon) port of Knife Edge: Nose Gunner (N64) via static recompilation (N64Recomp + RT64). No game assets included — bring your own ROM. Topics: apple-silicon, macos, n64, n64recomp, rt64, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T09:25:57.308486+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom"
+      ]
+    },
+    {
+      "title": "andrewnakas/openhalo2",
+      "url": "https://github.com/andrewnakas/openhalo2",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-18T04:11:17Z",
+      "summary": "Open Halo 2: tools, runtime patches and web port scripts for a static recompilation of Halo 2 (original Xbox). No game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T09:25:57.307606+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "web port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "nikolaygorb/FuseRecomp",
+      "url": "https://github.com/nikolaygorb/FuseRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-18T07:40:48Z",
+      "summary": "Fuse game (2013) [Xbox360] game static recompilation project based on RexGlue-SDK Topics: fuse, rexglue, rexglue-recomp, static-recomp, static-recompilation, xbox360, xbox360-recomp",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T09:25:57.306934+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "kilnan/DarkRiftRecomp",
+      "url": "https://github.com/kilnan/DarkRiftRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-18T08:09:40Z",
+      "summary": "Native port of Dark Rift (N64) via static recompilation (N64Recomp + RT64). Work in progress. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T09:25:57.306242+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Nusi42/LooseScrews",
+      "url": "https://github.com/Nusi42/LooseScrews",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-18T01:34:04Z",
+      "summary": "A fast, funny six-degrees-of-freedom arena shooter in the browser. Every world grows from a share code and can be blown apart, and the level has moods. One deterministic Rust simulation runs on the server and, as WebAssembly, in the WebGPU client. Topics: 6dof, arena-shooter, browser-game, destructible-terrain, deterministic-simulation, game, game-server, indie-game, multiplayer, netcode, procedural-generation, rust, space-shooter, typescript, wasm, webassembly, webgpu, webtransport",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T09:25:53.148866+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "andvolodko/mu-online-solo-classic",
+      "url": "https://github.com/andvolodko/mu-online-solo-classic",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-18T07:29:38Z",
+      "summary": "Standalone MU Online 0.97k classic game & server compiled to WebAssembly (C++17 / Emscripten) for 100% client-side in-browser solo gameplay. Topics: classic-gaming, cpp17, emscripten, game-engine, gameserver, in-browser-game, mmorpg, mu-online, retro-gaming, single-player, wasm, webassembly, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T09:25:53.145776+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: classic game",
+        "Есть игровые/платформенные признаки: game, gameplay, webassembly, wasm, webgl"
+      ]
+    },
+    {
+      "title": "NicholasJJenkins92/zomboidweb-site",
+      "url": "https://github.com/NicholasJJenkins92/zomboidweb-site",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-18T01:41:12Z",
+      "summary": "Project site for ZomboidWeb, a browser port of Project Zomboid Build 42 (no game files)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T09:25:49.110659+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "Clank700/The-Right-Mix-Decomp",
       "url": "https://github.com/Clank700/The-Right-Mix-Decomp",
@@ -11,7 +469,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-17T22:08:39.652014+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-18T09:26:06.491445+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Bytecode-matching decompilation tooling and native Windows/Android ports for The Right Mix (Flash, 2004). Build from your own copy; no game files included.",
+        "latest_release_url": "https://github.com/Clank700/The-Right-Mix-Decomp/releases/tag/v0.1.0",
+        "latest_release_name": "v0.1.0: port build tooling",
+        "release_assets": [
+          {
+            "name": "the-right-mix-tools-v0.1.0.zip",
+            "url": "https://github.com/Clank700/The-Right-Mix-Decomp/releases/download/v0.1.0/the-right-mix-tools-v0.1.0.zip",
+            "size": 1087555
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0: port build tooling",
+            "url": "https://github.com/Clank700/The-Right-Mix-Decomp/releases/tag/v0.1.0",
+            "published_at": "2026-10-17T18:26:02Z",
+            "assets": [
+              {
+                "name": "the-right-mix-tools-v0.1.0.zip",
+                "url": "https://github.com/Clank700/The-Right-Mix-Decomp/releases/download/v0.1.0/the-right-mix-tools-v0.1.0.zip",
+                "size": 1087555
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -28,10 +524,17 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "the-right-mix-tools-v0.1.0.zip",
+          "url": "https://github.com/Clank700/The-Right-Mix-Decomp/releases/download/v0.1.0/the-right-mix-tools-v0.1.0.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -49,7 +552,75 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-17T22:08:37.938833+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-18T09:26:08.100847+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Install, update and launch native PC ports of classic console games, safely. Bring your own ROM; no game files hosted.",
+        "latest_release_url": "https://github.com/DrummingBird1/PortHub/releases/tag/v0.0.1",
+        "latest_release_name": "PortHub v0.0.1",
+        "release_assets": [
+          {
+            "name": "PortHub_0.0.1_amd64.AppImage",
+            "url": "https://github.com/DrummingBird1/PortHub/releases/download/v0.0.1/PortHub_0.0.1_amd64.AppImage",
+            "size": 81844728
+          },
+          {
+            "name": "PortHub_0.0.1_amd64.deb",
+            "url": "https://github.com/DrummingBird1/PortHub/releases/download/v0.0.1/PortHub_0.0.1_amd64.deb",
+            "size": 3388152
+          },
+          {
+            "name": "PortHub_0.0.1_x64-setup.exe",
+            "url": "https://github.com/DrummingBird1/PortHub/releases/download/v0.0.1/PortHub_0.0.1_x64-setup.exe",
+            "size": 2484457
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/DrummingBird1/PortHub/releases/download/v0.0.1/SHA256SUMS",
+            "size": 279
+          }
+        ],
+        "releases": [
+          {
+            "name": "PortHub v0.0.1",
+            "url": "https://github.com/DrummingBird1/PortHub/releases/tag/v0.0.1",
+            "published_at": "2026-10-17T19:14:13Z",
+            "assets": [
+              {
+                "name": "PortHub_0.0.1_amd64.AppImage",
+                "url": "https://github.com/DrummingBird1/PortHub/releases/download/v0.0.1/PortHub_0.0.1_amd64.AppImage",
+                "size": 81844728
+              },
+              {
+                "name": "PortHub_0.0.1_amd64.deb",
+                "url": "https://github.com/DrummingBird1/PortHub/releases/download/v0.0.1/PortHub_0.0.1_amd64.deb",
+                "size": 3388152
+              },
+              {
+                "name": "PortHub_0.0.1_x64-setup.exe",
+                "url": "https://github.com/DrummingBird1/PortHub/releases/download/v0.0.1/PortHub_0.0.1_x64-setup.exe",
+                "size": 2484457
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/DrummingBird1/PortHub/releases/download/v0.0.1/SHA256SUMS",
+                "size": 279
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -65,9 +636,31 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "PortHub_0.0.1_amd64.AppImage",
+          "url": "https://github.com/DrummingBird1/PortHub/releases/download/v0.0.1/PortHub_0.0.1_amd64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "PortHub_0.0.1_amd64.deb",
+          "url": "https://github.com/DrummingBird1/PortHub/releases/download/v0.0.1/PortHub_0.0.1_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "PortHub_0.0.1_x64-setup.exe",
+          "url": "https://github.com/DrummingBird1/PortHub/releases/download/v0.0.1/PortHub_0.0.1_x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/DrummingBird1/PortHub/releases/download/v0.0.1/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -85,7 +678,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-17T22:08:34.502170+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-18T09:26:09.692159+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of Boogerman (Sega Genesis) via static recompilation, built on segagenesisrecomp. Bring your own ROM; no game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -119,7 +729,115 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-17T22:08:34.501281+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-18T09:26:11.243164+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial static recompilation of Bayonetta 2 (Switch) for Windows. Builds the game on your PC from your own legally dumped copy. No game files, keys or SDK code included.",
+        "latest_release_url": "https://github.com/K0NL/B2recomp/releases/tag/v0.2.2",
+        "latest_release_name": "B2Recomp v0.2.2 Smoother frame timing after stalls on certain System Setups",
+        "release_assets": [
+          {
+            "name": "B2recomp-builder-870d9ab.zip",
+            "url": "https://github.com/K0NL/B2recomp/releases/download/v0.2.2/B2recomp-builder-870d9ab.zip",
+            "size": 105277517
+          }
+        ],
+        "releases": [
+          {
+            "name": "B2Recomp v0.2.2 Smoother frame timing after stalls on certain System Setups",
+            "url": "https://github.com/K0NL/B2recomp/releases/tag/v0.2.2",
+            "published_at": "2026-10-18T06:41:09Z",
+            "assets": [
+              {
+                "name": "B2recomp-builder-870d9ab.zip",
+                "url": "https://github.com/K0NL/B2recomp/releases/download/v0.2.2/B2recomp-builder-870d9ab.zip",
+                "size": 105277517
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "B2 Recomp v0.2.1: AMD fixes",
+            "url": "https://github.com/K0NL/B2recomp/releases/tag/v0.2.1",
+            "published_at": "2026-10-18T04:56:22Z",
+            "assets": [
+              {
+                "name": "B2recomp-builder-781e756.zip",
+                "url": "https://github.com/K0NL/B2recomp/releases/download/v0.2.1/B2recomp-builder-781e756.zip",
+                "size": 105276775
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "B2recomp v0.2.0",
+            "url": "https://github.com/K0NL/B2recomp/releases/tag/v0.2.0",
+            "published_at": "2026-10-18T01:29:17Z",
+            "assets": [
+              {
+                "name": "B2recomp-builder-247617b.zip",
+                "url": "https://github.com/K0NL/B2recomp/releases/download/v0.2.0/B2recomp-builder-247617b.zip",
+                "size": 105274727
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.1.2: font and RX 400/500 fixes",
+            "url": "https://github.com/K0NL/B2recomp/releases/tag/v0.1.2",
+            "published_at": "2026-10-17T22:46:25Z",
+            "assets": [
+              {
+                "name": "B2recomp-builder-1642dd6.zip",
+                "url": "https://github.com/K0NL/B2recomp/releases/download/v0.1.2/B2recomp-builder-1642dd6.zip",
+                "size": 105206476
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "B2recomp 0.1.1 (shader cache fix)",
+            "url": "https://github.com/K0NL/B2recomp/releases/tag/v0.1.1",
+            "published_at": "2026-10-17T17:52:03Z",
+            "assets": [
+              {
+                "name": "B2recomp-builder-78a5ba5.zip",
+                "url": "https://github.com/K0NL/B2recomp/releases/download/v0.1.1/B2recomp-builder-78a5ba5.zip",
+                "size": 105200570
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "B2recomp 0.1.0 (first test release)",
+            "url": "https://github.com/K0NL/B2recomp/releases/tag/v0.1.0",
+            "published_at": "2026-10-17T16:12:03Z",
+            "assets": [
+              {
+                "name": "B2recomp-builder-330e59a.zip",
+                "url": "https://github.com/K0NL/B2recomp/releases/download/v0.1.0/B2recomp-builder-330e59a.zip",
+                "size": 105200189
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -132,9 +850,41 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "B2recomp-builder-870d9ab.zip",
+          "url": "https://github.com/K0NL/B2recomp/releases/download/v0.2.2/B2recomp-builder-870d9ab.zip",
+          "type": "archive"
+        },
+        {
+          "name": "B2recomp-builder-781e756.zip",
+          "url": "https://github.com/K0NL/B2recomp/releases/download/v0.2.1/B2recomp-builder-781e756.zip",
+          "type": "archive"
+        },
+        {
+          "name": "B2recomp-builder-247617b.zip",
+          "url": "https://github.com/K0NL/B2recomp/releases/download/v0.2.0/B2recomp-builder-247617b.zip",
+          "type": "archive"
+        },
+        {
+          "name": "B2recomp-builder-1642dd6.zip",
+          "url": "https://github.com/K0NL/B2recomp/releases/download/v0.1.2/B2recomp-builder-1642dd6.zip",
+          "type": "archive"
+        },
+        {
+          "name": "B2recomp-builder-78a5ba5.zip",
+          "url": "https://github.com/K0NL/B2recomp/releases/download/v0.1.1/B2recomp-builder-78a5ba5.zip",
+          "type": "archive"
+        },
+        {
+          "name": "B2recomp-builder-330e59a.zip",
+          "url": "https://github.com/K0NL/B2recomp/releases/download/v0.1.0/B2recomp-builder-330e59a.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -152,17 +902,128 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-17T22:08:34.500328+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-10-18T09:26:12.842133+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Alien Resurrection for PlayStation: a native port with modern rendering and gameplay improvements. Requires your own copy of the game.",
+        "latest_release_url": "https://github.com/DiegoDeDios/AlienReRecomp/releases/tag/v0.1.1",
+        "latest_release_name": "Alien Resurrection native port v0.1.1",
+        "release_assets": [
+          {
+            "name": "AlienResurrection-0.1.1-linux-x86_64.tar.gz",
+            "url": "https://github.com/DiegoDeDios/AlienReRecomp/releases/download/v0.1.1/AlienResurrection-0.1.1-linux-x86_64.tar.gz",
+            "size": 2550265
+          },
+          {
+            "name": "AlienResurrection-0.1.1-macos.zip",
+            "url": "https://github.com/DiegoDeDios/AlienReRecomp/releases/download/v0.1.1/AlienResurrection-0.1.1-macos.zip",
+            "size": 4063486
+          },
+          {
+            "name": "AlienResurrection-0.1.1-windows-x64.zip",
+            "url": "https://github.com/DiegoDeDios/AlienReRecomp/releases/download/v0.1.1/AlienResurrection-0.1.1-windows-x64.zip",
+            "size": 2750764
+          }
+        ],
+        "releases": [
+          {
+            "name": "Alien Resurrection native port v0.1.1",
+            "url": "https://github.com/DiegoDeDios/AlienReRecomp/releases/tag/v0.1.1",
+            "published_at": "2026-10-18T02:21:33Z",
+            "assets": [
+              {
+                "name": "AlienResurrection-0.1.1-linux-x86_64.tar.gz",
+                "url": "https://github.com/DiegoDeDios/AlienReRecomp/releases/download/v0.1.1/AlienResurrection-0.1.1-linux-x86_64.tar.gz",
+                "size": 2550265
+              },
+              {
+                "name": "AlienResurrection-0.1.1-macos.zip",
+                "url": "https://github.com/DiegoDeDios/AlienReRecomp/releases/download/v0.1.1/AlienResurrection-0.1.1-macos.zip",
+                "size": 4063486
+              },
+              {
+                "name": "AlienResurrection-0.1.1-windows-x64.zip",
+                "url": "https://github.com/DiegoDeDios/AlienReRecomp/releases/download/v0.1.1/AlienResurrection-0.1.1-windows-x64.zip",
+                "size": 2750764
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Alien Resurrection native port v0.1.0",
+            "url": "https://github.com/DiegoDeDios/AlienReRecomp/releases/tag/v0.1.0",
+            "published_at": "2026-10-17T20:49:11Z",
+            "assets": [
+              {
+                "name": "AlienResurrection-0.1.0-macos.zip",
+                "url": "https://github.com/DiegoDeDios/AlienReRecomp/releases/download/v0.1.0/AlienResurrection-0.1.0-macos.zip",
+                "size": 4063523
+              },
+              {
+                "name": "AlienResurrection-0.1.0-windows-x64.zip",
+                "url": "https://github.com/DiegoDeDios/AlienReRecomp/releases/download/v0.1.0/AlienResurrection-0.1.0-windows-x64.zip",
+                "size": 2750764
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "AlienResurrection-0.1.1-linux-x86_64.tar.gz",
+          "url": "https://github.com/DiegoDeDios/AlienReRecomp/releases/download/v0.1.1/AlienResurrection-0.1.1-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "AlienResurrection-0.1.1-macos.zip",
+          "url": "https://github.com/DiegoDeDios/AlienReRecomp/releases/download/v0.1.1/AlienResurrection-0.1.1-macos.zip",
+          "type": "archive"
+        },
+        {
+          "name": "AlienResurrection-0.1.1-windows-x64.zip",
+          "url": "https://github.com/DiegoDeDios/AlienReRecomp/releases/download/v0.1.1/AlienResurrection-0.1.1-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "AlienResurrection-0.1.0-macos.zip",
+          "url": "https://github.com/DiegoDeDios/AlienReRecomp/releases/download/v0.1.0/AlienResurrection-0.1.0-macos.zip",
+          "type": "archive"
+        },
+        {
+          "name": "AlienResurrection-0.1.0-windows-x64.zip",
+          "url": "https://github.com/DiegoDeDios/AlienReRecomp/releases/download/v0.1.0/AlienResurrection-0.1.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -179,10 +1040,89 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-17T22:08:30.901158+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-18T09:26:14.460174+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Open-source engine that runs The X-Files Game (1998) on modern PCs and in the browser. Rust + SDL2 + WebAssembly.",
+        "latest_release_url": "https://github.com/Asterber/shiloh/releases/tag/v0.1.0",
+        "latest_release_name": "Shiloh v0.1.0",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/Asterber/shiloh/releases/download/v0.1.0/SHA256SUMS",
+            "size": 387
+          },
+          {
+            "name": "shiloh-v0.1.0-linux-x86_64.tar.gz",
+            "url": "https://github.com/Asterber/shiloh/releases/download/v0.1.0/shiloh-v0.1.0-linux-x86_64.tar.gz",
+            "size": 4189351
+          },
+          {
+            "name": "shiloh-v0.1.0-macos-universal.zip",
+            "url": "https://github.com/Asterber/shiloh/releases/download/v0.1.0/shiloh-v0.1.0-macos-universal.zip",
+            "size": 6612332
+          },
+          {
+            "name": "shiloh-v0.1.0-web.zip",
+            "url": "https://github.com/Asterber/shiloh/releases/download/v0.1.0/shiloh-v0.1.0-web.zip",
+            "size": 798514
+          },
+          {
+            "name": "shiloh-v0.1.0-windows-x86_64.zip",
+            "url": "https://github.com/Asterber/shiloh/releases/download/v0.1.0/shiloh-v0.1.0-windows-x86_64.zip",
+            "size": 3403932
+          }
+        ],
+        "releases": [
+          {
+            "name": "Shiloh v0.1.0",
+            "url": "https://github.com/Asterber/shiloh/releases/tag/v0.1.0",
+            "published_at": "2026-10-17T17:49:51Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/Asterber/shiloh/releases/download/v0.1.0/SHA256SUMS",
+                "size": 387
+              },
+              {
+                "name": "shiloh-v0.1.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/Asterber/shiloh/releases/download/v0.1.0/shiloh-v0.1.0-linux-x86_64.tar.gz",
+                "size": 4189351
+              },
+              {
+                "name": "shiloh-v0.1.0-macos-universal.zip",
+                "url": "https://github.com/Asterber/shiloh/releases/download/v0.1.0/shiloh-v0.1.0-macos-universal.zip",
+                "size": 6612332
+              },
+              {
+                "name": "shiloh-v0.1.0-web.zip",
+                "url": "https://github.com/Asterber/shiloh/releases/download/v0.1.0/shiloh-v0.1.0-web.zip",
+                "size": 798514
+              },
+              {
+                "name": "shiloh-v0.1.0-windows-x86_64.zip",
+                "url": "https://github.com/Asterber/shiloh/releases/download/v0.1.0/shiloh-v0.1.0-windows-x86_64.zip",
+                "size": 3403932
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
-        "Web"
+        "Web",
+        "PC"
       ],
       "category_evidence": {
         "browser_terms": [
@@ -190,12 +1130,43 @@
           "webassembly"
         ],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/Asterber/shiloh/releases/download/v0.1.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "shiloh-v0.1.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/Asterber/shiloh/releases/download/v0.1.0/shiloh-v0.1.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "shiloh-v0.1.0-macos-universal.zip",
+          "url": "https://github.com/Asterber/shiloh/releases/download/v0.1.0/shiloh-v0.1.0-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "shiloh-v0.1.0-web.zip",
+          "url": "https://github.com/Asterber/shiloh/releases/download/v0.1.0/shiloh-v0.1.0-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "shiloh-v0.1.0-windows-x86_64.zip",
+          "url": "https://github.com/Asterber/shiloh/releases/download/v0.1.0/shiloh-v0.1.0-windows-x86_64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
@@ -213,7 +1184,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-17T22:08:27.286313+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-18T09:26:16.035751+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Unofficial browser port of KaM Remake (Knights and Merchants): TypeScript simulation + WebGL2. AGPL-3.0. No game assets.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -3485,7 +4473,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-16T16:28:37.116551+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-18T09:26:17.616309+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation port of Hollywood Monsters (FX 2010) to Linux, Windows and other systems. Needs your own copy of the game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
