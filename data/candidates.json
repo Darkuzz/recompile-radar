@@ -1,7 +1,202 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-18T15:43:34.818070+00:00",
+  "last_updated": "2026-10-18T22:21:13.731100+00:00",
   "candidates": [
+    {
+      "title": "TanookiStudios/decomp-buddy",
+      "url": "https://github.com/TanookiStudios/decomp-buddy",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-18T20:36:00Z",
+      "summary": "Decomp Buddy: set up fan-made PC ports and decomps of your games from your own game files. Free, GPL-3.0. Downloads: https://decompbuddy.com Topics: decomp, decompilation, electron, emulation, game-installer, game-launcher, linux, macos, n64, nintendo-64, open-source, pc-port, playstation, recomp, recompilation, retro-gaming, static-recompilation, steam-deck, windows, xbox-360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T22:20:59.129718+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "jarvis-jhk/baba-port",
+      "url": "https://github.com/jarvis-jhk/baba-port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-18T21:22:26Z",
+      "summary": "Clean-room reimplementation of Baba Is You in Rust: Linux, Windows, macOS, Android, PortMaster; up to 12 players, local and online (Warpzone). Bring your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T22:20:59.128477+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: reimplementation",
+        "Есть игровые/платформенные признаки: game, windows, linux, android"
+      ]
+    },
+    {
+      "title": "NichlasEk/AVP-PS4",
+      "url": "https://github.com/NichlasEk/AVP-PS4",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-18T18:27:55Z",
+      "summary": "Native Aliens versus Predator (1999) source port for PS4 / OpenOrbis. Bring your own game data. Topics: aliens-versus-predator, openorbis, ps4, source-port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T22:20:57.500933+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 7,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port, source-port",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "neoyagami/tekken-tag-tournament-2-linux-proton",
+      "url": "https://github.com/neoyagami/tekken-tag-tournament-2-linux-proton",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-18T20:36:05Z",
+      "summary": "Community Linux/Proton launcher for the Tekken Tag Tournament 2 static recompilation; ships no game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T22:20:55.675172+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "kilnan/ki-recomp",
+      "url": "https://github.com/kilnan/ki-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-18T22:06:57Z",
+      "summary": "Static recompilation of Killer Instinct (1994 arcade, MIPS R4600 LE) to C++ — exploratory, validated against MAME. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T22:20:55.674225+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "saulob/ssf2t-hd-remix-recompiled",
+      "url": "https://github.com/saulob/ssf2t-hd-remix-recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-18T22:19:12Z",
+      "summary": "Super Street Fighter II Turbo HD Remix native PC port via static recompilation, with TRG launcher, local achievements and experimental Linux support Topics: game, rexglue, rexglue-recomp, static-recompilation, street-fighter, street-fighter-2, xbla, xbox, xbox-360, xbox360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-18T22:20:55.673066+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
     {
       "title": "x-th-x/aitdroid",
       "url": "https://github.com/x-th-x/aitdroid",
@@ -11,7 +206,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-18T15:43:21.705825+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-18T22:21:03.583526+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "AITDroid - Android port of Alone in the Dark (1992) that reads the user's own game files",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +257,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-18T15:43:20.036470+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-18T22:21:04.866140+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "An unofficial port of OpenXOPS 1.080 to Rust: the whole game rewritten and rendered through wgpu. Ships no game data, and not the upstream sources either.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -79,7 +308,75 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-18T15:43:16.561028+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-18T22:21:06.089884+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A native PC port of Giga Wing (Takumi/Capcom, CPS-2), made by static recompilation with cps2recomp — no emulator. Windows, Linux and Steam Deck builds. Bring your own ROM set; no game data included. Not affiliated with Capcom.",
+        "latest_release_url": "https://github.com/omegakatana92/Gigawing-Recomp-/releases/tag/v0.1.0-beta.1",
+        "latest_release_name": "Giga Wing Recomp 0.1.0-beta.1",
+        "release_assets": [
+          {
+            "name": "Gigawing-linux-x86_64.AppImage",
+            "url": "https://github.com/omegakatana92/Gigawing-Recomp-/releases/download/v0.1.0-beta.1/Gigawing-linux-x86_64.AppImage",
+            "size": 7453176
+          },
+          {
+            "name": "Gigawing-linux-x86_64.tar.gz",
+            "url": "https://github.com/omegakatana92/Gigawing-Recomp-/releases/download/v0.1.0-beta.1/Gigawing-linux-x86_64.tar.gz",
+            "size": 7214642
+          },
+          {
+            "name": "Gigawing-windows-x64.zip",
+            "url": "https://github.com/omegakatana92/Gigawing-Recomp-/releases/download/v0.1.0-beta.1/Gigawing-windows-x64.zip",
+            "size": 6896729
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/omegakatana92/Gigawing-Recomp-/releases/download/v0.1.0-beta.1/SHA256SUMS.txt",
+            "size": 283
+          }
+        ],
+        "releases": [
+          {
+            "name": "Giga Wing Recomp 0.1.0-beta.1",
+            "url": "https://github.com/omegakatana92/Gigawing-Recomp-/releases/tag/v0.1.0-beta.1",
+            "published_at": "2026-10-18T04:31:23Z",
+            "assets": [
+              {
+                "name": "Gigawing-linux-x86_64.AppImage",
+                "url": "https://github.com/omegakatana92/Gigawing-Recomp-/releases/download/v0.1.0-beta.1/Gigawing-linux-x86_64.AppImage",
+                "size": 7453176
+              },
+              {
+                "name": "Gigawing-linux-x86_64.tar.gz",
+                "url": "https://github.com/omegakatana92/Gigawing-Recomp-/releases/download/v0.1.0-beta.1/Gigawing-linux-x86_64.tar.gz",
+                "size": 7214642
+              },
+              {
+                "name": "Gigawing-windows-x64.zip",
+                "url": "https://github.com/omegakatana92/Gigawing-Recomp-/releases/download/v0.1.0-beta.1/Gigawing-windows-x64.zip",
+                "size": 6896729
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/omegakatana92/Gigawing-Recomp-/releases/download/v0.1.0-beta.1/SHA256SUMS.txt",
+                "size": 283
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -95,9 +392,31 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Gigawing-linux-x86_64.AppImage",
+          "url": "https://github.com/omegakatana92/Gigawing-Recomp-/releases/download/v0.1.0-beta.1/Gigawing-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Gigawing-linux-x86_64.tar.gz",
+          "url": "https://github.com/omegakatana92/Gigawing-Recomp-/releases/download/v0.1.0-beta.1/Gigawing-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "Gigawing-windows-x64.zip",
+          "url": "https://github.com/omegakatana92/Gigawing-Recomp-/releases/download/v0.1.0-beta.1/Gigawing-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/omegakatana92/Gigawing-Recomp-/releases/download/v0.1.0-beta.1/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -115,7 +434,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-18T15:43:16.559881+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-18T22:21:07.411632+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of Sonic and the Black Knight (Wii) by static recompilation. Fork of WiiCompiled by patchzyy. No game data included: bring your own USA disc.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -149,7 +485,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-18T15:43:16.558956+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-18T22:21:08.663042+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial static recompilation of Gran Turismo 4 (NTSC-U v2.00) for Windows. Requires your own disc; no game files included. Not affiliated with Sony or Polyphony Digital.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -182,7 +535,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-18T15:43:16.558033+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-18T22:21:09.884055+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Rock Band Blitz (Xbox 360) on PC: static recompilation with ReXGlue and a native D3D12 renderer. Bring your own copy of the game.",
+        "latest_release_url": "https://github.com/hedgey95/rock-band-blitz-recomp/releases/tag/v0.1.0",
+        "latest_release_name": "v0.1.0: first playable release",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "v0.1.0: first playable release",
+            "url": "https://github.com/hedgey95/rock-band-blitz-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-10-18T16:20:20Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -209,7 +588,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-18T15:43:16.556826+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-18T22:21:11.169719+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Static recompilation of Don't Starve (PC) into native ARM64 for the R36S handheld via pcrecomp — no box64. Tooling only, no game files. / Recompilação estática nativa ARM64.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -236,7 +632,122 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-18T15:43:16.555541+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-18T22:21:12.414688+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Bring-your-own-game native build of Might and Magic IX (2002) for Apple Silicon Macs: static recompilation with Ghidra, Direct3D 7 on Metal, Miles on CoreAudio. No game files included.",
+        "latest_release_url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/tag/v1.3",
+        "latest_release_name": "MM9 Native Installer 1.3",
+        "release_assets": [
+          {
+            "name": "MM9-Native-Installer.dmg",
+            "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.3/MM9-Native-Installer.dmg",
+            "size": 4345268
+          },
+          {
+            "name": "MM9-Native-Uninstaller.dmg",
+            "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.3/MM9-Native-Uninstaller.dmg",
+            "size": 3823948
+          },
+          {
+            "name": "MM9-Native-Updater.dmg",
+            "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.3/MM9-Native-Updater.dmg",
+            "size": 4127938
+          }
+        ],
+        "releases": [
+          {
+            "name": "MM9 Native Installer 1.3",
+            "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/tag/v1.3",
+            "published_at": "2026-10-18T20:44:08Z",
+            "assets": [
+              {
+                "name": "MM9-Native-Installer.dmg",
+                "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.3/MM9-Native-Installer.dmg",
+                "size": 4345268
+              },
+              {
+                "name": "MM9-Native-Uninstaller.dmg",
+                "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.3/MM9-Native-Uninstaller.dmg",
+                "size": 3823948
+              },
+              {
+                "name": "MM9-Native-Updater.dmg",
+                "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.3/MM9-Native-Updater.dmg",
+                "size": 4127938
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "MM9 Native Installer 1.2",
+            "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/tag/v1.2",
+            "published_at": "2026-10-18T20:30:47Z",
+            "assets": [
+              {
+                "name": "MM9-Native-Installer.dmg",
+                "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.2/MM9-Native-Installer.dmg",
+                "size": 4335152
+              },
+              {
+                "name": "MM9-Native-Uninstaller.dmg",
+                "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.2/MM9-Native-Uninstaller.dmg",
+                "size": 3574470
+              },
+              {
+                "name": "MM9-Native-Updater.dmg",
+                "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.2/MM9-Native-Updater.dmg",
+                "size": 3866323
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "MM9 Native Installer 1.1",
+            "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/tag/v1.1",
+            "published_at": "2026-10-18T19:42:24Z",
+            "assets": [
+              {
+                "name": "MM9-Native-Installer.dmg",
+                "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.1/MM9-Native-Installer.dmg",
+                "size": 4326469
+              },
+              {
+                "name": "MM9-Native-Updater.dmg",
+                "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.1/MM9-Native-Updater.dmg",
+                "size": 4024559
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "MM9 Native Installer",
+            "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/tag/v1.0",
+            "published_at": "2026-10-18T12:43:28Z",
+            "assets": [
+              {
+                "name": "MM9-Native-Installer.dmg",
+                "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.0/MM9-Native-Installer.dmg",
+                "size": 3890316
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -245,8 +756,56 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "MM9-Native-Installer.dmg",
+          "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.3/MM9-Native-Installer.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "MM9-Native-Uninstaller.dmg",
+          "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.3/MM9-Native-Uninstaller.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "MM9-Native-Updater.dmg",
+          "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.3/MM9-Native-Updater.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "MM9-Native-Installer.dmg",
+          "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.2/MM9-Native-Installer.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "MM9-Native-Uninstaller.dmg",
+          "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.2/MM9-Native-Uninstaller.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "MM9-Native-Updater.dmg",
+          "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.2/MM9-Native-Updater.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "MM9-Native-Installer.dmg",
+          "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.1/MM9-Native-Installer.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "MM9-Native-Updater.dmg",
+          "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.1/MM9-Native-Updater.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "MM9-Native-Installer.dmg",
+          "url": "https://github.com/opimuusikat/Might-and-Magic-IX-MacOS/releases/download/v1.0/MM9-Native-Installer.dmg",
+          "type": "desktop_package"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
