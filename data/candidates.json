@@ -1,7 +1,466 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-18T22:21:13.731100+00:00",
+  "last_updated": "2026-10-19T10:39:19.809617+00:00",
   "candidates": [
+    {
+      "title": "armac911/Carmageddon-Android-Port",
+      "url": "https://github.com/armac911/Carmageddon-Android-Port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-18T22:02:01Z",
+      "summary": "AndroGaming.com Carmageddon Android Port, native ARM64 Dethrace-based engine, touch/controller support, graphics improvements and full AI development disclosure. Requires your own PC game data. Topics: android, gaming, port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T10:39:05.568072+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "WangTingYeYe/rtg-mobile",
+      "url": "https://github.com/WangTingYeYe/rtg-mobile",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-19T02:44:53Z",
+      "summary": "Experimental Android ARM64 port of Rhythm Tengoku. Source code only; no game assets included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T10:39:05.567406+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "aurelioochoa/re4mepc",
+      "url": "https://github.com/aurelioochoa/re4mepc",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-19T04:42:49Z",
+      "summary": "Play and preserve Resident Evil 4 Mobile with an experimental Linux PC port of the Android game, featuring keyboard and mouse controls and a desktop launcher. Bring your own APK; no game files included. Topics: android, emulation, game-preservation, linux, mobile-game, pc-port, python, resident-evil, resident-evil-4-mobile, reverse-engineering, sdl2, unicorn-engine",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T10:39:05.566658+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux",
+          "pc port",
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux, android, apk"
+      ]
+    },
+    {
+      "title": "kensu-kimsu/pixbit",
+      "url": "https://github.com/kensu-kimsu/pixbit",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-19T10:18:50Z",
+      "summary": "A game hub for organizing decompilation and port projects hosted on your own computers, with a library-style launcher for playing them on Android.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T10:39:05.565425+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "iHaiDeeZ/G-Diffuser-PS4",
+      "url": "https://github.com/iHaiDeeZ/G-Diffuser-PS4",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-19T05:29:28Z",
+      "summary": "G-Diffuser (F-Zero X + 64DD Expansion Kit source port) for jailbroken PS4: Vulkan on RADV/GNM, quick menu, FSR 1, DualShock 4. Bring your own game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T10:39:01.882178+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "dagrigorev/OpenBlood",
+      "url": "https://github.com/dagrigorev/OpenBlood",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-19T08:18:09Z",
+      "summary": "Open Source port of a Blood (1997) game Topics: 3dgam, blood, bloodgame, dos, pixel, port, retro, retrogame, retrogamedev, retrogames, retrogaming, rust, voxe",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T10:39:01.881463+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "chaikosh/azkaban-recomp",
+      "url": "https://github.com/chaikosh/azkaban-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T00:19:44Z",
+      "summary": "Native macOS/iOS port of the PS2 game Harry Potter and the Prisoner of Azkaban (SLUS-20926) by static recompilation. Unofficial; no game data, bring your own disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T10:38:59.762509+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "ios port"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "mstan/SuperMarioLand2Recomp",
+      "url": "https://github.com/mstan/SuperMarioLand2Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T02:57:58Z",
+      "summary": "Super Mario Land 2: 6 Golden Coins (Game Boy) static recompilation with adaptive widescreen and DX mods",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T10:38:59.761884+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp",
+      "url": "https://github.com/omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T05:26:03Z",
+      "summary": "Native PC port of Super Street Fighter II: The New Challengers (Capcom 1993, CPS-2), built with tmcleroy's cps2recomp by static recompilation. No emulator; the player brings their own ROM set. Free play, cheats and training aids. No game data included - bring your own ROM set. GPL-3.0. Not affiliated with Capcom.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T10:38:59.761053+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom"
+      ]
+    },
+    {
+      "title": "brad-richardson/ssx3-120",
+      "url": "https://github.com/brad-richardson/ssx3-120",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T07:49:11Z",
+      "summary": "SSX 3 at a true 120 Hz: a bring-your-own-disc static recompilation build (Android, Mac, Linux/WSL2 hosts). No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T10:38:59.760181+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux, android"
+      ]
+    },
+    {
+      "title": "riseio/Jet-Force-Capricorn",
+      "url": "https://github.com/riseio/Jet-Force-Capricorn",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T07:51:31Z",
+      "summary": "Children and Dog go Pew Pew (CadgPP) - A static recompilation project of the N64 game Jet Force Gemini",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T10:38:59.759547+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Claudio5702/Cristalis",
+      "url": "https://github.com/Claudio5702/Cristalis",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T09:02:42Z",
+      "summary": "Crystal Defenders Recomp — unofficial native PC port (Windows, Linux) of Crystal Defenders (Xbox 360) by static recompilation. Bring your own copy of the game. Topics: crystal-defenders, native-port, recompilation, static-recompilation, tower-defense, xbox-360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T10:38:59.758637+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Tajwarbot/webport-unity-game",
+      "url": "https://github.com/Tajwarbot/webport-unity-game",
+      "source_name": "GitHub: WebGL ports",
+      "published": "2026-10-18T23:12:55Z",
+      "summary": "Agent skill: research-first workflow to port a Unity-class desktop game to the browser (WebGL webport).",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T10:38:57.885777+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webgl"
+      ]
+    },
+    {
+      "title": "haveanair/chiikawa-volleyball",
+      "url": "https://github.com/haveanair/chiikawa-volleyball",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-19T08:03:54Z",
+      "summary": "치이카와 배구 (Chiikawa Volley) — PC·모바일 무료 웹 배구 팬게임. 스토리 5개 스테이지, 2인 대전, 온라인 친구 대전. Free browser volleyball fan game. Topics: browser-game, chiikawa, chiikawa-volley, fan-game, html5-game, javascript, korean, volleyball, web-game, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T10:38:55.677016+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "html5"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, html5",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "TanookiStudios/decomp-buddy",
       "url": "https://github.com/TanookiStudios/decomp-buddy",
@@ -11,7 +470,996 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-18T22:20:59.129718+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T10:39:08.393064+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Decomp Buddy: set up fan-made PC ports and decomps of your games from your own game files. Free, GPL-3.0. Downloads: https://decompbuddy.com",
+        "latest_release_url": "https://github.com/TanookiStudios/decomp-buddy/releases/tag/v0.30.2",
+        "latest_release_name": "Decomp Buddy 0.30.2",
+        "release_assets": [
+          {
+            "name": "decomp-buddy_0.30.2_amd64.deb",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/decomp-buddy_0.30.2_amd64.deb",
+            "size": 106975232
+          },
+          {
+            "name": "Decomp.Buddy-0.30.2-arm64-mac.zip",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-arm64-mac.zip",
+            "size": 135988308
+          },
+          {
+            "name": "Decomp.Buddy-0.30.2-arm64-mac.zip.blockmap",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-arm64-mac.zip.blockmap",
+            "size": 142394
+          },
+          {
+            "name": "Decomp.Buddy-0.30.2-arm64.dmg",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-arm64.dmg",
+            "size": 136782693
+          },
+          {
+            "name": "Decomp.Buddy-0.30.2-arm64.dmg.blockmap",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-arm64.dmg.blockmap",
+            "size": 144743
+          },
+          {
+            "name": "Decomp.Buddy-0.30.2-x64-mac.zip",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-x64-mac.zip",
+            "size": 143324728
+          },
+          {
+            "name": "Decomp.Buddy-0.30.2-x64-mac.zip.blockmap",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-x64-mac.zip.blockmap",
+            "size": 150373
+          },
+          {
+            "name": "Decomp.Buddy-0.30.2-x64.dmg",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-x64.dmg",
+            "size": 144054197
+          },
+          {
+            "name": "Decomp.Buddy-0.30.2-x64.dmg.blockmap",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-x64.dmg.blockmap",
+            "size": 152000
+          },
+          {
+            "name": "Decomp.Buddy-0.30.2.AppImage",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2.AppImage",
+            "size": 134815047
+          },
+          {
+            "name": "Decomp.Buddy.0.30.2.Portable.exe",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy.0.30.2.Portable.exe",
+            "size": 119179890
+          },
+          {
+            "name": "Decomp.Buddy.Setup.0.30.2.exe",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy.Setup.0.30.2.exe",
+            "size": 119431557
+          },
+          {
+            "name": "Decomp.Buddy.Setup.0.30.2.exe.blockmap",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy.Setup.0.30.2.exe.blockmap",
+            "size": 125359
+          },
+          {
+            "name": "latest-linux.yml",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/latest-linux.yml",
+            "size": 539
+          },
+          {
+            "name": "latest-mac.yml",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/latest-mac.yml",
+            "size": 842
+          },
+          {
+            "name": "latest.yml",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/latest.yml",
+            "size": 356
+          }
+        ],
+        "releases": [
+          {
+            "name": "Decomp Buddy 0.30.2",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/tag/v0.30.2",
+            "published_at": "2026-10-19T04:42:12Z",
+            "assets": [
+              {
+                "name": "decomp-buddy_0.30.2_amd64.deb",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/decomp-buddy_0.30.2_amd64.deb",
+                "size": 106975232
+              },
+              {
+                "name": "Decomp.Buddy-0.30.2-arm64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-arm64-mac.zip",
+                "size": 135988308
+              },
+              {
+                "name": "Decomp.Buddy-0.30.2-arm64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-arm64-mac.zip.blockmap",
+                "size": 142394
+              },
+              {
+                "name": "Decomp.Buddy-0.30.2-arm64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-arm64.dmg",
+                "size": 136782693
+              },
+              {
+                "name": "Decomp.Buddy-0.30.2-arm64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-arm64.dmg.blockmap",
+                "size": 144743
+              },
+              {
+                "name": "Decomp.Buddy-0.30.2-x64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-x64-mac.zip",
+                "size": 143324728
+              },
+              {
+                "name": "Decomp.Buddy-0.30.2-x64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-x64-mac.zip.blockmap",
+                "size": 150373
+              },
+              {
+                "name": "Decomp.Buddy-0.30.2-x64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-x64.dmg",
+                "size": 144054197
+              },
+              {
+                "name": "Decomp.Buddy-0.30.2-x64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-x64.dmg.blockmap",
+                "size": 152000
+              },
+              {
+                "name": "Decomp.Buddy-0.30.2.AppImage",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2.AppImage",
+                "size": 134815047
+              },
+              {
+                "name": "Decomp.Buddy.0.30.2.Portable.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy.0.30.2.Portable.exe",
+                "size": 119179890
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.30.2.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy.Setup.0.30.2.exe",
+                "size": 119431557
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.30.2.exe.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy.Setup.0.30.2.exe.blockmap",
+                "size": 125359
+              },
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/latest-linux.yml",
+                "size": 539
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/latest-mac.yml",
+                "size": 842
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/latest.yml",
+                "size": 356
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Decomp Buddy 0.30.1",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/tag/v0.30.1",
+            "published_at": "2026-10-19T04:15:45Z",
+            "assets": [
+              {
+                "name": "decomp-buddy_0.30.1_amd64.deb",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/decomp-buddy_0.30.1_amd64.deb",
+                "size": 106975072
+              },
+              {
+                "name": "Decomp.Buddy-0.30.1-arm64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1-arm64-mac.zip",
+                "size": 135988360
+              },
+              {
+                "name": "Decomp.Buddy-0.30.1-arm64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1-arm64-mac.zip.blockmap",
+                "size": 142705
+              },
+              {
+                "name": "Decomp.Buddy-0.30.1-arm64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1-arm64.dmg",
+                "size": 136777294
+              },
+              {
+                "name": "Decomp.Buddy-0.30.1-arm64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1-arm64.dmg.blockmap",
+                "size": 144466
+              },
+              {
+                "name": "Decomp.Buddy-0.30.1-x64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1-x64-mac.zip",
+                "size": 143325198
+              },
+              {
+                "name": "Decomp.Buddy-0.30.1-x64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1-x64-mac.zip.blockmap",
+                "size": 150706
+              },
+              {
+                "name": "Decomp.Buddy-0.30.1-x64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1-x64.dmg",
+                "size": 144065403
+              },
+              {
+                "name": "Decomp.Buddy-0.30.1-x64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1-x64.dmg.blockmap",
+                "size": 152099
+              },
+              {
+                "name": "Decomp.Buddy-0.30.1.AppImage",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1.AppImage",
+                "size": 134814990
+              },
+              {
+                "name": "Decomp.Buddy.0.30.1.Portable.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy.0.30.1.Portable.exe",
+                "size": 119179924
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.30.1.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy.Setup.0.30.1.exe",
+                "size": 119431544
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.30.1.exe.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy.Setup.0.30.1.exe.blockmap",
+                "size": 125310
+              },
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/latest-linux.yml",
+                "size": 539
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/latest-mac.yml",
+                "size": 842
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/latest.yml",
+                "size": 356
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Decomp Buddy 0.30.0",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/tag/v0.30.0",
+            "published_at": "2026-10-18T20:30:15Z",
+            "assets": [
+              {
+                "name": "decomp-buddy_0.30.0_amd64.deb",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/decomp-buddy_0.30.0_amd64.deb",
+                "size": 106805480
+              },
+              {
+                "name": "Decomp.Buddy-0.30.0-arm64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0-arm64-mac.zip",
+                "size": 135793855
+              },
+              {
+                "name": "Decomp.Buddy-0.30.0-arm64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0-arm64-mac.zip.blockmap",
+                "size": 142245
+              },
+              {
+                "name": "Decomp.Buddy-0.30.0-arm64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0-arm64.dmg",
+                "size": 136556835
+              },
+              {
+                "name": "Decomp.Buddy-0.30.0-arm64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0-arm64.dmg.blockmap",
+                "size": 144843
+              },
+              {
+                "name": "Decomp.Buddy-0.30.0-x64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0-x64-mac.zip",
+                "size": 143130293
+              },
+              {
+                "name": "Decomp.Buddy-0.30.0-x64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0-x64-mac.zip.blockmap",
+                "size": 150250
+              },
+              {
+                "name": "Decomp.Buddy-0.30.0-x64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0-x64.dmg",
+                "size": 143894117
+              },
+              {
+                "name": "Decomp.Buddy-0.30.0-x64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0-x64.dmg.blockmap",
+                "size": 151328
+              },
+              {
+                "name": "Decomp.Buddy-0.30.0.AppImage",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0.AppImage",
+                "size": 134614188
+              },
+              {
+                "name": "Decomp.Buddy.0.30.0.Portable.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy.0.30.0.Portable.exe",
+                "size": 119029089
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.30.0.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy.Setup.0.30.0.exe",
+                "size": 119280755
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.30.0.exe.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy.Setup.0.30.0.exe.blockmap",
+                "size": 125113
+              },
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/latest-linux.yml",
+                "size": 539
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/latest-mac.yml",
+                "size": 842
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/latest.yml",
+                "size": 356
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Decomp Buddy 0.29.12",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/tag/v0.29.12",
+            "published_at": "2026-10-18T08:37:14Z",
+            "assets": [
+              {
+                "name": "decomp-buddy_0.29.12_amd64.deb",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/decomp-buddy_0.29.12_amd64.deb",
+                "size": 106931132
+              },
+              {
+                "name": "Decomp.Buddy-0.29.12-arm64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12-arm64-mac.zip",
+                "size": 135574444
+              },
+              {
+                "name": "Decomp.Buddy-0.29.12-arm64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12-arm64-mac.zip.blockmap",
+                "size": 142326
+              },
+              {
+                "name": "Decomp.Buddy-0.29.12-arm64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12-arm64.dmg",
+                "size": 136359151
+              },
+              {
+                "name": "Decomp.Buddy-0.29.12-arm64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12-arm64.dmg.blockmap",
+                "size": 143304
+              },
+              {
+                "name": "Decomp.Buddy-0.29.12-x64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12-x64-mac.zip",
+                "size": 142910874
+              },
+              {
+                "name": "Decomp.Buddy-0.29.12-x64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12-x64-mac.zip.blockmap",
+                "size": 150158
+              },
+              {
+                "name": "Decomp.Buddy-0.29.12-x64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12-x64.dmg",
+                "size": 143673343
+              },
+              {
+                "name": "Decomp.Buddy-0.29.12-x64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12-x64.dmg.blockmap",
+                "size": 150993
+              },
+              {
+                "name": "Decomp.Buddy-0.29.12.AppImage",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12.AppImage",
+                "size": 134384629
+              },
+              {
+                "name": "Decomp.Buddy.0.29.12.Portable.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy.0.29.12.Portable.exe",
+                "size": 118889738
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.29.12.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy.Setup.0.29.12.exe",
+                "size": 119141437
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.29.12.exe.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy.Setup.0.29.12.exe.blockmap",
+                "size": 125215
+              },
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/latest-linux.yml",
+                "size": 543
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/latest-mac.yml",
+                "size": 848
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/latest.yml",
+                "size": 359
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Decomp Buddy 0.29.11",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/tag/v0.29.11",
+            "published_at": "2026-10-13T20:44:28Z",
+            "assets": [
+              {
+                "name": "decomp-buddy_0.29.11_amd64.deb",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/decomp-buddy_0.29.11_amd64.deb",
+                "size": 106638380
+              },
+              {
+                "name": "Decomp.Buddy-0.29.11-arm64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11-arm64-mac.zip",
+                "size": 135241867
+              },
+              {
+                "name": "Decomp.Buddy-0.29.11-arm64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11-arm64-mac.zip.blockmap",
+                "size": 141428
+              },
+              {
+                "name": "Decomp.Buddy-0.29.11-arm64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11-arm64.dmg",
+                "size": 136030123
+              },
+              {
+                "name": "Decomp.Buddy-0.29.11-arm64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11-arm64.dmg.blockmap",
+                "size": 144409
+              },
+              {
+                "name": "Decomp.Buddy-0.29.11-x64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11-x64-mac.zip",
+                "size": 142578293
+              },
+              {
+                "name": "Decomp.Buddy-0.29.11-x64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11-x64-mac.zip.blockmap",
+                "size": 149598
+              },
+              {
+                "name": "Decomp.Buddy-0.29.11-x64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11-x64.dmg",
+                "size": 143327092
+              },
+              {
+                "name": "Decomp.Buddy-0.29.11-x64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11-x64.dmg.blockmap",
+                "size": 150169
+              },
+              {
+                "name": "Decomp.Buddy-0.29.11.AppImage",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11.AppImage",
+                "size": 134056069
+              },
+              {
+                "name": "Decomp.Buddy.0.29.11.Portable.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy.0.29.11.Portable.exe",
+                "size": 118648955
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.29.11.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy.Setup.0.29.11.exe",
+                "size": 118900562
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.29.11.exe.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy.Setup.0.29.11.exe.blockmap",
+                "size": 124647
+              },
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/latest-linux.yml",
+                "size": 543
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/latest-mac.yml",
+                "size": 848
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/latest.yml",
+                "size": 359
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Decomp Buddy 0.29.10",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/tag/v0.29.10",
+            "published_at": "2026-10-13T14:57:40Z",
+            "assets": [
+              {
+                "name": "decomp-buddy_0.29.10_amd64.deb",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/decomp-buddy_0.29.10_amd64.deb",
+                "size": 106373384
+              },
+              {
+                "name": "Decomp.Buddy-0.29.10-arm64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10-arm64-mac.zip",
+                "size": 135063734
+              },
+              {
+                "name": "Decomp.Buddy-0.29.10-arm64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10-arm64-mac.zip.blockmap",
+                "size": 141448
+              },
+              {
+                "name": "Decomp.Buddy-0.29.10-arm64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10-arm64.dmg",
+                "size": 135838598
+              },
+              {
+                "name": "Decomp.Buddy-0.29.10-arm64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10-arm64.dmg.blockmap",
+                "size": 143624
+              },
+              {
+                "name": "Decomp.Buddy-0.29.10-x64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10-x64-mac.zip",
+                "size": 142400156
+              },
+              {
+                "name": "Decomp.Buddy-0.29.10-x64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10-x64-mac.zip.blockmap",
+                "size": 149678
+              },
+              {
+                "name": "Decomp.Buddy-0.29.10-x64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10-x64.dmg",
+                "size": 143152367
+              },
+              {
+                "name": "Decomp.Buddy-0.29.10-x64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10-x64.dmg.blockmap",
+                "size": 151565
+              },
+              {
+                "name": "Decomp.Buddy-0.29.10.AppImage",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10.AppImage",
+                "size": 133863731
+              },
+              {
+                "name": "Decomp.Buddy.0.29.10.Portable.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy.0.29.10.Portable.exe",
+                "size": 118518382
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.29.10.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy.Setup.0.29.10.exe",
+                "size": 118769989
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.29.10.exe.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy.Setup.0.29.10.exe.blockmap",
+                "size": 124572
+              },
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/latest-linux.yml",
+                "size": 543
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/latest-mac.yml",
+                "size": 848
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/latest.yml",
+                "size": 359
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Decomp Buddy 0.29.9",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/tag/v0.29.9",
+            "published_at": "2026-10-13T00:32:40Z",
+            "assets": [
+              {
+                "name": "decomp-buddy_0.29.9_amd64.deb",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/decomp-buddy_0.29.9_amd64.deb",
+                "size": 106371760
+              },
+              {
+                "name": "Decomp.Buddy-0.29.9-arm64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9-arm64-mac.zip",
+                "size": 135064854
+              },
+              {
+                "name": "Decomp.Buddy-0.29.9-arm64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9-arm64-mac.zip.blockmap",
+                "size": 141178
+              },
+              {
+                "name": "Decomp.Buddy-0.29.9-arm64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9-arm64.dmg",
+                "size": 135834129
+              },
+              {
+                "name": "Decomp.Buddy-0.29.9-arm64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9-arm64.dmg.blockmap",
+                "size": 144386
+              },
+              {
+                "name": "Decomp.Buddy-0.29.9-x64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9-x64-mac.zip",
+                "size": 142401295
+              },
+              {
+                "name": "Decomp.Buddy-0.29.9-x64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9-x64-mac.zip.blockmap",
+                "size": 149457
+              },
+              {
+                "name": "Decomp.Buddy-0.29.9-x64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9-x64.dmg",
+                "size": 143150597
+              },
+              {
+                "name": "Decomp.Buddy-0.29.9-x64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9-x64.dmg.blockmap",
+                "size": 150009
+              },
+              {
+                "name": "Decomp.Buddy-0.29.9.AppImage",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9.AppImage",
+                "size": 133863700
+              },
+              {
+                "name": "Decomp.Buddy.0.29.9.Portable.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy.0.29.9.Portable.exe",
+                "size": 118518186
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.29.9.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy.Setup.0.29.9.exe",
+                "size": 118769809
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.29.9.exe.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy.Setup.0.29.9.exe.blockmap",
+                "size": 124605
+              },
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/latest-linux.yml",
+                "size": 539
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/latest-mac.yml",
+                "size": 842
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/latest.yml",
+                "size": 356
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Decomp Buddy 0.29.8",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/tag/v0.29.8",
+            "published_at": "2026-10-12T20:20:57Z",
+            "assets": [
+              {
+                "name": "decomp-buddy_0.29.8_amd64.deb",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/decomp-buddy_0.29.8_amd64.deb",
+                "size": 106368120
+              },
+              {
+                "name": "Decomp.Buddy-0.29.8-arm64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8-arm64-mac.zip",
+                "size": 135061975
+              },
+              {
+                "name": "Decomp.Buddy-0.29.8-arm64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8-arm64-mac.zip.blockmap",
+                "size": 141809
+              },
+              {
+                "name": "Decomp.Buddy-0.29.8-arm64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8-arm64.dmg",
+                "size": 135831273
+              },
+              {
+                "name": "Decomp.Buddy-0.29.8-arm64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8-arm64.dmg.blockmap",
+                "size": 145155
+              },
+              {
+                "name": "Decomp.Buddy-0.29.8-x64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8-x64-mac.zip",
+                "size": 142398397
+              },
+              {
+                "name": "Decomp.Buddy-0.29.8-x64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8-x64-mac.zip.blockmap",
+                "size": 149963
+              },
+              {
+                "name": "Decomp.Buddy-0.29.8-x64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8-x64.dmg",
+                "size": 143163259
+              },
+              {
+                "name": "Decomp.Buddy-0.29.8-x64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8-x64.dmg.blockmap",
+                "size": 151132
+              },
+              {
+                "name": "Decomp.Buddy-0.29.8.AppImage",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8.AppImage",
+                "size": 133859590
+              },
+              {
+                "name": "Decomp.Buddy.0.29.8.Portable.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy.0.29.8.Portable.exe",
+                "size": 118516292
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.29.8.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy.Setup.0.29.8.exe",
+                "size": 118767925
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.29.8.exe.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy.Setup.0.29.8.exe.blockmap",
+                "size": 124504
+              },
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/latest-linux.yml",
+                "size": 539
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/latest-mac.yml",
+                "size": 842
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/latest.yml",
+                "size": 356
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Decomp Buddy 0.29.7",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/tag/v0.29.7",
+            "published_at": "2026-10-12T16:02:38Z",
+            "assets": [
+              {
+                "name": "decomp-buddy_0.29.7_amd64.deb",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/decomp-buddy_0.29.7_amd64.deb",
+                "size": 106332508
+              },
+              {
+                "name": "Decomp.Buddy-0.29.7-arm64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7-arm64-mac.zip",
+                "size": 135047048
+              },
+              {
+                "name": "Decomp.Buddy-0.29.7-arm64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7-arm64-mac.zip.blockmap",
+                "size": 141189
+              },
+              {
+                "name": "Decomp.Buddy-0.29.7-arm64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7-arm64.dmg",
+                "size": 135802773
+              },
+              {
+                "name": "Decomp.Buddy-0.29.7-arm64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7-arm64.dmg.blockmap",
+                "size": 142132
+              },
+              {
+                "name": "Decomp.Buddy-0.29.7-x64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7-x64-mac.zip",
+                "size": 142383435
+              },
+              {
+                "name": "Decomp.Buddy-0.29.7-x64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7-x64-mac.zip.blockmap",
+                "size": 149507
+              },
+              {
+                "name": "Decomp.Buddy-0.29.7-x64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7-x64.dmg",
+                "size": 143147979
+              },
+              {
+                "name": "Decomp.Buddy-0.29.7-x64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7-x64.dmg.blockmap",
+                "size": 149916
+              },
+              {
+                "name": "Decomp.Buddy-0.29.7.AppImage",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7.AppImage",
+                "size": 133843050
+              },
+              {
+                "name": "Decomp.Buddy.0.29.7.Portable.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy.0.29.7.Portable.exe",
+                "size": 118503544
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.29.7.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy.Setup.0.29.7.exe",
+                "size": 118755224
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.29.7.exe.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy.Setup.0.29.7.exe.blockmap",
+                "size": 124425
+              },
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/latest-linux.yml",
+                "size": 539
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/latest-mac.yml",
+                "size": 842
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/latest.yml",
+                "size": 356
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Decomp Buddy 0.29.6",
+            "url": "https://github.com/TanookiStudios/decomp-buddy/releases/tag/v0.29.6",
+            "published_at": "2026-10-08T19:10:15Z",
+            "assets": [
+              {
+                "name": "decomp-buddy_0.29.6_amd64.deb",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/decomp-buddy_0.29.6_amd64.deb",
+                "size": 106333184
+              },
+              {
+                "name": "Decomp.Buddy-0.29.6-arm64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6-arm64-mac.zip",
+                "size": 135044450
+              },
+              {
+                "name": "Decomp.Buddy-0.29.6-arm64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6-arm64-mac.zip.blockmap",
+                "size": 141463
+              },
+              {
+                "name": "Decomp.Buddy-0.29.6-arm64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6-arm64.dmg",
+                "size": 135814295
+              },
+              {
+                "name": "Decomp.Buddy-0.29.6-arm64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6-arm64.dmg.blockmap",
+                "size": 144410
+              },
+              {
+                "name": "Decomp.Buddy-0.29.6-x64-mac.zip",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6-x64-mac.zip",
+                "size": 142380850
+              },
+              {
+                "name": "Decomp.Buddy-0.29.6-x64-mac.zip.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6-x64-mac.zip.blockmap",
+                "size": 149691
+              },
+              {
+                "name": "Decomp.Buddy-0.29.6-x64.dmg",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6-x64.dmg",
+                "size": 143128642
+              },
+              {
+                "name": "Decomp.Buddy-0.29.6-x64.dmg.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6-x64.dmg.blockmap",
+                "size": 151188
+              },
+              {
+                "name": "Decomp.Buddy-0.29.6.AppImage",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6.AppImage",
+                "size": 133843113
+              },
+              {
+                "name": "Decomp.Buddy.0.29.6.Portable.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy.0.29.6.Portable.exe",
+                "size": 118502976
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.29.6.exe",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy.Setup.0.29.6.exe",
+                "size": 118691785
+              },
+              {
+                "name": "Decomp.Buddy.Setup.0.29.6.exe.blockmap",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy.Setup.0.29.6.exe.blockmap",
+                "size": 124367
+              },
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/latest-linux.yml",
+                "size": 539
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/latest-mac.yml",
+                "size": 842
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/latest.yml",
+                "size": 356
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -26,9 +1474,811 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "decomp-buddy_0.30.2_amd64.deb",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/decomp-buddy_0.30.2_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.2-arm64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.2-arm64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.2-arm64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.2-arm64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.2-x64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-x64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.2-x64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-x64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.2-x64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-x64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.2-x64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2-x64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.2.AppImage",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy-0.30.2.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy.0.30.2.Portable.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy.0.30.2.Portable.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.30.2.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy.Setup.0.30.2.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.30.2.exe.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/Decomp.Buddy.Setup.0.30.2.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.2/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "decomp-buddy_0.30.1_amd64.deb",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/decomp-buddy_0.30.1_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.1-arm64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.1-arm64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.1-arm64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.1-arm64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.1-x64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1-x64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.1-x64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1-x64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.1-x64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1-x64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.1-x64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1-x64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.1.AppImage",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy-0.30.1.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy.0.30.1.Portable.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy.0.30.1.Portable.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.30.1.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy.Setup.0.30.1.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.30.1.exe.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/Decomp.Buddy.Setup.0.30.1.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.1/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "decomp-buddy_0.30.0_amd64.deb",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/decomp-buddy_0.30.0_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.0-arm64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.0-arm64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.0-arm64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.0-arm64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.0-x64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0-x64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.0-x64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0-x64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.0-x64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0-x64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.0-x64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0-x64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.30.0.AppImage",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy-0.30.0.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy.0.30.0.Portable.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy.0.30.0.Portable.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.30.0.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy.Setup.0.30.0.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.30.0.exe.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/Decomp.Buddy.Setup.0.30.0.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.30.0/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "decomp-buddy_0.29.12_amd64.deb",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/decomp-buddy_0.29.12_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.12-arm64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.12-arm64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.12-arm64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.12-arm64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.12-x64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12-x64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.12-x64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12-x64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.12-x64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12-x64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.12-x64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12-x64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.12.AppImage",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy-0.29.12.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy.0.29.12.Portable.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy.0.29.12.Portable.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.29.12.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy.Setup.0.29.12.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.29.12.exe.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/Decomp.Buddy.Setup.0.29.12.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.12/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "decomp-buddy_0.29.11_amd64.deb",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/decomp-buddy_0.29.11_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.11-arm64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.11-arm64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.11-arm64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.11-arm64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.11-x64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11-x64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.11-x64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11-x64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.11-x64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11-x64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.11-x64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11-x64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.11.AppImage",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy-0.29.11.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy.0.29.11.Portable.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy.0.29.11.Portable.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.29.11.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy.Setup.0.29.11.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.29.11.exe.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/Decomp.Buddy.Setup.0.29.11.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.11/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "decomp-buddy_0.29.10_amd64.deb",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/decomp-buddy_0.29.10_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.10-arm64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.10-arm64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.10-arm64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.10-arm64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.10-x64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10-x64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.10-x64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10-x64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.10-x64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10-x64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.10-x64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10-x64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.10.AppImage",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy-0.29.10.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy.0.29.10.Portable.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy.0.29.10.Portable.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.29.10.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy.Setup.0.29.10.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.29.10.exe.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/Decomp.Buddy.Setup.0.29.10.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.10/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "decomp-buddy_0.29.9_amd64.deb",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/decomp-buddy_0.29.9_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.9-arm64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.9-arm64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.9-arm64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.9-arm64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.9-x64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9-x64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.9-x64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9-x64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.9-x64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9-x64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.9-x64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9-x64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.9.AppImage",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy-0.29.9.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy.0.29.9.Portable.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy.0.29.9.Portable.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.29.9.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy.Setup.0.29.9.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.29.9.exe.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/Decomp.Buddy.Setup.0.29.9.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.9/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "decomp-buddy_0.29.8_amd64.deb",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/decomp-buddy_0.29.8_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.8-arm64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.8-arm64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.8-arm64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.8-arm64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.8-x64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8-x64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.8-x64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8-x64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.8-x64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8-x64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.8-x64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8-x64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.8.AppImage",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy-0.29.8.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy.0.29.8.Portable.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy.0.29.8.Portable.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.29.8.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy.Setup.0.29.8.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.29.8.exe.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/Decomp.Buddy.Setup.0.29.8.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.8/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "decomp-buddy_0.29.7_amd64.deb",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/decomp-buddy_0.29.7_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.7-arm64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.7-arm64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.7-arm64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.7-arm64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.7-x64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7-x64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.7-x64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7-x64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.7-x64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7-x64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.7-x64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7-x64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.7.AppImage",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy-0.29.7.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy.0.29.7.Portable.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy.0.29.7.Portable.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.29.7.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy.Setup.0.29.7.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.29.7.exe.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/Decomp.Buddy.Setup.0.29.7.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.7/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "decomp-buddy_0.29.6_amd64.deb",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/decomp-buddy_0.29.6_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.6-arm64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.6-arm64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.6-arm64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.6-arm64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.6-x64-mac.zip",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6-x64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.6-x64-mac.zip.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6-x64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.6-x64.dmg",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6-x64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.6-x64.dmg.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6-x64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "Decomp.Buddy-0.29.6.AppImage",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy-0.29.6.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Decomp.Buddy.0.29.6.Portable.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy.0.29.6.Portable.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.29.6.exe",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy.Setup.0.29.6.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Decomp.Buddy.Setup.0.29.6.exe.blockmap",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/Decomp.Buddy.Setup.0.29.6.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/TanookiStudios/decomp-buddy/releases/download/v0.29.6/latest.yml",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -46,7 +2296,95 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-18T22:20:59.128477+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T10:39:09.953685+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Clean-room reimplementation of Baba Is You in Rust: Linux, Windows, macOS, Android, PortMaster; up to 12 players, local and online (Warpzone). Bring your own copy of the game.",
+        "latest_release_url": "https://github.com/jarvis-jhk/baba-port/releases/tag/v0.1.0",
+        "latest_release_name": "baba-port 0.1.0",
+        "release_assets": [
+          {
+            "name": "baba-port-0.1.0-android-arm64.apk",
+            "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/baba-port-0.1.0-android-arm64.apk",
+            "size": 2947744
+          },
+          {
+            "name": "baba-port-0.1.0-linux-x86_64.tar.gz",
+            "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/baba-port-0.1.0-linux-x86_64.tar.gz",
+            "size": 3913337
+          },
+          {
+            "name": "baba-port-0.1.0-macos-universal.zip",
+            "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/baba-port-0.1.0-macos-universal.zip",
+            "size": 7020502
+          },
+          {
+            "name": "baba-port-0.1.0-portmaster.zip",
+            "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/baba-port-0.1.0-portmaster.zip",
+            "size": 2689130
+          },
+          {
+            "name": "baba-port-0.1.0-windows-x86_64.zip",
+            "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/baba-port-0.1.0-windows-x86_64.zip",
+            "size": 3623515
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/SHA256SUMS",
+            "size": 502
+          }
+        ],
+        "releases": [
+          {
+            "name": "baba-port 0.1.0",
+            "url": "https://github.com/jarvis-jhk/baba-port/releases/tag/v0.1.0",
+            "published_at": "2026-10-18T18:11:52Z",
+            "assets": [
+              {
+                "name": "baba-port-0.1.0-android-arm64.apk",
+                "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/baba-port-0.1.0-android-arm64.apk",
+                "size": 2947744
+              },
+              {
+                "name": "baba-port-0.1.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/baba-port-0.1.0-linux-x86_64.tar.gz",
+                "size": 3913337
+              },
+              {
+                "name": "baba-port-0.1.0-macos-universal.zip",
+                "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/baba-port-0.1.0-macos-universal.zip",
+                "size": 7020502
+              },
+              {
+                "name": "baba-port-0.1.0-portmaster.zip",
+                "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/baba-port-0.1.0-portmaster.zip",
+                "size": 2689130
+              },
+              {
+                "name": "baba-port-0.1.0-windows-x86_64.zip",
+                "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/baba-port-0.1.0-windows-x86_64.zip",
+                "size": 3623515
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/SHA256SUMS",
+                "size": 502
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -63,10 +2401,42 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "baba-port-0.1.0-android-arm64.apk",
+          "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/baba-port-0.1.0-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "baba-port-0.1.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/baba-port-0.1.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "baba-port-0.1.0-macos-universal.zip",
+          "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/baba-port-0.1.0-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "baba-port-0.1.0-portmaster.zip",
+          "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/baba-port-0.1.0-portmaster.zip",
+          "type": "archive"
+        },
+        {
+          "name": "baba-port-0.1.0-windows-x86_64.zip",
+          "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/baba-port-0.1.0-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/jarvis-jhk/baba-port/releases/download/v0.1.0/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -84,7 +2454,115 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-18T22:20:57.500933+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T10:39:11.391561+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Aliens versus Predator (1999) source port for PS4 / OpenOrbis. Bring your own game data.",
+        "latest_release_url": "https://github.com/NichlasEk/AVP-PS4/releases/tag/v0.4.0",
+        "latest_release_name": "AvP PS4 v0.4.0 — First playable release",
+        "release_assets": [
+          {
+            "name": "AvP-PS4-v0.4.0-source-relink.tar.gz",
+            "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/AvP-PS4-v0.4.0-source-relink.tar.gz",
+            "size": 62183959
+          },
+          {
+            "name": "AvP-PS4-v0.4.0.pkg",
+            "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/AvP-PS4-v0.4.0.pkg",
+            "size": 28246016
+          },
+          {
+            "name": "INSTALL.md",
+            "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/INSTALL.md",
+            "size": 2471
+          },
+          {
+            "name": "LICENSE",
+            "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/LICENSE",
+            "size": 623
+          },
+          {
+            "name": "PACKAGE-MANIFEST.json",
+            "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/PACKAGE-MANIFEST.json",
+            "size": 2700
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/SHA256SUMS",
+            "size": 589
+          },
+          {
+            "name": "THIRD-PARTY.md",
+            "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/THIRD-PARTY.md",
+            "size": 3397
+          },
+          {
+            "name": "VERIFICATION.md",
+            "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/VERIFICATION.md",
+            "size": 2591
+          }
+        ],
+        "releases": [
+          {
+            "name": "AvP PS4 v0.4.0 — First playable release",
+            "url": "https://github.com/NichlasEk/AVP-PS4/releases/tag/v0.4.0",
+            "published_at": "2026-10-18T18:27:55Z",
+            "assets": [
+              {
+                "name": "AvP-PS4-v0.4.0-source-relink.tar.gz",
+                "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/AvP-PS4-v0.4.0-source-relink.tar.gz",
+                "size": 62183959
+              },
+              {
+                "name": "AvP-PS4-v0.4.0.pkg",
+                "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/AvP-PS4-v0.4.0.pkg",
+                "size": 28246016
+              },
+              {
+                "name": "INSTALL.md",
+                "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/INSTALL.md",
+                "size": 2471
+              },
+              {
+                "name": "LICENSE",
+                "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/LICENSE",
+                "size": 623
+              },
+              {
+                "name": "PACKAGE-MANIFEST.json",
+                "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/PACKAGE-MANIFEST.json",
+                "size": 2700
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/SHA256SUMS",
+                "size": 589
+              },
+              {
+                "name": "THIRD-PARTY.md",
+                "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/THIRD-PARTY.md",
+                "size": 3397
+              },
+              {
+                "name": "VERIFICATION.md",
+                "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/VERIFICATION.md",
+                "size": 2591
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -93,8 +2571,51 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "AvP-PS4-v0.4.0-source-relink.tar.gz",
+          "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/AvP-PS4-v0.4.0-source-relink.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "AvP-PS4-v0.4.0.pkg",
+          "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/AvP-PS4-v0.4.0.pkg",
+          "type": "other_file"
+        },
+        {
+          "name": "INSTALL.md",
+          "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/INSTALL.md",
+          "type": "other_file"
+        },
+        {
+          "name": "LICENSE",
+          "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/LICENSE",
+          "type": "other_file"
+        },
+        {
+          "name": "PACKAGE-MANIFEST.json",
+          "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/PACKAGE-MANIFEST.json",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "THIRD-PARTY.md",
+          "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/THIRD-PARTY.md",
+          "type": "other_file"
+        },
+        {
+          "name": "VERIFICATION.md",
+          "url": "https://github.com/NichlasEk/AVP-PS4/releases/download/v0.4.0/VERIFICATION.md",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 7,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -111,7 +2632,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-18T22:20:55.675172+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T10:39:12.858497+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Community Linux/Proton launcher for the Tekken Tag Tournament 2 static recompilation; ships no game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -144,7 +2682,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-18T22:20:55.674225+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T10:39:14.258300+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Killer Instinct (1994 arcade, MIPS R4600 LE) to C++ — exploratory, validated against MAME. No game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -171,7 +2726,75 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-18T22:20:55.673066+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T10:39:15.671372+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Super Street Fighter II Turbo HD Remix native PC port via static recompilation, with TRG launcher, local achievements and experimental Linux support",
+        "latest_release_url": "https://github.com/saulob/ssf2t-hd-remix-recompiled/releases/tag/v0.1.0",
+        "latest_release_name": "Super Street Fighter II Turbo HD Remix v0.1.0",
+        "release_assets": [
+          {
+            "name": "SSF2THDRemix-v0.1.0-windows-x64.sha256",
+            "url": "https://github.com/saulob/ssf2t-hd-remix-recompiled/releases/download/v0.1.0/SSF2THDRemix-v0.1.0-windows-x64.sha256",
+            "size": 102
+          },
+          {
+            "name": "SSF2THDRemix-v0.1.0-windows-x64.zip",
+            "url": "https://github.com/saulob/ssf2t-hd-remix-recompiled/releases/download/v0.1.0/SSF2THDRemix-v0.1.0-windows-x64.zip",
+            "size": 15670102
+          },
+          {
+            "name": "SSF2THDRemix-v0.1.0-x86_64.AppImage",
+            "url": "https://github.com/saulob/ssf2t-hd-remix-recompiled/releases/download/v0.1.0/SSF2THDRemix-v0.1.0-x86_64.AppImage",
+            "size": 15960384
+          },
+          {
+            "name": "SSF2THDRemix-v0.1.0-x86_64.sha256",
+            "url": "https://github.com/saulob/ssf2t-hd-remix-recompiled/releases/download/v0.1.0/SSF2THDRemix-v0.1.0-x86_64.sha256",
+            "size": 102
+          }
+        ],
+        "releases": [
+          {
+            "name": "Super Street Fighter II Turbo HD Remix v0.1.0",
+            "url": "https://github.com/saulob/ssf2t-hd-remix-recompiled/releases/tag/v0.1.0",
+            "published_at": "2026-10-18T22:14:50Z",
+            "assets": [
+              {
+                "name": "SSF2THDRemix-v0.1.0-windows-x64.sha256",
+                "url": "https://github.com/saulob/ssf2t-hd-remix-recompiled/releases/download/v0.1.0/SSF2THDRemix-v0.1.0-windows-x64.sha256",
+                "size": 102
+              },
+              {
+                "name": "SSF2THDRemix-v0.1.0-windows-x64.zip",
+                "url": "https://github.com/saulob/ssf2t-hd-remix-recompiled/releases/download/v0.1.0/SSF2THDRemix-v0.1.0-windows-x64.zip",
+                "size": 15670102
+              },
+              {
+                "name": "SSF2THDRemix-v0.1.0-x86_64.AppImage",
+                "url": "https://github.com/saulob/ssf2t-hd-remix-recompiled/releases/download/v0.1.0/SSF2THDRemix-v0.1.0-x86_64.AppImage",
+                "size": 15960384
+              },
+              {
+                "name": "SSF2THDRemix-v0.1.0-x86_64.sha256",
+                "url": "https://github.com/saulob/ssf2t-hd-remix-recompiled/releases/download/v0.1.0/SSF2THDRemix-v0.1.0-x86_64.sha256",
+                "size": 102
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -180,15 +2803,38 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
+          "windows",
           "linux",
           "pc port",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SSF2THDRemix-v0.1.0-windows-x64.sha256",
+          "url": "https://github.com/saulob/ssf2t-hd-remix-recompiled/releases/download/v0.1.0/SSF2THDRemix-v0.1.0-windows-x64.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SSF2THDRemix-v0.1.0-windows-x64.zip",
+          "url": "https://github.com/saulob/ssf2t-hd-remix-recompiled/releases/download/v0.1.0/SSF2THDRemix-v0.1.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SSF2THDRemix-v0.1.0-x86_64.AppImage",
+          "url": "https://github.com/saulob/ssf2t-hd-remix-recompiled/releases/download/v0.1.0/SSF2THDRemix-v0.1.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SSF2THDRemix-v0.1.0-x86_64.sha256",
+          "url": "https://github.com/saulob/ssf2t-hd-remix-recompiled/releases/download/v0.1.0/SSF2THDRemix-v0.1.0-x86_64.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -822,7 +3468,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-18T15:43:14.886638+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T10:39:17.070382+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Yellow Planet 3D: Modern Haxe, OpenFL and Away3D port of the classic Flash Stage3D game with WebGL and native desktop support.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -859,7 +3522,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-18T15:43:13.019237+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T10:39:18.414100+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Evidence-driven binary decompiler, SIMD/CFG lifter, GraphSAGE GNN classifier & AI reconstruction Studio for ELF, PE, WebAssembly, .NET, and JVM",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
