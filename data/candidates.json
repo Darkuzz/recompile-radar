@@ -1,16 +1,287 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-19T18:38:09.516810+00:00",
+  "last_updated": "2026-10-19T23:31:12.955221+00:00",
   "candidates": [
     {
-      "title": "GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort",
-      "url": "https://github.com/GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort",
-      "source_name": "GitHub: source ports",
-      "published": "2026-10-19T13:10:11Z",
-      "summary": "Data-driven, moddable C++ source port of Phantom Crash (Europe, Original Xbox). Game data not included.",
+      "title": "DocBobert6/madden12-recomp",
+      "url": "https://github.com/DocBobert6/madden12-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-19T23:26:42Z",
+      "summary": "Madden NFL 12 (Xbox 360) statically recompiled to C++ with ReXGlue - game-side source package for developers building an Android port",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-19T18:37:54.700504+00:00",
+      "found_at": "2026-10-19T23:30:59.927204+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "abilliontokens/bustinout-recomp",
+      "url": "https://github.com/abilliontokens/bustinout-recomp",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-19T23:09:45Z",
+      "summary": "An unofficial native PC port of the original Xbox release of The Sims: Bustin' Out (USA), produced by statically recompiling the game's x86 XBE with the XboxXBERecomp SDK. Windows uses Direct3D 12 and XAudio2; Linux is a native Vulkan and SDL3 build, no Wine. No game code or assets: bring your own disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T23:30:57.915250+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "MrShmallow99/claw-android",
+      "url": "https://github.com/MrShmallow99/claw-android",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T19:01:49Z",
+      "summary": "Native Android port of Claw (CrazyHook 1.4.5.4 edition): static recompilation, source code only, no game files included",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T23:30:54.074946+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "15Cyber/marvel-nemesis-recomp",
+      "url": "https://github.com/15Cyber/marvel-nemesis-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T19:34:49Z",
+      "summary": "Unofficial native Windows port of Marvel Nemesis: Rise of the Imperfects via Xbox static recompilation. Graphics options, native PC Settings, local Versus and experimental mods. Built with XboxXBERecomp. Source-only alpha; bring your own game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T23:30:54.074194+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "enrique363/voldorium",
+      "url": "https://github.com/enrique363/voldorium",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T20:09:12Z",
+      "summary": "Native Windows port of SoulCalibur (Dreamcast) by static recompilation: 16:9, online versus with rollback netcode. Requires your own legal disc dump; no game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T23:30:54.073385+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "recomp-code/dbz-bt4-recomp",
+      "url": "https://github.com/recomp-code/dbz-bt4-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T20:16:31Z",
+      "summary": "DBZ Budokai Tenkaichi 4 (BT3 mod) static recompilation with PS2Recomp: native macOS (PCSX2 GS) and browser. No game files: bring your own disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T23:30:54.072668+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "NoRain211/doa2u-re",
+      "url": "https://github.com/NoRain211/doa2u-re",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T20:45:14Z",
+      "summary": "Native Windows port of Dead or Alive 2 Ultimate (Xbox), built by static recompilation with a hand-written runtime. Requires your own copy of the game. Topics: dead-or-alive, direct3d11, game-port, pc-port, recompilation, reverse-engineering, static-recompilation, windows, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T23:30:54.071856+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "8bitninja64/HangtimeRecomp",
+      "url": "https://github.com/8bitninja64/HangtimeRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T21:17:05Z",
+      "summary": "Unofficial native PC port of NBA Hangtime (N64) by static recompilation. Bring your own ROM; no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T23:30:54.071087+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom"
+      ]
+    },
+    {
+      "title": "swaymun/AC-Recomp",
+      "url": "https://github.com/swaymun/AC-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T21:40:52Z",
+      "summary": "Experimental native static recompilation of Astral Chain (Switch) for macOS. Bring your own legally dumped game; no game content included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T23:30:54.070446+00:00",
       "check": null,
       "category": "needs_review",
       "platforms_guess": [],
@@ -22,6 +293,216 @@
       },
       "build_links": [],
       "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "codepdbh/el-chavo-kart-android",
+      "url": "https://github.com/codepdbh/el-chavo-kart-android",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T22:30:21Z",
+      "summary": "El Chavo Kart (Xbox 360, UE3) static recompilation to Android ARM64 with ReXGlue — experimental, no game data included",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T23:30:54.069701+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "red-socket/strike-force-heroes",
+      "url": "https://github.com/red-socket/strike-force-heroes",
+      "source_name": "GitHub: WebGL ports",
+      "published": "2026-10-19T17:57:48Z",
+      "summary": "Strike Force Heroes, the Flash game, re-implemented in TypeScript with PixiJS and planck.js. A faithful port of the original ActionScript 3, playable in the browser. Topics: actionscript, browser-game, flash, game, pixijs, planck-js, remake, reverse-engineering, shooter, swf, typescript, vite, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T23:30:52.148547+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable, webgl"
+      ]
+    },
+    {
+      "title": "bettertech-97/mw2web",
+      "url": "https://github.com/bettertech-97/mw2web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-19T20:52:52Z",
+      "summary": "Modern Warfare 2 multiplayer in the browser. A fork of IW4L in Rust, WebAssembly and WebGPU. Code only, no game assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T23:30:49.879074+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort",
+      "url": "https://github.com/GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-19T13:10:11Z",
+      "summary": "Data-driven, moddable C++ source port of Phantom Crash (Europe, Original Xbox). Game data not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T18:37:54.700504+00:00",
+      "check": {
+        "checked_at": "2026-10-19T23:31:01.292955+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Data-driven, moddable C++ source port of Phantom Crash (Europe, Original Xbox). Game data not included.",
+        "latest_release_url": "https://github.com/GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort/releases/tag/v0.5.21",
+        "latest_release_name": "Phantom Crash v0.5.21",
+        "release_assets": [
+          {
+            "name": "PhantomCrash-0.5.21-third-party-sources.zip",
+            "url": "https://github.com/GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort/releases/download/v0.5.21/PhantomCrash-0.5.21-third-party-sources.zip",
+            "size": 47649399
+          },
+          {
+            "name": "PhantomCrash-0.5.21-windows-x64.zip",
+            "url": "https://github.com/GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort/releases/download/v0.5.21/PhantomCrash-0.5.21-windows-x64.zip",
+            "size": 40255477
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort/releases/download/v0.5.21/SHA256SUMS.txt",
+            "size": 214
+          }
+        ],
+        "releases": [
+          {
+            "name": "Phantom Crash v0.5.21",
+            "url": "https://github.com/GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort/releases/tag/v0.5.21",
+            "published_at": "2026-10-19T13:10:12Z",
+            "assets": [
+              {
+                "name": "PhantomCrash-0.5.21-third-party-sources.zip",
+                "url": "https://github.com/GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort/releases/download/v0.5.21/PhantomCrash-0.5.21-third-party-sources.zip",
+                "size": 47649399
+              },
+              {
+                "name": "PhantomCrash-0.5.21-windows-x64.zip",
+                "url": "https://github.com/GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort/releases/download/v0.5.21/PhantomCrash-0.5.21-windows-x64.zip",
+                "size": 40255477
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort/releases/download/v0.5.21/SHA256SUMS.txt",
+                "size": 214
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "PhantomCrash-0.5.21-third-party-sources.zip",
+          "url": "https://github.com/GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort/releases/download/v0.5.21/PhantomCrash-0.5.21-third-party-sources.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PhantomCrash-0.5.21-windows-x64.zip",
+          "url": "https://github.com/GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort/releases/download/v0.5.21/PhantomCrash-0.5.21-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort/releases/download/v0.5.21/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -38,7 +519,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T18:37:54.699487+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T23:31:02.765086+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "A clean-room, readable C source port of Virtua Fighter 3tb (Sega Dreamcast, MK-51001 V1.002). Byte-matching is not the goal; a readable C mirror of the game's behavior is. Every port is checked against captured hardware-form state (strict register/RAM replay), not just compiled.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -65,7 +563,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T18:37:52.771886+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T23:31:04.156451+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of The Legend of Zelda: Echoes of Wisdom (Switch) to native PC - work in progress, no game files included",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -98,7 +613,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T18:37:52.771055+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T23:31:05.599432+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial PC port of Naruto: The Broken Bond (Xbox 360) - static recompilation with a full PC options menu. Bring your own game ISO.",
+        "latest_release_url": "https://github.com/Auremana666/Naruto-The-Broken-Bond-PC-Port/releases/tag/v1.0",
+        "latest_release_name": "Naruto: The Broken Bond PC Port v1.0",
+        "release_assets": [
+          {
+            "name": "Naruto-The-Broken-Bond-PC-Port-v1.0.zip",
+            "url": "https://github.com/Auremana666/Naruto-The-Broken-Bond-PC-Port/releases/download/v1.0/Naruto-The-Broken-Bond-PC-Port-v1.0.zip",
+            "size": 27583107
+          }
+        ],
+        "releases": [
+          {
+            "name": "Naruto: The Broken Bond PC Port v1.0",
+            "url": "https://github.com/Auremana666/Naruto-The-Broken-Bond-PC-Port/releases/tag/v1.0",
+            "published_at": "2026-10-19T14:37:17Z",
+            "assets": [
+              {
+                "name": "Naruto-The-Broken-Bond-PC-Port-v1.0.zip",
+                "url": "https://github.com/Auremana666/Naruto-The-Broken-Bond-PC-Port/releases/download/v1.0/Naruto-The-Broken-Bond-PC-Port-v1.0.zip",
+                "size": 27583107
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -111,9 +664,16 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Naruto-The-Broken-Bond-PC-Port-v1.0.zip",
+          "url": "https://github.com/Auremana666/Naruto-The-Broken-Bond-PC-Port/releases/download/v1.0/Naruto-The-Broken-Bond-PC-Port-v1.0.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -131,7 +691,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T18:37:52.769937+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T23:31:07.078534+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Toward a native PC port of Dynasty Warriors 2 (PS2, PAL) by static recompilation with ps2kit. BYOA: no game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -165,7 +742,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T18:37:50.890012+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T23:31:08.537719+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "G2W (Game to Web): a research-first agent skill for porting desktop games to the browser.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -205,7 +799,41 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T18:37:48.712852+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T23:31:09.970396+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Un-Banished: a from-scratch Rust reimplementation of the Banished engine, native and in the browser. Bring your own copy of the game.",
+        "latest_release_url": "https://github.com/tanepiper/unbanished/releases/tag/v0.2.0",
+        "latest_release_name": "Un-Banished 0.2.0: Boomtown",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "Un-Banished 0.2.0: Boomtown",
+            "url": "https://github.com/tanepiper/unbanished/releases/tag/v0.2.0",
+            "published_at": "2026-10-19T22:41:55Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Un-Banished 0.1.0",
+            "url": "https://github.com/tanepiper/unbanished/releases/tag/v0.1.0",
+            "published_at": "2026-10-19T15:03:29Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -962,7 +1590,75 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T10:38:59.761053+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T23:31:11.445460+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of Super Street Fighter II: The New Challengers (Capcom 1993, CPS-2), built with tmcleroy's cps2recomp by static recompilation. No emulator; the player brings their own ROM set. Free play, cheats and training aids. No game data included - bring your own ROM set. GPL-3.0. Not affiliated with Capcom.",
+        "latest_release_url": "https://github.com/omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp/releases/tag/v0.1.0-beta.2",
+        "latest_release_name": "Super Street Fighter II Recomp v0.1.0-beta.2",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp/releases/download/v0.1.0-beta.2/SHA256SUMS.txt",
+            "size": 328
+          },
+          {
+            "name": "Super-Street-Fighter-II-linux-x86_64.AppImage",
+            "url": "https://github.com/omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp/releases/download/v0.1.0-beta.2/Super-Street-Fighter-II-linux-x86_64.AppImage",
+            "size": 7350776
+          },
+          {
+            "name": "Super-Street-Fighter-II-linux-x86_64.tar.gz",
+            "url": "https://github.com/omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp/releases/download/v0.1.0-beta.2/Super-Street-Fighter-II-linux-x86_64.tar.gz",
+            "size": 7104456
+          },
+          {
+            "name": "Super-Street-Fighter-II-windows-x64.zip",
+            "url": "https://github.com/omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp/releases/download/v0.1.0-beta.2/Super-Street-Fighter-II-windows-x64.zip",
+            "size": 6828655
+          }
+        ],
+        "releases": [
+          {
+            "name": "Super Street Fighter II Recomp v0.1.0-beta.2",
+            "url": "https://github.com/omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp/releases/tag/v0.1.0-beta.2",
+            "published_at": "2026-10-19T05:26:03Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp/releases/download/v0.1.0-beta.2/SHA256SUMS.txt",
+                "size": 328
+              },
+              {
+                "name": "Super-Street-Fighter-II-linux-x86_64.AppImage",
+                "url": "https://github.com/omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp/releases/download/v0.1.0-beta.2/Super-Street-Fighter-II-linux-x86_64.AppImage",
+                "size": 7350776
+              },
+              {
+                "name": "Super-Street-Fighter-II-linux-x86_64.tar.gz",
+                "url": "https://github.com/omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp/releases/download/v0.1.0-beta.2/Super-Street-Fighter-II-linux-x86_64.tar.gz",
+                "size": 7104456
+              },
+              {
+                "name": "Super-Street-Fighter-II-windows-x64.zip",
+                "url": "https://github.com/omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp/releases/download/v0.1.0-beta.2/Super-Street-Fighter-II-windows-x64.zip",
+                "size": 6828655
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -971,14 +1667,38 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
+          "windows",
+          "linux",
           "pc port",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp/releases/download/v0.1.0-beta.2/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "Super-Street-Fighter-II-linux-x86_64.AppImage",
+          "url": "https://github.com/omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp/releases/download/v0.1.0-beta.2/Super-Street-Fighter-II-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Super-Street-Fighter-II-linux-x86_64.tar.gz",
+          "url": "https://github.com/omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp/releases/download/v0.1.0-beta.2/Super-Street-Fighter-II-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "Super-Street-Fighter-II-windows-x64.zip",
+          "url": "https://github.com/omegakatana92/Super-Street-Fighter-II-The-New-Challengers-Recomp/releases/download/v0.1.0-beta.2/Super-Street-Fighter-II-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
