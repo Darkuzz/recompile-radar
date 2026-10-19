@@ -14,9 +14,11 @@
     "https://github.com/andrewnakas/pokeruby-web",
     "https://github.com/andrewnakas/poketcg-web",
     "https://github.com/andrewnakas/pokeyellow-web",
+    "https://github.com/andrewnakas/sonic1-web",
     "https://github.com/andrewnakas/supermetroid-web",
     "https://github.com/andrewnakas/tmc-web",
     "https://github.com/andrewnakas/warioland4-web",
+    "https://github.com/andrewnakas/zelda1-web",
     "https://github.com/andrewnakas/zelda3-web",
     "https://github.com/asadsi/wwhd-recomp-mods",
     "https://github.com/belmantegu/supermariowonderrecomp",
@@ -34,6 +36,7 @@
     "https://github.com/diegodedios/alienrerecomp",
     "https://github.com/digows/cosmo",
     "https://github.com/dorpxp/driftdroid",
+    "https://github.com/dynamiteswag81/webcompiled",
     "https://github.com/erreib/pure-recomp",
     "https://github.com/eveluvsadam/gtaiii2html",
     "https://github.com/farazs27/generalsandroid",
@@ -42,6 +45,7 @@
     "https://github.com/glinesbdev/mh3u-port",
     "https://github.com/gtteancum/starwars-clonewars-pc",
     "https://github.com/gumpolas/tootawersrecomp",
+    "https://github.com/iamstupidplaceholder/benilla-wasm",
     "https://github.com/ifaka/rugby08-web",
     "https://github.com/jackandbeans/snap64recomp",
     "https://github.com/jessetbh/vpw64recomp",
@@ -98,6 +102,7 @@
     "https://github.com/wivi514/dead_rising_2_case_west_xenon_recomp",
     "https://github.com/wivi514/dead_rising_2_case_zero_xenon_recomp",
     "https://github.com/yaqzans/gladiator-kricket-port",
-    "https://github.com/yuutatsubasa/chaotixrecompiled"
+    "https://github.com/yuutatsubasa/chaotixrecompiled",
+    "https://github.com/zinexda/sonic-r-android"
   ]
 }

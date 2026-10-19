@@ -1,7 +1,235 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-19T10:39:19.809617+00:00",
+  "last_updated": "2026-10-19T18:38:09.516810+00:00",
   "candidates": [
+    {
+      "title": "GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort",
+      "url": "https://github.com/GeneralAtrox/PhantomCrash_Xbox_ModernSourcePort",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-19T13:10:11Z",
+      "summary": "Data-driven, moddable C++ source port of Phantom Crash (Europe, Original Xbox). Game data not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T18:37:54.700504+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "celsowm/vf3-decomp",
+      "url": "https://github.com/celsowm/vf3-decomp",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-19T16:15:48Z",
+      "summary": "A clean-room, readable C source port of Virtua Fighter 3tb (Sega Dreamcast, MK-51001 V1.002). Byte-matching is not the goal; a readable C mirror of the game's behavior is. Every port is checked against captured hardware-form state (strict register/RAM replay), not just compiled.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T18:37:54.699487+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port, port of, byte-matching",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Nycolazs/EoWRecomp",
+      "url": "https://github.com/Nycolazs/EoWRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T15:41:53Z",
+      "summary": "Static recompilation of The Legend of Zelda: Echoes of Wisdom (Switch) to native PC - work in progress, no game files included",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T18:37:52.771886+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Auremana666/Naruto-The-Broken-Bond-PC-Port",
+      "url": "https://github.com/Auremana666/Naruto-The-Broken-Bond-PC-Port",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T15:42:52Z",
+      "summary": "Unofficial PC port of Naruto: The Broken Bond (Xbox 360) - static recompilation with a full PC options menu. Bring your own game ISO.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T18:37:52.771055+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "vs-sr-dev/pc-dynastywarriors2",
+      "url": "https://github.com/vs-sr-dev/pc-dynastywarriors2",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-19T17:02:04Z",
+      "summary": "Toward a native PC port of Dynasty Warriors 2 (PS2, PAL) by static recompilation with ps2kit. BYOA: no game data. Topics: byoa, cpp, dynasty-warriors, dynasty-warriors-2, emotion-engine, game-preservation, graphics-synthesizer, koei, omega-force, pc-port, playstation-2, ps2, python, recompilation, reverse-engineering, sdl3, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T18:37:52.769937+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Tajwarbot/game-to-web",
+      "url": "https://github.com/Tajwarbot/game-to-web",
+      "source_name": "GitHub: WebGL ports",
+      "published": "2026-10-19T13:56:49Z",
+      "summary": "G2W (Game to Web): a research-first agent skill for porting desktop games to the browser. Topics: agent-skills, browser-games, claude-code, codex, emscripten, game-port, gamedev, opencode, unity, wasm, webassembly, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T18:37:50.890012+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, wasm, webgl"
+      ]
+    },
+    {
+      "title": "tanepiper/unbanished",
+      "url": "https://github.com/tanepiper/unbanished",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-19T18:34:48Z",
+      "summary": "Un-Banished: a from-scratch Rust reimplementation of the Banished engine, native and in the browser. Bring your own copy of the game. Topics: banished, city-builder, game-engine, reimplementation, rust, webassembly, wgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-19T18:37:48.712852+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: reimplementation",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
     {
       "title": "armac911/Carmageddon-Android-Port",
       "url": "https://github.com/armac911/Carmageddon-Android-Port",
@@ -11,7 +239,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T10:39:05.568072+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T18:37:57.997093+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "AndroGaming.com Carmageddon Android Port, native ARM64 Dethrace-based engine, touch/controller support, graphics improvements and full AI development disclosure. Requires your own PC game data.",
+        "latest_release_url": "https://github.com/armac911/Carmageddon-Android-Port/releases/tag/v0.9",
+        "latest_release_name": "Carmageddon Android Port 0.9",
+        "release_assets": [
+          {
+            "name": "carmageddon-android-port-0.9-arm64.apk",
+            "url": "https://github.com/armac911/Carmageddon-Android-Port/releases/download/v0.9/carmageddon-android-port-0.9-arm64.apk",
+            "size": 5127277
+          },
+          {
+            "name": "carmageddon-android-port-0.9-native-symbols.zip",
+            "url": "https://github.com/armac911/Carmageddon-Android-Port/releases/download/v0.9/carmageddon-android-port-0.9-native-symbols.zip",
+            "size": 5970964
+          }
+        ],
+        "releases": [
+          {
+            "name": "Carmageddon Android Port 0.9",
+            "url": "https://github.com/armac911/Carmageddon-Android-Port/releases/tag/v0.9",
+            "published_at": "2026-10-18T22:02:01Z",
+            "assets": [
+              {
+                "name": "carmageddon-android-port-0.9-arm64.apk",
+                "url": "https://github.com/armac911/Carmageddon-Android-Port/releases/download/v0.9/carmageddon-android-port-0.9-arm64.apk",
+                "size": 5127277
+              },
+              {
+                "name": "carmageddon-android-port-0.9-native-symbols.zip",
+                "url": "https://github.com/armac911/Carmageddon-Android-Port/releases/download/v0.9/carmageddon-android-port-0.9-native-symbols.zip",
+                "size": 5970964
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -25,9 +301,21 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "carmageddon-android-port-0.9-arm64.apk",
+          "url": "https://github.com/armac911/Carmageddon-Android-Port/releases/download/v0.9/carmageddon-android-port-0.9-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "carmageddon-android-port-0.9-native-symbols.zip",
+          "url": "https://github.com/armac911/Carmageddon-Android-Port/releases/download/v0.9/carmageddon-android-port-0.9-native-symbols.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
@@ -45,7 +333,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T10:39:05.567406+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T18:37:59.408580+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Experimental Android ARM64 port of Rhythm Tengoku. Source code only; no game assets included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -78,7 +383,104 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T10:39:05.566658+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T18:38:00.822137+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Play and preserve Resident Evil 4 Mobile with an experimental Linux PC port of the Android game, featuring keyboard and mouse controls and a desktop launcher. Bring your own APK; no game files included.",
+        "latest_release_url": "https://github.com/aurelioochoa/re4mepc/releases/tag/v0.1.0-experimental.20261014",
+        "latest_release_name": "Experimental public test — six-language launchers",
+        "release_assets": [
+          {
+            "name": "qualification-summary.md",
+            "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261014/qualification-summary.md",
+            "size": 6743
+          },
+          {
+            "name": "re4mepc-linux-x86_64.AppImage",
+            "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261014/re4mepc-linux-x86_64.AppImage",
+            "size": 184510968
+          },
+          {
+            "name": "re4mepc-linux-x86_64.tar.gz",
+            "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261014/re4mepc-linux-x86_64.tar.gz",
+            "size": 217011372
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261014/SHA256SUMS",
+            "size": 190
+          }
+        ],
+        "releases": [
+          {
+            "name": "Experimental public test — six-language launchers",
+            "url": "https://github.com/aurelioochoa/re4mepc/releases/tag/v0.1.0-experimental.20261014",
+            "published_at": "2026-10-15T02:43:45Z",
+            "assets": [
+              {
+                "name": "qualification-summary.md",
+                "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261014/qualification-summary.md",
+                "size": 6743
+              },
+              {
+                "name": "re4mepc-linux-x86_64.AppImage",
+                "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261014/re4mepc-linux-x86_64.AppImage",
+                "size": 184510968
+              },
+              {
+                "name": "re4mepc-linux-x86_64.tar.gz",
+                "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261014/re4mepc-linux-x86_64.tar.gz",
+                "size": 217011372
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261014/SHA256SUMS",
+                "size": 190
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Experimental Linux desktop build — not fully campaign-qualified",
+            "url": "https://github.com/aurelioochoa/re4mepc/releases/tag/v0.1.0-experimental.20261013",
+            "published_at": "2026-10-13T06:49:07Z",
+            "assets": [
+              {
+                "name": "qualification-summary.md",
+                "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261013/qualification-summary.md",
+                "size": 8499
+              },
+              {
+                "name": "re4mepc-linux-x86_64.AppImage",
+                "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261013/re4mepc-linux-x86_64.AppImage",
+                "size": 180427256
+              },
+              {
+                "name": "re4mepc-linux-x86_64.tar.gz",
+                "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261013/re4mepc-linux-x86_64.tar.gz",
+                "size": 215618785
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261013/SHA256SUMS",
+                "size": 190
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -96,10 +498,52 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "qualification-summary.md",
+          "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261014/qualification-summary.md",
+          "type": "other_file"
+        },
+        {
+          "name": "re4mepc-linux-x86_64.AppImage",
+          "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261014/re4mepc-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "re4mepc-linux-x86_64.tar.gz",
+          "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261014/re4mepc-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261014/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "qualification-summary.md",
+          "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261013/qualification-summary.md",
+          "type": "other_file"
+        },
+        {
+          "name": "re4mepc-linux-x86_64.AppImage",
+          "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261013/re4mepc-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "re4mepc-linux-x86_64.tar.gz",
+          "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261013/re4mepc-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/aurelioochoa/re4mepc/releases/download/v0.1.0-experimental.20261013/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -117,7 +561,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T10:39:05.565425+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T18:38:02.400683+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A game hub for organizing decompilation and port projects hosted on your own computers, with a library-style launcher for playing them on Android.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -150,7 +611,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T10:39:01.882178+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T18:38:03.794362+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "G-Diffuser (F-Zero X + 64DD Expansion Kit source port) for jailbroken PS4: Vulkan on RADV/GNM, quick menu, FSR 1, DualShock 4. Bring your own game data.",
+        "latest_release_url": "https://github.com/iHaiDeeZ/G-Diffuser-PS4/releases/tag/Release",
+        "latest_release_name": "G-Diffuser V01.20",
+        "release_assets": [
+          {
+            "name": "G-Diffuser-PS4-v01.20.pkg",
+            "url": "https://github.com/iHaiDeeZ/G-Diffuser-PS4/releases/download/Release/G-Diffuser-PS4-v01.20.pkg",
+            "size": 94044160
+          }
+        ],
+        "releases": [
+          {
+            "name": "G-Diffuser V01.20",
+            "url": "https://github.com/iHaiDeeZ/G-Diffuser-PS4/releases/tag/Release",
+            "published_at": "2026-10-19T05:27:55Z",
+            "assets": [
+              {
+                "name": "G-Diffuser-PS4-v01.20.pkg",
+                "url": "https://github.com/iHaiDeeZ/G-Diffuser-PS4/releases/download/Release/G-Diffuser-PS4-v01.20.pkg",
+                "size": 94044160
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -159,8 +658,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "G-Diffuser-PS4-v01.20.pkg",
+          "url": "https://github.com/iHaiDeeZ/G-Diffuser-PS4/releases/download/Release/G-Diffuser-PS4-v01.20.pkg",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -177,7 +684,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T10:39:01.881463+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T18:38:05.207611+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Open Source port of a Blood (1997) game",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -204,7 +728,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T10:38:59.762509+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-19T18:38:06.628993+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native macOS/iOS port of the PS2 game Harry Potter and the Prisoner of Azkaban (SLUS-20926) by static recompilation. Unofficial; no game data, bring your own disc.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -235,17 +776,176 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T10:38:59.761884+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-10-19T18:38:08.019156+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Super Mario Land 2: 6 Golden Coins (Game Boy) static recompilation with adaptive widescreen and DX mods",
+        "latest_release_url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/tag/v0.2.0",
+        "latest_release_name": "v0.2.0 - shared runtime, widescreen and Android",
+        "release_assets": [
+          {
+            "name": "SuperMarioLand2Recomp-android-arm64-v0.2.0.apk",
+            "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.2.0/SuperMarioLand2Recomp-android-arm64-v0.2.0.apk",
+            "size": 60593518
+          },
+          {
+            "name": "SuperMarioLand2Recomp-linux-0.2.0-x86_64.AppImage",
+            "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.2.0/SuperMarioLand2Recomp-linux-0.2.0-x86_64.AppImage",
+            "size": 23222776
+          },
+          {
+            "name": "SuperMarioLand2Recomp-v0.2.0-SHA256SUMS.txt",
+            "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.2.0/SuperMarioLand2Recomp-v0.2.0-SHA256SUMS.txt",
+            "size": 343
+          },
+          {
+            "name": "SuperMarioLand2Recomp-windows-x64-v0.2.0.zip",
+            "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.2.0/SuperMarioLand2Recomp-windows-x64-v0.2.0.zip",
+            "size": 30247001
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.2.0 - shared runtime, widescreen and Android",
+            "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/tag/v0.2.0",
+            "published_at": "2026-10-19T02:58:07Z",
+            "assets": [
+              {
+                "name": "SuperMarioLand2Recomp-android-arm64-v0.2.0.apk",
+                "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.2.0/SuperMarioLand2Recomp-android-arm64-v0.2.0.apk",
+                "size": 60593518
+              },
+              {
+                "name": "SuperMarioLand2Recomp-linux-0.2.0-x86_64.AppImage",
+                "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.2.0/SuperMarioLand2Recomp-linux-0.2.0-x86_64.AppImage",
+                "size": 23222776
+              },
+              {
+                "name": "SuperMarioLand2Recomp-v0.2.0-SHA256SUMS.txt",
+                "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.2.0/SuperMarioLand2Recomp-v0.2.0-SHA256SUMS.txt",
+                "size": 343
+              },
+              {
+                "name": "SuperMarioLand2Recomp-windows-x64-v0.2.0.zip",
+                "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.2.0/SuperMarioLand2Recomp-windows-x64-v0.2.0.zip",
+                "size": 30247001
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.1 — Linux ROM picker: built-in file browser",
+            "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/tag/v0.1.1",
+            "published_at": "2026-09-19T18:12:59Z",
+            "assets": [
+              {
+                "name": "SuperMarioLand2Recomp-linux-0.1.1-x86_64.AppImage",
+                "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.1.1/SuperMarioLand2Recomp-linux-0.1.1-x86_64.AppImage",
+                "size": 21580280
+              },
+              {
+                "name": "SuperMarioLand2Recomp-windows-x64-v0.1.1.zip",
+                "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.1.1/SuperMarioLand2Recomp-windows-x64-v0.1.1.zip",
+                "size": 25370877
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.0 — first release: faithful, DX color, adaptive widescreen",
+            "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/tag/v0.1.0",
+            "published_at": "2026-09-19T06:07:56Z",
+            "assets": [
+              {
+                "name": "SuperMarioLand2Recomp-linux-0.1.0-x86_64.AppImage",
+                "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.1.0/SuperMarioLand2Recomp-linux-0.1.0-x86_64.AppImage",
+                "size": 21584376
+              },
+              {
+                "name": "SuperMarioLand2Recomp-windows-x64-v0.1.0.zip",
+                "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.1.0/SuperMarioLand2Recomp-windows-x64-v0.1.0.zip",
+                "size": 25358913
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
-        "android_terms": [],
-        "pc_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "SuperMarioLand2Recomp-android-arm64-v0.2.0.apk",
+          "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.2.0/SuperMarioLand2Recomp-android-arm64-v0.2.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "SuperMarioLand2Recomp-linux-0.2.0-x86_64.AppImage",
+          "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.2.0/SuperMarioLand2Recomp-linux-0.2.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SuperMarioLand2Recomp-v0.2.0-SHA256SUMS.txt",
+          "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.2.0/SuperMarioLand2Recomp-v0.2.0-SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "SuperMarioLand2Recomp-windows-x64-v0.2.0.zip",
+          "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.2.0/SuperMarioLand2Recomp-windows-x64-v0.2.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SuperMarioLand2Recomp-linux-0.1.1-x86_64.AppImage",
+          "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.1.1/SuperMarioLand2Recomp-linux-0.1.1-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SuperMarioLand2Recomp-windows-x64-v0.1.1.zip",
+          "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.1.1/SuperMarioLand2Recomp-windows-x64-v0.1.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SuperMarioLand2Recomp-linux-0.1.0-x86_64.AppImage",
+          "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.1.0/SuperMarioLand2Recomp-linux-0.1.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SuperMarioLand2Recomp-windows-x64-v0.1.0.zip",
+          "url": "https://github.com/mstan/SuperMarioLand2Recomp/releases/download/v0.1.0/SuperMarioLand2Recomp-windows-x64-v0.1.0.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
