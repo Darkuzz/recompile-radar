@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-20T09:55:48.682940+00:00",
+  "last_updated": "2026-10-20T16:43:50.675394+00:00",
   "candidates": [
     {
       "title": "thekojac304/NewDarkAndroid",
@@ -11,7 +11,65 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T09:55:33.979263+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T16:43:39.473335+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial Android port of System Shock 2 (NewDark 2.48): touchscreen controls, radial menus, launcher, SCP support. Source only; recompiles YOUR copy of the game. No game files or APKs. Not affiliated with Nightdive or Looking Glass.",
+        "latest_release_url": "https://github.com/thekojac304/NewDarkAndroid/releases/tag/v0.1.0-beta.1",
+        "latest_release_name": "v0.1.0-beta.1 (source release)",
+        "release_assets": [
+          {
+            "name": "NewDarkAndroid-v0.1.0-beta.1-source.tar.gz",
+            "url": "https://github.com/thekojac304/NewDarkAndroid/releases/download/v0.1.0-beta.1/NewDarkAndroid-v0.1.0-beta.1-source.tar.gz",
+            "size": 1309158
+          },
+          {
+            "name": "NewDarkAndroid-v0.1.0-beta.1-source.zip",
+            "url": "https://github.com/thekojac304/NewDarkAndroid/releases/download/v0.1.0-beta.1/NewDarkAndroid-v0.1.0-beta.1-source.zip",
+            "size": 1464537
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/thekojac304/NewDarkAndroid/releases/download/v0.1.0-beta.1/SHA256SUMS.txt",
+            "size": 2018
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0-beta.1 (source release)",
+            "url": "https://github.com/thekojac304/NewDarkAndroid/releases/tag/v0.1.0-beta.1",
+            "published_at": "2026-10-20T03:38:12Z",
+            "assets": [
+              {
+                "name": "NewDarkAndroid-v0.1.0-beta.1-source.tar.gz",
+                "url": "https://github.com/thekojac304/NewDarkAndroid/releases/download/v0.1.0-beta.1/NewDarkAndroid-v0.1.0-beta.1-source.tar.gz",
+                "size": 1309158
+              },
+              {
+                "name": "NewDarkAndroid-v0.1.0-beta.1-source.zip",
+                "url": "https://github.com/thekojac304/NewDarkAndroid/releases/download/v0.1.0-beta.1/NewDarkAndroid-v0.1.0-beta.1-source.zip",
+                "size": 1464537
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/thekojac304/NewDarkAndroid/releases/download/v0.1.0-beta.1/SHA256SUMS.txt",
+                "size": 2018
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -25,9 +83,26 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "NewDarkAndroid-v0.1.0-beta.1-source.tar.gz",
+          "url": "https://github.com/thekojac304/NewDarkAndroid/releases/download/v0.1.0-beta.1/NewDarkAndroid-v0.1.0-beta.1-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "NewDarkAndroid-v0.1.0-beta.1-source.zip",
+          "url": "https://github.com/thekojac304/NewDarkAndroid/releases/download/v0.1.0-beta.1/NewDarkAndroid-v0.1.0-beta.1-source.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/thekojac304/NewDarkAndroid/releases/download/v0.1.0-beta.1/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -45,7 +120,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T09:55:30.231570+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T16:43:40.921091+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial patch / future source port for Shadow of the Horned Rat (1995). No game assets included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -72,7 +164,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T09:55:28.305289+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T16:43:42.339039+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows/Linux port of Harvest Moon: Back to Nature (PS1) by static recompilation - bring your own copy, no game files included",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -106,7 +215,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T09:55:28.304330+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T16:43:43.670623+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Majin and the Forsaken Kingdom (Xbox 360) for PC, built with the ReXGlue SDK. No game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -133,7 +259,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T09:55:28.303473+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T16:43:45.037583+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Red Faction Guerrilla Re-Mars-tered (PC) laid out by the game's own PDB. No game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -160,7 +303,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T09:55:28.302675+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T16:43:46.376485+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation toolchain and runtime for Switch titles (bring your own game dump)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -187,7 +347,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T09:55:28.301700+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T16:43:47.788795+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Microsoft Hover! (1995) to native C, on the pcrecomp toolkit. Bring your own copy; no game files or generated source in the repo.",
+        "latest_release_url": "https://github.com/sp00nznet/hover/releases/tag/v0.1.0-alpha.1",
+        "latest_release_name": "v0.1.0-alpha.1",
+        "release_assets": [
+          {
+            "name": "Hover-Recomp-Installer-windows-x64.exe",
+            "url": "https://github.com/sp00nznet/hover/releases/download/v0.1.0-alpha.1/Hover-Recomp-Installer-windows-x64.exe",
+            "size": 19198464
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0-alpha.1",
+            "url": "https://github.com/sp00nznet/hover/releases/tag/v0.1.0-alpha.1",
+            "published_at": "2026-10-20T09:14:12Z",
+            "assets": [
+              {
+                "name": "Hover-Recomp-Installer-windows-x64.exe",
+                "url": "https://github.com/sp00nznet/hover/releases/download/v0.1.0-alpha.1/Hover-Recomp-Installer-windows-x64.exe",
+                "size": 19198464
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -200,9 +398,16 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Hover-Recomp-Installer-windows-x64.exe",
+          "url": "https://github.com/sp00nznet/hover/releases/download/v0.1.0-alpha.1/Hover-Recomp-Installer-windows-x64.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -220,7 +425,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T09:55:24.269870+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T16:43:49.260007+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial open-source web engine for Kingdom Come: Deliverance. Runs in your browser from your own copy of the game. WebGPU + WebAssembly.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
