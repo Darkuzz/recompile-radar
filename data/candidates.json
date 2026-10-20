@@ -1,7 +1,544 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-20T16:43:50.675394+00:00",
+  "last_updated": "2026-10-20T23:05:26.443850+00:00",
   "candidates": [
+    {
+      "title": "rudeboymaster33-stack/UAW-Recomp",
+      "url": "https://github.com/rudeboymaster33-stack/UAW-Recomp",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-10-20T01:31:40Z",
+      "summary": "AI-generated static recompilation of the Xbox 360 version of Universe at War: Earth Assault, running natively on Windows and Android (tested on Retroid Pocket 6). Built with the ReXGlue SDK. No game files included; bring your own copy.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T23:05:14.486331+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android",
+      "url": "https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-20T14:30:55Z",
+      "summary": "Metal Gear Solid 2 HD (NVIDIA SHIELD) para Android ARM64 — recompilação estática ARM32→ARM64, Adreno e Mali, LSFG, menus em 7 idiomas. Traga sua própria cópia do jogo. / Static recompilation port, bring your own game files. Topics: android, arm64, frame-generation, gles, metal-gear-solid, nvidia-shield, static-recompilation, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T23:05:12.930161+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "kitcatkode/MacNativeGames",
+      "url": "https://github.com/kitcatkode/MacNativeGames",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-20T23:02:17Z",
+      "summary": "totk android port (wip)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T23:05:12.928253+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: android"
+      ]
+    },
+    {
+      "title": "abilliontokens/fuzionfrenzy-recomp",
+      "url": "https://github.com/abilliontokens/fuzionfrenzy-recomp",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-20T12:48:27Z",
+      "summary": "An unofficial native PC port of the original Xbox release of Fuzion Frenzy (USA), produced by statically recompiling the game's x86 XBE with the XboxXBERecomp SDK. Windows uses Direct3D 12 and XAudio2; Linux is a native Vulkan and SDL3 build, no Wine. No game code or assets: bring your own disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T23:05:11.151365+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Clergyman0013/arizona-vamp-recomp",
+      "url": "https://github.com/Clergyman0013/arizona-vamp-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-20T20:00:48Z",
+      "summary": "Native PC port of Darkwatch (Xbox, 2005) by static recompilation. Direct3D 12, XAudio2, PC settings menu, keyboard and mouse. Windows first; bring your own game. Topics: darkwatch, direct3d12, game-preservation, original-xbox, pc-port, recompilation, static-recompilation, windows, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T23:05:07.587263+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "griches/PS5_Burnout3",
+      "url": "https://github.com/griches/PS5_Burnout3",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-20T21:08:57Z",
+      "summary": "Burnout 3: Takedown on PlayStation 5: a port of Takedawn, the static recompilation of the original Xbox game. Bring your own USA disc. Topics: burnout, burnout-3, homebrew, ps5, ps5-homebrew, radv, static-recompilation, takedawn, vulkan, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T23:05:07.586076+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "nefariousjosiah/WWE-SVR2007-RECOMP",
+      "url": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-20T21:51:13Z",
+      "summary": "Native PC port of WWE SmackDown vs. Raw 2007 (Xbox 360) for Windows, plus Linux and Steam Deck through Proton: static recompilation + native D3D12/Vulkan renderer, 60 fps, up to 4K. Requires your own copy of the game; no game files included, no piracy.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T23:05:07.584920+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Kapro777/DesertDroid",
+      "url": "https://github.com/Kapro777/DesertDroid",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-20T22:17:03Z",
+      "summary": "DesertDroid — engine que roda Fallout: New Vegas nativamente no Android (ARM64) via static recompilation bring-your-own-game. Sem arquivos do jogo aqui.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T23:05:07.583744+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "MaChInEgUn3/God-of-War-Ascension-Recompiled",
+      "url": "https://github.com/MaChInEgUn3/God-of-War-Ascension-Recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-20T22:21:44Z",
+      "summary": "Static recompilation of God of War: Ascension (PS3) on ps3recomp. Research, not playable. Bring your own game. Topics: god-of-war, ps3, ps3recomp, reverse-engineering, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T23:05:07.582647+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable"
+      ]
+    },
+    {
+      "title": "adumah/mhnwis-nx",
+      "url": "https://github.com/adumah/mhnwis-nx",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-20T22:29:20Z",
+      "summary": "Unofficial Linux port of Monster High: New Ghoul in School (Xbox 360) by static recompilation with ReXGlue. Contains no game files: bring your own copy.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T23:05:07.581659+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "sp00nznet/lindberghrecomp",
+      "url": "https://github.com/sp00nznet/lindberghrecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-20T22:58:14Z",
+      "summary": "Static recompilation toolkit for Sega Lindbergh arcade games. The board is a 2005 PC, so the game is a 32-bit x86 ELF: lift it to C and provide the libraries instead of emulating hardware. Topics: arcade, lindbergh, preservation, recompilation, reverse-engineering, sega, static-recompilation, x86",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T23:05:07.580586+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Lautreck/tekken4-recomp",
+      "url": "https://github.com/Lautreck/tekken4-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-20T23:04:13Z",
+      "summary": "Static recompilation of Tekken 4 (PS2, PAL SCES-50878) to native Windows with PS2Recomp. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T23:05:07.579523+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "ParanoidAndroid745/ULTRAWebGL",
+      "url": "https://github.com/ParanoidAndroid745/ULTRAWebGL",
+      "source_name": "GitHub: WebGL ports",
+      "published": "2026-10-20T19:46:16Z",
+      "summary": "(WIP) Unofficial ULTRAKILL WebGL port. Currently working on game version Patch 6 Hotfix #2.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T23:05:05.889557+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webgl"
+        ],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webgl"
+      ]
+    },
+    {
+      "title": "HarshitWaldia/Browser-Games-Directory",
+      "url": "https://github.com/HarshitWaldia/Browser-Games-Directory",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-20T19:56:16Z",
+      "summary": "A curated directory of 34 classic, retro, and ported games playable directly in the browser via WebAssembly (WASM) and WebGL. Topics: browser-game, games, html5-game, retro-game, webgl, webgl-game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T23:05:03.937190+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl",
+          "html5",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, playable, webassembly, wasm, webgl",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "stefanocarraro/qbert",
+      "url": "https://github.com/stefanocarraro/qbert",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-20T22:54:37Z",
+      "summary": "Q*bert arcade clone in C# / .NET 10 (Blazor WebAssembly + Raylib desktop), an experiment in recreating a classic game with Claude",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T23:05:03.930154+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: classic game",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
+    {
+      "title": "xw4600/nobrakes-web",
+      "url": "https://github.com/xw4600/nobrakes-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-15T13:30:53Z",
+      "summary": "No Brakes (Web Edition) — single-file browser port of a 1999 QBASIC game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T23:04:59.932629+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "thekojac304/NewDarkAndroid",
       "url": "https://github.com/thekojac304/NewDarkAndroid",
@@ -477,7 +1014,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T09:55:24.268830+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T23:05:15.870915+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Personal research: WarCraft: Orcs & Humans (DOS) statically recompiled to native arm64 and WebAssembly. No game files included. Noncommercial (PolyForm NC 1.0.0).",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -510,10 +1064,285 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T09:55:24.267312+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T23:05:17.146908+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "[Rusty2600] Cycle-accurate Atari 2600 VCS emulator built in pure Rust — 26-of-26 bankswitch schemes, WebAssembly-ready, an ARM7TDMI Thumb coprocessor interpreter, TAS movie tooling, Lua scripting, and RetroAchievements integration for game preservation.",
+        "latest_release_url": "https://github.com/doublegate/Rusty2600/releases/tag/v2.13.0",
+        "latest_release_name": "v2.13.0 \"On Air\"",
+        "release_assets": [
+          {
+            "name": "rusty2600-v2.13.0-aarch64-apple-darwin.tar.gz",
+            "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.13.0/rusty2600-v2.13.0-aarch64-apple-darwin.tar.gz",
+            "size": 4297160
+          },
+          {
+            "name": "rusty2600-v2.13.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.13.0/rusty2600-v2.13.0-x86_64-pc-windows-msvc.zip",
+            "size": 4933414
+          },
+          {
+            "name": "rusty2600-v2.13.0-x86_64-unknown-linux-gnu.tar.gz",
+            "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.13.0/rusty2600-v2.13.0-x86_64-unknown-linux-gnu.tar.gz",
+            "size": 6116377
+          }
+        ],
+        "releases": [
+          {
+            "name": "v2.13.0 \"On Air\"",
+            "url": "https://github.com/doublegate/Rusty2600/releases/tag/v2.13.0",
+            "published_at": "2026-07-30T14:34:21Z",
+            "assets": [
+              {
+                "name": "rusty2600-v2.13.0-aarch64-apple-darwin.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.13.0/rusty2600-v2.13.0-aarch64-apple-darwin.tar.gz",
+                "size": 4297160
+              },
+              {
+                "name": "rusty2600-v2.13.0-x86_64-pc-windows-msvc.zip",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.13.0/rusty2600-v2.13.0-x86_64-pc-windows-msvc.zip",
+                "size": 4933414
+              },
+              {
+                "name": "rusty2600-v2.13.0-x86_64-unknown-linux-gnu.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.13.0/rusty2600-v2.13.0-x86_64-unknown-linux-gnu.tar.gz",
+                "size": 6116377
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v2.12.0 \"Open Book\"",
+            "url": "https://github.com/doublegate/Rusty2600/releases/tag/v2.12.0",
+            "published_at": "2026-07-08T07:02:51Z",
+            "assets": [
+              {
+                "name": "rusty2600-v2.12.0-aarch64-apple-darwin.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.12.0/rusty2600-v2.12.0-aarch64-apple-darwin.tar.gz",
+                "size": 4294774
+              },
+              {
+                "name": "rusty2600-v2.12.0-x86_64-pc-windows-msvc.zip",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.12.0/rusty2600-v2.12.0-x86_64-pc-windows-msvc.zip",
+                "size": 4930677
+              },
+              {
+                "name": "rusty2600-v2.12.0-x86_64-unknown-linux-gnu.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.12.0/rusty2600-v2.12.0-x86_64-unknown-linux-gnu.tar.gz",
+                "size": 6112697
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v2.11.0 \"Field Trip\"",
+            "url": "https://github.com/doublegate/Rusty2600/releases/tag/v2.11.0",
+            "published_at": "2026-07-03T02:36:54Z",
+            "assets": [
+              {
+                "name": "rusty2600-v2.11.0-aarch64-apple-darwin.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.11.0/rusty2600-v2.11.0-aarch64-apple-darwin.tar.gz",
+                "size": 4277237
+              },
+              {
+                "name": "rusty2600-v2.11.0-x86_64-pc-windows-msvc.zip",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.11.0/rusty2600-v2.11.0-x86_64-pc-windows-msvc.zip",
+                "size": 4918756
+              },
+              {
+                "name": "rusty2600-v2.11.0-x86_64-unknown-linux-gnu.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.11.0/rusty2600-v2.11.0-x86_64-unknown-linux-gnu.tar.gz",
+                "size": 6096994
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v2.10.0 \"Prism\"",
+            "url": "https://github.com/doublegate/Rusty2600/releases/tag/v2.10.0",
+            "published_at": "2026-07-03T01:23:55Z",
+            "assets": [
+              {
+                "name": "rusty2600-v2.10.0-aarch64-apple-darwin.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.10.0/rusty2600-v2.10.0-aarch64-apple-darwin.tar.gz",
+                "size": 4276926
+              },
+              {
+                "name": "rusty2600-v2.10.0-x86_64-pc-windows-msvc.zip",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.10.0/rusty2600-v2.10.0-x86_64-pc-windows-msvc.zip",
+                "size": 4918296
+              },
+              {
+                "name": "rusty2600-v2.10.0-x86_64-unknown-linux-gnu.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.10.0/rusty2600-v2.10.0-x86_64-unknown-linux-gnu.tar.gz",
+                "size": 6095902
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v2.9.0 \"Full Circle\"",
+            "url": "https://github.com/doublegate/Rusty2600/releases/tag/v2.9.0",
+            "published_at": "2026-07-03T00:00:34Z",
+            "assets": [
+              {
+                "name": "rusty2600-v2.9.0-aarch64-apple-darwin.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.9.0/rusty2600-v2.9.0-aarch64-apple-darwin.tar.gz",
+                "size": 4263114
+              },
+              {
+                "name": "rusty2600-v2.9.0-x86_64-pc-windows-msvc.zip",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.9.0/rusty2600-v2.9.0-x86_64-pc-windows-msvc.zip",
+                "size": 4902957
+              },
+              {
+                "name": "rusty2600-v2.9.0-x86_64-unknown-linux-gnu.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.9.0/rusty2600-v2.9.0-x86_64-unknown-linux-gnu.tar.gz",
+                "size": 6080582
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v2.8.0 \"Touchpoint\"",
+            "url": "https://github.com/doublegate/Rusty2600/releases/tag/v2.8.0",
+            "published_at": "2026-07-02T22:46:42Z",
+            "assets": [
+              {
+                "name": "rusty2600-v2.8.0-aarch64-apple-darwin.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.8.0/rusty2600-v2.8.0-aarch64-apple-darwin.tar.gz",
+                "size": 4263317
+              },
+              {
+                "name": "rusty2600-v2.8.0-x86_64-pc-windows-msvc.zip",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.8.0/rusty2600-v2.8.0-x86_64-pc-windows-msvc.zip",
+                "size": 4902730
+              },
+              {
+                "name": "rusty2600-v2.8.0-x86_64-unknown-linux-gnu.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.8.0/rusty2600-v2.8.0-x86_64-unknown-linux-gnu.tar.gz",
+                "size": 6079699
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v2.7.0 \"True Colors\"",
+            "url": "https://github.com/doublegate/Rusty2600/releases/tag/v2.7.0",
+            "published_at": "2026-07-02T21:38:47Z",
+            "assets": [
+              {
+                "name": "rusty2600-v2.7.0-aarch64-apple-darwin.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.7.0/rusty2600-v2.7.0-aarch64-apple-darwin.tar.gz",
+                "size": 4262697
+              },
+              {
+                "name": "rusty2600-v2.7.0-x86_64-pc-windows-msvc.zip",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.7.0/rusty2600-v2.7.0-x86_64-pc-windows-msvc.zip",
+                "size": 4902593
+              },
+              {
+                "name": "rusty2600-v2.7.0-x86_64-unknown-linux-gnu.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.7.0/rusty2600-v2.7.0-x86_64-unknown-linux-gnu.tar.gz",
+                "size": 6079836
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v2.6.0 \"Rollback Bridge\"",
+            "url": "https://github.com/doublegate/Rusty2600/releases/tag/v2.6.0",
+            "published_at": "2026-07-02T20:17:34Z",
+            "assets": [
+              {
+                "name": "rusty2600-v2.6.0-aarch64-apple-darwin.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.6.0/rusty2600-v2.6.0-aarch64-apple-darwin.tar.gz",
+                "size": 4262443
+              },
+              {
+                "name": "rusty2600-v2.6.0-x86_64-pc-windows-msvc.zip",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.6.0/rusty2600-v2.6.0-x86_64-pc-windows-msvc.zip",
+                "size": 4901808
+              },
+              {
+                "name": "rusty2600-v2.6.0-x86_64-unknown-linux-gnu.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.6.0/rusty2600-v2.6.0-x86_64-unknown-linux-gnu.tar.gz",
+                "size": 6079773
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v2.5.0 \"Web Awakens\"",
+            "url": "https://github.com/doublegate/Rusty2600/releases/tag/v2.5.0",
+            "published_at": "2026-07-02T18:01:23Z",
+            "assets": [
+              {
+                "name": "rusty2600-v2.5.0-aarch64-apple-darwin.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.5.0/rusty2600-v2.5.0-aarch64-apple-darwin.tar.gz",
+                "size": 3942774
+              },
+              {
+                "name": "rusty2600-v2.5.0-x86_64-pc-windows-msvc.zip",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.5.0/rusty2600-v2.5.0-x86_64-pc-windows-msvc.zip",
+                "size": 4470498
+              },
+              {
+                "name": "rusty2600-v2.5.0-x86_64-unknown-linux-gnu.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.5.0/rusty2600-v2.5.0-x86_64-unknown-linux-gnu.tar.gz",
+                "size": 5622583
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v2.4.0 \"Save Point\"",
+            "url": "https://github.com/doublegate/Rusty2600/releases/tag/v2.4.0",
+            "published_at": "2026-07-02T16:27:04Z",
+            "assets": [
+              {
+                "name": "rusty2600-v2.4.0-aarch64-apple-darwin.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.4.0/rusty2600-v2.4.0-aarch64-apple-darwin.tar.gz",
+                "size": 3941923
+              },
+              {
+                "name": "rusty2600-v2.4.0-x86_64-pc-windows-msvc.zip",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.4.0/rusty2600-v2.4.0-x86_64-pc-windows-msvc.zip",
+                "size": 4469336
+              },
+              {
+                "name": "rusty2600-v2.4.0-x86_64-unknown-linux-gnu.tar.gz",
+                "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.4.0/rusty2600-v2.4.0-x86_64-unknown-linux-gnu.tar.gz",
+                "size": 5628808
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
-        "Web"
+        "Web",
+        "PC"
       ],
       "category_evidence": {
         "browser_terms": [
@@ -521,12 +1350,168 @@
           "wasm"
         ],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "rusty2600-v2.13.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.13.0/rusty2600-v2.13.0-aarch64-apple-darwin.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.13.0-x86_64-pc-windows-msvc.zip",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.13.0/rusty2600-v2.13.0-x86_64-pc-windows-msvc.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.13.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.13.0/rusty2600-v2.13.0-x86_64-unknown-linux-gnu.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.12.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.12.0/rusty2600-v2.12.0-aarch64-apple-darwin.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.12.0-x86_64-pc-windows-msvc.zip",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.12.0/rusty2600-v2.12.0-x86_64-pc-windows-msvc.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.12.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.12.0/rusty2600-v2.12.0-x86_64-unknown-linux-gnu.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.11.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.11.0/rusty2600-v2.11.0-aarch64-apple-darwin.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.11.0-x86_64-pc-windows-msvc.zip",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.11.0/rusty2600-v2.11.0-x86_64-pc-windows-msvc.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.11.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.11.0/rusty2600-v2.11.0-x86_64-unknown-linux-gnu.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.10.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.10.0/rusty2600-v2.10.0-aarch64-apple-darwin.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.10.0-x86_64-pc-windows-msvc.zip",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.10.0/rusty2600-v2.10.0-x86_64-pc-windows-msvc.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.10.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.10.0/rusty2600-v2.10.0-x86_64-unknown-linux-gnu.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.9.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.9.0/rusty2600-v2.9.0-aarch64-apple-darwin.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.9.0-x86_64-pc-windows-msvc.zip",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.9.0/rusty2600-v2.9.0-x86_64-pc-windows-msvc.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.9.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.9.0/rusty2600-v2.9.0-x86_64-unknown-linux-gnu.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.8.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.8.0/rusty2600-v2.8.0-aarch64-apple-darwin.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.8.0-x86_64-pc-windows-msvc.zip",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.8.0/rusty2600-v2.8.0-x86_64-pc-windows-msvc.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.8.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.8.0/rusty2600-v2.8.0-x86_64-unknown-linux-gnu.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.7.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.7.0/rusty2600-v2.7.0-aarch64-apple-darwin.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.7.0-x86_64-pc-windows-msvc.zip",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.7.0/rusty2600-v2.7.0-x86_64-pc-windows-msvc.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.7.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.7.0/rusty2600-v2.7.0-x86_64-unknown-linux-gnu.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.6.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.6.0/rusty2600-v2.6.0-aarch64-apple-darwin.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.6.0-x86_64-pc-windows-msvc.zip",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.6.0/rusty2600-v2.6.0-x86_64-pc-windows-msvc.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.6.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.6.0/rusty2600-v2.6.0-x86_64-unknown-linux-gnu.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.5.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.5.0/rusty2600-v2.5.0-aarch64-apple-darwin.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.5.0-x86_64-pc-windows-msvc.zip",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.5.0/rusty2600-v2.5.0-x86_64-pc-windows-msvc.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.5.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.5.0/rusty2600-v2.5.0-x86_64-unknown-linux-gnu.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.4.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.4.0/rusty2600-v2.4.0-aarch64-apple-darwin.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.4.0-x86_64-pc-windows-msvc.zip",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.4.0/rusty2600-v2.4.0-x86_64-pc-windows-msvc.zip",
+          "type": "archive"
+        },
+        {
+          "name": "rusty2600-v2.4.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/doublegate/Rusty2600/releases/download/v2.4.0/rusty2600-v2.4.0-x86_64-unknown-linux-gnu.tar.gz",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -544,10 +1529,780 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T09:55:24.265230+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T23:05:18.566387+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Free civilization sandbox in your browser. Tribes invent their own languages, cultures and wars, from stone age to computers. Rust → WASM, no server, no LLM.",
+        "latest_release_url": "https://github.com/1homsi/thehumanbox/releases/tag/v0.6.9",
+        "latest_release_name": "v0.6.9",
+        "release_assets": [
+          {
+            "name": "latest-linux.yml",
+            "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/latest-linux.yml",
+            "size": 543
+          },
+          {
+            "name": "latest-mac.yml",
+            "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/latest-mac.yml",
+            "size": 523
+          },
+          {
+            "name": "latest.yml",
+            "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/latest.yml",
+            "size": 354
+          },
+          {
+            "name": "The-Human-Box-0.6.9-arm64-mac.zip",
+            "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-0.6.9-arm64-mac.zip",
+            "size": 115988059
+          },
+          {
+            "name": "The-Human-Box-0.6.9-arm64.dmg",
+            "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-0.6.9-arm64.dmg",
+            "size": 116149342
+          },
+          {
+            "name": "The-Human-Box-0.6.9-arm64.dmg.blockmap",
+            "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-0.6.9-arm64.dmg.blockmap",
+            "size": 122460
+          },
+          {
+            "name": "The-Human-Box-0.6.9-win.zip",
+            "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-0.6.9-win.zip",
+            "size": 127116952
+          },
+          {
+            "name": "The-Human-Box-0.6.9.AppImage",
+            "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-0.6.9.AppImage",
+            "size": 124051461
+          },
+          {
+            "name": "The-Human-Box-Setup-0.6.9.exe",
+            "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-Setup-0.6.9.exe",
+            "size": 92426779
+          },
+          {
+            "name": "The-Human-Box-Setup-0.6.9.exe.blockmap",
+            "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-Setup-0.6.9.exe.blockmap",
+            "size": 97510
+          },
+          {
+            "name": "The.Human.Box-0.6.9-arm64-mac.zip.blockmap",
+            "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The.Human.Box-0.6.9-arm64-mac.zip.blockmap",
+            "size": 121615
+          },
+          {
+            "name": "thehumanbox-desktop_0.6.9_amd64.deb",
+            "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/thehumanbox-desktop_0.6.9_amd64.deb",
+            "size": 97970416
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.6.9",
+            "url": "https://github.com/1homsi/thehumanbox/releases/tag/v0.6.9",
+            "published_at": "2026-10-20T19:25:40Z",
+            "assets": [
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/latest-linux.yml",
+                "size": 543
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/latest-mac.yml",
+                "size": 523
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/latest.yml",
+                "size": 354
+              },
+              {
+                "name": "The-Human-Box-0.6.9-arm64-mac.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-0.6.9-arm64-mac.zip",
+                "size": 115988059
+              },
+              {
+                "name": "The-Human-Box-0.6.9-arm64.dmg",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-0.6.9-arm64.dmg",
+                "size": 116149342
+              },
+              {
+                "name": "The-Human-Box-0.6.9-arm64.dmg.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-0.6.9-arm64.dmg.blockmap",
+                "size": 122460
+              },
+              {
+                "name": "The-Human-Box-0.6.9-win.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-0.6.9-win.zip",
+                "size": 127116952
+              },
+              {
+                "name": "The-Human-Box-0.6.9.AppImage",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-0.6.9.AppImage",
+                "size": 124051461
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.9.exe",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-Setup-0.6.9.exe",
+                "size": 92426779
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.9.exe.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-Setup-0.6.9.exe.blockmap",
+                "size": 97510
+              },
+              {
+                "name": "The.Human.Box-0.6.9-arm64-mac.zip.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The.Human.Box-0.6.9-arm64-mac.zip.blockmap",
+                "size": 121615
+              },
+              {
+                "name": "thehumanbox-desktop_0.6.9_amd64.deb",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/thehumanbox-desktop_0.6.9_amd64.deb",
+                "size": 97970416
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.6.8",
+            "url": "https://github.com/1homsi/thehumanbox/releases/tag/v0.6.8",
+            "published_at": "2026-10-20T19:08:35Z",
+            "assets": [
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/latest-linux.yml",
+                "size": 543
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/latest-mac.yml",
+                "size": 523
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/latest.yml",
+                "size": 354
+              },
+              {
+                "name": "The-Human-Box-0.6.8-arm64-mac.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/The-Human-Box-0.6.8-arm64-mac.zip",
+                "size": 115979421
+              },
+              {
+                "name": "The-Human-Box-0.6.8-arm64.dmg",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/The-Human-Box-0.6.8-arm64.dmg",
+                "size": 116174524
+              },
+              {
+                "name": "The-Human-Box-0.6.8-arm64.dmg.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/The-Human-Box-0.6.8-arm64.dmg.blockmap",
+                "size": 122794
+              },
+              {
+                "name": "The-Human-Box-0.6.8-win.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/The-Human-Box-0.6.8-win.zip",
+                "size": 127113416
+              },
+              {
+                "name": "The-Human-Box-0.6.8.AppImage",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/The-Human-Box-0.6.8.AppImage",
+                "size": 124047584
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.8.exe",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/The-Human-Box-Setup-0.6.8.exe",
+                "size": 92421710
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.8.exe.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/The-Human-Box-Setup-0.6.8.exe.blockmap",
+                "size": 97344
+              },
+              {
+                "name": "The.Human.Box-0.6.8-arm64-mac.zip.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/The.Human.Box-0.6.8-arm64-mac.zip.blockmap",
+                "size": 121726
+              },
+              {
+                "name": "thehumanbox-desktop_0.6.8_amd64.deb",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/thehumanbox-desktop_0.6.8_amd64.deb",
+                "size": 97993764
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.6.7",
+            "url": "https://github.com/1homsi/thehumanbox/releases/tag/v0.6.7",
+            "published_at": "2026-10-20T18:46:31Z",
+            "assets": [
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/latest-linux.yml",
+                "size": 543
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/latest-mac.yml",
+                "size": 523
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/latest.yml",
+                "size": 354
+              },
+              {
+                "name": "The-Human-Box-0.6.7-arm64-mac.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/The-Human-Box-0.6.7-arm64-mac.zip",
+                "size": 115973462
+              },
+              {
+                "name": "The-Human-Box-0.6.7-arm64.dmg",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/The-Human-Box-0.6.7-arm64.dmg",
+                "size": 116160485
+              },
+              {
+                "name": "The-Human-Box-0.6.7-arm64.dmg.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/The-Human-Box-0.6.7-arm64.dmg.blockmap",
+                "size": 121588
+              },
+              {
+                "name": "The-Human-Box-0.6.7-win.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/The-Human-Box-0.6.7-win.zip",
+                "size": 127106641
+              },
+              {
+                "name": "The-Human-Box-0.6.7.AppImage",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/The-Human-Box-0.6.7.AppImage",
+                "size": 124039412
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.7.exe",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/The-Human-Box-Setup-0.6.7.exe",
+                "size": 92416319
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.7.exe.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/The-Human-Box-Setup-0.6.7.exe.blockmap",
+                "size": 96793
+              },
+              {
+                "name": "The.Human.Box-0.6.7-arm64-mac.zip.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/The.Human.Box-0.6.7-arm64-mac.zip.blockmap",
+                "size": 121517
+              },
+              {
+                "name": "thehumanbox-desktop_0.6.7_amd64.deb",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/thehumanbox-desktop_0.6.7_amd64.deb",
+                "size": 97985500
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.6.6",
+            "url": "https://github.com/1homsi/thehumanbox/releases/tag/v0.6.6",
+            "published_at": "2026-10-20T18:29:19Z",
+            "assets": [
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/latest-linux.yml",
+                "size": 543
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/latest-mac.yml",
+                "size": 523
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/latest.yml",
+                "size": 354
+              },
+              {
+                "name": "The-Human-Box-0.6.6-arm64-mac.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/The-Human-Box-0.6.6-arm64-mac.zip",
+                "size": 115970125
+              },
+              {
+                "name": "The-Human-Box-0.6.6-arm64.dmg",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/The-Human-Box-0.6.6-arm64.dmg",
+                "size": 116148425
+              },
+              {
+                "name": "The-Human-Box-0.6.6-arm64.dmg.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/The-Human-Box-0.6.6-arm64.dmg.blockmap",
+                "size": 121459
+              },
+              {
+                "name": "The-Human-Box-0.6.6-win.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/The-Human-Box-0.6.6-win.zip",
+                "size": 127105687
+              },
+              {
+                "name": "The-Human-Box-0.6.6.AppImage",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/The-Human-Box-0.6.6.AppImage",
+                "size": 124039692
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.6.exe",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/The-Human-Box-Setup-0.6.6.exe",
+                "size": 92412263
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.6.exe.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/The-Human-Box-Setup-0.6.6.exe.blockmap",
+                "size": 97114
+              },
+              {
+                "name": "The.Human.Box-0.6.6-arm64-mac.zip.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/The.Human.Box-0.6.6-arm64-mac.zip.blockmap",
+                "size": 121883
+              },
+              {
+                "name": "thehumanbox-desktop_0.6.6_amd64.deb",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/thehumanbox-desktop_0.6.6_amd64.deb",
+                "size": 97958868
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.6.5",
+            "url": "https://github.com/1homsi/thehumanbox/releases/tag/v0.6.5",
+            "published_at": "2026-10-20T06:47:47Z",
+            "assets": [
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/latest-linux.yml",
+                "size": 543
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/latest-mac.yml",
+                "size": 523
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/latest.yml",
+                "size": 354
+              },
+              {
+                "name": "The-Human-Box-0.6.5-arm64-mac.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/The-Human-Box-0.6.5-arm64-mac.zip",
+                "size": 115971719
+              },
+              {
+                "name": "The-Human-Box-0.6.5-arm64.dmg",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/The-Human-Box-0.6.5-arm64.dmg",
+                "size": 116148267
+              },
+              {
+                "name": "The-Human-Box-0.6.5-arm64.dmg.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/The-Human-Box-0.6.5-arm64.dmg.blockmap",
+                "size": 121379
+              },
+              {
+                "name": "The-Human-Box-0.6.5-win.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/The-Human-Box-0.6.5-win.zip",
+                "size": 127105218
+              },
+              {
+                "name": "The-Human-Box-0.6.5.AppImage",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/The-Human-Box-0.6.5.AppImage",
+                "size": 124039381
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.5.exe",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/The-Human-Box-Setup-0.6.5.exe",
+                "size": 92417377
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.5.exe.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/The-Human-Box-Setup-0.6.5.exe.blockmap",
+                "size": 97116
+              },
+              {
+                "name": "The.Human.Box-0.6.5-arm64-mac.zip.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/The.Human.Box-0.6.5-arm64-mac.zip.blockmap",
+                "size": 122110
+              },
+              {
+                "name": "thehumanbox-desktop_0.6.5_amd64.deb",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/thehumanbox-desktop_0.6.5_amd64.deb",
+                "size": 97983884
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.6.4",
+            "url": "https://github.com/1homsi/thehumanbox/releases/tag/v0.6.4",
+            "published_at": "2026-10-19T17:05:14Z",
+            "assets": [
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/latest-linux.yml",
+                "size": 543
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/latest-mac.yml",
+                "size": 523
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/latest.yml",
+                "size": 354
+              },
+              {
+                "name": "The-Human-Box-0.6.4-arm64-mac.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/The-Human-Box-0.6.4-arm64-mac.zip",
+                "size": 115970572
+              },
+              {
+                "name": "The-Human-Box-0.6.4-arm64.dmg",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/The-Human-Box-0.6.4-arm64.dmg",
+                "size": 116148271
+              },
+              {
+                "name": "The-Human-Box-0.6.4-arm64.dmg.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/The-Human-Box-0.6.4-arm64.dmg.blockmap",
+                "size": 121228
+              },
+              {
+                "name": "The-Human-Box-0.6.4-win.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/The-Human-Box-0.6.4-win.zip",
+                "size": 127104358
+              },
+              {
+                "name": "The-Human-Box-0.6.4.AppImage",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/The-Human-Box-0.6.4.AppImage",
+                "size": 124039115
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.4.exe",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/The-Human-Box-Setup-0.6.4.exe",
+                "size": 92415885
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.4.exe.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/The-Human-Box-Setup-0.6.4.exe.blockmap",
+                "size": 97789
+              },
+              {
+                "name": "The.Human.Box-0.6.4-arm64-mac.zip.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/The.Human.Box-0.6.4-arm64-mac.zip.blockmap",
+                "size": 121829
+              },
+              {
+                "name": "thehumanbox-desktop_0.6.4_amd64.deb",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/thehumanbox-desktop_0.6.4_amd64.deb",
+                "size": 97958512
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.6.3",
+            "url": "https://github.com/1homsi/thehumanbox/releases/tag/v0.6.3",
+            "published_at": "2026-10-19T14:00:39Z",
+            "assets": [
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/latest-linux.yml",
+                "size": 543
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/latest-mac.yml",
+                "size": 523
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/latest.yml",
+                "size": 354
+              },
+              {
+                "name": "The-Human-Box-0.6.3-arm64-mac.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/The-Human-Box-0.6.3-arm64-mac.zip",
+                "size": 115971808
+              },
+              {
+                "name": "The-Human-Box-0.6.3-arm64.dmg",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/The-Human-Box-0.6.3-arm64.dmg",
+                "size": 116156009
+              },
+              {
+                "name": "The-Human-Box-0.6.3-arm64.dmg.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/The-Human-Box-0.6.3-arm64.dmg.blockmap",
+                "size": 122438
+              },
+              {
+                "name": "The-Human-Box-0.6.3-win.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/The-Human-Box-0.6.3-win.zip",
+                "size": 127106583
+              },
+              {
+                "name": "The-Human-Box-0.6.3.AppImage",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/The-Human-Box-0.6.3.AppImage",
+                "size": 124039514
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.3.exe",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/The-Human-Box-Setup-0.6.3.exe",
+                "size": 92416515
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.3.exe.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/The-Human-Box-Setup-0.6.3.exe.blockmap",
+                "size": 97049
+              },
+              {
+                "name": "The.Human.Box-0.6.3-arm64-mac.zip.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/The.Human.Box-0.6.3-arm64-mac.zip.blockmap",
+                "size": 122199
+              },
+              {
+                "name": "thehumanbox-desktop_0.6.3_amd64.deb",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/thehumanbox-desktop_0.6.3_amd64.deb",
+                "size": 97960092
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.6.2",
+            "url": "https://github.com/1homsi/thehumanbox/releases/tag/v0.6.2",
+            "published_at": "2026-10-19T12:58:29Z",
+            "assets": [
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/latest-linux.yml",
+                "size": 543
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/latest-mac.yml",
+                "size": 523
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/latest.yml",
+                "size": 354
+              },
+              {
+                "name": "The-Human-Box-0.6.2-arm64-mac.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/The-Human-Box-0.6.2-arm64-mac.zip",
+                "size": 115972049
+              },
+              {
+                "name": "The-Human-Box-0.6.2-arm64.dmg",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/The-Human-Box-0.6.2-arm64.dmg",
+                "size": 116149828
+              },
+              {
+                "name": "The-Human-Box-0.6.2-arm64.dmg.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/The-Human-Box-0.6.2-arm64.dmg.blockmap",
+                "size": 121141
+              },
+              {
+                "name": "The-Human-Box-0.6.2-win.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/The-Human-Box-0.6.2-win.zip",
+                "size": 127106029
+              },
+              {
+                "name": "The-Human-Box-0.6.2.AppImage",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/The-Human-Box-0.6.2.AppImage",
+                "size": 124039481
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.2.exe",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/The-Human-Box-Setup-0.6.2.exe",
+                "size": 92415787
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.2.exe.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/The-Human-Box-Setup-0.6.2.exe.blockmap",
+                "size": 97205
+              },
+              {
+                "name": "The.Human.Box-0.6.2-arm64-mac.zip.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/The.Human.Box-0.6.2-arm64-mac.zip.blockmap",
+                "size": 121998
+              },
+              {
+                "name": "thehumanbox-desktop_0.6.2_amd64.deb",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/thehumanbox-desktop_0.6.2_amd64.deb",
+                "size": 97960852
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.6.1",
+            "url": "https://github.com/1homsi/thehumanbox/releases/tag/v0.6.1",
+            "published_at": "2026-10-17T06:34:07Z",
+            "assets": [
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/latest-linux.yml",
+                "size": 543
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/latest-mac.yml",
+                "size": 523
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/latest.yml",
+                "size": 354
+              },
+              {
+                "name": "The-Human-Box-0.6.1-arm64-mac.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/The-Human-Box-0.6.1-arm64-mac.zip",
+                "size": 115971222
+              },
+              {
+                "name": "The-Human-Box-0.6.1-arm64.dmg",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/The-Human-Box-0.6.1-arm64.dmg",
+                "size": 116147122
+              },
+              {
+                "name": "The-Human-Box-0.6.1-arm64.dmg.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/The-Human-Box-0.6.1-arm64.dmg.blockmap",
+                "size": 121285
+              },
+              {
+                "name": "The-Human-Box-0.6.1-win.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/The-Human-Box-0.6.1-win.zip",
+                "size": 127106307
+              },
+              {
+                "name": "The-Human-Box-0.6.1.AppImage",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/The-Human-Box-0.6.1.AppImage",
+                "size": 124039702
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.1.exe",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/The-Human-Box-Setup-0.6.1.exe",
+                "size": 92417425
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.1.exe.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/The-Human-Box-Setup-0.6.1.exe.blockmap",
+                "size": 97065
+              },
+              {
+                "name": "The.Human.Box-0.6.1-arm64-mac.zip.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/The.Human.Box-0.6.1-arm64-mac.zip.blockmap",
+                "size": 121895
+              },
+              {
+                "name": "thehumanbox-desktop_0.6.1_amd64.deb",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/thehumanbox-desktop_0.6.1_amd64.deb",
+                "size": 97958640
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.6.0",
+            "url": "https://github.com/1homsi/thehumanbox/releases/tag/v0.6.0",
+            "published_at": "2026-10-16T23:37:42Z",
+            "assets": [
+              {
+                "name": "latest-linux.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/latest-linux.yml",
+                "size": 543
+              },
+              {
+                "name": "latest-mac.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/latest-mac.yml",
+                "size": 523
+              },
+              {
+                "name": "latest.yml",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/latest.yml",
+                "size": 354
+              },
+              {
+                "name": "The-Human-Box-0.6.0-arm64-mac.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/The-Human-Box-0.6.0-arm64-mac.zip",
+                "size": 115942211
+              },
+              {
+                "name": "The-Human-Box-0.6.0-arm64.dmg",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/The-Human-Box-0.6.0-arm64.dmg",
+                "size": 116102355
+              },
+              {
+                "name": "The-Human-Box-0.6.0-arm64.dmg.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/The-Human-Box-0.6.0-arm64.dmg.blockmap",
+                "size": 120958
+              },
+              {
+                "name": "The-Human-Box-0.6.0-win.zip",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/The-Human-Box-0.6.0-win.zip",
+                "size": 127079362
+              },
+              {
+                "name": "The-Human-Box-0.6.0.AppImage",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/The-Human-Box-0.6.0.AppImage",
+                "size": 123994038
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.0.exe",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/The-Human-Box-Setup-0.6.0.exe",
+                "size": 92399492
+              },
+              {
+                "name": "The-Human-Box-Setup-0.6.0.exe.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/The-Human-Box-Setup-0.6.0.exe.blockmap",
+                "size": 97441
+              },
+              {
+                "name": "The.Human.Box-0.6.0-arm64-mac.zip.blockmap",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/The.Human.Box-0.6.0-arm64-mac.zip.blockmap",
+                "size": 121636
+              },
+              {
+                "name": "thehumanbox-desktop_0.6.0_amd64.deb",
+                "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/thehumanbox-desktop_0.6.0_amd64.deb",
+                "size": 97939260
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
-        "Web"
+        "Web",
+        "PC"
       ],
       "category_evidence": {
         "browser_terms": [
@@ -556,12 +2311,618 @@
           "wasm"
         ],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "linux",
+          "desktop"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.9-arm64-mac.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-0.6.9-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.9-arm64.dmg",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-0.6.9-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-0.6.9-arm64.dmg.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-0.6.9-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.9-win.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-0.6.9-win.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.9.AppImage",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-0.6.9.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.9.exe",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-Setup-0.6.9.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.9.exe.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The-Human-Box-Setup-0.6.9.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The.Human.Box-0.6.9-arm64-mac.zip.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/The.Human.Box-0.6.9-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "thehumanbox-desktop_0.6.9_amd64.deb",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.9/thehumanbox-desktop_0.6.9_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.8-arm64-mac.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/The-Human-Box-0.6.8-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.8-arm64.dmg",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/The-Human-Box-0.6.8-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-0.6.8-arm64.dmg.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/The-Human-Box-0.6.8-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.8-win.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/The-Human-Box-0.6.8-win.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.8.AppImage",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/The-Human-Box-0.6.8.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.8.exe",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/The-Human-Box-Setup-0.6.8.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.8.exe.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/The-Human-Box-Setup-0.6.8.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The.Human.Box-0.6.8-arm64-mac.zip.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/The.Human.Box-0.6.8-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "thehumanbox-desktop_0.6.8_amd64.deb",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.8/thehumanbox-desktop_0.6.8_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.7-arm64-mac.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/The-Human-Box-0.6.7-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.7-arm64.dmg",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/The-Human-Box-0.6.7-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-0.6.7-arm64.dmg.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/The-Human-Box-0.6.7-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.7-win.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/The-Human-Box-0.6.7-win.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.7.AppImage",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/The-Human-Box-0.6.7.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.7.exe",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/The-Human-Box-Setup-0.6.7.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.7.exe.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/The-Human-Box-Setup-0.6.7.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The.Human.Box-0.6.7-arm64-mac.zip.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/The.Human.Box-0.6.7-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "thehumanbox-desktop_0.6.7_amd64.deb",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.7/thehumanbox-desktop_0.6.7_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.6-arm64-mac.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/The-Human-Box-0.6.6-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.6-arm64.dmg",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/The-Human-Box-0.6.6-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-0.6.6-arm64.dmg.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/The-Human-Box-0.6.6-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.6-win.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/The-Human-Box-0.6.6-win.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.6.AppImage",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/The-Human-Box-0.6.6.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.6.exe",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/The-Human-Box-Setup-0.6.6.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.6.exe.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/The-Human-Box-Setup-0.6.6.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The.Human.Box-0.6.6-arm64-mac.zip.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/The.Human.Box-0.6.6-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "thehumanbox-desktop_0.6.6_amd64.deb",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.6/thehumanbox-desktop_0.6.6_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.5-arm64-mac.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/The-Human-Box-0.6.5-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.5-arm64.dmg",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/The-Human-Box-0.6.5-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-0.6.5-arm64.dmg.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/The-Human-Box-0.6.5-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.5-win.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/The-Human-Box-0.6.5-win.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.5.AppImage",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/The-Human-Box-0.6.5.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.5.exe",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/The-Human-Box-Setup-0.6.5.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.5.exe.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/The-Human-Box-Setup-0.6.5.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The.Human.Box-0.6.5-arm64-mac.zip.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/The.Human.Box-0.6.5-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "thehumanbox-desktop_0.6.5_amd64.deb",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.5/thehumanbox-desktop_0.6.5_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.4-arm64-mac.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/The-Human-Box-0.6.4-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.4-arm64.dmg",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/The-Human-Box-0.6.4-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-0.6.4-arm64.dmg.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/The-Human-Box-0.6.4-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.4-win.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/The-Human-Box-0.6.4-win.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.4.AppImage",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/The-Human-Box-0.6.4.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.4.exe",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/The-Human-Box-Setup-0.6.4.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.4.exe.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/The-Human-Box-Setup-0.6.4.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The.Human.Box-0.6.4-arm64-mac.zip.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/The.Human.Box-0.6.4-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "thehumanbox-desktop_0.6.4_amd64.deb",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.4/thehumanbox-desktop_0.6.4_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.3-arm64-mac.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/The-Human-Box-0.6.3-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.3-arm64.dmg",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/The-Human-Box-0.6.3-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-0.6.3-arm64.dmg.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/The-Human-Box-0.6.3-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.3-win.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/The-Human-Box-0.6.3-win.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.3.AppImage",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/The-Human-Box-0.6.3.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.3.exe",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/The-Human-Box-Setup-0.6.3.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.3.exe.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/The-Human-Box-Setup-0.6.3.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The.Human.Box-0.6.3-arm64-mac.zip.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/The.Human.Box-0.6.3-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "thehumanbox-desktop_0.6.3_amd64.deb",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.3/thehumanbox-desktop_0.6.3_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.2-arm64-mac.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/The-Human-Box-0.6.2-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.2-arm64.dmg",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/The-Human-Box-0.6.2-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-0.6.2-arm64.dmg.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/The-Human-Box-0.6.2-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.2-win.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/The-Human-Box-0.6.2-win.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.2.AppImage",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/The-Human-Box-0.6.2.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.2.exe",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/The-Human-Box-Setup-0.6.2.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.2.exe.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/The-Human-Box-Setup-0.6.2.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The.Human.Box-0.6.2-arm64-mac.zip.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/The.Human.Box-0.6.2-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "thehumanbox-desktop_0.6.2_amd64.deb",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.2/thehumanbox-desktop_0.6.2_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.1-arm64-mac.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/The-Human-Box-0.6.1-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.1-arm64.dmg",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/The-Human-Box-0.6.1-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-0.6.1-arm64.dmg.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/The-Human-Box-0.6.1-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.1-win.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/The-Human-Box-0.6.1-win.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.1.AppImage",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/The-Human-Box-0.6.1.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.1.exe",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/The-Human-Box-Setup-0.6.1.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.1.exe.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/The-Human-Box-Setup-0.6.1.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The.Human.Box-0.6.1-arm64-mac.zip.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/The.Human.Box-0.6.1-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "thehumanbox-desktop_0.6.1_amd64.deb",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.1/thehumanbox-desktop_0.6.1_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "latest-linux.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/latest-linux.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest-mac.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/latest-mac.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.yml",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/latest.yml",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.0-arm64-mac.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/The-Human-Box-0.6.0-arm64-mac.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.0-arm64.dmg",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/The-Human-Box-0.6.0-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-0.6.0-arm64.dmg.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/The-Human-Box-0.6.0-arm64.dmg.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The-Human-Box-0.6.0-win.zip",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/The-Human-Box-0.6.0-win.zip",
+          "type": "archive"
+        },
+        {
+          "name": "The-Human-Box-0.6.0.AppImage",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/The-Human-Box-0.6.0.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.0.exe",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/The-Human-Box-Setup-0.6.0.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "The-Human-Box-Setup-0.6.0.exe.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/The-Human-Box-Setup-0.6.0.exe.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "The.Human.Box-0.6.0-arm64-mac.zip.blockmap",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/The.Human.Box-0.6.0-arm64-mac.zip.blockmap",
+          "type": "other_file"
+        },
+        {
+          "name": "thehumanbox-desktop_0.6.0_amd64.deb",
+          "url": "https://github.com/1homsi/thehumanbox/releases/download/v0.6.0/thehumanbox-desktop_0.6.0_amd64.deb",
+          "type": "desktop_package"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "possible",
@@ -580,7 +2941,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T09:55:24.263177+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T23:05:20.018808+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Ten game-dev tools, each made into an original browser game with the tool, plus the prompt and steps to recreate it.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -615,7 +2993,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T09:55:24.261066+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T23:05:21.290393+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Open-source browser strategy game with tactical-search and neural-network AI, built with React, Rust/WASM, Vite, and Cloudflare.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -651,27 +3046,181 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T09:55:24.257890+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T23:05:22.583220+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Open-source Asheron's Call client in Rust: the original game's behavior, a modern codebase, WebAssembly plugins. The Rust port of OpenAC.",
+        "latest_release_url": "https://github.com/eriknihlen/openac-rust/releases/tag/v0.1.0",
+        "latest_release_name": "OpenAC-rust 0.1.0",
+        "release_assets": [
+          {
+            "name": "client-linux-x64.zip",
+            "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/client-linux-x64.zip",
+            "size": 15168468
+          },
+          {
+            "name": "client-win-x64.zip",
+            "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/client-win-x64.zip",
+            "size": 13184771
+          },
+          {
+            "name": "launcher-linux-x64.zip",
+            "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/launcher-linux-x64.zip",
+            "size": 8208420
+          },
+          {
+            "name": "launcher-win-x64.zip",
+            "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/launcher-win-x64.zip",
+            "size": 6836852
+          },
+          {
+            "name": "manifest.json",
+            "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/manifest.json",
+            "size": 1066
+          },
+          {
+            "name": "openac-linux-x64.zip",
+            "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/openac-linux-x64.zip",
+            "size": 23338803
+          },
+          {
+            "name": "openac-win-x64.zip",
+            "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/openac-win-x64.zip",
+            "size": 19979915
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/SHA256SUMS.txt",
+            "size": 600
+          }
+        ],
+        "releases": [
+          {
+            "name": "OpenAC-rust 0.1.0",
+            "url": "https://github.com/eriknihlen/openac-rust/releases/tag/v0.1.0",
+            "published_at": "2026-10-20T11:15:34Z",
+            "assets": [
+              {
+                "name": "client-linux-x64.zip",
+                "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/client-linux-x64.zip",
+                "size": 15168468
+              },
+              {
+                "name": "client-win-x64.zip",
+                "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/client-win-x64.zip",
+                "size": 13184771
+              },
+              {
+                "name": "launcher-linux-x64.zip",
+                "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/launcher-linux-x64.zip",
+                "size": 8208420
+              },
+              {
+                "name": "launcher-win-x64.zip",
+                "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/launcher-win-x64.zip",
+                "size": 6836852
+              },
+              {
+                "name": "manifest.json",
+                "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/manifest.json",
+                "size": 1066
+              },
+              {
+                "name": "openac-linux-x64.zip",
+                "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/openac-linux-x64.zip",
+                "size": 23338803
+              },
+              {
+                "name": "openac-win-x64.zip",
+                "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/openac-win-x64.zip",
+                "size": 19979915
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/SHA256SUMS.txt",
+                "size": 600
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
-        "Web"
+        "Web",
+        "PC"
       ],
       "category_evidence": {
         "browser_terms": [
           "webassembly"
         ],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      "build_links": [
+        {
+          "name": "client-linux-x64.zip",
+          "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/client-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "client-win-x64.zip",
+          "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/client-win-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "launcher-linux-x64.zip",
+          "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/launcher-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "launcher-win-x64.zip",
+          "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/launcher-win-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "manifest.json",
+          "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/manifest.json",
+          "type": "other_file"
+        },
+        {
+          "name": "openac-linux-x64.zip",
+          "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/openac-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "openac-win-x64.zip",
+          "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/openac-win-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/eriknihlen/openac-rust/releases/download/v0.1.0/SHA256SUMS.txt",
+          "type": "other_file"
+        }
       ],
-      "relevance_score": 6,
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: port of",
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game, original game, webassembly"
       ]
     },
@@ -684,7 +3233,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T09:55:24.256942+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T23:05:23.901443+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Nitemare-3D (Win16, 1994) to portable C for macOS, Linux, Windows and WebAssembly. Bring your own game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -722,7 +3288,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T09:55:19.967834+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T23:05:25.164954+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
