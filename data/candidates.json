@@ -1,7 +1,530 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-19T23:31:12.955221+00:00",
+  "last_updated": "2026-10-20T09:55:48.682940+00:00",
   "candidates": [
+    {
+      "title": "thekojac304/NewDarkAndroid",
+      "url": "https://github.com/thekojac304/NewDarkAndroid",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-20T03:38:05Z",
+      "summary": "Unofficial Android port of System Shock 2 (NewDark 2.48): touchscreen controls, radial menus, launcher, SCP support. Source only; recompiles YOUR copy of the game. No game files or APKs. Not affiliated with Nightdive or Looking Glass. Topics: android, fan-port, newdark, retro-gaming, sdl2, static-recompilation, system-shock-2, touch-controls",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T09:55:33.979263+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "kjmikkel/horned-rat",
+      "url": "https://github.com/kjmikkel/horned-rat",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-20T07:39:10Z",
+      "summary": "Unofficial patch / future source port for Shadow of the Horned Rat (1995). No game assets included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T09:55:30.231570+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "GabrielBigardi/HarvestMoonBTN-Recomp",
+      "url": "https://github.com/GabrielBigardi/HarvestMoonBTN-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-20T01:10:05Z",
+      "summary": "Native Windows/Linux port of Harvest Moon: Back to Nature (PS1) by static recompilation - bring your own copy, no game files included Topics: harvest-moon, native-port, playstation, ps1, recompilation, sdl2, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T09:55:28.305289+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "ArthurMS15/MajinRecomp",
+      "url": "https://github.com/ArthurMS15/MajinRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-20T01:48:11Z",
+      "summary": "Static recompilation of Majin and the Forsaken Kingdom (Xbox 360) for PC, built with the ReXGlue SDK. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T09:55:28.304330+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "bifftannen1/Red-Faction-Guerrilla-Recomp",
+      "url": "https://github.com/bifftannen1/Red-Faction-Guerrilla-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-20T03:37:41Z",
+      "summary": "Static recompilation of Red Faction Guerrilla Re-Mars-tered (PC) laid out by the game's own PDB. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T09:55:28.303473+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "caiocoswosk/paraglide",
+      "url": "https://github.com/caiocoswosk/paraglide",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-20T03:45:14Z",
+      "summary": "Static recompilation toolchain and runtime for Switch titles (bring your own game dump)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T09:55:28.302675+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "sp00nznet/hover",
+      "url": "https://github.com/sp00nznet/hover",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-20T09:13:07Z",
+      "summary": "Static recompilation of Microsoft Hover! (1995) to native C, on the pcrecomp toolkit. Bring your own copy; no game files or generated source in the repo. Topics: game-preservation, pcrecomp, recompilation, reverse-engineering, static-recompilation, windows-95",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T09:55:28.301700+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "JMPN2712/openkcd",
+      "url": "https://github.com/JMPN2712/openkcd",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-20T05:44:17Z",
+      "summary": "Unofficial open-source web engine for Kingdom Come: Deliverance. Runs in your browser from your own copy of the game. WebGPU + WebAssembly. Topics: browser-game, fan-project, game-engine, kingdom-come-deliverance, open-source-engine, typescript, webassembly, webgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T09:55:24.269870+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "zobithecat/warcraft1-rebirth",
+      "url": "https://github.com/zobithecat/warcraft1-rebirth",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-20T06:12:06Z",
+      "summary": "Personal research: WarCraft: Orcs & Humans (DOS) statically recompiled to native arm64 and WebAssembly. No game files included. Noncommercial (PolyForm NC 1.0.0).",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T09:55:24.268830+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
+    {
+      "title": "doublegate/Rusty2600",
+      "url": "https://github.com/doublegate/Rusty2600",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-20T06:49:45Z",
+      "summary": "[Rusty2600] Cycle-accurate Atari 2600 VCS emulator built in pure Rust — 26-of-26 bankswitch schemes, WebAssembly-ready, an ARM7TDMI Thumb coprocessor interpreter, TAS movie tooling, Lua scripting, and RetroAchievements integration for game preservation. Topics: 6502, 8-bit, atari, atari-2600, bankswitching, cross-platform, cycle-accurate, emulation, emulator, game-preservation, lua, no-std, retro-gaming, retroachievements, rust, tas, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T09:55:24.267312+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: game preservation",
+        "Есть игровые/платформенные признаки: game, webassembly, wasm"
+      ]
+    },
+    {
+      "title": "1homsi/thehumanbox",
+      "url": "https://github.com/1homsi/thehumanbox",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-20T06:52:14Z",
+      "summary": "Free civilization sandbox in your browser. Tribes invent their own languages, cultures and wars, from stone age to computers. Rust → WASM, no server, no LLM. Topics: agent-based-simulation, alife, artificial-life, browser-game, civilization, electron, emergent-behavior, game, open-source-game, procedural-generation, react, rust, rust-gamedev, sandbox, sandbox-game, simulation, wasm, webassembly, worldbuilding",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T09:55:24.265230+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "lelelilo-studios/gamedev-showcase",
+      "url": "https://github.com/lelelilo-studios/gamedev-showcase",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-20T07:44:16Z",
+      "summary": "Ten game-dev tools, each made into an original browser game with the tool, plus the prompt and steps to recreate it. Topics: browser-games, claude-code, game-development, github-pages, physics, procedural-generation, showcase, threejs, webassembly, webgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T09:55:24.263177+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "tre-systems/rowspire",
+      "url": "https://github.com/tre-systems/rowspire",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-20T09:03:58Z",
+      "summary": "Open-source browser strategy game with tactical-search and neural-network AI, built with React, Rust/WASM, Vite, and Cloudflare. Topics: ai-game, alpha-beta-pruning, browser-game, cloudflare-workers, connect-four, mcts, neural-network, pwa, react, rust, strategy-game, typescript, vite, webassembly, zustand",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T09:55:24.261066+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "eriknihlen/openac-rust",
+      "url": "https://github.com/eriknihlen/openac-rust",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-20T09:41:01Z",
+      "summary": "Open-source Asheron's Call client in Rust: the original game's behavior, a modern codebase, WebAssembly plugins. The Rust port of OpenAC.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T09:55:24.257890+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of",
+        "Есть игровые/платформенные признаки: game, original game, webassembly"
+      ]
+    },
+    {
+      "title": "rubymatrix/nitemare3d-recomp",
+      "url": "https://github.com/rubymatrix/nitemare3d-recomp",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-20T09:42:30Z",
+      "summary": "Static recompilation of Nitemare-3D (Win16, 1994) to portable C for macOS, Linux, Windows and WebAssembly. Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T09:55:24.256942+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, windows, linux"
+      ]
+    },
+    {
+      "title": "aigamedevs/awesome-decomp-games",
+      "url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-20T03:50:14Z",
+      "summary": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports. Topics: awesome, awesome-list, decompilation, game-preservation, recompilation, reverse-engineering, source-port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-20T09:55:19.967834+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, source-port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "DocBobert6/madden12-recomp",
       "url": "https://github.com/DocBobert6/madden12-recomp",
@@ -11,7 +534,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T23:30:59.927204+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T09:55:37.320722+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Madden NFL 12 (Xbox 360) statically recompiled to C++ with ReXGlue - game-side source package for developers building an Android port",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +585,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T23:30:57.915250+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T09:55:38.723514+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "An unofficial native PC port of the original Xbox release of The Sims: Bustin' Out (USA), produced by statically recompiling the game's x86 XBE with the XboxXBERecomp SDK. Windows uses Direct3D 12 and XAudio2; Linux is a native Vulkan and SDL3 build, no Wine. No game code or assets: bring your own disc.",
+        "latest_release_url": "https://github.com/abilliontokens/bustinout-recomp/releases/tag/v0.1.0",
+        "latest_release_name": "v0.1.0 - playable on Linux, first Windows binary",
+        "release_assets": [
+          {
+            "name": "SimsBustinOut-linux-x64.tar.zst",
+            "url": "https://github.com/abilliontokens/bustinout-recomp/releases/download/v0.1.0/SimsBustinOut-linux-x64.tar.zst",
+            "size": 10542678
+          },
+          {
+            "name": "SimsBustinOut-win64.zip",
+            "url": "https://github.com/abilliontokens/bustinout-recomp/releases/download/v0.1.0/SimsBustinOut-win64.zip",
+            "size": 6111790
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0 - playable on Linux, first Windows binary",
+            "url": "https://github.com/abilliontokens/bustinout-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-10-19T23:59:36Z",
+            "assets": [
+              {
+                "name": "SimsBustinOut-linux-x64.tar.zst",
+                "url": "https://github.com/abilliontokens/bustinout-recomp/releases/download/v0.1.0/SimsBustinOut-linux-x64.tar.zst",
+                "size": 10542678
+              },
+              {
+                "name": "SimsBustinOut-win64.zip",
+                "url": "https://github.com/abilliontokens/bustinout-recomp/releases/download/v0.1.0/SimsBustinOut-win64.zip",
+                "size": 6111790
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -55,15 +643,28 @@
         "android_terms": [],
         "pc_terms": [
           "windows",
+          "win64",
           "linux",
           "pc port",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SimsBustinOut-linux-x64.tar.zst",
+          "url": "https://github.com/abilliontokens/bustinout-recomp/releases/download/v0.1.0/SimsBustinOut-linux-x64.tar.zst",
+          "type": "other_file"
+        },
+        {
+          "name": "SimsBustinOut-win64.zip",
+          "url": "https://github.com/abilliontokens/bustinout-recomp/releases/download/v0.1.0/SimsBustinOut-win64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -81,7 +682,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T23:30:54.074946+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T09:55:40.123000+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android port of Claw (CrazyHook 1.4.5.4 edition): static recompilation, source code only, no game files included",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -115,7 +733,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T23:30:54.074194+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T09:55:41.502060+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native Windows port of Marvel Nemesis: Rise of the Imperfects via Xbox static recompilation. Graphics options, native PC Settings, local Versus and experimental mods. Built with XboxXBERecomp. Source-only alpha; bring your own game.",
+        "latest_release_url": "https://github.com/15Cyber/marvel-nemesis-recomp/releases/tag/v0.1.0-alpha.1",
+        "latest_release_name": "Alpha 0.1.0 — First public source release",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "Alpha 0.1.0 — First public source release",
+            "url": "https://github.com/15Cyber/marvel-nemesis-recomp/releases/tag/v0.1.0-alpha.1",
+            "published_at": "2026-10-19T19:28:21Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -149,7 +793,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T23:30:54.073385+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T09:55:42.900532+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows port of SoulCalibur (Dreamcast) by static recompilation: 16:9, online versus with rollback netcode. Requires your own legal disc dump; no game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -182,22 +843,71 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T23:30:54.072668+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T09:55:44.333636+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "DBZ Budokai Tenkaichi 4 (BT3 mod) static recompilation with PS2Recomp: native macOS (PCSX2 GS) and browser. No game files: bring your own disc.",
+        "latest_release_url": "https://github.com/recomp-code/dbz-bt4-recomp/releases/tag/v1.0-windows",
+        "latest_release_name": "DBZ BT4 for Windows v1.0 (Beta 14 Rev2)",
+        "release_assets": [
+          {
+            "name": "DBZ_BT4_Windows.zip",
+            "url": "https://github.com/recomp-code/dbz-bt4-recomp/releases/download/v1.0-windows/DBZ_BT4_Windows.zip",
+            "size": 96475792
+          }
+        ],
+        "releases": [
+          {
+            "name": "DBZ BT4 for Windows v1.0 (Beta 14 Rev2)",
+            "url": "https://github.com/recomp-code/dbz-bt4-recomp/releases/tag/v1.0-windows",
+            "published_at": "2026-10-20T02:52:18Z",
+            "assets": [
+              {
+                "name": "DBZ_BT4_Windows.zip",
+                "url": "https://github.com/recomp-code/dbz-bt4-recomp/releases/download/v1.0-windows/DBZ_BT4_Windows.zip",
+                "size": 96475792
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
-        "Web"
+        "Web",
+        "PC"
       ],
       "category_evidence": {
         "browser_terms": [
           "browser"
         ],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "DBZ_BT4_Windows.zip",
+          "url": "https://github.com/recomp-code/dbz-bt4-recomp/releases/download/v1.0-windows/DBZ_BT4_Windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 10,
       "relevance_status": "promising",
@@ -215,7 +925,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T23:30:54.071856+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T09:55:45.772287+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows port of Dead or Alive 2 Ultimate (Xbox), built by static recompilation with a hand-written runtime. Requires your own copy of the game.",
+        "latest_release_url": "https://github.com/NoRain211/doa2u-re/releases/tag/v0.1.1",
+        "latest_release_name": "0.1.1 Alpha (experimental)",
+        "release_assets": [
+          {
+            "name": "DOA2U-0.1.1-Alpha.zip",
+            "url": "https://github.com/NoRain211/doa2u-re/releases/download/v0.1.1/DOA2U-0.1.1-Alpha.zip",
+            "size": 6078607
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.1.1 Alpha (experimental)",
+            "url": "https://github.com/NoRain211/doa2u-re/releases/tag/v0.1.1",
+            "published_at": "2026-10-19T20:37:49Z",
+            "assets": [
+              {
+                "name": "DOA2U-0.1.1-Alpha.zip",
+                "url": "https://github.com/NoRain211/doa2u-re/releases/download/v0.1.1/DOA2U-0.1.1-Alpha.zip",
+                "size": 6078607
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "README media",
+            "url": "https://github.com/NoRain211/doa2u-re/releases/tag/readme-media",
+            "published_at": "2026-10-19T20:13:58Z",
+            "assets": [
+              {
+                "name": "doa2u-logo.png",
+                "url": "https://github.com/NoRain211/doa2u-re/releases/download/readme-media/doa2u-logo.png",
+                "size": 73031
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -228,9 +990,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "DOA2U-0.1.1-Alpha.zip",
+          "url": "https://github.com/NoRain211/doa2u-re/releases/download/v0.1.1/DOA2U-0.1.1-Alpha.zip",
+          "type": "archive"
+        },
+        {
+          "name": "doa2u-logo.png",
+          "url": "https://github.com/NoRain211/doa2u-re/releases/download/readme-media/doa2u-logo.png",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -248,7 +1022,65 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-19T23:30:54.071087+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-20T09:55:47.211993+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native PC port of NBA Hangtime (N64) by static recompilation. Bring your own ROM; no game data included.",
+        "latest_release_url": "https://github.com/8bitninja64/HangtimeRecomp/releases/tag/v0.1.0",
+        "latest_release_name": "HangtimeRecomp v0.1.0 (first public pre-release)",
+        "release_assets": [
+          {
+            "name": "HangtimeRecomp-linux-x86_64-0.1.0.tar.gz",
+            "url": "https://github.com/8bitninja64/HangtimeRecomp/releases/download/v0.1.0/HangtimeRecomp-linux-x86_64-0.1.0.tar.gz",
+            "size": 73111345
+          },
+          {
+            "name": "HangtimeRecomp-win64-0.1.0.zip",
+            "url": "https://github.com/8bitninja64/HangtimeRecomp/releases/download/v0.1.0/HangtimeRecomp-win64-0.1.0.zip",
+            "size": 93702258
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/8bitninja64/HangtimeRecomp/releases/download/v0.1.0/SHA256SUMS.txt",
+            "size": 204
+          }
+        ],
+        "releases": [
+          {
+            "name": "HangtimeRecomp v0.1.0 (first public pre-release)",
+            "url": "https://github.com/8bitninja64/HangtimeRecomp/releases/tag/v0.1.0",
+            "published_at": "2026-10-19T19:54:41Z",
+            "assets": [
+              {
+                "name": "HangtimeRecomp-linux-x86_64-0.1.0.tar.gz",
+                "url": "https://github.com/8bitninja64/HangtimeRecomp/releases/download/v0.1.0/HangtimeRecomp-linux-x86_64-0.1.0.tar.gz",
+                "size": 73111345
+              },
+              {
+                "name": "HangtimeRecomp-win64-0.1.0.zip",
+                "url": "https://github.com/8bitninja64/HangtimeRecomp/releases/download/v0.1.0/HangtimeRecomp-win64-0.1.0.zip",
+                "size": 93702258
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/8bitninja64/HangtimeRecomp/releases/download/v0.1.0/SHA256SUMS.txt",
+                "size": 204
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -257,14 +1089,33 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
+          "win64",
+          "linux",
           "pc port",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "HangtimeRecomp-linux-x86_64-0.1.0.tar.gz",
+          "url": "https://github.com/8bitninja64/HangtimeRecomp/releases/download/v0.1.0/HangtimeRecomp-linux-x86_64-0.1.0.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "HangtimeRecomp-win64-0.1.0.zip",
+          "url": "https://github.com/8bitninja64/HangtimeRecomp/releases/download/v0.1.0/HangtimeRecomp-win64-0.1.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/8bitninja64/HangtimeRecomp/releases/download/v0.1.0/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
