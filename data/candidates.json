@@ -1,7 +1,381 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-20T23:05:26.443850+00:00",
+  "last_updated": "2026-10-21T09:58:55.702453+00:00",
   "candidates": [
+    {
+      "title": "RanggaCasper/ShaolinMonks-Android",
+      "url": "https://github.com/RanggaCasper/ShaolinMonks-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-21T09:11:48Z",
+      "summary": "Unofficial Android (arm64) port of Mortal Kombat: Shaolin Monks (Xbox), statically recompiled with XboxXBE-Recomp. Vulkan renderer, touch controls, gamepad support, optional CRT/scanline filters, FXAA/SSAA and cheats. No game files included — bring your own disc image.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T09:58:40.427526+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "thejunkman9000/TurokEvolutionPC",
+      "url": "https://github.com/thejunkman9000/TurokEvolutionPC",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-21T04:01:42Z",
+      "summary": "Static recompilation of Turok: Evolution (GameCube) to a native Windows/MonoGame game. Bring your own disc image.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T09:58:34.397443+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "secretpray/burnout-revenge",
+      "url": "https://github.com/secretpray/burnout-revenge",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-21T08:27:39Z",
+      "summary": "Unofficial native Burnout Revenge (Xbox 360, USA) port for Apple silicon Macs (macOS 15+). Static recompilation, up to 4K rendering via Vulkan/MoltenVK, controller support and experimental online play. Requires your own USA Xbox 360 ISO; no game data included. Based on SpeedBreaker. Topics: apple-silicon, burnout, burnout-revenge, game-port, macos, metal, moltenvk, native-port, powerpc, racing-game, recompilation, sdl3, static-recompilation, vulkan, xbox-360, xenonrecomp",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T09:58:34.396589+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "trrrrrrrrrree/gaki-kurobikari-recomp",
+      "url": "https://github.com/trrrrrrrrrree/gaki-kurobikari-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-21T08:28:18Z",
+      "summary": "Native PC port of the 3DS game Downtown no Gaki no Tsukai ya Arahende!! Zettai ni Tsukamatte wa Ikenai Gasu Kurobikari Land, made by static recompilation. Keyboard, mouse and gamepad, single-window screen layouts, and a switchable English translation (F8). Requires your own decrypted .3ds.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T09:58:34.395579+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Glasena/dotr-recomp",
+      "url": "https://github.com/Glasena/dotr-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-21T09:51:20Z",
+      "summary": "Static recompilation of Yu-Gi-Oh! The Duelists of the Roses (PS2) with PS2Recomp. No game assets included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T09:58:34.394883+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "stealthmonkey99/arkade-cartridges",
+      "url": "https://github.com/stealthmonkey99/arkade-cartridges",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-21T04:08:55Z",
+      "summary": "Game cartridges for Årkade: TinyGo to WebAssembly, running unmodified on the cabinet and in the browser",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T09:58:30.206475+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "ApisMellow/cuttle-web",
+      "url": "https://github.com/ApisMellow/cuttle-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-21T06:04:05Z",
+      "summary": "Cuttle, the card game, playable in the browser: pass-and-play or two phones. Topics: card-game, cuttle, go, pwa, svelte, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T09:58:30.205352+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, playable, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "pawelchcki/wasmsmac",
+      "url": "https://github.com/pawelchcki/wasmsmac",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-21T08:36:27Z",
+      "summary": "Standalone WebAssembly SMAC reimplementation with original-game behavioral parity tests; downstream sync to pawelchcki/glsmac.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T09:58:30.203737+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: reimplementation",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
+    {
+      "title": "HaakTuah/amarna-letters",
+      "url": "https://github.com/HaakTuah/amarna-letters",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-21T08:52:18Z",
+      "summary": "A strategy game of the seven Great Kings of the Late Bronze Age with no diplomacy rules: every treaty and betrayal is yours, and every word travels with an envoy who may soften it, sell it or lie. Play the kings yourself, watch Claude play them, or mix the two. Runs in the browser on desktop and phone; C# engine, Blazor WebAssembly. Topics: ancient-history, anthropic, blazor-webassembly, bronze-age, browser-game, claude, csharp, diplomacy, dotnet, game-ai, llm, multi-agent, strategy-game, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T09:58:30.202872+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "kenwi/Rayforge",
+      "url": "https://github.com/kenwi/Rayforge",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-21T09:25:47Z",
+      "summary": "Run C# / Raylib games in the browser with Blazor WebAssembly - same game code on desktop Topics: blazor, dotnet, raylib, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T09:58:30.201252+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "deepdeep86/Jump-Super-Stars-PC-Android-Browser-port-",
+      "url": "https://github.com/deepdeep86/Jump-Super-Stars-PC-Android-Browser-port-",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-21T01:11:23Z",
+      "summary": "A static recompilation of the Nintendo DS game *Jump Super Stars*. The game's ARM9 code, its overlays and the ARM7 sound/IO code are translated ahead of time into C++ and run on a reimplementation of the DS hardware (2D and 3D graphics, sound, DMA, timers, game card and save chip, touch screen, RTC). No BIOS or firmware dump is needed.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T09:58:26.115284+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, reimplementation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
     {
       "title": "rudeboymaster33-stack/UAW-Recomp",
       "url": "https://github.com/rudeboymaster33-stack/UAW-Recomp",
@@ -11,7 +385,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T23:05:14.486331+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T09:58:43.488781+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -48,7 +439,74 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T23:05:12.930161+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T09:58:45.294007+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Metal Gear Solid 2 HD (NVIDIA SHIELD) para Android ARM64 — recompilação estática ARM32→ARM64, Adreno e Mali, LSFG, menus em 7 idiomas. Traga sua própria cópia do jogo. / Static recompilation port, bring your own game files.",
+        "latest_release_url": "https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android/releases/tag/beta2",
+        "latest_release_name": "[BETA] Metal Gear 2 Sons Of Liberty For Android V2",
+        "release_assets": [
+          {
+            "name": "MGS2-ARM64-Mali-v2.apk",
+            "url": "https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android/releases/download/beta2/MGS2-ARM64-Mali-v2.apk",
+            "size": 32486856
+          },
+          {
+            "name": "MGS2-ARM64_SNAPDRAGON-v2.apk",
+            "url": "https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android/releases/download/beta2/MGS2-ARM64_SNAPDRAGON-v2.apk",
+            "size": 32548296
+          }
+        ],
+        "releases": [
+          {
+            "name": "[BETA] Metal Gear 2 Sons Of Liberty For Android V2",
+            "url": "https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android/releases/tag/beta2",
+            "published_at": "2026-10-21T04:58:21Z",
+            "assets": [
+              {
+                "name": "MGS2-ARM64-Mali-v2.apk",
+                "url": "https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android/releases/download/beta2/MGS2-ARM64-Mali-v2.apk",
+                "size": 32486856
+              },
+              {
+                "name": "MGS2-ARM64_SNAPDRAGON-v2.apk",
+                "url": "https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android/releases/download/beta2/MGS2-ARM64_SNAPDRAGON-v2.apk",
+                "size": 32548296
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "[BETA] Metal Gear 2 Sons Of Liberty For Android",
+            "url": "https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android/releases/tag/beta",
+            "published_at": "2026-10-20T14:28:14Z",
+            "assets": [
+              {
+                "name": "MGS2-ARM64-Mali.apk",
+                "url": "https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android/releases/download/beta/MGS2-ARM64-Mali.apk",
+                "size": 31880660
+              },
+              {
+                "name": "MGS2-ARM64_SNAPDRAGON.apk",
+                "url": "https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android/releases/download/beta/MGS2-ARM64_SNAPDRAGON.apk",
+                "size": 31950292
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -61,9 +519,31 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "MGS2-ARM64-Mali-v2.apk",
+          "url": "https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android/releases/download/beta2/MGS2-ARM64-Mali-v2.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "MGS2-ARM64_SNAPDRAGON-v2.apk",
+          "url": "https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android/releases/download/beta2/MGS2-ARM64_SNAPDRAGON-v2.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "MGS2-ARM64-Mali.apk",
+          "url": "https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android/releases/download/beta/MGS2-ARM64-Mali.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "MGS2-ARM64_SNAPDRAGON.apk",
+          "url": "https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android/releases/download/beta/MGS2-ARM64_SNAPDRAGON.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -81,7 +561,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T23:05:12.928253+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T09:58:46.887557+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "totk android port (wip)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -115,7 +612,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T23:05:11.151365+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T09:58:48.304372+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "An unofficial native PC port of the original Xbox release of Fuzion Frenzy (USA), produced by statically recompiling the game's x86 XBE with the XboxXBERecomp SDK. Windows uses Direct3D 12 and XAudio2; Linux is a native Vulkan and SDL3 build, no Wine. No game code or assets: bring your own disc.",
+        "latest_release_url": "https://github.com/abilliontokens/fuzionfrenzy-recomp/releases/tag/v0.1.0",
+        "latest_release_name": "v0.1.0 - playable on Linux, first Windows binary",
+        "release_assets": [
+          {
+            "name": "FuzionFrenzy-linux-x64.tar.zst",
+            "url": "https://github.com/abilliontokens/fuzionfrenzy-recomp/releases/download/v0.1.0/FuzionFrenzy-linux-x64.tar.zst",
+            "size": 9745809
+          },
+          {
+            "name": "FuzionFrenzy-win64.zip",
+            "url": "https://github.com/abilliontokens/fuzionfrenzy-recomp/releases/download/v0.1.0/FuzionFrenzy-win64.zip",
+            "size": 5696493
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0 - playable on Linux, first Windows binary",
+            "url": "https://github.com/abilliontokens/fuzionfrenzy-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-10-20T12:16:42Z",
+            "assets": [
+              {
+                "name": "FuzionFrenzy-linux-x64.tar.zst",
+                "url": "https://github.com/abilliontokens/fuzionfrenzy-recomp/releases/download/v0.1.0/FuzionFrenzy-linux-x64.tar.zst",
+                "size": 9745809
+              },
+              {
+                "name": "FuzionFrenzy-win64.zip",
+                "url": "https://github.com/abilliontokens/fuzionfrenzy-recomp/releases/download/v0.1.0/FuzionFrenzy-win64.zip",
+                "size": 5696493
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -125,15 +670,28 @@
         "android_terms": [],
         "pc_terms": [
           "windows",
+          "win64",
           "linux",
           "pc port",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "FuzionFrenzy-linux-x64.tar.zst",
+          "url": "https://github.com/abilliontokens/fuzionfrenzy-recomp/releases/download/v0.1.0/FuzionFrenzy-linux-x64.tar.zst",
+          "type": "other_file"
+        },
+        {
+          "name": "FuzionFrenzy-win64.zip",
+          "url": "https://github.com/abilliontokens/fuzionfrenzy-recomp/releases/download/v0.1.0/FuzionFrenzy-win64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -151,7 +709,109 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T23:05:07.587263+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T09:58:49.793949+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Native PC port of Darkwatch (Xbox, 2005) by static recompilation. Direct3D 12, XAudio2, PC settings menu, keyboard and mouse. Windows first; bring your own game.",
+        "latest_release_url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/tag/v0.5.1",
+        "latest_release_name": "v0.5.1 beta - field of view fix",
+        "release_assets": [
+          {
+            "name": "ArizonaVampRecomp-v0.5.1-windows-x64.zip",
+            "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/download/v0.5.1/ArizonaVampRecomp-v0.5.1-windows-x64.zip",
+            "size": 60832429
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.5.1 beta - field of view fix",
+            "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/tag/v0.5.1",
+            "published_at": "2026-10-21T08:37:24Z",
+            "assets": [
+              {
+                "name": "ArizonaVampRecomp-v0.5.1-windows-x64.zip",
+                "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/download/v0.5.1/ArizonaVampRecomp-v0.5.1-windows-x64.zip",
+                "size": 60832429
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.5.0 beta - two-player co-op, button prompts, mouse menus, MSAA",
+            "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/tag/v0.5.0",
+            "published_at": "2026-10-20T23:23:45Z",
+            "assets": [
+              {
+                "name": "ArizonaVampRecomp-v0.5.0-windows-x64.zip",
+                "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/download/v0.5.0/ArizonaVampRecomp-v0.5.0-windows-x64.zip",
+                "size": 59024732
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.2.0 beta 4 - movie crash fix",
+            "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/tag/v0.2.0-beta.4",
+            "published_at": "2026-10-20T20:00:48Z",
+            "assets": [
+              {
+                "name": "ArizonaVampRecomp-v0.2.0-beta.4-windows-x64.zip",
+                "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/download/v0.2.0-beta.4/ArizonaVampRecomp-v0.2.0-beta.4-windows-x64.zip",
+                "size": 59007890
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.2.0 beta 3 - shader pre-compile",
+            "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/tag/v0.2.0-beta.3",
+            "published_at": "2026-10-20T17:23:50Z",
+            "assets": [
+              {
+                "name": "ArizonaVampRecomp-v0.2.0-beta.3-windows-x64.zip",
+                "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/download/v0.2.0-beta.3/ArizonaVampRecomp-v0.2.0-beta.3-windows-x64.zip",
+                "size": 59007931
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.2.0 beta 2 - first downloadable beta",
+            "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/tag/v0.2.0-beta.2",
+            "published_at": "2026-10-20T15:41:06Z",
+            "assets": [
+              {
+                "name": "ArizonaVampRecomp-v0.2.0-beta.2-windows-x64.zip",
+                "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/download/v0.2.0-beta.2/ArizonaVampRecomp-v0.2.0-beta.2-windows-x64.zip",
+                "size": 58991821
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.2.0 beta 1 - first public beta",
+            "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/tag/v0.2.0-beta.1",
+            "published_at": "2026-10-20T14:39:14Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -166,9 +826,36 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "ArizonaVampRecomp-v0.5.1-windows-x64.zip",
+          "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/download/v0.5.1/ArizonaVampRecomp-v0.5.1-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ArizonaVampRecomp-v0.5.0-windows-x64.zip",
+          "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/download/v0.5.0/ArizonaVampRecomp-v0.5.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ArizonaVampRecomp-v0.2.0-beta.4-windows-x64.zip",
+          "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/download/v0.2.0-beta.4/ArizonaVampRecomp-v0.2.0-beta.4-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ArizonaVampRecomp-v0.2.0-beta.3-windows-x64.zip",
+          "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/download/v0.2.0-beta.3/ArizonaVampRecomp-v0.2.0-beta.3-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ArizonaVampRecomp-v0.2.0-beta.2-windows-x64.zip",
+          "url": "https://github.com/Clergyman0013/arizona-vamp-recomp/releases/download/v0.2.0-beta.2/ArizonaVampRecomp-v0.2.0-beta.2-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -186,7 +873,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T23:05:07.586076+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T09:58:51.306175+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Burnout 3: Takedown on PlayStation 5: a port of Takedawn, the static recompilation of the original Xbox game. Bring your own USA disc.",
+        "latest_release_url": "https://github.com/griches/PS5_Burnout3/releases/tag/v0.2.1",
+        "latest_release_name": "v0.2.1",
+        "release_assets": [
+          {
+            "name": "Burnout3-PS5-0.2.1.zip",
+            "url": "https://github.com/griches/PS5_Burnout3/releases/download/v0.2.1/Burnout3-PS5-0.2.1.zip",
+            "size": 38576327
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.2.1",
+            "url": "https://github.com/griches/PS5_Burnout3/releases/tag/v0.2.1",
+            "published_at": "2026-10-20T21:09:05Z",
+            "assets": [
+              {
+                "name": "Burnout3-PS5-0.2.1.zip",
+                "url": "https://github.com/griches/PS5_Burnout3/releases/download/v0.2.1/Burnout3-PS5-0.2.1.zip",
+                "size": 38576327
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Burnout 3 for PS5 v0.2.0",
+            "url": "https://github.com/griches/PS5_Burnout3/releases/tag/v0.2.0",
+            "published_at": "2026-10-20T19:55:44Z",
+            "assets": [
+              {
+                "name": "Burnout3-PS5-0.2.0.zip",
+                "url": "https://github.com/griches/PS5_Burnout3/releases/download/v0.2.0/Burnout3-PS5-0.2.0.zip",
+                "size": 38567713
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -195,8 +934,21 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "Burnout3-PS5-0.2.1.zip",
+          "url": "https://github.com/griches/PS5_Burnout3/releases/download/v0.2.1/Burnout3-PS5-0.2.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Burnout3-PS5-0.2.0.zip",
+          "url": "https://github.com/griches/PS5_Burnout3/releases/download/v0.2.0/Burnout3-PS5-0.2.0.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -213,7 +965,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T23:05:07.584920+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T09:58:52.766645+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of WWE SmackDown vs. Raw 2007 (Xbox 360) for Windows, plus Linux and Steam Deck through Proton: static recompilation + native D3D12/Vulkan renderer, 60 fps, up to 4K. Requires your own copy of the game; no game files included, no piracy.",
+        "latest_release_url": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP/releases/tag/v1.0.1",
+        "latest_release_name": "v1.0.1: Videos fixed",
+        "release_assets": [
+          {
+            "name": "SVR2007-NATIVE.zip",
+            "url": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP/releases/download/v1.0.1/SVR2007-NATIVE.zip",
+            "size": 43215646
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.0.1: Videos fixed",
+            "url": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP/releases/tag/v1.0.1",
+            "published_at": "2026-10-21T02:39:11Z",
+            "assets": [
+              {
+                "name": "SVR2007-NATIVE.zip",
+                "url": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP/releases/download/v1.0.1/SVR2007-NATIVE.zip",
+                "size": 43215646
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0.0: SmackDown vs. Raw 2007 on PC and Steam Deck",
+            "url": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP/releases/tag/v1.0.0",
+            "published_at": "2026-10-20T21:51:13Z",
+            "assets": [
+              {
+                "name": "SVR2007-NATIVE.zip",
+                "url": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP/releases/download/v1.0.0/SVR2007-NATIVE.zip",
+                "size": 43215169
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -229,9 +1033,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SVR2007-NATIVE.zip",
+          "url": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP/releases/download/v1.0.1/SVR2007-NATIVE.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SVR2007-NATIVE.zip",
+          "url": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP/releases/download/v1.0.0/SVR2007-NATIVE.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -249,7 +1065,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-20T23:05:07.583744+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T09:58:54.238750+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "DesertDroid — engine que roda Fallout: New Vegas nativamente no Android (ARM64) via static recompilation bring-your-own-game. Sem arquivos do jogo aqui.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
