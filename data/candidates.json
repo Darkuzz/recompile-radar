@@ -1,7 +1,40 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-21T17:00:59.250523+00:00",
+  "last_updated": "2026-10-21T23:09:22.635145+00:00",
   "candidates": [
+    {
+      "title": "nevihub/vn-ports-workflow",
+      "url": "https://github.com/nevihub/vn-ports-workflow",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-21T22:29:54Z",
+      "summary": "Portable visual-novel browser-port workflow: stages, rules, board, templates. No game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T23:09:04.813775+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "deivid22srk/MacNativeGames-Android",
       "url": "https://github.com/deivid22srk/MacNativeGames-Android",
@@ -11,7 +44,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-21T17:00:44.094481+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T23:09:12.318490+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Port Android (APK) do MacNativeGames - sem conteudo do jogo",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +95,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-21T17:00:44.093670+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T23:09:13.592172+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native Android (arm64) port of Forza Motorsport (Xbox, 2005) via XboxXBE-Recomp. No game assets included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -78,7 +145,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-21T17:00:40.091088+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T23:09:14.828116+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "In-progress native Windows source port of Doko Demo Issyo Portable. User-supplied game data required.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -111,7 +195,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-21T17:00:37.966110+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T23:09:16.069048+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native Windows port of Conker: Live & Reloaded (Xbox) by static recompilation. Portage PC natif et non officiel. Game files not included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -144,7 +245,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-21T17:00:37.964967+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T23:09:17.343184+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows port of the Philips CD-i game Mutant Rampage: Bodyslam by static recompilation (68000 to C), with FMV cartridge emulation, run-ahead, quicksaves and an HD build",
+        "latest_release_url": "https://github.com/tools81/mutant-rampage-bodyslam-static-recomp/releases/tag/v1.0.0",
+        "latest_release_name": "Mutant Rampage: Bodyslam 1.0.0",
+        "release_assets": [
+          {
+            "name": "MutantRampageBodyslam-1.0.0-win64-portable.zip",
+            "url": "https://github.com/tools81/mutant-rampage-bodyslam-static-recomp/releases/download/v1.0.0/MutantRampageBodyslam-1.0.0-win64-portable.zip",
+            "size": 2163868
+          },
+          {
+            "name": "MutantRampageBodyslam-1.0.0-win64-setup.exe",
+            "url": "https://github.com/tools81/mutant-rampage-bodyslam-static-recomp/releases/download/v1.0.0/MutantRampageBodyslam-1.0.0-win64-setup.exe",
+            "size": 3240622
+          }
+        ],
+        "releases": [
+          {
+            "name": "Mutant Rampage: Bodyslam 1.0.0",
+            "url": "https://github.com/tools81/mutant-rampage-bodyslam-static-recomp/releases/tag/v1.0.0",
+            "published_at": "2026-10-21T13:11:56Z",
+            "assets": [
+              {
+                "name": "MutantRampageBodyslam-1.0.0-win64-portable.zip",
+                "url": "https://github.com/tools81/mutant-rampage-bodyslam-static-recomp/releases/download/v1.0.0/MutantRampageBodyslam-1.0.0-win64-portable.zip",
+                "size": 2163868
+              },
+              {
+                "name": "MutantRampageBodyslam-1.0.0-win64-setup.exe",
+                "url": "https://github.com/tools81/mutant-rampage-bodyslam-static-recomp/releases/download/v1.0.0/MutantRampageBodyslam-1.0.0-win64-setup.exe",
+                "size": 3240622
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -153,13 +302,26 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
-          "windows"
+          "windows",
+          "win64"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "MutantRampageBodyslam-1.0.0-win64-portable.zip",
+          "url": "https://github.com/tools81/mutant-rampage-bodyslam-static-recomp/releases/download/v1.0.0/MutantRampageBodyslam-1.0.0-win64-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MutantRampageBodyslam-1.0.0-win64-setup.exe",
+          "url": "https://github.com/tools81/mutant-rampage-bodyslam-static-recomp/releases/download/v1.0.0/MutantRampageBodyslam-1.0.0-win64-setup.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -177,7 +339,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-21T17:00:37.964048+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T23:09:18.736449+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of the Philips CD-i game Link: The Faces of Evil for Windows (bring your own disc image)",
+        "latest_release_url": "https://github.com/tools81/link-faces-of-evil-static-recomp/releases/tag/v1.0.0",
+        "latest_release_name": "v1.0.0",
+        "release_assets": [
+          {
+            "name": "LinkFacesOfEvil-v1.0.0-portable.zip",
+            "url": "https://github.com/tools81/link-faces-of-evil-static-recomp/releases/download/v1.0.0/LinkFacesOfEvil-v1.0.0-portable.zip",
+            "size": 2318722
+          },
+          {
+            "name": "LinkFacesOfEvil-v1.0.0-setup.exe",
+            "url": "https://github.com/tools81/link-faces-of-evil-static-recomp/releases/download/v1.0.0/LinkFacesOfEvil-v1.0.0-setup.exe",
+            "size": 3210018
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.0.0",
+            "url": "https://github.com/tools81/link-faces-of-evil-static-recomp/releases/tag/v1.0.0",
+            "published_at": "2026-10-21T13:31:31Z",
+            "assets": [
+              {
+                "name": "LinkFacesOfEvil-v1.0.0-portable.zip",
+                "url": "https://github.com/tools81/link-faces-of-evil-static-recomp/releases/download/v1.0.0/LinkFacesOfEvil-v1.0.0-portable.zip",
+                "size": 2318722
+              },
+              {
+                "name": "LinkFacesOfEvil-v1.0.0-setup.exe",
+                "url": "https://github.com/tools81/link-faces-of-evil-static-recomp/releases/download/v1.0.0/LinkFacesOfEvil-v1.0.0-setup.exe",
+                "size": 3210018
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -190,9 +400,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "LinkFacesOfEvil-v1.0.0-portable.zip",
+          "url": "https://github.com/tools81/link-faces-of-evil-static-recomp/releases/download/v1.0.0/LinkFacesOfEvil-v1.0.0-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LinkFacesOfEvil-v1.0.0-setup.exe",
+          "url": "https://github.com/tools81/link-faces-of-evil-static-recomp/releases/download/v1.0.0/LinkFacesOfEvil-v1.0.0-setup.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -210,7 +432,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-21T17:00:37.963054+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T23:09:20.037015+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Sources-only build kit: static-recompilation Android arm64 port of God of War II (USA). No game assets, ISO, generated code, or APK included.",
+        "latest_release_url": "https://github.com/NathanKanaeru/gow2-android-build-kit/releases/tag/v0.1.0",
+        "latest_release_name": "v0.1.0 - initial build kit",
+        "release_assets": [
+          {
+            "name": "gow2-android-build-kit.zip",
+            "url": "https://github.com/NathanKanaeru/gow2-android-build-kit/releases/download/v0.1.0/gow2-android-build-kit.zip",
+            "size": 183929
+          },
+          {
+            "name": "gow2-android-build-kit.zip.sha256",
+            "url": "https://github.com/NathanKanaeru/gow2-android-build-kit/releases/download/v0.1.0/gow2-android-build-kit.zip.sha256",
+            "size": 94
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0 - initial build kit",
+            "url": "https://github.com/NathanKanaeru/gow2-android-build-kit/releases/tag/v0.1.0",
+            "published_at": "2026-10-21T14:32:17Z",
+            "assets": [
+              {
+                "name": "gow2-android-build-kit.zip",
+                "url": "https://github.com/NathanKanaeru/gow2-android-build-kit/releases/download/v0.1.0/gow2-android-build-kit.zip",
+                "size": 183929
+              },
+              {
+                "name": "gow2-android-build-kit.zip.sha256",
+                "url": "https://github.com/NathanKanaeru/gow2-android-build-kit/releases/download/v0.1.0/gow2-android-build-kit.zip.sha256",
+                "size": 94
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -223,9 +493,21 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "gow2-android-build-kit.zip",
+          "url": "https://github.com/NathanKanaeru/gow2-android-build-kit/releases/download/v0.1.0/gow2-android-build-kit.zip",
+          "type": "archive"
+        },
+        {
+          "name": "gow2-android-build-kit.zip.sha256",
+          "url": "https://github.com/NathanKanaeru/gow2-android-build-kit/releases/download/v0.1.0/gow2-android-build-kit.zip.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -243,7 +525,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-21T17:00:37.961739+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T23:09:21.372954+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Fan static recompilation of Yo-kai Watch 4++ (Switch) to native Windows/Linux. ARM64 → C, NVN on Vulkan. No game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
