@@ -1,16 +1,50 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-21T09:58:55.702453+00:00",
+  "last_updated": "2026-10-21T17:00:59.250523+00:00",
   "candidates": [
     {
-      "title": "RanggaCasper/ShaolinMonks-Android",
-      "url": "https://github.com/RanggaCasper/ShaolinMonks-Android",
+      "title": "deivid22srk/MacNativeGames-Android",
+      "url": "https://github.com/deivid22srk/MacNativeGames-Android",
       "source_name": "GitHub: Android ports",
-      "published": "2026-10-21T09:11:48Z",
-      "summary": "Unofficial Android (arm64) port of Mortal Kombat: Shaolin Monks (Xbox), statically recompiled with XboxXBE-Recomp. Vulkan renderer, touch controls, gamepad support, optional CRT/scanline filters, FXAA/SSAA and cheats. No game files included — bring your own disc image.",
+      "published": "2026-10-21T12:38:03Z",
+      "summary": "Port Android (APK) do MacNativeGames - sem conteudo do jogo",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-21T09:58:40.427526+00:00",
+      "found_at": "2026-10-21T17:00:44.094481+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: android, apk"
+      ]
+    },
+    {
+      "title": "deivid22srk/Forza-Android",
+      "url": "https://github.com/deivid22srk/Forza-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-21T14:39:47Z",
+      "summary": "Unofficial native Android (arm64) port of Forza Motorsport (Xbox, 2005) via XboxXBE-Recomp. No game assets included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T17:00:44.093670+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -28,6 +62,418 @@
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
       ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Senya01/dokodemo-native",
+      "url": "https://github.com/Senya01/dokodemo-native",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-21T13:39:32Z",
+      "summary": "In-progress native Windows source port of Doko Demo Issyo Portable. User-supplied game data required.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T17:00:40.091088+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "yacineolivier-maker/ConkerLR-Recomp",
+      "url": "https://github.com/yacineolivier-maker/ConkerLR-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-21T12:40:15Z",
+      "summary": "Unofficial native Windows port of Conker: Live & Reloaded (Xbox) by static recompilation. Portage PC natif et non officiel. Game files not included. Topics: conker, conker-live-and-reloaded, decompilation, direct3d12, pc-port, recompilation, static-recompilation, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T17:00:37.966110+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "tools81/mutant-rampage-bodyslam-static-recomp",
+      "url": "https://github.com/tools81/mutant-rampage-bodyslam-static-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-21T13:11:53Z",
+      "summary": "Native Windows port of the Philips CD-i game Mutant Rampage: Bodyslam by static recompilation (68000 to C), with FMV cartridge emulation, run-ahead, quicksaves and an HD build",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T17:00:37.964967+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "tools81/link-faces-of-evil-static-recomp",
+      "url": "https://github.com/tools81/link-faces-of-evil-static-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-21T13:31:30Z",
+      "summary": "Static recompilation of the Philips CD-i game Link: The Faces of Evil for Windows (bring your own disc image)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T17:00:37.964048+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "NathanKanaeru/gow2-android-build-kit",
+      "url": "https://github.com/NathanKanaeru/gow2-android-build-kit",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-21T14:32:16Z",
+      "summary": "Sources-only build kit: static-recompilation Android arm64 port of God of War II (USA). No game assets, ISO, generated code, or APK included. Topics: android, arm64, god-of-war-2, recompilation, sdl3, vulkan, wgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T17:00:37.963054+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "ILFforever/YW4Recomp",
+      "url": "https://github.com/ILFforever/YW4Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-21T15:48:26Z",
+      "summary": "Fan static recompilation of Yo-kai Watch 4++ (Switch) to native Windows/Linux. ARM64 → C, NVN on Vulkan. No game data included. Topics: aarch64, decompilation, nintendo-switch, recompilation, reverse-engineering, static-recompilation, vulkan, yokai-watch",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T17:00:37.961739+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "malinkin-s/mgrr-nx",
+      "url": "https://github.com/malinkin-s/mgrr-nx",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-21T16:39:17Z",
+      "summary": "Unofficial native Nintendo Switch port of Metal Gear Rising: Revengeance (Xbox 360) by static recompilation. Work in progress, no game data. Topics: deko3d, homebrew, nintendo-switch, static-recompilation, xbox360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T17:00:37.960486+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch",
+          "switch port"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "EvilNathan/gow2-android-build-kit",
+      "url": "https://github.com/EvilNathan/gow2-android-build-kit",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-21T16:54:10Z",
+      "summary": "Sources-only build kit: static-recompilation Android arm64 port of God of War II (USA). No game assets, ISO, generated code, or APK included. Topics: android, arm64, god-of-war-2, recompilation, sdl3, vulkan, wgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T17:00:37.959379+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "majonesmax/haunted-house-remastered-web",
+      "url": "https://github.com/majonesmax/haunted-house-remastered-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-21T13:03:38Z",
+      "summary": "Haunted House remastered in the browser: the Stella emulator as WebAssembly, running Atari 2600 Haunted House as an NES and an SNES game in a web page. Bring your own ROM.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T17:00:33.711238+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, rom, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "Skywalker1910/alien-invasion",
+      "url": "https://github.com/Skywalker1910/alien-invasion",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-21T16:13:55Z",
+      "summary": "A Pygame space shooter I wrote while learning Python, now my weekend project for improving it with AI coding agents Topics: 2d-game, ai-assisted-development, arcade-game, browser-game, game, hobby-project, leaderboard, pygame, pygame-ce, pygbag, python, python-crash-course, retro-game, shoot-em-up, space-shooter, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T17:00:33.706472+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "RanggaCasper/ShaolinMonks-Android",
+      "url": "https://github.com/RanggaCasper/ShaolinMonks-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-21T09:11:48Z",
+      "summary": "Unofficial Android (arm64) port of Mortal Kombat: Shaolin Monks (Xbox), statically recompiled with XboxXBE-Recomp. Vulkan renderer, touch controls, gamepad support, optional CRT/scanline filters, FXAA/SSAA and cheats. No game files included — bring your own disc image.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-21T09:58:40.427526+00:00",
+      "check": {
+        "checked_at": "2026-10-21T17:00:47.356403+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial Android (arm64) port of Mortal Kombat: Shaolin Monks (Xbox), statically recompiled with XboxXBE-Recomp. Vulkan renderer, touch controls, gamepad support, optional CRT/scanline filters, FXAA/SSAA and cheats. No game files included — bring your own disc image.",
+        "latest_release_url": "https://github.com/RanggaCasper/ShaolinMonks-Android/releases/tag/v0.2",
+        "latest_release_name": "Shaolin Monks for Android v0.2",
+        "release_assets": [
+          {
+            "name": "ShaolinMonks-0.2.apk",
+            "url": "https://github.com/RanggaCasper/ShaolinMonks-Android/releases/download/v0.2/ShaolinMonks-0.2.apk",
+            "size": 31925348
+          }
+        ],
+        "releases": [
+          {
+            "name": "Shaolin Monks for Android v0.2",
+            "url": "https://github.com/RanggaCasper/ShaolinMonks-Android/releases/tag/v0.2",
+            "published_at": "2026-10-21T04:54:59Z",
+            "assets": [
+              {
+                "name": "ShaolinMonks-0.2.apk",
+                "url": "https://github.com/RanggaCasper/ShaolinMonks-Android/releases/download/v0.2/ShaolinMonks-0.2.apk",
+                "size": 31925348
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "ShaolinMonks-0.2.apk",
+          "url": "https://github.com/RanggaCasper/ShaolinMonks-Android/releases/download/v0.2/ShaolinMonks-0.2.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -44,7 +490,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-21T09:58:34.397443+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T17:00:48.867033+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Turok: Evolution (GameCube) to a native Windows/MonoGame game. Bring your own disc image.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -77,7 +540,491 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-21T09:58:34.396589+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T17:00:50.329265+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native Burnout Revenge (Xbox 360, USA) port for Apple silicon Macs (macOS 15+). Static recompilation, up to 4K rendering via Vulkan/MoltenVK, controller support and experimental online play. Requires your own USA Xbox 360 ISO; no game data included. Based on SpeedBreaker.",
+        "latest_release_url": "https://github.com/secretpray/burnout-revenge/releases/tag/v0.1.18",
+        "latest_release_name": "v0.1.18 — Online compatibility fixes",
+        "release_assets": [
+          {
+            "name": "BurnoutRevenge-0.1.18-macos.dmg",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-0.1.18-macos.dmg",
+            "size": 22512253
+          },
+          {
+            "name": "BurnoutRevenge-0.1.18-macos.dmg.sha256",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-0.1.18-macos.dmg.sha256",
+            "size": 98
+          },
+          {
+            "name": "BurnoutRevenge-0.1.18-third-party-source.tar.xz",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-0.1.18-third-party-source.tar.xz",
+            "size": 11390024
+          },
+          {
+            "name": "BurnoutRevenge-0.1.18-third-party-source.tar.xz.sha256",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-0.1.18-third-party-source.tar.xz.sha256",
+            "size": 114
+          },
+          {
+            "name": "BurnoutRevenge-100-percent-save.zip",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-100-percent-save.zip",
+            "size": 2790
+          },
+          {
+            "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-100-percent-save.zip.sha256",
+            "size": 102
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/SHA256SUMS",
+            "size": 314
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.18 — Online compatibility fixes",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/tag/v0.1.18",
+            "published_at": "2026-10-21T13:31:00Z",
+            "assets": [
+              {
+                "name": "BurnoutRevenge-0.1.18-macos.dmg",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-0.1.18-macos.dmg",
+                "size": 22512253
+              },
+              {
+                "name": "BurnoutRevenge-0.1.18-macos.dmg.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-0.1.18-macos.dmg.sha256",
+                "size": 98
+              },
+              {
+                "name": "BurnoutRevenge-0.1.18-third-party-source.tar.xz",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-0.1.18-third-party-source.tar.xz",
+                "size": 11390024
+              },
+              {
+                "name": "BurnoutRevenge-0.1.18-third-party-source.tar.xz.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-0.1.18-third-party-source.tar.xz.sha256",
+                "size": 114
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-100-percent-save.zip",
+                "size": 2790
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-100-percent-save.zip.sha256",
+                "size": 102
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/SHA256SUMS",
+                "size": 314
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.17 — Ranked matches",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/tag/v0.1.17",
+            "published_at": "2026-10-21T10:45:06Z",
+            "assets": [
+              {
+                "name": "BurnoutRevenge-0.1.17-macos.dmg",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.17/BurnoutRevenge-0.1.17-macos.dmg",
+                "size": 22512056
+              },
+              {
+                "name": "BurnoutRevenge-0.1.17-macos.dmg.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.17/BurnoutRevenge-0.1.17-macos.dmg.sha256",
+                "size": 98
+              },
+              {
+                "name": "BurnoutRevenge-0.1.17-third-party-source.tar.xz",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.17/BurnoutRevenge-0.1.17-third-party-source.tar.xz",
+                "size": 11390036
+              },
+              {
+                "name": "BurnoutRevenge-0.1.17-third-party-source.tar.xz.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.17/BurnoutRevenge-0.1.17-third-party-source.tar.xz.sha256",
+                "size": 114
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.17/BurnoutRevenge-100-percent-save.zip",
+                "size": 2790
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.17/BurnoutRevenge-100-percent-save.zip.sha256",
+                "size": 102
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.17/SHA256SUMS",
+                "size": 314
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Burnout Revenge v0.1.16 — online play",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/tag/v0.1.16",
+            "published_at": "2026-10-20T19:28:11Z",
+            "assets": [
+              {
+                "name": "BurnoutRevenge-0.1.16-macos.dmg",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.16/BurnoutRevenge-0.1.16-macos.dmg",
+                "size": 22511715
+              },
+              {
+                "name": "BurnoutRevenge-0.1.16-macos.dmg.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.16/BurnoutRevenge-0.1.16-macos.dmg.sha256",
+                "size": 98
+              },
+              {
+                "name": "BurnoutRevenge-0.1.16-third-party-source.tar.xz",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.16/BurnoutRevenge-0.1.16-third-party-source.tar.xz",
+                "size": 11390028
+              },
+              {
+                "name": "BurnoutRevenge-0.1.16-third-party-source.tar.xz.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.16/BurnoutRevenge-0.1.16-third-party-source.tar.xz.sha256",
+                "size": 114
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.16/BurnoutRevenge-100-percent-save.zip",
+                "size": 2790
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.16/BurnoutRevenge-100-percent-save.zip.sha256",
+                "size": 102
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.16/SHA256SUMS",
+                "size": 314
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Burnout Revenge v0.1.15 — vehicle detail, split screen for two, crash-safe saves",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/tag/v0.1.15",
+            "published_at": "2026-10-19T08:56:38Z",
+            "assets": [
+              {
+                "name": "BurnoutRevenge-0.1.15-macos.dmg",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.15/BurnoutRevenge-0.1.15-macos.dmg",
+                "size": 22292952
+              },
+              {
+                "name": "BurnoutRevenge-0.1.15-macos.dmg.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.15/BurnoutRevenge-0.1.15-macos.dmg.sha256",
+                "size": 98
+              },
+              {
+                "name": "BurnoutRevenge-0.1.15-third-party-source.tar.xz",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.15/BurnoutRevenge-0.1.15-third-party-source.tar.xz",
+                "size": 11390020
+              },
+              {
+                "name": "BurnoutRevenge-0.1.15-third-party-source.tar.xz.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.15/BurnoutRevenge-0.1.15-third-party-source.tar.xz.sha256",
+                "size": 114
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.15/BurnoutRevenge-100-percent-save.zip",
+                "size": 2790
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.15/BurnoutRevenge-100-percent-save.zip.sha256",
+                "size": 102
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.15/SHA256SUMS",
+                "size": 314
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Burnout Revenge v0.1.14 — steering wheels, the HUD at a taller screen's edges",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/tag/v0.1.14",
+            "published_at": "2026-10-19T07:08:12Z",
+            "assets": [
+              {
+                "name": "BurnoutRevenge-0.1.14-macos.dmg",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.14/BurnoutRevenge-0.1.14-macos.dmg",
+                "size": 20106905
+              },
+              {
+                "name": "BurnoutRevenge-0.1.14-macos.dmg.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.14/BurnoutRevenge-0.1.14-macos.dmg.sha256",
+                "size": 98
+              },
+              {
+                "name": "BurnoutRevenge-0.1.14-third-party-source.tar.xz",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.14/BurnoutRevenge-0.1.14-third-party-source.tar.xz",
+                "size": 11390028
+              },
+              {
+                "name": "BurnoutRevenge-0.1.14-third-party-source.tar.xz.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.14/BurnoutRevenge-0.1.14-third-party-source.tar.xz.sha256",
+                "size": 114
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.14/BurnoutRevenge-100-percent-save.zip",
+                "size": 2790
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.14/BurnoutRevenge-100-percent-save.zip.sha256",
+                "size": 102
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.14/SHA256SUMS",
+                "size": 314
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Burnout Revenge v0.1.13 — the race HUD at an ultrawide's edges",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/tag/v0.1.13",
+            "published_at": "2026-10-18T21:00:37Z",
+            "assets": [
+              {
+                "name": "BurnoutRevenge-0.1.13-macos.dmg",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.13/BurnoutRevenge-0.1.13-macos.dmg",
+                "size": 20071666
+              },
+              {
+                "name": "BurnoutRevenge-0.1.13-macos.dmg.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.13/BurnoutRevenge-0.1.13-macos.dmg.sha256",
+                "size": 98
+              },
+              {
+                "name": "BurnoutRevenge-0.1.13-third-party-source.tar.xz",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.13/BurnoutRevenge-0.1.13-third-party-source.tar.xz",
+                "size": 11390140
+              },
+              {
+                "name": "BurnoutRevenge-0.1.13-third-party-source.tar.xz.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.13/BurnoutRevenge-0.1.13-third-party-source.tar.xz.sha256",
+                "size": 114
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.13/BurnoutRevenge-100-percent-save.zip",
+                "size": 2790
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.13/BurnoutRevenge-100-percent-save.zip.sha256",
+                "size": 102
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.13/SHA256SUMS",
+                "size": 314
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Burnout Revenge v0.1.12 — no hang at launch, Xbox Live offline",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/tag/v0.1.12",
+            "published_at": "2026-10-18T20:21:45Z",
+            "assets": [
+              {
+                "name": "BurnoutRevenge-0.1.12-macos.dmg",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.12/BurnoutRevenge-0.1.12-macos.dmg",
+                "size": 20070108
+              },
+              {
+                "name": "BurnoutRevenge-0.1.12-macos.dmg.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.12/BurnoutRevenge-0.1.12-macos.dmg.sha256",
+                "size": 98
+              },
+              {
+                "name": "BurnoutRevenge-0.1.12-third-party-source.tar.xz",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.12/BurnoutRevenge-0.1.12-third-party-source.tar.xz",
+                "size": 11390012
+              },
+              {
+                "name": "BurnoutRevenge-0.1.12-third-party-source.tar.xz.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.12/BurnoutRevenge-0.1.12-third-party-source.tar.xz.sha256",
+                "size": 114
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.12/BurnoutRevenge-100-percent-save.zip",
+                "size": 2790
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.12/BurnoutRevenge-100-percent-save.zip.sha256",
+                "size": 102
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.12/SHA256SUMS",
+                "size": 314
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Burnout Revenge v0.1.11 — Bloom and Motion Blur sliders, menu sounds",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/tag/v0.1.11",
+            "published_at": "2026-10-18T18:34:40Z",
+            "assets": [
+              {
+                "name": "BurnoutRevenge-0.1.11-macos.dmg",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.11/BurnoutRevenge-0.1.11-macos.dmg",
+                "size": 20065069
+              },
+              {
+                "name": "BurnoutRevenge-0.1.11-macos.dmg.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.11/BurnoutRevenge-0.1.11-macos.dmg.sha256",
+                "size": 98
+              },
+              {
+                "name": "BurnoutRevenge-0.1.11-third-party-source.tar.xz",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.11/BurnoutRevenge-0.1.11-third-party-source.tar.xz",
+                "size": 11390032
+              },
+              {
+                "name": "BurnoutRevenge-0.1.11-third-party-source.tar.xz.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.11/BurnoutRevenge-0.1.11-third-party-source.tar.xz.sha256",
+                "size": 114
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.11/BurnoutRevenge-100-percent-save.zip",
+                "size": 2790
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.11/BurnoutRevenge-100-percent-save.zip.sha256",
+                "size": 102
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.11/SHA256SUMS",
+                "size": 314
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Burnout Revenge v0.1.10 — save import and a finished save",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/tag/v0.1.10",
+            "published_at": "2026-10-18T18:03:45Z",
+            "assets": [
+              {
+                "name": "BurnoutRevenge-0.1.10-macos.dmg",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.10/BurnoutRevenge-0.1.10-macos.dmg",
+                "size": 20059366
+              },
+              {
+                "name": "BurnoutRevenge-0.1.10-macos.dmg.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.10/BurnoutRevenge-0.1.10-macos.dmg.sha256",
+                "size": 98
+              },
+              {
+                "name": "BurnoutRevenge-0.1.10-third-party-source.tar.xz",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.10/BurnoutRevenge-0.1.10-third-party-source.tar.xz",
+                "size": 11390028
+              },
+              {
+                "name": "BurnoutRevenge-0.1.10-third-party-source.tar.xz.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.10/BurnoutRevenge-0.1.10-third-party-source.tar.xz.sha256",
+                "size": 114
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.10/BurnoutRevenge-100-percent-save.zip",
+                "size": 2790
+              },
+              {
+                "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.10/BurnoutRevenge-100-percent-save.zip.sha256",
+                "size": 102
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.10/SHA256SUMS",
+                "size": 314
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Burnout Revenge v0.1.9 — your buttons, Bloom and Motion Blur",
+            "url": "https://github.com/secretpray/burnout-revenge/releases/tag/v0.1.9",
+            "published_at": "2026-10-18T16:15:04Z",
+            "assets": [
+              {
+                "name": "BurnoutRevenge-0.1.9-macos.dmg",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.9/BurnoutRevenge-0.1.9-macos.dmg",
+                "size": 20038155
+              },
+              {
+                "name": "BurnoutRevenge-0.1.9-macos.dmg.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.9/BurnoutRevenge-0.1.9-macos.dmg.sha256",
+                "size": 97
+              },
+              {
+                "name": "BurnoutRevenge-0.1.9-third-party-source.tar.xz",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.9/BurnoutRevenge-0.1.9-third-party-source.tar.xz",
+                "size": 11390052
+              },
+              {
+                "name": "BurnoutRevenge-0.1.9-third-party-source.tar.xz.sha256",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.9/BurnoutRevenge-0.1.9-third-party-source.tar.xz.sha256",
+                "size": 113
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.9/SHA256SUMS",
+                "size": 210
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -86,8 +1033,351 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "BurnoutRevenge-0.1.18-macos.dmg",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-0.1.18-macos.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.18-macos.dmg.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-0.1.18-macos.dmg.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.18-third-party-source.tar.xz",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-0.1.18-third-party-source.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.18-third-party-source.tar.xz.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-0.1.18-third-party-source.tar.xz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-100-percent-save.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/BurnoutRevenge-100-percent-save.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.18/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.17-macos.dmg",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.17/BurnoutRevenge-0.1.17-macos.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.17-macos.dmg.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.17/BurnoutRevenge-0.1.17-macos.dmg.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.17-third-party-source.tar.xz",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.17/BurnoutRevenge-0.1.17-third-party-source.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.17-third-party-source.tar.xz.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.17/BurnoutRevenge-0.1.17-third-party-source.tar.xz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.17/BurnoutRevenge-100-percent-save.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.17/BurnoutRevenge-100-percent-save.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.17/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.16-macos.dmg",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.16/BurnoutRevenge-0.1.16-macos.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.16-macos.dmg.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.16/BurnoutRevenge-0.1.16-macos.dmg.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.16-third-party-source.tar.xz",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.16/BurnoutRevenge-0.1.16-third-party-source.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.16-third-party-source.tar.xz.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.16/BurnoutRevenge-0.1.16-third-party-source.tar.xz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.16/BurnoutRevenge-100-percent-save.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.16/BurnoutRevenge-100-percent-save.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.16/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.15-macos.dmg",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.15/BurnoutRevenge-0.1.15-macos.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.15-macos.dmg.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.15/BurnoutRevenge-0.1.15-macos.dmg.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.15-third-party-source.tar.xz",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.15/BurnoutRevenge-0.1.15-third-party-source.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.15-third-party-source.tar.xz.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.15/BurnoutRevenge-0.1.15-third-party-source.tar.xz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.15/BurnoutRevenge-100-percent-save.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.15/BurnoutRevenge-100-percent-save.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.15/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.14-macos.dmg",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.14/BurnoutRevenge-0.1.14-macos.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.14-macos.dmg.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.14/BurnoutRevenge-0.1.14-macos.dmg.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.14-third-party-source.tar.xz",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.14/BurnoutRevenge-0.1.14-third-party-source.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.14-third-party-source.tar.xz.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.14/BurnoutRevenge-0.1.14-third-party-source.tar.xz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.14/BurnoutRevenge-100-percent-save.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.14/BurnoutRevenge-100-percent-save.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.14/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.13-macos.dmg",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.13/BurnoutRevenge-0.1.13-macos.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.13-macos.dmg.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.13/BurnoutRevenge-0.1.13-macos.dmg.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.13-third-party-source.tar.xz",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.13/BurnoutRevenge-0.1.13-third-party-source.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.13-third-party-source.tar.xz.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.13/BurnoutRevenge-0.1.13-third-party-source.tar.xz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.13/BurnoutRevenge-100-percent-save.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.13/BurnoutRevenge-100-percent-save.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.13/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.12-macos.dmg",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.12/BurnoutRevenge-0.1.12-macos.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.12-macos.dmg.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.12/BurnoutRevenge-0.1.12-macos.dmg.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.12-third-party-source.tar.xz",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.12/BurnoutRevenge-0.1.12-third-party-source.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.12-third-party-source.tar.xz.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.12/BurnoutRevenge-0.1.12-third-party-source.tar.xz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.12/BurnoutRevenge-100-percent-save.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.12/BurnoutRevenge-100-percent-save.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.12/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.11-macos.dmg",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.11/BurnoutRevenge-0.1.11-macos.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.11-macos.dmg.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.11/BurnoutRevenge-0.1.11-macos.dmg.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.11-third-party-source.tar.xz",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.11/BurnoutRevenge-0.1.11-third-party-source.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.11-third-party-source.tar.xz.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.11/BurnoutRevenge-0.1.11-third-party-source.tar.xz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.11/BurnoutRevenge-100-percent-save.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.11/BurnoutRevenge-100-percent-save.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.11/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.10-macos.dmg",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.10/BurnoutRevenge-0.1.10-macos.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.10-macos.dmg.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.10/BurnoutRevenge-0.1.10-macos.dmg.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.10-third-party-source.tar.xz",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.10/BurnoutRevenge-0.1.10-third-party-source.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.10-third-party-source.tar.xz.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.10/BurnoutRevenge-0.1.10-third-party-source.tar.xz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.10/BurnoutRevenge-100-percent-save.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BurnoutRevenge-100-percent-save.zip.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.10/BurnoutRevenge-100-percent-save.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.10/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.9-macos.dmg",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.9/BurnoutRevenge-0.1.9-macos.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.9-macos.dmg.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.9/BurnoutRevenge-0.1.9-macos.dmg.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.9-third-party-source.tar.xz",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.9/BurnoutRevenge-0.1.9-third-party-source.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "BurnoutRevenge-0.1.9-third-party-source.tar.xz.sha256",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.9/BurnoutRevenge-0.1.9-third-party-source.tar.xz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/secretpray/burnout-revenge/releases/download/v0.1.9/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -104,7 +1394,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-21T09:58:34.395579+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T17:00:52.032382+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of the 3DS game Downtown no Gaki no Tsukai ya Arahende!! Zettai ni Tsukamatte wa Ikenai Gasu Kurobikari Land, made by static recompilation. Keyboard, mouse and gamepad, single-window screen layouts, and a switchable English translation (F8). Requires your own decrypted .3ds.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -138,7 +1445,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-21T09:58:34.394883+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T17:00:53.485757+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Yu-Gi-Oh! The Duelists of the Roses (PS2) with PS2Recomp. No game assets included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -165,7 +1489,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-21T09:58:30.206475+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T17:00:54.919476+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Game cartridges for Årkade: TinyGo to WebAssembly, running unmodified on the cabinet and in the browser",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -200,7 +1541,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-21T09:58:30.205352+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T17:00:56.303030+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Cuttle, the card game, playable in the browser: pass-and-play or two phones.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -235,7 +1593,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-21T09:58:30.203737+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-21T17:00:57.817370+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Standalone WebAssembly SMAC reimplementation with original-game behavioral parity tests; downstream sync to pawelchcki/glsmac.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
