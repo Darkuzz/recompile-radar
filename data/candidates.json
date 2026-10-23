@@ -1,7 +1,239 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-23T16:52:57.618332+00:00",
+  "last_updated": "2026-10-23T23:00:15.104063+00:00",
   "candidates": [
+    {
+      "title": "KatoteKiru/bfme1-mobile",
+      "url": "https://github.com/KatoteKiru/bfme1-mobile",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-23T22:43:10Z",
+      "summary": "Open-source Android port of The Lord of the Rings: The Battle for Middle-earth on the GPL SAGE engine (C&C Generals Zero Hour). Engine code only, bring your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T23:00:01.265611+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "MsBunnana/Luigi-s-Mansion-Android-Port",
+      "url": "https://github.com/MsBunnana/Luigi-s-Mansion-Android-Port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-23T22:45:49Z",
+      "summary": "Unofficial Android port of Luigi's Mansion (PC recompilation). Bring your own game copy.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T23:00:01.264692+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "anyplay-gg/launcher",
+      "url": "https://github.com/anyplay-gg/launcher",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-23T17:55:53Z",
+      "summary": "Launcher for AnyPS5 on Windows and Linux, laid out like the PS5 home screen: finds your game dumps, unlocks them, starts them and keeps controls, saves and trophies per game. Port of the AnyPS5-ARM macOS launcher by utkuhalis. Topics: anyps5, egui, launcher, linux, rust, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T22:59:59.472555+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "warpzone-gg/rounds-port",
+      "url": "https://github.com/warpzone-gg/rounds-port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-23T21:51:51Z",
+      "summary": "A clean-room reimplementation of ROUNDS in Rust for Linux and Windows: up to 12 players on one screen or online over Warpzone with rollback netcode. Needs your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T22:59:59.470409+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: reimplementation",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "rashevskyv/guardian-heroes-recomp-public",
+      "url": "https://github.com/rashevskyv/guardian-heroes-recomp-public",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-23T21:13:39Z",
+      "summary": "Guardian Heroes (2011 XBLA) on Nintendo Switch and Linux: static recompilation with ReXGlue. Build it from your own XBLA package; no game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T22:59:56.013455+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "m7kor/Zmbor",
+      "url": "https://github.com/m7kor/Zmbor",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-23T22:02:06Z",
+      "summary": "Zmbor — Advanced PlayStation 2 Static Recompilation, Hardware Runtime, and Native Game Reconstruction Framework.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T22:59:56.012532+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "ryderclanky/BotW-Native",
+      "url": "https://github.com/ryderclanky/BotW-Native",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-23T22:23:07Z",
+      "summary": "Static recompilation of Wii U Breath of the Wild (v1.5.0) to a native Windows program with a Vulkan backend. No game assets included. Topics: breath-of-the-wild, game-preservation, recompilation, static-recompilation, vulkan, wii-u, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T22:59:56.011467+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
     {
       "title": "iirg4x/mp6-native-port",
       "url": "https://github.com/iirg4x/mp6-native-port",
@@ -11,7 +243,129 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T16:52:43.619059+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T23:00:04.500215+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Native PC (Windows) and Android port of Mario Party 6, built on the byte-accurate GC decompilation. Game files are NOT included — supply your own disc.",
+        "latest_release_url": "https://github.com/iirg4x/mp6-native-port/releases/tag/v0.5.0",
+        "latest_release_name": "Starlit Party v0.5.0",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.5.0/SHA256SUMS.txt",
+            "size": 323
+          },
+          {
+            "name": "starlit-party-v0.5.0-61a99d3-android-arm64.apk",
+            "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.5.0/starlit-party-v0.5.0-61a99d3-android-arm64.apk",
+            "size": 57408038
+          },
+          {
+            "name": "starlit-party-v0.5.0-61a99d3-web.zip",
+            "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.5.0/starlit-party-v0.5.0-61a99d3-web.zip",
+            "size": 27930249
+          },
+          {
+            "name": "starlit-party-v0.5.0-61a99d3-win-x64.zip",
+            "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.5.0/starlit-party-v0.5.0-61a99d3-win-x64.zip",
+            "size": 44270946
+          }
+        ],
+        "releases": [
+          {
+            "name": "Starlit Party v0.5.0",
+            "url": "https://github.com/iirg4x/mp6-native-port/releases/tag/v0.5.0",
+            "published_at": "2026-10-23T15:01:31Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.5.0/SHA256SUMS.txt",
+                "size": 323
+              },
+              {
+                "name": "starlit-party-v0.5.0-61a99d3-android-arm64.apk",
+                "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.5.0/starlit-party-v0.5.0-61a99d3-android-arm64.apk",
+                "size": 57408038
+              },
+              {
+                "name": "starlit-party-v0.5.0-61a99d3-web.zip",
+                "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.5.0/starlit-party-v0.5.0-61a99d3-web.zip",
+                "size": 27930249
+              },
+              {
+                "name": "starlit-party-v0.5.0-61a99d3-win-x64.zip",
+                "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.5.0/starlit-party-v0.5.0-61a99d3-win-x64.zip",
+                "size": 44270946
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Mario Party 6 Native Port v0.4.0",
+            "url": "https://github.com/iirg4x/mp6-native-port/releases/tag/v0.4.0",
+            "published_at": "2026-09-12T11:43:40Z",
+            "assets": [
+              {
+                "name": "mp6-native-port-v0.4.0-ce23137-android-arm64.apk",
+                "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.4.0/mp6-native-port-v0.4.0-ce23137-android-arm64.apk",
+                "size": 30787439
+              },
+              {
+                "name": "mp6-native-port-v0.4.0-ce23137-win-x64.zip",
+                "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.4.0/mp6-native-port-v0.4.0-ce23137-win-x64.zip",
+                "size": 21743807
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.3.0",
+            "url": "https://github.com/iirg4x/mp6-native-port/releases/tag/v0.3.0",
+            "published_at": "2026-07-30T18:58:01Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.2.0 — first engine-binary release + web packager",
+            "url": "https://github.com/iirg4x/mp6-native-port/releases/tag/v0.2.0",
+            "published_at": "2026-07-21T09:02:39Z",
+            "assets": [
+              {
+                "name": "mp6-native-port-v0.2.0-4a21996-android-arm64.apk",
+                "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.2.0/mp6-native-port-v0.2.0-4a21996-android-arm64.apk",
+                "size": 32006978
+              },
+              {
+                "name": "mp6-native-port-v0.2.0-4a21996-win-x64.zip",
+                "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.2.0/mp6-native-port-v0.2.0-4a21996-win-x64.zip",
+                "size": 33995926
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.1 — one-command setup (build & play from your disc)",
+            "url": "https://github.com/iirg4x/mp6-native-port/releases/tag/v0.1.1",
+            "published_at": "2026-07-17T16:23:42Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -29,10 +383,52 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.5.0/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "starlit-party-v0.5.0-61a99d3-android-arm64.apk",
+          "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.5.0/starlit-party-v0.5.0-61a99d3-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "starlit-party-v0.5.0-61a99d3-web.zip",
+          "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.5.0/starlit-party-v0.5.0-61a99d3-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "starlit-party-v0.5.0-61a99d3-win-x64.zip",
+          "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.5.0/starlit-party-v0.5.0-61a99d3-win-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "mp6-native-port-v0.4.0-ce23137-android-arm64.apk",
+          "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.4.0/mp6-native-port-v0.4.0-ce23137-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "mp6-native-port-v0.4.0-ce23137-win-x64.zip",
+          "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.4.0/mp6-native-port-v0.4.0-ce23137-win-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "mp6-native-port-v0.2.0-4a21996-android-arm64.apk",
+          "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.2.0/mp6-native-port-v0.2.0-4a21996-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "mp6-native-port-v0.2.0-4a21996-win-x64.zip",
+          "url": "https://github.com/iirg4x/mp6-native-port/releases/download/v0.2.0/mp6-native-port-v0.2.0-4a21996-win-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -50,7 +446,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T16:52:43.618500+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T23:00:05.918290+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Space Evolution - hex merge puzzle in the browser (three.js port of the Android game)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -87,7 +500,93 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T16:52:41.701449+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T23:00:07.191392+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "issn",
+        "description": "Port nativo de inFAMOUS Second Son para PC (Windows, Vulkan), com FSR 4, DLSS, mouse 1:1 e suporte a controle. Não inclui arquivos do jogo: use seu próprio dump. / Native PC port of inFAMOUS Second Son (Windows, Vulkan). No game files included.",
+        "latest_release_url": "https://github.com/Liondarkz/issn_pc/releases/tag/windows-v0.3.1",
+        "latest_release_name": "Windows + Linux 0.3.1 (test build)",
+        "release_assets": [
+          {
+            "name": "issn-windows.zip",
+            "url": "https://github.com/Liondarkz/issn_pc/releases/download/windows-v0.3.1/issn-windows.zip",
+            "size": 78662880
+          },
+          {
+            "name": "issn-x86_64.AppImage",
+            "url": "https://github.com/Liondarkz/issn_pc/releases/download/windows-v0.3.1/issn-x86_64.AppImage",
+            "size": 94767608
+          },
+          {
+            "name": "issn-x86_64.AppImage.sha256",
+            "url": "https://github.com/Liondarkz/issn_pc/releases/download/windows-v0.3.1/issn-x86_64.AppImage.sha256",
+            "size": 87
+          }
+        ],
+        "releases": [
+          {
+            "name": "Windows + Linux 0.3.1 (test build)",
+            "url": "https://github.com/Liondarkz/issn_pc/releases/tag/windows-v0.3.1",
+            "published_at": "2026-10-23T03:07:00Z",
+            "assets": [
+              {
+                "name": "issn-windows.zip",
+                "url": "https://github.com/Liondarkz/issn_pc/releases/download/windows-v0.3.1/issn-windows.zip",
+                "size": 78662880
+              },
+              {
+                "name": "issn-x86_64.AppImage",
+                "url": "https://github.com/Liondarkz/issn_pc/releases/download/windows-v0.3.1/issn-x86_64.AppImage",
+                "size": 94767608
+              },
+              {
+                "name": "issn-x86_64.AppImage.sha256",
+                "url": "https://github.com/Liondarkz/issn_pc/releases/download/windows-v0.3.1/issn-x86_64.AppImage.sha256",
+                "size": 87
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Windows 0.3.0 (test build)",
+            "url": "https://github.com/Liondarkz/issn_pc/releases/tag/windows-v0.3.0",
+            "published_at": "2026-10-22T03:50:30Z",
+            "assets": [
+              {
+                "name": "issn-windows.zip",
+                "url": "https://github.com/Liondarkz/issn_pc/releases/download/windows-v0.3.0/issn-windows.zip",
+                "size": 78626601
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Infamous Second Son - Test build 0.2.1",
+            "url": "https://github.com/Liondarkz/issn_pc/releases/tag/windows-v0.2.1",
+            "published_at": "2026-10-20T02:28:20Z",
+            "assets": [
+              {
+                "name": "issn-windows.zip",
+                "url": "https://github.com/Liondarkz/issn_pc/releases/download/windows-v0.2.1/issn-windows.zip",
+                "size": 75081954
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -103,9 +602,36 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "issn-windows.zip",
+          "url": "https://github.com/Liondarkz/issn_pc/releases/download/windows-v0.3.1/issn-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "issn-x86_64.AppImage",
+          "url": "https://github.com/Liondarkz/issn_pc/releases/download/windows-v0.3.1/issn-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "issn-x86_64.AppImage.sha256",
+          "url": "https://github.com/Liondarkz/issn_pc/releases/download/windows-v0.3.1/issn-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "issn-windows.zip",
+          "url": "https://github.com/Liondarkz/issn_pc/releases/download/windows-v0.3.0/issn-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "issn-windows.zip",
+          "url": "https://github.com/Liondarkz/issn_pc/releases/download/windows-v0.2.1/issn-windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -123,7 +649,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T16:52:37.712222+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T23:00:08.516313+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Linux port of Black (Xbox, 2006) - static recompilation, Vulkan + SDL3, .deb for Ubuntu/Mint. Bring your own game.",
+        "latest_release_url": "https://github.com/Katon17/black-linux/releases/tag/v0.1.2",
+        "latest_release_name": "black-linux 0.1.2",
+        "release_assets": [
+          {
+            "name": "black-linux_0.1.2_amd64.deb",
+            "url": "https://github.com/Katon17/black-linux/releases/download/v0.1.2/black-linux_0.1.2_amd64.deb",
+            "size": 4399472
+          }
+        ],
+        "releases": [
+          {
+            "name": "black-linux 0.1.2",
+            "url": "https://github.com/Katon17/black-linux/releases/tag/v0.1.2",
+            "published_at": "2026-10-23T13:29:19Z",
+            "assets": [
+              {
+                "name": "black-linux_0.1.2_amd64.deb",
+                "url": "https://github.com/Katon17/black-linux/releases/download/v0.1.2/black-linux_0.1.2_amd64.deb",
+                "size": 4399472
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -136,9 +700,16 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "black-linux_0.1.2_amd64.deb",
+          "url": "https://github.com/Katon17/black-linux/releases/download/v0.1.2/black-linux_0.1.2_amd64.deb",
+          "type": "desktop_package"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -156,7 +727,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T16:52:37.711783+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T23:00:09.877222+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Static recompilation for the game Tales of the World Radiant Mythology 1,2,3",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -183,7 +771,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T16:52:37.711329+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T23:00:11.179769+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of the 2002 Win32 game Catz 5 into a native macOS (Apple Silicon) app, built with recomp-kit.",
+        "latest_release_url": "https://github.com/syleront/catz5-mac/releases/tag/v0.1.0",
+        "latest_release_name": "Catz 5 Recomp 0.1.0",
+        "release_assets": [
+          {
+            "name": "Catz5Recomp-0.1.0-macos-arm64.zip",
+            "url": "https://github.com/syleront/catz5-mac/releases/download/v0.1.0/Catz5Recomp-0.1.0-macos-arm64.zip",
+            "size": 59582228
+          }
+        ],
+        "releases": [
+          {
+            "name": "Catz 5 Recomp 0.1.0",
+            "url": "https://github.com/syleront/catz5-mac/releases/tag/v0.1.0",
+            "published_at": "2026-10-21T11:56:47Z",
+            "assets": [
+              {
+                "name": "Catz5Recomp-0.1.0-macos-arm64.zip",
+                "url": "https://github.com/syleront/catz5-mac/releases/download/v0.1.0/Catz5Recomp-0.1.0-macos-arm64.zip",
+                "size": 59582228
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -192,8 +818,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "Catz5Recomp-0.1.0-macos-arm64.zip",
+          "url": "https://github.com/syleront/catz5-mac/releases/download/v0.1.0/Catz5Recomp-0.1.0-macos-arm64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -210,7 +844,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T16:52:37.710638+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T23:00:12.535540+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Towards a native PC port of 3D Dot Game Heroes (PS3, 2009): a static recompilation on ps3kit, with the disc's formats documented. BYOA, no game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -244,7 +895,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T16:52:33.629252+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T23:00:13.820353+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Play Command & Conquer: Tiberian Dawn and Red Alert in the browser, with your own game files. Vite + TypeScript, js-dos today, Vanilla Conquer WebAssembly next.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
