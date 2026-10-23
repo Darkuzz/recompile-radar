@@ -1,7 +1,579 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-22T23:10:29.910754+00:00",
+  "last_updated": "2026-10-23T09:53:46.339276+00:00",
   "candidates": [
+    {
+      "title": "firetoad72/blinx-android",
+      "url": "https://github.com/firetoad72/blinx-android",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-09-30T13:18:01Z",
+      "summary": "Unofficial Android port of Blinx: The Time Sweeper (Xbox) by static recompilation. No game code or assets included; you need your own copy.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:34.194261+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "not-so-vishal/Disco-Nokia-Android-Port",
+      "url": "https://github.com/not-so-vishal/Disco-Nokia-Android-Port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-21T20:19:58Z",
+      "summary": "Android Port of one of my most nostalgia game \"DISCO\" . This is an unofficial port of one of my most nostalgia game \"DISCO\". You have to manage a disco club and run it to increase the revenue. P This port is made via Vibe Coding. T",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:32.486218+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "atulpatildbz/pokemon-sim-rs",
+      "url": "https://github.com/atulpatildbz/pokemon-sim-rs",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-22T07:44:03Z",
+      "summary": "Faithful Rust port of POKéMON Simulator V4.5 (BirdieSoft, 2004) with a GBA-style game UI — macOS, Windows, Android",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:32.484141+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "sunrisebody1-lgtm/Sonic-the-Hedgehog-1-Forever-",
+      "url": "https://github.com/sunrisebody1-lgtm/Sonic-the-Hedgehog-1-Forever-",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-22T10:38:40Z",
+      "summary": "A standalone Android port of Sonic 1 Forever, compiled via GitHub Actions for personal use on a mobile device. This custom repository embeds the essential Data.rsdk game files directly into the source architecture, building a fully functional and self-contained app bundle. Experience optimized performance, fluid physics, and high frame rates & more",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:32.482913+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "sunrisebody1-lgtm/Sonic-1-Forever-",
+      "url": "https://github.com/sunrisebody1-lgtm/Sonic-1-Forever-",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-22T10:46:31Z",
+      "summary": "A standalone Android port of Sonic 1 Forever, compiled via GitHub Actions for personal use on a mobile device. This custom repository embeds the essential Data.rsdk game files directly into the source architecture, building a fully functional and self-contained app bundle. Experience optimized performance, fluid physics, and high frame rates & more",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:32.481432+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "codepdbh/re3-gta-advance-port",
+      "url": "https://github.com/codepdbh/re3-gta-advance-port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-22T14:11:07Z",
+      "summary": "Android port (re3 engine) of the GTA III total-conversion mod 'GTA Advance PC'. Source only, no game data; APK in Releases.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:32.480254+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "codepdbh/reVC-android-evolved-ENHANCED-MOD",
+      "url": "https://github.com/codepdbh/reVC-android-evolved-ENHANCED-MOD",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-22T14:11:18Z",
+      "summary": "reVC Android port (evolved) - 'reVC Enhanced & Fixed' edition: runs the 'vc enhanced' Vice City mod on Android. Source only, no game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:32.479313+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "AshJamB/Earthworm-Jim-Collection",
+      "url": "https://github.com/AshJamB/Earthworm-Jim-Collection",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-22T17:21:28Z",
+      "summary": "Windows and Android port of Earthworm Jim and Earthworm Jim 2 (Sega Genesis / Mega Drive) with a launcher, touch controls, gamepad support, save states and rewind. Runs from your own USA ROMs; no game data included. Early scaffold derived from the MIT-licensed Mickey and Donald Collection by Darhkfox.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:32.478180+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "nautilusbits/skynet-sdl",
+      "url": "https://github.com/nautilusbits/skynet-sdl",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-22T22:16:46Z",
+      "summary": "Unofficial C# + SDL3 port of SkyNET and Future Shock, with a mission editor and Android build (bring your own game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:32.476691+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android build"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "AurelioB/MacNativeGames-android",
+      "url": "https://github.com/AurelioB/MacNativeGames-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-22T23:30:39Z",
+      "summary": "totk android port (wip)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:32.475950+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: android"
+      ]
+    },
+    {
+      "title": "contatg/Def-Jam-Android-Native-Port",
+      "url": "https://github.com/contatg/Def-Jam-Android-Native-Port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-23T02:33:56Z",
+      "summary": "Experimental native Android ARM64 port of Def Jam: Fight for NY. Requires your own original Xbox disc/ISO; original game data is not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:32.474687+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game, android"
+      ]
+    },
+    {
+      "title": "rosearcanum/Love-Island-the-Game-S1-3-Fan-Made-Port",
+      "url": "https://github.com/rosearcanum/Love-Island-the-Game-S1-3-Fan-Made-Port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-23T06:17:53Z",
+      "summary": "A fan-made Love Island: The Game Android for the original first 3 seasons, including all of the extra content (S1 Reunion, S2 Wedding, S2 Murder Mystery, and S3 Reunion). I rebuilt it from scratch, compiling all of the original episode material into a working player for Windows and Android.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:32.473101+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "tuancapoo/mgr-nx-deko",
+      "url": "https://github.com/tuancapoo/mgr-nx-deko",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-23T01:24:45Z",
+      "summary": "Metal Gear Rising: Revengeance (Xbox 360) on the Nintendo Switch: static recompilation with ReXGlue, Renut's renderer on deko3d. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:26.824862+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Thorhax/usf4-nx",
+      "url": "https://github.com/Thorhax/usf4-nx",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-23T04:50:24Z",
+      "summary": "Ultra Street Fighter IV (Xbox 360) static recompilation for PC and Nintendo Switch (ReXGlue). No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:26.823983+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Llamapixels/TenchuZRecomp",
+      "url": "https://github.com/Llamapixels/TenchuZRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-23T05:43:19Z",
+      "summary": "Tenchu Z - HoloCatt Recomp Project: work-in-progress static recompilation of Tenchu Z (Xbox 360) for Windows. Bring your own disc image: no game files included. Topics: recompilation, static-recompilation, tenchu, xbox-360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:26.822984+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "anishchandra24/NHL2K8-Recompiled",
+      "url": "https://github.com/anishchandra24/NHL2K8-Recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-23T08:27:32Z",
+      "summary": "An unofficial port of NHL 2K8 for the Xbox 360, to PC, done via static recompilation with the ReXGlue SDK. No game files are provided.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:26.821962+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Petexy/Tekken-Tag-2-Ultimate-Edition",
+      "url": "https://github.com/Petexy/Tekken-Tag-2-Ultimate-Edition",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-23T09:52:46Z",
+      "summary": "Native Linux port of Tekken Tag Tournament 2 Wii U Edition by static recompilation. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T09:53:26.821009+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
     {
       "title": "dlprentice/onslaught-ce",
       "url": "https://github.com/dlprentice/onslaught-ce",
@@ -11,7 +583,232 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-22T23:10:17.887980+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T09:53:35.614332+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Onslaught CE: a native Linux and Windows port of Battle Engine Aquila (2003), built from its source. Bring your own copy of the game.",
+        "latest_release_url": "https://github.com/dlprentice/onslaught-ce/releases/tag/v0.1.2",
+        "latest_release_name": "Onslaught CE 0.1.2 (preview)",
+        "release_assets": [
+          {
+            "name": "ASSETS.txt",
+            "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/ASSETS.txt",
+            "size": 971
+          },
+          {
+            "name": "ffmpeg-7.1.1.tar.xz",
+            "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/ffmpeg-7.1.1.tar.xz",
+            "size": 11019500
+          },
+          {
+            "name": "latest.json",
+            "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/latest.json",
+            "size": 484
+          },
+          {
+            "name": "latest.json.sig",
+            "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/latest.json.sig",
+            "size": 129
+          },
+          {
+            "name": "onslaught-ce-0.1.2-linux-i686.tar.gz",
+            "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/onslaught-ce-0.1.2-linux-i686.tar.gz",
+            "size": 6649060
+          },
+          {
+            "name": "onslaught-ce-0.1.2-windows-i686.zip",
+            "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/onslaught-ce-0.1.2-windows-i686.zip",
+            "size": 3667055
+          },
+          {
+            "name": "onslaught-ce-linux-i686.tar.gz",
+            "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/onslaught-ce-linux-i686.tar.gz",
+            "size": 6649060
+          },
+          {
+            "name": "onslaught-ce-windows-i686.zip",
+            "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/onslaught-ce-windows-i686.zip",
+            "size": 3667055
+          },
+          {
+            "name": "RC-REPORT.txt",
+            "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/RC-REPORT.txt",
+            "size": 4363
+          }
+        ],
+        "releases": [
+          {
+            "name": "Onslaught CE 0.1.2 (preview)",
+            "url": "https://github.com/dlprentice/onslaught-ce/releases/tag/v0.1.2",
+            "published_at": "2026-10-23T07:53:33Z",
+            "assets": [
+              {
+                "name": "ASSETS.txt",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/ASSETS.txt",
+                "size": 971
+              },
+              {
+                "name": "ffmpeg-7.1.1.tar.xz",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/ffmpeg-7.1.1.tar.xz",
+                "size": 11019500
+              },
+              {
+                "name": "latest.json",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/latest.json",
+                "size": 484
+              },
+              {
+                "name": "latest.json.sig",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/latest.json.sig",
+                "size": 129
+              },
+              {
+                "name": "onslaught-ce-0.1.2-linux-i686.tar.gz",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/onslaught-ce-0.1.2-linux-i686.tar.gz",
+                "size": 6649060
+              },
+              {
+                "name": "onslaught-ce-0.1.2-windows-i686.zip",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/onslaught-ce-0.1.2-windows-i686.zip",
+                "size": 3667055
+              },
+              {
+                "name": "onslaught-ce-linux-i686.tar.gz",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/onslaught-ce-linux-i686.tar.gz",
+                "size": 6649060
+              },
+              {
+                "name": "onslaught-ce-windows-i686.zip",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/onslaught-ce-windows-i686.zip",
+                "size": 3667055
+              },
+              {
+                "name": "RC-REPORT.txt",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/RC-REPORT.txt",
+                "size": 4363
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Onslaught CE 0.1.1 (preview)",
+            "url": "https://github.com/dlprentice/onslaught-ce/releases/tag/v0.1.1",
+            "published_at": "2026-10-23T01:43:01Z",
+            "assets": [
+              {
+                "name": "ASSETS.txt",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.1/ASSETS.txt",
+                "size": 451
+              },
+              {
+                "name": "ffmpeg-7.1.1.tar.xz",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.1/ffmpeg-7.1.1.tar.xz",
+                "size": 11019500
+              },
+              {
+                "name": "latest.json",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.1/latest.json",
+                "size": 484
+              },
+              {
+                "name": "latest.json.sig",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.1/latest.json.sig",
+                "size": 129
+              },
+              {
+                "name": "onslaught-ce-0.1.1-linux-i686.tar.gz",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.1/onslaught-ce-0.1.1-linux-i686.tar.gz",
+                "size": 6656830
+              },
+              {
+                "name": "onslaught-ce-0.1.1-windows-i686.zip",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.1/onslaught-ce-0.1.1-windows-i686.zip",
+                "size": 3664564
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Onslaught CE 0.1 (preview)",
+            "url": "https://github.com/dlprentice/onslaught-ce/releases/tag/v0.1.0",
+            "published_at": "2026-10-22T22:49:17Z",
+            "assets": [
+              {
+                "name": "ASSETS.txt",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.0/ASSETS.txt",
+                "size": 727
+              },
+              {
+                "name": "ffmpeg-7.1.1.tar.xz",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.0/ffmpeg-7.1.1.tar.xz",
+                "size": 11019500
+              },
+              {
+                "name": "latest.json",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.0/latest.json",
+                "size": 478
+              },
+              {
+                "name": "latest.json.sig",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.0/latest.json.sig",
+                "size": 129
+              },
+              {
+                "name": "RC-REPORT.txt",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.0/RC-REPORT.txt",
+                "size": 4379
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "libvorbis_vc6 1.0 (build input)",
+            "url": "https://github.com/dlprentice/onslaught-ce/releases/tag/vorbis-vc6-1",
+            "published_at": "2026-10-22T22:39:23Z",
+            "assets": [
+              {
+                "name": "libogg-1.0.tar.gz",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/vorbis-vc6-1/libogg-1.0.tar.gz",
+                "size": 222625
+              },
+              {
+                "name": "libvorbis-1.0.tar.gz",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/vorbis-vc6-1/libvorbis-1.0.tar.gz",
+                "size": 749064
+              },
+              {
+                "name": "libvorbis_vc6-linux-i686.a",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/vorbis-vc6-1/libvorbis_vc6-linux-i686.a",
+                "size": 1230784
+              },
+              {
+                "name": "libvorbis_vc6-windows-i686.a",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/vorbis-vc6-1/libvorbis_vc6-windows-i686.a",
+                "size": 1249484
+              },
+              {
+                "name": "NOTICE-libvorbis_vc6.txt",
+                "url": "https://github.com/dlprentice/onslaught-ce/releases/download/vorbis-vc6-1/NOTICE-libvorbis_vc6.txt",
+                "size": 4056
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -25,9 +822,136 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "ASSETS.txt",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/ASSETS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "ffmpeg-7.1.1.tar.xz",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/ffmpeg-7.1.1.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.json",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/latest.json",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.json.sig",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/latest.json.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "onslaught-ce-0.1.2-linux-i686.tar.gz",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/onslaught-ce-0.1.2-linux-i686.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "onslaught-ce-0.1.2-windows-i686.zip",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/onslaught-ce-0.1.2-windows-i686.zip",
+          "type": "archive"
+        },
+        {
+          "name": "onslaught-ce-linux-i686.tar.gz",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/onslaught-ce-linux-i686.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "onslaught-ce-windows-i686.zip",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/onslaught-ce-windows-i686.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RC-REPORT.txt",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.2/RC-REPORT.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "ASSETS.txt",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.1/ASSETS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "ffmpeg-7.1.1.tar.xz",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.1/ffmpeg-7.1.1.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.json",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.1/latest.json",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.json.sig",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.1/latest.json.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "onslaught-ce-0.1.1-linux-i686.tar.gz",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.1/onslaught-ce-0.1.1-linux-i686.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "onslaught-ce-0.1.1-windows-i686.zip",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.1/onslaught-ce-0.1.1-windows-i686.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ASSETS.txt",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.0/ASSETS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "ffmpeg-7.1.1.tar.xz",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.0/ffmpeg-7.1.1.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.json",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.0/latest.json",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.json.sig",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.0/latest.json.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "RC-REPORT.txt",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/v0.1.0/RC-REPORT.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "libogg-1.0.tar.gz",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/vorbis-vc6-1/libogg-1.0.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "libvorbis-1.0.tar.gz",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/vorbis-vc6-1/libvorbis-1.0.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "libvorbis_vc6-linux-i686.a",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/vorbis-vc6-1/libvorbis_vc6-linux-i686.a",
+          "type": "other_file"
+        },
+        {
+          "name": "libvorbis_vc6-windows-i686.a",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/vorbis-vc6-1/libvorbis_vc6-windows-i686.a",
+          "type": "other_file"
+        },
+        {
+          "name": "NOTICE-libvorbis_vc6.txt",
+          "url": "https://github.com/dlprentice/onslaught-ce/releases/download/vorbis-vc6-1/NOTICE-libvorbis_vc6.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -45,17 +969,68 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-22T23:10:13.549754+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-10-23T09:53:36.971820+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Star Wars: Rogue Squadron (N64) static recompilation port (no game assets included)",
+        "latest_release_url": "https://github.com/AndrewDiess/RogueSquadronRecomp/releases/tag/v1.0.0",
+        "latest_release_name": "v1.0.0",
+        "release_assets": [
+          {
+            "name": "RogueSquadronRecompiled-v1.0.0-windows.zip",
+            "url": "https://github.com/AndrewDiess/RogueSquadronRecomp/releases/download/v1.0.0/RogueSquadronRecompiled-v1.0.0-windows.zip",
+            "size": 16757662
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.0.0",
+            "url": "https://github.com/AndrewDiess/RogueSquadronRecomp/releases/tag/v1.0.0",
+            "published_at": "2026-10-22T18:59:53Z",
+            "assets": [
+              {
+                "name": "RogueSquadronRecompiled-v1.0.0-windows.zip",
+                "url": "https://github.com/AndrewDiess/RogueSquadronRecomp/releases/download/v1.0.0/RogueSquadronRecompiled-v1.0.0-windows.zip",
+                "size": 16757662
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "RogueSquadronRecompiled-v1.0.0-windows.zip",
+          "url": "https://github.com/AndrewDiess/RogueSquadronRecomp/releases/download/v1.0.0/RogueSquadronRecompiled-v1.0.0-windows.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -72,7 +1047,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-22T23:10:13.549079+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T09:53:38.349483+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Soulcalibur III (USA) static recompilation with PS2Recomp - configs, overrides, notes (no game data)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -99,7 +1091,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-22T23:10:13.548272+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T09:53:39.658323+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Sonic Adventure 2 Battle: Recompiled - a native PC version of the GameCube game by static recompilation. No game data included: bring your own disc.",
+        "latest_release_url": "https://github.com/sonsegajp/Sonic-Adventure-2-Battle-Recompiled/releases/tag/v1.1.0",
+        "latest_release_name": "Sonic Adventure 2 Battle: Recompiled 1.1.0",
+        "release_assets": [
+          {
+            "name": "SA2BRecompiled-1.1.0-windows-x64.zip",
+            "url": "https://github.com/sonsegajp/Sonic-Adventure-2-Battle-Recompiled/releases/download/v1.1.0/SA2BRecompiled-1.1.0-windows-x64.zip",
+            "size": 76394943
+          }
+        ],
+        "releases": [
+          {
+            "name": "Sonic Adventure 2 Battle: Recompiled 1.1.0",
+            "url": "https://github.com/sonsegajp/Sonic-Adventure-2-Battle-Recompiled/releases/tag/v1.1.0",
+            "published_at": "2026-10-23T01:30:36Z",
+            "assets": [
+              {
+                "name": "SA2BRecompiled-1.1.0-windows-x64.zip",
+                "url": "https://github.com/sonsegajp/Sonic-Adventure-2-Battle-Recompiled/releases/download/v1.1.0/SA2BRecompiled-1.1.0-windows-x64.zip",
+                "size": 76394943
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Sonic Adventure 2 Battle: Recompiled 1.0.0",
+            "url": "https://github.com/sonsegajp/Sonic-Adventure-2-Battle-Recompiled/releases/tag/v1.0.0",
+            "published_at": "2026-10-22T17:40:42Z",
+            "assets": [
+              {
+                "name": "SA2BRecompiled-1.0.0-windows-x64.zip",
+                "url": "https://github.com/sonsegajp/Sonic-Adventure-2-Battle-Recompiled/releases/download/v1.0.0/SA2BRecompiled-1.0.0-windows-x64.zip",
+                "size": 76283132
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -108,13 +1152,26 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
+          "windows",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SA2BRecompiled-1.1.0-windows-x64.zip",
+          "url": "https://github.com/sonsegajp/Sonic-Adventure-2-Battle-Recompiled/releases/download/v1.1.0/SA2BRecompiled-1.1.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SA2BRecompiled-1.0.0-windows-x64.zip",
+          "url": "https://github.com/sonsegajp/Sonic-Adventure-2-Battle-Recompiled/releases/download/v1.0.0/SA2BRecompiled-1.0.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 10,
       "relevance_status": "promising",
@@ -132,7 +1189,88 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-22T23:10:13.547478+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T09:53:41.014089+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Switch port of Sonic Riders (GameCube) via static recompilation. Build it from your own disc image; contains no game data.",
+        "latest_release_url": "https://github.com/teclilla18/sonic-riders-recomp/releases/tag/v0.2.1",
+        "latest_release_name": "v0.2.1: new PC keyboard layout, colour fixes confirmed on Switch",
+        "release_assets": [
+          {
+            "name": "SonicRiders-PC-Setup-v0.2.1.zip",
+            "url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.2.1/SonicRiders-PC-Setup-v0.2.1.zip",
+            "size": 280311
+          },
+          {
+            "name": "SonicRiders-Switch-Setup-v0.2.1.zip",
+            "url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.2.1/SonicRiders-Switch-Setup-v0.2.1.zip",
+            "size": 280847
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.2.1: new PC keyboard layout, colour fixes confirmed on Switch",
+            "url": "https://github.com/teclilla18/sonic-riders-recomp/releases/tag/v0.2.1",
+            "published_at": "2026-10-23T03:25:49Z",
+            "assets": [
+              {
+                "name": "SonicRiders-PC-Setup-v0.2.1.zip",
+                "url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.2.1/SonicRiders-PC-Setup-v0.2.1.zip",
+                "size": 280311
+              },
+              {
+                "name": "SonicRiders-Switch-Setup-v0.2.1.zip",
+                "url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.2.1/SonicRiders-Switch-Setup-v0.2.1.zip",
+                "size": 280847
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Sonic Riders for Switch and PC v0.2.0",
+            "url": "https://github.com/teclilla18/sonic-riders-recomp/releases/tag/v0.2.0",
+            "published_at": "2026-10-22T23:49:25Z",
+            "assets": [
+              {
+                "name": "SonicRiders-PC-Setup-v0.2.0.zip",
+                "url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.2.0/SonicRiders-PC-Setup-v0.2.0.zip",
+                "size": 279934
+              },
+              {
+                "name": "SonicRiders-Switch-Setup-v0.2.0.zip",
+                "url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.2.0/SonicRiders-Switch-Setup-v0.2.0.zip",
+                "size": 280472
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Sonic Riders for Switch v0.1.0",
+            "url": "https://github.com/teclilla18/sonic-riders-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-10-22T18:43:28Z",
+            "assets": [
+              {
+                "name": "SonicRidersSetup-v0.1.0.zip",
+                "url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.1.0/SonicRidersSetup-v0.1.0.zip",
+                "size": 266979
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -143,9 +1281,36 @@
           "switch port"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SonicRiders-PC-Setup-v0.2.1.zip",
+          "url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.2.1/SonicRiders-PC-Setup-v0.2.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SonicRiders-Switch-Setup-v0.2.1.zip",
+          "url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.2.1/SonicRiders-Switch-Setup-v0.2.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SonicRiders-PC-Setup-v0.2.0.zip",
+          "url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.2.0/SonicRiders-PC-Setup-v0.2.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SonicRiders-Switch-Setup-v0.2.0.zip",
+          "url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.2.0/SonicRiders-Switch-Setup-v0.2.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SonicRidersSetup-v0.1.0.zip",
+          "url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.1.0/SonicRidersSetup-v0.1.0.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -163,7 +1328,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-22T23:10:13.546640+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T09:53:42.368431+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows port of Pokémon Sword / Shield (Switch, 1.3.2) by static recompilation, built on Let's Go Recomp and LAS Recomp. No game files included.",
+        "latest_release_url": "https://github.com/raulzrrs/swsh-recomp/releases/tag/v0.1.0",
+        "latest_release_name": "v0.1.0 (preview): Sword at 60 fps, shaders prepared on the first start, the Let's Go 0.6.0 launcher",
+        "release_assets": [
+          {
+            "name": "SwShRecomp-0.1.0-windows.zip",
+            "url": "https://github.com/raulzrrs/swsh-recomp/releases/download/v0.1.0/SwShRecomp-0.1.0-windows.zip",
+            "size": 88606202
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0 (preview): Sword at 60 fps, shaders prepared on the first start, the Let's Go 0.6.0 launcher",
+            "url": "https://github.com/raulzrrs/swsh-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-10-22T20:50:35Z",
+            "assets": [
+              {
+                "name": "SwShRecomp-0.1.0-windows.zip",
+                "url": "https://github.com/raulzrrs/swsh-recomp/releases/download/v0.1.0/SwShRecomp-0.1.0-windows.zip",
+                "size": 88606202
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -176,9 +1379,16 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SwShRecomp-0.1.0-windows.zip",
+          "url": "https://github.com/raulzrrs/swsh-recomp/releases/download/v0.1.0/SwShRecomp-0.1.0-windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -196,7 +1406,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-22T23:10:13.545773+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T09:53:43.666791+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Twisted Metal: Black (PAL, SCES-50360) static recompilation with PS2Recomp: configs, scripts, notes (no game data)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -223,7 +1450,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-22T23:10:13.544859+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T09:53:44.916979+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Static recompilation of Half-Minute Hero (PSP, ULUS-10491) to native Linux and Windows. Bring your own UMD dump; no game data included.",
+        "latest_release_url": "https://github.com/highcmd/half-minute-hero-psp-recomp/releases/tag/v0.1.1",
+        "latest_release_name": "v0.1.1 — launcher language",
+        "release_assets": [
+          {
+            "name": "HMHLauncher.exe",
+            "url": "https://github.com/highcmd/half-minute-hero-psp-recomp/releases/download/v0.1.1/HMHLauncher.exe",
+            "size": 14426499
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.1 — launcher language",
+            "url": "https://github.com/highcmd/half-minute-hero-psp-recomp/releases/tag/v0.1.1",
+            "published_at": "2026-10-22T23:14:57Z",
+            "assets": [
+              {
+                "name": "HMHLauncher.exe",
+                "url": "https://github.com/highcmd/half-minute-hero-psp-recomp/releases/download/v0.1.1/HMHLauncher.exe",
+                "size": 14426499
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.0 — first playable build",
+            "url": "https://github.com/highcmd/half-minute-hero-psp-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-10-22T23:14:54Z",
+            "assets": [
+              {
+                "name": "HMHLauncher.exe",
+                "url": "https://github.com/highcmd/half-minute-hero-psp-recomp/releases/download/v0.1.0/HMHLauncher.exe",
+                "size": 14426036
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -237,9 +1516,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "HMHLauncher.exe",
+          "url": "https://github.com/highcmd/half-minute-hero-psp-recomp/releases/download/v0.1.1/HMHLauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "HMHLauncher.exe",
+          "url": "https://github.com/highcmd/half-minute-hero-psp-recomp/releases/download/v0.1.0/HMHLauncher.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
