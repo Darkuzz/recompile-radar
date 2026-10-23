@@ -1,7 +1,311 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-23T09:53:46.339276+00:00",
+  "last_updated": "2026-10-23T16:52:57.618332+00:00",
   "candidates": [
+    {
+      "title": "iirg4x/mp6-native-port",
+      "url": "https://github.com/iirg4x/mp6-native-port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-23T15:16:27Z",
+      "summary": "Native PC (Windows) and Android port of Mario Party 6, built on the byte-accurate GC decompilation. Game files are NOT included — supply your own disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T16:52:43.619059+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [
+          "windows",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "graphoflife/space-evolution",
+      "url": "https://github.com/graphoflife/space-evolution",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-23T15:19:59Z",
+      "summary": "Space Evolution - hex merge puzzle in the browser (three.js port of the Android game)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T16:52:43.618500+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Liondarkz/issn_pc",
+      "url": "https://github.com/Liondarkz/issn_pc",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-23T16:34:53Z",
+      "summary": "Port nativo de inFAMOUS Second Son para PC (Windows, Vulkan), com FSR 4, DLSS, mouse 1:1 e suporte a controle. Não inclui arquivos do jogo: use seu próprio dump. / Native PC port of inFAMOUS Second Son (Windows, Vulkan). No game files included. Topics: infamous, infamous-second-son, linux, native, port, port-pc, vulkan, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T16:52:41.701449+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Katon17/black-linux",
+      "url": "https://github.com/Katon17/black-linux",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-23T13:55:25Z",
+      "summary": "Native Linux port of Black (Xbox, 2006) - static recompilation, Vulkan + SDL3, .deb for Ubuntu/Mint. Bring your own game. Topics: black, deb, linux, recompilation, sdl3, vulkan, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T16:52:37.712222+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "vamidi/tales-of-world-psprecomp",
+      "url": "https://github.com/vamidi/tales-of-world-psprecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-23T14:00:11Z",
+      "summary": "Static recompilation for the game Tales of the World Radiant Mythology 1,2,3",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T16:52:37.711783+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "syleront/catz5-mac",
+      "url": "https://github.com/syleront/catz5-mac",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-23T15:41:26Z",
+      "summary": "Static recompilation of the 2002 Win32 game Catz 5 into a native macOS (Apple Silicon) app, built with recomp-kit. Topics: arm64, macos, petz, recomp-kit, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T16:52:37.711329+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "vs-sr-dev/pc-3ddotgameheroes",
+      "url": "https://github.com/vs-sr-dev/pc-3ddotgameheroes",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-23T16:35:20Z",
+      "summary": "Towards a native PC port of 3D Dot Game Heroes (PS3, 2009): a static recompilation on ps3kit, with the disc's formats documented. BYOA, no game data. Topics: 3d-dot-game-heroes, byoa, cpp, file-formats, from-software, game-preservation, lua, opengl, pc-port, playstation-3, ps3, python, recompilation, reverse-engineering, sdl3, spu, spurs, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T16:52:37.710638+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "pieteradejong/cnc-web",
+      "url": "https://github.com/pieteradejong/cnc-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-23T15:23:33Z",
+      "summary": "Play Command & Conquer: Tiberian Dawn and Red Alert in the browser, with your own game files. Vite + TypeScript, js-dos today, Vanilla Conquer WebAssembly next.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T16:52:33.629252+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "mitchivin/rugby08",
+      "url": "https://github.com/mitchivin/rugby08",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-23T16:49:11Z",
+      "summary": "Play Rugby 08, the 2007 PC rugby game, in your browser: recompiled to WebAssembly and WebGL 2, with online multiplayer for up to four players. Topics: browser-game, cloudflare-workers, cpp, emscripten, game-port, html5-game, multiplayer, online-multiplayer, pc-port, pwa, recompilation, retrogaming, rugby, rugby-union, rugby08, sports-game, static-recompilation, webassembly, webgl2, webrtc",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-23T16:52:33.626872+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl",
+          "html5"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, webgl, html5"
+      ]
+    },
     {
       "title": "firetoad72/blinx-android",
       "url": "https://github.com/firetoad72/blinx-android",
@@ -11,7 +315,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T09:53:34.194261+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T16:52:46.683316+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Unofficial Android port of Blinx: The Time Sweeper (Xbox) by static recompilation. No game code or assets included; you need your own copy.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +366,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T09:53:32.486218+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T16:52:48.139420+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Android Port of one of my most nostalgia game \"DISCO\" . This is an unofficial port of one of my most nostalgia game \"DISCO\". You have to manage a disco club and run it to increase the revenue. P This port is made via Vibe Coding. T",
+        "latest_release_url": "https://github.com/not-so-vishal/Disco-Nokia-Android-Port/releases/tag/1.0.0",
+        "latest_release_name": "Disco Android Port v1.0.0",
+        "release_assets": [
+          {
+            "name": "Disco-Android-Port-v1.0.0.apk",
+            "url": "https://github.com/not-so-vishal/Disco-Nokia-Android-Port/releases/download/1.0.0/Disco-Android-Port-v1.0.0.apk",
+            "size": 2408673
+          }
+        ],
+        "releases": [
+          {
+            "name": "Disco Android Port v1.0.0",
+            "url": "https://github.com/not-so-vishal/Disco-Nokia-Android-Port/releases/tag/1.0.0",
+            "published_at": "2026-10-21T20:16:59Z",
+            "assets": [
+              {
+                "name": "Disco-Android-Port-v1.0.0.apk",
+                "url": "https://github.com/not-so-vishal/Disco-Nokia-Android-Port/releases/download/1.0.0/Disco-Android-Port-v1.0.0.apk",
+                "size": 2408673
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -59,9 +418,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Disco-Android-Port-v1.0.0.apk",
+          "url": "https://github.com/not-so-vishal/Disco-Nokia-Android-Port/releases/download/1.0.0/Disco-Android-Port-v1.0.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -79,7 +445,251 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T09:53:32.484141+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T16:52:49.477636+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Faithful Rust port of POKéMON Simulator V4.5 (BirdieSoft, 2004) with a GBA-style game UI — macOS, Windows, Android",
+        "latest_release_url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/tag/v1.1.1",
+        "latest_release_name": "POKéMON Simulator 1.1.1",
+        "release_assets": [
+          {
+            "name": "PokemonSimulator-1.1.1-android-arm64.apk",
+            "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-android-arm64.apk",
+            "size": 4912959
+          },
+          {
+            "name": "PokemonSimulator-1.1.1-android-arm64.apk.sha256",
+            "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-android-arm64.apk.sha256",
+            "size": 107
+          },
+          {
+            "name": "PokemonSimulator-1.1.1-macos-universal.zip",
+            "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-macos-universal.zip",
+            "size": 9667596
+          },
+          {
+            "name": "PokemonSimulator-1.1.1-macos-universal.zip.sha256",
+            "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-macos-universal.zip.sha256",
+            "size": 109
+          },
+          {
+            "name": "PokemonSimulator-1.1.1-windows-x64.zip",
+            "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-windows-x64.zip",
+            "size": 7878196
+          },
+          {
+            "name": "PokemonSimulator-1.1.1-windows-x64.zip.sha256",
+            "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-windows-x64.zip.sha256",
+            "size": 105
+          }
+        ],
+        "releases": [
+          {
+            "name": "POKéMON Simulator 1.1.1",
+            "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/tag/v1.1.1",
+            "published_at": "2026-10-11T04:20:51Z",
+            "assets": [
+              {
+                "name": "PokemonSimulator-1.1.1-android-arm64.apk",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-android-arm64.apk",
+                "size": 4912959
+              },
+              {
+                "name": "PokemonSimulator-1.1.1-android-arm64.apk.sha256",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-android-arm64.apk.sha256",
+                "size": 107
+              },
+              {
+                "name": "PokemonSimulator-1.1.1-macos-universal.zip",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-macos-universal.zip",
+                "size": 9667596
+              },
+              {
+                "name": "PokemonSimulator-1.1.1-macos-universal.zip.sha256",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-macos-universal.zip.sha256",
+                "size": 109
+              },
+              {
+                "name": "PokemonSimulator-1.1.1-windows-x64.zip",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-windows-x64.zip",
+                "size": 7878196
+              },
+              {
+                "name": "PokemonSimulator-1.1.1-windows-x64.zip.sha256",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-windows-x64.zip.sha256",
+                "size": 105
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "POKéMON Simulator 1.1.0 — colour schemes",
+            "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/tag/v1.1.0",
+            "published_at": "2026-10-10T19:15:35Z",
+            "assets": [
+              {
+                "name": "PokemonSimulator-1.1.0-android-arm64.apk",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.0/PokemonSimulator-1.1.0-android-arm64.apk",
+                "size": 4912959
+              },
+              {
+                "name": "PokemonSimulator-1.1.0-android-arm64.apk.sha256",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.0/PokemonSimulator-1.1.0-android-arm64.apk.sha256",
+                "size": 107
+              },
+              {
+                "name": "PokemonSimulator-1.1.0-macos-universal.zip",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.0/PokemonSimulator-1.1.0-macos-universal.zip",
+                "size": 9666060
+              },
+              {
+                "name": "PokemonSimulator-1.1.0-macos-universal.zip.sha256",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.0/PokemonSimulator-1.1.0-macos-universal.zip.sha256",
+                "size": 109
+              },
+              {
+                "name": "PokemonSimulator-1.1.0-windows-x64.zip",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.0/PokemonSimulator-1.1.0-windows-x64.zip",
+                "size": 7875242
+              },
+              {
+                "name": "PokemonSimulator-1.1.0-windows-x64.zip.sha256",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.0/PokemonSimulator-1.1.0-windows-x64.zip.sha256",
+                "size": 105
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "POKéMON Simulator 1.0.2",
+            "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/tag/v1.0.2",
+            "published_at": "2026-10-10T19:08:52Z",
+            "assets": [
+              {
+                "name": "PokemonSimulator-1.0.2-android-arm64.apk",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.2/PokemonSimulator-1.0.2-android-arm64.apk",
+                "size": 4904767
+              },
+              {
+                "name": "PokemonSimulator-1.0.2-android-arm64.apk.sha256",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.2/PokemonSimulator-1.0.2-android-arm64.apk.sha256",
+                "size": 107
+              },
+              {
+                "name": "PokemonSimulator-1.0.2-macos-universal.zip",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.2/PokemonSimulator-1.0.2-macos-universal.zip",
+                "size": 9654803
+              },
+              {
+                "name": "PokemonSimulator-1.0.2-macos-universal.zip.sha256",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.2/PokemonSimulator-1.0.2-macos-universal.zip.sha256",
+                "size": 109
+              },
+              {
+                "name": "PokemonSimulator-1.0.2-windows-x64.zip",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.2/PokemonSimulator-1.0.2-windows-x64.zip",
+                "size": 7865425
+              },
+              {
+                "name": "PokemonSimulator-1.0.2-windows-x64.zip.sha256",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.2/PokemonSimulator-1.0.2-windows-x64.zip.sha256",
+                "size": 105
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "POKéMON Simulator 1.0.1",
+            "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/tag/v1.0.1",
+            "published_at": "2026-10-10T18:59:16Z",
+            "assets": [
+              {
+                "name": "PokemonSimulator-1.0.1-android-arm64.apk",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.1/PokemonSimulator-1.0.1-android-arm64.apk",
+                "size": 4904767
+              },
+              {
+                "name": "PokemonSimulator-1.0.1-android-arm64.apk.sha256",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.1/PokemonSimulator-1.0.1-android-arm64.apk.sha256",
+                "size": 107
+              },
+              {
+                "name": "PokemonSimulator-1.0.1-macos-universal.zip",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.1/PokemonSimulator-1.0.1-macos-universal.zip",
+                "size": 9650250
+              },
+              {
+                "name": "PokemonSimulator-1.0.1-macos-universal.zip.sha256",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.1/PokemonSimulator-1.0.1-macos-universal.zip.sha256",
+                "size": 109
+              },
+              {
+                "name": "PokemonSimulator-1.0.1-windows-x64.zip",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.1/PokemonSimulator-1.0.1-windows-x64.zip",
+                "size": 7867818
+              },
+              {
+                "name": "PokemonSimulator-1.0.1-windows-x64.zip.sha256",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.1/PokemonSimulator-1.0.1-windows-x64.zip.sha256",
+                "size": 105
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "POKéMON Simulator 1.0.0",
+            "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/tag/v1.0.0",
+            "published_at": "2026-10-10T18:53:38Z",
+            "assets": [
+              {
+                "name": "PokemonSimulator-1.0.0-android-arm64.apk",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.0/PokemonSimulator-1.0.0-android-arm64.apk",
+                "size": 4900671
+              },
+              {
+                "name": "PokemonSimulator-1.0.0-android-arm64.apk.sha256",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.0/PokemonSimulator-1.0.0-android-arm64.apk.sha256",
+                "size": 107
+              },
+              {
+                "name": "PokemonSimulator-1.0.0-macos-universal.zip",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.0/PokemonSimulator-1.0.0-macos-universal.zip",
+                "size": 9650420
+              },
+              {
+                "name": "PokemonSimulator-1.0.0-macos-universal.zip.sha256",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.0/PokemonSimulator-1.0.0-macos-universal.zip.sha256",
+                "size": 109
+              },
+              {
+                "name": "PokemonSimulator-1.0.0-windows-x64.zip",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.0/PokemonSimulator-1.0.0-windows-x64.zip",
+                "size": 7868016
+              },
+              {
+                "name": "PokemonSimulator-1.0.0-windows-x64.zip.sha256",
+                "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.0/PokemonSimulator-1.0.0-windows-x64.zip.sha256",
+                "size": 105
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -95,10 +705,162 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "PokemonSimulator-1.1.1-android-arm64.apk",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "PokemonSimulator-1.1.1-android-arm64.apk.sha256",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-android-arm64.apk.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "PokemonSimulator-1.1.1-macos-universal.zip",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PokemonSimulator-1.1.1-macos-universal.zip.sha256",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-macos-universal.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "PokemonSimulator-1.1.1-windows-x64.zip",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PokemonSimulator-1.1.1-windows-x64.zip.sha256",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.1/PokemonSimulator-1.1.1-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "PokemonSimulator-1.1.0-android-arm64.apk",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.0/PokemonSimulator-1.1.0-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "PokemonSimulator-1.1.0-android-arm64.apk.sha256",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.0/PokemonSimulator-1.1.0-android-arm64.apk.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "PokemonSimulator-1.1.0-macos-universal.zip",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.0/PokemonSimulator-1.1.0-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PokemonSimulator-1.1.0-macos-universal.zip.sha256",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.0/PokemonSimulator-1.1.0-macos-universal.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "PokemonSimulator-1.1.0-windows-x64.zip",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.0/PokemonSimulator-1.1.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PokemonSimulator-1.1.0-windows-x64.zip.sha256",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.1.0/PokemonSimulator-1.1.0-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "PokemonSimulator-1.0.2-android-arm64.apk",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.2/PokemonSimulator-1.0.2-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "PokemonSimulator-1.0.2-android-arm64.apk.sha256",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.2/PokemonSimulator-1.0.2-android-arm64.apk.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "PokemonSimulator-1.0.2-macos-universal.zip",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.2/PokemonSimulator-1.0.2-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PokemonSimulator-1.0.2-macos-universal.zip.sha256",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.2/PokemonSimulator-1.0.2-macos-universal.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "PokemonSimulator-1.0.2-windows-x64.zip",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.2/PokemonSimulator-1.0.2-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PokemonSimulator-1.0.2-windows-x64.zip.sha256",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.2/PokemonSimulator-1.0.2-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "PokemonSimulator-1.0.1-android-arm64.apk",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.1/PokemonSimulator-1.0.1-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "PokemonSimulator-1.0.1-android-arm64.apk.sha256",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.1/PokemonSimulator-1.0.1-android-arm64.apk.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "PokemonSimulator-1.0.1-macos-universal.zip",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.1/PokemonSimulator-1.0.1-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PokemonSimulator-1.0.1-macos-universal.zip.sha256",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.1/PokemonSimulator-1.0.1-macos-universal.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "PokemonSimulator-1.0.1-windows-x64.zip",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.1/PokemonSimulator-1.0.1-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PokemonSimulator-1.0.1-windows-x64.zip.sha256",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.1/PokemonSimulator-1.0.1-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "PokemonSimulator-1.0.0-android-arm64.apk",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.0/PokemonSimulator-1.0.0-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "PokemonSimulator-1.0.0-android-arm64.apk.sha256",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.0/PokemonSimulator-1.0.0-android-arm64.apk.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "PokemonSimulator-1.0.0-macos-universal.zip",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.0/PokemonSimulator-1.0.0-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PokemonSimulator-1.0.0-macos-universal.zip.sha256",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.0/PokemonSimulator-1.0.0-macos-universal.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "PokemonSimulator-1.0.0-windows-x64.zip",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.0/PokemonSimulator-1.0.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PokemonSimulator-1.0.0-windows-x64.zip.sha256",
+          "url": "https://github.com/atulpatildbz/pokemon-sim-rs/releases/download/v1.0.0/PokemonSimulator-1.0.0-windows-x64.zip.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -116,7 +878,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T09:53:32.482913+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T16:52:50.919161+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A standalone Android port of Sonic 1 Forever, compiled via GitHub Actions for personal use on a mobile device. This custom repository embeds the essential Data.rsdk game files directly into the source architecture, building a fully functional and self-contained app bundle. Experience optimized performance, fluid physics, and high frame rates & more",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -150,7 +929,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T09:53:32.481432+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T16:52:52.213578+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A standalone Android port of Sonic 1 Forever, compiled via GitHub Actions for personal use on a mobile device. This custom repository embeds the essential Data.rsdk game files directly into the source architecture, building a fully functional and self-contained app bundle. Experience optimized performance, fluid physics, and high frame rates & more",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -184,7 +980,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T09:53:32.480254+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T16:52:53.492966+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Android port (re3 engine) of the GTA III total-conversion mod 'GTA Advance PC'. Source only, no game data; APK in Releases.",
+        "latest_release_url": "https://github.com/codepdbh/re3-gta-advance-port/releases/tag/v0.1.0",
+        "latest_release_name": "GTA Advance para Android v0.1.0 (experimental)",
+        "release_assets": [
+          {
+            "name": "re3-gtaadvance.apk",
+            "url": "https://github.com/codepdbh/re3-gta-advance-port/releases/download/v0.1.0/re3-gtaadvance.apk",
+            "size": 9756732
+          }
+        ],
+        "releases": [
+          {
+            "name": "GTA Advance para Android v0.1.0 (experimental)",
+            "url": "https://github.com/codepdbh/re3-gta-advance-port/releases/tag/v0.1.0",
+            "published_at": "2026-09-23T20:27:41Z",
+            "assets": [
+              {
+                "name": "re3-gtaadvance.apk",
+                "url": "https://github.com/codepdbh/re3-gta-advance-port/releases/download/v0.1.0/re3-gtaadvance.apk",
+                "size": 9756732
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -198,9 +1032,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "re3-gtaadvance.apk",
+          "url": "https://github.com/codepdbh/re3-gta-advance-port/releases/download/v0.1.0/re3-gtaadvance.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -218,7 +1059,73 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T09:53:32.479313+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T16:52:54.864140+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "reVC Android port (evolved) - 'reVC Enhanced & Fixed' edition: runs the 'vc enhanced' Vice City mod on Android. Source only, no game data.",
+        "latest_release_url": "https://github.com/codepdbh/reVC-android-evolved-ENHANCED-MOD/releases/tag/v1.1.0",
+        "latest_release_name": "reVC Enhanced & Fixed 1.1.0",
+        "release_assets": [
+          {
+            "name": "reVC-Enhanced-Fixed-v1.1.0.apk",
+            "url": "https://github.com/codepdbh/reVC-android-evolved-ENHANCED-MOD/releases/download/v1.1.0/reVC-Enhanced-Fixed-v1.1.0.apk",
+            "size": 10540666
+          }
+        ],
+        "releases": [
+          {
+            "name": "reVC Enhanced & Fixed 1.1.0",
+            "url": "https://github.com/codepdbh/reVC-android-evolved-ENHANCED-MOD/releases/tag/v1.1.0",
+            "published_at": "2026-09-21T21:57:26Z",
+            "assets": [
+              {
+                "name": "reVC-Enhanced-Fixed-v1.1.0.apk",
+                "url": "https://github.com/codepdbh/reVC-android-evolved-ENHANCED-MOD/releases/download/v1.1.0/reVC-Enhanced-Fixed-v1.1.0.apk",
+                "size": 10540666
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "reVC Enhanced & Fixed 1.0.1",
+            "url": "https://github.com/codepdbh/reVC-android-evolved-ENHANCED-MOD/releases/tag/v1.0.1",
+            "published_at": "2026-09-21T21:22:01Z",
+            "assets": [
+              {
+                "name": "reVC-Enhanced-Fixed-v1.0.1.apk",
+                "url": "https://github.com/codepdbh/reVC-android-evolved-ENHANCED-MOD/releases/download/v1.0.1/reVC-Enhanced-Fixed-v1.0.1.apk",
+                "size": 10536934
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "reVC Enhanced & Fixed 1.0.0",
+            "url": "https://github.com/codepdbh/reVC-android-evolved-ENHANCED-MOD/releases/tag/v1.0.0",
+            "published_at": "2026-09-21T21:05:40Z",
+            "assets": [
+              {
+                "name": "reVC-Enhanced-Fixed-v1.0.0.apk",
+                "url": "https://github.com/codepdbh/reVC-android-evolved-ENHANCED-MOD/releases/download/v1.0.0/reVC-Enhanced-Fixed-v1.0.0.apk",
+                "size": 10536942
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -232,9 +1139,26 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "reVC-Enhanced-Fixed-v1.1.0.apk",
+          "url": "https://github.com/codepdbh/reVC-android-evolved-ENHANCED-MOD/releases/download/v1.1.0/reVC-Enhanced-Fixed-v1.1.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "reVC-Enhanced-Fixed-v1.0.1.apk",
+          "url": "https://github.com/codepdbh/reVC-android-evolved-ENHANCED-MOD/releases/download/v1.0.1/reVC-Enhanced-Fixed-v1.0.1.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "reVC-Enhanced-Fixed-v1.0.0.apk",
+          "url": "https://github.com/codepdbh/reVC-android-evolved-ENHANCED-MOD/releases/download/v1.0.0/reVC-Enhanced-Fixed-v1.0.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
@@ -252,7 +1176,171 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T09:53:32.478180+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-23T16:52:56.248305+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Windows and Android port of Earthworm Jim and Earthworm Jim 2 (Sega Genesis / Mega Drive) with a launcher, touch controls, gamepad support, save states and rewind. Runs from your own USA ROMs; no game data included. Early scaffold derived from the MIT-licensed Mickey and Donald Collection by Darhkfox.",
+        "latest_release_url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/tag/v0.5.8",
+        "latest_release_name": "Earthworm Jim Collection v0.5.8",
+        "release_assets": [
+          {
+            "name": "Earthworm-Jim-Collection-v0.5.8-win64.zip",
+            "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.8/Earthworm-Jim-Collection-v0.5.8-win64.zip",
+            "size": 664017
+          }
+        ],
+        "releases": [
+          {
+            "name": "Earthworm Jim Collection v0.5.8",
+            "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/tag/v0.5.8",
+            "published_at": "2026-10-22T17:21:30Z",
+            "assets": [
+              {
+                "name": "Earthworm-Jim-Collection-v0.5.8-win64.zip",
+                "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.8/Earthworm-Jim-Collection-v0.5.8-win64.zip",
+                "size": 664017
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Earthworm Jim Collection v0.5.7",
+            "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/tag/v0.5.7",
+            "published_at": "2026-10-22T16:48:27Z",
+            "assets": [
+              {
+                "name": "Earthworm-Jim-Collection-v0.5.7-win64.zip",
+                "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.7/Earthworm-Jim-Collection-v0.5.7-win64.zip",
+                "size": 662662
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Earthworm Jim Collection v0.5.6",
+            "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/tag/v0.5.6",
+            "published_at": "2026-10-22T16:20:19Z",
+            "assets": [
+              {
+                "name": "Earthworm-Jim-Collection-v0.5.6-win64.zip",
+                "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.6/Earthworm-Jim-Collection-v0.5.6-win64.zip",
+                "size": 661564
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Earthworm Jim Collection v0.5.5",
+            "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/tag/v0.5.5",
+            "published_at": "2026-10-22T16:08:54Z",
+            "assets": [
+              {
+                "name": "Earthworm-Jim-Collection-v0.5.5-win64.zip",
+                "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.5/Earthworm-Jim-Collection-v0.5.5-win64.zip",
+                "size": 661746
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Earthworm Jim Collection v0.5.4",
+            "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/tag/v0.5.4",
+            "published_at": "2026-10-22T16:03:09Z",
+            "assets": [
+              {
+                "name": "Earthworm-Jim-Collection-v0.5.4-win64.zip",
+                "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.4/Earthworm-Jim-Collection-v0.5.4-win64.zip",
+                "size": 661731
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Earthworm Jim Collection v0.5.3",
+            "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/tag/v0.5.3",
+            "published_at": "2026-10-22T16:00:52Z",
+            "assets": [
+              {
+                "name": "Earthworm-Jim-Collection-v0.5.3-win64.zip",
+                "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.3/Earthworm-Jim-Collection-v0.5.3-win64.zip",
+                "size": 661728
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Earthworm Jim Collection v0.5.2",
+            "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/tag/v0.5.2",
+            "published_at": "2026-10-22T15:54:14Z",
+            "assets": [
+              {
+                "name": "Earthworm-Jim-Collection-v0.5.2-win64.zip",
+                "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.2/Earthworm-Jim-Collection-v0.5.2-win64.zip",
+                "size": 661339
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Earthworm Jim Collection v0.5.1",
+            "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/tag/v0.5.1",
+            "published_at": "2026-10-22T15:50:20Z",
+            "assets": [
+              {
+                "name": "Earthworm-Jim-Collection-v0.5.1-win64.zip",
+                "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.1/Earthworm-Jim-Collection-v0.5.1-win64.zip",
+                "size": 661331
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Earthworm Jim Collection v0.5.0",
+            "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/tag/v0.5.0",
+            "published_at": "2026-10-22T15:10:28Z",
+            "assets": [
+              {
+                "name": "Earthworm-Jim-Collection-v0.5.0-win64.zip",
+                "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.0/Earthworm-Jim-Collection-v0.5.0-win64.zip",
+                "size": 661145
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Earthworm Jim Collection v0.4.7",
+            "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/tag/v0.4.7",
+            "published_at": "2026-10-22T14:48:22Z",
+            "assets": [
+              {
+                "name": "Earthworm-Jim-Collection-v0.4.7-win64.zip",
+                "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.4.7/Earthworm-Jim-Collection-v0.4.7-win64.zip",
+                "size": 659209
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -265,14 +1353,67 @@
           "android port"
         ],
         "pc_terms": [
-          "windows"
+          "windows",
+          "win64"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Earthworm-Jim-Collection-v0.5.8-win64.zip",
+          "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.8/Earthworm-Jim-Collection-v0.5.8-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Earthworm-Jim-Collection-v0.5.7-win64.zip",
+          "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.7/Earthworm-Jim-Collection-v0.5.7-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Earthworm-Jim-Collection-v0.5.6-win64.zip",
+          "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.6/Earthworm-Jim-Collection-v0.5.6-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Earthworm-Jim-Collection-v0.5.5-win64.zip",
+          "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.5/Earthworm-Jim-Collection-v0.5.5-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Earthworm-Jim-Collection-v0.5.4-win64.zip",
+          "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.4/Earthworm-Jim-Collection-v0.5.4-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Earthworm-Jim-Collection-v0.5.3-win64.zip",
+          "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.3/Earthworm-Jim-Collection-v0.5.3-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Earthworm-Jim-Collection-v0.5.2-win64.zip",
+          "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.2/Earthworm-Jim-Collection-v0.5.2-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Earthworm-Jim-Collection-v0.5.1-win64.zip",
+          "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.1/Earthworm-Jim-Collection-v0.5.1-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Earthworm-Jim-Collection-v0.5.0-win64.zip",
+          "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.5.0/Earthworm-Jim-Collection-v0.5.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Earthworm-Jim-Collection-v0.4.7-win64.zip",
+          "url": "https://github.com/AshJamB/Earthworm-Jim-Collection/releases/download/v0.4.7/Earthworm-Jim-Collection-v0.4.7-win64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
