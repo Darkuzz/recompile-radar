@@ -1,7 +1,584 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-23T23:00:15.104063+00:00",
+  "last_updated": "2026-10-24T09:23:30.283973+00:00",
   "candidates": [
+    {
+      "title": "sindufha/transformers-the-game-recomp",
+      "url": "https://github.com/sindufha/transformers-the-game-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-24T01:10:58Z",
+      "summary": "Experimental Android recompilation port of Transformers: The Game. APK previews, installation guides, controls, and development status. Topics: android, dxvk, game-port, static-recompilation, transformers, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:23:14.401724+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "shlusiak/Freebloks-Android",
+      "url": "https://github.com/shlusiak/Freebloks-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-24T07:18:32Z",
+      "summary": "Android port of Freebloks 3D, a clone of the popular board game Blokus Topics: android, app, kotlin, open-source",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:23:14.401200+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "irnutsmurt/Street-Alpha-3-Dreamcast-Recomp",
+      "url": "https://github.com/irnutsmurt/Street-Alpha-3-Dreamcast-Recomp",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-24T00:33:10Z",
+      "summary": "Native PC port (Linux/Windows) of the US Dreamcast version of Street Fighter Alpha 3 via static recompilation. Bring your own legally acquired disc; no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:23:12.473697+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "SiirGustav/playcard-cosmic-port",
+      "url": "https://github.com/SiirGustav/playcard-cosmic-port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-24T03:09:13Z",
+      "summary": "Native cross-platform (Windows/Linux/macOS) C++20/SDL3 port of Playcard's Cosmic (2000). Requires the original game files; none included. Made with AI tools. Topics: cpp20, cross-platform, game-port, retro-gaming, reverse-engineering, sdl3",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:23:12.472187+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game, windows, linux"
+      ]
+    },
+    {
+      "title": "m1ndcrap/Sega-Superstars-Tennis-ReMatch",
+      "url": "https://github.com/m1ndcrap/Sega-Superstars-Tennis-ReMatch",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-24T04:21:20Z",
+      "summary": "A native Windows/Linux port of the Xbox 360 version of Sega Superstars Tennis, recompiled with the ReXGlue SDK (v0.10.0). The game's code runs as native x64. Its graphics run on a native Direct3D 12 renderer that translates the game's Xbox 360 shaders, not an emulated GPU.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:23:12.471057+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "warpzone-gg/baba-port",
+      "url": "https://github.com/warpzone-gg/baba-port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-24T06:17:50Z",
+      "summary": "Clean-room reimplementation of Baba Is You in Rust: Linux, Windows, macOS, Android, PortMaster; up to 12 players, local and online (Warpzone). Bring your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:23:12.470490+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: reimplementation",
+        "Есть игровые/платформенные признаки: game, windows, linux, android"
+      ]
+    },
+    {
+      "title": "warpzone-gg/super-mario-land-port",
+      "url": "https://github.com/warpzone-gg/super-mario-land-port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-24T06:21:44Z",
+      "summary": "Warpzone's own Super Mario Land port (github.com/warpzone-gg/super-mario-land-port): a cycle-exact C port of the Game Boy game that loads its data from the player's own ROM. Releases for Linux, Windows, PortMaster handhelds (Jan's Knulli \"gameboy\") and the Steam Deck, all auto-updating with an in-game changelog; widescreen, RetroAchievements, level",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:23:12.469613+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows, linux"
+      ]
+    },
+    {
+      "title": "ducvd89/Bloodborne-android-rebuild-tool",
+      "url": "https://github.com/ducvd89/Bloodborne-android-rebuild-tool",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-24T06:47:00Z",
+      "summary": "Turn your own Bloodborne PKGs into a ready-to-copy folder for the Android port, with the game's x86-64 code recompiled to native ARM64 (Windows/Linux, GUI)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:23:12.468963+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux, android"
+      ]
+    },
+    {
+      "title": "mamcjr/BOTWRecompAndroid",
+      "url": "https://github.com/mamcjr/BOTWRecompAndroid",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-24T01:10:48Z",
+      "summary": "Static recompilation of The Legend of Zelda: Breath of the Wild (Switch 1.0.0 / 1.6.0 / 1.8.2) for Android - no game files included",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:23:08.543337+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "rodrigo-mendonca/BlueStingerRecomp",
+      "url": "https://github.com/rodrigo-mendonca/BlueStingerRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-24T01:16:32Z",
+      "summary": "Open-source static recompilation of Blue Stinger (Dreamcast, SH-4) into native Windows x64 C++20, focused on game preservation, hardware replacement, and modding.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:23:08.542860+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, game preservation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "kastiellcontato-design/Code-Veronica-Recomp",
+      "url": "https://github.com/kastiellcontato-design/Code-Veronica-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-24T05:53:38Z",
+      "summary": "Resident Evil Code: Veronica X HD - PS3 static recompilation port (hobby, no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:23:08.542398+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "ElKev118/ghostrecon2-recomp",
+      "url": "https://github.com/ElKev118/ghostrecon2-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-24T05:59:54Z",
+      "summary": "Native Windows port of Tom Clancy's Ghost Recon 2 (Xbox) via static recompilation — Vulkan renderer, up to 6x resolution, SMAA, FSR 1. Bring your own game files",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:23:08.541896+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "debeanz/LASRecomp-iOS",
+      "url": "https://github.com/debeanz/LASRecomp-iOS",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-24T06:59:33Z",
+      "summary": "LAS Recomp (Link's Awakening static recompilation) for iPhone/iPad: touch controls, phone settings. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:23:08.541367+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "iHaiDeeZ/TOTK-PS4",
+      "url": "https://github.com/iHaiDeeZ/TOTK-PS4",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-24T07:37:25Z",
+      "summary": "The Legend of Zelda: Tears of the Kingdom on a jailbroken PS4: static recompilation, NVN replayed on Vulkan/RADV. Source only: bring your own game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:23:08.540885+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "fiercepug/Cyberstrike",
+      "url": "https://github.com/fiercepug/Cyberstrike",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-24T08:46:14Z",
+      "summary": "Free CS2-style tactical FPS in your browser: aim trainer, bots, Dust II / Inferno / Nuke, online 1v1 and casual lobbies. C++, raylib, WebAssembly. Topics: aim-trainer, browser-game, counter-strike, cpp, cs2, emscripten, fps, game, gamedev, indie-game, multiplayer, raylib, webassembly, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:23:04.237908+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, webgl",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "jaking-studios/slimefall-td",
+      "url": "https://github.com/jaking-studios/slimefall-td",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-10-22T06:06:50Z",
+      "summary": "🟢 Slimefall TD: a free, original tower defense game. 28 towers, 420 upgrades, heroes, bosses, roguelike runs. Play in browser or install on Android, iOS, Windows, macOS & Linux. Topics: android, browser-game, canvas, capacitor, electron, game, html5-game, indie-game, ios, javascript, open-source, pwa, roguelike, tower-defense",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:23:02.296522+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "html5",
+          "play in browser"
+        ],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, play in browser, html5, windows, linux",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "Sooryakiran/mikis-world-browser-js-port",
+      "url": "https://github.com/Sooryakiran/mikis-world-browser-js-port",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-24T08:36:00Z",
+      "summary": "Browser port of Mikis World Game from Mom's phone from 2007",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-24T09:22:59.951487+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "KatoteKiru/bfme1-mobile",
       "url": "https://github.com/KatoteKiru/bfme1-mobile",
@@ -11,7 +588,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T23:00:01.265611+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-24T09:23:17.596913+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "bfme",
+        "description": "Open-source Android port of The Lord of the Rings: The Battle for Middle-earth on the GPL SAGE engine (C&C Generals Zero Hour). Engine code only, bring your own copy of the game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +639,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T23:00:01.264692+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-24T09:23:19.162841+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial Android port of Luigi's Mansion (PC recompilation). Bring your own game copy.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -79,7 +690,172 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T22:59:59.472555+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-24T09:23:20.768495+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Launcher for AnyPS5 on Windows and Linux, laid out like the PS5 home screen: finds your game dumps, unlocks them, starts them and keeps controls, saves and trophies per game. Port of the AnyPS5-ARM macOS launcher by utkuhalis.",
+        "latest_release_url": "https://github.com/anyplay-gg/launcher/releases/tag/v0.1.3",
+        "latest_release_name": "AnyPS5 Launcher 0.1.3",
+        "release_assets": [
+          {
+            "name": "AnyPS5-Launcher-0.1.3-linux-x86_64.tar.gz",
+            "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.3/AnyPS5-Launcher-0.1.3-linux-x86_64.tar.gz",
+            "size": 10794780
+          },
+          {
+            "name": "AnyPS5-Launcher-0.1.3-Setup.exe",
+            "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.3/AnyPS5-Launcher-0.1.3-Setup.exe",
+            "size": 8500250
+          },
+          {
+            "name": "AnyPS5-Launcher-0.1.3-x64.exe",
+            "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.3/AnyPS5-Launcher-0.1.3-x64.exe",
+            "size": 19710464
+          },
+          {
+            "name": "AnyPS5-Launcher-0.1.3-x86_64.AppImage",
+            "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.3/AnyPS5-Launcher-0.1.3-x86_64.AppImage",
+            "size": 10840568
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.3/SHA256SUMS.txt",
+            "size": 406
+          }
+        ],
+        "releases": [
+          {
+            "name": "AnyPS5 Launcher 0.1.3",
+            "url": "https://github.com/anyplay-gg/launcher/releases/tag/v0.1.3",
+            "published_at": "2026-10-22T20:49:18Z",
+            "assets": [
+              {
+                "name": "AnyPS5-Launcher-0.1.3-linux-x86_64.tar.gz",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.3/AnyPS5-Launcher-0.1.3-linux-x86_64.tar.gz",
+                "size": 10794780
+              },
+              {
+                "name": "AnyPS5-Launcher-0.1.3-Setup.exe",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.3/AnyPS5-Launcher-0.1.3-Setup.exe",
+                "size": 8500250
+              },
+              {
+                "name": "AnyPS5-Launcher-0.1.3-x64.exe",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.3/AnyPS5-Launcher-0.1.3-x64.exe",
+                "size": 19710464
+              },
+              {
+                "name": "AnyPS5-Launcher-0.1.3-x86_64.AppImage",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.3/AnyPS5-Launcher-0.1.3-x86_64.AppImage",
+                "size": 10840568
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.3/SHA256SUMS.txt",
+                "size": 406
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "AnyPS5 Launcher 0.1.2",
+            "url": "https://github.com/anyplay-gg/launcher/releases/tag/v0.1.2",
+            "published_at": "2026-10-22T19:12:52Z",
+            "assets": [
+              {
+                "name": "AnyPS5-Launcher-0.1.2-linux-x86_64.tar.gz",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.2/AnyPS5-Launcher-0.1.2-linux-x86_64.tar.gz",
+                "size": 10795709
+              },
+              {
+                "name": "AnyPS5-Launcher-0.1.2-Setup.exe",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.2/AnyPS5-Launcher-0.1.2-Setup.exe",
+                "size": 8495493
+              },
+              {
+                "name": "AnyPS5-Launcher-0.1.2-x64.exe",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.2/AnyPS5-Launcher-0.1.2-x64.exe",
+                "size": 19702272
+              },
+              {
+                "name": "AnyPS5-Launcher-0.1.2-x86_64.AppImage",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.2/AnyPS5-Launcher-0.1.2-x86_64.AppImage",
+                "size": 10836472
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.2/SHA256SUMS.txt",
+                "size": 406
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "AnyPS5 Launcher 0.1.1",
+            "url": "https://github.com/anyplay-gg/launcher/releases/tag/v0.1.1",
+            "published_at": "2026-10-22T15:34:16Z",
+            "assets": [
+              {
+                "name": "AnyPS5-Launcher-0.1.1-Setup.exe",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.1/AnyPS5-Launcher-0.1.1-Setup.exe",
+                "size": 8344516
+              },
+              {
+                "name": "AnyPS5-Launcher-0.1.1-x64.exe",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.1/AnyPS5-Launcher-0.1.1-x64.exe",
+                "size": 19216384
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.1/SHA256SUMS.txt",
+                "size": 196
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "AnyPS5 Launcher 0.1.0",
+            "url": "https://github.com/anyplay-gg/launcher/releases/tag/v0.1.0",
+            "published_at": "2026-10-22T15:05:53Z",
+            "assets": [
+              {
+                "name": "AnyPS5-Launcher-0.1.0-Setup.exe",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.0/AnyPS5-Launcher-0.1.0-Setup.exe",
+                "size": 8346553
+              },
+              {
+                "name": "AnyPS5-Launcher-0.1.0-x64.exe",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.0/AnyPS5-Launcher-0.1.0-x64.exe",
+                "size": 19216896
+              },
+              {
+                "name": "AnyPS5-Launcher-Update.mp4",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.0/AnyPS5-Launcher-Update.mp4",
+                "size": 16468542
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.0/SHA256SUMS.txt",
+                "size": 196
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -93,9 +869,96 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "AnyPS5-Launcher-0.1.3-linux-x86_64.tar.gz",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.3/AnyPS5-Launcher-0.1.3-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "AnyPS5-Launcher-0.1.3-Setup.exe",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.3/AnyPS5-Launcher-0.1.3-Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "AnyPS5-Launcher-0.1.3-x64.exe",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.3/AnyPS5-Launcher-0.1.3-x64.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "AnyPS5-Launcher-0.1.3-x86_64.AppImage",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.3/AnyPS5-Launcher-0.1.3-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.3/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "AnyPS5-Launcher-0.1.2-linux-x86_64.tar.gz",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.2/AnyPS5-Launcher-0.1.2-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "AnyPS5-Launcher-0.1.2-Setup.exe",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.2/AnyPS5-Launcher-0.1.2-Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "AnyPS5-Launcher-0.1.2-x64.exe",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.2/AnyPS5-Launcher-0.1.2-x64.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "AnyPS5-Launcher-0.1.2-x86_64.AppImage",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.2/AnyPS5-Launcher-0.1.2-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.2/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "AnyPS5-Launcher-0.1.1-Setup.exe",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.1/AnyPS5-Launcher-0.1.1-Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "AnyPS5-Launcher-0.1.1-x64.exe",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.1/AnyPS5-Launcher-0.1.1-x64.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.1/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "AnyPS5-Launcher-0.1.0-Setup.exe",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.0/AnyPS5-Launcher-0.1.0-Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "AnyPS5-Launcher-0.1.0-x64.exe",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.0/AnyPS5-Launcher-0.1.0-x64.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "AnyPS5-Launcher-Update.mp4",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.0/AnyPS5-Launcher-Update.mp4",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/anyplay-gg/launcher/releases/download/v0.1.0/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -113,7 +976,89 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T22:59:59.470409+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-24T09:23:22.414613+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A clean-room reimplementation of ROUNDS in Rust for Linux and Windows: up to 12 players on one screen or online over Warpzone with rollback netcode. Needs your own copy of the game.",
+        "latest_release_url": "https://github.com/warpzone-gg/rounds-port/releases/tag/v0.2.0",
+        "latest_release_name": "rounds-port 0.2.0",
+        "release_assets": [
+          {
+            "name": "rounds-port-0.2.0-linux-x86_64.tar.gz",
+            "url": "https://github.com/warpzone-gg/rounds-port/releases/download/v0.2.0/rounds-port-0.2.0-linux-x86_64.tar.gz",
+            "size": 10268831
+          },
+          {
+            "name": "rounds-port-0.2.0-windows-x86_64.zip",
+            "url": "https://github.com/warpzone-gg/rounds-port/releases/download/v0.2.0/rounds-port-0.2.0-windows-x86_64.zip",
+            "size": 14238469
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/warpzone-gg/rounds-port/releases/download/v0.2.0/SHA256SUMS",
+            "size": 207
+          }
+        ],
+        "releases": [
+          {
+            "name": "rounds-port 0.2.0",
+            "url": "https://github.com/warpzone-gg/rounds-port/releases/tag/v0.2.0",
+            "published_at": "2026-10-24T05:38:17Z",
+            "assets": [
+              {
+                "name": "rounds-port-0.2.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/warpzone-gg/rounds-port/releases/download/v0.2.0/rounds-port-0.2.0-linux-x86_64.tar.gz",
+                "size": 10268831
+              },
+              {
+                "name": "rounds-port-0.2.0-windows-x86_64.zip",
+                "url": "https://github.com/warpzone-gg/rounds-port/releases/download/v0.2.0/rounds-port-0.2.0-windows-x86_64.zip",
+                "size": 14238469
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/warpzone-gg/rounds-port/releases/download/v0.2.0/SHA256SUMS",
+                "size": 207
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "rounds-port 0.1.0",
+            "url": "https://github.com/warpzone-gg/rounds-port/releases/tag/v0.1.0",
+            "published_at": "2026-10-23T21:51:53Z",
+            "assets": [
+              {
+                "name": "rounds-port-0.1.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/warpzone-gg/rounds-port/releases/download/v0.1.0/rounds-port-0.1.0-linux-x86_64.tar.gz",
+                "size": 8766092
+              },
+              {
+                "name": "rounds-port-0.1.0-windows-x86_64.zip",
+                "url": "https://github.com/warpzone-gg/rounds-port/releases/download/v0.1.0/rounds-port-0.1.0-windows-x86_64.zip",
+                "size": 12474130
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/warpzone-gg/rounds-port/releases/download/v0.1.0/SHA256SUMS",
+                "size": 207
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -127,9 +1072,41 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "rounds-port-0.2.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/warpzone-gg/rounds-port/releases/download/v0.2.0/rounds-port-0.2.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rounds-port-0.2.0-windows-x86_64.zip",
+          "url": "https://github.com/warpzone-gg/rounds-port/releases/download/v0.2.0/rounds-port-0.2.0-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/warpzone-gg/rounds-port/releases/download/v0.2.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "rounds-port-0.1.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/warpzone-gg/rounds-port/releases/download/v0.1.0/rounds-port-0.1.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "rounds-port-0.1.0-windows-x86_64.zip",
+          "url": "https://github.com/warpzone-gg/rounds-port/releases/download/v0.1.0/rounds-port-0.1.0-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/warpzone-gg/rounds-port/releases/download/v0.1.0/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -147,7 +1124,65 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T22:59:56.013455+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-24T09:23:24.061222+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Guardian Heroes (2011 XBLA) on Nintendo Switch and Linux: static recompilation with ReXGlue. Build it from your own XBLA package; no game data.",
+        "latest_release_url": "https://github.com/rashevskyv/guardian-heroes-recomp-public/releases/tag/v0.45.20bf26b",
+        "latest_release_name": "Guardian Heroes 0.45.20bf26b (pre-release)",
+        "release_assets": [
+          {
+            "name": "gh-0.45.20bf26b-linux-x86_64.tar.gz",
+            "url": "https://github.com/rashevskyv/guardian-heroes-recomp-public/releases/download/v0.45.20bf26b/gh-0.45.20bf26b-linux-x86_64.tar.gz",
+            "size": 14677078
+          },
+          {
+            "name": "gh-0.45.20bf26b-switch.zip",
+            "url": "https://github.com/rashevskyv/guardian-heroes-recomp-public/releases/download/v0.45.20bf26b/gh-0.45.20bf26b-switch.zip",
+            "size": 41088624
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/rashevskyv/guardian-heroes-recomp-public/releases/download/v0.45.20bf26b/SHA256SUMS",
+            "size": 195
+          }
+        ],
+        "releases": [
+          {
+            "name": "Guardian Heroes 0.45.20bf26b (pre-release)",
+            "url": "https://github.com/rashevskyv/guardian-heroes-recomp-public/releases/tag/v0.45.20bf26b",
+            "published_at": "2026-10-23T21:13:43Z",
+            "assets": [
+              {
+                "name": "gh-0.45.20bf26b-linux-x86_64.tar.gz",
+                "url": "https://github.com/rashevskyv/guardian-heroes-recomp-public/releases/download/v0.45.20bf26b/gh-0.45.20bf26b-linux-x86_64.tar.gz",
+                "size": 14677078
+              },
+              {
+                "name": "gh-0.45.20bf26b-switch.zip",
+                "url": "https://github.com/rashevskyv/guardian-heroes-recomp-public/releases/download/v0.45.20bf26b/gh-0.45.20bf26b-switch.zip",
+                "size": 41088624
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/rashevskyv/guardian-heroes-recomp-public/releases/download/v0.45.20bf26b/SHA256SUMS",
+                "size": 195
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -162,10 +1197,27 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "gh-0.45.20bf26b-linux-x86_64.tar.gz",
+          "url": "https://github.com/rashevskyv/guardian-heroes-recomp-public/releases/download/v0.45.20bf26b/gh-0.45.20bf26b-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "gh-0.45.20bf26b-switch.zip",
+          "url": "https://github.com/rashevskyv/guardian-heroes-recomp-public/releases/download/v0.45.20bf26b/gh-0.45.20bf26b-switch.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/rashevskyv/guardian-heroes-recomp-public/releases/download/v0.45.20bf26b/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки PC-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -183,7 +1235,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T22:59:56.012532+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-24T09:23:25.635236+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Zmbor — Advanced PlayStation 2 Static Recompilation, Hardware Runtime, and Native Game Reconstruction Framework.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -210,7 +1279,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T22:59:56.011467+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-24T09:23:27.186688+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Wii U Breath of the Wild (v1.5.0) to a native Windows program with a Vulkan backend. No game assets included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -947,7 +2033,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T16:52:33.626872+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-24T09:23:28.745681+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Play Rugby 08, the 2007 PC rugby game, in your browser: recompiled to WebAssembly and WebGL 2, with online multiplayer for up to four players.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
