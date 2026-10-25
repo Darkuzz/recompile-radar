@@ -1,7 +1,274 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-25T09:41:53.068202+00:00",
+  "last_updated": "2026-10-25T15:56:18.181829+00:00",
   "candidates": [
+    {
+      "title": "kitocato/bloodborne-linux-arm64",
+      "url": "https://github.com/kitocato/bloodborne-linux-arm64",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-25T11:13:38Z",
+      "summary": "Unofficial desktop Linux aarch64 build of the Bloodborne-Android port (AOT, native ARM64). Tested on AYN Odin 3 / Armada OS. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T15:56:02.223130+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [
+          "linux",
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, linux, android"
+      ]
+    },
+    {
+      "title": "toarch7/nt-recreated-public",
+      "url": "https://github.com/toarch7/nt-recreated-public",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-25T14:24:51Z",
+      "summary": "Open source rebuild and Android port of Nuclear Throne Topics: android, fanmade-remake, game, gamemaker, gamemaker-language, gamemakerstudio2, nuclear-throne, port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T15:56:02.222426+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "cluvermadrel-cpu/Undertale-Android-Port",
+      "url": "https://github.com/cluvermadrel-cpu/Undertale-Android-Port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-25T14:29:13Z",
+      "summary": "This is a Undertale Android Port version that is similar to the real game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T15:56:02.221800+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "zerohasissues/Project-Cerulean",
+      "url": "https://github.com/zerohasissues/Project-Cerulean",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-25T15:46:49Z",
+      "summary": "SADX2ARM is a native port of the 2004 game Sonic Adventure DX for android alongside SA Mod Manager support.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T15:56:02.220804+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "ridayz/naruto-jintori-recomp",
+      "url": "https://github.com/ridayz/naruto-jintori-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T12:02:14Z",
+      "summary": "Naruto: Shinobi no Sato no Jintori Kassen - native PC static recompilation (psxrecomp). 24-shard generated game C, OpenBIOS, OpenGL.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T15:55:56.147090+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "znxee/mc3-remix-xbe-recomp",
+      "url": "https://github.com/znxee/mc3-remix-xbe-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T13:06:16Z",
+      "summary": "Midnight Club 3: DUB Edition (Xbox) static recompilation. Source code and auto-compile only: no game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T15:55:56.146440+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "kuraeow/ultratears",
+      "url": "https://github.com/kuraeow/ultratears",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T14:32:53Z",
+      "summary": "Unofficial native Windows port of Tears of the Kingdom 1.4.3 using static recompilation. Builds locally from the player's own extracted game dump; no game files included. Topics: arm64, arm64-x86, game-port, native-port, proton, recomp, sd13, static-recompilation, steam-deck, tears-of-the-kingdom, totk, vulkan, windows, x86, x86-64, zelda, zelda-pc, zelda-totk",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T15:55:56.145577+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "1lawl/FifaStreet2Recomp",
+      "url": "https://github.com/1lawl/FifaStreet2Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T15:16:03Z",
+      "summary": "Native PC port of FIFA Street 2 (PS2) via static recompilation with PS2Recomp. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T15:55:56.144689+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "RyanC00per/SwarmAssult-Android",
       "url": "https://github.com/RyanC00per/SwarmAssult-Android",
@@ -11,7 +278,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T09:41:41.989874+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T15:56:05.485329+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Yes the old PC DOS game on Android Unofficial Android port of OpenSA (Swarm Assault), built on OpenRA, with touch controls and a mobile-friendly interface.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +329,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T09:41:41.986450+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T15:56:07.058435+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Unofficial, non-commercial Android and Linux port of Star Trek: Voyager - Elite Force II. de-MOHAAd id Tech 3 engine, GLES 3.2 and Vulkan renderer, touch controls and gamepad. No game data included.",
+        "latest_release_url": "https://github.com/imjustadudegamer/Provenance-Elite-Force-II-decomp-Android-linux/releases/tag/v0.8.0",
+        "latest_release_name": "Provenance EF2 0.8.0",
+        "release_assets": [
+          {
+            "name": "ProvenanceEF2-0.8.0.apk",
+            "url": "https://github.com/imjustadudegamer/Provenance-Elite-Force-II-decomp-Android-linux/releases/download/v0.8.0/ProvenanceEF2-0.8.0.apk",
+            "size": 10217034
+          }
+        ],
+        "releases": [
+          {
+            "name": "Provenance EF2 0.8.0",
+            "url": "https://github.com/imjustadudegamer/Provenance-Elite-Force-II-decomp-Android-linux/releases/tag/v0.8.0",
+            "published_at": "2026-10-24T20:23:47Z",
+            "assets": [
+              {
+                "name": "ProvenanceEF2-0.8.0.apk",
+                "url": "https://github.com/imjustadudegamer/Provenance-Elite-Force-II-decomp-Android-linux/releases/download/v0.8.0/ProvenanceEF2-0.8.0.apk",
+                "size": 10217034
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -61,10 +383,17 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "ProvenanceEF2-0.8.0.apk",
+          "url": "https://github.com/imjustadudegamer/Provenance-Elite-Force-II-decomp-Android-linux/releases/download/v0.8.0/ProvenanceEF2-0.8.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -82,7 +411,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T09:41:41.985546+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T15:56:08.668977+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Android port of Multihero, a 2D multi-hero game from the original Blitz3D version.",
+        "latest_release_url": "https://github.com/richardyusan/multihero-android/releases/tag/v1.0.1",
+        "latest_release_name": "Multhero Android 1.0.1",
+        "release_assets": [
+          {
+            "name": "MultiHero1.0.1.apk",
+            "url": "https://github.com/richardyusan/multihero-android/releases/download/v1.0.1/MultiHero1.0.1.apk",
+            "size": 11764540
+          }
+        ],
+        "releases": [
+          {
+            "name": "Multhero Android 1.0.1",
+            "url": "https://github.com/richardyusan/multihero-android/releases/tag/v1.0.1",
+            "published_at": "2026-10-24T16:06:56Z",
+            "assets": [
+              {
+                "name": "MultiHero1.0.1.apk",
+                "url": "https://github.com/richardyusan/multihero-android/releases/download/v1.0.1/MultiHero1.0.1.apk",
+                "size": 11764540
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -96,9 +463,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "MultiHero1.0.1.apk",
+          "url": "https://github.com/richardyusan/multihero-android/releases/download/v1.0.1/MultiHero1.0.1.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -116,7 +490,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T09:41:41.984697+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T15:56:10.289897+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Android port of ManiaDrive 1.2, the free 2006 acrobatic racing game (Trackmania clone) built on the Raydium 3D engine. Touch & gamepad controls, OpenGL ES 2 via gl4es, story mode and LAN multiplayer.",
+        "latest_release_url": "https://github.com/richardyusan/maniadrive-android/releases/tag/v1.2-android2",
+        "latest_release_name": "v1.2-android2",
+        "release_assets": [
+          {
+            "name": "ManiaDrive.apk",
+            "url": "https://github.com/richardyusan/maniadrive-android/releases/download/v1.2-android2/ManiaDrive.apk",
+            "size": 48449926
+          },
+          {
+            "name": "ManiaDrive1.2.apk",
+            "url": "https://github.com/richardyusan/maniadrive-android/releases/download/v1.2-android2/ManiaDrive1.2.apk",
+            "size": 48449926
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.2-android2",
+            "url": "https://github.com/richardyusan/maniadrive-android/releases/tag/v1.2-android2",
+            "published_at": "2026-10-25T03:28:00Z",
+            "assets": [
+              {
+                "name": "ManiaDrive.apk",
+                "url": "https://github.com/richardyusan/maniadrive-android/releases/download/v1.2-android2/ManiaDrive.apk",
+                "size": 48449926
+              },
+              {
+                "name": "ManiaDrive1.2.apk",
+                "url": "https://github.com/richardyusan/maniadrive-android/releases/download/v1.2-android2/ManiaDrive1.2.apk",
+                "size": 48449926
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -130,9 +552,21 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "ManiaDrive.apk",
+          "url": "https://github.com/richardyusan/maniadrive-android/releases/download/v1.2-android2/ManiaDrive.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ManiaDrive1.2.apk",
+          "url": "https://github.com/richardyusan/maniadrive-android/releases/download/v1.2-android2/ManiaDrive1.2.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -150,7 +584,65 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T09:41:41.983827+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T15:56:11.902612+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Android port of PC/DOS Supaplex, based on OpenSupaplex. Bring your own game data. Separate from the Google Play app. Touch controls, saves and five CC0 music loops. Android work by Codex (LLM).",
+        "latest_release_url": "https://github.com/SlopPort/supaplex-android/releases/tag/v1.4",
+        "latest_release_name": "Supaplex for Android 1.4",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/SlopPort/supaplex-android/releases/download/v1.4/SHA256SUMS.txt",
+            "size": 192
+          },
+          {
+            "name": "Supaplex-Android-1.4-sources.zip",
+            "url": "https://github.com/SlopPort/supaplex-android/releases/download/v1.4/Supaplex-Android-1.4-sources.zip",
+            "size": 56846916
+          },
+          {
+            "name": "Supaplex-Android-1.4.apk",
+            "url": "https://github.com/SlopPort/supaplex-android/releases/download/v1.4/Supaplex-Android-1.4.apk",
+            "size": 14546992
+          }
+        ],
+        "releases": [
+          {
+            "name": "Supaplex for Android 1.4",
+            "url": "https://github.com/SlopPort/supaplex-android/releases/tag/v1.4",
+            "published_at": "2026-10-25T07:36:17Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/SlopPort/supaplex-android/releases/download/v1.4/SHA256SUMS.txt",
+                "size": 192
+              },
+              {
+                "name": "Supaplex-Android-1.4-sources.zip",
+                "url": "https://github.com/SlopPort/supaplex-android/releases/download/v1.4/Supaplex-Android-1.4-sources.zip",
+                "size": 56846916
+              },
+              {
+                "name": "Supaplex-Android-1.4.apk",
+                "url": "https://github.com/SlopPort/supaplex-android/releases/download/v1.4/Supaplex-Android-1.4.apk",
+                "size": 14546992
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -164,9 +656,26 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/SlopPort/supaplex-android/releases/download/v1.4/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "Supaplex-Android-1.4-sources.zip",
+          "url": "https://github.com/SlopPort/supaplex-android/releases/download/v1.4/Supaplex-Android-1.4-sources.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Supaplex-Android-1.4.apk",
+          "url": "https://github.com/SlopPort/supaplex-android/releases/download/v1.4/Supaplex-Android-1.4.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -184,7 +693,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T09:41:40.199848+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T15:56:13.498198+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Linux-native Propnight Revival launcher (Tauri v2 + Rust). Full feature-complete port of the original Windows launcher. Runs natively on Linux; launches the Windows game via Proton. AppImage distribution.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -218,7 +744,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T09:41:38.537712+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T15:56:15.064105+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PS5 port of the Source engine: runs Half-Life 2 from your own game files",
+        "latest_release_url": "https://github.com/gmorb/source-port-ps5/releases/tag/v0.1.0-alpha",
+        "latest_release_name": "Source Port v0.1.0-alpha",
+        "release_assets": [
+          {
+            "name": "PPSA20040.zip",
+            "url": "https://github.com/gmorb/source-port-ps5/releases/download/v0.1.0-alpha/PPSA20040.zip",
+            "size": 40450457
+          }
+        ],
+        "releases": [
+          {
+            "name": "Source Port v0.1.0-alpha",
+            "url": "https://github.com/gmorb/source-port-ps5/releases/tag/v0.1.0-alpha",
+            "published_at": "2026-10-24T22:50:06Z",
+            "assets": [
+              {
+                "name": "PPSA20040.zip",
+                "url": "https://github.com/gmorb/source-port-ps5/releases/download/v0.1.0-alpha/PPSA20040.zip",
+                "size": 40450457
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -227,8 +791,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "PPSA20040.zip",
+          "url": "https://github.com/gmorb/source-port-ps5/releases/download/v0.1.0-alpha/PPSA20040.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -245,7 +817,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T09:41:36.743584+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T15:56:16.654695+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Jade Empire (x86 to Odin) with online co-op; bring your own game",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
