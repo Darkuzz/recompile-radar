@@ -1,7 +1,552 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-25T15:56:18.181829+00:00",
+  "last_updated": "2026-10-25T22:25:35.631403+00:00",
   "candidates": [
+    {
+      "title": "KLM-corporation/sbr64_pc",
+      "url": "https://github.com/KLM-corporation/sbr64_pc",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-25T17:47:16Z",
+      "summary": "Native Windows port of Run Sackboy! Run! (Android v1.0.4): runs the original ARM32 game on x86_64 with Dynarmic and Android HLE. Game files not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T22:25:19.866220+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "malinkin-s/destinia-nx",
+      "url": "https://github.com/malinkin-s/destinia-nx",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-25T19:17:37Z",
+      "summary": "Unofficial clean-room Nintendo Switch & PC port of Destinia (Gamevil, 2011): ARM Thumb interpreter + HLE, no game assets included Topics: android, arm, arpg, atmosphere, c, clean-room, destinia, devkitpro, emulator, gamevil, hle, homebrew, interpreter, libnx, nintendo-switch, reverse-engineering, rpg, sdl2, switch-homebrew, thumb",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T22:25:19.865415+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "pc port"
+        ],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "phys-winner/pc_decomp_strhld",
+      "url": "https://github.com/phys-winner/pc_decomp_strhld",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-25T19:30:58Z",
+      "summary": "Native Android ARM64 ports of Stronghold HD, Crusader and Crusader Extreme via static PC recompilation. Original game files required.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T22:25:19.864607+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game, android"
+      ]
+    },
+    {
+      "title": "i2Phoenix/slingshot-racing",
+      "url": "https://github.com/i2Phoenix/slingshot-racing",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-25T19:48:28Z",
+      "summary": "An unofficial preservation port of Slingshot Racing, preserving gaming heritage and making the game playable on modern Android phones. Topics: android, game-preservation, localization, reverse-engineering, slingshot-racing, unity",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T22:25:19.863897+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable, android"
+      ]
+    },
+    {
+      "title": "ofir89/MapleStoryThiefEdition",
+      "url": "https://github.com/ofir89/MapleStoryThiefEdition",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-25T20:26:12Z",
+      "summary": "64-bit Android port of MapleStory Thief Edition (engine source, tools, tests; no game assets)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T22:25:19.863222+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "germaz-studio/hextris",
+      "url": "https://github.com/germaz-studio/hextris",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-25T21:07:27Z",
+      "summary": "Fast paced puzzle game inspired by Tetris - Native Android port for F-Droid by Germaz Studio",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T22:25:19.862015+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "phys-winner/pc_decomp_homm5",
+      "url": "https://github.com/phys-winner/pc_decomp_homm5",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-25T21:24:15Z",
+      "summary": "Android ARM64 port of Heroes V: Tribes of the East via static x86 recompilation, with touch controls. Requires original game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T22:25:19.861085+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game, android"
+      ]
+    },
+    {
+      "title": "Hortus1556/Re-Generated-Project",
+      "url": "https://github.com/Hortus1556/Re-Generated-Project",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-25T20:28:27Z",
+      "summary": "Native Windows, Linux and Android ports of Adult Swim/Mediatonic's Amateur Surgeon series (1, Christmas Edition, 2, 3), built on the shared Bleed Engine from each game's own Flash/iOS original. Topics: actionscript, adult-swim, amateur-surgeon, bleed-engine, cmake, cocos2d-x, cpp, decompiler, flash, game-engine, game-port, ios, opengl, retro-games, reverse-engineering, sdl3, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T22:25:17.877908+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil",
+        "Есть игровые/платформенные признаки: game, windows, linux, android"
+      ]
+    },
+    {
+      "title": "hunkstalker/kult-atari-st-pc-port",
+      "url": "https://github.com/hunkstalker/kult-atari-st-pc-port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-25T21:53:11Z",
+      "summary": "Native Windows/Linux port of Kult: The Temple of Flying Saucers (Atari ST), powered by the verified C reconstruction and an SDL3 backend. Includes Spanish/Catalan packs, savestates, fullscreen scaling, and automated releases. Game data is not included. Topics: atari-st, catalan, game-port, kult, linux, pc-port, reverse-enginnering, sdl3, spanish, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T22:25:17.876786+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "CalinGraphics/fifa-world-cup-2010-recompiled",
+      "url": "https://github.com/CalinGraphics/fifa-world-cup-2010-recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T18:47:40Z",
+      "summary": "Native PC port of 2010 FIFA World Cup South Africa (Xbox 360) through static recompilation. 60 fps, up to 4K, with a launcher. Requires your own copy of the game. Topics: engineering, football, game, game-development, reverse",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T22:25:13.875098+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "phys-winner/pc_decomp_void",
+      "url": "https://github.com/phys-winner/pc_decomp_void",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T19:25:46Z",
+      "summary": "Native Android ARM64 ports of The Void and Tension (2008) through static recompilation. Requires original game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T22:25:13.874356+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game, android"
+      ]
+    },
+    {
+      "title": "Nico-D-eu/RE-Amped2",
+      "url": "https://github.com/Nico-D-eu/RE-Amped2",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T20:54:06Z",
+      "summary": "Amped 2 (Xbox, 2003) as a native Windows game: a static recompilation built from your own disc. Unofficial fan project. Topics: amped-2, directx11, game-preservation, original-xbox, recompilation, static-recompilation, windows, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T22:25:13.873648+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "antoniotorres02/isaac-switch-native",
+      "url": "https://github.com/antoniotorres02/isaac-switch-native",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T21:06:43Z",
+      "summary": "Native Nintendo Switch (libnx) and PC host for The Binding of Isaac: Repentance+, built on the-browsing-of-isaac's static recompilation. Bring your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T22:25:13.872872+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "boubou666/Drakengard_Recomp",
+      "url": "https://github.com/boubou666/Drakengard_Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T21:57:12Z",
+      "summary": "Drakengard (PAL, SLES-52322) static recompilation with PS2Recomp: configs, scripts, notes (no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T22:25:13.872164+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "NejaTive/minerust",
+      "url": "https://github.com/NejaTive/minerust",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-25T22:19:14Z",
+      "summary": "Minecraft-like voxel game in Rust + WebAssembly, running in the browser",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T22:25:09.477567+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "nickita-khylkouski/polytrack-tas",
+      "url": "https://github.com/nickita-khylkouski/polytrack-tas",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-25T22:22:42Z",
+      "summary": "🏁 PolyTrack TAS leaderboard: tool-assisted speedrun world records for all 17 official PolyTrack tracks, replayed frame-exact in the real game engine by CI. Beat a time? Open a PR. Topics: browser-game, competition, deterministic, game-physics, github-actions, kodub, leaderboard, nodejs, polytrack, polytrack-tas, racing-game, replay, speedrun, speedrun-leaderboard, speedrunning, tas, time-trial, tool-assisted-speedrun, webassembly, world-record",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T22:25:09.451360+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, game engine, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "kitocato/bloodborne-linux-arm64",
       "url": "https://github.com/kitocato/bloodborne-linux-arm64",
@@ -11,7 +556,73 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T15:56:02.223130+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T22:25:23.135672+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial desktop Linux aarch64 build of the Bloodborne-Android port (AOT, native ARM64). Tested on AYN Odin 3 / Armada OS. No game files included.",
+        "latest_release_url": "https://github.com/kitocato/bloodborne-linux-arm64/releases/tag/v0.3",
+        "latest_release_name": "v0.3 — port 2.0.1, live frame generation toggle",
+        "release_assets": [
+          {
+            "name": "bloodborne-linux-arm64-v0.3.tar.gz",
+            "url": "https://github.com/kitocato/bloodborne-linux-arm64/releases/download/v0.3/bloodborne-linux-arm64-v0.3.tar.gz",
+            "size": 7211841
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.3 — port 2.0.1, live frame generation toggle",
+            "url": "https://github.com/kitocato/bloodborne-linux-arm64/releases/tag/v0.3",
+            "published_at": "2026-10-25T18:41:05Z",
+            "assets": [
+              {
+                "name": "bloodborne-linux-arm64-v0.3.tar.gz",
+                "url": "https://github.com/kitocato/bloodborne-linux-arm64/releases/download/v0.3/bloodborne-linux-arm64-v0.3.tar.gz",
+                "size": 7211841
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.2 — lsfg-vk 1.0 frame generation (30 → 60)",
+            "url": "https://github.com/kitocato/bloodborne-linux-arm64/releases/tag/v0.2",
+            "published_at": "2026-10-25T11:13:38Z",
+            "assets": [
+              {
+                "name": "bloodborne-linux-arm64-v0.2.tar.gz",
+                "url": "https://github.com/kitocato/bloodborne-linux-arm64/releases/download/v0.2/bloodborne-linux-arm64-v0.2.tar.gz",
+                "size": 7210641
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1 — Bloodborne for Linux ARM64 (based on Bloodborne-Android 2.0.0)",
+            "url": "https://github.com/kitocato/bloodborne-linux-arm64/releases/tag/v0.1",
+            "published_at": "2026-10-25T10:01:18Z",
+            "assets": [
+              {
+                "name": "bloodborne-linux-arm64-v0.1.tar.gz",
+                "url": "https://github.com/kitocato/bloodborne-linux-arm64/releases/download/v0.1/bloodborne-linux-arm64-v0.1.tar.gz",
+                "size": 6559808
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -29,10 +640,27 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "bloodborne-linux-arm64-v0.3.tar.gz",
+          "url": "https://github.com/kitocato/bloodborne-linux-arm64/releases/download/v0.3/bloodborne-linux-arm64-v0.3.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "bloodborne-linux-arm64-v0.2.tar.gz",
+          "url": "https://github.com/kitocato/bloodborne-linux-arm64/releases/download/v0.2/bloodborne-linux-arm64-v0.2.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "bloodborne-linux-arm64-v0.1.tar.gz",
+          "url": "https://github.com/kitocato/bloodborne-linux-arm64/releases/download/v0.1/bloodborne-linux-arm64-v0.1.tar.gz",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -50,7 +678,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T15:56:02.222426+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T22:25:24.733966+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "rewrite",
+        "description": "Open source rebuild and Android port of Nuclear Throne",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -84,7 +729,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T15:56:02.221800+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T22:25:26.306334+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "This is a Undertale Android Port version that is similar to the real game",
+        "latest_release_url": "https://github.com/cluvermadrel-cpu/Undertale-Android-Port/releases/tag/V2.0.1",
+        "latest_release_name": "Undertale Android Port v2.0.1",
+        "release_assets": [
+          {
+            "name": "undertale.apk.v2.0.1.apk",
+            "url": "https://github.com/cluvermadrel-cpu/Undertale-Android-Port/releases/download/V2.0.1/undertale.apk.v2.0.1.apk",
+            "size": 149600818
+          }
+        ],
+        "releases": [
+          {
+            "name": "Undertale Android Port v2.0.1",
+            "url": "https://github.com/cluvermadrel-cpu/Undertale-Android-Port/releases/tag/V2.0.1",
+            "published_at": "2026-10-25T14:25:32Z",
+            "assets": [
+              {
+                "name": "undertale.apk.v2.0.1.apk",
+                "url": "https://github.com/cluvermadrel-cpu/Undertale-Android-Port/releases/download/V2.0.1/undertale.apk.v2.0.1.apk",
+                "size": 149600818
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -98,9 +781,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "undertale.apk.v2.0.1.apk",
+          "url": "https://github.com/cluvermadrel-cpu/Undertale-Android-Port/releases/download/V2.0.1/undertale.apk.v2.0.1.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
@@ -118,7 +808,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T15:56:02.220804+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T22:25:27.895250+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "SADX2ARM is a native port of the 2004 game Sonic Adventure DX for android alongside SA Mod Manager support.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -151,7 +858,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T15:55:56.147090+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T22:25:29.441899+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Naruto: Shinobi no Sato no Jintori Kassen - native PC static recompilation (psxrecomp). 24-shard generated game C, OpenBIOS, OpenGL.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -184,7 +908,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T15:55:56.146440+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T22:25:30.960125+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Midnight Club 3: DUB Edition (Xbox) static recompilation. Source code and auto-compile only: no game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -211,7 +952,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T15:55:56.145577+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T22:25:32.494493+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native Windows port of Tears of the Kingdom 1.4.3 using static recompilation. Builds locally from the player's own extracted game dump; no game files included.",
+        "latest_release_url": "https://github.com/kuraeow/ultratears/releases/tag/v0.1.0-beta",
+        "latest_release_name": "UltraTears 0.1.0-beta",
+        "release_assets": [
+          {
+            "name": "UltraTears-builder-0.1.0-windows-x86_64.zip",
+            "url": "https://github.com/kuraeow/ultratears/releases/download/v0.1.0-beta/UltraTears-builder-0.1.0-windows-x86_64.zip",
+            "size": 154551282
+          }
+        ],
+        "releases": [
+          {
+            "name": "UltraTears 0.1.0-beta",
+            "url": "https://github.com/kuraeow/ultratears/releases/tag/v0.1.0-beta",
+            "published_at": "2026-10-25T11:53:33Z",
+            "assets": [
+              {
+                "name": "UltraTears-builder-0.1.0-windows-x86_64.zip",
+                "url": "https://github.com/kuraeow/ultratears/releases/download/v0.1.0-beta/UltraTears-builder-0.1.0-windows-x86_64.zip",
+                "size": 154551282
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -224,9 +1003,16 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "UltraTears-builder-0.1.0-windows-x86_64.zip",
+          "url": "https://github.com/kuraeow/ultratears/releases/download/v0.1.0-beta/UltraTears-builder-0.1.0-windows-x86_64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -244,7 +1030,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T15:55:56.144689+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T22:25:34.105403+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of FIFA Street 2 (PS2) via static recompilation with PS2Recomp. No game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
