@@ -1,7 +1,787 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-24T22:22:45.583520+00:00",
+  "last_updated": "2026-10-25T09:41:53.068202+00:00",
   "candidates": [
+    {
+      "title": "RyanC00per/SwarmAssult-Android",
+      "url": "https://github.com/RyanC00per/SwarmAssult-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-24T14:14:58Z",
+      "summary": "Yes the old PC DOS game on Android Unofficial Android port of OpenSA (Swarm Assault), built on OpenRA, with touch controls and a mobile-friendly interface.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:41.989874+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "imjustadudegamer/Provenance-Elite-Force-II-decomp-Android-linux",
+      "url": "https://github.com/imjustadudegamer/Provenance-Elite-Force-II-decomp-Android-linux",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-25T02:34:50Z",
+      "summary": "Unofficial, non-commercial Android and Linux port of Star Trek: Voyager - Elite Force II. de-MOHAAd id Tech 3 engine, GLES 3.2 and Vulkan renderer, touch controls and gamepad. No game data included. Topics: android, cpp, elite-force-2, elite-force-ii, game-port, gles3, id-tech-3, linux, openmohaa, reverse-engineering, star-trek",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:41.986450+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of",
+        "Есть игровые/платформенные признаки: game, linux, android"
+      ]
+    },
+    {
+      "title": "richardyusan/multihero-android",
+      "url": "https://github.com/richardyusan/multihero-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-25T04:29:07Z",
+      "summary": "Android port of Multihero, a 2D multi-hero game from the original Blitz3D version. Topics: android, android-ndk, blitz3d, blitzbasic, cpp, fighting-game, game-port, opengl-es, retro-games, transpiler",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:41.985546+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "richardyusan/maniadrive-android",
+      "url": "https://github.com/richardyusan/maniadrive-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-25T04:29:59Z",
+      "summary": "Android port of ManiaDrive 1.2, the free 2006 acrobatic racing game (Trackmania clone) built on the Raydium 3D engine. Touch & gamepad controls, OpenGL ES 2 via gl4es, story mode and LAN multiplayer. Topics: android, game-port, gl4es, maniadrive, ndk, ode-physics, opengl-es, racing-game, raydium, retro-games, trackmania",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:41.984697+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "SlopPort/supaplex-android",
+      "url": "https://github.com/SlopPort/supaplex-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-25T07:35:38Z",
+      "summary": "Android port of PC/DOS Supaplex, based on OpenSupaplex. Bring your own game data. Separate from the Google Play app. Touch controls, saves and five CC0 music loops. Android work by Codex (LLM).",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:41.983827+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "xanzion/propnight-revival-launcher-linux",
+      "url": "https://github.com/xanzion/propnight-revival-launcher-linux",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-25T08:03:31Z",
+      "summary": "Linux-native Propnight Revival launcher (Tauri v2 + Rust). Full feature-complete port of the original Windows launcher. Runs natively on Linux; launches the Windows game via Proton. AppImage distribution.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:40.199848+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "gmorb/source-port-ps5",
+      "url": "https://github.com/gmorb/source-port-ps5",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-24T22:50:01Z",
+      "summary": "Native PS5 port of the Source engine: runs Half-Life 2 from your own game files Topics: half-life-2, homebrew, ps5, ps5-homebrew, source-engine",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:38.537712+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source-port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "plaught-armor/jade-empire-recomp",
+      "url": "https://github.com/plaught-armor/jade-empire-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T00:28:13Z",
+      "summary": "Static recompilation of Jade Empire (x86 to Odin) with online co-op; bring your own game Topics: bioware, co-op, game-port, jade-empire, odin, opengl, recompilation, reverse-engineering, sdl3, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:36.743584+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "kastieloficial/RE-Code-Veronica-Recomp",
+      "url": "https://github.com/kastieloficial/RE-Code-Veronica-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T00:47:23Z",
+      "summary": "Resident Evil Code: Veronica X HD - PS3 static recompilation port (hobby, no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:36.742889+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Zexyen/B3Recomp",
+      "url": "https://github.com/Zexyen/B3Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T02:03:24Z",
+      "summary": "Unofficial static recompilation of Bayonetta 3. Builds the game on your PC from your own legally dumped copy. No game files, keys or SDK code included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:36.742268+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Alyx-ML/Bloodlines-MacOS-Metal",
+      "url": "https://github.com/Alyx-ML/Bloodlines-MacOS-Metal",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T02:57:14Z",
+      "summary": "Static recompilation of Vampire: The Masquerade - Bloodlines to native arm64 macOS with Metal (runtime and tools only; bring your own game)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:36.741625+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "anishchandra24/MaddenNFL08-Recompiled",
+      "url": "https://github.com/anishchandra24/MaddenNFL08-Recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T03:00:53Z",
+      "summary": "Native PC static recompilation of Madden NFL 08 (Xbox 360) using ReXGlue. No game files included. Topics: madden, madden-nfl, madden-nfl-08, nfl, pc-port, rexglue, rexglue-recomp, static-recompilation, xbox-360, xbox360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:36.740891+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Alvaro8317/mgs-portable-ops-pc-port",
+      "url": "https://github.com/Alvaro8317/mgs-portable-ops-pc-port",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T07:08:14Z",
+      "summary": "Unofficial native PC port of MGS: Portable Ops via static recompilation (no game content)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:36.740200+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "waifoof/MagiciansQuest-Recomp",
+      "url": "https://github.com/waifoof/MagiciansQuest-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T08:20:07Z",
+      "summary": "Native PC port of Magician's Quest: Mysterious Times (Nintendo DS) by static recompilation. Widescreen, high resolution, 60 fps, and co-op between PCs from the first day of a new game. Topics: co-op, magicians-quest, melonds, nds, nintendo-ds, pc-port, recompilation, static-recompilation, widescreen",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:36.739438+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "yacineolivier-maker/JSRF-PAL-Recomp",
+      "url": "https://github.com/yacineolivier-maker/JSRF-PAL-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T08:57:12Z",
+      "summary": "Unofficial native Windows port of Jet Set Radio Future (Xbox, PAL/Europe release) by static recompilation — XDK 4134 support for Xbox XBE Recomp. No game data included. Topics: jet-set-radio, pc-port, recompilation, static-recompilation, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:36.738383+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "martinlepro/Wii-party-pc-multiplayer",
+      "url": "https://github.com/martinlepro/Wii-party-pc-multiplayer",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T09:02:01Z",
+      "summary": "Static recompilation of Wii Party for native PC. Requires your own legally obtained copy of the game; no copyrighted assets included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:36.737507+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "8bitninja64/TenchuZ-PC",
+      "url": "https://github.com/8bitninja64/TenchuZ-PC",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T09:05:53Z",
+      "summary": "Native Windows PC port of Tenchu Z (Xbox 360) by static recompilation. Bring your own disc; no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:36.736885+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "malinkin-s/naruto-rise-of-a-ninja-nx",
+      "url": "https://github.com/malinkin-s/naruto-rise-of-a-ninja-nx",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T09:13:31Z",
+      "summary": "Nintendo Switch homebrew port of Naruto: Rise of a Ninja (Xbox 360): static recompilation with ReXGlue, Renut renderer on deko3d. Work in progress, bring your own game. Topics: deko3d, devkitpro, game-port, homebrew, libnx, naruto, naruto-rise-of-a-ninja, nintendo-switch, port, recompilation, rexglue, static-recompilation, switch-homebrew, xbox-360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:36.736047+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "springah/futari_recomp",
+      "url": "https://github.com/springah/futari_recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-25T09:24:45Z",
+      "summary": "Mushihimesama Futari (Xbox 360) static recompilation to native PC on the ReXGlue SDK. No game data included - build it from a copy you own. Topics: cave, mushihimesama, shmup, xbox-360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:36.735110+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "slothrulez/devin-hacks-kochi",
+      "url": "https://github.com/slothrulez/devin-hacks-kochi",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-25T02:30:21Z",
+      "summary": "A retro 2D street-fighting game set in a Kerala town — written in C++ with SDL2, playable natively or in the browser (WebAssembly).",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:32.995863+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, playable, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "awkto/civ-wasm",
+      "url": "https://github.com/awkto/civ-wasm",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-25T09:40:24Z",
+      "summary": "Sid Meier's Civilization (1991) in the browser: reciv/civd compiled to WebAssembly. Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:32.990730+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "alen127/family-dinner",
+      "url": "https://github.com/alen127/family-dinner",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-10-24T11:27:28Z",
+      "summary": "Family Dinner - a card game of passive aggression (play in browser)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:31.225094+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "play in browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, play in browser",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
+      ]
+    },
+    {
+      "title": "19sw/rabbit-game",
+      "url": "https://github.com/19sw/rabbit-game",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-10-25T06:50:11Z",
+      "summary": "动物武侠 DEMO — 2D pixel-art wuxia game made with Godot. Play in browser: https://19sw.github.io/rabbit-game/",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:31.224403+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "play in browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, play in browser",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
+      ]
+    },
+    {
+      "title": "gamingnews5/awesome-decomp-games",
+      "url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-25T09:23:10Z",
+      "summary": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports. Topics: awesome, awesome-list, decompilation, game-preservation, recompilation, reverse-engineering, source-port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-25T09:41:29.206177+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, source-port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "sindufha/transformers-the-game-recomp",
       "url": "https://github.com/sindufha/transformers-the-game-recomp",
@@ -2796,7 +3576,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-24T09:22:59.951487+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T09:41:43.339324+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Browser port of Mikis World Game from Mom's phone from 2007",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -5444,10 +6241,99 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T09:53:32.476691+00:00",
-      "check": null,
-      "category": "android",
+      "check": {
+        "checked_at": "2026-10-25T09:41:44.592861+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial C# + SDL3 port of SkyNET and Future Shock, with a mission editor and Android build (bring your own game data)",
+        "latest_release_url": "https://github.com/nautilusbits/skynet-sdl/releases/tag/v1.0.0",
+        "latest_release_name": "SkyNET SDL 1.0.0",
+        "release_assets": [
+          {
+            "name": "SkyNET-1.0.0.apk",
+            "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/SkyNET-1.0.0.apk",
+            "size": 23156429
+          },
+          {
+            "name": "skynet-hd.zip",
+            "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/skynet-hd.zip",
+            "size": 502675207
+          },
+          {
+            "name": "skynet-sdl-1.0.0-linux-x64.tar.gz",
+            "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/skynet-sdl-1.0.0-linux-x64.tar.gz",
+            "size": 17300246
+          },
+          {
+            "name": "skynet-sdl-1.0.0-osx-arm64.tar.gz",
+            "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/skynet-sdl-1.0.0-osx-arm64.tar.gz",
+            "size": 14895174
+          },
+          {
+            "name": "skynet-sdl-1.0.0-osx-x64.tar.gz",
+            "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/skynet-sdl-1.0.0-osx-x64.tar.gz",
+            "size": 15892029
+          },
+          {
+            "name": "skynet-sdl-1.0.0-win-x64.zip",
+            "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/skynet-sdl-1.0.0-win-x64.zip",
+            "size": 14544474
+          }
+        ],
+        "releases": [
+          {
+            "name": "SkyNET SDL 1.0.0",
+            "url": "https://github.com/nautilusbits/skynet-sdl/releases/tag/v1.0.0",
+            "published_at": "2026-10-22T22:00:45Z",
+            "assets": [
+              {
+                "name": "SkyNET-1.0.0.apk",
+                "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/SkyNET-1.0.0.apk",
+                "size": 23156429
+              },
+              {
+                "name": "skynet-hd.zip",
+                "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/skynet-hd.zip",
+                "size": 502675207
+              },
+              {
+                "name": "skynet-sdl-1.0.0-linux-x64.tar.gz",
+                "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/skynet-sdl-1.0.0-linux-x64.tar.gz",
+                "size": 17300246
+              },
+              {
+                "name": "skynet-sdl-1.0.0-osx-arm64.tar.gz",
+                "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/skynet-sdl-1.0.0-osx-arm64.tar.gz",
+                "size": 14895174
+              },
+              {
+                "name": "skynet-sdl-1.0.0-osx-x64.tar.gz",
+                "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/skynet-sdl-1.0.0-osx-x64.tar.gz",
+                "size": 15892029
+              },
+              {
+                "name": "skynet-sdl-1.0.0-win-x64.zip",
+                "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/skynet-sdl-1.0.0-win-x64.zip",
+                "size": 14544474
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
       "platforms_guess": [
-        "Android"
+        "Android",
+        "PC"
       ],
       "category_evidence": {
         "browser_terms": [],
@@ -5455,12 +6341,47 @@
           "android",
           "android build"
         ],
-        "pc_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SkyNET-1.0.0.apk",
+          "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/SkyNET-1.0.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "skynet-hd.zip",
+          "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/skynet-hd.zip",
+          "type": "archive"
+        },
+        {
+          "name": "skynet-sdl-1.0.0-linux-x64.tar.gz",
+          "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/skynet-sdl-1.0.0-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "skynet-sdl-1.0.0-osx-arm64.tar.gz",
+          "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/skynet-sdl-1.0.0-osx-arm64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "skynet-sdl-1.0.0-osx-x64.tar.gz",
+          "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/skynet-sdl-1.0.0-osx-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "skynet-sdl-1.0.0-win-x64.zip",
+          "url": "https://github.com/nautilusbits/skynet-sdl/releases/download/v1.0.0/skynet-sdl-1.0.0-win-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 8,
       "relevance_status": "promising",
@@ -5478,7 +6399,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T09:53:32.475950+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T09:41:45.926544+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": false,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub вернул 404. Проект не удаляем; проверку нужно повторить."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -5512,7 +6449,88 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T09:53:32.474687+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T09:41:46.533729+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Experimental native Android ARM64 port of Def Jam: Fight for NY. Requires your own original Xbox disc/ISO; original game data is not included.",
+        "latest_release_url": "https://github.com/contatg/Def-Jam-Android-Native-Port/releases/tag/v1.1",
+        "latest_release_name": "Def Jam v1.1 — The Online Update",
+        "release_assets": [
+          {
+            "name": "Def.Jam.apk",
+            "url": "https://github.com/contatg/Def-Jam-Android-Native-Port/releases/download/v1.1/Def.Jam.apk",
+            "size": 12411432
+          },
+          {
+            "name": "update.json",
+            "url": "https://github.com/contatg/Def-Jam-Android-Native-Port/releases/download/v1.1/update.json",
+            "size": 232
+          }
+        ],
+        "releases": [
+          {
+            "name": "Def Jam v1.1 — The Online Update",
+            "url": "https://github.com/contatg/Def-Jam-Android-Native-Port/releases/tag/v1.1",
+            "published_at": "2026-10-23T22:07:28Z",
+            "assets": [
+              {
+                "name": "Def.Jam.apk",
+                "url": "https://github.com/contatg/Def-Jam-Android-Native-Port/releases/download/v1.1/Def.Jam.apk",
+                "size": 12411432
+              },
+              {
+                "name": "update.json",
+                "url": "https://github.com/contatg/Def-Jam-Android-Native-Port/releases/download/v1.1/update.json",
+                "size": 232
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Def Jam v1.0 — Pre-release",
+            "url": "https://github.com/contatg/Def-Jam-Android-Native-Port/releases/tag/v1.0",
+            "published_at": "2026-10-23T12:01:12Z",
+            "assets": [
+              {
+                "name": "Def.Jam.apk",
+                "url": "https://github.com/contatg/Def-Jam-Android-Native-Port/releases/download/v1.0/Def.Jam.apk",
+                "size": 12306608
+              },
+              {
+                "name": "update.json",
+                "url": "https://github.com/contatg/Def-Jam-Android-Native-Port/releases/download/v1.0/update.json",
+                "size": 256
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Def Jam Android Native Port — ARM64 APK",
+            "url": "https://github.com/contatg/Def-Jam-Android-Native-Port/releases/tag/v0.5.8-v22-about",
+            "published_at": "2026-10-23T02:33:57Z",
+            "assets": [
+              {
+                "name": "app-release.apk",
+                "url": "https://github.com/contatg/Def-Jam-Android-Native-Port/releases/download/v0.5.8-v22-about/app-release.apk",
+                "size": 11668956
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -5525,9 +6543,36 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Def.Jam.apk",
+          "url": "https://github.com/contatg/Def-Jam-Android-Native-Port/releases/download/v1.1/Def.Jam.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "update.json",
+          "url": "https://github.com/contatg/Def-Jam-Android-Native-Port/releases/download/v1.1/update.json",
+          "type": "other_file"
+        },
+        {
+          "name": "Def.Jam.apk",
+          "url": "https://github.com/contatg/Def-Jam-Android-Native-Port/releases/download/v1.0/Def.Jam.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "update.json",
+          "url": "https://github.com/contatg/Def-Jam-Android-Native-Port/releases/download/v1.0/update.json",
+          "type": "other_file"
+        },
+        {
+          "name": "app-release.apk",
+          "url": "https://github.com/contatg/Def-Jam-Android-Native-Port/releases/download/v0.5.8-v22-about/app-release.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -5545,7 +6590,74 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T09:53:32.473101+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T09:41:47.788909+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A fan-made Love Island: The Game Android for the original first 3 seasons, including all of the extra content (S1 Reunion, S2 Wedding, S2 Murder Mystery, and S3 Reunion). I rebuilt it from scratch, compiling all of the original episode material into a working player for Windows and Android.",
+        "latest_release_url": "https://github.com/rosearcanum/Love-Island-the-Game-S1-3-Fan-Made-Port/releases/tag/v1.1.5",
+        "latest_release_name": "Love Island v1.1.5",
+        "release_assets": [
+          {
+            "name": "Love.Island.apk",
+            "url": "https://github.com/rosearcanum/Love-Island-the-Game-S1-3-Fan-Made-Port/releases/download/v1.1.5/Love.Island.apk",
+            "size": 353705538
+          },
+          {
+            "name": "Love.Island.exe",
+            "url": "https://github.com/rosearcanum/Love-Island-the-Game-S1-3-Fan-Made-Port/releases/download/v1.1.5/Love.Island.exe",
+            "size": 339043546
+          }
+        ],
+        "releases": [
+          {
+            "name": "Love Island v1.1.5",
+            "url": "https://github.com/rosearcanum/Love-Island-the-Game-S1-3-Fan-Made-Port/releases/tag/v1.1.5",
+            "published_at": "2026-10-24T06:46:44Z",
+            "assets": [
+              {
+                "name": "Love.Island.apk",
+                "url": "https://github.com/rosearcanum/Love-Island-the-Game-S1-3-Fan-Made-Port/releases/download/v1.1.5/Love.Island.apk",
+                "size": 353705538
+              },
+              {
+                "name": "Love.Island.exe",
+                "url": "https://github.com/rosearcanum/Love-Island-the-Game-S1-3-Fan-Made-Port/releases/download/v1.1.5/Love.Island.exe",
+                "size": 339043546
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Love Island Version 1.1.4",
+            "url": "https://github.com/rosearcanum/Love-Island-the-Game-S1-3-Fan-Made-Port/releases/tag/v1.1.4",
+            "published_at": "2026-10-23T15:41:56Z",
+            "assets": [
+              {
+                "name": "Love.Island.apk",
+                "url": "https://github.com/rosearcanum/Love-Island-the-Game-S1-3-Fan-Made-Port/releases/download/v1.1.4/Love.Island.apk",
+                "size": 353700489
+              },
+              {
+                "name": "Love.Island.exe",
+                "url": "https://github.com/rosearcanum/Love-Island-the-Game-S1-3-Fan-Made-Port/releases/download/v1.1.4/Love.Island.exe",
+                "size": 339053677
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -5561,10 +6673,32 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Love.Island.apk",
+          "url": "https://github.com/rosearcanum/Love-Island-the-Game-S1-3-Fan-Made-Port/releases/download/v1.1.5/Love.Island.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "Love.Island.exe",
+          "url": "https://github.com/rosearcanum/Love-Island-the-Game-S1-3-Fan-Made-Port/releases/download/v1.1.5/Love.Island.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Love.Island.apk",
+          "url": "https://github.com/rosearcanum/Love-Island-the-Game-S1-3-Fan-Made-Port/releases/download/v1.1.4/Love.Island.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "Love.Island.exe",
+          "url": "https://github.com/rosearcanum/Love-Island-the-Game-S1-3-Fan-Made-Port/releases/download/v1.1.4/Love.Island.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -5582,7 +6716,73 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T09:53:26.824862+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T09:41:49.092871+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Metal Gear Rising: Revengeance (Xbox 360) on the Nintendo Switch: static recompilation with ReXGlue, Renut's renderer on deko3d. No game files included.",
+        "latest_release_url": "https://github.com/tuancapoo/mgr-nx-deko/releases/tag/v0.2.2",
+        "latest_release_name": "v0.2.2 – Sundowner hotfix",
+        "release_assets": [
+          {
+            "name": "mgr.nro",
+            "url": "https://github.com/tuancapoo/mgr-nx-deko/releases/download/v0.2.2/mgr.nro",
+            "size": 57502624
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.2.2 – Sundowner hotfix",
+            "url": "https://github.com/tuancapoo/mgr-nx-deko/releases/tag/v0.2.2",
+            "published_at": "2026-10-23T15:42:19Z",
+            "assets": [
+              {
+                "name": "mgr.nro",
+                "url": "https://github.com/tuancapoo/mgr-nx-deko/releases/download/v0.2.2/mgr.nro",
+                "size": 57502624
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.2.1",
+            "url": "https://github.com/tuancapoo/mgr-nx-deko/releases/tag/v0.2.1",
+            "published_at": "2026-10-23T01:23:18Z",
+            "assets": [
+              {
+                "name": "mgr.nro",
+                "url": "https://github.com/tuancapoo/mgr-nx-deko/releases/download/v0.2.1/mgr.nro",
+                "size": 57498528
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.2.0 — first public build",
+            "url": "https://github.com/tuancapoo/mgr-nx-deko/releases/tag/v0.2.0",
+            "published_at": "2026-10-22T18:31:43Z",
+            "assets": [
+              {
+                "name": "mgr.nro",
+                "url": "https://github.com/tuancapoo/mgr-nx-deko/releases/download/v0.2.0/mgr.nro",
+                "size": 57473221
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -5593,9 +6793,26 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "mgr.nro",
+          "url": "https://github.com/tuancapoo/mgr-nx-deko/releases/download/v0.2.2/mgr.nro",
+          "type": "other_file"
+        },
+        {
+          "name": "mgr.nro",
+          "url": "https://github.com/tuancapoo/mgr-nx-deko/releases/download/v0.2.1/mgr.nro",
+          "type": "other_file"
+        },
+        {
+          "name": "mgr.nro",
+          "url": "https://github.com/tuancapoo/mgr-nx-deko/releases/download/v0.2.0/mgr.nro",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 10,
       "relevance_status": "promising",
@@ -5613,7 +6830,126 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T09:53:26.823983+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T09:41:50.377603+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Ultra Street Fighter IV (Xbox 360) static recompilation for PC and Nintendo Switch (ReXGlue). No game data included.",
+        "latest_release_url": "https://github.com/Thorhax/usf4-nx/releases/tag/v0.8.0",
+        "latest_release_name": "usf4-nx 0.8.0",
+        "release_assets": [
+          {
+            "name": "usf4.nro",
+            "url": "https://github.com/Thorhax/usf4-nx/releases/download/v0.8.0/usf4.nro",
+            "size": 56293639
+          }
+        ],
+        "releases": [
+          {
+            "name": "usf4-nx 0.8.0",
+            "url": "https://github.com/Thorhax/usf4-nx/releases/tag/v0.8.0",
+            "published_at": "2026-10-23T04:28:58Z",
+            "assets": [
+              {
+                "name": "usf4.nro",
+                "url": "https://github.com/Thorhax/usf4-nx/releases/download/v0.8.0/usf4.nro",
+                "size": 56293639
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "usf4-nx 0.7.6",
+            "url": "https://github.com/Thorhax/usf4-nx/releases/tag/v0.7.6",
+            "published_at": "2026-10-22T03:50:25Z",
+            "assets": [
+              {
+                "name": "usf4.nro",
+                "url": "https://github.com/Thorhax/usf4-nx/releases/download/v0.7.6/usf4.nro",
+                "size": 67033351
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.7.5",
+            "url": "https://github.com/Thorhax/usf4-nx/releases/tag/v0.7.5",
+            "published_at": "2026-10-20T12:23:11Z",
+            "assets": [
+              {
+                "name": "usf4.nro",
+                "url": "https://github.com/Thorhax/usf4-nx/releases/download/v0.7.5/usf4.nro",
+                "size": 67029255
+              },
+              {
+                "name": "usf4.toml",
+                "url": "https://github.com/Thorhax/usf4-nx/releases/download/v0.7.5/usf4.toml",
+                "size": 518
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.7.1",
+            "url": "https://github.com/Thorhax/usf4-nx/releases/tag/v0.7.1",
+            "published_at": "2026-10-17T10:56:38Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.6.9",
+            "url": "https://github.com/Thorhax/usf4-nx/releases/tag/v0.6.9",
+            "published_at": "2026-10-17T05:32:30Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.6.8",
+            "url": "https://github.com/Thorhax/usf4-nx/releases/tag/v0.6.8",
+            "published_at": "2026-10-17T03:39:11Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.6.7",
+            "url": "https://github.com/Thorhax/usf4-nx/releases/tag/v0.6.7",
+            "published_at": "2026-10-17T02:56:47Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.6.5",
+            "url": "https://github.com/Thorhax/usf4-nx/releases/tag/v0.6.5",
+            "published_at": "2026-10-16T13:40:15Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "usf4-nx 0.6.0",
+            "url": "https://github.com/Thorhax/usf4-nx/releases/tag/v0.6.0",
+            "published_at": "2026-10-15T12:26:58Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -5624,9 +6960,31 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "usf4.nro",
+          "url": "https://github.com/Thorhax/usf4-nx/releases/download/v0.8.0/usf4.nro",
+          "type": "other_file"
+        },
+        {
+          "name": "usf4.nro",
+          "url": "https://github.com/Thorhax/usf4-nx/releases/download/v0.7.6/usf4.nro",
+          "type": "other_file"
+        },
+        {
+          "name": "usf4.nro",
+          "url": "https://github.com/Thorhax/usf4-nx/releases/download/v0.7.5/usf4.nro",
+          "type": "other_file"
+        },
+        {
+          "name": "usf4.toml",
+          "url": "https://github.com/Thorhax/usf4-nx/releases/download/v0.7.5/usf4.toml",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 10,
       "relevance_status": "promising",
@@ -5644,7 +7002,87 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-23T09:53:26.822984+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-25T09:41:51.699501+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Tenchu Z - HoloCatt Recomp Project: work-in-progress static recompilation of Tenchu Z (Xbox 360) for Windows. Bring your own disc image: no game files included.",
+        "latest_release_url": "https://github.com/Llamapixels/TenchuZRecomp/releases/tag/v0.1.3-alpha",
+        "latest_release_name": "Alpha 0.1.3",
+        "release_assets": [
+          {
+            "name": "TenchuZ-HoloCattRecomp-0.1.3-alpha-windows.zip",
+            "url": "https://github.com/Llamapixels/TenchuZRecomp/releases/download/v0.1.3-alpha/TenchuZ-HoloCattRecomp-0.1.3-alpha-windows.zip",
+            "size": 17681533
+          }
+        ],
+        "releases": [
+          {
+            "name": "Alpha 0.1.3",
+            "url": "https://github.com/Llamapixels/TenchuZRecomp/releases/tag/v0.1.3-alpha",
+            "published_at": "2026-10-23T13:28:40Z",
+            "assets": [
+              {
+                "name": "TenchuZ-HoloCattRecomp-0.1.3-alpha-windows.zip",
+                "url": "https://github.com/Llamapixels/TenchuZRecomp/releases/download/v0.1.3-alpha/TenchuZ-HoloCattRecomp-0.1.3-alpha-windows.zip",
+                "size": 17681533
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Alpha 0.1.2",
+            "url": "https://github.com/Llamapixels/TenchuZRecomp/releases/tag/v0.1.2-alpha",
+            "published_at": "2026-10-23T05:43:43Z",
+            "assets": [
+              {
+                "name": "TenchuZ-HoloCattRecomp-0.1.2-alpha-windows.zip",
+                "url": "https://github.com/Llamapixels/TenchuZRecomp/releases/download/v0.1.2-alpha/TenchuZ-HoloCattRecomp-0.1.2-alpha-windows.zip",
+                "size": 17674835
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Alpha 0.1.1",
+            "url": "https://github.com/Llamapixels/TenchuZRecomp/releases/tag/v0.1.1-alpha",
+            "published_at": "2026-10-22T07:27:55Z",
+            "assets": [
+              {
+                "name": "TenchuZ-HoloCattRecomp-0.1.1-alpha-windows.zip",
+                "url": "https://github.com/Llamapixels/TenchuZRecomp/releases/download/v0.1.1-alpha/TenchuZ-HoloCattRecomp-0.1.1-alpha-windows.zip",
+                "size": 16302443
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Alpha 0.1.0",
+            "url": "https://github.com/Llamapixels/TenchuZRecomp/releases/tag/v0.1.0-alpha",
+            "published_at": "2026-10-22T06:28:58Z",
+            "assets": [
+              {
+                "name": "TenchuZ-HoloCattRecomp-0.1.0-alpha-windows.zip",
+                "url": "https://github.com/Llamapixels/TenchuZRecomp/releases/download/v0.1.0-alpha/TenchuZ-HoloCattRecomp-0.1.0-alpha-windows.zip",
+                "size": 16291718
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -5657,9 +7095,31 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "TenchuZ-HoloCattRecomp-0.1.3-alpha-windows.zip",
+          "url": "https://github.com/Llamapixels/TenchuZRecomp/releases/download/v0.1.3-alpha/TenchuZ-HoloCattRecomp-0.1.3-alpha-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "TenchuZ-HoloCattRecomp-0.1.2-alpha-windows.zip",
+          "url": "https://github.com/Llamapixels/TenchuZRecomp/releases/download/v0.1.2-alpha/TenchuZ-HoloCattRecomp-0.1.2-alpha-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "TenchuZ-HoloCattRecomp-0.1.1-alpha-windows.zip",
+          "url": "https://github.com/Llamapixels/TenchuZRecomp/releases/download/v0.1.1-alpha/TenchuZ-HoloCattRecomp-0.1.1-alpha-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "TenchuZ-HoloCattRecomp-0.1.0-alpha-windows.zip",
+          "url": "https://github.com/Llamapixels/TenchuZRecomp/releases/download/v0.1.0-alpha/TenchuZ-HoloCattRecomp-0.1.0-alpha-windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
