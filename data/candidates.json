@@ -1,7 +1,448 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-26T18:35:41.178415+00:00",
+  "last_updated": "2026-10-26T23:42:16.069012+00:00",
   "candidates": [
+    {
+      "title": "VitorCdSouza/oni-mobile",
+      "url": "https://github.com/VitorCdSouza/oni-mobile",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-26T23:31:51Z",
+      "summary": "Native Android (IL2CPP arm64) port of Oxygen Not Included for personal use. Code only: no game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T23:42:00.483523+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Theonesabove/gw3-r36s",
+      "url": "https://github.com/Theonesabove/gw3-r36s",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-26T20:47:29Z",
+      "summary": "Geometry Wars 3: Dimensions Evolved on the R36S and other RK3326 Linux handhelds, through PortMaster. A native port of the Android version: the game's original ARM engine runs directly on the handheld, with no emulation and no Box86.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T23:42:00.482817+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux, android"
+      ]
+    },
+    {
+      "title": "negroISO/doax3-fortune-pc",
+      "url": "https://github.com/negroISO/doax3-fortune-pc",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-26T20:59:48Z",
+      "summary": "Experimental DOAX3 Fortune CUSA04555 1.19 Windows/Vulkan source port. Bring your own game data; optional NR, no frame generation.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T23:41:56.609996+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "negroISO/doax3-scarlet-pc",
+      "url": "https://github.com/negroISO/doax3-scarlet-pc",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-26T20:59:50Z",
+      "summary": "Experimental DOAX3 Scarlet CUSA14173 1.08 Windows/Vulkan source port. Bring your own game data; optional NR, no frame generation.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T23:41:56.609340+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "GranasSabre/Grandia3-PC",
+      "url": "https://github.com/GranasSabre/Grandia3-PC",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-26T20:37:17Z",
+      "summary": "Grandia III (PS2) as a native PC game via static recompilation - bring your own ISO",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T23:41:54.681144+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "GabrielBigardi/YuGiOhFM-Recomp",
+      "url": "https://github.com/GabrielBigardi/YuGiOhFM-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-26T21:06:01Z",
+      "summary": "Native Windows/Linux port of Yu-Gi-Oh! Forbidden Memories (PS1) by static recompilation - bring your own copy, no game files included Topics: forbidden-memories, native-port, playstation, ps1, recompilation, sdl2, static-recompilation, yu-gi-oh",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T23:41:54.680463+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "batatinhafcbatatinha-pixel/boku-no-natsuyasumi-2-pc",
+      "url": "https://github.com/batatinhafcbatatinha-pixel/boku-no-natsuyasumi-2-pc",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-26T21:27:35Z",
+      "summary": "Experimental Boku no Natsuyasumi 2 (PS2) native PC port work via static recompilation. Bring your own disc; no game content distributed.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T23:41:54.679695+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "batatinhafcbatatinha-pixel/cod-world-at-war-final-fronts-pc",
+      "url": "https://github.com/batatinhafcbatatinha-pixel/cod-world-at-war-final-fronts-pc",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-26T21:27:37Z",
+      "summary": "Experimental Call of Duty: World at War - Final Fronts (PS2) native PC port work via static recompilation. Bring your own disc; no game content distributed.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T23:41:54.678961+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "batatinhafcbatatinha-pixel/ben10-alien-force-pc",
+      "url": "https://github.com/batatinhafcbatatinha-pixel/ben10-alien-force-pc",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-26T21:27:42Z",
+      "summary": "Experimental Ben 10: Alien Force (PS2) native PC port work via static recompilation. Bring your own disc; no game content distributed.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T23:41:54.678211+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "rzrbld/ReConflict",
+      "url": "https://github.com/rzrbld/ReConflict",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-26T23:13:24Z",
+      "summary": "Community ARM64 port for Conflict: Desert Storm using static recompilation, SDL2 and OpenGL ES. Players supply their own game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T23:41:54.677500+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "anefril/x-card-games",
+      "url": "https://github.com/anefril/x-card-games",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-26T21:00:32Z",
+      "summary": "Classic games that play right inside an X post: DOOM and Tyrian 2000, via X player cards. Topics: browser-game, doom, emscripten, twitter, tyrian, webassembly, x-player-card",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T23:41:50.294240+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "OJ102/IRLSurfer",
+      "url": "https://github.com/OJ102/IRLSurfer",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-26T21:45:52Z",
+      "summary": "Play Subway Surfers with your body: real-time webcam body-tracking controller using MediaPipe pose estimation. Side-step, jump and duck to send keyboard input. Python desktop controller + zero-install TypeScript browser game. One Euro filter, Schmitt-trigger state machine. Topics: body-tracking, computer-vision, game-controller, gesture-recognition, html5-game, machine-learning, mediapipe, motion-control, one-euro-filter, opencv, pose-detection, pose-estimation, python, real-time, state-machine, subway-surfers, typescript, webassembly, webcam, webcam-game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T23:41:50.292073+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "html5"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, html5",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "chook-games/vegas-make-it-big-web",
+      "url": "https://github.com/chook-games/vegas-make-it-big-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-26T23:34:45Z",
+      "summary": "Vegas: Make It Big! browser port — early playable prototype with original game data",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T23:41:46.002237+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game, playable"
+      ]
+    },
     {
       "title": "Karlos-fr/fun-tracks-recomp-releases",
       "url": "https://github.com/Karlos-fr/fun-tracks-recomp-releases",
@@ -11,7 +452,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-26T18:35:29.201257+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T23:42:03.767700+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Multi-platform releases (Windows, Android) of the Fun Tracks (1997) decompilation / recompilation. Original game files required.",
+        "latest_release_url": "https://github.com/Karlos-fr/fun-tracks-recomp-releases/releases/tag/v0.1.0-alpha",
+        "latest_release_name": "Fun Tracks recomp 0.1.0-alpha (Windows 64-bit, Android)",
+        "release_assets": [
+          {
+            "name": "FunTracks-0.1.0-alpha-android-arm64.apk",
+            "url": "https://github.com/Karlos-fr/fun-tracks-recomp-releases/releases/download/v0.1.0-alpha/FunTracks-0.1.0-alpha-android-arm64.apk",
+            "size": 14370068
+          },
+          {
+            "name": "FunTracks-0.1.0-alpha-windows-x64.zip",
+            "url": "https://github.com/Karlos-fr/fun-tracks-recomp-releases/releases/download/v0.1.0-alpha/FunTracks-0.1.0-alpha-windows-x64.zip",
+            "size": 4578298
+          }
+        ],
+        "releases": [
+          {
+            "name": "Fun Tracks recomp 0.1.0-alpha (Windows 64-bit, Android)",
+            "url": "https://github.com/Karlos-fr/fun-tracks-recomp-releases/releases/tag/v0.1.0-alpha",
+            "published_at": "2026-10-26T18:11:42Z",
+            "assets": [
+              {
+                "name": "FunTracks-0.1.0-alpha-android-arm64.apk",
+                "url": "https://github.com/Karlos-fr/fun-tracks-recomp-releases/releases/download/v0.1.0-alpha/FunTracks-0.1.0-alpha-android-arm64.apk",
+                "size": 14370068
+              },
+              {
+                "name": "FunTracks-0.1.0-alpha-windows-x64.zip",
+                "url": "https://github.com/Karlos-fr/fun-tracks-recomp-releases/releases/download/v0.1.0-alpha/FunTracks-0.1.0-alpha-windows-x64.zip",
+                "size": 4578298
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -27,10 +516,22 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "FunTracks-0.1.0-alpha-android-arm64.apk",
+          "url": "https://github.com/Karlos-fr/fun-tracks-recomp-releases/releases/download/v0.1.0-alpha/FunTracks-0.1.0-alpha-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "FunTracks-0.1.0-alpha-windows-x64.zip",
+          "url": "https://github.com/Karlos-fr/fun-tracks-recomp-releases/releases/download/v0.1.0-alpha/FunTracks-0.1.0-alpha-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -48,7 +549,105 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-26T18:35:27.345830+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T23:42:05.297125+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "📦 A native Android port of Super Mario Party Jamboree for Switch, running the original game code through a custom ARM64 loader and an NVN-to-Vulkan renderer. Bring your own legally dumped copy and keys. No game files or keys included. By ORIKAMI.",
+        "latest_release_url": "https://github.com/orikami-dev/SMPJRecompAndroid/releases/tag/v0.59",
+        "latest_release_name": "SMPJRecompAndroid 0.59",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "SMPJRecompAndroid 0.59",
+            "url": "https://github.com/orikami-dev/SMPJRecompAndroid/releases/tag/v0.59",
+            "published_at": "2026-10-25T23:32:55Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SMPJRecompAndroid 0.58",
+            "url": "https://github.com/orikami-dev/SMPJRecompAndroid/releases/tag/v0.58",
+            "published_at": "2026-10-25T23:25:10Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SMPJRecompAndroid 0.57",
+            "url": "https://github.com/orikami-dev/SMPJRecompAndroid/releases/tag/v0.57",
+            "published_at": "2026-10-25T23:25:08Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SMPJRecompAndroid 0.56",
+            "url": "https://github.com/orikami-dev/SMPJRecompAndroid/releases/tag/v0.56",
+            "published_at": "2026-10-25T23:25:07Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SMPJRecompAndroid 0.55",
+            "url": "https://github.com/orikami-dev/SMPJRecompAndroid/releases/tag/v0.55",
+            "published_at": "2026-10-25T23:25:06Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SMPJRecompAndroid 0.52",
+            "url": "https://github.com/orikami-dev/SMPJRecompAndroid/releases/tag/v0.52",
+            "published_at": "2026-10-25T23:25:05Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SMPJRecompAndroid 0.49",
+            "url": "https://github.com/orikami-dev/SMPJRecompAndroid/releases/tag/v0.49",
+            "published_at": "2026-10-25T23:25:04Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SMPJRecompAndroid 0.33",
+            "url": "https://github.com/orikami-dev/SMPJRecompAndroid/releases/tag/v0.33",
+            "published_at": "2026-10-25T23:25:03Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SMPJRecompAndroid 0.22",
+            "url": "https://github.com/orikami-dev/SMPJRecompAndroid/releases/tag/v0.22",
+            "published_at": "2026-10-25T23:25:01Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SMPJRecompAndroid 0.15",
+            "url": "https://github.com/orikami-dev/SMPJRecompAndroid/releases/tag/v0.15",
+            "published_at": "2026-10-25T23:25:00Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -82,7 +681,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-26T18:35:27.344134+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T23:42:06.890579+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Persona 5 Royal for Android: a native port that runs your own dump (the APK holds no game code or data)",
+        "latest_release_url": "https://github.com/Brandon04Gonzalez/p5r-android/releases/tag/v0.4.0",
+        "latest_release_name": "v0.4.0: play directly from NSP on Android",
+        "release_assets": [
+          {
+            "name": "p5r.apk",
+            "url": "https://github.com/Brandon04Gonzalez/p5r-android/releases/download/v0.4.0/p5r.apk",
+            "size": 3450382
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.4.0: play directly from NSP on Android",
+            "url": "https://github.com/Brandon04Gonzalez/p5r-android/releases/tag/v0.4.0",
+            "published_at": "2026-10-26T00:02:08Z",
+            "assets": [
+              {
+                "name": "p5r.apk",
+                "url": "https://github.com/Brandon04Gonzalez/p5r-android/releases/download/v0.4.0/p5r.apk",
+                "size": 3450382
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.3.0: native loader (no game code in the APK)",
+            "url": "https://github.com/Brandon04Gonzalez/p5r-android/releases/tag/v0.3.0",
+            "published_at": "2026-10-25T22:26:23Z",
+            "assets": [
+              {
+                "name": "p5r.apk",
+                "url": "https://github.com/Brandon04Gonzalez/p5r-android/releases/download/v0.3.0/p5r.apk",
+                "size": 1127797
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -95,9 +746,21 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "p5r.apk",
+          "url": "https://github.com/Brandon04Gonzalez/p5r-android/releases/download/v0.4.0/p5r.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "p5r.apk",
+          "url": "https://github.com/Brandon04Gonzalez/p5r-android/releases/download/v0.3.0/p5r.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -115,7 +778,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-26T18:35:27.342293+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T23:42:08.448826+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial Android port of Fantastic Four (Xbox). No game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -149,7 +829,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-26T18:35:27.340800+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T23:42:09.939916+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Geometry Wars 3: Dimensions Evolved on the Nintendo Switch. A native homebrew port of the Android version: the game's original ARM code runs unmodified through a JIT, with the Android pieces it expects rebuilt for the Switch",
+        "latest_release_url": "https://github.com/Theonesabove/gw3nx/releases/tag/0.29",
+        "latest_release_name": "0.29",
+        "release_assets": [
+          {
+            "name": "gw3nx.nro",
+            "url": "https://github.com/Theonesabove/gw3nx/releases/download/0.29/gw3nx.nro",
+            "size": 11440575
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.29",
+            "url": "https://github.com/Theonesabove/gw3nx/releases/tag/0.29",
+            "published_at": "2026-10-26T17:23:44Z",
+            "assets": [
+              {
+                "name": "gw3nx.nro",
+                "url": "https://github.com/Theonesabove/gw3nx/releases/download/0.29/gw3nx.nro",
+                "size": 11440575
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.28",
+            "url": "https://github.com/Theonesabove/gw3nx/releases/tag/0.28",
+            "published_at": "2026-10-26T15:27:33Z",
+            "assets": [
+              {
+                "name": "gw3nx.nro",
+                "url": "https://github.com/Theonesabove/gw3nx/releases/download/0.28/gw3nx.nro",
+                "size": 11440575
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -164,10 +896,22 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "gw3nx.nro",
+          "url": "https://github.com/Theonesabove/gw3nx/releases/download/0.29/gw3nx.nro",
+          "type": "other_file"
+        },
+        {
+          "name": "gw3nx.nro",
+          "url": "https://github.com/Theonesabove/gw3nx/releases/download/0.28/gw3nx.nro",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 8,
       "relevance_status": "promising",
@@ -185,7 +929,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-26T18:35:27.339836+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T23:42:11.489010+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial fan-made Android port of the classic PS2 action-adventure game Mortal Kombat: Shaolin Monks, featuring touch controls and mobile performance optimization.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -219,7 +980,47 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-26T18:35:25.426053+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T23:42:12.959388+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "An independent, UNOFFICIAL fan-made hybrid port of EarthBound (SNES), aiming to deliver the definitive way to play. Built with contributions from other community repositories. Available for Windows, Linux, and macOS, with Brazilian Portuguese support. DOES NOT INCLUDE THE ORIGINAL GAME or ROM. Requires a legally obtained USA ROM. ;)",
+        "latest_release_url": "https://github.com/edzito69/Earthbound-PC-Port-COOP/releases/tag/Game_Ports",
+        "latest_release_name": "Earthbound PC + COOP",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "Earthbound PC + COOP",
+            "url": "https://github.com/edzito69/Earthbound-PC-Port-COOP/releases/tag/Game_Ports",
+            "published_at": "2026-10-25T23:46:20Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Earthbound PC + COOP Ver. 3.6",
+            "url": "https://github.com/edzito69/Earthbound-PC-Port-COOP/releases/tag/EarthboundCOOPv3.6",
+            "published_at": "2026-10-26T23:24:48Z",
+            "assets": [
+              {
+                "name": "Earthbound.PC.Port.COOP.-.Ver.3.6.zip",
+                "url": "https://github.com/edzito69/Earthbound-PC-Port-COOP/releases/download/EarthboundCOOPv3.6/Earthbound.PC.Port.COOP.-.Ver.3.6.zip",
+                "size": 9034347
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -233,9 +1034,16 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Earthbound.PC.Port.COOP.-.Ver.3.6.zip",
+          "url": "https://github.com/edzito69/Earthbound-PC-Port-COOP/releases/download/EarthboundCOOPv3.6/Earthbound.PC.Port.COOP.-.Ver.3.6.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -253,7 +1061,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-26T18:35:25.423732+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T23:42:14.529752+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "SpartanPort: unofficial PC port of God of War III Remastered (PS4) for Windows and Linux (AppImage). Original x86-64 code runs directly on the CPU with a custom runtime; graphics use shadPS4's Vulkan video core. Launcher, in-game menu, controller icons and up to 240 FPS. Requires your own game dump. No game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
