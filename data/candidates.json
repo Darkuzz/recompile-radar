@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-25T22:25:35.631403+00:00",
+  "last_updated": "2026-10-26T10:55:36.738647+00:00",
   "candidates": [
     {
       "title": "KLM-corporation/sbr64_pc",
@@ -11,7 +11,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T22:25:19.866220+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T10:55:24.587918+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows port of Run Sackboy! Run! (Android v1.0.4): runs the original ARM32 game on x86_64 with Dynarmic and Android HLE. Game files not included.",
+        "latest_release_url": "https://github.com/KLM-corporation/sbr64_pc/releases/tag/v1.0.0",
+        "latest_release_name": "v1.0.0 - Run Sackboy! Run! sur PC",
+        "release_assets": [
+          {
+            "name": "sbr64_pc-v1.0.0-windows-x64.zip",
+            "url": "https://github.com/KLM-corporation/sbr64_pc/releases/download/v1.0.0/sbr64_pc-v1.0.0-windows-x64.zip",
+            "size": 1992110
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.0.0 - Run Sackboy! Run! sur PC",
+            "url": "https://github.com/KLM-corporation/sbr64_pc/releases/tag/v1.0.0",
+            "published_at": "2026-10-25T17:47:16Z",
+            "assets": [
+              {
+                "name": "sbr64_pc-v1.0.0-windows-x64.zip",
+                "url": "https://github.com/KLM-corporation/sbr64_pc/releases/download/v1.0.0/sbr64_pc-v1.0.0-windows-x64.zip",
+                "size": 1992110
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -27,10 +65,17 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "sbr64_pc-v1.0.0-windows-x64.zip",
+          "url": "https://github.com/KLM-corporation/sbr64_pc/releases/download/v1.0.0/sbr64_pc-v1.0.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -48,7 +93,75 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T22:25:19.865415+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T10:55:26.112019+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial clean-room Nintendo Switch & PC port of Destinia (Gamevil, 2011): ARM Thumb interpreter + HLE, no game assets included",
+        "latest_release_url": "https://github.com/malinkin-s/destinia-nx/releases/tag/v1.0.0",
+        "latest_release_name": "Destinia for Nintendo Switch v1.0.0",
+        "release_assets": [
+          {
+            "name": "destinia-switch-1.0.0.zip",
+            "url": "https://github.com/malinkin-s/destinia-nx/releases/download/v1.0.0/destinia-switch-1.0.0.zip",
+            "size": 3381709
+          },
+          {
+            "name": "Destinia.0100D3571A000000.v0.nsp",
+            "url": "https://github.com/malinkin-s/destinia-nx/releases/download/v1.0.0/Destinia.0100D3571A000000.v0.nsp",
+            "size": 331992
+          },
+          {
+            "name": "Destinia.0100D3571A000000.v0.nsz",
+            "url": "https://github.com/malinkin-s/destinia-nx/releases/download/v1.0.0/Destinia.0100D3571A000000.v0.nsz",
+            "size": 218589
+          },
+          {
+            "name": "destinia.nro",
+            "url": "https://github.com/malinkin-s/destinia-nx/releases/download/v1.0.0/destinia.nro",
+            "size": 7813855
+          }
+        ],
+        "releases": [
+          {
+            "name": "Destinia for Nintendo Switch v1.0.0",
+            "url": "https://github.com/malinkin-s/destinia-nx/releases/tag/v1.0.0",
+            "published_at": "2026-10-25T18:43:02Z",
+            "assets": [
+              {
+                "name": "destinia-switch-1.0.0.zip",
+                "url": "https://github.com/malinkin-s/destinia-nx/releases/download/v1.0.0/destinia-switch-1.0.0.zip",
+                "size": 3381709
+              },
+              {
+                "name": "Destinia.0100D3571A000000.v0.nsp",
+                "url": "https://github.com/malinkin-s/destinia-nx/releases/download/v1.0.0/Destinia.0100D3571A000000.v0.nsp",
+                "size": 331992
+              },
+              {
+                "name": "Destinia.0100D3571A000000.v0.nsz",
+                "url": "https://github.com/malinkin-s/destinia-nx/releases/download/v1.0.0/Destinia.0100D3571A000000.v0.nsz",
+                "size": 218589
+              },
+              {
+                "name": "destinia.nro",
+                "url": "https://github.com/malinkin-s/destinia-nx/releases/download/v1.0.0/destinia.nro",
+                "size": 7813855
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -66,11 +179,33 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "destinia-switch-1.0.0.zip",
+          "url": "https://github.com/malinkin-s/destinia-nx/releases/download/v1.0.0/destinia-switch-1.0.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Destinia.0100D3571A000000.v0.nsp",
+          "url": "https://github.com/malinkin-s/destinia-nx/releases/download/v1.0.0/Destinia.0100D3571A000000.v0.nsp",
+          "type": "other_file"
+        },
+        {
+          "name": "Destinia.0100D3571A000000.v0.nsz",
+          "url": "https://github.com/malinkin-s/destinia-nx/releases/download/v1.0.0/Destinia.0100D3571A000000.v0.nsz",
+          "type": "other_file"
+        },
+        {
+          "name": "destinia.nro",
+          "url": "https://github.com/malinkin-s/destinia-nx/releases/download/v1.0.0/destinia.nro",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
         "В описании обнаружены признаки PC-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 8,
       "relevance_status": "promising",
@@ -88,7 +223,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T22:25:19.864607+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T10:55:27.719293+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android ARM64 ports of Stronghold HD, Crusader and Crusader Extreme via static PC recompilation. Original game files required.",
+        "latest_release_url": "https://github.com/phys-winner/pc_decomp_strhld/releases/tag/v0.22-dev",
+        "latest_release_name": "Stronghold Crusader 0.22-dev",
+        "release_assets": [
+          {
+            "name": "stronghold-crusader-0.22-dev-43dc0488.apk",
+            "url": "https://github.com/phys-winner/pc_decomp_strhld/releases/download/v0.22-dev/stronghold-crusader-0.22-dev-43dc0488.apk",
+            "size": 61007300
+          }
+        ],
+        "releases": [
+          {
+            "name": "Stronghold Crusader 0.22-dev",
+            "url": "https://github.com/phys-winner/pc_decomp_strhld/releases/tag/v0.22-dev",
+            "published_at": "2026-10-25T19:30:58Z",
+            "assets": [
+              {
+                "name": "stronghold-crusader-0.22-dev-43dc0488.apk",
+                "url": "https://github.com/phys-winner/pc_decomp_strhld/releases/download/v0.22-dev/stronghold-crusader-0.22-dev-43dc0488.apk",
+                "size": 61007300
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -101,9 +274,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "stronghold-crusader-0.22-dev-43dc0488.apk",
+          "url": "https://github.com/phys-winner/pc_decomp_strhld/releases/download/v0.22-dev/stronghold-crusader-0.22-dev-43dc0488.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -121,7 +301,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T22:25:19.863897+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T10:55:29.235953+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "An unofficial preservation port of Slingshot Racing, preserving gaming heritage and making the game playable on modern Android phones.",
+        "latest_release_url": "https://github.com/i2Phoenix/slingshot-racing/releases/tag/v1.4.0.0",
+        "latest_release_name": "Slingshot Racing Remastered v1.4.0.0",
+        "release_assets": [
+          {
+            "name": "SlingshotRacing-Remastered-1.4.0.0-arm64.apk",
+            "url": "https://github.com/i2Phoenix/slingshot-racing/releases/download/v1.4.0.0/SlingshotRacing-Remastered-1.4.0.0-arm64.apk",
+            "size": 44554646
+          }
+        ],
+        "releases": [
+          {
+            "name": "Slingshot Racing Remastered v1.4.0.0",
+            "url": "https://github.com/i2Phoenix/slingshot-racing/releases/tag/v1.4.0.0",
+            "published_at": "2026-10-25T19:46:52Z",
+            "assets": [
+              {
+                "name": "SlingshotRacing-Remastered-1.4.0.0-arm64.apk",
+                "url": "https://github.com/i2Phoenix/slingshot-racing/releases/download/v1.4.0.0/SlingshotRacing-Remastered-1.4.0.0-arm64.apk",
+                "size": 44554646
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -134,9 +352,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SlingshotRacing-Remastered-1.4.0.0-arm64.apk",
+          "url": "https://github.com/i2Phoenix/slingshot-racing/releases/download/v1.4.0.0/SlingshotRacing-Remastered-1.4.0.0-arm64.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -154,7 +379,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T22:25:19.863222+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T10:55:30.862169+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "64-bit Android port of MapleStory Thief Edition (engine source, tools, tests; no game assets)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -188,7 +430,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T22:25:19.862015+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T10:55:32.305706+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Fast paced puzzle game inspired by Tetris - Native Android port for F-Droid by Germaz Studio",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -222,7 +481,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T22:25:19.861085+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T10:55:33.759112+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Android ARM64 port of Heroes V: Tribes of the East via static x86 recompilation, with touch controls. Requires original game files.",
+        "latest_release_url": "https://github.com/phys-winner/pc_decomp_homm5/releases/tag/v0.1-dev-5e6c856e",
+        "latest_release_name": "Heroes V 0.1-dev (5e6c856e)",
+        "release_assets": [
+          {
+            "name": "heroes-v-0.1-dev-5e6c856e.apk",
+            "url": "https://github.com/phys-winner/pc_decomp_homm5/releases/download/v0.1-dev-5e6c856e/heroes-v-0.1-dev-5e6c856e.apk",
+            "size": 58030496
+          },
+          {
+            "name": "heroes-v-0.1-dev-5e6c856e.apk.sha256",
+            "url": "https://github.com/phys-winner/pc_decomp_homm5/releases/download/v0.1-dev-5e6c856e/heroes-v-0.1-dev-5e6c856e.apk.sha256",
+            "size": 97
+          }
+        ],
+        "releases": [
+          {
+            "name": "Heroes V 0.1-dev (5e6c856e)",
+            "url": "https://github.com/phys-winner/pc_decomp_homm5/releases/tag/v0.1-dev-5e6c856e",
+            "published_at": "2026-10-25T21:24:15Z",
+            "assets": [
+              {
+                "name": "heroes-v-0.1-dev-5e6c856e.apk",
+                "url": "https://github.com/phys-winner/pc_decomp_homm5/releases/download/v0.1-dev-5e6c856e/heroes-v-0.1-dev-5e6c856e.apk",
+                "size": 58030496
+              },
+              {
+                "name": "heroes-v-0.1-dev-5e6c856e.apk.sha256",
+                "url": "https://github.com/phys-winner/pc_decomp_homm5/releases/download/v0.1-dev-5e6c856e/heroes-v-0.1-dev-5e6c856e.apk.sha256",
+                "size": 97
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -235,9 +542,21 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "heroes-v-0.1-dev-5e6c856e.apk",
+          "url": "https://github.com/phys-winner/pc_decomp_homm5/releases/download/v0.1-dev-5e6c856e/heroes-v-0.1-dev-5e6c856e.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "heroes-v-0.1-dev-5e6c856e.apk.sha256",
+          "url": "https://github.com/phys-winner/pc_decomp_homm5/releases/download/v0.1-dev-5e6c856e/heroes-v-0.1-dev-5e6c856e.apk.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -255,7 +574,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T22:25:17.877908+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T10:55:35.197917+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows, Linux and Android ports of Adult Swim/Mediatonic's Amateur Surgeon series (1, Christmas Edition, 2, 3), built on the shared Bleed Engine from each game's own Flash/iOS original.",
+        "latest_release_url": "https://github.com/Hortus1556/Re-Generated-Project/releases/tag/v1.0.0",
+        "latest_release_name": "Amateur Surgeon Builder",
+        "release_assets": [
+          {
+            "name": "BuildAllGames.zip",
+            "url": "https://github.com/Hortus1556/Re-Generated-Project/releases/download/v1.0.0/BuildAllGames.zip",
+            "size": 42317953
+          }
+        ],
+        "releases": [
+          {
+            "name": "Amateur Surgeon Builder",
+            "url": "https://github.com/Hortus1556/Re-Generated-Project/releases/tag/v1.0.0",
+            "published_at": "2026-10-25T15:46:02Z",
+            "assets": [
+              {
+                "name": "BuildAllGames.zip",
+                "url": "https://github.com/Hortus1556/Re-Generated-Project/releases/download/v1.0.0/BuildAllGames.zip",
+                "size": 42317953
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -273,10 +630,17 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "BuildAllGames.zip",
+          "url": "https://github.com/Hortus1556/Re-Generated-Project/releases/download/v1.0.0/BuildAllGames.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
