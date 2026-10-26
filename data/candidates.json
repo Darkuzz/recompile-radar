@@ -1,7 +1,719 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-26T10:55:36.738647+00:00",
+  "last_updated": "2026-10-26T18:35:41.178415+00:00",
   "candidates": [
+    {
+      "title": "Karlos-fr/fun-tracks-recomp-releases",
+      "url": "https://github.com/Karlos-fr/fun-tracks-recomp-releases",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-10-26T18:30:56Z",
+      "summary": "Multi-platform releases (Windows, Android) of the Fun Tracks (1997) decompilation / recompilation. Original game files required.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:29.201257+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game, windows, android"
+      ]
+    },
+    {
+      "title": "orikami-dev/SMPJRecompAndroid",
+      "url": "https://github.com/orikami-dev/SMPJRecompAndroid",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-26T00:02:44Z",
+      "summary": "📦 A native Android port of Super Mario Party Jamboree for Switch, running the original game code through a custom ARM64 loader and an NVN-to-Vulkan renderer. Bring your own legally dumped copy and keys. No game files or keys included. By ORIKAMI.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:27.345830+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game, android"
+      ]
+    },
+    {
+      "title": "Brandon04Gonzalez/p5r-android",
+      "url": "https://github.com/Brandon04Gonzalez/p5r-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-26T00:58:16Z",
+      "summary": "Persona 5 Royal for Android: a native port that runs your own dump (the APK holds no game code or data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:27.344134+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: native port",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "loicorleans/Fantastic-4-Android",
+      "url": "https://github.com/loicorleans/Fantastic-4-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-26T12:25:04Z",
+      "summary": "Unofficial Android port of Fantastic Four (Xbox). No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:27.342293+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Theonesabove/gw3nx",
+      "url": "https://github.com/Theonesabove/gw3nx",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-26T17:23:44Z",
+      "summary": "Geometry Wars 3: Dimensions Evolved on the Nintendo Switch. A native homebrew port of the Android version: the game's original ARM code runs unmodified through a JIT, with the Android pieces it expects rebuilt for the Switch",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:27.340800+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "rafli6373/Mortal-Kombat-Shaolin-Monks---Android",
+      "url": "https://github.com/rafli6373/Mortal-Kombat-Shaolin-Monks---Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-26T17:36:06Z",
+      "summary": "Unofficial fan-made Android port of the classic PS2 action-adventure game Mortal Kombat: Shaolin Monks, featuring touch controls and mobile performance optimization.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:27.339836+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "edzito69/Earthbound-PC-Port-COOP",
+      "url": "https://github.com/edzito69/Earthbound-PC-Port-COOP",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-25T23:59:31Z",
+      "summary": "An independent, UNOFFICIAL fan-made hybrid port of EarthBound (SNES), aiming to deliver the definitive way to play. Built with contributions from other community repositories. Available for Windows, Linux, and macOS, with Brazilian Portuguese support. DOES NOT INCLUDE THE ORIGINAL GAME or ROM. Requires a legally obtained USA ROM. ;)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:25.426053+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of",
+        "Есть игровые/платформенные признаки: game, rom, original game, windows, linux"
+      ]
+    },
+    {
+      "title": "ZuanCrisp/SpartanPort",
+      "url": "https://github.com/ZuanCrisp/SpartanPort",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-26T04:56:58Z",
+      "summary": "SpartanPort: unofficial PC port of God of War III Remastered (PS4) for Windows and Linux (AppImage). Original x86-64 code runs directly on the CPU with a custom runtime; graphics use shadPS4's Vulkan video core. Launcher, in-game menu, controller icons and up to 240 FPS. Requires your own game dump. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:25.423732+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Nezara/ACNB-Decomp",
+      "url": "https://github.com/Nezara/ACNB-Decomp",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-26T10:52:12Z",
+      "summary": "ACNB - Decomp: a PC source port of Armored Core: Nine Breaker (PS2) Versus mode from decompiled game logic. Proof of concept; bring your own disc image.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:23.518617+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, source port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Leonardorobertomotalvao/demons-souls-pc",
+      "url": "https://github.com/Leonardorobertomotalvao/demons-souls-pc",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-26T13:47:24Z",
+      "summary": "Native static recompilation of Demon's Souls (PS3) for Windows x64 + launcher. Unofficial fan port. No game code or data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:21.716546+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, fan port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "Raajik/SSXOnTour-recomp",
+      "url": "https://github.com/Raajik/SSXOnTour-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-26T14:57:18Z",
+      "summary": "SSX On Tour (Xbox, NTSC-U) as a native Linux program by static recompilation. Bring your own disc; no game code or data here.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:21.715767+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "maxiumpro/kungfuchaos-recomp",
+      "url": "https://github.com/maxiumpro/kungfuchaos-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-26T15:47:36Z",
+      "summary": "Kung Fu Chaos (Xbox) static recompilation for Windows with xboxrecomp. No game data included: bring your own copy.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:21.715032+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "boubou666/VP2S_Recomp",
+      "url": "https://github.com/boubou666/VP2S_Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-26T17:01:28Z",
+      "summary": "Native PC port of Valkyrie Profile 2: Silmeria (PAL, SLES-54645) by static recompilation with PS2Recomp. No game data or keys included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:21.714269+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "boubou666/TLOTR_TTA_Recomp",
+      "url": "https://github.com/boubou666/TLOTR_TTA_Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-26T17:53:23Z",
+      "summary": "The Lord of the Rings: The Third Age (NTSC-U, SLUS-21027) static recompilation with PS2Recomp, for Windows, Linux and macOS: configs, scripts, notes (no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:21.713442+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "deivid22srk/FarCry2_Android",
+      "url": "https://github.com/deivid22srk/FarCry2_Android",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-26T18:25:06Z",
+      "summary": "Far Cry 2 (PC 2008) arm64 Android port via x86 -> C static recompilation. Game files and the APK are not in this repository; the APK is built by GitHub Actions.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:21.712569+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "gnome41/DK94-SGB",
+      "url": "https://github.com/gnome41/DK94-SGB",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-26T18:28:30Z",
+      "summary": "Unofficial static recompilation of Donkey Kong (Game Boy, 1994) to native Linux/Windows, with Super Game Boy palettes, border, SNES sound and widescreen. No ROM or BIOS included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:21.711694+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows, linux"
+      ]
+    },
+    {
+      "title": "ZacheerKour/oceanic-stars-decomp",
+      "url": "https://github.com/ZacheerKour/oceanic-stars-decomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-26T18:35:14Z",
+      "summary": "Star Ocean: The Second Story (PS1, USA) decompilation + static recompilation. AI-assisted. No game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:21.710875+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "rad1092/matcha",
+      "url": "https://github.com/rad1092/matcha",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-26T14:43:30Z",
+      "summary": "Game Boy emulator with a live debugger, playable in the browser, and an MCP server so Claude can play and debug. Topics: debugger, emulator, gameboy, mcp, rust, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:17.808918+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, playable, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "ai-2070/net-fps",
+      "url": "https://github.com/ai-2070/net-fps",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-26T18:24:25Z",
+      "summary": "Open-source browser FPS with peer-to-peer multiplayer co-op over NET and WebRTC. No game server, end-to-end encrypted. three.js, host-authoritative netcode with client-side prediction and lag compensation, a server browser, and an F4 network debug panel. Topics: browser-game, client-side-prediction, co-op, end-to-end-encryption, first-person-shooter, fps, game-networking, html5-game, javascript, lag-compensation, multiplayer, multiplayer-game, net-mesh, netcode, p2p, peer-to-peer, threejs, webassembly, webgl, webrtc",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:17.797848+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl",
+          "html5"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, webgl, html5",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "AdamuSulaiman-Codes/blackout",
+      "url": "https://github.com/AdamuSulaiman-Codes/blackout",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-10-26T13:07:45Z",
+      "summary": "BLACKOUT — a monochrome forest shooter by achlys20. Play in browser, or download for macOS and Windows. Topics: game, godot, monochrome, shooter, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:16.067746+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webgl",
+          "play in browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, play in browser, webgl, windows",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "AGames21/gang-beasts-play",
+      "url": "https://github.com/AGames21/gang-beasts-play",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-26T18:17:56Z",
+      "summary": "Player page for the private Gang Beasts browser port (code only, no game files)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-26T18:35:13.637503+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 7,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "KLM-corporation/sbr64_pc",
       "url": "https://github.com/KLM-corporation/sbr64_pc",
@@ -658,7 +1370,203 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T22:25:17.876786+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T18:35:30.643019+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows/Linux port of Kult: The Temple of Flying Saucers (Atari ST), powered by the verified C reconstruction and an SDL3 backend. Includes Spanish/Catalan packs, savestates, fullscreen scaling, and automated releases. Game data is not included.",
+        "latest_release_url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/tag/v1.2.0",
+        "latest_release_name": "Kult PC v1.2.0",
+        "release_assets": [
+          {
+            "name": "kult-1.2.0-linux-x86_64.tar.gz",
+            "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-linux-x86_64.tar.gz",
+            "size": 1734402
+          },
+          {
+            "name": "kult-1.2.0-linux-x86_64.tar.gz.sha256",
+            "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-linux-x86_64.tar.gz.sha256",
+            "size": 102
+          },
+          {
+            "name": "kult-1.2.0-macos-universal.zip",
+            "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-macos-universal.zip",
+            "size": 3640071
+          },
+          {
+            "name": "kult-1.2.0-macos-universal.zip.sha256",
+            "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-macos-universal.zip.sha256",
+            "size": 97
+          },
+          {
+            "name": "kult-1.2.0-win64.zip",
+            "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-win64.zip",
+            "size": 1677883
+          },
+          {
+            "name": "kult-1.2.0-win64.zip.sha256",
+            "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-win64.zip.sha256",
+            "size": 92
+          },
+          {
+            "name": "kult-1.2.0-x86_64.AppImage",
+            "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-x86_64.AppImage",
+            "size": 2542072
+          },
+          {
+            "name": "kult-1.2.0-x86_64.AppImage.sha256",
+            "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-x86_64.AppImage.sha256",
+            "size": 98
+          }
+        ],
+        "releases": [
+          {
+            "name": "Kult PC v1.2.0",
+            "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/tag/v1.2.0",
+            "published_at": "2026-10-26T12:55:35Z",
+            "assets": [
+              {
+                "name": "kult-1.2.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-linux-x86_64.tar.gz",
+                "size": 1734402
+              },
+              {
+                "name": "kult-1.2.0-linux-x86_64.tar.gz.sha256",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-linux-x86_64.tar.gz.sha256",
+                "size": 102
+              },
+              {
+                "name": "kult-1.2.0-macos-universal.zip",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-macos-universal.zip",
+                "size": 3640071
+              },
+              {
+                "name": "kult-1.2.0-macos-universal.zip.sha256",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-macos-universal.zip.sha256",
+                "size": 97
+              },
+              {
+                "name": "kult-1.2.0-win64.zip",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-win64.zip",
+                "size": 1677883
+              },
+              {
+                "name": "kult-1.2.0-win64.zip.sha256",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-win64.zip.sha256",
+                "size": 92
+              },
+              {
+                "name": "kult-1.2.0-x86_64.AppImage",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-x86_64.AppImage",
+                "size": 2542072
+              },
+              {
+                "name": "kult-1.2.0-x86_64.AppImage.sha256",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-x86_64.AppImage.sha256",
+                "size": 98
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Kult PC v1.1.0",
+            "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/tag/v1.1.0",
+            "published_at": "2026-10-26T11:09:46Z",
+            "assets": [
+              {
+                "name": "kult-1.1.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.1.0/kult-1.1.0-linux-x86_64.tar.gz",
+                "size": 1733831
+              },
+              {
+                "name": "kult-1.1.0-linux-x86_64.tar.gz.sha256",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.1.0/kult-1.1.0-linux-x86_64.tar.gz.sha256",
+                "size": 102
+              },
+              {
+                "name": "kult-1.1.0-macos-universal.zip",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.1.0/kult-1.1.0-macos-universal.zip",
+                "size": 3638130
+              },
+              {
+                "name": "kult-1.1.0-macos-universal.zip.sha256",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.1.0/kult-1.1.0-macos-universal.zip.sha256",
+                "size": 97
+              },
+              {
+                "name": "kult-1.1.0-win64.zip",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.1.0/kult-1.1.0-win64.zip",
+                "size": 1627735
+              },
+              {
+                "name": "kult-1.1.0-win64.zip.sha256",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.1.0/kult-1.1.0-win64.zip.sha256",
+                "size": 92
+              },
+              {
+                "name": "kult-1.1.0-x86_64.AppImage",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.1.0/kult-1.1.0-x86_64.AppImage",
+                "size": 2542072
+              },
+              {
+                "name": "kult-1.1.0-x86_64.AppImage.sha256",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.1.0/kult-1.1.0-x86_64.AppImage.sha256",
+                "size": 98
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Kult PC v1.0.0",
+            "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/tag/v1.0.0",
+            "published_at": "2026-10-25T21:55:01Z",
+            "assets": [
+              {
+                "name": "kult-1.0.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.0.0/kult-1.0.0-linux-x86_64.tar.gz",
+                "size": 1734090
+              },
+              {
+                "name": "kult-1.0.0-linux-x86_64.tar.gz.sha256",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.0.0/kult-1.0.0-linux-x86_64.tar.gz.sha256",
+                "size": 102
+              },
+              {
+                "name": "kult-1.0.0-win64.zip",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.0.0/kult-1.0.0-win64.zip",
+                "size": 1619821
+              },
+              {
+                "name": "kult-1.0.0-win64.zip.sha256",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.0.0/kult-1.0.0-win64.zip.sha256",
+                "size": 92
+              },
+              {
+                "name": "kult-1.0.0-x86_64.AppImage",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.0.0/kult-1.0.0-x86_64.AppImage",
+                "size": 2542072
+              },
+              {
+                "name": "kult-1.0.0-x86_64.AppImage.sha256",
+                "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.0.0/kult-1.0.0-x86_64.AppImage.sha256",
+                "size": 98
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -668,13 +1576,126 @@
         "android_terms": [],
         "pc_terms": [
           "windows",
+          "win64",
           "linux"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "kult-1.2.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "kult-1.2.0-linux-x86_64.tar.gz.sha256",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-linux-x86_64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "kult-1.2.0-macos-universal.zip",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "kult-1.2.0-macos-universal.zip.sha256",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-macos-universal.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "kult-1.2.0-win64.zip",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "kult-1.2.0-win64.zip.sha256",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-win64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "kult-1.2.0-x86_64.AppImage",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "kult-1.2.0-x86_64.AppImage.sha256",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.2.0/kult-1.2.0-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "kult-1.1.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.1.0/kult-1.1.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "kult-1.1.0-linux-x86_64.tar.gz.sha256",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.1.0/kult-1.1.0-linux-x86_64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "kult-1.1.0-macos-universal.zip",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.1.0/kult-1.1.0-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "kult-1.1.0-macos-universal.zip.sha256",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.1.0/kult-1.1.0-macos-universal.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "kult-1.1.0-win64.zip",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.1.0/kult-1.1.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "kult-1.1.0-win64.zip.sha256",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.1.0/kult-1.1.0-win64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "kult-1.1.0-x86_64.AppImage",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.1.0/kult-1.1.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "kult-1.1.0-x86_64.AppImage.sha256",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.1.0/kult-1.1.0-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "kult-1.0.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.0.0/kult-1.0.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "kult-1.0.0-linux-x86_64.tar.gz.sha256",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.0.0/kult-1.0.0-linux-x86_64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "kult-1.0.0-win64.zip",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.0.0/kult-1.0.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "kult-1.0.0-win64.zip.sha256",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.0.0/kult-1.0.0-win64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "kult-1.0.0-x86_64.AppImage",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.0.0/kult-1.0.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "kult-1.0.0-x86_64.AppImage.sha256",
+          "url": "https://github.com/hunkstalker/kult-atari-st-pc-port/releases/download/v1.0.0/kult-1.0.0-x86_64.AppImage.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -692,7 +1713,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T22:25:13.875098+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T18:35:32.060505+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of 2010 FIFA World Cup South Africa (Xbox 360) through static recompilation. 60 fps, up to 4K, with a launcher. Requires your own copy of the game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -726,7 +1764,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T22:25:13.874356+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T18:35:33.346886+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android ARM64 ports of The Void and Tension (2008) through static recompilation. Requires original game files.",
+        "latest_release_url": "https://github.com/phys-winner/pc_decomp_void/releases/tag/0.1-dev",
+        "latest_release_name": "The Void 0.1-dev",
+        "release_assets": [
+          {
+            "name": "the-void-0.1-dev-b1db6a62.apk",
+            "url": "https://github.com/phys-winner/pc_decomp_void/releases/download/0.1-dev/the-void-0.1-dev-b1db6a62.apk",
+            "size": 155002006
+          }
+        ],
+        "releases": [
+          {
+            "name": "The Void 0.1-dev",
+            "url": "https://github.com/phys-winner/pc_decomp_void/releases/tag/0.1-dev",
+            "published_at": "2026-10-25T19:26:25Z",
+            "assets": [
+              {
+                "name": "the-void-0.1-dev-b1db6a62.apk",
+                "url": "https://github.com/phys-winner/pc_decomp_void/releases/download/0.1-dev/the-void-0.1-dev-b1db6a62.apk",
+                "size": 155002006
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -739,9 +1815,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "the-void-0.1-dev-b1db6a62.apk",
+          "url": "https://github.com/phys-winner/pc_decomp_void/releases/download/0.1-dev/the-void-0.1-dev-b1db6a62.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -759,7 +1842,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T22:25:13.873648+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T18:35:34.650518+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Amped 2 (Xbox, 2003) as a native Windows game: a static recompilation built from your own disc. Unofficial fan project.",
+        "latest_release_url": "https://github.com/Nico-D-eu/RE-Amped2/releases/tag/v0.2.0",
+        "latest_release_name": "RE-Amped2 0.2.0 (early access)",
+        "release_assets": [
+          {
+            "name": "RE-Amped2-Setup.exe",
+            "url": "https://github.com/Nico-D-eu/RE-Amped2/releases/download/v0.2.0/RE-Amped2-Setup.exe",
+            "size": 16023552
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/Nico-D-eu/RE-Amped2/releases/download/v0.2.0/SHA256SUMS.txt",
+            "size": 85
+          }
+        ],
+        "releases": [
+          {
+            "name": "RE-Amped2 0.2.0 (early access)",
+            "url": "https://github.com/Nico-D-eu/RE-Amped2/releases/tag/v0.2.0",
+            "published_at": "2026-10-25T20:42:52Z",
+            "assets": [
+              {
+                "name": "RE-Amped2-Setup.exe",
+                "url": "https://github.com/Nico-D-eu/RE-Amped2/releases/download/v0.2.0/RE-Amped2-Setup.exe",
+                "size": 16023552
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/Nico-D-eu/RE-Amped2/releases/download/v0.2.0/SHA256SUMS.txt",
+                "size": 85
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -772,9 +1903,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "RE-Amped2-Setup.exe",
+          "url": "https://github.com/Nico-D-eu/RE-Amped2/releases/download/v0.2.0/RE-Amped2-Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/Nico-D-eu/RE-Amped2/releases/download/v0.2.0/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -792,7 +1935,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T22:25:13.872872+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T18:35:35.993925+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Nintendo Switch (libnx) and PC host for The Binding of Isaac: Repentance+, built on the-browsing-of-isaac's static recompilation. Bring your own copy of the game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -823,7 +1983,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T22:25:13.872164+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T18:35:37.256448+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Drakengard (PAL, SLES-52322) static recompilation with PS2Recomp: configs, scripts, notes (no game data)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -850,7 +2027,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T22:25:09.477567+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T18:35:38.582673+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Minecraft-like voxel game in Rust + WebAssembly, running in the browser",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -885,7 +2079,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-25T22:25:09.451360+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-26T18:35:39.889058+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "🏁 PolyTrack TAS leaderboard: tool-assisted speedrun world records for all 17 official PolyTrack tracks, replayed frame-exact in the real game engine by CI. Beat a time? Open a PR.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
