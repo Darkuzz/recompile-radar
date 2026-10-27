@@ -1,7 +1,378 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-26T23:42:16.069012+00:00",
+  "last_updated": "2026-10-27T10:19:46.992546+00:00",
   "candidates": [
+    {
+      "title": "rugalo798/pou-linux-port",
+      "url": "https://github.com/rugalo798/pou-linux-port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-27T04:11:00Z",
+      "summary": "Linux desktop port of Pou 1.4.139 via a Java2D Android shim (code only; game data not included)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T10:19:33.100311+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux",
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux, android"
+      ]
+    },
+    {
+      "title": "marinohardin/EliteForce-MacOS-Marino",
+      "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-27T04:22:12Z",
+      "summary": "Marino’s native macOS (Apple Silicon) port of Star Trek: Voyager - Elite Force: single player and Holomatch multiplayer in one app with native feel and modern networking. Unofficial; fork of VoyagerSP-Android. Requires the retail game data. Topics: game, gamedev, games, gaming, scifi, startrek, startrek-tng, voyager",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T10:19:33.099158+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "rubiidev18alt/ctrdx",
+      "url": "https://github.com/rubiidev18alt/ctrdx",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-27T06:03:59Z",
+      "summary": "An Android port of this game because there isn’t one. (Ai)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T10:19:33.097442+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "rafli6373/Black-Android",
+      "url": "https://github.com/rafli6373/Black-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-27T09:27:46Z",
+      "summary": "Unofficial Android port and fan-made remake project of the classic FPS game BLACK",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T10:19:33.095817+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "camybiohazard/Project-VeronicaX",
+      "url": "https://github.com/camybiohazard/Project-VeronicaX",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-27T06:54:36Z",
+      "summary": "Static recompilation of Resident Evil Code: Veronica X (Xbox 360) with ReXGlue. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T10:19:27.677988+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "boubou666/JC2_Recomp",
+      "url": "https://github.com/boubou666/JC2_Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-27T06:59:05Z",
+      "summary": "Jade Cocoon 2 (NTSC-U, SLUS-20309) static recompilation with PS2Recomp: configs, scripts, notes (no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T10:19:27.676701+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Jxceyy/nsmbud-recomp",
+      "url": "https://github.com/Jxceyy/nsmbud-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-27T08:21:12Z",
+      "summary": "Static recompilation of New Super Mario Bros. U Deluxe (Switch) to macOS. Bring your own dump; no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T10:19:27.675456+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Yogiexc/Raw-Danger",
+      "url": "https://github.com/Yogiexc/Raw-Danger",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-27T08:41:52Z",
+      "summary": "Personal PS2 static recompilation experiment for Raw Danger!. No game data included. Not affiliated with Irem.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T10:19:27.674500+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "tryjumping1993/ultratears",
+      "url": "https://github.com/tryjumping1993/ultratears",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-27T08:51:05Z",
+      "summary": "Unofficial native Windows port of Tears of the Kingdom 1.4.3 using static recompilation. Builds locally from the player's own extracted game dump; no game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T10:19:27.672874+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "Arzaroth/SmashCourtTennisProTournament2_Recomp",
+      "url": "https://github.com/Arzaroth/SmashCourtTennisProTournament2_Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-27T09:35:15Z",
+      "summary": "Smash Court Tennis Pro Tournament 2 (USA) static recompilation with PS2Recomp - configs, overrides, notes (no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T10:19:27.671351+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Arzaroth/FightingForOnePiece_Recomp",
+      "url": "https://github.com/Arzaroth/FightingForOnePiece_Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-27T09:52:05Z",
+      "summary": "Fighting for One Piece (Japan) static recompilation with PS2Recomp - configs, overrides, notes (no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T10:19:27.670510+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "leodyversemilla07/invaders",
+      "url": "https://github.com/leodyversemilla07/invaders",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-27T07:47:02Z",
+      "summary": "Retro 2D arcade shooter written in Rust with Macroquad — playable in the browser Topics: arcade, game, gamedev, html5-game, macroquad, rust, rust-lang, space-invaders, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T10:19:23.882535+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "html5",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, playable, webassembly, wasm, html5",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "VitorCdSouza/oni-mobile",
       "url": "https://github.com/VitorCdSouza/oni-mobile",
@@ -11,7 +382,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-26T23:42:00.483523+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-27T10:19:36.296425+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Native Android (IL2CPP arm64) port of Oxygen Not Included for personal use. Code only: no game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -44,7 +432,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-26T23:42:00.482817+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-27T10:19:37.612576+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Geometry Wars 3: Dimensions Evolved on the R36S and other RK3326 Linux handhelds, through PortMaster. A native port of the Android version: the game's original ARM engine runs directly on the handheld, with no emulation and no Box86.",
+        "latest_release_url": "https://github.com/Theonesabove/gw3-r36s/releases/tag/1.0",
+        "latest_release_name": "1.0",
+        "release_assets": [
+          {
+            "name": "gw3.zip",
+            "url": "https://github.com/Theonesabove/gw3-r36s/releases/download/1.0/gw3.zip",
+            "size": 882412
+          }
+        ],
+        "releases": [
+          {
+            "name": "1.0",
+            "url": "https://github.com/Theonesabove/gw3-r36s/releases/tag/1.0",
+            "published_at": "2026-10-26T20:47:29Z",
+            "assets": [
+              {
+                "name": "gw3.zip",
+                "url": "https://github.com/Theonesabove/gw3-r36s/releases/download/1.0/gw3.zip",
+                "size": 882412
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -60,10 +486,17 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "gw3.zip",
+          "url": "https://github.com/Theonesabove/gw3-r36s/releases/download/1.0/gw3.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -81,7 +514,65 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-26T23:41:56.609996+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-27T10:19:38.923160+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Experimental DOAX3 Fortune CUSA04555 1.19 Windows/Vulkan source port. Bring your own game data; optional NR, no frame generation.",
+        "latest_release_url": "https://github.com/negroISO/doax3-fortune-pc/releases/tag/steamdeck-native-2026.10.26",
+        "latest_release_name": "Native Steam Deck candidate — 2026-10-26",
+        "release_assets": [
+          {
+            "name": "DOAX3-Fortune-SHA256SUMS.txt",
+            "url": "https://github.com/negroISO/doax3-fortune-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Fortune-SHA256SUMS.txt",
+            "size": 251
+          },
+          {
+            "name": "DOAX3-Fortune-SteamDeck-native-linux-x86_64-candidate.tar.gz",
+            "url": "https://github.com/negroISO/doax3-fortune-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Fortune-SteamDeck-native-linux-x86_64-candidate.tar.gz",
+            "size": 116530504
+          },
+          {
+            "name": "DOAX3-Fortune-SteamDeck-native-linux-x86_64-candidate.zip",
+            "url": "https://github.com/negroISO/doax3-fortune-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Fortune-SteamDeck-native-linux-x86_64-candidate.zip",
+            "size": 117622521
+          }
+        ],
+        "releases": [
+          {
+            "name": "Native Steam Deck candidate — 2026-10-26",
+            "url": "https://github.com/negroISO/doax3-fortune-pc/releases/tag/steamdeck-native-2026.10.26",
+            "published_at": "2026-10-26T20:59:48Z",
+            "assets": [
+              {
+                "name": "DOAX3-Fortune-SHA256SUMS.txt",
+                "url": "https://github.com/negroISO/doax3-fortune-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Fortune-SHA256SUMS.txt",
+                "size": 251
+              },
+              {
+                "name": "DOAX3-Fortune-SteamDeck-native-linux-x86_64-candidate.tar.gz",
+                "url": "https://github.com/negroISO/doax3-fortune-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Fortune-SteamDeck-native-linux-x86_64-candidate.tar.gz",
+                "size": 116530504
+              },
+              {
+                "name": "DOAX3-Fortune-SteamDeck-native-linux-x86_64-candidate.zip",
+                "url": "https://github.com/negroISO/doax3-fortune-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Fortune-SteamDeck-native-linux-x86_64-candidate.zip",
+                "size": 117622521
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -90,13 +581,31 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
-          "windows"
+          "windows",
+          "linux"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "DOAX3-Fortune-SHA256SUMS.txt",
+          "url": "https://github.com/negroISO/doax3-fortune-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Fortune-SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "DOAX3-Fortune-SteamDeck-native-linux-x86_64-candidate.tar.gz",
+          "url": "https://github.com/negroISO/doax3-fortune-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Fortune-SteamDeck-native-linux-x86_64-candidate.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "DOAX3-Fortune-SteamDeck-native-linux-x86_64-candidate.zip",
+          "url": "https://github.com/negroISO/doax3-fortune-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Fortune-SteamDeck-native-linux-x86_64-candidate.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
@@ -114,7 +623,65 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-26T23:41:56.609340+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-27T10:19:40.273264+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Experimental DOAX3 Scarlet CUSA14173 1.08 Windows/Vulkan source port. Bring your own game data; optional NR, no frame generation.",
+        "latest_release_url": "https://github.com/negroISO/doax3-scarlet-pc/releases/tag/steamdeck-native-2026.10.26",
+        "latest_release_name": "Native Steam Deck candidate — 2026-10-26",
+        "release_assets": [
+          {
+            "name": "DOAX3-Scarlet-SHA256SUMS.txt",
+            "url": "https://github.com/negroISO/doax3-scarlet-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Scarlet-SHA256SUMS.txt",
+            "size": 251
+          },
+          {
+            "name": "DOAX3-Scarlet-SteamDeck-native-linux-x86_64-candidate.tar.gz",
+            "url": "https://github.com/negroISO/doax3-scarlet-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Scarlet-SteamDeck-native-linux-x86_64-candidate.tar.gz",
+            "size": 116590699
+          },
+          {
+            "name": "DOAX3-Scarlet-SteamDeck-native-linux-x86_64-candidate.zip",
+            "url": "https://github.com/negroISO/doax3-scarlet-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Scarlet-SteamDeck-native-linux-x86_64-candidate.zip",
+            "size": 117679043
+          }
+        ],
+        "releases": [
+          {
+            "name": "Native Steam Deck candidate — 2026-10-26",
+            "url": "https://github.com/negroISO/doax3-scarlet-pc/releases/tag/steamdeck-native-2026.10.26",
+            "published_at": "2026-10-26T20:59:50Z",
+            "assets": [
+              {
+                "name": "DOAX3-Scarlet-SHA256SUMS.txt",
+                "url": "https://github.com/negroISO/doax3-scarlet-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Scarlet-SHA256SUMS.txt",
+                "size": 251
+              },
+              {
+                "name": "DOAX3-Scarlet-SteamDeck-native-linux-x86_64-candidate.tar.gz",
+                "url": "https://github.com/negroISO/doax3-scarlet-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Scarlet-SteamDeck-native-linux-x86_64-candidate.tar.gz",
+                "size": 116590699
+              },
+              {
+                "name": "DOAX3-Scarlet-SteamDeck-native-linux-x86_64-candidate.zip",
+                "url": "https://github.com/negroISO/doax3-scarlet-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Scarlet-SteamDeck-native-linux-x86_64-candidate.zip",
+                "size": 117679043
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -123,13 +690,31 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
-          "windows"
+          "windows",
+          "linux"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "DOAX3-Scarlet-SHA256SUMS.txt",
+          "url": "https://github.com/negroISO/doax3-scarlet-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Scarlet-SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "DOAX3-Scarlet-SteamDeck-native-linux-x86_64-candidate.tar.gz",
+          "url": "https://github.com/negroISO/doax3-scarlet-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Scarlet-SteamDeck-native-linux-x86_64-candidate.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "DOAX3-Scarlet-SteamDeck-native-linux-x86_64-candidate.zip",
+          "url": "https://github.com/negroISO/doax3-scarlet-pc/releases/download/steamdeck-native-2026.10.26/DOAX3-Scarlet-SteamDeck-native-linux-x86_64-candidate.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
@@ -147,7 +732,87 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-26T23:41:54.681144+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-27T10:19:41.658439+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Grandia III (PS2) as a native PC game via static recompilation - bring your own ISO",
+        "latest_release_url": "https://github.com/GranasSabre/Grandia3-PC/releases/tag/v1.0.3",
+        "latest_release_name": "Grandia III for PC v1.0.3",
+        "release_assets": [
+          {
+            "name": "Grandia3-PC-v1.0.3.zip",
+            "url": "https://github.com/GranasSabre/Grandia3-PC/releases/download/v1.0.3/Grandia3-PC-v1.0.3.zip",
+            "size": 14915663
+          }
+        ],
+        "releases": [
+          {
+            "name": "Grandia III for PC v1.0.3",
+            "url": "https://github.com/GranasSabre/Grandia3-PC/releases/tag/v1.0.3",
+            "published_at": "2026-10-27T01:48:44Z",
+            "assets": [
+              {
+                "name": "Grandia3-PC-v1.0.3.zip",
+                "url": "https://github.com/GranasSabre/Grandia3-PC/releases/download/v1.0.3/Grandia3-PC-v1.0.3.zip",
+                "size": 14915663
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Grandia III for PC v1.0.2",
+            "url": "https://github.com/GranasSabre/Grandia3-PC/releases/tag/v1.0.2",
+            "published_at": "2026-10-26T20:37:17Z",
+            "assets": [
+              {
+                "name": "Grandia3-PC-v1.0.2.zip",
+                "url": "https://github.com/GranasSabre/Grandia3-PC/releases/download/v1.0.2/Grandia3-PC-v1.0.2.zip",
+                "size": 14914751
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Grandia III for PC v1.0.1",
+            "url": "https://github.com/GranasSabre/Grandia3-PC/releases/tag/v1.0.1",
+            "published_at": "2026-10-26T19:23:49Z",
+            "assets": [
+              {
+                "name": "Grandia3-PC-v1.0.1.zip",
+                "url": "https://github.com/GranasSabre/Grandia3-PC/releases/download/v1.0.1/Grandia3-PC-v1.0.1.zip",
+                "size": 14913240
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Grandia III for PC v1.0.0",
+            "url": "https://github.com/GranasSabre/Grandia3-PC/releases/tag/v1.0.0",
+            "published_at": "2026-10-21T17:33:50Z",
+            "assets": [
+              {
+                "name": "Grandia3-PC-v1.0.0.zip",
+                "url": "https://github.com/GranasSabre/Grandia3-PC/releases/download/v1.0.0/Grandia3-PC-v1.0.0.zip",
+                "size": 14863184
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -160,9 +825,31 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Grandia3-PC-v1.0.3.zip",
+          "url": "https://github.com/GranasSabre/Grandia3-PC/releases/download/v1.0.3/Grandia3-PC-v1.0.3.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Grandia3-PC-v1.0.2.zip",
+          "url": "https://github.com/GranasSabre/Grandia3-PC/releases/download/v1.0.2/Grandia3-PC-v1.0.2.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Grandia3-PC-v1.0.1.zip",
+          "url": "https://github.com/GranasSabre/Grandia3-PC/releases/download/v1.0.1/Grandia3-PC-v1.0.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Grandia3-PC-v1.0.0.zip",
+          "url": "https://github.com/GranasSabre/Grandia3-PC/releases/download/v1.0.0/Grandia3-PC-v1.0.0.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 10,
       "relevance_status": "promising",
@@ -180,7 +867,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-26T23:41:54.680463+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-27T10:19:43.033112+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows/Linux port of Yu-Gi-Oh! Forbidden Memories (PS1) by static recompilation - bring your own copy, no game files included",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -214,7 +918,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-26T23:41:54.679695+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-27T10:19:44.321473+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Experimental Boku no Natsuyasumi 2 (PS2) native PC port work via static recompilation. Bring your own disc; no game content distributed.",
+        "latest_release_url": "https://github.com/batatinhafcbatatinha-pixel/boku-no-natsuyasumi-2-pc/releases/tag/v0.1.0",
+        "latest_release_name": "Boku no Natsuyasumi 2 PC — v0.1.0 source snapshot",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "Boku no Natsuyasumi 2 PC — v0.1.0 source snapshot",
+            "url": "https://github.com/batatinhafcbatatinha-pixel/boku-no-natsuyasumi-2-pc/releases/tag/v0.1.0",
+            "published_at": "2026-10-26T21:19:42Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -248,7 +978,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-26T23:41:54.678961+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-27T10:19:45.666683+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Experimental Call of Duty: World at War - Final Fronts (PS2) native PC port work via static recompilation. Bring your own disc; no game content distributed.",
+        "latest_release_url": "https://github.com/batatinhafcbatatinha-pixel/cod-world-at-war-final-fronts-pc/releases/tag/v0.1.0",
+        "latest_release_name": "Call of Duty: World at War - Final Fronts PC — v0.1.0 source snapshot",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "Call of Duty: World at War - Final Fronts PC — v0.1.0 source snapshot",
+            "url": "https://github.com/batatinhafcbatatinha-pixel/cod-world-at-war-final-fronts-pc/releases/tag/v0.1.0",
+            "published_at": "2026-10-26T21:19:43Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
