@@ -1,7 +1,285 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-27T10:19:46.992546+00:00",
+  "last_updated": "2026-10-27T17:51:41.249514+00:00",
   "candidates": [
+    {
+      "title": "albhadlyy670-art/Mercenaries-Android",
+      "url": "https://github.com/albhadlyy670-art/Mercenaries-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-27T17:40:08Z",
+      "summary": "Port for Android just download Xbox game files (xbe(",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T17:51:26.962986+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "yxbbfnkqnuvo/chocolate-doom",
+      "url": "https://github.com/yxbbfnkqnuvo/chocolate-doom",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-27T16:10:40Z",
+      "summary": "Vanilla-accurate Doom source port preserving original game behaviour",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T17:51:22.854632+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port",
+        "Есть игровые/платформенные признаки: game, original game"
+      ]
+    },
+    {
+      "title": "Howflet/SharkTale-MacOS-Recomp",
+      "url": "https://github.com/Howflet/SharkTale-MacOS-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-27T14:13:31Z",
+      "summary": "Native Apple Silicon port of Shark Tale (PC, 2004) by static recompilation: x86 game code translated to C, with Direct3D 8 on Metal, OpenAL audio and Bink. Game files not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T17:51:20.785203+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "MateoEscobar/TW-Recomp",
+      "url": "https://github.com/MateoEscobar/TW-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-27T15:25:52Z",
+      "summary": "Native PC port of The Warriors (PS2, SLUS-21472) via static recompilation — built on PS2Recomp. BYOD: no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T17:51:20.784709+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Zexyen/Witch-Time",
+      "url": "https://github.com/Zexyen/Witch-Time",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-27T16:56:05Z",
+      "summary": "Unofficial static recompilation of Bayonetta 3. Builds the game on your PC from your own legally dumped copy. No game files, keys or SDK code included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T17:51:20.784244+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "GABRIELNNK/Bigodao",
+      "url": "https://github.com/GABRIELNNK/Bigodao",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-27T16:37:35Z",
+      "summary": "A static recompilation study and native port of Wario Land: Super Mario Land 3 with native widescreen support, 3D gameplay (experimental), mods support for HD tile and remastered music. Topics: game, game-boy, games, recompilation, wario, warioland",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T17:51:20.783726+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, gameplay"
+      ]
+    },
+    {
+      "title": "MatRanc/mlb16-recomp",
+      "url": "https://github.com/MatRanc/mlb16-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-27T17:31:53Z",
+      "summary": "Work in progress: MLB The Show 16 (PS3) as a native PC port via ps3recomp static recompilation. Bring your own game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T17:51:20.783197+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "arlenh7butbetter/unturned-web-port",
+      "url": "https://github.com/arlenh7butbetter/unturned-web-port",
+      "source_name": "GitHub: WebGL ports",
+      "published": "2026-10-27T14:53:17Z",
+      "summary": "A Web Port of the game Unturned using WebGL and WebRTC for Multiplayer",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T17:51:18.871342+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webgl",
+          "web port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: web port of, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webgl"
+      ]
+    },
+    {
+      "title": "coyl/x-mess",
+      "url": "https://github.com/coyl/x-mess",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-27T16:14:00Z",
+      "summary": "Browser port of X-Mess, a 1998 Christmas puzzle game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-27T17:51:11.984248+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "rugalo798/pou-linux-port",
       "url": "https://github.com/rugalo798/pou-linux-port",
@@ -11,7 +289,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-27T10:19:33.100311+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-27T17:51:30.236210+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Linux desktop port of Pou 1.4.139 via a Java2D Android shim (code only; game data not included)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -49,7 +344,112 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-27T10:19:33.099158+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-27T17:51:31.690835+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Marino’s native macOS (Apple Silicon) port of Star Trek: Voyager - Elite Force: single player and Holomatch multiplayer in one app with native feel and modern networking. Unofficial; fork of VoyagerSP-Android. Requires the retail game data.",
+        "latest_release_url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/tag/macos-v1.2.2",
+        "latest_release_name": "Elite Force for Mac 1.2.2",
+        "release_assets": [
+          {
+            "name": "EliteForce-MacOS-Marino-1.2.2-arm64.dmg",
+            "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.2.2/EliteForce-MacOS-Marino-1.2.2-arm64.dmg",
+            "size": 7474219
+          },
+          {
+            "name": "EliteForce-MacOS-Marino-1.2.2-arm64.zip",
+            "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.2.2/EliteForce-MacOS-Marino-1.2.2-arm64.zip",
+            "size": 7406287
+          }
+        ],
+        "releases": [
+          {
+            "name": "Elite Force for Mac 1.2.2",
+            "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/tag/macos-v1.2.2",
+            "published_at": "2026-10-27T04:22:12Z",
+            "assets": [
+              {
+                "name": "EliteForce-MacOS-Marino-1.2.2-arm64.dmg",
+                "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.2.2/EliteForce-MacOS-Marino-1.2.2-arm64.dmg",
+                "size": 7474219
+              },
+              {
+                "name": "EliteForce-MacOS-Marino-1.2.2-arm64.zip",
+                "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.2.2/EliteForce-MacOS-Marino-1.2.2-arm64.zip",
+                "size": 7406287
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Elite Force for Mac 1.2.1",
+            "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/tag/macos-v1.2.1",
+            "published_at": "2026-10-27T02:46:44Z",
+            "assets": [
+              {
+                "name": "EliteForce-MacOS-Marino-1.2.1-arm64.dmg",
+                "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.2.1/EliteForce-MacOS-Marino-1.2.1-arm64.dmg",
+                "size": 7468214
+              },
+              {
+                "name": "EliteForce-MacOS-Marino-1.2.1-arm64.zip",
+                "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.2.1/EliteForce-MacOS-Marino-1.2.1-arm64.zip",
+                "size": 7396787
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Elite Force for Mac 1.2.0",
+            "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/tag/macos-v1.2.0",
+            "published_at": "2026-10-27T01:37:16Z",
+            "assets": [
+              {
+                "name": "EliteForce-MacOS-Marino-1.2.0-arm64.dmg",
+                "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.2.0/EliteForce-MacOS-Marino-1.2.0-arm64.dmg",
+                "size": 7456905
+              },
+              {
+                "name": "EliteForce-MacOS-Marino-1.2.0-arm64.zip",
+                "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.2.0/EliteForce-MacOS-Marino-1.2.0-arm64.zip",
+                "size": 7389547
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Elite Force for Mac 1.1.0",
+            "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/tag/macos-v1.1.0",
+            "published_at": "2026-10-27T00:13:37Z",
+            "assets": [
+              {
+                "name": "EliteForce-MacOS-Marino-1.1.0-arm64.dmg",
+                "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.1.0/EliteForce-MacOS-Marino-1.1.0-arm64.dmg",
+                "size": 7439693
+              },
+              {
+                "name": "EliteForce-MacOS-Marino-1.1.0-arm64.zip",
+                "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.1.0/EliteForce-MacOS-Marino-1.1.0-arm64.zip",
+                "size": 7367130
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -62,9 +462,51 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "EliteForce-MacOS-Marino-1.2.2-arm64.dmg",
+          "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.2.2/EliteForce-MacOS-Marino-1.2.2-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "EliteForce-MacOS-Marino-1.2.2-arm64.zip",
+          "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.2.2/EliteForce-MacOS-Marino-1.2.2-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "EliteForce-MacOS-Marino-1.2.1-arm64.dmg",
+          "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.2.1/EliteForce-MacOS-Marino-1.2.1-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "EliteForce-MacOS-Marino-1.2.1-arm64.zip",
+          "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.2.1/EliteForce-MacOS-Marino-1.2.1-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "EliteForce-MacOS-Marino-1.2.0-arm64.dmg",
+          "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.2.0/EliteForce-MacOS-Marino-1.2.0-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "EliteForce-MacOS-Marino-1.2.0-arm64.zip",
+          "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.2.0/EliteForce-MacOS-Marino-1.2.0-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "EliteForce-MacOS-Marino-1.1.0-arm64.dmg",
+          "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.1.0/EliteForce-MacOS-Marino-1.1.0-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "EliteForce-MacOS-Marino-1.1.0-arm64.zip",
+          "url": "https://github.com/marinohardin/EliteForce-MacOS-Marino/releases/download/macos-v1.1.0/EliteForce-MacOS-Marino-1.1.0-arm64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
@@ -82,7 +524,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-27T10:19:33.097442+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-27T17:51:33.182027+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "An Android port of this game because there isn’t one. (Ai)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -116,7 +575,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-27T10:19:33.095817+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-27T17:51:34.654386+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial Android port and fan-made remake project of the classic FPS game BLACK",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -150,17 +626,84 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-27T10:19:27.677988+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-10-27T17:51:36.140430+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Static recompilation of Resident Evil Code: Veronica X (Xbox 360) with ReXGlue. No game files included.",
+        "latest_release_url": "https://github.com/camybiohazard/Project-VeronicaX/releases/tag/v0.1.0",
+        "latest_release_name": "Initial Release",
+        "release_assets": [
+          {
+            "name": "VeronicaX-0.1.0-linux-x86_64.tar.gz",
+            "url": "https://github.com/camybiohazard/Project-VeronicaX/releases/download/v0.1.0/VeronicaX-0.1.0-linux-x86_64.tar.gz",
+            "size": 26515088
+          },
+          {
+            "name": "VeronicaX-0.1.0-windows-x86_64.zip",
+            "url": "https://github.com/camybiohazard/Project-VeronicaX/releases/download/v0.1.0/VeronicaX-0.1.0-windows-x86_64.zip",
+            "size": 23551084
+          }
+        ],
+        "releases": [
+          {
+            "name": "Initial Release",
+            "url": "https://github.com/camybiohazard/Project-VeronicaX/releases/tag/v0.1.0",
+            "published_at": "2026-10-27T06:45:26Z",
+            "assets": [
+              {
+                "name": "VeronicaX-0.1.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/camybiohazard/Project-VeronicaX/releases/download/v0.1.0/VeronicaX-0.1.0-linux-x86_64.tar.gz",
+                "size": 26515088
+              },
+              {
+                "name": "VeronicaX-0.1.0-windows-x86_64.zip",
+                "url": "https://github.com/camybiohazard/Project-VeronicaX/releases/download/v0.1.0/VeronicaX-0.1.0-windows-x86_64.zip",
+                "size": 23551084
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "VeronicaX-0.1.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/camybiohazard/Project-VeronicaX/releases/download/v0.1.0/VeronicaX-0.1.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "VeronicaX-0.1.0-windows-x86_64.zip",
+          "url": "https://github.com/camybiohazard/Project-VeronicaX/releases/download/v0.1.0/VeronicaX-0.1.0-windows-x86_64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -177,7 +720,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-27T10:19:27.676701+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-27T17:51:37.711471+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Jade Cocoon 2 (NTSC-U, SLUS-20309) static recompilation with PS2Recomp: configs, scripts, notes (no game data)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -204,7 +764,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-27T10:19:27.675456+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-27T17:51:39.132785+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": false,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub вернул 404. Проект не удаляем; проверку нужно повторить."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -231,7 +807,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-27T10:19:27.674500+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-27T17:51:39.821891+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Personal PS2 static recompilation experiment for Raw Danger!. No game data included. Not affiliated with Irem.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
