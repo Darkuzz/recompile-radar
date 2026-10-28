@@ -1,7 +1,345 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-27T23:40:03.480663+00:00",
+  "last_updated": "2026-10-28T11:11:47.234428+00:00",
   "candidates": [
+    {
+      "title": "MetalSyntax/The-Impossible-Game-vita",
+      "url": "https://github.com/MetalSyntax/The-Impossible-Game-vita",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-27T23:19:15Z",
+      "summary": "Android to PS Vita port of The Impossible Game originally published by Fluke Games (FlukeDude)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T11:11:29.753562+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "ps vita"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "WinterFarmer/bounce-android",
+      "url": "https://github.com/WinterFarmer/bounce-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-28T11:10:46Z",
+      "summary": "Native Android port of the classic Nokia J2ME game Bounce. Pure Java & Android Canvas, zero external dependencies, pixel-perfect scaling, original level binary parser, and ultra-lightweight (~96 KB APK).",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T11:11:29.751190+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "omegakatana92/Real-Bout-Fatal-Fury-Recomp",
+      "url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-28T05:00:40Z",
+      "summary": "Native Windows x64 and Steam Deck AppImage static recompilation of Real Bout Fatal Fury (Neo Geo MVS/AES). The game's 68000 code is recompiled to C and runs on a neogeorecomp MVS board model with the real BIOS, not an emulator frontend. No ROMs or BIOS included. 100% native on tested sessions; YM2610 audio matched against MAME 0.242. Topics: linux, m68k, neogeo, snk, static-recompilation, steam-deck, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T11:11:23.307296+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Vinistarting/bomberman-ultra-pc",
+      "url": "https://github.com/Vinistarting/bomberman-ultra-pc",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-28T05:39:51Z",
+      "summary": "Unofficial PC port of Bomberman ULTRA (PS3) via static recompilation. Requires the European release's RAP license (NPEB00076); no game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T11:11:23.306215+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "undecuple/project-helghast",
+      "url": "https://github.com/undecuple/project-helghast",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-28T06:34:10Z",
+      "summary": "Killzone 3 // Unofficial PC Port (static recompilation). Work in progress, partly playable. Builds on your PC from your own game. Topics: ai-assisted, direct3d12, game-port, killzone, killzone3, ps3, ps3recomp, recompilation, static-recompilation, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T11:11:23.305294+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable, windows"
+      ]
+    },
+    {
+      "title": "rac08241988/SuperRyuWorld1-Recomp",
+      "url": "https://github.com/rac08241988/SuperRyuWorld1-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-28T07:40:51Z",
+      "summary": "Tools-only native PC port (static recompilation) of the Super Ryu World 1 SMW ROM hack. No ROM or game data included - bring your own.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T11:11:23.304203+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom"
+      ]
+    },
+    {
+      "title": "ChristopherVR/Drakan2PC",
+      "url": "https://github.com/ChristopherVR/Drakan2PC",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-28T09:38:49Z",
+      "summary": "Drakan: The Ancients' Gates (PS2) static recompilation to native Windows and the browser. Bring your own disc; no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T11:11:23.303251+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "sunkpoet-lang/neogeo-recomp",
+      "url": "https://github.com/sunkpoet-lang/neogeo-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-28T10:34:31Z",
+      "summary": "Native Neo Geo MVS ports by static recompilation, built on CPS-2 Recomp's toolkit. Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T11:11:23.302309+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "sarvesh-raam/flappymind",
+      "url": "https://github.com/sarvesh-raam/flappymind",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-28T10:33:02Z",
+      "summary": "A Flappy Bird arcade game where you compete head-to-head against a PPO reinforcement learning agent, playable natively or in the browser via WebAssembly. Topics: arcade-game, human-vs-ai, itch-io, pygame, pygbag, python, reinforcement-learning, stable-baselines3, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T11:11:18.655144+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, playable, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "hr567/VirtualLife",
+      "url": "https://github.com/hr567/VirtualLife",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-28T10:42:28Z",
+      "summary": "1999 Virtual Life browser reimplementation with Rust/WebAssembly, WebGPU and original game resources tracked in Git LFS",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T11:11:18.653890+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: reimplementation",
+        "Есть игровые/платформенные признаки: game, original game, webassembly"
+      ]
+    },
     {
       "title": "Odrannnn/MetroidPrime2Port",
       "url": "https://github.com/Odrannnn/MetroidPrime2Port",
@@ -11,7 +349,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-27T23:39:54.778159+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T11:11:33.265031+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "port",
+        "description": "Native port of Metroid Prime 2: Echoes (GameCube) for Linux and Android, built from the PrimeDecomp decompilation. No emulator, no game assets included: bring your own disc image.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -48,7 +403,241 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-27T23:39:48.794458+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T11:11:35.225818+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "code-veronica",
+        "description": "Resident Evil Code: Veronica X HD - PS3 static recompilation port (hobby, no game data)",
+        "latest_release_url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/tag/v1.1.9",
+        "latest_release_name": "RE Code Veronica Recomp Release v1.1.9",
+        "release_assets": [
+          {
+            "name": "CodeVeronica-PC-v1.1.9.zip",
+            "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.9/CodeVeronica-PC-v1.1.9.zip",
+            "size": 305736862
+          },
+          {
+            "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+            "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.9/Veronica-PKG-Extractor-v1.0.1.zip",
+            "size": 707290
+          }
+        ],
+        "releases": [
+          {
+            "name": "RE Code Veronica Recomp Release v1.1.9",
+            "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/tag/v1.1.9",
+            "published_at": "2026-10-28T01:54:00Z",
+            "assets": [
+              {
+                "name": "CodeVeronica-PC-v1.1.9.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.9/CodeVeronica-PC-v1.1.9.zip",
+                "size": 305736862
+              },
+              {
+                "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.9/Veronica-PKG-Extractor-v1.0.1.zip",
+                "size": 707290
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "RE Code Veronica Recomp Release v1.1.8",
+            "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/tag/v1.1.8",
+            "published_at": "2026-10-27T20:27:28Z",
+            "assets": [
+              {
+                "name": "CodeVeronica-PC-v1.1.8.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.8/CodeVeronica-PC-v1.1.8.zip",
+                "size": 284318913
+              },
+              {
+                "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.8/Veronica-PKG-Extractor-v1.0.1.zip",
+                "size": 707290
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "RE Code Veronica Recomp Release v1.1.7",
+            "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/tag/v1.1.7",
+            "published_at": "2026-10-27T18:59:13Z",
+            "assets": [
+              {
+                "name": "CodeVeronica-PC-v1.1.7.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.7/CodeVeronica-PC-v1.1.7.zip",
+                "size": 284322041
+              },
+              {
+                "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.7/Veronica-PKG-Extractor-v1.0.1.zip",
+                "size": 707290
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "FXC compatibility test — missing textures (issue 18)",
+            "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/tag/v1.1.7-fxc-test.1",
+            "published_at": "2026-10-27T19:37:16Z",
+            "assets": [
+              {
+                "name": "CodeVeronica-PC-v1.1.7-fxc-test.1.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.7-fxc-test.1/CodeVeronica-PC-v1.1.7-fxc-test.1.zip",
+                "size": 284359587
+              },
+              {
+                "name": "issue18-fxc-test.patch",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.7-fxc-test.1/issue18-fxc-test.patch",
+                "size": 6938
+              },
+              {
+                "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.7-fxc-test.1/Veronica-PKG-Extractor-v1.0.1.zip",
+                "size": 707290
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "RE Code Veronica Recomp Release v1.1.6",
+            "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/tag/v1.1.6",
+            "published_at": "2026-10-26T20:18:33Z",
+            "assets": [
+              {
+                "name": "CodeVeronica-PC-v1.1.6.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.6/CodeVeronica-PC-v1.1.6.zip",
+                "size": 275695791
+              },
+              {
+                "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.6/Veronica-PKG-Extractor-v1.0.1.zip",
+                "size": 707290
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "RE Code Veronica Recomp Release v1.1.5",
+            "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/tag/v1.1.5",
+            "published_at": "2026-10-26T17:57:01Z",
+            "assets": [
+              {
+                "name": "CodeVeronica-PC-v1.1.5.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.5/CodeVeronica-PC-v1.1.5.zip",
+                "size": 275135206
+              },
+              {
+                "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.5/Veronica-PKG-Extractor-v1.0.1.zip",
+                "size": 707290
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "RE Code Veronica Recomp Release v1.1.4",
+            "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/tag/v1.1.4",
+            "published_at": "2026-10-26T15:12:48Z",
+            "assets": [
+              {
+                "name": "CodeVeronica-PC-v1.1.4.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.4/CodeVeronica-PC-v1.1.4.zip",
+                "size": 275122165
+              },
+              {
+                "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.4/Veronica-PKG-Extractor-v1.0.1.zip",
+                "size": 707290
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "FSR Edge Compatibility Test 2",
+            "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/tag/v1.1.4-fsr-edge-test.2",
+            "published_at": "2026-10-26T17:19:48Z",
+            "assets": [
+              {
+                "name": "CodeVeronica-PC-v1.1.4-fsr-edge-test.2.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.4-fsr-edge-test.2/CodeVeronica-PC-v1.1.4-fsr-edge-test.2.zip",
+                "size": 275168233
+              },
+              {
+                "name": "CodeVeronica-PC-v1.1.4-fsr-edge-test.2.zip.sha256",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.4-fsr-edge-test.2/CodeVeronica-PC-v1.1.4-fsr-edge-test.2.zip.sha256",
+                "size": 110
+              },
+              {
+                "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.4-fsr-edge-test.2/Veronica-PKG-Extractor-v1.0.1.zip",
+                "size": 707290
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "FSR Edge Compatibility Test 1",
+            "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/tag/v1.1.4-fsr-edge-test.1",
+            "published_at": "2026-10-26T17:06:48Z",
+            "assets": [
+              {
+                "name": "CodeVeronica-PC-v1.1.4-fsr-edge-test.1.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.4-fsr-edge-test.1/CodeVeronica-PC-v1.1.4-fsr-edge-test.1.zip",
+                "size": 275126508
+              },
+              {
+                "name": "CodeVeronica-PC-v1.1.4-fsr-edge-test.1.zip.sha256",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.4-fsr-edge-test.1/CodeVeronica-PC-v1.1.4-fsr-edge-test.1.zip.sha256",
+                "size": 110
+              },
+              {
+                "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.4-fsr-edge-test.1/Veronica-PKG-Extractor-v1.0.1.zip",
+                "size": 707290
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "RE Code Veronica Recomp Release v1.1.3",
+            "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/tag/v1.1.3",
+            "published_at": "2026-10-26T00:58:40Z",
+            "assets": [
+              {
+                "name": "CodeVeronica-PC-v1.1.3.zip",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.3/CodeVeronica-PC-v1.1.3.zip",
+                "size": 275110343
+              },
+              {
+                "name": "CodeVeronica-PC-v1.1.3.zip.sha256",
+                "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.3/CodeVeronica-PC-v1.1.3.zip.sha256",
+                "size": 94
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -57,8 +646,126 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "CodeVeronica-PC-v1.1.9.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.9/CodeVeronica-PC-v1.1.9.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.9/Veronica-PKG-Extractor-v1.0.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CodeVeronica-PC-v1.1.8.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.8/CodeVeronica-PC-v1.1.8.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.8/Veronica-PKG-Extractor-v1.0.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CodeVeronica-PC-v1.1.7.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.7/CodeVeronica-PC-v1.1.7.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.7/Veronica-PKG-Extractor-v1.0.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CodeVeronica-PC-v1.1.7-fxc-test.1.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.7-fxc-test.1/CodeVeronica-PC-v1.1.7-fxc-test.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "issue18-fxc-test.patch",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.7-fxc-test.1/issue18-fxc-test.patch",
+          "type": "other_file"
+        },
+        {
+          "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.7-fxc-test.1/Veronica-PKG-Extractor-v1.0.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CodeVeronica-PC-v1.1.6.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.6/CodeVeronica-PC-v1.1.6.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.6/Veronica-PKG-Extractor-v1.0.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CodeVeronica-PC-v1.1.5.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.5/CodeVeronica-PC-v1.1.5.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.5/Veronica-PKG-Extractor-v1.0.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CodeVeronica-PC-v1.1.4.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.4/CodeVeronica-PC-v1.1.4.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.4/Veronica-PKG-Extractor-v1.0.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CodeVeronica-PC-v1.1.4-fsr-edge-test.2.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.4-fsr-edge-test.2/CodeVeronica-PC-v1.1.4-fsr-edge-test.2.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CodeVeronica-PC-v1.1.4-fsr-edge-test.2.zip.sha256",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.4-fsr-edge-test.2/CodeVeronica-PC-v1.1.4-fsr-edge-test.2.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.4-fsr-edge-test.2/Veronica-PKG-Extractor-v1.0.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CodeVeronica-PC-v1.1.4-fsr-edge-test.1.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.4-fsr-edge-test.1/CodeVeronica-PC-v1.1.4-fsr-edge-test.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CodeVeronica-PC-v1.1.4-fsr-edge-test.1.zip.sha256",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.4-fsr-edge-test.1/CodeVeronica-PC-v1.1.4-fsr-edge-test.1.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "Veronica-PKG-Extractor-v1.0.1.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.4-fsr-edge-test.1/Veronica-PKG-Extractor-v1.0.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CodeVeronica-PC-v1.1.3.zip",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.3/CodeVeronica-PC-v1.1.3.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CodeVeronica-PC-v1.1.3.zip.sha256",
+          "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC/releases/download/v1.1.3/CodeVeronica-PC-v1.1.3.zip.sha256",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -75,7 +782,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-27T23:39:48.793791+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T11:11:37.613125+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native PC port of the original Xbox Ratatouille (2007), by static recompilation. No game files or code included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -109,7 +833,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-27T23:39:44.173845+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T11:11:39.247932+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A 10-level AI-powered browser game showcasing Cactus Needle 3, WebAssembly inference, natural-language robot control, and voice commands.",
+        "latest_release_url": "https://github.com/ShanthiStream/Roboquest/releases/tag/v1.0.0-beta.1",
+        "latest_release_name": "ROBOQUEST v1.0.0-beta.1 — The Tiny AI Adventure",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "ROBOQUEST v1.0.0-beta.1 — The Tiny AI Adventure",
+            "url": "https://github.com/ShanthiStream/Roboquest/releases/tag/v1.0.0-beta.1",
+            "published_at": "2026-10-27T21:14:49Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -144,7 +894,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-27T23:39:44.173097+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T11:11:40.830214+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A code-breaking game developed in C with raylib, featuring a WebAssembly version playable in the browser.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -551,7 +1318,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-27T17:51:11.984248+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T11:11:42.400563+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Browser port of X-Mess, a 1998 Christmas puzzle game",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -1147,7 +1931,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-27T10:19:27.672874+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T11:11:44.068224+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native Windows port of Tears of the Kingdom 1.4.3 using static recompilation. Builds locally from the player's own extracted game dump; no game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -1180,7 +1981,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-27T10:19:27.671351+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T11:11:45.673378+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Smash Court Tennis Pro Tournament 2 (USA) static recompilation with PS2Recomp - configs, overrides, notes (no game data)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
