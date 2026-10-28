@@ -1,52 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-28T11:11:47.234428+00:00",
+  "last_updated": "2026-10-28T18:15:40.804505+00:00",
   "candidates": [
     {
-      "title": "MetalSyntax/The-Impossible-Game-vita",
-      "url": "https://github.com/MetalSyntax/The-Impossible-Game-vita",
+      "title": "Rayan-XOO/horizon",
+      "url": "https://github.com/Rayan-XOO/horizon",
       "source_name": "GitHub: Android ports",
-      "published": "2026-10-27T23:19:15Z",
-      "summary": "Android to PS Vita port of The Impossible Game originally published by Fluke Games (FlukeDude)",
+      "published": "2026-10-28T11:16:02Z",
+      "summary": "Unofficial Android port of Horizon: Minecraft Java Edition 26.3 rewritten in Rust. Native APK with Vulkan, touch controls and in-app game file download. Topics: android, android-game, apk, game, minecraft, minecraft-android, minecraft-clone, minecraft-java, mobile-game, open-source, port, rust, rust-lang, sandbox-game, touch-controls, voxel, voxel-game, vulkan, wgpu",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-28T11:11:29.753562+00:00",
-      "check": null,
-      "category": "android",
-      "platforms_guess": [
-        "Android"
-      ],
-      "category_evidence": {
-        "browser_terms": [],
-        "android_terms": [
-          "android"
-        ],
-        "pc_terms": [],
-        "other_platform_terms": [
-          "ps vita"
-        ]
-      },
-      "build_links": [],
-      "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
-      ],
-      "relevance_score": 8,
-      "relevance_status": "promising",
-      "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
-        "Есть игровые/платформенные признаки: game, android"
-      ]
-    },
-    {
-      "title": "WinterFarmer/bounce-android",
-      "url": "https://github.com/WinterFarmer/bounce-android",
-      "source_name": "GitHub: Android ports",
-      "published": "2026-10-28T11:10:46Z",
-      "summary": "Native Android port of the classic Nokia J2ME game Bounce. Pure Java & Android Canvas, zero external dependencies, pixel-perfect scaling, original level binary parser, and ultra-lightweight (~96 KB APK).",
-      "status": "unverified",
-      "browser_playable": "unknown",
-      "found_at": "2026-10-28T11:11:29.751190+00:00",
+      "found_at": "2026-10-28T18:15:26.612571+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -65,22 +29,60 @@
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
       ],
-      "relevance_score": 12,
+      "relevance_score": 9,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть прямые признаки порта/рекомпиляции: port of, android port",
         "Есть игровые/платформенные признаки: game, android, apk"
       ]
     },
     {
-      "title": "omegakatana92/Real-Bout-Fatal-Fury-Recomp",
-      "url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp",
-      "source_name": "GitHub: static recompilation",
-      "published": "2026-10-28T05:00:40Z",
-      "summary": "Native Windows x64 and Steam Deck AppImage static recompilation of Real Bout Fatal Fury (Neo Geo MVS/AES). The game's 68000 code is recompiled to C and runs on a neogeorecomp MVS board model with the real BIOS, not an emulator frontend. No ROMs or BIOS included. 100% native on tested sessions; YM2610 audio matched against MAME 0.242. Topics: linux, m68k, neogeo, snk, static-recompilation, steam-deck, windows",
+      "title": "rubble-za/Caligo-Chaser-DX",
+      "url": "https://github.com/rubble-za/Caligo-Chaser-DX",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-28T17:34:46Z",
+      "summary": "Caligo Chaser PC Port - desktop port of the Android game (bring your own APK and data)",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-28T11:11:23.307296+00:00",
+      "found_at": "2026-10-28T18:15:26.609887+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "pc port",
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "mflr0/Skylauncher",
+      "url": "https://github.com/mflr0/Skylauncher",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-28T14:43:49Z",
+      "summary": "Launcher for native ports of the Skylanders games: builds the game from your own disc, keeps it updated, and manages your figures. Topics: dear-imgui, launcher, linux, macos, sdl3, skylanders, static-recompilation, steam-deck, windows, xbox-360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T18:15:24.654536+00:00",
       "check": null,
       "category": "pc",
       "platforms_guess": [
@@ -99,6 +101,469 @@
       "classification_notes": [
         "В описании обнаружены признаки PC-поддержки."
       ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "K11MCH1/badman_recompiled",
+      "url": "https://github.com/K11MCH1/badman_recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-28T15:51:33Z",
+      "summary": "Native Windows and Android versions of Holy Invasion of Privacy, Badman! built by static recompilation from your own copy of the game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T18:15:20.666934+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "undecuple/project-pyrrhus",
+      "url": "https://github.com/undecuple/project-pyrrhus",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-28T18:10:06Z",
+      "summary": "Killzone 2 // Unofficial PC Port (static recompilation). Work in progress, partly playable. Builds on your PC from your own game. Topics: ai-assisted, direct3d12, game, game-port, killzone, killzone-2, ps3, ps3recomp, recompilation, static-recompilation, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T18:15:20.665284+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable, windows"
+      ]
+    },
+    {
+      "title": "devkauania/python-ai-dojo",
+      "url": "https://github.com/devkauania/python-ai-dojo",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-28T16:18:49Z",
+      "summary": "Browser game that teaches the Python of AI engineering: 273 exercises running real Python via Pyodide (tokens, tool calling, structured output, embeddings, RAG). All machine-verified. Topics: ai-engineering, education, embeddings, game, llm, pyodide, python, rag, tool-calling, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T18:15:16.334686+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "wakeupbrk/playgta5-macos",
+      "url": "https://github.com/wakeupbrk/playgta5-macos",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-28T16:09:13Z",
+      "summary": "Run the GTA V browser port locally on macOS: Story/Sandbox/Mods menu, persistent saves, cheat menu, mod loader Topics: chrome, game, gta-v, macos, mods, webassembly, webgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T18:15:11.785296+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
+    {
+      "title": "MetalSyntax/The-Impossible-Game-vita",
+      "url": "https://github.com/MetalSyntax/The-Impossible-Game-vita",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-27T23:19:15Z",
+      "summary": "Android to PS Vita port of The Impossible Game originally published by Fluke Games (FlukeDude)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T11:11:29.753562+00:00",
+      "check": {
+        "checked_at": "2026-10-28T18:15:29.930766+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Android to PS Vita port of The Impossible Game originally published by Fluke Games (FlukeDude)",
+        "latest_release_url": "https://github.com/MetalSyntax/The-Impossible-Game-vita/releases/tag/v1.2.0",
+        "latest_release_name": "The Impossible Game — PS Vita Port v1.2.1",
+        "release_assets": [
+          {
+            "name": "theimpossiblegame.vpk",
+            "url": "https://github.com/MetalSyntax/The-Impossible-Game-vita/releases/download/v1.2.0/theimpossiblegame.vpk",
+            "size": 864333
+          }
+        ],
+        "releases": [
+          {
+            "name": "The Impossible Game — PS Vita Port v1.2.1",
+            "url": "https://github.com/MetalSyntax/The-Impossible-Game-vita/releases/tag/v1.2.0",
+            "published_at": "2026-10-27T23:56:28Z",
+            "assets": [
+              {
+                "name": "theimpossiblegame.vpk",
+                "url": "https://github.com/MetalSyntax/The-Impossible-Game-vita/releases/download/v1.2.0/theimpossiblegame.vpk",
+                "size": 864333
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "The Impossible Game — PS Vita Port v1.1.0",
+            "url": "https://github.com/MetalSyntax/The-Impossible-Game-vita/releases/tag/v.1.1.0",
+            "published_at": "2026-09-21T01:27:53Z",
+            "assets": [
+              {
+                "name": "theimpossiblegame.vpk",
+                "url": "https://github.com/MetalSyntax/The-Impossible-Game-vita/releases/download/v.1.1.0/theimpossiblegame.vpk",
+                "size": 801752
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": " The Impossible Game — PS Vita Port v1.0.0",
+            "url": "https://github.com/MetalSyntax/The-Impossible-Game-vita/releases/tag/v1.0.0",
+            "published_at": "2026-09-16T05:19:32Z",
+            "assets": [
+              {
+                "name": "theimpossiblegame.vpk",
+                "url": "https://github.com/MetalSyntax/The-Impossible-Game-vita/releases/download/v1.0.0/theimpossiblegame.vpk",
+                "size": 800456
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "ps vita"
+        ]
+      },
+      "build_links": [
+        {
+          "name": "theimpossiblegame.vpk",
+          "url": "https://github.com/MetalSyntax/The-Impossible-Game-vita/releases/download/v1.2.0/theimpossiblegame.vpk",
+          "type": "other_file"
+        },
+        {
+          "name": "theimpossiblegame.vpk",
+          "url": "https://github.com/MetalSyntax/The-Impossible-Game-vita/releases/download/v.1.1.0/theimpossiblegame.vpk",
+          "type": "other_file"
+        },
+        {
+          "name": "theimpossiblegame.vpk",
+          "url": "https://github.com/MetalSyntax/The-Impossible-Game-vita/releases/download/v1.0.0/theimpossiblegame.vpk",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "WinterFarmer/bounce-android",
+      "url": "https://github.com/WinterFarmer/bounce-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-28T11:10:46Z",
+      "summary": "Native Android port of the classic Nokia J2ME game Bounce. Pure Java & Android Canvas, zero external dependencies, pixel-perfect scaling, original level binary parser, and ultra-lightweight (~96 KB APK).",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T11:11:29.751190+00:00",
+      "check": {
+        "checked_at": "2026-10-28T18:15:31.288601+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android port of the classic Nokia J2ME game Bounce. Pure Java & Android Canvas, zero external dependencies, pixel-perfect scaling, original level binary parser, and ultra-lightweight (~96 KB APK).",
+        "latest_release_url": "https://github.com/WinterFarmer/bounce-android/releases/tag/v1.0.0",
+        "latest_release_name": "Bounce Classic v1.0.0 — Initial Android Native Release",
+        "release_assets": [
+          {
+            "name": "Bounce-Classic-v1.0.0.apk",
+            "url": "https://github.com/WinterFarmer/bounce-android/releases/download/v1.0.0/Bounce-Classic-v1.0.0.apk",
+            "size": 98813
+          }
+        ],
+        "releases": [
+          {
+            "name": "Bounce Classic v1.0.0 — Initial Android Native Release",
+            "url": "https://github.com/WinterFarmer/bounce-android/releases/tag/v1.0.0",
+            "published_at": "2026-10-28T11:21:45Z",
+            "assets": [
+              {
+                "name": "Bounce-Classic-v1.0.0.apk",
+                "url": "https://github.com/WinterFarmer/bounce-android/releases/download/v1.0.0/Bounce-Classic-v1.0.0.apk",
+                "size": 98813
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "Bounce-Classic-v1.0.0.apk",
+          "url": "https://github.com/WinterFarmer/bounce-android/releases/download/v1.0.0/Bounce-Classic-v1.0.0.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "omegakatana92/Real-Bout-Fatal-Fury-Recomp",
+      "url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-28T05:00:40Z",
+      "summary": "Native Windows x64 and Steam Deck AppImage static recompilation of Real Bout Fatal Fury (Neo Geo MVS/AES). The game's 68000 code is recompiled to C and runs on a neogeorecomp MVS board model with the real BIOS, not an emulator frontend. No ROMs or BIOS included. 100% native on tested sessions; YM2610 audio matched against MAME 0.242. Topics: linux, m68k, neogeo, snk, static-recompilation, steam-deck, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T11:11:23.307296+00:00",
+      "check": {
+        "checked_at": "2026-10-28T18:15:32.588020+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows x64 and Steam Deck AppImage static recompilation of Real Bout Fatal Fury (Neo Geo MVS/AES). The game's 68000 code is recompiled to C and runs on a neogeorecomp MVS board model with the real BIOS, not an emulator frontend. No ROMs or BIOS included. 100% native on tested sessions; YM2610 audio matched against MAME 0.242.",
+        "latest_release_url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp/releases/tag/v1.0.0",
+        "latest_release_name": "Real Bout Fatal Fury v1.0.0 - Windows x64 and Steam Deck",
+        "release_assets": [
+          {
+            "name": "RBFF1-SteamDeck-x86_64.AppImage",
+            "url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp/releases/download/v1.0.0/RBFF1-SteamDeck-x86_64.AppImage",
+            "size": 10832376
+          },
+          {
+            "name": "RBFF1-Windows-x64.zip",
+            "url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp/releases/download/v1.0.0/RBFF1-Windows-x64.zip",
+            "size": 9742853
+          },
+          {
+            "name": "README.txt",
+            "url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp/releases/download/v1.0.0/README.txt",
+            "size": 2261
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp/releases/download/v1.0.0/SHA256SUMS.txt",
+            "size": 188
+          }
+        ],
+        "releases": [
+          {
+            "name": "Real Bout Fatal Fury v1.0.0 - Windows x64 and Steam Deck",
+            "url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp/releases/tag/v1.0.0",
+            "published_at": "2026-10-28T05:00:41Z",
+            "assets": [
+              {
+                "name": "RBFF1-SteamDeck-x86_64.AppImage",
+                "url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp/releases/download/v1.0.0/RBFF1-SteamDeck-x86_64.AppImage",
+                "size": 10832376
+              },
+              {
+                "name": "RBFF1-Windows-x64.zip",
+                "url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp/releases/download/v1.0.0/RBFF1-Windows-x64.zip",
+                "size": 9742853
+              },
+              {
+                "name": "README.txt",
+                "url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp/releases/download/v1.0.0/README.txt",
+                "size": 2261
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp/releases/download/v1.0.0/SHA256SUMS.txt",
+                "size": 188
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "RBFF1-SteamDeck-x86_64.AppImage",
+          "url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp/releases/download/v1.0.0/RBFF1-SteamDeck-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "RBFF1-Windows-x64.zip",
+          "url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp/releases/download/v1.0.0/RBFF1-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "README.txt",
+          "url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp/releases/download/v1.0.0/README.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/omegakatana92/Real-Bout-Fatal-Fury-Recomp/releases/download/v1.0.0/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -115,7 +580,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-28T11:11:23.306215+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T18:15:33.919566+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial PC port of Bomberman ULTRA (PS3) via static recompilation. Requires the European release's RAP license (NPEB00076); no game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -148,7 +630,221 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-28T11:11:23.305294+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T18:15:35.168114+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Killzone 3 // Unofficial PC Port (static recompilation). Work in progress, partly playable. Builds on your PC from your own game.",
+        "latest_release_url": "https://github.com/undecuple/project-helghast/releases/tag/v0.1.4",
+        "latest_release_name": "v0.1.4",
+        "release_assets": [
+          {
+            "name": "Project-Helghast-0.1.4-portable.zip",
+            "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.4/Project-Helghast-0.1.4-portable.zip",
+            "size": 161099705
+          },
+          {
+            "name": "Project-Helghast-0.1.4-portable.zip.sha256",
+            "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.4/Project-Helghast-0.1.4-portable.zip.sha256",
+            "size": 102
+          },
+          {
+            "name": "Project-Helghast-setup.exe",
+            "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.4/Project-Helghast-setup.exe",
+            "size": 100605193
+          },
+          {
+            "name": "Project-Helghast-setup.exe.sha256",
+            "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.4/Project-Helghast-setup.exe.sha256",
+            "size": 93
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.4/SHA256SUMS",
+            "size": 195
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.4",
+            "url": "https://github.com/undecuple/project-helghast/releases/tag/v0.1.4",
+            "published_at": "2026-10-28T15:43:51Z",
+            "assets": [
+              {
+                "name": "Project-Helghast-0.1.4-portable.zip",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.4/Project-Helghast-0.1.4-portable.zip",
+                "size": 161099705
+              },
+              {
+                "name": "Project-Helghast-0.1.4-portable.zip.sha256",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.4/Project-Helghast-0.1.4-portable.zip.sha256",
+                "size": 102
+              },
+              {
+                "name": "Project-Helghast-setup.exe",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.4/Project-Helghast-setup.exe",
+                "size": 100605193
+              },
+              {
+                "name": "Project-Helghast-setup.exe.sha256",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.4/Project-Helghast-setup.exe.sha256",
+                "size": 93
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.4/SHA256SUMS",
+                "size": 195
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.1.3",
+            "url": "https://github.com/undecuple/project-helghast/releases/tag/v0.1.3",
+            "published_at": "2026-10-28T12:38:33Z",
+            "assets": [
+              {
+                "name": "Project-Helghast-0.1.3-portable.zip",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.3/Project-Helghast-0.1.3-portable.zip",
+                "size": 161092656
+              },
+              {
+                "name": "Project-Helghast-0.1.3-portable.zip.sha256",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.3/Project-Helghast-0.1.3-portable.zip.sha256",
+                "size": 102
+              },
+              {
+                "name": "Project-Helghast-setup.exe",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.3/Project-Helghast-setup.exe",
+                "size": 100611610
+              },
+              {
+                "name": "Project-Helghast-setup.exe.sha256",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.3/Project-Helghast-setup.exe.sha256",
+                "size": 93
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.3/SHA256SUMS",
+                "size": 195
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.1.2",
+            "url": "https://github.com/undecuple/project-helghast/releases/tag/v0.1.2",
+            "published_at": "2026-10-28T06:32:48Z",
+            "assets": [
+              {
+                "name": "Project-Helghast-0.1.2-portable.zip",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.2/Project-Helghast-0.1.2-portable.zip",
+                "size": 161078897
+              },
+              {
+                "name": "Project-Helghast-0.1.2-portable.zip.sha256",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.2/Project-Helghast-0.1.2-portable.zip.sha256",
+                "size": 102
+              },
+              {
+                "name": "Project-Helghast-setup.exe",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.2/Project-Helghast-setup.exe",
+                "size": 100594904
+              },
+              {
+                "name": "Project-Helghast-setup.exe.sha256",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.2/Project-Helghast-setup.exe.sha256",
+                "size": 93
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.2/SHA256SUMS",
+                "size": 195
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.1.1",
+            "url": "https://github.com/undecuple/project-helghast/releases/tag/v0.1.1",
+            "published_at": "2026-10-28T04:24:39Z",
+            "assets": [
+              {
+                "name": "Project-Helghast-0.1.1-portable.zip",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.1/Project-Helghast-0.1.1-portable.zip",
+                "size": 161067749
+              },
+              {
+                "name": "Project-Helghast-0.1.1-portable.zip.sha256",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.1/Project-Helghast-0.1.1-portable.zip.sha256",
+                "size": 102
+              },
+              {
+                "name": "Project-Helghast-setup.exe",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.1/Project-Helghast-setup.exe",
+                "size": 100585955
+              },
+              {
+                "name": "Project-Helghast-setup.exe.sha256",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.1/Project-Helghast-setup.exe.sha256",
+                "size": 93
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.1/SHA256SUMS",
+                "size": 195
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.1.0",
+            "url": "https://github.com/undecuple/project-helghast/releases/tag/v0.1.0",
+            "published_at": "2026-10-28T02:19:10Z",
+            "assets": [
+              {
+                "name": "Project-Helghast-0.1.0-portable.zip",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.0/Project-Helghast-0.1.0-portable.zip",
+                "size": 161057335
+              },
+              {
+                "name": "Project-Helghast-0.1.0-portable.zip.sha256",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.0/Project-Helghast-0.1.0-portable.zip.sha256",
+                "size": 102
+              },
+              {
+                "name": "Project-Helghast-setup.exe",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.0/Project-Helghast-setup.exe",
+                "size": 100566519
+              },
+              {
+                "name": "Project-Helghast-setup.exe.sha256",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.0/Project-Helghast-setup.exe.sha256",
+                "size": 93
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.0/SHA256SUMS",
+                "size": 195
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -162,9 +858,136 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Project-Helghast-0.1.4-portable.zip",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.4/Project-Helghast-0.1.4-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Project-Helghast-0.1.4-portable.zip.sha256",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.4/Project-Helghast-0.1.4-portable.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "Project-Helghast-setup.exe",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.4/Project-Helghast-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Project-Helghast-setup.exe.sha256",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.4/Project-Helghast-setup.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.4/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Project-Helghast-0.1.3-portable.zip",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.3/Project-Helghast-0.1.3-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Project-Helghast-0.1.3-portable.zip.sha256",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.3/Project-Helghast-0.1.3-portable.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "Project-Helghast-setup.exe",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.3/Project-Helghast-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Project-Helghast-setup.exe.sha256",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.3/Project-Helghast-setup.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.3/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Project-Helghast-0.1.2-portable.zip",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.2/Project-Helghast-0.1.2-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Project-Helghast-0.1.2-portable.zip.sha256",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.2/Project-Helghast-0.1.2-portable.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "Project-Helghast-setup.exe",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.2/Project-Helghast-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Project-Helghast-setup.exe.sha256",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.2/Project-Helghast-setup.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Project-Helghast-0.1.1-portable.zip",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.1/Project-Helghast-0.1.1-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Project-Helghast-0.1.1-portable.zip.sha256",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.1/Project-Helghast-0.1.1-portable.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "Project-Helghast-setup.exe",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.1/Project-Helghast-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Project-Helghast-setup.exe.sha256",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.1/Project-Helghast-setup.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Project-Helghast-0.1.0-portable.zip",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.0/Project-Helghast-0.1.0-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Project-Helghast-0.1.0-portable.zip.sha256",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.0/Project-Helghast-0.1.0-portable.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "Project-Helghast-setup.exe",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.0/Project-Helghast-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Project-Helghast-setup.exe.sha256",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.0/Project-Helghast-setup.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.0/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -182,7 +1005,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-28T11:11:23.304203+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T18:15:36.529242+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Tools-only native PC port (static recompilation) of the Super Ryu World 1 SMW ROM hack. No ROM or game data included - bring your own.",
+        "latest_release_url": "https://github.com/rac08241988/SuperRyuWorld1-Recomp/releases/tag/v1.0.0",
+        "latest_release_name": "Super Ryu World 1 PC port v1.0.0",
+        "release_assets": [
+          {
+            "name": "SuperRyuWorld1-SNESRecomp-windows-x64-v1.0.0.zip",
+            "url": "https://github.com/rac08241988/SuperRyuWorld1-Recomp/releases/download/v1.0.0/SuperRyuWorld1-SNESRecomp-windows-x64-v1.0.0.zip",
+            "size": 16763950
+          }
+        ],
+        "releases": [
+          {
+            "name": "Super Ryu World 1 PC port v1.0.0",
+            "url": "https://github.com/rac08241988/SuperRyuWorld1-Recomp/releases/tag/v1.0.0",
+            "published_at": "2026-10-28T07:40:51Z",
+            "assets": [
+              {
+                "name": "SuperRyuWorld1-SNESRecomp-windows-x64-v1.0.0.zip",
+                "url": "https://github.com/rac08241988/SuperRyuWorld1-Recomp/releases/download/v1.0.0/SuperRyuWorld1-SNESRecomp-windows-x64-v1.0.0.zip",
+                "size": 16763950
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -191,14 +1052,22 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
+          "windows",
           "pc port",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SuperRyuWorld1-SNESRecomp-windows-x64-v1.0.0.zip",
+          "url": "https://github.com/rac08241988/SuperRyuWorld1-Recomp/releases/download/v1.0.0/SuperRyuWorld1-SNESRecomp-windows-x64-v1.0.0.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -216,7 +1085,149 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-28T11:11:23.303251+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T18:15:38.054438+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Drakan: The Ancients' Gates (PS2) static recompilation to native Windows and the browser. Bring your own disc; no game data included.",
+        "latest_release_url": "https://github.com/ChristopherVR/Drakan2PC/releases/tag/v0.1.0",
+        "latest_release_name": "Drakan PC v0.1.0",
+        "release_assets": [
+          {
+            "name": "DrakanPC-Builder.zip",
+            "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/v0.1.0/DrakanPC-Builder.zip",
+            "size": 4665164
+          },
+          {
+            "name": "DrakanPC-Setup.exe",
+            "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/v0.1.0/DrakanPC-Setup.exe",
+            "size": 127492466
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/v0.1.0/SHA256SUMS.txt",
+            "size": 174
+          }
+        ],
+        "releases": [
+          {
+            "name": "Drakan PC v0.1.0",
+            "url": "https://github.com/ChristopherVR/Drakan2PC/releases/tag/v0.1.0",
+            "published_at": "2026-10-28T09:42:33Z",
+            "assets": [
+              {
+                "name": "DrakanPC-Builder.zip",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/v0.1.0/DrakanPC-Builder.zip",
+                "size": 4665164
+              },
+              {
+                "name": "DrakanPC-Setup.exe",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/v0.1.0/DrakanPC-Setup.exe",
+                "size": 127492466
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/v0.1.0/SHA256SUMS.txt",
+                "size": 174
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Documentation screenshots and clips",
+            "url": "https://github.com/ChristopherVR/Drakan2PC/releases/tag/site-media-20261028",
+            "published_at": "2026-10-28T11:12:08Z",
+            "assets": [
+              {
+                "name": "bow-aiming.jpg",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/bow-aiming.jpg",
+                "size": 124968
+              },
+              {
+                "name": "browser-gameplay.jpg",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/browser-gameplay.jpg",
+                "size": 114220
+              },
+              {
+                "name": "display-settings.jpg",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/display-settings.jpg",
+                "size": 138329
+              },
+              {
+                "name": "dual-wield.gif",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/dual-wield.gif",
+                "size": 2545103
+              },
+              {
+                "name": "dual-wield.jpg",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/dual-wield.jpg",
+                "size": 89662
+              },
+              {
+                "name": "fullscreen-map.jpg",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/fullscreen-map.jpg",
+                "size": 162738
+              },
+              {
+                "name": "hd-movie.gif",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/hd-movie.gif",
+                "size": 1371842
+              },
+              {
+                "name": "hd-movie.jpg",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/hd-movie.jpg",
+                "size": 97239
+              },
+              {
+                "name": "hd-textures.jpg",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/hd-textures.jpg",
+                "size": 186663
+              },
+              {
+                "name": "inventory-strip.jpg",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/inventory-strip.jpg",
+                "size": 48789
+              },
+              {
+                "name": "linux-gameplay.jpg",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/linux-gameplay.jpg",
+                "size": 201607
+              },
+              {
+                "name": "modern-inventory.jpg",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/modern-inventory.jpg",
+                "size": 96462
+              },
+              {
+                "name": "narration-subtitles.jpg",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/narration-subtitles.jpg",
+                "size": 87540
+              },
+              {
+                "name": "pc-settings.jpg",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/pc-settings.jpg",
+                "size": 105714
+              },
+              {
+                "name": "save-browser.jpg",
+                "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/save-browser.jpg",
+                "size": 121844
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -232,10 +1243,102 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "DrakanPC-Builder.zip",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/v0.1.0/DrakanPC-Builder.zip",
+          "type": "archive"
+        },
+        {
+          "name": "DrakanPC-Setup.exe",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/v0.1.0/DrakanPC-Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/v0.1.0/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "bow-aiming.jpg",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/bow-aiming.jpg",
+          "type": "other_file"
+        },
+        {
+          "name": "browser-gameplay.jpg",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/browser-gameplay.jpg",
+          "type": "other_file"
+        },
+        {
+          "name": "display-settings.jpg",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/display-settings.jpg",
+          "type": "other_file"
+        },
+        {
+          "name": "dual-wield.gif",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/dual-wield.gif",
+          "type": "other_file"
+        },
+        {
+          "name": "dual-wield.jpg",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/dual-wield.jpg",
+          "type": "other_file"
+        },
+        {
+          "name": "fullscreen-map.jpg",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/fullscreen-map.jpg",
+          "type": "other_file"
+        },
+        {
+          "name": "hd-movie.gif",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/hd-movie.gif",
+          "type": "other_file"
+        },
+        {
+          "name": "hd-movie.jpg",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/hd-movie.jpg",
+          "type": "other_file"
+        },
+        {
+          "name": "hd-textures.jpg",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/hd-textures.jpg",
+          "type": "other_file"
+        },
+        {
+          "name": "inventory-strip.jpg",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/inventory-strip.jpg",
+          "type": "other_file"
+        },
+        {
+          "name": "linux-gameplay.jpg",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/linux-gameplay.jpg",
+          "type": "other_file"
+        },
+        {
+          "name": "modern-inventory.jpg",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/modern-inventory.jpg",
+          "type": "other_file"
+        },
+        {
+          "name": "narration-subtitles.jpg",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/narration-subtitles.jpg",
+          "type": "other_file"
+        },
+        {
+          "name": "pc-settings.jpg",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/pc-settings.jpg",
+          "type": "other_file"
+        },
+        {
+          "name": "save-browser.jpg",
+          "url": "https://github.com/ChristopherVR/Drakan2PC/releases/download/site-media-20261028/save-browser.jpg",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -253,7 +1356,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-28T11:11:23.302309+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T18:15:39.436957+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Neo Geo MVS ports by static recompilation, built on CPS-2 Recomp's toolkit. Bring your own game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
