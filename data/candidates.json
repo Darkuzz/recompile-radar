@@ -1,7 +1,269 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-28T18:15:40.804505+00:00",
+  "last_updated": "2026-10-28T23:58:01.004272+00:00",
   "candidates": [
+    {
+      "title": "MooPuu/droid-recomp",
+      "url": "https://github.com/MooPuu/droid-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-28T22:10:30Z",
+      "summary": "⚡ The Definitive Hub for Native Android Game Recompilations & Ports — 133+ verified playable titles, dual Mobile & Desktop UI, BYOR guide, and Obtainium integration. Topics: android, decompilation, github-pages, handheld-gaming, obtainium, ports, pwa, recompilation, retrogaming",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T23:57:45.996089+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable, android"
+      ]
+    },
+    {
+      "title": "TheGoatArtist/OpenRAGE",
+      "url": "https://github.com/TheGoatArtist/OpenRAGE",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-28T22:41:15Z",
+      "summary": "A modern source port that reverse engineers the engine and binaries of id Software's 2011 video-game titled RAGE.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T23:57:42.280613+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "sp00nznet/rol",
+      "url": "https://github.com/sp00nznet/rol",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-28T21:22:20Z",
+      "summary": "Static recompilation of Rise of Nations: Rise of Legends (2006) - the Big Huge Games rts2 engine lifted to native C. Bring your own disc; no game files included. Topics: game-preservation, pcrecomp, recompilation, rise-of-legends, static-recompilation, x86",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T23:57:40.378923+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "MGRayd/Fable2PubGames-Recomp",
+      "url": "https://github.com/MGRayd/Fable2PubGames-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-28T21:53:49Z",
+      "summary": "Static recompilation of Fable II Pub Games for Windows using ReXGlue",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T23:57:40.378005+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: windows"
+      ]
+    },
+    {
+      "title": "rashevskyv/conker-lr-recomp",
+      "url": "https://github.com/rashevskyv/conker-lr-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-28T22:09:49Z",
+      "summary": "Conker: Live & Reloaded (Xbox) on Nintendo Switch, Linux and Windows: static recompilation. Build it from your own XBE; no game data. Topics: conker, linux, nintendo-switch, recompilation, static-recompilation, switch-homebrew, vulkan, windows, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T23:57:40.377088+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Mars7x/usum-recomp",
+      "url": "https://github.com/Mars7x/usum-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-28T23:23:58Z",
+      "summary": "Experimental Pokémon Ultra Sun/Ultra Moon static recompilation for Linux. Bring your own decrypted dump, no game data is included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T23:57:40.376004+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "GardensOfKadesh/Homeworld",
+      "url": "https://github.com/GardensOfKadesh/Homeworld",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-28T21:07:15Z",
+      "summary": "Gardens of Kadesh: A WebAssembly port of Homeworld. Main repo is on gitlab.com, this is only a mirror. Topics: emscripten, game, game-development, game-engine, opengl, webassembly, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T23:57:36.141251+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, webgl"
+      ]
+    },
+    {
+      "title": "im-nassinger/duck-game",
+      "url": "https://github.com/im-nassinger/duck-game",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-28T23:56:35Z",
+      "summary": "Duck Game in the browser (WebAssembly port)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-28T23:57:36.132814+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
     {
       "title": "Rayan-XOO/horizon",
       "url": "https://github.com/Rayan-XOO/horizon",
@@ -11,7 +273,101 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-28T18:15:26.612571+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T23:57:49.398365+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "android-port",
+        "description": "Unofficial Android port of Horizon: Minecraft Java Edition 26.3 rewritten in Rust. Native APK with Vulkan, touch controls and in-app game file download.",
+        "latest_release_url": "https://github.com/Rayan-XOO/horizon/releases/tag/android-v0.2.4",
+        "latest_release_name": "Android v0.2.4",
+        "release_assets": [
+          {
+            "name": "horizon.apk",
+            "url": "https://github.com/Rayan-XOO/horizon/releases/download/android-v0.2.4/horizon.apk",
+            "size": 18585501
+          }
+        ],
+        "releases": [
+          {
+            "name": "Android v0.2.4",
+            "url": "https://github.com/Rayan-XOO/horizon/releases/tag/android-v0.2.4",
+            "published_at": "2026-10-28T03:35:30Z",
+            "assets": [
+              {
+                "name": "horizon.apk",
+                "url": "https://github.com/Rayan-XOO/horizon/releases/download/android-v0.2.4/horizon.apk",
+                "size": 18585501
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Android v0.2.3",
+            "url": "https://github.com/Rayan-XOO/horizon/releases/tag/android-v0.2.3",
+            "published_at": "2026-10-28T03:29:10Z",
+            "assets": [
+              {
+                "name": "horizon.apk",
+                "url": "https://github.com/Rayan-XOO/horizon/releases/download/android-v0.2.3/horizon.apk",
+                "size": 18581405
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Android v0.2.2",
+            "url": "https://github.com/Rayan-XOO/horizon/releases/tag/android-v0.2.2",
+            "published_at": "2026-10-28T03:13:11Z",
+            "assets": [
+              {
+                "name": "horizon-v0.2.2.apk",
+                "url": "https://github.com/Rayan-XOO/horizon/releases/download/android-v0.2.2/horizon-v0.2.2.apk",
+                "size": 18577309
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Horizon for Android v0.2.0 (unofficial)",
+            "url": "https://github.com/Rayan-XOO/horizon/releases/tag/android-v0.2.0",
+            "published_at": "2026-10-28T02:30:02Z",
+            "assets": [
+              {
+                "name": "horizon.apk",
+                "url": "https://github.com/Rayan-XOO/horizon/releases/download/android-v0.2.0/horizon.apk",
+                "size": 18526684
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Horizon for Android v0.1.0 (unofficial)",
+            "url": "https://github.com/Rayan-XOO/horizon/releases/tag/android-v0.1.0",
+            "published_at": "2026-10-28T02:15:27Z",
+            "assets": [
+              {
+                "name": "horizon.apk",
+                "url": "https://github.com/Rayan-XOO/horizon/releases/download/android-v0.1.0/horizon.apk",
+                "size": 18416092
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -25,9 +381,36 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "horizon.apk",
+          "url": "https://github.com/Rayan-XOO/horizon/releases/download/android-v0.2.4/horizon.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "horizon.apk",
+          "url": "https://github.com/Rayan-XOO/horizon/releases/download/android-v0.2.3/horizon.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "horizon-v0.2.2.apk",
+          "url": "https://github.com/Rayan-XOO/horizon/releases/download/android-v0.2.2/horizon-v0.2.2.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "horizon.apk",
+          "url": "https://github.com/Rayan-XOO/horizon/releases/download/android-v0.2.0/horizon.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "horizon.apk",
+          "url": "https://github.com/Rayan-XOO/horizon/releases/download/android-v0.1.0/horizon.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -45,7 +428,147 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-28T18:15:26.609887+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T23:57:50.901873+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Caligo Chaser PC Port - desktop port of the Android game (bring your own APK and data)",
+        "latest_release_url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/tag/v0.6.5",
+        "latest_release_name": "Caligo Chaser DX 0.6.5 (Windows + Android + Linux, pre-release)",
+        "release_assets": [
+          {
+            "name": "CaligoChaserDX-v0.6.5-android-arm64.apk",
+            "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/download/v0.6.5/CaligoChaserDX-v0.6.5-android-arm64.apk",
+            "size": 7154217
+          },
+          {
+            "name": "CaligoChaserDX-v0.6.5-linux-aarch64.AppImage",
+            "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/download/v0.6.5/CaligoChaserDX-v0.6.5-linux-aarch64.AppImage",
+            "size": 2193928
+          },
+          {
+            "name": "CaligoChaserDX-v0.6.5-linux-x86_64.AppImage",
+            "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/download/v0.6.5/CaligoChaserDX-v0.6.5-linux-x86_64.AppImage",
+            "size": 2697720
+          },
+          {
+            "name": "CaligoChaserDX-v0.6.5-windows.zip",
+            "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/download/v0.6.5/CaligoChaserDX-v0.6.5-windows.zip",
+            "size": 2425483
+          }
+        ],
+        "releases": [
+          {
+            "name": "Caligo Chaser DX 0.6.5 (Windows + Android + Linux, pre-release)",
+            "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/tag/v0.6.5",
+            "published_at": "2026-10-28T13:29:26Z",
+            "assets": [
+              {
+                "name": "CaligoChaserDX-v0.6.5-android-arm64.apk",
+                "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/download/v0.6.5/CaligoChaserDX-v0.6.5-android-arm64.apk",
+                "size": 7154217
+              },
+              {
+                "name": "CaligoChaserDX-v0.6.5-linux-aarch64.AppImage",
+                "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/download/v0.6.5/CaligoChaserDX-v0.6.5-linux-aarch64.AppImage",
+                "size": 2193928
+              },
+              {
+                "name": "CaligoChaserDX-v0.6.5-linux-x86_64.AppImage",
+                "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/download/v0.6.5/CaligoChaserDX-v0.6.5-linux-x86_64.AppImage",
+                "size": 2697720
+              },
+              {
+                "name": "CaligoChaserDX-v0.6.5-windows.zip",
+                "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/download/v0.6.5/CaligoChaserDX-v0.6.5-windows.zip",
+                "size": 2425483
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Caligo Chaser DX v0.6.4 (Windows + Android, pre-release)",
+            "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/tag/v0.6.4",
+            "published_at": "2026-10-27T08:31:07Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Caligo Chaser DX v0.6.3 (Windows + Android, pre-release)",
+            "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/tag/v0.6.3",
+            "published_at": "2026-10-27T07:54:22Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Caligo Chaser DX v0.6.2 (Windows + Android, pre-release)",
+            "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/tag/v0.6.2",
+            "published_at": "2026-10-27T07:37:56Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.6.1 (Windows + Android, pre-release)",
+            "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/tag/v0.6.1",
+            "published_at": "2026-10-27T07:13:48Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.6.0 (Windows + Android, pre-release)",
+            "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/tag/v0.6.0",
+            "published_at": "2026-10-27T07:02:40Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.5.1 (Windows + Android, pre-release)",
+            "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/tag/v0.5.1",
+            "published_at": "2026-10-27T06:17:33Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.5.0 (Windows + Android, pre-release)",
+            "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/tag/v0.5.0",
+            "published_at": "2026-10-27T06:01:17Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.4.1 (Windows, pre-release)",
+            "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/tag/v0.4.1",
+            "published_at": "2026-10-26T18:49:25Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.4.0 (Windows, pre-release)",
+            "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/tag/v0.4.0",
+            "published_at": "2026-10-26T18:41:14Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -57,15 +580,39 @@
           "android"
         ],
         "pc_terms": [
+          "windows",
+          "linux",
           "pc port",
           "desktop"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "CaligoChaserDX-v0.6.5-android-arm64.apk",
+          "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/download/v0.6.5/CaligoChaserDX-v0.6.5-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "CaligoChaserDX-v0.6.5-linux-aarch64.AppImage",
+          "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/download/v0.6.5/CaligoChaserDX-v0.6.5-linux-aarch64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "CaligoChaserDX-v0.6.5-linux-x86_64.AppImage",
+          "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/download/v0.6.5/CaligoChaserDX-v0.6.5-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "CaligoChaserDX-v0.6.5-windows.zip",
+          "url": "https://github.com/rubble-za/Caligo-Chaser-DX/releases/download/v0.6.5/CaligoChaserDX-v0.6.5-windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -83,7 +630,518 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-28T18:15:24.654536+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T23:57:52.349659+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Launcher for native ports of the Skylanders games: builds the game from your own disc, keeps it updated, and manages your figures.",
+        "latest_release_url": "https://github.com/mflr0/Skylauncher/releases/tag/v0.6.0",
+        "latest_release_name": "Arkeyan Launcher v0.6.0",
+        "release_assets": [
+          {
+            "name": "ArkeyanLauncher-macOS.dmg",
+            "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ArkeyanLauncher-macOS.dmg",
+            "size": 7429205
+          },
+          {
+            "name": "ArkeyanLauncher-macOS.zip",
+            "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ArkeyanLauncher-macOS.zip",
+            "size": 6793220
+          },
+          {
+            "name": "ArkeyanLauncher-x86_64.AppImage",
+            "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ArkeyanLauncher-x86_64.AppImage",
+            "size": 3762680
+          },
+          {
+            "name": "ArkeyanLauncher.exe",
+            "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ArkeyanLauncher.exe",
+            "size": 6927872
+          },
+          {
+            "name": "games.json",
+            "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/games.json",
+            "size": 444
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/SHA256SUMS",
+            "size": 1354
+          },
+          {
+            "name": "skylanders-kit-linux-x64.zip",
+            "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/skylanders-kit-linux-x64.zip",
+            "size": 40642141
+          },
+          {
+            "name": "skylanders-kit-macos-arm64.zip",
+            "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/skylanders-kit-macos-arm64.zip",
+            "size": 41785343
+          },
+          {
+            "name": "skylanders-kit-windows-x64.zip",
+            "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/skylanders-kit-windows-x64.zip",
+            "size": 39560680
+          },
+          {
+            "name": "Skylauncher-macOS.dmg",
+            "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/Skylauncher-macOS.dmg",
+            "size": 7429401
+          },
+          {
+            "name": "Skylauncher-macOS.zip",
+            "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/Skylauncher-macOS.zip",
+            "size": 6793283
+          },
+          {
+            "name": "Skylauncher-x86_64.AppImage",
+            "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/Skylauncher-x86_64.AppImage",
+            "size": 3762680
+          },
+          {
+            "name": "Skylauncher.exe",
+            "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/Skylauncher.exe",
+            "size": 6927872
+          },
+          {
+            "name": "ssa-kit-linux-x64.zip",
+            "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ssa-kit-linux-x64.zip",
+            "size": 40642141
+          },
+          {
+            "name": "ssa-kit-macos-arm64.zip",
+            "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ssa-kit-macos-arm64.zip",
+            "size": 41785343
+          },
+          {
+            "name": "ssa-kit-windows-x64.zip",
+            "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ssa-kit-windows-x64.zip",
+            "size": 39560680
+          }
+        ],
+        "releases": [
+          {
+            "name": "Arkeyan Launcher v0.6.0",
+            "url": "https://github.com/mflr0/Skylauncher/releases/tag/v0.6.0",
+            "published_at": "2026-10-28T02:07:54Z",
+            "assets": [
+              {
+                "name": "ArkeyanLauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ArkeyanLauncher-macOS.dmg",
+                "size": 7429205
+              },
+              {
+                "name": "ArkeyanLauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ArkeyanLauncher-macOS.zip",
+                "size": 6793220
+              },
+              {
+                "name": "ArkeyanLauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ArkeyanLauncher-x86_64.AppImage",
+                "size": 3762680
+              },
+              {
+                "name": "ArkeyanLauncher.exe",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ArkeyanLauncher.exe",
+                "size": 6927872
+              },
+              {
+                "name": "games.json",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/games.json",
+                "size": 444
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/SHA256SUMS",
+                "size": 1354
+              },
+              {
+                "name": "skylanders-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/skylanders-kit-linux-x64.zip",
+                "size": 40642141
+              },
+              {
+                "name": "skylanders-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/skylanders-kit-macos-arm64.zip",
+                "size": 41785343
+              },
+              {
+                "name": "skylanders-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/skylanders-kit-windows-x64.zip",
+                "size": 39560680
+              },
+              {
+                "name": "Skylauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/Skylauncher-macOS.dmg",
+                "size": 7429401
+              },
+              {
+                "name": "Skylauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/Skylauncher-macOS.zip",
+                "size": 6793283
+              },
+              {
+                "name": "Skylauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/Skylauncher-x86_64.AppImage",
+                "size": 3762680
+              },
+              {
+                "name": "Skylauncher.exe",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/Skylauncher.exe",
+                "size": 6927872
+              },
+              {
+                "name": "ssa-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ssa-kit-linux-x64.zip",
+                "size": 40642141
+              },
+              {
+                "name": "ssa-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ssa-kit-macos-arm64.zip",
+                "size": 41785343
+              },
+              {
+                "name": "ssa-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ssa-kit-windows-x64.zip",
+                "size": 39560680
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Skylauncher v0.4.3",
+            "url": "https://github.com/mflr0/Skylauncher/releases/tag/v0.4.3",
+            "published_at": "2026-10-27T13:21:49Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.3/SHA256SUMS",
+                "size": 620
+              },
+              {
+                "name": "Skylauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.3/Skylauncher-macOS.dmg",
+                "size": 7178645
+              },
+              {
+                "name": "Skylauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.3/Skylauncher-macOS.zip",
+                "size": 6556424
+              },
+              {
+                "name": "Skylauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.3/Skylauncher-x86_64.AppImage",
+                "size": 3635704
+              },
+              {
+                "name": "Skylauncher.exe",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.3/Skylauncher.exe",
+                "size": 6599168
+              },
+              {
+                "name": "ssa-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.3/ssa-kit-linux-x64.zip",
+                "size": 34902049
+              },
+              {
+                "name": "ssa-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.3/ssa-kit-macos-arm64.zip",
+                "size": 39569379
+              },
+              {
+                "name": "ssa-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.3/ssa-kit-windows-x64.zip",
+                "size": 33324397
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Skylauncher v0.4.2",
+            "url": "https://github.com/mflr0/Skylauncher/releases/tag/v0.4.2",
+            "published_at": "2026-10-27T11:01:54Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.2/SHA256SUMS",
+                "size": 620
+              },
+              {
+                "name": "Skylauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.2/Skylauncher-macOS.dmg",
+                "size": 7178517
+              },
+              {
+                "name": "Skylauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.2/Skylauncher-macOS.zip",
+                "size": 6556083
+              },
+              {
+                "name": "Skylauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.2/Skylauncher-x86_64.AppImage",
+                "size": 3635704
+              },
+              {
+                "name": "Skylauncher.exe",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.2/Skylauncher.exe",
+                "size": 6594560
+              },
+              {
+                "name": "ssa-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.2/ssa-kit-linux-x64.zip",
+                "size": 34811653
+              },
+              {
+                "name": "ssa-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.2/ssa-kit-macos-arm64.zip",
+                "size": 39333178
+              },
+              {
+                "name": "ssa-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.2/ssa-kit-windows-x64.zip",
+                "size": 33228491
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Skylauncher v0.4.1",
+            "url": "https://github.com/mflr0/Skylauncher/releases/tag/v0.4.1",
+            "published_at": "2026-10-27T07:42:42Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.1/SHA256SUMS",
+                "size": 620
+              },
+              {
+                "name": "Skylauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.1/Skylauncher-macOS.dmg",
+                "size": 7178335
+              },
+              {
+                "name": "Skylauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.1/Skylauncher-macOS.zip",
+                "size": 6555896
+              },
+              {
+                "name": "Skylauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.1/Skylauncher-x86_64.AppImage",
+                "size": 3639800
+              },
+              {
+                "name": "Skylauncher.exe",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.1/Skylauncher.exe",
+                "size": 6594560
+              },
+              {
+                "name": "ssa-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.1/ssa-kit-linux-x64.zip",
+                "size": 34811653
+              },
+              {
+                "name": "ssa-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.1/ssa-kit-macos-arm64.zip",
+                "size": 39333178
+              },
+              {
+                "name": "ssa-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.1/ssa-kit-windows-x64.zip",
+                "size": 33228491
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Skylauncher v0.4.0",
+            "url": "https://github.com/mflr0/Skylauncher/releases/tag/v0.4.0",
+            "published_at": "2026-10-26T20:27:44Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.0/SHA256SUMS",
+                "size": 620
+              },
+              {
+                "name": "Skylauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.0/Skylauncher-macOS.dmg",
+                "size": 7157973
+              },
+              {
+                "name": "Skylauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.0/Skylauncher-macOS.zip",
+                "size": 6536518
+              },
+              {
+                "name": "Skylauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.0/Skylauncher-x86_64.AppImage",
+                "size": 3631608
+              },
+              {
+                "name": "Skylauncher.exe",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.0/Skylauncher.exe",
+                "size": 6562304
+              },
+              {
+                "name": "ssa-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.0/ssa-kit-linux-x64.zip",
+                "size": 34774018
+              },
+              {
+                "name": "ssa-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.0/ssa-kit-macos-arm64.zip",
+                "size": 39452043
+              },
+              {
+                "name": "ssa-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.0/ssa-kit-windows-x64.zip",
+                "size": 33164495
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Skylauncher v0.3.1",
+            "url": "https://github.com/mflr0/Skylauncher/releases/tag/v0.3.1",
+            "published_at": "2026-10-25T13:56:46Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.1/SHA256SUMS",
+                "size": 620
+              },
+              {
+                "name": "Skylauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.1/Skylauncher-macOS.dmg",
+                "size": 6508322
+              },
+              {
+                "name": "Skylauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.1/Skylauncher-macOS.zip",
+                "size": 5938895
+              },
+              {
+                "name": "Skylauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.1/Skylauncher-x86_64.AppImage",
+                "size": 3357176
+              },
+              {
+                "name": "Skylauncher.exe",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.1/Skylauncher.exe",
+                "size": 5847552
+              },
+              {
+                "name": "ssa-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.1/ssa-kit-linux-x64.zip",
+                "size": 29613242
+              },
+              {
+                "name": "ssa-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.1/ssa-kit-macos-arm64.zip",
+                "size": 37497044
+              },
+              {
+                "name": "ssa-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.1/ssa-kit-windows-x64.zip",
+                "size": 27627651
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Skylauncher v0.3.0",
+            "url": "https://github.com/mflr0/Skylauncher/releases/tag/v0.3.0",
+            "published_at": "2026-10-24T21:17:16Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.0/SHA256SUMS",
+                "size": 532
+              },
+              {
+                "name": "Skylauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.0/Skylauncher-macOS.dmg",
+                "size": 6419678
+              },
+              {
+                "name": "Skylauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.0/Skylauncher-macOS.zip",
+                "size": 5856793
+              },
+              {
+                "name": "Skylauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.0/Skylauncher-x86_64.AppImage",
+                "size": 3299832
+              },
+              {
+                "name": "Skylauncher.exe",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.0/Skylauncher.exe",
+                "size": 5665792
+              },
+              {
+                "name": "ssa-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.0/ssa-kit-macos-arm64.zip",
+                "size": 37395035
+              },
+              {
+                "name": "ssa-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.0/ssa-kit-windows-x64.zip",
+                "size": 27486318
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Skylauncher v0.2.0",
+            "url": "https://github.com/mflr0/Skylauncher/releases/tag/v0.2.0",
+            "published_at": "2026-10-24T20:14:06Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.2.0/SHA256SUMS",
+                "size": 352
+              },
+              {
+                "name": "Skylauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.2.0/Skylauncher-macOS.dmg",
+                "size": 6395720
+              },
+              {
+                "name": "Skylauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.2.0/Skylauncher-macOS.zip",
+                "size": 5832719
+              },
+              {
+                "name": "Skylauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.2.0/Skylauncher-x86_64.AppImage",
+                "size": 3287544
+              },
+              {
+                "name": "Skylauncher.exe",
+                "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.2.0/Skylauncher.exe",
+                "size": 5635584
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -97,9 +1155,351 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "ArkeyanLauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ArkeyanLauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ArkeyanLauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ArkeyanLauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ArkeyanLauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ArkeyanLauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ArkeyanLauncher.exe",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ArkeyanLauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "games.json",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/games.json",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "skylanders-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/skylanders-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "skylanders-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/skylanders-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "skylanders-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/skylanders-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Skylauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/Skylauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/Skylauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Skylauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/Skylauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher.exe",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/Skylauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "ssa-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ssa-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ssa-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.6.0/ssa-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.3/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Skylauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.3/Skylauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.3/Skylauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Skylauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.3/Skylauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher.exe",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.3/Skylauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "ssa-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.3/ssa-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.3/ssa-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.3/ssa-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Skylauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.2/Skylauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.2/Skylauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Skylauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.2/Skylauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher.exe",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.2/Skylauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "ssa-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.2/ssa-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.2/ssa-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.2/ssa-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Skylauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.1/Skylauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.1/Skylauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Skylauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.1/Skylauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher.exe",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.1/Skylauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "ssa-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.1/ssa-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.1/ssa-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.1/ssa-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Skylauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.0/Skylauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.0/Skylauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Skylauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.0/Skylauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher.exe",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.0/Skylauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "ssa-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.0/ssa-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.0/ssa-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.4.0/ssa-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Skylauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.1/Skylauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.1/Skylauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Skylauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.1/Skylauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher.exe",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.1/Skylauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "ssa-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.1/ssa-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.1/ssa-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.1/ssa-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Skylauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.0/Skylauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.0/Skylauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Skylauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.0/Skylauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher.exe",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.0/Skylauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "ssa-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.0/ssa-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.3.0/ssa-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.2.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Skylauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.2.0/Skylauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.2.0/Skylauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Skylauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.2.0/Skylauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher.exe",
+          "url": "https://github.com/mflr0/Skylauncher/releases/download/v0.2.0/Skylauncher.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -117,7 +1517,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-28T18:15:20.666934+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T23:57:53.847277+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows and Android versions of Holy Invasion of Privacy, Badman! built by static recompilation from your own copy of the game",
+        "latest_release_url": "https://github.com/K11MCH1/badman_recompiled/releases/tag/v0.1.0",
+        "latest_release_name": "Badman Recompiled v0.1.0",
+        "release_assets": [
+          {
+            "name": "Badman_Recompiled_Android.apk",
+            "url": "https://github.com/K11MCH1/badman_recompiled/releases/download/v0.1.0/Badman_Recompiled_Android.apk",
+            "size": 80471940
+          },
+          {
+            "name": "Badman_Recompiled_Windows.zip",
+            "url": "https://github.com/K11MCH1/badman_recompiled/releases/download/v0.1.0/Badman_Recompiled_Windows.zip",
+            "size": 15892143
+          }
+        ],
+        "releases": [
+          {
+            "name": "Badman Recompiled v0.1.0",
+            "url": "https://github.com/K11MCH1/badman_recompiled/releases/tag/v0.1.0",
+            "published_at": "2026-10-28T15:35:27Z",
+            "assets": [
+              {
+                "name": "Badman_Recompiled_Android.apk",
+                "url": "https://github.com/K11MCH1/badman_recompiled/releases/download/v0.1.0/Badman_Recompiled_Android.apk",
+                "size": 80471940
+              },
+              {
+                "name": "Badman_Recompiled_Windows.zip",
+                "url": "https://github.com/K11MCH1/badman_recompiled/releases/download/v0.1.0/Badman_Recompiled_Windows.zip",
+                "size": 15892143
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -133,10 +1581,22 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Badman_Recompiled_Android.apk",
+          "url": "https://github.com/K11MCH1/badman_recompiled/releases/download/v0.1.0/Badman_Recompiled_Android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "Badman_Recompiled_Windows.zip",
+          "url": "https://github.com/K11MCH1/badman_recompiled/releases/download/v0.1.0/Badman_Recompiled_Windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -154,7 +1614,119 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-28T18:15:20.665284+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T23:57:55.282275+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Killzone 2 // Unofficial PC Port (static recompilation). Work in progress, partly playable. Builds on your PC from your own game.",
+        "latest_release_url": "https://github.com/undecuple/project-pyrrhus/releases/tag/v0.1.2",
+        "latest_release_name": "v0.1.2",
+        "release_assets": [
+          {
+            "name": "Project-Pyrrhus-0.1.2-portable.zip",
+            "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.2/Project-Pyrrhus-0.1.2-portable.zip",
+            "size": 162604582
+          },
+          {
+            "name": "Project-Pyrrhus-0.1.2-portable.zip.sha256",
+            "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.2/Project-Pyrrhus-0.1.2-portable.zip.sha256",
+            "size": 101
+          },
+          {
+            "name": "Project-Pyrrhus-setup.exe",
+            "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.2/Project-Pyrrhus-setup.exe",
+            "size": 101754070
+          },
+          {
+            "name": "Project-Pyrrhus-setup.exe.sha256",
+            "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.2/Project-Pyrrhus-setup.exe.sha256",
+            "size": 92
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.2/SHA256SUMS",
+            "size": 193
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.2",
+            "url": "https://github.com/undecuple/project-pyrrhus/releases/tag/v0.1.2",
+            "published_at": "2026-10-28T23:18:05Z",
+            "assets": [
+              {
+                "name": "Project-Pyrrhus-0.1.2-portable.zip",
+                "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.2/Project-Pyrrhus-0.1.2-portable.zip",
+                "size": 162604582
+              },
+              {
+                "name": "Project-Pyrrhus-0.1.2-portable.zip.sha256",
+                "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.2/Project-Pyrrhus-0.1.2-portable.zip.sha256",
+                "size": 101
+              },
+              {
+                "name": "Project-Pyrrhus-setup.exe",
+                "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.2/Project-Pyrrhus-setup.exe",
+                "size": 101754070
+              },
+              {
+                "name": "Project-Pyrrhus-setup.exe.sha256",
+                "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.2/Project-Pyrrhus-setup.exe.sha256",
+                "size": 92
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.2/SHA256SUMS",
+                "size": 193
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.1.1",
+            "url": "https://github.com/undecuple/project-pyrrhus/releases/tag/v0.1.1",
+            "published_at": "2026-10-28T15:01:24Z",
+            "assets": [
+              {
+                "name": "Project-Pyrrhus-0.1.1-portable.zip",
+                "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.1/Project-Pyrrhus-0.1.1-portable.zip",
+                "size": 162573531
+              },
+              {
+                "name": "Project-Pyrrhus-0.1.1-portable.zip.sha256",
+                "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.1/Project-Pyrrhus-0.1.1-portable.zip.sha256",
+                "size": 101
+              },
+              {
+                "name": "Project-Pyrrhus-setup.exe",
+                "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.1/Project-Pyrrhus-setup.exe",
+                "size": 101716010
+              },
+              {
+                "name": "Project-Pyrrhus-setup.exe.sha256",
+                "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.1/Project-Pyrrhus-setup.exe.sha256",
+                "size": 92
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.1/SHA256SUMS",
+                "size": 193
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -168,9 +1740,61 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Project-Pyrrhus-0.1.2-portable.zip",
+          "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.2/Project-Pyrrhus-0.1.2-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Project-Pyrrhus-0.1.2-portable.zip.sha256",
+          "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.2/Project-Pyrrhus-0.1.2-portable.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "Project-Pyrrhus-setup.exe",
+          "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.2/Project-Pyrrhus-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Project-Pyrrhus-setup.exe.sha256",
+          "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.2/Project-Pyrrhus-setup.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Project-Pyrrhus-0.1.1-portable.zip",
+          "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.1/Project-Pyrrhus-0.1.1-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Project-Pyrrhus-0.1.1-portable.zip.sha256",
+          "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.1/Project-Pyrrhus-0.1.1-portable.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "Project-Pyrrhus-setup.exe",
+          "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.1/Project-Pyrrhus-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Project-Pyrrhus-setup.exe.sha256",
+          "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.1/Project-Pyrrhus-setup.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/undecuple/project-pyrrhus/releases/download/v0.1.1/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -188,7 +1812,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-28T18:15:16.334686+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T23:57:56.738020+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Browser game that teaches the Python of AI engineering, in English and Portuguese: 273 exercises running real Python via Pyodide (tokens, tool calling, structured output, embeddings, RAG). All machine-verified.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -223,7 +1864,74 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-28T18:15:11.785296+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T23:57:58.156980+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Run the GTA V browser port locally on macOS: Story/Sandbox/Mods menu, persistent saves, cheat menu, mod loader",
+        "latest_release_url": "https://github.com/wakeupbrk/playgta5-macos/releases/tag/v2.0.0",
+        "latest_release_name": "v2.0.0: Story / Sandbox / Mods",
+        "release_assets": [
+          {
+            "name": "playgta5-macos-v2.0.0.zip",
+            "url": "https://github.com/wakeupbrk/playgta5-macos/releases/download/v2.0.0/playgta5-macos-v2.0.0.zip",
+            "size": 2370980
+          },
+          {
+            "name": "playgta5-macos-v2.0.0.zip.sha256",
+            "url": "https://github.com/wakeupbrk/playgta5-macos/releases/download/v2.0.0/playgta5-macos-v2.0.0.zip.sha256",
+            "size": 92
+          }
+        ],
+        "releases": [
+          {
+            "name": "v2.0.0: Story / Sandbox / Mods",
+            "url": "https://github.com/wakeupbrk/playgta5-macos/releases/tag/v2.0.0",
+            "published_at": "2026-10-28T15:29:48Z",
+            "assets": [
+              {
+                "name": "playgta5-macos-v2.0.0.zip",
+                "url": "https://github.com/wakeupbrk/playgta5-macos/releases/download/v2.0.0/playgta5-macos-v2.0.0.zip",
+                "size": 2370980
+              },
+              {
+                "name": "playgta5-macos-v2.0.0.zip.sha256",
+                "url": "https://github.com/wakeupbrk/playgta5-macos/releases/download/v2.0.0/playgta5-macos-v2.0.0.zip.sha256",
+                "size": 92
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "PlayGTA5 for macOS v1.0.0",
+            "url": "https://github.com/wakeupbrk/playgta5-macos/releases/tag/v1.0.0",
+            "published_at": "2026-10-08T15:55:04Z",
+            "assets": [
+              {
+                "name": "playgta5-macos-v1.0.0.zip",
+                "url": "https://github.com/wakeupbrk/playgta5-macos/releases/download/v1.0.0/playgta5-macos-v1.0.0.zip",
+                "size": 428358
+              },
+              {
+                "name": "playgta5-macos-v1.0.0.zip.sha256",
+                "url": "https://github.com/wakeupbrk/playgta5-macos/releases/download/v1.0.0/playgta5-macos-v1.0.0.zip.sha256",
+                "size": 92
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -238,9 +1946,31 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "playgta5-macos-v2.0.0.zip",
+          "url": "https://github.com/wakeupbrk/playgta5-macos/releases/download/v2.0.0/playgta5-macos-v2.0.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "playgta5-macos-v2.0.0.zip.sha256",
+          "url": "https://github.com/wakeupbrk/playgta5-macos/releases/download/v2.0.0/playgta5-macos-v2.0.0.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "playgta5-macos-v1.0.0.zip",
+          "url": "https://github.com/wakeupbrk/playgta5-macos/releases/download/v1.0.0/playgta5-macos-v1.0.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "playgta5-macos-v1.0.0.zip.sha256",
+          "url": "https://github.com/wakeupbrk/playgta5-macos/releases/download/v1.0.0/playgta5-macos-v1.0.0.zip.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 8,
       "relevance_status": "promising",
@@ -1400,7 +3130,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-28T11:11:18.655144+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-28T23:57:59.579911+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A Flappy Bird arcade game where you compete head-to-head against a PPO reinforcement learning agent, playable natively or in the browser via WebAssembly.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
