@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-29T11:25:00.566365+00:00",
+  "last_updated": "2026-10-29T18:20:56.088695+00:00",
   "candidates": [
     {
-      "title": "Chebestia/dispatch-tv-port",
-      "url": "https://github.com/Chebestia/dispatch-tv-port",
-      "source_name": "GitHub: Android ports",
-      "published": "2026-10-29T03:06:31Z",
-      "summary": "Unofficial port of the Dispatch story scenes to Android TV. Builds the package from your own copy of the game; contains nothing from the game.",
+      "title": "mamcjr/TOTKRecompAndroid",
+      "url": "https://github.com/mamcjr/TOTKRecompAndroid",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-10-29T13:03:14Z",
+      "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom (Switch 1.4.3) for Android - no game files included",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-29T11:24:45.350477+00:00",
+      "found_at": "2026-10-29T18:20:43.978245+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -28,22 +28,55 @@
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
       ],
-      "relevance_score": 8,
+      "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
     {
-      "title": "RanggaCasper/MostWanted-Android",
-      "url": "https://github.com/RanggaCasper/MostWanted-Android",
+      "title": "Nazatric/ProtoDroid",
+      "url": "https://github.com/Nazatric/ProtoDroid",
       "source_name": "GitHub: Android ports",
-      "published": "2026-10-29T03:18:56Z",
-      "summary": "Unofficial native Android port of Need for Speed: Most Wanted (Xbox Black Edition). The x86 code is statically recompiled to C++ with XboxXBE-Recomp and built for arm64, with a Vulkan renderer, SDL3, touch/controller/keyboard input, and extended graphics options. No emulator, no game assets included.",
+      "published": "2026-10-29T17:19:02Z",
+      "summary": "Native Port Of Prototype (2009) For Android Devices Topics: android, game, native, port, prototype, recomp",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-29T11:24:45.349288+00:00",
+      "found_at": "2026-10-29T18:20:42.173723+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "abolfazlebrahimi1791-cloud/PapaSangre-Android",
+      "url": "https://github.com/abolfazlebrahimi1791-cloud/PapaSangre-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-29T14:57:43Z",
+      "summary": "Android port of Papa Sangre (audio-only game): Kotlin + Prism engine, original gestures, screen-edge calibration, TalkBack-independent window",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T18:20:42.172524+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -62,22 +95,130 @@
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
       ],
-      "relevance_score": 12,
+      "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: recompil, port of, android port, explicit port/recompilation wording",
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
     {
-      "title": "oZiKe17/tlou-ps4-port-pc",
-      "url": "https://github.com/oZiKe17/tlou-ps4-port-pc",
-      "source_name": "GitHub: PC ports",
-      "published": "2026-10-29T03:07:03Z",
-      "summary": "Unofficial port of The Last of Us (PS4, CUSA00552, version 1.00) for Windows and Linux; does not include any game files.",
+      "title": "ArkinTide/Hardmode-Mobile-Port",
+      "url": "https://github.com/ArkinTide/Hardmode-Mobile-Port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-29T15:57:06Z",
+      "summary": "Independent Android and iOS port of Hardmode b24. Text source only; no game assets.",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-29T11:24:43.292441+00:00",
+      "found_at": "2026-10-29T18:20:42.171216+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "ios port"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "venxsa/horizon",
+      "url": "https://github.com/venxsa/horizon",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-29T18:04:12Z",
+      "summary": "Unofficial Android port of Horizon: Minecraft Java Edition 26.3 rewritten in Rust. Native APK with Vulkan, touch controls and in-app game file download.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T18:20:42.170069+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "ChupathingyCE/chupathingyce",
+      "url": "https://github.com/ChupathingyCE/chupathingyce",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-29T15:42:45Z",
+      "summary": "Halo CE: Ported for Everyone. Windows, Mac, Linux, Steam Deck, Android and FreeBSD, with online games and stats. Bring your own copy of the game. Topics: android, cross-platform, custom-edition, decompilation, dedicated-server, freebsd, game-port, halo, halo-ce, halo-combat-evolved, linux, macos, multiplayer, online-multiplayer, sdl3, split-screen, steam-deck, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T18:20:40.083893+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux, android"
+      ]
+    },
+    {
+      "title": "SpeedBreakerProject/speedbreaker-carbon",
+      "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-29T15:46:07Z",
+      "summary": "Unofficial static recompilation of the Xbox 360 version of Need for Speed: Carbon (2006): a native port for Steam Deck, Steam Machine, Steam Frame, Linux and Mac, plus a Windows beta (iPhone/iPad: sideload the experimental IPA or build it yourself). Bring your own disc: no game files included. Not affiliated with EA or Valve. Topics: apple-silicon, game-port, linux, macos, moltenvk, native-port, powerpc, racing-game, recompilation, sdl3, static-recompilation, steam-deck, steam-frame, steam-machine, steamos, vulkan, windows, xbox-360, xenonrecomp",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T18:20:36.180757+00:00",
       "check": null,
       "category": "pc",
       "platforms_guess": [
@@ -96,22 +237,80 @@
       "classification_notes": [
         "В описании обнаружены признаки PC-поддержки."
       ],
-      "relevance_score": 9,
+      "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, native port, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game, windows, linux"
       ]
     },
     {
-      "title": "minimalice92/bloodwake-recomp",
-      "url": "https://github.com/minimalice92/bloodwake-recomp",
+      "title": "GameBreaker20XX/FullRumble",
+      "url": "https://github.com/GameBreaker20XX/FullRumble",
       "source_name": "GitHub: static recompilation",
-      "published": "2026-10-29T02:48:47Z",
-      "summary": "Blood Wake (Xbox, 2001) as a native Windows game: a static recompilation you build from your own disc. Original + Remastered (4K, ultrawide, high frame rate, 17 original bugs fixed). Topics: blood-wake, directx11, game-preservation, original-xbox, pc-port, recompilation, static-recompilation, windows, xbox, xboxrecomp",
+      "published": "2026-10-29T16:11:11Z",
+      "summary": "Full Rumble — a static recompilation of NASCAR Rumble (PS1, SLUS-01068). No game files included: you supply your own disc.",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-29T11:24:39.375495+00:00",
+      "found_at": "2026-10-29T18:20:36.179378+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Tobic-99/demonfront-vita",
+      "url": "https://github.com/Tobic-99/demonfront-vita",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-29T17:18:23Z",
+      "summary": "Demon Front (IGS PGM) static recompilation and native PS Vita port. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T18:20:36.178540+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "ps vita"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "PS2recomp-swiss-team/tekken4-recomp",
+      "url": "https://github.com/PS2recomp-swiss-team/tekken4-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-29T17:56:09Z",
+      "summary": "Static recompilation of Tekken 4 (PS2) to a native Windows program with PS2Recomp. No game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T18:20:36.177813+00:00",
       "check": null,
       "category": "pc",
       "platforms_guess": [
@@ -137,6 +336,678 @@
       ]
     },
     {
+      "title": "itsinspector/NSMBWii-3DS-Recomp",
+      "url": "https://github.com/itsinspector/NSMBWii-3DS-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-29T17:59:29Z",
+      "summary": "Static recompilation of New Super Mario Bros. Wii to PC and New 3DS. Bring your own disc; no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T18:20:36.177065+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "hardsilinder/FableDroid",
+      "url": "https://github.com/hardsilinder/FableDroid",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-29T18:11:12Z",
+      "summary": "Fable II running natively on Android: static recompilation to arm64 with a Vulkan renderer. Bring your own game. Topics: android, fable-2, recompilation, vulkan, xbox-360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T18:20:36.176214+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "saschb2b/Tower-Defense",
+      "url": "https://github.com/saschb2b/Tower-Defense",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-29T17:41:57Z",
+      "summary": "Lantern Hollow: a very small tower defense at dusk in the spirit of Warcraft III custom maps. Godot 4.7, plays in the browser. Topics: browser-game, game, gdscript, godot, godot4, low-poly, tower-defense, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T18:20:31.798571+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "kai987/FPV-drone-game",
+      "url": "https://github.com/kai987/FPV-drone-game",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-29T18:08:56Z",
+      "summary": "AEROFLOW — ブラウザーで遊べるFPVドローン飛行ゲーム。6つのマップ、風向・風速の変化、昼夜の切り替え、スマートフォンのジェスチャー操作に対応。React・Three.js・TypeScript・Rust/WebAssemblyで構築。日本語・中国語・英語対応。 Topics: 3d-game, browser-game, drone, fpv, mobile-friendly, multilingual, react, rust, threejs, typescript, vite, webassembly, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T18:20:31.795400+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, webgl",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "emmeoerre/tabboz",
+      "url": "https://github.com/emmeoerre/tabboz",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-29T12:53:59Z",
+      "summary": "Mobile refit of Tabboz Simulator, based on the original game and browser port by Obscured Truckware / Andrea Bonomi.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T18:20:27.591944+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game"
+      ]
+    },
+    {
+      "title": "Chebestia/dispatch-tv-port",
+      "url": "https://github.com/Chebestia/dispatch-tv-port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-29T03:06:31Z",
+      "summary": "Unofficial port of the Dispatch story scenes to Android TV. Builds the package from your own copy of the game; contains nothing from the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T11:24:45.350477+00:00",
+      "check": {
+        "checked_at": "2026-10-29T18:20:45.500418+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial port of the Dispatch story scenes to Android TV. Builds the package from your own copy of the game; contains nothing from the game.",
+        "latest_release_url": "https://github.com/Chebestia/dispatch-tv-port/releases/tag/v1.0",
+        "latest_release_name": "Dispatch TV 1.0",
+        "release_assets": [
+          {
+            "name": "DispatchTV.apk",
+            "url": "https://github.com/Chebestia/dispatch-tv-port/releases/download/v1.0/DispatchTV.apk",
+            "size": 56067
+          },
+          {
+            "name": "herramientas.zip",
+            "url": "https://github.com/Chebestia/dispatch-tv-port/releases/download/v1.0/herramientas.zip",
+            "size": 45295839
+          }
+        ],
+        "releases": [
+          {
+            "name": "Dispatch TV 1.0",
+            "url": "https://github.com/Chebestia/dispatch-tv-port/releases/tag/v1.0",
+            "published_at": "2026-10-29T02:58:04Z",
+            "assets": [
+              {
+                "name": "DispatchTV.apk",
+                "url": "https://github.com/Chebestia/dispatch-tv-port/releases/download/v1.0/DispatchTV.apk",
+                "size": 56067
+              },
+              {
+                "name": "herramientas.zip",
+                "url": "https://github.com/Chebestia/dispatch-tv-port/releases/download/v1.0/herramientas.zip",
+                "size": 45295839
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "DispatchTV.apk",
+          "url": "https://github.com/Chebestia/dispatch-tv-port/releases/download/v1.0/DispatchTV.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "herramientas.zip",
+          "url": "https://github.com/Chebestia/dispatch-tv-port/releases/download/v1.0/herramientas.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "RanggaCasper/MostWanted-Android",
+      "url": "https://github.com/RanggaCasper/MostWanted-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-29T03:18:56Z",
+      "summary": "Unofficial native Android port of Need for Speed: Most Wanted (Xbox Black Edition). The x86 code is statically recompiled to C++ with XboxXBE-Recomp and built for arm64, with a Vulkan renderer, SDL3, touch/controller/keyboard input, and extended graphics options. No emulator, no game assets included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T11:24:45.349288+00:00",
+      "check": {
+        "checked_at": "2026-10-29T18:20:46.814263+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native Android port of Need for Speed: Most Wanted (Xbox Black Edition). The x86 code is statically recompiled to C++ with XboxXBE-Recomp and built for arm64, with a Vulkan renderer, SDL3, touch/controller/keyboard input, and extended graphics options. No emulator, no game assets included.",
+        "latest_release_url": "https://github.com/RanggaCasper/MostWanted-Android/releases/tag/v1.1.0",
+        "latest_release_name": "Most Wanted for Android v1.1.0",
+        "release_assets": [
+          {
+            "name": "MostWanted-1.1.0.apk",
+            "url": "https://github.com/RanggaCasper/MostWanted-Android/releases/download/v1.1.0/MostWanted-1.1.0.apk",
+            "size": 33739264
+          }
+        ],
+        "releases": [
+          {
+            "name": "Most Wanted for Android v1.1.0",
+            "url": "https://github.com/RanggaCasper/MostWanted-Android/releases/tag/v1.1.0",
+            "published_at": "2026-10-29T03:31:26Z",
+            "assets": [
+              {
+                "name": "MostWanted-1.1.0.apk",
+                "url": "https://github.com/RanggaCasper/MostWanted-Android/releases/download/v1.1.0/MostWanted-1.1.0.apk",
+                "size": 33739264
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Most Wanted for Android v1.0.1",
+            "url": "https://github.com/RanggaCasper/MostWanted-Android/releases/tag/v1.0.1",
+            "published_at": "2026-10-27T09:12:04Z",
+            "assets": [
+              {
+                "name": "MostWanted-1.0.1.apk",
+                "url": "https://github.com/RanggaCasper/MostWanted-Android/releases/download/v1.0.1/MostWanted-1.0.1.apk",
+                "size": 33708920
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Most Wanted for Android v1.0.0",
+            "url": "https://github.com/RanggaCasper/MostWanted-Android/releases/tag/v1.0.0",
+            "published_at": "2026-10-27T07:56:15Z",
+            "assets": [
+              {
+                "name": "MostWanted-1.0.0.apk",
+                "url": "https://github.com/RanggaCasper/MostWanted-Android/releases/download/v1.0.0/MostWanted-1.0.0.apk",
+                "size": 33708856
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "MostWanted-1.1.0.apk",
+          "url": "https://github.com/RanggaCasper/MostWanted-Android/releases/download/v1.1.0/MostWanted-1.1.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "MostWanted-1.0.1.apk",
+          "url": "https://github.com/RanggaCasper/MostWanted-Android/releases/download/v1.0.1/MostWanted-1.0.1.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "MostWanted-1.0.0.apk",
+          "url": "https://github.com/RanggaCasper/MostWanted-Android/releases/download/v1.0.0/MostWanted-1.0.0.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "oZiKe17/tlou-ps4-port-pc",
+      "url": "https://github.com/oZiKe17/tlou-ps4-port-pc",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-29T03:07:03Z",
+      "summary": "Unofficial port of The Last of Us (PS4, CUSA00552, version 1.00) for Windows and Linux; does not include any game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T11:24:43.292441+00:00",
+      "check": {
+        "checked_at": "2026-10-29T18:20:48.149552+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial port of The Last of Us (PS4, CUSA00552, version 1.00) for Windows and Linux; does not include any game files.",
+        "latest_release_url": "https://github.com/oZiKe17/tlou-ps4-port-pc/releases/tag/1.0.0",
+        "latest_release_name": "1.0.0",
+        "release_assets": [
+          {
+            "name": "README.txt",
+            "url": "https://github.com/oZiKe17/tlou-ps4-port-pc/releases/download/1.0.0/README.txt",
+            "size": 1039
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/oZiKe17/tlou-ps4-port-pc/releases/download/1.0.0/SHA256SUMS.txt",
+            "size": 200
+          },
+          {
+            "name": "TLOU-PC-windows-source.tar.gz",
+            "url": "https://github.com/oZiKe17/tlou-ps4-port-pc/releases/download/1.0.0/TLOU-PC-windows-source.tar.gz",
+            "size": 55192992
+          },
+          {
+            "name": "TLOU-PC-x86_64.AppImage",
+            "url": "https://github.com/oZiKe17/tlou-ps4-port-pc/releases/download/1.0.0/TLOU-PC-x86_64.AppImage",
+            "size": 110335168
+          }
+        ],
+        "releases": [
+          {
+            "name": "1.0.0",
+            "url": "https://github.com/oZiKe17/tlou-ps4-port-pc/releases/tag/1.0.0",
+            "published_at": "2026-10-29T02:47:57Z",
+            "assets": [
+              {
+                "name": "README.txt",
+                "url": "https://github.com/oZiKe17/tlou-ps4-port-pc/releases/download/1.0.0/README.txt",
+                "size": 1039
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/oZiKe17/tlou-ps4-port-pc/releases/download/1.0.0/SHA256SUMS.txt",
+                "size": 200
+              },
+              {
+                "name": "TLOU-PC-windows-source.tar.gz",
+                "url": "https://github.com/oZiKe17/tlou-ps4-port-pc/releases/download/1.0.0/TLOU-PC-windows-source.tar.gz",
+                "size": 55192992
+              },
+              {
+                "name": "TLOU-PC-x86_64.AppImage",
+                "url": "https://github.com/oZiKe17/tlou-ps4-port-pc/releases/download/1.0.0/TLOU-PC-x86_64.AppImage",
+                "size": 110335168
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "README.txt",
+          "url": "https://github.com/oZiKe17/tlou-ps4-port-pc/releases/download/1.0.0/README.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/oZiKe17/tlou-ps4-port-pc/releases/download/1.0.0/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "TLOU-PC-windows-source.tar.gz",
+          "url": "https://github.com/oZiKe17/tlou-ps4-port-pc/releases/download/1.0.0/TLOU-PC-windows-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "TLOU-PC-x86_64.AppImage",
+          "url": "https://github.com/oZiKe17/tlou-ps4-port-pc/releases/download/1.0.0/TLOU-PC-x86_64.AppImage",
+          "type": "desktop_package"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "minimalice92/bloodwake-recomp",
+      "url": "https://github.com/minimalice92/bloodwake-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-29T02:48:47Z",
+      "summary": "Blood Wake (Xbox, 2001) as a native Windows game: a static recompilation you build from your own disc. Original + Remastered (4K, ultrawide, high frame rate, 17 original bugs fixed). Topics: blood-wake, directx11, game-preservation, original-xbox, pc-port, recompilation, static-recompilation, windows, xbox, xboxrecomp",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T11:24:39.375495+00:00",
+      "check": {
+        "checked_at": "2026-10-29T18:20:49.468955+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Blood Wake (Xbox, 2001) as a native Windows game: a static recompilation you build from your own disc. Original + Remastered (4K, ultrawide, high frame rate, 17 original bugs fixed).",
+        "latest_release_url": "https://github.com/minimalice92/bloodwake-recomp/releases/tag/v0.2.4",
+        "latest_release_name": "Blood Wake Recomp 0.2.4",
+        "release_assets": [
+          {
+            "name": "BloodWakeRecomp-Setup-0.2.4.exe",
+            "url": "https://github.com/minimalice92/bloodwake-recomp/releases/download/v0.2.4/BloodWakeRecomp-Setup-0.2.4.exe",
+            "size": 3709308
+          }
+        ],
+        "releases": [
+          {
+            "name": "Blood Wake Recomp 0.2.4",
+            "url": "https://github.com/minimalice92/bloodwake-recomp/releases/tag/v0.2.4",
+            "published_at": "2026-10-29T02:48:47Z",
+            "assets": [
+              {
+                "name": "BloodWakeRecomp-Setup-0.2.4.exe",
+                "url": "https://github.com/minimalice92/bloodwake-recomp/releases/download/v0.2.4/BloodWakeRecomp-Setup-0.2.4.exe",
+                "size": 3709308
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Blood Wake Recomp 0.2.3",
+            "url": "https://github.com/minimalice92/bloodwake-recomp/releases/tag/v0.2.3",
+            "published_at": "2026-10-29T01:41:47Z",
+            "assets": [
+              {
+                "name": "BloodWakeRecomp-Setup-0.2.3.exe",
+                "url": "https://github.com/minimalice92/bloodwake-recomp/releases/download/v0.2.3/BloodWakeRecomp-Setup-0.2.3.exe",
+                "size": 3707969
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Blood Wake Recomp 0.2.2",
+            "url": "https://github.com/minimalice92/bloodwake-recomp/releases/tag/v0.2.2",
+            "published_at": "2026-10-29T00:47:10Z",
+            "assets": [
+              {
+                "name": "BloodWakeRecomp-Setup-0.2.2.exe",
+                "url": "https://github.com/minimalice92/bloodwake-recomp/releases/download/v0.2.2/BloodWakeRecomp-Setup-0.2.2.exe",
+                "size": 3702752
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Blood Wake Recomp 0.2.1",
+            "url": "https://github.com/minimalice92/bloodwake-recomp/releases/tag/v0.2.1",
+            "published_at": "2026-10-29T00:21:42Z",
+            "assets": [
+              {
+                "name": "BloodWakeRecomp-Setup-0.2.1.exe",
+                "url": "https://github.com/minimalice92/bloodwake-recomp/releases/download/v0.2.1/BloodWakeRecomp-Setup-0.2.1.exe",
+                "size": 3702614
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Blood Wake Recomp 0.2.0",
+            "url": "https://github.com/minimalice92/bloodwake-recomp/releases/tag/v0.2.0",
+            "published_at": "2026-10-28T22:42:14Z",
+            "assets": [
+              {
+                "name": "BloodWakeRecomp-Setup-0.2.0.exe",
+                "url": "https://github.com/minimalice92/bloodwake-recomp/releases/download/v0.2.0/BloodWakeRecomp-Setup-0.2.0.exe",
+                "size": 3700431
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Blood Wake Recomp 0.1.0",
+            "url": "https://github.com/minimalice92/bloodwake-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-10-28T13:43:42Z",
+            "assets": [
+              {
+                "name": "BloodWakeRecomp-Setup-0.1.0.exe",
+                "url": "https://github.com/minimalice92/bloodwake-recomp/releases/download/v0.1.0/BloodWakeRecomp-Setup-0.1.0.exe",
+                "size": 3694525
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "BloodWakeRecomp-Setup-0.2.4.exe",
+          "url": "https://github.com/minimalice92/bloodwake-recomp/releases/download/v0.2.4/BloodWakeRecomp-Setup-0.2.4.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "BloodWakeRecomp-Setup-0.2.3.exe",
+          "url": "https://github.com/minimalice92/bloodwake-recomp/releases/download/v0.2.3/BloodWakeRecomp-Setup-0.2.3.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "BloodWakeRecomp-Setup-0.2.2.exe",
+          "url": "https://github.com/minimalice92/bloodwake-recomp/releases/download/v0.2.2/BloodWakeRecomp-Setup-0.2.2.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "BloodWakeRecomp-Setup-0.2.1.exe",
+          "url": "https://github.com/minimalice92/bloodwake-recomp/releases/download/v0.2.1/BloodWakeRecomp-Setup-0.2.1.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "BloodWakeRecomp-Setup-0.2.0.exe",
+          "url": "https://github.com/minimalice92/bloodwake-recomp/releases/download/v0.2.0/BloodWakeRecomp-Setup-0.2.0.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "BloodWakeRecomp-Setup-0.1.0.exe",
+          "url": "https://github.com/minimalice92/bloodwake-recomp/releases/download/v0.1.0/BloodWakeRecomp-Setup-0.1.0.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
       "title": "shervinemp/TekkenDarkResurrection-Wii",
       "url": "https://github.com/shervinemp/TekkenDarkResurrection-Wii",
       "source_name": "GitHub: static recompilation",
@@ -145,7 +1016,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T11:24:39.374321+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-29T18:20:50.864015+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Tekken: Dark Resurrection (PSP) static recompilation for the Nintendo Wii. Source only; no game assets. Bring your own legally owned copy.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -172,7 +1060,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T11:24:39.373148+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-29T18:20:52.196423+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "wii-port",
+        "description": "Unofficial Burnout 3: Takedown (PS2) static recompilation for the Nintendo Wii. Source only; no game assets. Bring your own legally owned copy.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -199,7 +1104,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T11:24:39.372085+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-29T18:20:53.477793+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Dead Space (Xbox 360) on the Nintendo Switch: a static recompilation with ReXGlue and a deko3d renderer. Bring your own game.",
+        "latest_release_url": "https://github.com/VasilkovND/ds1-nx/releases/tag/v1.0.0",
+        "latest_release_name": "ds1-nx 1.0.0",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "ds1-nx 1.0.0",
+            "url": "https://github.com/VasilkovND/ds1-nx/releases/tag/v1.0.0",
+            "published_at": "2026-10-29T07:06:49Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -3775,7 +4706,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-28T11:11:18.653890+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-29T18:20:54.782118+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "1999 Virtual Life browser reimplementation with Rust/WebAssembly, WebGPU and original game resources tracked in Git LFS",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
