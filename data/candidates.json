@@ -1,82 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-29T18:20:56.088695+00:00",
+  "last_updated": "2026-10-29T23:53:30.275171+00:00",
   "candidates": [
     {
-      "title": "mamcjr/TOTKRecompAndroid",
-      "url": "https://github.com/mamcjr/TOTKRecompAndroid",
-      "source_name": "GitHub: Android recompilation",
-      "published": "2026-10-29T13:03:14Z",
-      "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom (Switch 1.4.3) for Android - no game files included",
-      "status": "unverified",
-      "browser_playable": "unknown",
-      "found_at": "2026-10-29T18:20:43.978245+00:00",
-      "check": null,
-      "category": "android",
-      "platforms_guess": [
-        "Android"
-      ],
-      "category_evidence": {
-        "browser_terms": [],
-        "android_terms": [
-          "android"
-        ],
-        "pc_terms": [],
-        "other_platform_terms": []
-      },
-      "build_links": [],
-      "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
-      ],
-      "relevance_score": 11,
-      "relevance_status": "promising",
-      "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
-        "Есть игровые/платформенные признаки: game, android"
-      ]
-    },
-    {
-      "title": "Nazatric/ProtoDroid",
-      "url": "https://github.com/Nazatric/ProtoDroid",
+      "title": "UnknownSecurity/grimoire-mobile",
+      "url": "https://github.com/UnknownSecurity/grimoire-mobile",
       "source_name": "GitHub: Android ports",
-      "published": "2026-10-29T17:19:02Z",
-      "summary": "Native Port Of Prototype (2009) For Android Devices Topics: android, game, native, port, prototype, recomp",
+      "published": "2026-10-29T14:57:07Z",
+      "summary": "Grimoire Exodus Mobile is the standalone Android port of Grimoire Exodus. It owns its AQW client, uses the original HARMAN AIR AVM2 runtime by default, and draws the Grimoire command overlay above the live game. Topics: aqw, bot, grimoire",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-29T18:20:42.173723+00:00",
-      "check": null,
-      "category": "android",
-      "platforms_guess": [
-        "Android"
-      ],
-      "category_evidence": {
-        "browser_terms": [],
-        "android_terms": [
-          "android"
-        ],
-        "pc_terms": [],
-        "other_platform_terms": []
-      },
-      "build_links": [],
-      "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
-      ],
-      "relevance_score": 11,
-      "relevance_status": "promising",
-      "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: port of, native port, explicit port/recompilation wording",
-        "Есть игровые/платформенные признаки: game, android"
-      ]
-    },
-    {
-      "title": "abolfazlebrahimi1791-cloud/PapaSangre-Android",
-      "url": "https://github.com/abolfazlebrahimi1791-cloud/PapaSangre-Android",
-      "source_name": "GitHub: Android ports",
-      "published": "2026-10-29T14:57:43Z",
-      "summary": "Android port of Papa Sangre (audio-only game): Kotlin + Prism engine, original gestures, screen-edge calibration, TalkBack-independent window",
-      "status": "unverified",
-      "browser_playable": "unknown",
-      "found_at": "2026-10-29T18:20:42.172524+00:00",
+      "found_at": "2026-10-29T23:53:15.356878+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -95,6 +29,658 @@
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
       ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "AlexisRqs/pmd-vita",
+      "url": "https://github.com/AlexisRqs/pmd-vita",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-29T19:04:18Z",
+      "summary": "PS Vita source port — physical Vita validation pending. No game files or VPK releases.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T23:53:11.375389+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "ps vita"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "AlexisRqs/minishcap-vita",
+      "url": "https://github.com/AlexisRqs/minishcap-vita",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-29T19:04:27Z",
+      "summary": "PS Vita source port — physical Vita validation pending. No game files or VPK releases.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T23:53:11.374571+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "ps vita"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "AlexisRqs/spire-vita",
+      "url": "https://github.com/AlexisRqs/spire-vita",
+      "source_name": "GitHub: source ports",
+      "published": "2026-10-29T19:04:42Z",
+      "summary": "PS Vita source port — physical Vita validation pending. No game files or VPK releases.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T23:53:11.373723+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "ps vita"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "dq9-remastered/DQ9-Remastered",
+      "url": "https://github.com/dq9-remastered/DQ9-Remastered",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-29T21:32:14Z",
+      "summary": "Dragon Quest IX (EU) research: Nintendo DS decompilation tooling, ARM/Thumb static recompilation, and experimental SDL2/Godot native runtime. No game data. Topics: cpp, decompilation, dq9, dqix, dragon-quest, dragon-quest-ix, godot, nintendo-ds, reverse-engineering, sdl2, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T23:53:09.254558+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "seanrb93/ts-rust",
+      "url": "https://github.com/seanrb93/ts-rust",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-29T23:48:06Z",
+      "summary": "A static recompilation of the PS2 game TimeSplitters written in Rust.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T23:53:09.253617+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "dalves408/nhlhitzpro-recomp",
+      "url": "https://github.com/dalves408/nhlhitzpro-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-29T23:32:44Z",
+      "summary": "NHL Hitz Pro (Xbox, 2003) for Windows PC: a static recompilation with a Direct3D 11 renderer, 4-player controller support and an installer. Bring your own disc; no game content included. Topics: direct3d11, game-preservation, hockey, nhl-hitz, original-xbox, recompilation, static-recompilation, windows, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T23:53:09.252511+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "saschb2b/Groundhold",
+      "url": "https://github.com/saschb2b/Groundhold",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-29T23:23:10Z",
+      "summary": "Groundhold: a co-op and competitive tower defense where Builders from every shore hold one another's ground. Godot 4.7, plays in the browser. Topics: browser-game, game, gdscript, godot, godot4, low-poly, tower-defense, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T23:53:05.071169+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "Glenn332/Empire-At-War-Browser-Edition",
+      "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-29T23:30:17Z",
+      "summary": "Star Wars: Empire at War and Forces of Corruption in your browser, on a new engine built for huge battles. Bring your own copy of the game. Topics: browser-game, empire-at-war, fan-project, game-engine, modding, rts, star-wars, threejs, webassembly, webgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T23:53:05.068567+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "Virtastic/d2-web",
+      "url": "https://github.com/Virtastic/d2-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-29T23:50:47Z",
+      "summary": "Diablo II: LoD 1.13c engine reimplementation in WebAssembly, played in the browser (bring your own game files)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T23:53:05.066957+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: reimplementation",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
+    {
+      "title": "mamcjr/TOTKRecompAndroid",
+      "url": "https://github.com/mamcjr/TOTKRecompAndroid",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-10-29T13:03:14Z",
+      "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom (Switch 1.4.3) for Android - no game files included",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T18:20:43.978245+00:00",
+      "check": {
+        "checked_at": "2026-10-29T23:53:18.622126+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom (Switch 1.4.3) for Android - no game files included",
+        "latest_release_url": "https://github.com/mamcjr/TOTKRecompAndroid/releases/tag/v0.0.1-alpha",
+        "latest_release_name": "TOTKRecompAndroid 0.0.1 (alpha 1)",
+        "release_assets": [
+          {
+            "name": "TOTKRecompAndroid-0.0.1-alpha.apk",
+            "url": "https://github.com/mamcjr/TOTKRecompAndroid/releases/download/v0.0.1-alpha/TOTKRecompAndroid-0.0.1-alpha.apk",
+            "size": 92953329
+          }
+        ],
+        "releases": [
+          {
+            "name": "TOTKRecompAndroid 0.0.1 (alpha 1)",
+            "url": "https://github.com/mamcjr/TOTKRecompAndroid/releases/tag/v0.0.1-alpha",
+            "published_at": "2026-10-29T12:25:57Z",
+            "assets": [
+              {
+                "name": "TOTKRecompAndroid-0.0.1-alpha.apk",
+                "url": "https://github.com/mamcjr/TOTKRecompAndroid/releases/download/v0.0.1-alpha/TOTKRecompAndroid-0.0.1-alpha.apk",
+                "size": 92953329
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "TOTKRecompAndroid-0.0.1-alpha.apk",
+          "url": "https://github.com/mamcjr/TOTKRecompAndroid/releases/download/v0.0.1-alpha/TOTKRecompAndroid-0.0.1-alpha.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Nazatric/ProtoDroid",
+      "url": "https://github.com/Nazatric/ProtoDroid",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-29T17:19:02Z",
+      "summary": "Native Port Of Prototype (2009) For Android Devices Topics: android, game, native, port, prototype, recomp",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T18:20:42.173723+00:00",
+      "check": {
+        "checked_at": "2026-10-29T23:53:19.987146+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Port Of Prototype (2009) For Android Devices",
+        "latest_release_url": "https://github.com/Nazatric/ProtoDroid/releases/tag/protodroid-f77f103",
+        "latest_release_name": "ProtoDroid f77f103",
+        "release_assets": [
+          {
+            "name": "prototype.apk",
+            "url": "https://github.com/Nazatric/ProtoDroid/releases/download/protodroid-f77f103/prototype.apk",
+            "size": 46454975
+          }
+        ],
+        "releases": [
+          {
+            "name": "ProtoDroid f77f103",
+            "url": "https://github.com/Nazatric/ProtoDroid/releases/tag/protodroid-f77f103",
+            "published_at": "2026-10-29T20:54:03Z",
+            "assets": [
+              {
+                "name": "prototype.apk",
+                "url": "https://github.com/Nazatric/ProtoDroid/releases/download/protodroid-f77f103/prototype.apk",
+                "size": 46454975
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "ProtoDroid e61989a",
+            "url": "https://github.com/Nazatric/ProtoDroid/releases/tag/protodroid-e61989a",
+            "published_at": "2026-10-29T07:47:57Z",
+            "assets": [
+              {
+                "name": "prototype.apk",
+                "url": "https://github.com/Nazatric/ProtoDroid/releases/download/protodroid-e61989a/prototype.apk",
+                "size": 46454975
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "ProtoDroid c76c451",
+            "url": "https://github.com/Nazatric/ProtoDroid/releases/tag/protodroid-c76c451",
+            "published_at": "2026-10-29T09:11:37Z",
+            "assets": [
+              {
+                "name": "prototype.apk",
+                "url": "https://github.com/Nazatric/ProtoDroid/releases/download/protodroid-c76c451/prototype.apk",
+                "size": 46459071
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "ProtoDroid b729035",
+            "url": "https://github.com/Nazatric/ProtoDroid/releases/tag/protodroid-b729035",
+            "published_at": "2026-10-29T20:57:41Z",
+            "assets": [
+              {
+                "name": "prototype.apk",
+                "url": "https://github.com/Nazatric/ProtoDroid/releases/download/protodroid-b729035/prototype.apk",
+                "size": 46459071
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "ProtoDroid 7e16098",
+            "url": "https://github.com/Nazatric/ProtoDroid/releases/tag/protodroid-7e16098",
+            "published_at": "2026-10-29T12:56:27Z",
+            "assets": [
+              {
+                "name": "prototype.apk",
+                "url": "https://github.com/Nazatric/ProtoDroid/releases/download/protodroid-7e16098/prototype.apk",
+                "size": 46459071
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "ProtoDroid 599d17f",
+            "url": "https://github.com/Nazatric/ProtoDroid/releases/tag/protodroid-599d17f",
+            "published_at": "2026-10-29T06:38:01Z",
+            "assets": [
+              {
+                "name": "prototype.apk",
+                "url": "https://github.com/Nazatric/ProtoDroid/releases/download/protodroid-599d17f/prototype.apk",
+                "size": 46463167
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "ProtoDroid 23ff58f",
+            "url": "https://github.com/Nazatric/ProtoDroid/releases/tag/protodroid-23ff58f",
+            "published_at": "2026-10-29T13:32:46Z",
+            "assets": [
+              {
+                "name": "prototype.apk",
+                "url": "https://github.com/Nazatric/ProtoDroid/releases/download/protodroid-23ff58f/prototype.apk",
+                "size": 46459071
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "prototype.apk",
+          "url": "https://github.com/Nazatric/ProtoDroid/releases/download/protodroid-f77f103/prototype.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "prototype.apk",
+          "url": "https://github.com/Nazatric/ProtoDroid/releases/download/protodroid-e61989a/prototype.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "prototype.apk",
+          "url": "https://github.com/Nazatric/ProtoDroid/releases/download/protodroid-c76c451/prototype.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "prototype.apk",
+          "url": "https://github.com/Nazatric/ProtoDroid/releases/download/protodroid-b729035/prototype.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "prototype.apk",
+          "url": "https://github.com/Nazatric/ProtoDroid/releases/download/protodroid-7e16098/prototype.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "prototype.apk",
+          "url": "https://github.com/Nazatric/ProtoDroid/releases/download/protodroid-599d17f/prototype.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "prototype.apk",
+          "url": "https://github.com/Nazatric/ProtoDroid/releases/download/protodroid-23ff58f/prototype.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "abolfazlebrahimi1791-cloud/PapaSangre-Android",
+      "url": "https://github.com/abolfazlebrahimi1791-cloud/PapaSangre-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-29T14:57:43Z",
+      "summary": "Android port of Papa Sangre (audio-only game): Kotlin + Prism engine, original gestures, screen-edge calibration, TalkBack-independent window",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T18:20:42.172524+00:00",
+      "check": {
+        "checked_at": "2026-10-29T23:53:21.447662+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Android port of Papa Sangre (audio-only game): Kotlin + Prism engine, original gestures, screen-edge calibration, TalkBack-independent window",
+        "latest_release_url": "https://github.com/abolfazlebrahimi1791-cloud/PapaSangre-Android/releases/tag/v1.0.1",
+        "latest_release_name": "Papa Sangre Android v1.0.1",
+        "release_assets": [
+          {
+            "name": "PapaSangre-Android-v1.0.1-release.apk",
+            "url": "https://github.com/abolfazlebrahimi1791-cloud/PapaSangre-Android/releases/download/v1.0.1/PapaSangre-Android-v1.0.1-release.apk",
+            "size": 106409528
+          }
+        ],
+        "releases": [
+          {
+            "name": "Papa Sangre Android v1.0.1",
+            "url": "https://github.com/abolfazlebrahimi1791-cloud/PapaSangre-Android/releases/tag/v1.0.1",
+            "published_at": "2026-10-29T14:57:43Z",
+            "assets": [
+              {
+                "name": "PapaSangre-Android-v1.0.1-release.apk",
+                "url": "https://github.com/abolfazlebrahimi1791-cloud/PapaSangre-Android/releases/download/v1.0.1/PapaSangre-Android-v1.0.1-release.apk",
+                "size": 106409528
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Papa Sangre Android v1.0.0",
+            "url": "https://github.com/abolfazlebrahimi1791-cloud/PapaSangre-Android/releases/tag/v1.0.0",
+            "published_at": "2026-10-29T13:31:17Z",
+            "assets": [
+              {
+                "name": "PapaSangre-Android-release.apk",
+                "url": "https://github.com/abolfazlebrahimi1791-cloud/PapaSangre-Android/releases/download/v1.0.0/PapaSangre-Android-release.apk",
+                "size": 106407676
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "PapaSangre-Android-v1.0.1-release.apk",
+          "url": "https://github.com/abolfazlebrahimi1791-cloud/PapaSangre-Android/releases/download/v1.0.1/PapaSangre-Android-v1.0.1-release.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "PapaSangre-Android-release.apk",
+          "url": "https://github.com/abolfazlebrahimi1791-cloud/PapaSangre-Android/releases/download/v1.0.0/PapaSangre-Android-release.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -111,7 +697,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T18:20:42.171216+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-29T23:53:22.854772+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Independent Android and iOS port of Hardmode b24. Text source only; no game assets.",
+        "latest_release_url": "https://github.com/ArkinTide/Hardmode-Mobile-Port/releases/tag/1.0.7",
+        "latest_release_name": "1.0.7",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "1.0.7",
+            "url": "https://github.com/ArkinTide/Hardmode-Mobile-Port/releases/tag/1.0.7",
+            "published_at": "2026-10-29T15:57:10Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -147,7 +759,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T18:20:42.170069+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-29T23:53:24.253537+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "android-port",
+        "description": "Unofficial Android port of Horizon: Minecraft Java Edition 26.3 rewritten in Rust. Native APK with Vulkan, touch controls and in-app game file download.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -181,7 +810,1491 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T18:20:40.083893+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-29T23:53:25.832366+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Halo CE: Ported for Everyone. Windows, Mac, Linux, Steam Deck, Android and FreeBSD, with online games and stats. Bring your own copy of the game.",
+        "latest_release_url": "https://github.com/ChupathingyCE/chupathingyce/releases/tag/nightly",
+        "latest_release_name": "Chupathingy 0.8.1b-nightly.39",
+        "release_assets": [
+          {
+            "name": "chupathingyce-android-debug.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android-debug.zip",
+            "size": 40751063
+          },
+          {
+            "name": "chupathingyce-android-debug.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android-debug.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-android-release.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android-release.zip",
+            "size": 40271462
+          },
+          {
+            "name": "chupathingyce-android-release.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android-release.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-android64-debug.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android64-debug.zip",
+            "size": 59092888
+          },
+          {
+            "name": "chupathingyce-android64-debug.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android64-debug.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-android64-release.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android64-release.zip",
+            "size": 63696423
+          },
+          {
+            "name": "chupathingyce-android64-release.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android64-release.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-linux-debug.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux-debug.zip",
+            "size": 43588674
+          },
+          {
+            "name": "chupathingyce-linux-debug.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux-debug.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-linux-release.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux-release.zip",
+            "size": 45088870
+          },
+          {
+            "name": "chupathingyce-linux-release.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux-release.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-linux64-debug.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-debug.zip",
+            "size": 44541602
+          },
+          {
+            "name": "chupathingyce-linux64-debug.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-debug.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-linux64-release.AppImage",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-release.AppImage",
+            "size": 21670392
+          },
+          {
+            "name": "chupathingyce-linux64-release.AppImage.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-release.AppImage.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-linux64-release.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-release.zip",
+            "size": 42892266
+          },
+          {
+            "name": "chupathingyce-linux64-release.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-release.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-macos-debug.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-macos-debug.zip",
+            "size": 28245097
+          },
+          {
+            "name": "chupathingyce-macos-debug.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-macos-debug.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-macos-release.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-macos-release.zip",
+            "size": 28192080
+          },
+          {
+            "name": "chupathingyce-macos-release.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-macos-release.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-server-linux-arm64.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-arm64.zip",
+            "size": 21682128
+          },
+          {
+            "name": "chupathingyce-server-linux-arm64.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-arm64.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-server-linux-x64.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-x64.zip",
+            "size": 21859408
+          },
+          {
+            "name": "chupathingyce-server-linux-x64.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-x64.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-server-linux-x86.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-x86.zip",
+            "size": 21717552
+          },
+          {
+            "name": "chupathingyce-server-linux-x86.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-x86.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-windows-debug.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows-debug.zip",
+            "size": 24939783
+          },
+          {
+            "name": "chupathingyce-windows-debug.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows-debug.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-windows-release.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows-release.zip",
+            "size": 24887559
+          },
+          {
+            "name": "chupathingyce-windows-release.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows-release.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-windows64-debug.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows64-debug.zip",
+            "size": 26120455
+          },
+          {
+            "name": "chupathingyce-windows64-debug.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows64-debug.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "chupathingyce-windows64-release.zip",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows64-release.zip",
+            "size": 25945351
+          },
+          {
+            "name": "chupathingyce-windows64-release.zip.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows64-release.zip.sig",
+            "size": 129
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/SHA256SUMS",
+            "size": 1796
+          },
+          {
+            "name": "SHA256SUMS.sig",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/SHA256SUMS.sig",
+            "size": 129
+          }
+        ],
+        "releases": [
+          {
+            "name": "Chupathingy 0.8.1b-nightly.39",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/tag/nightly",
+            "published_at": "2026-10-29T10:55:33Z",
+            "assets": [
+              {
+                "name": "chupathingyce-android-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android-debug.zip",
+                "size": 40751063
+              },
+              {
+                "name": "chupathingyce-android-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-android-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android-release.zip",
+                "size": 40271462
+              },
+              {
+                "name": "chupathingyce-android-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-android64-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android64-debug.zip",
+                "size": 59092888
+              },
+              {
+                "name": "chupathingyce-android64-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android64-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-android64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android64-release.zip",
+                "size": 63696423
+              },
+              {
+                "name": "chupathingyce-android64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux-debug.zip",
+                "size": 43588674
+              },
+              {
+                "name": "chupathingyce-linux-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux-release.zip",
+                "size": 45088870
+              },
+              {
+                "name": "chupathingyce-linux-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux64-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-debug.zip",
+                "size": 44541602
+              },
+              {
+                "name": "chupathingyce-linux64-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux64-release.AppImage",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-release.AppImage",
+                "size": 21670392
+              },
+              {
+                "name": "chupathingyce-linux64-release.AppImage.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-release.AppImage.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-release.zip",
+                "size": 42892266
+              },
+              {
+                "name": "chupathingyce-linux64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-macos-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-macos-debug.zip",
+                "size": 28245097
+              },
+              {
+                "name": "chupathingyce-macos-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-macos-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-macos-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-macos-release.zip",
+                "size": 28192080
+              },
+              {
+                "name": "chupathingyce-macos-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-macos-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-arm64.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-arm64.zip",
+                "size": 21682128
+              },
+              {
+                "name": "chupathingyce-server-linux-arm64.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-arm64.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-x64.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-x64.zip",
+                "size": 21859408
+              },
+              {
+                "name": "chupathingyce-server-linux-x64.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-x64.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-x86.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-x86.zip",
+                "size": 21717552
+              },
+              {
+                "name": "chupathingyce-server-linux-x86.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-x86.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows-debug.zip",
+                "size": 24939783
+              },
+              {
+                "name": "chupathingyce-windows-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows-release.zip",
+                "size": 24887559
+              },
+              {
+                "name": "chupathingyce-windows-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows64-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows64-debug.zip",
+                "size": 26120455
+              },
+              {
+                "name": "chupathingyce-windows64-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows64-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows64-release.zip",
+                "size": 25945351
+              },
+              {
+                "name": "chupathingyce-windows64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/SHA256SUMS",
+                "size": 1796
+              },
+              {
+                "name": "SHA256SUMS.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/SHA256SUMS.sig",
+                "size": 129
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Chupathingy v0.8.1c",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/tag/v0.8.1c",
+            "published_at": "2026-10-28T16:56:04Z",
+            "assets": [
+              {
+                "name": "chupathingyce-android-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-android-release.zip",
+                "size": 40201830
+              },
+              {
+                "name": "chupathingyce-android-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-android-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-android64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-android64-release.zip",
+                "size": 63536679
+              },
+              {
+                "name": "chupathingyce-android64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-android64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-linux-release.zip",
+                "size": 44956734
+              },
+              {
+                "name": "chupathingyce-linux-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-linux-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-linux64-release.zip",
+                "size": 42786266
+              },
+              {
+                "name": "chupathingyce-linux64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-linux64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-macos-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-macos-release.zip",
+                "size": 28156281
+              },
+              {
+                "name": "chupathingyce-macos-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-macos-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-arm64.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-server-linux-arm64.zip",
+                "size": 21631888
+              },
+              {
+                "name": "chupathingyce-server-linux-arm64.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-server-linux-arm64.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-x64.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-server-linux-x64.zip",
+                "size": 21809856
+              },
+              {
+                "name": "chupathingyce-server-linux-x64.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-server-linux-x64.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-x86.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-server-linux-x86.zip",
+                "size": 21668624
+              },
+              {
+                "name": "chupathingyce-server-linux-x86.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-server-linux-x86.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-windows-release.zip",
+                "size": 24844039
+              },
+              {
+                "name": "chupathingyce-windows-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-windows-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-windows64-release.zip",
+                "size": 25899783
+              },
+              {
+                "name": "chupathingyce-windows64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-windows64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/SHA256SUMS",
+                "size": 1691
+              },
+              {
+                "name": "SHA256SUMS.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/SHA256SUMS.sig",
+                "size": 129
+              },
+              {
+                "name": "updates.json",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/updates.json",
+                "size": 4058
+              },
+              {
+                "name": "updates.json.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/updates.json.sig",
+                "size": 129
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Chupathingy v0.8.1b",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/tag/v0.8.1b",
+            "published_at": "2026-10-28T12:44:08Z",
+            "assets": [
+              {
+                "name": "chupathingyce-android-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-android-release.zip",
+                "size": 40201830
+              },
+              {
+                "name": "chupathingyce-android-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-android-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-android64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-android64-release.zip",
+                "size": 63528487
+              },
+              {
+                "name": "chupathingyce-android64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-android64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-linux-release.zip",
+                "size": 44585470
+              },
+              {
+                "name": "chupathingyce-linux-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-linux-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-linux64-release.zip",
+                "size": 42780338
+              },
+              {
+                "name": "chupathingyce-linux64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-linux64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-macos-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-macos-release.zip",
+                "size": 28155112
+              },
+              {
+                "name": "chupathingyce-macos-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-macos-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-arm64.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-server-linux-arm64.zip",
+                "size": 21630608
+              },
+              {
+                "name": "chupathingyce-server-linux-arm64.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-server-linux-arm64.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-x64.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-server-linux-x64.zip",
+                "size": 21808672
+              },
+              {
+                "name": "chupathingyce-server-linux-x64.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-server-linux-x64.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-x86.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-server-linux-x86.zip",
+                "size": 21667316
+              },
+              {
+                "name": "chupathingyce-server-linux-x86.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-server-linux-x86.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-windows-release.zip",
+                "size": 24842503
+              },
+              {
+                "name": "chupathingyce-windows-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-windows-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-windows64-release.zip",
+                "size": 25898759
+              },
+              {
+                "name": "chupathingyce-windows64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-windows64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/SHA256SUMS",
+                "size": 1691
+              },
+              {
+                "name": "SHA256SUMS.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/SHA256SUMS.sig",
+                "size": 129
+              },
+              {
+                "name": "updates.json",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/updates.json",
+                "size": 4058
+              },
+              {
+                "name": "updates.json.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/updates.json.sig",
+                "size": 129
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Chupathingy v0.8.1c (debug builds)",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/tag/v0.8.1c-debug",
+            "published_at": "2026-10-28T16:56:59Z",
+            "assets": [
+              {
+                "name": "chupathingyce-android-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-android-debug.zip",
+                "size": 40742871
+              },
+              {
+                "name": "chupathingyce-android-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-android-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-android64-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-android64-debug.zip",
+                "size": 58965912
+              },
+              {
+                "name": "chupathingyce-android64-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-android64-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-linux-debug.zip",
+                "size": 43490878
+              },
+              {
+                "name": "chupathingyce-linux-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-linux-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux64-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-linux64-debug.zip",
+                "size": 44442802
+              },
+              {
+                "name": "chupathingyce-linux64-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-linux64-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-macos-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-macos-debug.zip",
+                "size": 28212373
+              },
+              {
+                "name": "chupathingyce-macos-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-macos-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-windows-debug.zip",
+                "size": 24897287
+              },
+              {
+                "name": "chupathingyce-windows-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-windows-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows64-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-windows64-debug.zip",
+                "size": 26076935
+              },
+              {
+                "name": "chupathingyce-windows64-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-windows64-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/SHA256SUMS",
+                "size": 1691
+              },
+              {
+                "name": "SHA256SUMS.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/SHA256SUMS.sig",
+                "size": 129
+              },
+              {
+                "name": "updates.json",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/updates.json",
+                "size": 4058
+              },
+              {
+                "name": "updates.json.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/updates.json.sig",
+                "size": 129
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Chupathingy 0.8.1c-coldsnap.2-testing.17 (test builds, debug)",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/tag/v0.8.1c-coldsnap-testing-debug",
+            "published_at": "2026-10-28T20:16:30Z",
+            "assets": [
+              {
+                "name": "chupathingyce-android-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-android-debug.zip",
+                "size": 40746967
+              },
+              {
+                "name": "chupathingyce-android-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-android-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-android64-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-android64-debug.zip",
+                "size": 59019160
+              },
+              {
+                "name": "chupathingyce-android64-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-android64-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-linux-debug.zip",
+                "size": 43527506
+              },
+              {
+                "name": "chupathingyce-linux-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-linux-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux64-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-linux64-debug.zip",
+                "size": 44480882
+              },
+              {
+                "name": "chupathingyce-linux64-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-linux64-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-macos-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-macos-debug.zip",
+                "size": 28223423
+              },
+              {
+                "name": "chupathingyce-macos-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-macos-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-windows-debug.zip",
+                "size": 24905991
+              },
+              {
+                "name": "chupathingyce-windows-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-windows-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows64-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-windows64-debug.zip",
+                "size": 26086151
+              },
+              {
+                "name": "chupathingyce-windows64-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-windows64-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/SHA256SUMS",
+                "size": 1691
+              },
+              {
+                "name": "SHA256SUMS.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/SHA256SUMS.sig",
+                "size": 129
+              },
+              {
+                "name": "updates.json",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/updates.json",
+                "size": 4318
+              },
+              {
+                "name": "updates.json.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/updates.json.sig",
+                "size": 129
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Chupathingy 0.8.1c-coldsnap.2-testing.17 (test builds)",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/tag/v0.8.1c-coldsnap-testing",
+            "published_at": "2026-10-28T20:15:08Z",
+            "assets": [
+              {
+                "name": "chupathingyce-android-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-android-release.zip",
+                "size": 40205926
+              },
+              {
+                "name": "chupathingyce-android-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-android-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-android64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-android64-release.zip",
+                "size": 63614503
+              },
+              {
+                "name": "chupathingyce-android64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-android64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-linux-release.zip",
+                "size": 45011994
+              },
+              {
+                "name": "chupathingyce-linux-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-linux-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-linux64-release.zip",
+                "size": 42831730
+              },
+              {
+                "name": "chupathingyce-linux64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-linux64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux64.AppImage",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-linux64.AppImage",
+                "size": 21666296
+              },
+              {
+                "name": "chupathingyce-macos-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-macos-release.zip",
+                "size": 28168241
+              },
+              {
+                "name": "chupathingyce-macos-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-macos-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-arm64.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-server-linux-arm64.zip",
+                "size": 21649528
+              },
+              {
+                "name": "chupathingyce-server-linux-arm64.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-server-linux-arm64.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-x64.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-server-linux-x64.zip",
+                "size": 21827048
+              },
+              {
+                "name": "chupathingyce-server-linux-x64.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-server-linux-x64.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-x86.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-server-linux-x86.zip",
+                "size": 21685028
+              },
+              {
+                "name": "chupathingyce-server-linux-x86.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-server-linux-x86.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-windows-release.zip",
+                "size": 24856839
+              },
+              {
+                "name": "chupathingyce-windows-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-windows-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-windows64-release.zip",
+                "size": 25913607
+              },
+              {
+                "name": "chupathingyce-windows64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-windows64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/SHA256SUMS",
+                "size": 1691
+              },
+              {
+                "name": "SHA256SUMS.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/SHA256SUMS.sig",
+                "size": 129
+              },
+              {
+                "name": "updates.json",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/updates.json",
+                "size": 4318
+              },
+              {
+                "name": "updates.json.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/updates.json.sig",
+                "size": 129
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Chupathingy v0.8.1b (debug builds)",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/tag/v0.8.1b-debug",
+            "published_at": "2026-10-28T12:44:56Z",
+            "assets": [
+              {
+                "name": "chupathingyce-android-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-android-debug.zip",
+                "size": 40742871
+              },
+              {
+                "name": "chupathingyce-android-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-android-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-android64-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-android64-debug.zip",
+                "size": 58961816
+              },
+              {
+                "name": "chupathingyce-android64-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-android64-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-linux-debug.zip",
+                "size": 43487170
+              },
+              {
+                "name": "chupathingyce-linux-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-linux-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux64-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-linux64-debug.zip",
+                "size": 44434730
+              },
+              {
+                "name": "chupathingyce-linux64-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-linux64-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-macos-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-macos-debug.zip",
+                "size": 28210548
+              },
+              {
+                "name": "chupathingyce-macos-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-macos-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-windows-debug.zip",
+                "size": 24896263
+              },
+              {
+                "name": "chupathingyce-windows-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-windows-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows64-debug.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-windows64-debug.zip",
+                "size": 26075911
+              },
+              {
+                "name": "chupathingyce-windows64-debug.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-windows64-debug.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/SHA256SUMS",
+                "size": 1691
+              },
+              {
+                "name": "SHA256SUMS.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/SHA256SUMS.sig",
+                "size": 129
+              },
+              {
+                "name": "updates.json",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/updates.json",
+                "size": 4058
+              },
+              {
+                "name": "updates.json.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/updates.json.sig",
+                "size": 129
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Chupathingy v0.8.0h",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/tag/v0.8.0h",
+            "published_at": "2026-10-24T05:48:03Z",
+            "assets": [
+              {
+                "name": "chupathingyce-android-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-android-release.zip",
+                "size": 40062566
+              },
+              {
+                "name": "chupathingyce-android-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-android-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-android64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-android64-release.zip",
+                "size": 63151655
+              },
+              {
+                "name": "chupathingyce-android64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-android64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-linux-release.zip",
+                "size": 43675870
+              },
+              {
+                "name": "chupathingyce-linux-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-linux-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-linux64-release.zip",
+                "size": 41816010
+              },
+              {
+                "name": "chupathingyce-linux64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-linux64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-macos-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-macos-release.zip",
+                "size": 27928169
+              },
+              {
+                "name": "chupathingyce-macos-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-macos-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-arm64.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-server-linux-arm64.zip",
+                "size": 21435856
+              },
+              {
+                "name": "chupathingyce-server-linux-arm64.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-server-linux-arm64.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-x64.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-server-linux-x64.zip",
+                "size": 21558560
+              },
+              {
+                "name": "chupathingyce-server-linux-x64.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-server-linux-x64.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-x86.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-server-linux-x86.zip",
+                "size": 21447552
+              },
+              {
+                "name": "chupathingyce-server-linux-x86.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-server-linux-x86.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-windows-release.zip",
+                "size": 24634119
+              },
+              {
+                "name": "chupathingyce-windows-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-windows-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-windows64-release.zip",
+                "size": 25675015
+              },
+              {
+                "name": "chupathingyce-windows64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-windows64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/SHA256SUMS",
+                "size": 1691
+              },
+              {
+                "name": "SHA256SUMS.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/SHA256SUMS.sig",
+                "size": 129
+              },
+              {
+                "name": "updates.json",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/updates.json",
+                "size": 4058
+              },
+              {
+                "name": "updates.json.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/updates.json.sig",
+                "size": 129
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Chupathingy v0.8.0g",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/tag/v0.8.0g",
+            "published_at": "2026-10-24T02:54:22Z",
+            "assets": [
+              {
+                "name": "chupathingyce-android-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-android-release.zip",
+                "size": 40062566
+              },
+              {
+                "name": "chupathingyce-android-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-android-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-android64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-android64-release.zip",
+                "size": 63110695
+              },
+              {
+                "name": "chupathingyce-android64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-android64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-linux-release.zip",
+                "size": 43657218
+              },
+              {
+                "name": "chupathingyce-linux-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-linux-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-linux64-release.zip",
+                "size": 41795218
+              },
+              {
+                "name": "chupathingyce-linux64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-linux64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-macos-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-macos-release.zip",
+                "size": 27922317
+              },
+              {
+                "name": "chupathingyce-macos-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-macos-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-arm64.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-server-linux-arm64.zip",
+                "size": 21429392
+              },
+              {
+                "name": "chupathingyce-server-linux-arm64.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-server-linux-arm64.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-x64.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-server-linux-x64.zip",
+                "size": 21550816
+              },
+              {
+                "name": "chupathingyce-server-linux-x64.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-server-linux-x64.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-x86.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-server-linux-x86.zip",
+                "size": 21439632
+              },
+              {
+                "name": "chupathingyce-server-linux-x86.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-server-linux-x86.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-windows-release.zip",
+                "size": 24627463
+              },
+              {
+                "name": "chupathingyce-windows-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-windows-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-windows64-release.zip",
+                "size": 25668359
+              },
+              {
+                "name": "chupathingyce-windows64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-windows64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/SHA256SUMS",
+                "size": 1691
+              },
+              {
+                "name": "SHA256SUMS.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/SHA256SUMS.sig",
+                "size": 129
+              },
+              {
+                "name": "updates.json",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/updates.json",
+                "size": 4058
+              },
+              {
+                "name": "updates.json.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/updates.json.sig",
+                "size": 129
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Chupathingy v0.8.0f",
+            "url": "https://github.com/ChupathingyCE/chupathingyce/releases/tag/v0.8.0f",
+            "published_at": "2026-10-24T01:17:28Z",
+            "assets": [
+              {
+                "name": "chupathingyce-android-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-android-release.zip",
+                "size": 40062566
+              },
+              {
+                "name": "chupathingyce-android-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-android-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-android64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-android64-release.zip",
+                "size": 63106599
+              },
+              {
+                "name": "chupathingyce-android64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-android64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-linux-release.zip",
+                "size": 43652606
+              },
+              {
+                "name": "chupathingyce-linux-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-linux-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-linux64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-linux64-release.zip",
+                "size": 41791114
+              },
+              {
+                "name": "chupathingyce-linux64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-linux64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-macos-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-macos-release.zip",
+                "size": 27917841
+              },
+              {
+                "name": "chupathingyce-macos-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-macos-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-arm64.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-server-linux-arm64.zip",
+                "size": 21428080
+              },
+              {
+                "name": "chupathingyce-server-linux-arm64.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-server-linux-arm64.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-x64.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-server-linux-x64.zip",
+                "size": 21549696
+              },
+              {
+                "name": "chupathingyce-server-linux-x64.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-server-linux-x64.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-server-linux-x86.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-server-linux-x86.zip",
+                "size": 21438800
+              },
+              {
+                "name": "chupathingyce-server-linux-x86.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-server-linux-x86.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-windows-release.zip",
+                "size": 24626951
+              },
+              {
+                "name": "chupathingyce-windows-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-windows-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "chupathingyce-windows64-release.zip",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-windows64-release.zip",
+                "size": 25667335
+              },
+              {
+                "name": "chupathingyce-windows64-release.zip.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-windows64-release.zip.sig",
+                "size": 129
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/SHA256SUMS",
+                "size": 1691
+              },
+              {
+                "name": "SHA256SUMS.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/SHA256SUMS.sig",
+                "size": 129
+              },
+              {
+                "name": "updates.json",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/updates.json",
+                "size": 4058
+              },
+              {
+                "name": "updates.json.sig",
+                "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/updates.json.sig",
+                "size": 129
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -198,10 +2311,1197 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "chupathingyce-android-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android64-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android64-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android64-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android64-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-android64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux64-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux64-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux64-release.AppImage",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-release.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "chupathingyce-linux64-release.AppImage.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-release.AppImage.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-linux64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-macos-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-macos-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-macos-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-macos-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-macos-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-macos-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-macos-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-macos-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-arm64.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-arm64.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-arm64.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-x64.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-x64.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-x64.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-x86.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-x86.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-server-linux-x86.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows64-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows64-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows64-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows64-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/chupathingyce-windows64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/nightly/SHA256SUMS.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-android-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-android-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-android64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-android64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-linux-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-linux-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-linux64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-linux64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-macos-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-macos-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-macos-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-macos-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-arm64.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-server-linux-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-arm64.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-server-linux-arm64.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-x64.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-server-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-x64.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-server-linux-x64.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-x86.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-server-linux-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-x86.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-server-linux-x86.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-windows-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-windows-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-windows64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/chupathingyce-windows64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/SHA256SUMS.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/updates.json",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c/updates.json.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-android-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-android-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-android64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-android64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-linux-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-linux-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-linux64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-linux64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-macos-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-macos-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-macos-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-macos-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-arm64.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-server-linux-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-arm64.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-server-linux-arm64.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-x64.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-server-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-x64.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-server-linux-x64.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-x86.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-server-linux-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-x86.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-server-linux-x86.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-windows-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-windows-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-windows64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/chupathingyce-windows64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/SHA256SUMS.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/updates.json",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b/updates.json.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-android-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-android-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android64-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-android64-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android64-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-android64-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-linux-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-linux-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux64-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-linux64-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux64-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-linux64-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-macos-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-macos-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-macos-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-macos-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-windows-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-windows-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows64-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-windows64-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows64-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/chupathingyce-windows64-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/SHA256SUMS.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/updates.json",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-debug/updates.json.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-android-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-android-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android64-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-android64-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android64-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-android64-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-linux-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-linux-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux64-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-linux64-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux64-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-linux64-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-macos-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-macos-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-macos-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-macos-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-windows-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-windows-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows64-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-windows64-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows64-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/chupathingyce-windows64-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/SHA256SUMS.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/updates.json",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing-debug/updates.json.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-android-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-android-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-android64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-android64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-linux-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-linux-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-linux64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-linux64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux64.AppImage",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-linux64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "chupathingyce-macos-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-macos-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-macos-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-macos-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-arm64.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-server-linux-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-arm64.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-server-linux-arm64.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-x64.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-server-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-x64.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-server-linux-x64.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-x86.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-server-linux-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-x86.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-server-linux-x86.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-windows-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-windows-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-windows64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/chupathingyce-windows64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/SHA256SUMS.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/updates.json",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1c-coldsnap-testing/updates.json.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-android-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-android-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android64-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-android64-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android64-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-android64-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-linux-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-linux-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux64-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-linux64-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux64-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-linux64-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-macos-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-macos-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-macos-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-macos-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-windows-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-windows-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows64-debug.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-windows64-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows64-debug.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/chupathingyce-windows64-debug.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/SHA256SUMS.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/updates.json",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.1b-debug/updates.json.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-android-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-android-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-android64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-android64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-linux-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-linux-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-linux64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-linux64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-macos-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-macos-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-macos-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-macos-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-arm64.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-server-linux-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-arm64.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-server-linux-arm64.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-x64.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-server-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-x64.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-server-linux-x64.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-x86.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-server-linux-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-x86.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-server-linux-x86.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-windows-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-windows-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-windows64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/chupathingyce-windows64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/SHA256SUMS.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/updates.json",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0h/updates.json.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-android-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-android-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-android64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-android64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-linux-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-linux-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-linux64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-linux64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-macos-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-macos-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-macos-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-macos-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-arm64.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-server-linux-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-arm64.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-server-linux-arm64.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-x64.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-server-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-x64.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-server-linux-x64.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-x86.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-server-linux-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-x86.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-server-linux-x86.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-windows-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-windows-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-windows64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/chupathingyce-windows64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/SHA256SUMS.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/updates.json",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0g/updates.json.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-android-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-android-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-android64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-android64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-android64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-android64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-linux-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-linux-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-linux64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-linux64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-linux64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-linux64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-macos-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-macos-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-macos-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-macos-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-arm64.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-server-linux-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-arm64.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-server-linux-arm64.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-x64.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-server-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-x64.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-server-linux-x64.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-server-linux-x86.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-server-linux-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-server-linux-x86.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-server-linux-x86.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-windows-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-windows-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "chupathingyce-windows64-release.zip",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-windows64-release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "chupathingyce-windows64-release.zip.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/chupathingyce-windows64-release.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/SHA256SUMS.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/updates.json",
+          "type": "other_file"
+        },
+        {
+          "name": "updates.json.sig",
+          "url": "https://github.com/ChupathingyCE/chupathingyce/releases/download/v0.8.0f/updates.json.sig",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -219,7 +3519,164 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T18:20:36.180757+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-29T23:53:27.399532+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial static recompilation of the Xbox 360 version of Need for Speed: Carbon (2006): a native port for Steam Deck, Steam Machine, Steam Frame, Linux and Mac, plus a Windows beta (iPhone/iPad: sideload the experimental IPA or build it yourself). Bring your own disc: no game files included. Not affiliated with EA or Valve.",
+        "latest_release_url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/tag/v0.1.0",
+        "latest_release_name": "SpeedBreaker: Carbon v0.1.0",
+        "release_assets": [
+          {
+            "name": "SpeedBreaker-Carbon-0.1.0-ios.ipa",
+            "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-0.1.0-ios.ipa",
+            "size": 18621655
+          },
+          {
+            "name": "SpeedBreaker-Carbon-0.1.0-ios.ipa.sha256",
+            "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-0.1.0-ios.ipa.sha256",
+            "size": 100
+          },
+          {
+            "name": "SpeedBreaker-Carbon-0.1.0-third-party-source.tar.xz",
+            "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-0.1.0-third-party-source.tar.xz",
+            "size": 213558124
+          },
+          {
+            "name": "SpeedBreaker-Carbon-0.1.0-third-party-source.tar.xz.sha256",
+            "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-0.1.0-third-party-source.tar.xz.sha256",
+            "size": 118
+          },
+          {
+            "name": "SpeedBreaker-Carbon-macos.dmg",
+            "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-macos.dmg",
+            "size": 23005594
+          },
+          {
+            "name": "SpeedBreaker-Carbon-macos.dmg.sha256",
+            "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-macos.dmg.sha256",
+            "size": 96
+          },
+          {
+            "name": "SpeedBreaker-Carbon-steamos-arm64.tar.xz",
+            "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-steamos-arm64.tar.xz",
+            "size": 16022332
+          },
+          {
+            "name": "SpeedBreaker-Carbon-steamos-arm64.tar.xz.sha256",
+            "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-steamos-arm64.tar.xz.sha256",
+            "size": 107
+          },
+          {
+            "name": "SpeedBreaker-Carbon-steamos-x86_64.tar.xz",
+            "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-steamos-x86_64.tar.xz",
+            "size": 18171320
+          },
+          {
+            "name": "SpeedBreaker-Carbon-steamos-x86_64.tar.xz.sha256",
+            "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-steamos-x86_64.tar.xz.sha256",
+            "size": 108
+          }
+        ],
+        "releases": [
+          {
+            "name": "SpeedBreaker: Carbon v0.1.0",
+            "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/tag/v0.1.0",
+            "published_at": "2026-10-29T15:45:48Z",
+            "assets": [
+              {
+                "name": "SpeedBreaker-Carbon-0.1.0-ios.ipa",
+                "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-0.1.0-ios.ipa",
+                "size": 18621655
+              },
+              {
+                "name": "SpeedBreaker-Carbon-0.1.0-ios.ipa.sha256",
+                "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-0.1.0-ios.ipa.sha256",
+                "size": 100
+              },
+              {
+                "name": "SpeedBreaker-Carbon-0.1.0-third-party-source.tar.xz",
+                "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-0.1.0-third-party-source.tar.xz",
+                "size": 213558124
+              },
+              {
+                "name": "SpeedBreaker-Carbon-0.1.0-third-party-source.tar.xz.sha256",
+                "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-0.1.0-third-party-source.tar.xz.sha256",
+                "size": 118
+              },
+              {
+                "name": "SpeedBreaker-Carbon-macos.dmg",
+                "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-macos.dmg",
+                "size": 23005594
+              },
+              {
+                "name": "SpeedBreaker-Carbon-macos.dmg.sha256",
+                "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-macos.dmg.sha256",
+                "size": 96
+              },
+              {
+                "name": "SpeedBreaker-Carbon-steamos-arm64.tar.xz",
+                "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-steamos-arm64.tar.xz",
+                "size": 16022332
+              },
+              {
+                "name": "SpeedBreaker-Carbon-steamos-arm64.tar.xz.sha256",
+                "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-steamos-arm64.tar.xz.sha256",
+                "size": 107
+              },
+              {
+                "name": "SpeedBreaker-Carbon-steamos-x86_64.tar.xz",
+                "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-steamos-x86_64.tar.xz",
+                "size": 18171320
+              },
+              {
+                "name": "SpeedBreaker-Carbon-steamos-x86_64.tar.xz.sha256",
+                "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-steamos-x86_64.tar.xz.sha256",
+                "size": 108
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SpeedBreaker: Carbon v0.1.0 Windows beta 1",
+            "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/tag/v0.1.0-windows-beta.1",
+            "published_at": "2026-10-29T15:46:08Z",
+            "assets": [
+              {
+                "name": "SpeedBreaker-Carbon-0.1.0-windows-third-party-source.tar.xz",
+                "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0-windows-beta.1/SpeedBreaker-Carbon-0.1.0-windows-third-party-source.tar.xz",
+                "size": 11434936
+              },
+              {
+                "name": "SpeedBreaker-Carbon-0.1.0-windows-third-party-source.tar.xz.sha256",
+                "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0-windows-beta.1/SpeedBreaker-Carbon-0.1.0-windows-third-party-source.tar.xz.sha256",
+                "size": 126
+              },
+              {
+                "name": "SpeedBreaker-Carbon-0.1.0-windows-x64-beta.zip",
+                "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0-windows-beta.1/SpeedBreaker-Carbon-0.1.0-windows-x64-beta.zip",
+                "size": 16658340
+              },
+              {
+                "name": "SpeedBreaker-Carbon-0.1.0-windows-x64-beta.zip.sha256",
+                "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0-windows-beta.1/SpeedBreaker-Carbon-0.1.0-windows-x64-beta.zip.sha256",
+                "size": 113
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -233,9 +3690,81 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SpeedBreaker-Carbon-0.1.0-ios.ipa",
+          "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-0.1.0-ios.ipa",
+          "type": "ios_package"
+        },
+        {
+          "name": "SpeedBreaker-Carbon-0.1.0-ios.ipa.sha256",
+          "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-0.1.0-ios.ipa.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SpeedBreaker-Carbon-0.1.0-third-party-source.tar.xz",
+          "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-0.1.0-third-party-source.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "SpeedBreaker-Carbon-0.1.0-third-party-source.tar.xz.sha256",
+          "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-0.1.0-third-party-source.tar.xz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SpeedBreaker-Carbon-macos.dmg",
+          "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-macos.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SpeedBreaker-Carbon-macos.dmg.sha256",
+          "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-macos.dmg.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SpeedBreaker-Carbon-steamos-arm64.tar.xz",
+          "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-steamos-arm64.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "SpeedBreaker-Carbon-steamos-arm64.tar.xz.sha256",
+          "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-steamos-arm64.tar.xz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SpeedBreaker-Carbon-steamos-x86_64.tar.xz",
+          "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-steamos-x86_64.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "SpeedBreaker-Carbon-steamos-x86_64.tar.xz.sha256",
+          "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0/SpeedBreaker-Carbon-steamos-x86_64.tar.xz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SpeedBreaker-Carbon-0.1.0-windows-third-party-source.tar.xz",
+          "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0-windows-beta.1/SpeedBreaker-Carbon-0.1.0-windows-third-party-source.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "SpeedBreaker-Carbon-0.1.0-windows-third-party-source.tar.xz.sha256",
+          "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0-windows-beta.1/SpeedBreaker-Carbon-0.1.0-windows-third-party-source.tar.xz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "SpeedBreaker-Carbon-0.1.0-windows-x64-beta.zip",
+          "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0-windows-beta.1/SpeedBreaker-Carbon-0.1.0-windows-x64-beta.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SpeedBreaker-Carbon-0.1.0-windows-x64-beta.zip.sha256",
+          "url": "https://github.com/SpeedBreakerProject/speedbreaker-carbon/releases/download/v0.1.0-windows-beta.1/SpeedBreaker-Carbon-0.1.0-windows-x64-beta.zip.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -253,7 +3782,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T18:20:36.179378+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-29T23:53:28.899145+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Full Rumble — a static recompilation of NASCAR Rumble (PS1, SLUS-01068). No game files included: you supply your own disc.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
