@@ -1,16 +1,193 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-30T17:56:06.189198+00:00",
+  "last_updated": "2026-10-30T23:35:19.693829+00:00",
   "candidates": [
     {
-      "title": "ZuanCrisp/Zelda-TOTK-Port",
-      "url": "https://github.com/ZuanCrisp/Zelda-TOTK-Port",
-      "source_name": "GitHub: static recompilation",
-      "published": "2026-10-30T15:34:51Z",
-      "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Dump your own Switch Game.",
+      "title": "joesnose/DeadBabiesX-Android-recompilation",
+      "url": "https://github.com/joesnose/DeadBabiesX-Android-recompilation",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-10-30T22:56:26Z",
+      "summary": "This is a recompiled original Xbox homebrew game called DeadBabies xtreme. I was able to find the source code and get AI to recompile it for android. This is 100% AI generated. Its a great retro vibed game that i always loved on Xbox, a few option have been added but it remains basically the same.",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-30T17:55:52.470957+00:00",
+      "found_at": "2026-10-30T23:35:07.969626+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "gamboozino/ngbrecomp",
+      "url": "https://github.com/gamboozino/ngbrecomp",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-30T19:59:07Z",
+      "summary": "Ninja Gaiden Black (Xbox, 2005) statically recompiled into native Linux and Windows builds, with an experimental Android port, drawn by its own Vulkan renderer. A steady 60 fps, widescreen and ultrawide, keyboard and mouse, touch controls on Android, Steam Deck ready. Bring your own copy of the game. Topics: android, linux, ninja-gaiden, pc-port, recompilation, static-recompilation, steam-deck, vulkan, windows, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T23:35:04.584346+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "windows build"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux, android"
+      ]
+    },
+    {
+      "title": "danielalves96/gow-pc-port",
+      "url": "https://github.com/danielalves96/gow-pc-port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-30T20:08:46Z",
+      "summary": "Unofficial native PC port of God of War (2005, PS2) for Windows, with experimental Linux support. Statically recompiled to C++, not an emulator. OpenGL renderer, launcher, cheat menu, widescreen, 60 FPS. Bring your own game dump: no game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T23:35:04.583361+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Silureth/twin-blades-resanctified",
+      "url": "https://github.com/Silureth/twin-blades-resanctified",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-30T21:26:08Z",
+      "summary": "Unofficial preservation port of Twin Blades (2010) to .NET 10 / MonoGame for Windows and Linux Topics: csharp, dotnet, game, game-preservation, monogame, windows-phone, xna",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T23:35:04.582579+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "gothamor/gta-vcs-recomp",
+      "url": "https://github.com/gothamor/gta-vcs-recomp",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-30T21:41:50Z",
+      "summary": "A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T23:35:04.581897+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "zonehammer/wet-recomp",
+      "url": "https://github.com/zonehammer/wet-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-30T22:07:20Z",
+      "summary": "“Native Windows port of WET (Xbox 360) via static recompilation. Requires your own copy of the game.”",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T23:35:00.781428+00:00",
       "check": null,
       "category": "pc",
       "platforms_guess": [
@@ -28,6 +205,264 @@
       "classification_notes": [
         "В описании обнаружены признаки PC-поддержки."
       ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "hexreaper711/splinter-cell-blacklist-ps5",
+      "url": "https://github.com/hexreaper711/splinter-cell-blacklist-ps5",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-30T23:23:39Z",
+      "summary": "Splinter Cell: Blacklist (Xbox 360) for PS5: a static recompilation port. No game files included; bring your own discs.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T23:35:00.780717+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "baezahuertaelias/manhunt1_nx",
+      "url": "https://github.com/baezahuertaelias/manhunt1_nx",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-30T23:29:14Z",
+      "summary": "Research: static recompilation of the original Xbox Manhunt to Nintendo Switch (no game data included)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T23:35:00.780063+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "deeptelar/scary-truc",
+      "url": "https://github.com/deeptelar/scary-truc",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-30T21:27:19Z",
+      "summary": "A horror game played by phone: talk a terrified stranger out of a maze while something hunts by sound. Gemma 4 plays the caller, in your browser. Kotlin Multiplatform, built with Telar. Topics: ai-agents, browser-game, compose-multiplatform, game, gemma, gemma-4, horror-game, interactive-fiction, kotlin, kotlin-multiplatform, llm, ollama, openrouter, telar, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T23:34:57.063181+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "rubymatrix/nitemare3d-hd",
+      "url": "https://github.com/rubymatrix/nitemare3d-hd",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-30T22:57:23Z",
+      "summary": "Static recompilation of Nitemare-3D (Win16, 1994) to portable C for macOS, Linux, Windows and WebAssembly. Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T23:34:57.058876+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, windows, linux"
+      ]
+    },
+    {
+      "title": "Down1oads/sausageweb",
+      "url": "https://github.com/Down1oads/sausageweb",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-10-30T22:23:19Z",
+      "summary": "Browser port of A Weird Game About Sausage (demo), ported by Down1oads",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T23:34:52.968132+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "ZuanCrisp/Zelda-TOTK-Port",
+      "url": "https://github.com/ZuanCrisp/Zelda-TOTK-Port",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-30T15:34:51Z",
+      "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Dump your own Switch Game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T17:55:52.470957+00:00",
+      "check": {
+        "checked_at": "2026-10-30T23:35:09.393581+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Dump your own Switch Game.",
+        "latest_release_url": "https://github.com/ZuanCrisp/Zelda-TOTK-Port/releases/tag/v0.1.1",
+        "latest_release_name": "v0.1.1",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/ZuanCrisp/Zelda-TOTK-Port/releases/download/v0.1.1/SHA256SUMS.txt",
+            "size": 95
+          },
+          {
+            "name": "TotK-Setup-0.1.1-windows.zip",
+            "url": "https://github.com/ZuanCrisp/Zelda-TOTK-Port/releases/download/v0.1.1/TotK-Setup-0.1.1-windows.zip",
+            "size": 135187692
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.1",
+            "url": "https://github.com/ZuanCrisp/Zelda-TOTK-Port/releases/tag/v0.1.1",
+            "published_at": "2026-10-30T15:35:02Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/ZuanCrisp/Zelda-TOTK-Port/releases/download/v0.1.1/SHA256SUMS.txt",
+                "size": 95
+              },
+              {
+                "name": "TotK-Setup-0.1.1-windows.zip",
+                "url": "https://github.com/ZuanCrisp/Zelda-TOTK-Port/releases/download/v0.1.1/TotK-Setup-0.1.1-windows.zip",
+                "size": 135187692
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/ZuanCrisp/Zelda-TOTK-Port/releases/download/v0.1.1/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "TotK-Setup-0.1.1-windows.zip",
+          "url": "https://github.com/ZuanCrisp/Zelda-TOTK-Port/releases/download/v0.1.1/TotK-Setup-0.1.1-windows.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -44,7 +479,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T17:55:52.469883+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T23:35:10.669564+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Silent Hill 3 (Silent Hill HD Collection, Xbox 360) running natively on Nintendo Switch through static recompilation with ReXGlue. 30 fps at the stock clock. Android and iOS planned. No game files included: bring your own copy.",
+        "latest_release_url": "https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX/releases/tag/v1.0",
+        "latest_release_name": "Silent Hill 3 NX — V1.0",
+        "release_assets": [
+          {
+            "name": "SH3-NX-V1.0.zip",
+            "url": "https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX/releases/download/v1.0/SH3-NX-V1.0.zip",
+            "size": 12166683
+          },
+          {
+            "name": "sh3.nro",
+            "url": "https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX/releases/download/v1.0/sh3.nro",
+            "size": 27591047
+          }
+        ],
+        "releases": [
+          {
+            "name": "Silent Hill 3 NX — V1.0",
+            "url": "https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX/releases/tag/v1.0",
+            "published_at": "2026-10-30T16:23:06Z",
+            "assets": [
+              {
+                "name": "SH3-NX-V1.0.zip",
+                "url": "https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX/releases/download/v1.0/SH3-NX-V1.0.zip",
+                "size": 12166683
+              },
+              {
+                "name": "sh3.nro",
+                "url": "https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX/releases/download/v1.0/sh3.nro",
+                "size": 27591047
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -59,10 +542,22 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SH3-NX-V1.0.zip",
+          "url": "https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX/releases/download/v1.0/SH3-NX-V1.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "sh3.nro",
+          "url": "https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX/releases/download/v1.0/sh3.nro",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -80,7 +575,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T17:55:52.468661+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T23:35:11.978253+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Silent Hill: Homecoming (Xbox 360) running natively on Nintendo Switch through static recompilation with ReXGlue. 30 fps in most of the game at the stock clock; stable at 600p or with a higher GPU clock. Android and iOS planned. No game files included: bring your own copy.",
+        "latest_release_url": "https://github.com/gerisson1996/SHH-NX-PORT/releases/tag/v1.0",
+        "latest_release_name": "Silent Hill Homecoming NX — V1.0",
+        "release_assets": [
+          {
+            "name": "SHH-NX-V1.0.zip",
+            "url": "https://github.com/gerisson1996/SHH-NX-PORT/releases/download/v1.0/SHH-NX-V1.0.zip",
+            "size": 29362889
+          },
+          {
+            "name": "shh.nro",
+            "url": "https://github.com/gerisson1996/SHH-NX-PORT/releases/download/v1.0/shh.nro",
+            "size": 58851629
+          }
+        ],
+        "releases": [
+          {
+            "name": "Silent Hill Homecoming NX — V1.0",
+            "url": "https://github.com/gerisson1996/SHH-NX-PORT/releases/tag/v1.0",
+            "published_at": "2026-10-30T16:38:50Z",
+            "assets": [
+              {
+                "name": "SHH-NX-V1.0.zip",
+                "url": "https://github.com/gerisson1996/SHH-NX-PORT/releases/download/v1.0/SHH-NX-V1.0.zip",
+                "size": 29362889
+              },
+              {
+                "name": "shh.nro",
+                "url": "https://github.com/gerisson1996/SHH-NX-PORT/releases/download/v1.0/shh.nro",
+                "size": 58851629
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -95,10 +638,22 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHH-NX-V1.0.zip",
+          "url": "https://github.com/gerisson1996/SHH-NX-PORT/releases/download/v1.0/SHH-NX-V1.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "shh.nro",
+          "url": "https://github.com/gerisson1996/SHH-NX-PORT/releases/download/v1.0/shh.nro",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -116,7 +671,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T17:55:52.467568+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T23:35:13.280254+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port (Windows/Linux) of the US PS3 version of 3D Dot Game Heroes via static recompilation. Bring your own legally acquired disc; no game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -668,7 +1240,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T11:16:15.527473+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T23:35:14.540247+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Priston Tale in the browser: WebAssembly client, IIS bridge, game server and data",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -1448,7 +2037,93 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T23:53:05.068567+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T23:35:15.804887+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Star Wars: Empire at War and Forces of Corruption in your browser, on a new engine built for huge battles. Bring your own copy of the game.",
+        "latest_release_url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/tag/v0.1.9",
+        "latest_release_name": "Empire at War Browser Edition 0.1.9",
+        "release_assets": [
+          {
+            "name": "EmpireAtWarBrowserEdition-setup.exe",
+            "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/download/v0.1.9/EmpireAtWarBrowserEdition-setup.exe",
+            "size": 14631038
+          },
+          {
+            "name": "latest.json",
+            "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/download/v0.1.9/latest.json",
+            "size": 907
+          }
+        ],
+        "releases": [
+          {
+            "name": "Empire at War Browser Edition 0.1.9",
+            "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/tag/v0.1.9",
+            "published_at": "2026-10-30T15:50:47Z",
+            "assets": [
+              {
+                "name": "EmpireAtWarBrowserEdition-setup.exe",
+                "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/download/v0.1.9/EmpireAtWarBrowserEdition-setup.exe",
+                "size": 14631038
+              },
+              {
+                "name": "latest.json",
+                "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/download/v0.1.9/latest.json",
+                "size": 907
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Empire at War Browser Edition 0.1.8",
+            "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/tag/v0.1.8",
+            "published_at": "2026-10-29T21:01:09Z",
+            "assets": [
+              {
+                "name": "EmpireAtWarBrowserEdition-setup.exe",
+                "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/download/v0.1.8/EmpireAtWarBrowserEdition-setup.exe",
+                "size": 14627806
+              },
+              {
+                "name": "latest.json",
+                "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/download/v0.1.8/latest.json",
+                "size": 969
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Empire at War Browser Edition 0.1.7",
+            "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/tag/v0.1.7",
+            "published_at": "2026-10-29T20:38:15Z",
+            "assets": [
+              {
+                "name": "EmpireAtWarBrowserEdition-setup.exe",
+                "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/download/v0.1.7/EmpireAtWarBrowserEdition-setup.exe",
+                "size": 14630295
+              },
+              {
+                "name": "latest.json",
+                "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/download/v0.1.7/latest.json",
+                "size": 789
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -1462,9 +2137,41 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "EmpireAtWarBrowserEdition-setup.exe",
+          "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/download/v0.1.9/EmpireAtWarBrowserEdition-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "latest.json",
+          "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/download/v0.1.9/latest.json",
+          "type": "other_file"
+        },
+        {
+          "name": "EmpireAtWarBrowserEdition-setup.exe",
+          "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/download/v0.1.8/EmpireAtWarBrowserEdition-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "latest.json",
+          "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/download/v0.1.8/latest.json",
+          "type": "other_file"
+        },
+        {
+          "name": "EmpireAtWarBrowserEdition-setup.exe",
+          "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/download/v0.1.7/EmpireAtWarBrowserEdition-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "latest.json",
+          "url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition/releases/download/v0.1.7/latest.json",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 4,
       "relevance_status": "possible",
@@ -1483,7 +2190,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T23:53:05.066957+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T23:35:17.128708+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Play Diablo II: Lord of Destruction in your browser — the 1.13c engine reimplemented in C++ and compiled to WebAssembly. Bring your own game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -5014,7 +5738,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T18:20:36.178540+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T23:35:18.361979+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Demon Front (IGS PGM) static recompilation and native PS Vita port. No game data included.",
+        "latest_release_url": "https://github.com/Tobic-99/demonfront-vita/releases/tag/v0.1",
+        "latest_release_name": "v0.1",
+        "release_assets": [
+          {
+            "name": "demonfront.vpk",
+            "url": "https://github.com/Tobic-99/demonfront-vita/releases/download/v0.1/demonfront.vpk",
+            "size": 2727830
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1",
+            "url": "https://github.com/Tobic-99/demonfront-vita/releases/tag/v0.1",
+            "published_at": "2026-10-29T17:18:23Z",
+            "assets": [
+              {
+                "name": "demonfront.vpk",
+                "url": "https://github.com/Tobic-99/demonfront-vita/releases/download/v0.1/demonfront.vpk",
+                "size": 2727830
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -5025,9 +5787,16 @@
           "ps vita"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "demonfront.vpk",
+          "url": "https://github.com/Tobic-99/demonfront-vita/releases/download/v0.1/demonfront.vpk",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 10,
       "relevance_status": "promising",
