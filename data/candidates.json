@@ -1,7 +1,148 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-30T11:16:38.988673+00:00",
+  "last_updated": "2026-10-30T17:56:06.189198+00:00",
   "candidates": [
+    {
+      "title": "ZuanCrisp/Zelda-TOTK-Port",
+      "url": "https://github.com/ZuanCrisp/Zelda-TOTK-Port",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-30T15:34:51Z",
+      "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Dump your own Switch Game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T17:55:52.470957+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "gerisson1996/SILENT-HILL-HD-COLLECTION-NX",
+      "url": "https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-30T16:24:00Z",
+      "summary": "Silent Hill 3 (Silent Hill HD Collection, Xbox 360) running natively on Nintendo Switch through static recompilation with ReXGlue. 30 fps at the stock clock. Android and iOS planned. No game files included: bring your own copy. Topics: nintendo, nintendoswitch, silent-hill3, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T17:55:52.469883+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "gerisson1996/SHH-NX-PORT",
+      "url": "https://github.com/gerisson1996/SHH-NX-PORT",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-30T16:39:22Z",
+      "summary": "Silent Hill: Homecoming (Xbox 360) running natively on Nintendo Switch through static recompilation with ReXGlue. 30 fps in most of the game at the stock clock; stable at 600p or with a higher GPU clock. Android and iOS planned. No game files included: bring your own copy.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T17:55:52.468661+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "irnutsmurt/3D-Dot-Game-Heroes-PS3-Recomp",
+      "url": "https://github.com/irnutsmurt/3D-Dot-Game-Heroes-PS3-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-30T17:51:47Z",
+      "summary": "Native PC port (Windows/Linux) of the US PS3 version of 3D Dot Game Heroes via static recompilation. Bring your own legally acquired disc; no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T17:55:52.467568+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
     {
       "title": "Nyaldee/dokuro-chan-ps2",
       "url": "https://github.com/Nyaldee/dokuro-chan-ps2",
@@ -11,7 +152,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T11:16:23.193892+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T17:55:54.365017+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial Windows and Linux port of Game ni Natta yo! Dokuro-chan ~Kenkou Shindan Daisakusen~ (PS2)",
+        "latest_release_url": "https://github.com/Nyaldee/dokuro-chan-ps2/releases/tag/10/30/26",
+        "latest_release_name": "Game ni Natta yo! Dokuro-chan: Kenkou Shindan Daisakusen (PS2)",
+        "release_assets": [
+          {
+            "name": "Dokuro-chan.PS2.Linux.tar.gz",
+            "url": "https://github.com/Nyaldee/dokuro-chan-ps2/releases/download/10/30/26/Dokuro-chan.PS2.Linux.tar.gz",
+            "size": 608044
+          },
+          {
+            "name": "Dokuro-chan.PS2.Windows.zip",
+            "url": "https://github.com/Nyaldee/dokuro-chan-ps2/releases/download/10/30/26/Dokuro-chan.PS2.Windows.zip",
+            "size": 503837
+          }
+        ],
+        "releases": [
+          {
+            "name": "Game ni Natta yo! Dokuro-chan: Kenkou Shindan Daisakusen (PS2)",
+            "url": "https://github.com/Nyaldee/dokuro-chan-ps2/releases/tag/10/30/26",
+            "published_at": "2026-10-30T10:52:43Z",
+            "assets": [
+              {
+                "name": "Dokuro-chan.PS2.Linux.tar.gz",
+                "url": "https://github.com/Nyaldee/dokuro-chan-ps2/releases/download/10/30/26/Dokuro-chan.PS2.Linux.tar.gz",
+                "size": 608044
+              },
+              {
+                "name": "Dokuro-chan.PS2.Windows.zip",
+                "url": "https://github.com/Nyaldee/dokuro-chan-ps2/releases/download/10/30/26/Dokuro-chan.PS2.Windows.zip",
+                "size": 503837
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -25,9 +214,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Dokuro-chan.PS2.Linux.tar.gz",
+          "url": "https://github.com/Nyaldee/dokuro-chan-ps2/releases/download/10/30/26/Dokuro-chan.PS2.Linux.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "Dokuro-chan.PS2.Windows.zip",
+          "url": "https://github.com/Nyaldee/dokuro-chan-ps2/releases/download/10/30/26/Dokuro-chan.PS2.Windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -45,7 +246,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T11:16:19.644359+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T17:55:55.954007+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Killzone HD // Unofficial PC Port (static recompilation). Work in progress, partly playable. Builds on your PC from your own game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -80,7 +298,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T11:16:19.643067+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T17:55:57.360545+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "God of War Ascension native PC port (PS3 static recompilation, no emulator) with a one-click launcher: 720p/60 FPS, max performance, frame generation, portable copy. Bring your own game copy.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -115,7 +350,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T11:16:19.641691+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T17:55:58.834415+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation + matching decompilation of Mushihimesama Futari Ver 1.5 (Xbox 360) to native macOS, Windows and Steam Deck: both hosted modes, release-candidate stage. No game data included - build it from a copy you own.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -148,7 +400,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T11:16:19.640613+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T17:56:00.285870+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Dark Cloud (NTSC-U, SCUS-97111) static recompilation with PS2Recomp: configs, scripts, notes (no game data)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -175,7 +444,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T11:16:17.844497+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T17:56:01.736127+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "This is just a WebGL port attempt of a childhood mobile game I used to play a lot.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -208,7 +494,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T11:16:17.843651+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T17:56:03.169507+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Browser-based WebGL port of the early Minecraft 0.31-20100131 build, packaged as an HTML game script utility for 2026 with setup notes, options and compatibility info for running it locally.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -242,7 +545,74 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T11:16:15.534110+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T17:56:04.599591+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "A C/LVGL port of Rolling Rob, playable in the browser and offline",
+        "latest_release_url": "https://github.com/advies-ruit/rolling-rob/releases/tag/v1.1",
+        "latest_release_name": "v1.1",
+        "release_assets": [
+          {
+            "name": "Rolling-Rob-Web.zip",
+            "url": "https://github.com/advies-ruit/rolling-rob/releases/download/v1.1/Rolling-Rob-Web.zip",
+            "size": 18242453
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/advies-ruit/rolling-rob/releases/download/v1.1/SHA256SUMS.txt",
+            "size": 623
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.1",
+            "url": "https://github.com/advies-ruit/rolling-rob/releases/tag/v1.1",
+            "published_at": "2026-10-30T06:46:07Z",
+            "assets": [
+              {
+                "name": "Rolling-Rob-Web.zip",
+                "url": "https://github.com/advies-ruit/rolling-rob/releases/download/v1.1/Rolling-Rob-Web.zip",
+                "size": 18242453
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/advies-ruit/rolling-rob/releases/download/v1.1/SHA256SUMS.txt",
+                "size": 623
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0",
+            "url": "https://github.com/advies-ruit/rolling-rob/releases/tag/v1.0",
+            "published_at": "2026-10-30T06:43:16Z",
+            "assets": [
+              {
+                "name": "Rolling-Rob-Web.zip",
+                "url": "https://github.com/advies-ruit/rolling-rob/releases/download/v1.0/Rolling-Rob-Web.zip",
+                "size": 18157767
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/advies-ruit/rolling-rob/releases/download/v1.0/SHA256SUMS.txt",
+                "size": 623
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -256,9 +626,31 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Rolling-Rob-Web.zip",
+          "url": "https://github.com/advies-ruit/rolling-rob/releases/download/v1.1/Rolling-Rob-Web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/advies-ruit/rolling-rob/releases/download/v1.1/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "Rolling-Rob-Web.zip",
+          "url": "https://github.com/advies-ruit/rolling-rob/releases/download/v1.0/Rolling-Rob-Web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/advies-ruit/rolling-rob/releases/download/v1.0/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
