@@ -1,7 +1,307 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-29T23:53:30.275171+00:00",
+  "last_updated": "2026-10-30T11:16:38.988673+00:00",
   "candidates": [
+    {
+      "title": "Nyaldee/dokuro-chan-ps2",
+      "url": "https://github.com/Nyaldee/dokuro-chan-ps2",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-30T10:52:42Z",
+      "summary": "Unofficial Windows and Linux port of Game ni Natta yo! Dokuro-chan ~Kenkou Shindan Daisakusen~ (PS2)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T11:16:23.193892+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "gustavomorinaga/project-vekta",
+      "url": "https://github.com/gustavomorinaga/project-vekta",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-30T05:53:15Z",
+      "summary": "Killzone HD // Unofficial PC Port (static recompilation). Work in progress, partly playable. Builds on your PC from your own game. Topics: ai-assisted, game-port, killzone, linux, proton, ps3, ps3recomp, recompilation, static-recompilation, vulkan, windows, wine",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T11:16:19.644359+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable, windows, linux"
+      ]
+    },
+    {
+      "title": "musthaq-ai/god-of-war-ascension-pc",
+      "url": "https://github.com/musthaq-ai/god-of-war-ascension-pc",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-30T06:37:39Z",
+      "summary": "God of War Ascension native PC port (PS3 static recompilation, no emulator) with a one-click launcher: 720p/60 FPS, max performance, frame generation, portable copy. Bring your own game copy. Topics: directx12, god-of-war, god-of-war-ascension, gow-ascension, launcher, native-port, pc-port, playstation-3, ps3, recompilation, static-recompilation, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T11:16:19.643067+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "springah/futari_realcomp",
+      "url": "https://github.com/springah/futari_realcomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-30T09:35:28Z",
+      "summary": "Static recompilation + matching decompilation of Mushihimesama Futari Ver 1.5 (Xbox 360) to native macOS, Windows and Steam Deck: both hosted modes, release-candidate stage. No game data included - build it from a copy you own. Topics: cave, decompilation, macos, mushihimesama, shmup, static-recompilation, steam-deck, vulkan, xbox-360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T11:16:19.641691+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "boubou666/DC_Recomp",
+      "url": "https://github.com/boubou666/DC_Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-30T10:22:32Z",
+      "summary": "Dark Cloud (NTSC-U, SCUS-97111) static recompilation with PS2Recomp: configs, scripts, notes (no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T11:16:19.640613+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "sickamoore3-arc/zombiegem",
+      "url": "https://github.com/sickamoore3-arc/zombiegem",
+      "source_name": "GitHub: WebGL ports",
+      "published": "2026-10-30T07:50:07Z",
+      "summary": "This is just a WebGL port attempt of a childhood mobile game I used to play a lot.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T11:16:17.844497+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webgl"
+      ]
+    },
+    {
+      "title": "kellermarco2002/minecraft-webgl-script-hub",
+      "url": "https://github.com/kellermarco2002/minecraft-webgl-script-hub",
+      "source_name": "GitHub: WebGL ports",
+      "published": "2026-10-30T10:48:05Z",
+      "summary": "Browser-based WebGL port of the early Minecraft 0.31-20100131 build, packaged as an HTML game script utility for 2026 with setup notes, options and compatibility info for running it locally.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T11:16:17.843651+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, webgl port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webgl"
+      ]
+    },
+    {
+      "title": "advies-ruit/rolling-rob",
+      "url": "https://github.com/advies-ruit/rolling-rob",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-30T06:44:03Z",
+      "summary": "A C/LVGL port of Rolling Rob, playable in the browser and offline Topics: emscripten, game, lvgl, sdl2, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T11:16:15.534110+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable, webassembly"
+      ]
+    },
+    {
+      "title": "sungam3d/priston-tale-web",
+      "url": "https://github.com/sungam3d/priston-tale-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-30T10:41:25Z",
+      "summary": "Priston Tale in the browser: WebAssembly client, IIS bridge, game server and data",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-30T11:16:15.527473+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "UnknownSecurity/grimoire-mobile",
       "url": "https://github.com/UnknownSecurity/grimoire-mobile",
@@ -11,7 +311,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T23:53:15.356878+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T11:16:28.305528+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Grimoire Exodus Mobile is the standalone Android port of Grimoire Exodus. It owns its AQW client, uses the original HARMAN AIR AVM2 runtime by default, and draws the Grimoire command overlay above the live game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +362,41 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T23:53:11.375389+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T11:16:29.618148+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "PS Vita source port — physical Vita validation pending. No game files or VPK releases.",
+        "latest_release_url": "https://github.com/AlexisRqs/pmd-vita/releases/tag/v0.47-source-preview.2",
+        "latest_release_name": "Pokémon Mystery Dungeon 0.47 — English source preview 2",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "Pokémon Mystery Dungeon 0.47 — English source preview 2",
+            "url": "https://github.com/AlexisRqs/pmd-vita/releases/tag/v0.47-source-preview.2",
+            "published_at": "2026-10-29T19:04:18Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Pokémon Mystery Dungeon 0.47 — source preview",
+            "url": "https://github.com/AlexisRqs/pmd-vita/releases/tag/v0.47-source-preview.1",
+            "published_at": "2026-10-29T18:38:23Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -76,7 +427,41 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T23:53:11.374571+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T11:16:30.952399+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "PS Vita source port — physical Vita validation pending. No game files or VPK releases.",
+        "latest_release_url": "https://github.com/AlexisRqs/minishcap-vita/releases/tag/v0.06-source-preview.2",
+        "latest_release_name": "The Minish Cap 0.06 — English source preview 2",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "The Minish Cap 0.06 — English source preview 2",
+            "url": "https://github.com/AlexisRqs/minishcap-vita/releases/tag/v0.06-source-preview.2",
+            "published_at": "2026-10-29T19:04:28Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "The Minish Cap 0.06 — source preview",
+            "url": "https://github.com/AlexisRqs/minishcap-vita/releases/tag/v0.06-source-preview.1",
+            "published_at": "2026-10-29T18:38:26Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -107,7 +492,41 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T23:53:11.373723+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T11:16:32.277294+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "PS Vita source port — physical Vita validation pending. No game files or VPK releases.",
+        "latest_release_url": "https://github.com/AlexisRqs/spire-vita/releases/tag/v0.72-source-preview.2",
+        "latest_release_name": "Slay the Spire 0.72 — English source preview 2",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "Slay the Spire 0.72 — English source preview 2",
+            "url": "https://github.com/AlexisRqs/spire-vita/releases/tag/v0.72-source-preview.2",
+            "published_at": "2026-10-29T19:04:43Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Slay the Spire 0.72 — source preview",
+            "url": "https://github.com/AlexisRqs/spire-vita/releases/tag/v0.72-source-preview.1",
+            "published_at": "2026-10-29T18:38:29Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -138,7 +557,273 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T23:53:09.254558+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T11:16:33.617352+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Dragon Quest IX (EU) research: Nintendo DS decompilation tooling, ARM/Thumb static recompilation, and experimental SDL2/Godot native runtime. No game data.",
+        "latest_release_url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/tag/v0.5.0",
+        "latest_release_name": "v0.5.0 - snapshots, single-screen layout, clean-room rewrites (source only)",
+        "release_assets": [
+          {
+            "name": "dq9-decomp-windows-kit-v0.5.0.zip",
+            "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.5.0/dq9-decomp-windows-kit-v0.5.0.zip",
+            "size": 1291587
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.5.0 - snapshots, single-screen layout, clean-room rewrites (source only)",
+            "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/tag/v0.5.0",
+            "published_at": "2026-10-28T18:36:21Z",
+            "assets": [
+              {
+                "name": "dq9-decomp-windows-kit-v0.5.0.zip",
+                "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.5.0/dq9-decomp-windows-kit-v0.5.0.zip",
+                "size": 1291587
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.4.5 - GPU3D edge walker rewrite (source only)",
+            "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/tag/v0.4.5",
+            "published_at": "2026-10-28T16:11:34Z",
+            "assets": [
+              {
+                "name": "dq9-decomp-windows-kit-v0.4.5.zip",
+                "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.4.5/dq9-decomp-windows-kit-v0.4.5.zip",
+                "size": 1265944
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.4.4 - GPU2D four-wide output conversion (source only)",
+            "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/tag/v0.4.4",
+            "published_at": "2026-10-21T03:54:16Z",
+            "assets": [
+              {
+                "name": "dq9-decomp-windows-kit-v0.4.4.zip",
+                "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.4.4/dq9-decomp-windows-kit-v0.4.4.zip",
+                "size": 1250129
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.4.3 - GPU3D framebuffer packing (source only)",
+            "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/tag/v0.4.3",
+            "published_at": "2026-10-21T03:06:11Z",
+            "assets": [
+              {
+                "name": "dq9-decomp-windows-kit-v0.4.3.zip",
+                "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.4.3/dq9-decomp-windows-kit-v0.4.3.zip",
+                "size": 1248223
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.4.2 - output-identical speedups (source only)",
+            "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/tag/v0.4.2",
+            "published_at": "2026-10-21T02:34:39Z",
+            "assets": [
+              {
+                "name": "dq9-decomp-windows-kit-v0.4.2.zip",
+                "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.4.2/dq9-decomp-windows-kit-v0.4.2.zip",
+                "size": 1246232
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.4.1 - security hardening, timer/IRQ accuracy, Godot audio (source only)",
+            "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/tag/v0.4.1",
+            "published_at": "2026-10-21T00:57:36Z",
+            "assets": [
+              {
+                "name": "dq9-decomp-windows-kit-v0.4.1.zip",
+                "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.4.1/dq9-decomp-windows-kit-v0.4.1.zip",
+                "size": 1230391
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.4.0 - timing model, RTC/touch fixes, GPU3D clip/alpha, docs and CI audit (source only)",
+            "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/tag/v0.4.0",
+            "published_at": "2026-10-20T23:47:25Z",
+            "assets": [
+              {
+                "name": "dq9-decomp-windows-kit-v0.4.0.zip",
+                "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.4.0/dq9-decomp-windows-kit-v0.4.0.zip",
+                "size": 1205686
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.3.1 - Godot save restore panel (source only)",
+            "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/tag/v0.3.1",
+            "published_at": "2026-10-20T20:17:05Z",
+            "assets": [
+              {
+                "name": "dq9-decomp-windows-kit-v0.3.1.zip",
+                "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.3.1/dq9-decomp-windows-kit-v0.3.1.zip",
+                "size": 1184350
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.3.0 - launcher, save safety, audio recovery, diagnostics, Godot guide updates (source only)",
+            "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/tag/v0.3.0",
+            "published_at": "2026-10-20T19:23:35Z",
+            "assets": [
+              {
+                "name": "dq9-decomp-windows-kit-v0.3.0.zip",
+                "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.3.0/dq9-decomp-windows-kit-v0.3.0.zip",
+                "size": 1170265
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.2.9 - cleaner Windows kit, Godot scripts and guide (source only)",
+            "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/tag/v0.2.9",
+            "published_at": "2026-10-20T18:12:16Z",
+            "assets": [
+              {
+                "name": "dq9-decomp-windows-kit-v0.2.9.zip",
+                "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.2.9/dq9-decomp-windows-kit-v0.2.9.zip",
+                "size": 1139544
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "dq9-decomp-windows-kit-v0.5.0.zip",
+          "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.5.0/dq9-decomp-windows-kit-v0.5.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "dq9-decomp-windows-kit-v0.4.5.zip",
+          "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.4.5/dq9-decomp-windows-kit-v0.4.5.zip",
+          "type": "archive"
+        },
+        {
+          "name": "dq9-decomp-windows-kit-v0.4.4.zip",
+          "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.4.4/dq9-decomp-windows-kit-v0.4.4.zip",
+          "type": "archive"
+        },
+        {
+          "name": "dq9-decomp-windows-kit-v0.4.3.zip",
+          "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.4.3/dq9-decomp-windows-kit-v0.4.3.zip",
+          "type": "archive"
+        },
+        {
+          "name": "dq9-decomp-windows-kit-v0.4.2.zip",
+          "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.4.2/dq9-decomp-windows-kit-v0.4.2.zip",
+          "type": "archive"
+        },
+        {
+          "name": "dq9-decomp-windows-kit-v0.4.1.zip",
+          "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.4.1/dq9-decomp-windows-kit-v0.4.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "dq9-decomp-windows-kit-v0.4.0.zip",
+          "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.4.0/dq9-decomp-windows-kit-v0.4.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "dq9-decomp-windows-kit-v0.3.1.zip",
+          "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.3.1/dq9-decomp-windows-kit-v0.3.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "dq9-decomp-windows-kit-v0.3.0.zip",
+          "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.3.0/dq9-decomp-windows-kit-v0.3.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "dq9-decomp-windows-kit-v0.2.9.zip",
+          "url": "https://github.com/dq9-remastered/DQ9-Remastered/releases/download/v0.2.9/dq9-decomp-windows-kit-v0.2.9.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "seanrb93/ts-rust",
+      "url": "https://github.com/seanrb93/ts-rust",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-29T23:48:06Z",
+      "summary": "A static recompilation of the PS2 game TimeSplitters written in Rust.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-29T23:53:09.253617+00:00",
+      "check": {
+        "checked_at": "2026-10-30T11:16:34.940860+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A decompilation of the PS2 game TimeSplitters written in Rust.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -157,33 +842,6 @@
       ]
     },
     {
-      "title": "seanrb93/ts-rust",
-      "url": "https://github.com/seanrb93/ts-rust",
-      "source_name": "GitHub: static recompilation",
-      "published": "2026-10-29T23:48:06Z",
-      "summary": "A static recompilation of the PS2 game TimeSplitters written in Rust.",
-      "status": "unverified",
-      "browser_playable": "unknown",
-      "found_at": "2026-10-29T23:53:09.253617+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
-      "category_evidence": {
-        "browser_terms": [],
-        "android_terms": [],
-        "pc_terms": [],
-        "other_platform_terms": []
-      },
-      "build_links": [],
-      "classification_notes": [],
-      "relevance_score": 10,
-      "relevance_status": "promising",
-      "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
-        "Есть игровые/платформенные признаки: game"
-      ]
-    },
-    {
       "title": "dalves408/nhlhitzpro-recomp",
       "url": "https://github.com/dalves408/nhlhitzpro-recomp",
       "source_name": "GitHub: static recompilation",
@@ -192,7 +850,101 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T23:53:09.252511+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T11:16:36.316389+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "NHL Hitz Pro (Xbox, 2003) for Windows PC: a static recompilation with a Direct3D 11 renderer, 4-player controller support and an installer. Bring your own disc; no game content included.",
+        "latest_release_url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/tag/v1.0.4",
+        "latest_release_name": "NHL Hitz Pro for PC 1.0.4",
+        "release_assets": [
+          {
+            "name": "NHLHitzPro-Setup-1.0.4.exe",
+            "url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/download/v1.0.4/NHLHitzPro-Setup-1.0.4.exe",
+            "size": 8904752
+          }
+        ],
+        "releases": [
+          {
+            "name": "NHL Hitz Pro for PC 1.0.4",
+            "url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/tag/v1.0.4",
+            "published_at": "2026-10-30T01:14:28Z",
+            "assets": [
+              {
+                "name": "NHLHitzPro-Setup-1.0.4.exe",
+                "url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/download/v1.0.4/NHLHitzPro-Setup-1.0.4.exe",
+                "size": 8904752
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "NHL Hitz Pro for PC 1.0.3",
+            "url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/tag/v1.0.3",
+            "published_at": "2026-10-29T23:55:09Z",
+            "assets": [
+              {
+                "name": "NHLHitzPro-Setup-1.0.3.exe",
+                "url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/download/v1.0.3/NHLHitzPro-Setup-1.0.3.exe",
+                "size": 8867197
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "NHL Hitz Pro for PC 1.0.2",
+            "url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/tag/v1.0.2",
+            "published_at": "2026-10-29T23:32:52Z",
+            "assets": [
+              {
+                "name": "NHLHitzPro-Setup-1.0.2.exe",
+                "url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/download/v1.0.2/NHLHitzPro-Setup-1.0.2.exe",
+                "size": 8863665
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "NHL Hitz Pro for PC 1.0.1",
+            "url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/tag/v1.0.1",
+            "published_at": "2026-10-29T23:09:44Z",
+            "assets": [
+              {
+                "name": "NHLHitzPro-Setup-1.0.1.exe",
+                "url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/download/v1.0.1/NHLHitzPro-Setup-1.0.1.exe",
+                "size": 8862440
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "NHL Hitz Pro for PC 1.0.0",
+            "url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/tag/v1.0.0",
+            "published_at": "2026-10-29T17:17:29Z",
+            "assets": [
+              {
+                "name": "NHLHitzPro-Setup-1.0.0.exe",
+                "url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/download/v1.0.0/NHLHitzPro-Setup-1.0.0.exe",
+                "size": 8860053
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -205,9 +957,36 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "NHLHitzPro-Setup-1.0.4.exe",
+          "url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/download/v1.0.4/NHLHitzPro-Setup-1.0.4.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "NHLHitzPro-Setup-1.0.3.exe",
+          "url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/download/v1.0.3/NHLHitzPro-Setup-1.0.3.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "NHLHitzPro-Setup-1.0.2.exe",
+          "url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/download/v1.0.2/NHLHitzPro-Setup-1.0.2.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "NHLHitzPro-Setup-1.0.1.exe",
+          "url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/download/v1.0.1/NHLHitzPro-Setup-1.0.1.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "NHLHitzPro-Setup-1.0.0.exe",
+          "url": "https://github.com/dalves408/nhlhitzpro-recomp/releases/download/v1.0.0/NHLHitzPro-Setup-1.0.0.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -225,7 +1004,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T23:53:05.071169+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-30T11:16:37.673791+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Groundhold: a co-op and competitive tower defense where Builders from every shore hold one another's ground. Godot 4.7, plays in the browser.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
