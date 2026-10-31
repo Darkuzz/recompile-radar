@@ -1,7 +1,351 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-30T23:35:19.693829+00:00",
+  "last_updated": "2026-10-31T10:49:21.236518+00:00",
   "candidates": [
+    {
+      "title": "anusreekr5081-cyber/horizon-mobile-launcher",
+      "url": "https://github.com/anusreekr5081-cyber/horizon-mobile-launcher",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-31T08:36:24Z",
+      "summary": "Rust-only Android port host for Horizon 26.3: native launcher and native game runtime, no JVM.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T10:49:07.340464+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "WQQZachery/Mudrider-Android",
+      "url": "https://github.com/WQQZachery/Mudrider-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-31T09:59:53Z",
+      "summary": "Android port of the Mudrider 3D mountain-bike web game (Kotlin + WebView, offline-capable, animated splash).",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T10:49:07.339675+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "dmcguire72/chrome-dino-cpp",
+      "url": "https://github.com/dmcguire72/chrome-dino-cpp",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-31T08:18:27Z",
+      "summary": "C++ port of chrome dino game (ps2/og xbox/windows/linux/android)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T10:49:05.670397+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux, android"
+      ]
+    },
+    {
+      "title": "springah/zuma_recomp",
+      "url": "https://github.com/springah/zuma_recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-31T02:27:14Z",
+      "summary": "Zuma (Xbox 360/XBLA) static recompilation for PC on the ReXGlue SDK -- boots to the title screen; no game data included Topics: recompilation, rexglue, xbla, xbox360, zuma",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T10:49:02.191667+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "randomize6711/KUF-Circle-of-Doom-Recomp",
+      "url": "https://github.com/randomize6711/KUF-Circle-of-Doom-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-31T04:00:41Z",
+      "summary": "KUF: Circle of Doom Recomp - a native PC port of Kingdom Under Fire: Circle of Doom (Xbox 360) via static recompilation with ReXGlue. Bring your own game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T10:49:02.190767+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "AlvaroEPena/bo2-360-nx",
+      "url": "https://github.com/AlvaroEPena/bo2-360-nx",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-31T06:22:39Z",
+      "summary": "Black Ops II (Xbox 360) on Nintendo Switch and Windows by static recompilation: Zombies, Multiplayer and Campaign, built from your own game files Topics: black-ops-2, nintendo-switch, static-recompilation, switch-homebrew, xbox-360, zombies",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T10:49:02.189758+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-31T10:04:22Z",
+      "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T10:49:02.188754+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "lanhouse-playra/game",
+      "url": "https://github.com/lanhouse-playra/game",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-31T03:42:40Z",
+      "summary": "OpenRA (Red Alert) in the browser. Join the regular OpenRA servers and play alongside desktop players. Topics: browser-game, dotnet, openra, red-alert, rts, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T10:48:58.489540+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "scttfrdmn/webgpu-compute-exploration",
+      "url": "https://github.com/scttfrdmn/webgpu-compute-exploration",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-31T05:03:17Z",
+      "summary": "Interactive WebGPU compute shader examples in WGSL that run in the browser: SPH fluid simulation, molecular dynamics, boids flocking, Game of Life, ray-marched 3D fractals (Mandelbulb), 3D diffusion-limited aggregation, Gaussian blur, matrix multiplication, and Rust/WebAssembly integration. No install, no build step. Topics: boids, compute-shaders, diffusion-limited-aggregation, fluid-simulation, fractals, game-of-life, gpgpu, gpu-computing, javascript, mandelbulb, molecular-dynamics, physics-simulation, ray-marching, rust, scientific-computing, sph, wasm, webassembly, webgpu, wgsl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T10:48:58.488150+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "sudha9452321473-droid/snack-game-play-in-browser-",
+      "url": "https://github.com/sudha9452321473-droid/snack-game-play-in-browser-",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-10-31T05:07:48Z",
+      "summary": "My first repository on github",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T10:48:56.686240+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 3,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
+      ]
+    },
     {
       "title": "joesnose/DeadBabiesX-Android-recompilation",
       "url": "https://github.com/joesnose/DeadBabiesX-Android-recompilation",
@@ -11,7 +355,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T23:35:07.969626+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-31T10:49:10.519970+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "This is a recompiled original Xbox homebrew game called DeadBabies xtreme. I was able to find the source code and get AI to recompile it for android. This is 100% AI generated. Its a great retro vibed game that i always loved on Xbox, a few option have been added but it remains basically the same.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -44,7 +405,351 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T23:35:04.584346+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-31T10:49:11.809131+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Ninja Gaiden Black (Xbox, 2005) statically recompiled into native Linux and Windows builds, with an experimental Android port, drawn by its own Vulkan renderer. A steady 60 fps, widescreen and ultrawide, keyboard and mouse, touch controls on Android, Steam Deck ready. Bring your own copy of the game.",
+        "latest_release_url": "https://github.com/gamboozino/ngbrecomp/releases/tag/v0.9.46",
+        "latest_release_name": "Ninja Gaiden Black Recompiled v0.9.46",
+        "release_assets": [
+          {
+            "name": "NinjaGaidenBlack-android-arm64.apk",
+            "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.46/NinjaGaidenBlack-android-arm64.apk",
+            "size": 17426435
+          },
+          {
+            "name": "NinjaGaidenBlack-windows-x64.zip",
+            "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.46/NinjaGaidenBlack-windows-x64.zip",
+            "size": 22627670
+          },
+          {
+            "name": "NinjaGaidenBlack-x86_64.AppImage",
+            "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.46/NinjaGaidenBlack-x86_64.AppImage",
+            "size": 43735544
+          },
+          {
+            "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+            "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.46/NinjaGaidenBlack-x86_64.AppImage.zsync",
+            "size": 149727
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.46/SHA256SUMS.txt",
+            "size": 299
+          }
+        ],
+        "releases": [
+          {
+            "name": "Ninja Gaiden Black Recompiled v0.9.46",
+            "url": "https://github.com/gamboozino/ngbrecomp/releases/tag/v0.9.46",
+            "published_at": "2026-10-30T18:49:36Z",
+            "assets": [
+              {
+                "name": "NinjaGaidenBlack-android-arm64.apk",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.46/NinjaGaidenBlack-android-arm64.apk",
+                "size": 17426435
+              },
+              {
+                "name": "NinjaGaidenBlack-windows-x64.zip",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.46/NinjaGaidenBlack-windows-x64.zip",
+                "size": 22627670
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.46/NinjaGaidenBlack-x86_64.AppImage",
+                "size": 43735544
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.46/NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "size": 149727
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.46/SHA256SUMS.txt",
+                "size": 299
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Ninja Gaiden Black Recompiled v0.9.45",
+            "url": "https://github.com/gamboozino/ngbrecomp/releases/tag/v0.9.45",
+            "published_at": "2026-10-30T16:04:49Z",
+            "assets": [
+              {
+                "name": "NinjaGaidenBlack-android-arm64.apk",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.45/NinjaGaidenBlack-android-arm64.apk",
+                "size": 14373566
+              },
+              {
+                "name": "NinjaGaidenBlack-windows-x64.zip",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.45/NinjaGaidenBlack-windows-x64.zip",
+                "size": 22625190
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.45/NinjaGaidenBlack-x86_64.AppImage",
+                "size": 43743736
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.45/NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "size": 149755
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.45/SHA256SUMS.txt",
+                "size": 299
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Ninja Gaiden Black Recompiled v0.9.44",
+            "url": "https://github.com/gamboozino/ngbrecomp/releases/tag/v0.9.44",
+            "published_at": "2026-10-30T12:34:19Z",
+            "assets": [
+              {
+                "name": "NinjaGaidenBlack-windows-x64.zip",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.44/NinjaGaidenBlack-windows-x64.zip",
+                "size": 22552119
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.44/NinjaGaidenBlack-x86_64.AppImage",
+                "size": 43678200
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.44/NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "size": 149531
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.44/SHA256SUMS.txt",
+                "size": 198
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Ninja Gaiden Black Recompiled v0.9.43",
+            "url": "https://github.com/gamboozino/ngbrecomp/releases/tag/v0.9.43",
+            "published_at": "2026-10-30T01:33:07Z",
+            "assets": [
+              {
+                "name": "NinjaGaidenBlack-windows-x64.zip",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.43/NinjaGaidenBlack-windows-x64.zip",
+                "size": 22607323
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.43/NinjaGaidenBlack-x86_64.AppImage",
+                "size": 43723256
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.43/NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "size": 149685
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.43/SHA256SUMS.txt",
+                "size": 198
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Ninja Gaiden Black Recompiled v0.9.42",
+            "url": "https://github.com/gamboozino/ngbrecomp/releases/tag/v0.9.42",
+            "published_at": "2026-10-29T22:53:53Z",
+            "assets": [
+              {
+                "name": "NinjaGaidenBlack-windows-x64.zip",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.42/NinjaGaidenBlack-windows-x64.zip",
+                "size": 22607231
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.42/NinjaGaidenBlack-x86_64.AppImage",
+                "size": 43719160
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.42/NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "size": 149671
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.42/SHA256SUMS.txt",
+                "size": 198
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Ninja Gaiden Black Recompiled v0.9.41",
+            "url": "https://github.com/gamboozino/ngbrecomp/releases/tag/v0.9.41",
+            "published_at": "2026-10-29T17:57:45Z",
+            "assets": [
+              {
+                "name": "NinjaGaidenBlack-windows-x64.zip",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.41/NinjaGaidenBlack-windows-x64.zip",
+                "size": 22605878
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.41/NinjaGaidenBlack-x86_64.AppImage",
+                "size": 43723256
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.41/NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "size": 149685
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.41/SHA256SUMS.txt",
+                "size": 198
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Ninja Gaiden Black Recompiled v0.9.40",
+            "url": "https://github.com/gamboozino/ngbrecomp/releases/tag/v0.9.40",
+            "published_at": "2026-10-29T15:30:15Z",
+            "assets": [
+              {
+                "name": "NinjaGaidenBlack-windows-x64.zip",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.40/NinjaGaidenBlack-windows-x64.zip",
+                "size": 22605840
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.40/NinjaGaidenBlack-x86_64.AppImage",
+                "size": 43719160
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.40/NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "size": 149671
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.40/SHA256SUMS.txt",
+                "size": 198
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Ninja Gaiden Black Recompiled v0.9.39",
+            "url": "https://github.com/gamboozino/ngbrecomp/releases/tag/v0.9.39",
+            "published_at": "2026-10-28T13:06:57Z",
+            "assets": [
+              {
+                "name": "NinjaGaidenBlack-windows-x64.zip",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.39/NinjaGaidenBlack-windows-x64.zip",
+                "size": 22601671
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.39/NinjaGaidenBlack-x86_64.AppImage",
+                "size": 43706872
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.39/NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "size": 149629
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.39/SHA256SUMS.txt",
+                "size": 303
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Ninja Gaiden Black Recompiled v0.9.38",
+            "url": "https://github.com/gamboozino/ngbrecomp/releases/tag/v0.9.38",
+            "published_at": "2026-10-28T02:41:59Z",
+            "assets": [
+              {
+                "name": "NinjaGaidenBlack-windows-x64.zip",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.38/NinjaGaidenBlack-windows-x64.zip",
+                "size": 22588417
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.38/NinjaGaidenBlack-x86_64.AppImage",
+                "size": 43686392
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.38/NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "size": 149559
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.38/SHA256SUMS.txt",
+                "size": 303
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Ninja Gaiden Black Recompiled v0.9.37",
+            "url": "https://github.com/gamboozino/ngbrecomp/releases/tag/v0.9.37",
+            "published_at": "2026-10-27T16:30:35Z",
+            "assets": [
+              {
+                "name": "NinjaGaidenBlack-windows-x64.zip",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.37/NinjaGaidenBlack-windows-x64.zip",
+                "size": 22582930
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.37/NinjaGaidenBlack-x86_64.AppImage",
+                "size": 43698680
+              },
+              {
+                "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.37/NinjaGaidenBlack-x86_64.AppImage.zsync",
+                "size": 149601
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.37/SHA256SUMS.txt",
+                "size": 303
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -63,10 +768,222 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "NinjaGaidenBlack-android-arm64.apk",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.46/NinjaGaidenBlack-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NinjaGaidenBlack-windows-x64.zip",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.46/NinjaGaidenBlack-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.46/NinjaGaidenBlack-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.46/NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.46/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "NinjaGaidenBlack-android-arm64.apk",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.45/NinjaGaidenBlack-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NinjaGaidenBlack-windows-x64.zip",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.45/NinjaGaidenBlack-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.45/NinjaGaidenBlack-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.45/NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.45/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "NinjaGaidenBlack-windows-x64.zip",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.44/NinjaGaidenBlack-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.44/NinjaGaidenBlack-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.44/NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.44/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "NinjaGaidenBlack-windows-x64.zip",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.43/NinjaGaidenBlack-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.43/NinjaGaidenBlack-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.43/NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.43/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "NinjaGaidenBlack-windows-x64.zip",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.42/NinjaGaidenBlack-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.42/NinjaGaidenBlack-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.42/NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.42/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "NinjaGaidenBlack-windows-x64.zip",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.41/NinjaGaidenBlack-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.41/NinjaGaidenBlack-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.41/NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.41/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "NinjaGaidenBlack-windows-x64.zip",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.40/NinjaGaidenBlack-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.40/NinjaGaidenBlack-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.40/NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.40/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "NinjaGaidenBlack-windows-x64.zip",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.39/NinjaGaidenBlack-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.39/NinjaGaidenBlack-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.39/NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.39/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "NinjaGaidenBlack-windows-x64.zip",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.38/NinjaGaidenBlack-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.38/NinjaGaidenBlack-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.38/NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.38/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "NinjaGaidenBlack-windows-x64.zip",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.37/NinjaGaidenBlack-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.37/NinjaGaidenBlack-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.37/NinjaGaidenBlack-x86_64.AppImage.zsync",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/gamboozino/ngbrecomp/releases/download/v0.9.37/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -84,7 +1001,95 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T23:35:04.583361+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-31T10:49:13.181237+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native PC port of God of War (2005, PS2) for Windows, with experimental Linux support. Statically recompiled to C++, not an emulator. OpenGL renderer, launcher, cheat menu, widescreen, 60 FPS. Bring your own game dump: no game files included.",
+        "latest_release_url": "https://github.com/danielalves96/gow-pc-port/releases/tag/launcher-v0.1.0",
+        "latest_release_name": "v0.1.0",
+        "release_assets": [
+          {
+            "name": "God-Of-War-PC-Launcher_0.1.0_x64-portable.zip",
+            "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/God-Of-War-PC-Launcher_0.1.0_x64-portable.zip",
+            "size": 17017781
+          },
+          {
+            "name": "God.Of.War.-.PC.Launcher_0.1.0_amd64.AppImage",
+            "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/God.Of.War.-.PC.Launcher_0.1.0_amd64.AppImage",
+            "size": 94751224
+          },
+          {
+            "name": "God.Of.War.-.PC.Launcher_0.1.0_amd64.deb",
+            "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/God.Of.War.-.PC.Launcher_0.1.0_amd64.deb",
+            "size": 17315828
+          },
+          {
+            "name": "God.Of.War.-.PC.Launcher_0.1.0_x64-setup.exe",
+            "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/God.Of.War.-.PC.Launcher_0.1.0_x64-setup.exe",
+            "size": 228458012
+          },
+          {
+            "name": "SHA256SUMS-linux.txt",
+            "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/SHA256SUMS-linux.txt",
+            "size": 219
+          },
+          {
+            "name": "SHA256SUMS-windows.txt",
+            "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/SHA256SUMS-windows.txt",
+            "size": 223
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0",
+            "url": "https://github.com/danielalves96/gow-pc-port/releases/tag/launcher-v0.1.0",
+            "published_at": "2026-10-31T01:47:36Z",
+            "assets": [
+              {
+                "name": "God-Of-War-PC-Launcher_0.1.0_x64-portable.zip",
+                "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/God-Of-War-PC-Launcher_0.1.0_x64-portable.zip",
+                "size": 17017781
+              },
+              {
+                "name": "God.Of.War.-.PC.Launcher_0.1.0_amd64.AppImage",
+                "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/God.Of.War.-.PC.Launcher_0.1.0_amd64.AppImage",
+                "size": 94751224
+              },
+              {
+                "name": "God.Of.War.-.PC.Launcher_0.1.0_amd64.deb",
+                "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/God.Of.War.-.PC.Launcher_0.1.0_amd64.deb",
+                "size": 17315828
+              },
+              {
+                "name": "God.Of.War.-.PC.Launcher_0.1.0_x64-setup.exe",
+                "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/God.Of.War.-.PC.Launcher_0.1.0_x64-setup.exe",
+                "size": 228458012
+              },
+              {
+                "name": "SHA256SUMS-linux.txt",
+                "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/SHA256SUMS-linux.txt",
+                "size": 219
+              },
+              {
+                "name": "SHA256SUMS-windows.txt",
+                "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/SHA256SUMS-windows.txt",
+                "size": 223
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -100,9 +1105,41 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "God-Of-War-PC-Launcher_0.1.0_x64-portable.zip",
+          "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/God-Of-War-PC-Launcher_0.1.0_x64-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "God.Of.War.-.PC.Launcher_0.1.0_amd64.AppImage",
+          "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/God.Of.War.-.PC.Launcher_0.1.0_amd64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "God.Of.War.-.PC.Launcher_0.1.0_amd64.deb",
+          "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/God.Of.War.-.PC.Launcher_0.1.0_amd64.deb",
+          "type": "desktop_package"
+        },
+        {
+          "name": "God.Of.War.-.PC.Launcher_0.1.0_x64-setup.exe",
+          "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/God.Of.War.-.PC.Launcher_0.1.0_x64-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "SHA256SUMS-linux.txt",
+          "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/SHA256SUMS-linux.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS-windows.txt",
+          "url": "https://github.com/danielalves96/gow-pc-port/releases/download/launcher-v0.1.0/SHA256SUMS-windows.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -120,7 +1157,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T23:35:04.582579+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-31T10:49:14.519580+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Unofficial preservation port of Twin Blades (2010) to .NET 10 / MonoGame for Windows and Linux",
+        "latest_release_url": "https://github.com/Silureth/twin-blades-resanctified/releases/tag/v1.0",
+        "latest_release_name": "Twin Blades: Resanctified v1.0",
+        "release_assets": [
+          {
+            "name": "Resanctified-v1.0-linux-x64.tar.gz",
+            "url": "https://github.com/Silureth/twin-blades-resanctified/releases/download/v1.0/Resanctified-v1.0-linux-x64.tar.gz",
+            "size": 211005718
+          },
+          {
+            "name": "Resanctified-v1.0-win-x64.zip",
+            "url": "https://github.com/Silureth/twin-blades-resanctified/releases/download/v1.0/Resanctified-v1.0-win-x64.zip",
+            "size": 210941803
+          }
+        ],
+        "releases": [
+          {
+            "name": "Twin Blades: Resanctified v1.0",
+            "url": "https://github.com/Silureth/twin-blades-resanctified/releases/tag/v1.0",
+            "published_at": "2026-10-30T21:26:08Z",
+            "assets": [
+              {
+                "name": "Resanctified-v1.0-linux-x64.tar.gz",
+                "url": "https://github.com/Silureth/twin-blades-resanctified/releases/download/v1.0/Resanctified-v1.0-linux-x64.tar.gz",
+                "size": 211005718
+              },
+              {
+                "name": "Resanctified-v1.0-win-x64.zip",
+                "url": "https://github.com/Silureth/twin-blades-resanctified/releases/download/v1.0/Resanctified-v1.0-win-x64.zip",
+                "size": 210941803
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -134,9 +1219,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Resanctified-v1.0-linux-x64.tar.gz",
+          "url": "https://github.com/Silureth/twin-blades-resanctified/releases/download/v1.0/Resanctified-v1.0-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "Resanctified-v1.0-win-x64.zip",
+          "url": "https://github.com/Silureth/twin-blades-resanctified/releases/download/v1.0/Resanctified-v1.0-win-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -154,7 +1251,88 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T23:35:04.581897+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-31T10:49:15.952833+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++",
+        "latest_release_url": "https://github.com/gothamor/gta-vcs-recomp/releases/tag/v0.0.3",
+        "latest_release_name": "GTA Vice City Stories Launcher v0.0.3",
+        "release_assets": [
+          {
+            "name": "VCS-Recomp-0.0.3-windows.zip",
+            "url": "https://github.com/gothamor/gta-vcs-recomp/releases/download/v0.0.3/VCS-Recomp-0.0.3-windows.zip",
+            "size": 85341000
+          },
+          {
+            "name": "VCS-Recomp-0.0.3-windows.zip.sha256",
+            "url": "https://github.com/gothamor/gta-vcs-recomp/releases/download/v0.0.3/VCS-Recomp-0.0.3-windows.zip.sha256",
+            "size": 96
+          }
+        ],
+        "releases": [
+          {
+            "name": "GTA Vice City Stories Launcher v0.0.3",
+            "url": "https://github.com/gothamor/gta-vcs-recomp/releases/tag/v0.0.3",
+            "published_at": "2026-10-31T09:26:07Z",
+            "assets": [
+              {
+                "name": "VCS-Recomp-0.0.3-windows.zip",
+                "url": "https://github.com/gothamor/gta-vcs-recomp/releases/download/v0.0.3/VCS-Recomp-0.0.3-windows.zip",
+                "size": 85341000
+              },
+              {
+                "name": "VCS-Recomp-0.0.3-windows.zip.sha256",
+                "url": "https://github.com/gothamor/gta-vcs-recomp/releases/download/v0.0.3/VCS-Recomp-0.0.3-windows.zip.sha256",
+                "size": 96
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "GTA Vice City Stories Launcher v0.0.2",
+            "url": "https://github.com/gothamor/gta-vcs-recomp/releases/tag/v0.0.2",
+            "published_at": "2026-10-30T21:44:09Z",
+            "assets": [
+              {
+                "name": "VCS-Recomp-0.0.2-windows.zip",
+                "url": "https://github.com/gothamor/gta-vcs-recomp/releases/download/v0.0.2/VCS-Recomp-0.0.2-windows.zip",
+                "size": 85297029
+              },
+              {
+                "name": "VCS-Recomp-0.0.2-windows.zip.sha256",
+                "url": "https://github.com/gothamor/gta-vcs-recomp/releases/download/v0.0.2/VCS-Recomp-0.0.2-windows.zip.sha256",
+                "size": 96
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "GTA Vice City Stories Launcher",
+            "url": "https://github.com/gothamor/gta-vcs-recomp/releases/tag/v0.0.1",
+            "published_at": "2026-10-30T13:25:53Z",
+            "assets": [
+              {
+                "name": "VCS-Recomp-0.0.1-windows.zip",
+                "url": "https://github.com/gothamor/gta-vcs-recomp/releases/download/v0.0.1/VCS-Recomp-0.0.1-windows.zip",
+                "size": 86276581
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -168,9 +1346,36 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "VCS-Recomp-0.0.3-windows.zip",
+          "url": "https://github.com/gothamor/gta-vcs-recomp/releases/download/v0.0.3/VCS-Recomp-0.0.3-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "VCS-Recomp-0.0.3-windows.zip.sha256",
+          "url": "https://github.com/gothamor/gta-vcs-recomp/releases/download/v0.0.3/VCS-Recomp-0.0.3-windows.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "VCS-Recomp-0.0.2-windows.zip",
+          "url": "https://github.com/gothamor/gta-vcs-recomp/releases/download/v0.0.2/VCS-Recomp-0.0.2-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "VCS-Recomp-0.0.2-windows.zip.sha256",
+          "url": "https://github.com/gothamor/gta-vcs-recomp/releases/download/v0.0.2/VCS-Recomp-0.0.2-windows.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "VCS-Recomp-0.0.1-windows.zip",
+          "url": "https://github.com/gothamor/gta-vcs-recomp/releases/download/v0.0.1/VCS-Recomp-0.0.1-windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -188,7 +1393,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T23:35:00.781428+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-31T10:49:17.294936+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "“Native Windows port of WET (Xbox 360) via static recompilation. Requires your own copy of the game.”",
+        "latest_release_url": "https://github.com/zonehammer/wet-recomp/releases/tag/v0.1.0",
+        "latest_release_name": "WET Recompiled 0.1.0",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "WET Recompiled 0.1.0",
+            "url": "https://github.com/zonehammer/wet-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-10-30T23:14:51Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -221,7 +1452,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T23:35:00.780717+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-31T10:49:18.616331+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Splinter Cell: Blacklist (Xbox 360) for PS5: a static recompilation port. No game files included; bring your own discs.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -248,7 +1496,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T23:35:00.780063+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-31T10:49:19.923729+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Research: static recompilation of the original Xbox Manhunt to Nintendo Switch (no game data included)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
