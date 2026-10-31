@@ -1,16 +1,49 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-31T10:49:21.236518+00:00",
+  "last_updated": "2026-10-31T17:08:45.512150+00:00",
   "candidates": [
     {
-      "title": "anusreekr5081-cyber/horizon-mobile-launcher",
-      "url": "https://github.com/anusreekr5081-cyber/horizon-mobile-launcher",
+      "title": "orev7s/porthub",
+      "url": "https://github.com/orev7s/porthub",
       "source_name": "GitHub: Android ports",
-      "published": "2026-10-31T08:36:24Z",
-      "summary": "Rust-only Android port host for Horizon 26.3: native launcher and native game runtime, no JVM.",
+      "published": "2026-10-31T14:11:46Z",
+      "summary": "Search every Android game port, decomp and recomp in one app. Kotlin + Compose. Topics: android, compose, game-ports, github, juegos, open-source, retrogaming",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-10-31T10:49:07.340464+00:00",
+      "found_at": "2026-10-31T17:08:30.452902+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: game port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "maxpunk624/project-dream-easy-way-for-android-",
+      "url": "https://github.com/maxpunk624/project-dream-easy-way-for-android-",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-31T14:46:14Z",
+      "summary": "This Android port method for Sonic Dream Team is intended for users without a PC (building the APK yourself is recommended; full credits to Beatz!). Disclaimer: Please use original game files and always support the official developers.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T17:08:30.451916+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -28,6 +61,271 @@
       "build_links": [],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, original game, android, apk"
+      ]
+    },
+    {
+      "title": "dk8827/ra-port",
+      "url": "https://github.com/dk8827/ra-port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-31T16:56:07Z",
+      "summary": "Unofficial working port of Command & Conquer: Red Alert running natively on iOS, Android, Linux and macOS. SDL2 video/audio/input. No game assets included. Topics: android-game, apple-silicon, classic-games, command-and-conquer, game-port, macos, macos-game, open-source-game, red-alert, rts, sdl2, source-port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T17:08:30.450285+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source-port, port of",
+        "Есть игровые/платформенные признаки: game, linux, android"
+      ]
+    },
+    {
+      "title": "nerooo190/web-game-ports-hub",
+      "url": "https://github.com/nerooo190/web-game-ports-hub",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-10-31T14:35:21Z",
+      "summary": "Launcher for ~920 browser game ports: web, Windows, Linux, Android, Tizen",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T17:08:28.686070+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 7,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, windows, linux, android",
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
+      ]
+    },
+    {
+      "title": "timboat/demons-souls-recomp",
+      "url": "https://github.com/timboat/demons-souls-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-10-31T15:39:29Z",
+      "summary": "Native Windows port of Demon's Souls (PS3, BLUS-30443) via ps3recomp static recompilation. Bring your own disc image; no game files included. Topics: demons-souls, pc-port, ps3, ps3recomp, recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T17:08:25.045601+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "Redixel-Team/RedixelWeb",
+      "url": "https://github.com/Redixel-Team/RedixelWeb",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-31T14:04:59Z",
+      "summary": "Official frontend and interactive playground for the Redixel game engine, running its Rust games in the browser via WebAssembly and WebGPU Topics: react, webassembly, webgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T17:08:21.034583+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, game engine, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "berobloom/redcat-rrr-re",
+      "url": "https://github.com/berobloom/redcat-rrr-re",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-10-31T14:38:37Z",
+      "summary": "Reverse engineering of RedCat's Razende Rekenrace (1996, DOS) and a from-scratch C port for Linux and the browser (WebAssembly). Needs your own copy of the game data. Topics: c, dos, educational-game, emscripten, game-port, racing-game, retro-gaming, reverse-engineering, sdl2, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T17:08:21.033482+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: reverse engineering",
+        "Есть игровые/платформенные признаки: game, webassembly, linux"
+      ]
+    },
+    {
+      "title": "anusreekr5081-cyber/horizon-mobile-launcher",
+      "url": "https://github.com/anusreekr5081-cyber/horizon-mobile-launcher",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-10-31T08:36:24Z",
+      "summary": "Rust-only Android port host for Horizon 26.3: native launcher and native game runtime, no JVM.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-10-31T10:49:07.340464+00:00",
+      "check": {
+        "checked_at": "2026-10-31T17:08:33.965913+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Rust-only Android port host for Horizon 26.3: native launcher and native game runtime, no JVM.",
+        "latest_release_url": "https://github.com/anusreekr5081-cyber/horizon-mobile-launcher/releases/tag/v26.3.0",
+        "latest_release_name": "Horizon 26.3 Mobile Launcher (0% Java, Pure Rust)",
+        "release_assets": [
+          {
+            "name": "horizon-26.3-mobile-arm64.apk",
+            "url": "https://github.com/anusreekr5081-cyber/horizon-mobile-launcher/releases/download/v26.3.0/horizon-26.3-mobile-arm64.apk",
+            "size": 541747
+          }
+        ],
+        "releases": [
+          {
+            "name": "Horizon 26.3 Mobile Launcher (0% Java, Pure Rust)",
+            "url": "https://github.com/anusreekr5081-cyber/horizon-mobile-launcher/releases/tag/v26.3.0",
+            "published_at": "2026-10-31T06:56:28Z",
+            "assets": [
+              {
+                "name": "horizon-26.3-mobile-arm64.apk",
+                "url": "https://github.com/anusreekr5081-cyber/horizon-mobile-launcher/releases/download/v26.3.0/horizon-26.3-mobile-arm64.apk",
+                "size": 541747
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "horizon-26.3-mobile-arm64.apk",
+          "url": "https://github.com/anusreekr5081-cyber/horizon-mobile-launcher/releases/download/v26.3.0/horizon-26.3-mobile-arm64.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
@@ -45,7 +343,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-31T10:49:07.339675+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-31T17:08:35.464768+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Android port of the Mudrider 3D mountain-bike web game (Kotlin + WebView, offline-capable, animated splash).",
+        "latest_release_url": "https://github.com/WQQZachery/Mudrider-Android/releases/tag/v1.1.0",
+        "latest_release_name": "Mudrider Android v1.1.0",
+        "release_assets": [
+          {
+            "name": "Mudrider-Android-v1.1.0.apk",
+            "url": "https://github.com/WQQZachery/Mudrider-Android/releases/download/v1.1.0/Mudrider-Android-v1.1.0.apk",
+            "size": 8344995
+          }
+        ],
+        "releases": [
+          {
+            "name": "Mudrider Android v1.1.0",
+            "url": "https://github.com/WQQZachery/Mudrider-Android/releases/tag/v1.1.0",
+            "published_at": "2026-10-31T09:59:54Z",
+            "assets": [
+              {
+                "name": "Mudrider-Android-v1.1.0.apk",
+                "url": "https://github.com/WQQZachery/Mudrider-Android/releases/download/v1.1.0/Mudrider-Android-v1.1.0.apk",
+                "size": 8344995
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -59,9 +395,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Mudrider-Android-v1.1.0.apk",
+          "url": "https://github.com/WQQZachery/Mudrider-Android/releases/download/v1.1.0/Mudrider-Android-v1.1.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -79,7 +422,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-31T10:49:05.670397+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-31T17:08:36.945879+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "C++ port of chrome dino game (ps2/og xbox/windows/linux/android)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -117,7 +477,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-31T10:49:02.191667+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-31T17:08:38.393355+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Zuma (Xbox 360/XBLA) static recompilation for PC on the ReXGlue SDK -- boots to the title screen; no game data included",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -144,7 +521,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-31T10:49:02.190767+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-31T17:08:39.795710+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "KUF: Circle of Doom Recomp - a native PC port of Kingdom Under Fire: Circle of Doom (Xbox 360) via static recompilation with ReXGlue. Bring your own game.",
+        "latest_release_url": "https://github.com/randomize6711/KUF-Circle-of-Doom-Recomp/releases/tag/v0.7.0-dev.169",
+        "latest_release_name": "Setup 0.7.0-dev.169 (development build)",
+        "release_assets": [
+          {
+            "name": "KingdomUnderFire-CircleOfDoom-Setup-0.7.0-dev.169+g4fbb51ffb8-x86_64.AppImage",
+            "url": "https://github.com/randomize6711/KUF-Circle-of-Doom-Recomp/releases/download/v0.7.0-dev.169/KingdomUnderFire-CircleOfDoom-Setup-0.7.0-dev.169%2Bg4fbb51ffb8-x86_64.AppImage",
+            "size": 24222200
+          }
+        ],
+        "releases": [
+          {
+            "name": "Setup 0.7.0-dev.169 (development build)",
+            "url": "https://github.com/randomize6711/KUF-Circle-of-Doom-Recomp/releases/tag/v0.7.0-dev.169",
+            "published_at": "2026-10-31T04:00:41Z",
+            "assets": [
+              {
+                "name": "KingdomUnderFire-CircleOfDoom-Setup-0.7.0-dev.169+g4fbb51ffb8-x86_64.AppImage",
+                "url": "https://github.com/randomize6711/KUF-Circle-of-Doom-Recomp/releases/download/v0.7.0-dev.169/KingdomUnderFire-CircleOfDoom-Setup-0.7.0-dev.169%2Bg4fbb51ffb8-x86_64.AppImage",
+                "size": 24222200
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -158,9 +573,16 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "KingdomUnderFire-CircleOfDoom-Setup-0.7.0-dev.169+g4fbb51ffb8-x86_64.AppImage",
+          "url": "https://github.com/randomize6711/KUF-Circle-of-Doom-Recomp/releases/download/v0.7.0-dev.169/KingdomUnderFire-CircleOfDoom-Setup-0.7.0-dev.169%2Bg4fbb51ffb8-x86_64.AppImage",
+          "type": "desktop_package"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -178,7 +600,65 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-31T10:49:02.189758+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-31T17:08:41.296195+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Black Ops II (Xbox 360) on Nintendo Switch and Windows by static recompilation: Zombies, Multiplayer and Campaign, built from your own game files",
+        "latest_release_url": "https://github.com/AlvaroEPena/bo2-360-nx/releases/tag/Release-1",
+        "latest_release_name": "bo2-360-nx Release 1",
+        "release_assets": [
+          {
+            "name": "bo2-360-nx-gamefiles-shader-extractor.zip",
+            "url": "https://github.com/AlvaroEPena/bo2-360-nx/releases/download/Release-1/bo2-360-nx-gamefiles-shader-extractor.zip",
+            "size": 16021528
+          },
+          {
+            "name": "bo2-360-nx-release-1.0.0-switch+windows-build-kit.zip",
+            "url": "https://github.com/AlvaroEPena/bo2-360-nx/releases/download/Release-1/bo2-360-nx-release-1.0.0-switch%2Bwindows-build-kit.zip",
+            "size": 154115928
+          },
+          {
+            "name": "bo2-360-nx-switch-PGO-NRO.zip",
+            "url": "https://github.com/AlvaroEPena/bo2-360-nx/releases/download/Release-1/bo2-360-nx-switch-PGO-NRO.zip",
+            "size": 52770456
+          }
+        ],
+        "releases": [
+          {
+            "name": "bo2-360-nx Release 1",
+            "url": "https://github.com/AlvaroEPena/bo2-360-nx/releases/tag/Release-1",
+            "published_at": "2026-10-31T06:13:04Z",
+            "assets": [
+              {
+                "name": "bo2-360-nx-gamefiles-shader-extractor.zip",
+                "url": "https://github.com/AlvaroEPena/bo2-360-nx/releases/download/Release-1/bo2-360-nx-gamefiles-shader-extractor.zip",
+                "size": 16021528
+              },
+              {
+                "name": "bo2-360-nx-release-1.0.0-switch+windows-build-kit.zip",
+                "url": "https://github.com/AlvaroEPena/bo2-360-nx/releases/download/Release-1/bo2-360-nx-release-1.0.0-switch%2Bwindows-build-kit.zip",
+                "size": 154115928
+              },
+              {
+                "name": "bo2-360-nx-switch-PGO-NRO.zip",
+                "url": "https://github.com/AlvaroEPena/bo2-360-nx/releases/download/Release-1/bo2-360-nx-switch-PGO-NRO.zip",
+                "size": 52770456
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -193,10 +673,27 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "bo2-360-nx-gamefiles-shader-extractor.zip",
+          "url": "https://github.com/AlvaroEPena/bo2-360-nx/releases/download/Release-1/bo2-360-nx-gamefiles-shader-extractor.zip",
+          "type": "archive"
+        },
+        {
+          "name": "bo2-360-nx-release-1.0.0-switch+windows-build-kit.zip",
+          "url": "https://github.com/AlvaroEPena/bo2-360-nx/releases/download/Release-1/bo2-360-nx-release-1.0.0-switch%2Bwindows-build-kit.zip",
+          "type": "archive"
+        },
+        {
+          "name": "bo2-360-nx-switch-PGO-NRO.zip",
+          "url": "https://github.com/AlvaroEPena/bo2-360-nx/releases/download/Release-1/bo2-360-nx-switch-PGO-NRO.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки PC-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -214,7 +711,97 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-31T10:49:02.188754+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-31T17:08:42.694002+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+        "latest_release_url": "https://github.com/valentderah/totk-pc-recomp/releases/tag/v0.2.1",
+        "latest_release_name": "v0.2.1",
+        "release_assets": [
+          {
+            "name": "TotK-Setup-0.2.1-windows.zip",
+            "url": "https://github.com/valentderah/totk-pc-recomp/releases/download/v0.2.1/TotK-Setup-0.2.1-windows.zip",
+            "size": 135382368
+          },
+          {
+            "name": "TotK-Setup-x86_64.AppImage",
+            "url": "https://github.com/valentderah/totk-pc-recomp/releases/download/v0.2.1/TotK-Setup-x86_64.AppImage",
+            "size": 220707320
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.2.1",
+            "url": "https://github.com/valentderah/totk-pc-recomp/releases/tag/v0.2.1",
+            "published_at": "2026-10-31T12:49:39Z",
+            "assets": [
+              {
+                "name": "TotK-Setup-0.2.1-windows.zip",
+                "url": "https://github.com/valentderah/totk-pc-recomp/releases/download/v0.2.1/TotK-Setup-0.2.1-windows.zip",
+                "size": 135382368
+              },
+              {
+                "name": "TotK-Setup-x86_64.AppImage",
+                "url": "https://github.com/valentderah/totk-pc-recomp/releases/download/v0.2.1/TotK-Setup-x86_64.AppImage",
+                "size": 220707320
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.9",
+            "url": "https://github.com/valentderah/totk-pc-recomp/releases/tag/v0.1.9",
+            "published_at": "2026-10-31T05:47:40Z",
+            "assets": [
+              {
+                "name": "TotK-Setup-0.1.9-windows.zip",
+                "url": "https://github.com/valentderah/totk-pc-recomp/releases/download/v0.1.9/TotK-Setup-0.1.9-windows.zip",
+                "size": 135310678
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.6",
+            "url": "https://github.com/valentderah/totk-pc-recomp/releases/tag/v0.1.6",
+            "published_at": "2026-10-30T18:05:58Z",
+            "assets": [
+              {
+                "name": "TotK-Setup-0.1.6-windows.zip",
+                "url": "https://github.com/valentderah/totk-pc-recomp/releases/download/v0.1.6/TotK-Setup-0.1.6-windows.zip",
+                "size": 135244745
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.1.1",
+            "url": "https://github.com/valentderah/totk-pc-recomp/releases/tag/v0.1.1",
+            "published_at": "2026-10-29T15:05:00Z",
+            "assets": [
+              {
+                "name": "TotK-Setup-0.1.1-windows.zip",
+                "url": "https://github.com/valentderah/totk-pc-recomp/releases/download/v0.1.1/TotK-Setup-0.1.1-windows.zip",
+                "size": 135187692
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -227,9 +814,36 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "TotK-Setup-0.2.1-windows.zip",
+          "url": "https://github.com/valentderah/totk-pc-recomp/releases/download/v0.2.1/TotK-Setup-0.2.1-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "TotK-Setup-x86_64.AppImage",
+          "url": "https://github.com/valentderah/totk-pc-recomp/releases/download/v0.2.1/TotK-Setup-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "TotK-Setup-0.1.9-windows.zip",
+          "url": "https://github.com/valentderah/totk-pc-recomp/releases/download/v0.1.9/TotK-Setup-0.1.9-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "TotK-Setup-0.1.6-windows.zip",
+          "url": "https://github.com/valentderah/totk-pc-recomp/releases/download/v0.1.6/TotK-Setup-0.1.6-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "TotK-Setup-0.1.1-windows.zip",
+          "url": "https://github.com/valentderah/totk-pc-recomp/releases/download/v0.1.1/TotK-Setup-0.1.1-windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -247,7 +861,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-31T10:48:58.489540+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-10-31T17:08:44.146954+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "OpenRA (Red Alert) in the browser. Join the regular OpenRA servers and play alongside desktop players.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
