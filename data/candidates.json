@@ -1,7 +1,278 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-31T23:16:10.356392+00:00",
+  "last_updated": "2026-11-01T11:46:10.469705+00:00",
   "candidates": [
+    {
+      "title": "TheYellowBee/silent-hill-dualscreen",
+      "url": "https://github.com/TheYellowBee/silent-hill-dualscreen",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-01T02:51:20Z",
+      "summary": "Dual-screen mod for the Silent Hill (1999) Android port. AYN Thor, RG DS, Galaxy Fold, phones. Bring your own game. Topics: anbernic, android, ayn-thor, decompilation, dual-screen, galaxy-fold, ps1, retro-handheld, rg-ds, silent-hill",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T11:45:57.167541+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "LegendaryDoors/fair-food-maker-port",
+      "url": "https://github.com/LegendaryDoors/fair-food-maker-port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-01T09:40:21Z",
+      "summary": "An open reimplementation of Fair Food Maker (Sunstorm Interactive, 2012) for Windows, Linux, and macOS Topics: fair-food-maker, game, game-preservation, gdscript, godot, godot4, ios, port, reimplementation, sunstorm-interactive",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T11:45:55.507128+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: reimplementation",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "jmars125/xcx-recomp",
+      "url": "https://github.com/jmars125/xcx-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T06:57:53Z",
+      "summary": "Static recompilation of Xenoblade Chronicles X : Definitive Edition to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T11:45:52.088902+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "veritr1x/cult-recomp",
+      "url": "https://github.com/veritr1x/cult-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T09:11:36Z",
+      "summary": "Static recompilation profiles for Cult and Cult II: Federal Crime, built with recomp-kit; original game files required.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T11:45:52.088225+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game"
+      ]
+    },
+    {
+      "title": "rac08241988/XalabaiasAdventure-Recomp",
+      "url": "https://github.com/rac08241988/XalabaiasAdventure-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T09:46:56Z",
+      "summary": "Native Windows/Linux PC port tooling for Xalabaias Adventure (MaxwelHacks SMW hack) via SNES static recompilation. Bring your own ROM; no ROM or game code included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T11:45:52.087539+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows, linux"
+      ]
+    },
+    {
+      "title": "cgalibar/TwoTowersRecomp",
+      "url": "https://github.com/cgalibar/TwoTowersRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T10:40:12Z",
+      "summary": "Static recompilation of The Lord of the Rings: The Two Towers (PS2, SLES-51256) to a native Windows executable, built on PS2Recomp. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T11:45:52.086793+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "jabarrick/Weiwen-game",
+      "url": "https://github.com/jabarrick/Weiwen-game",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-11-01T01:41:15Z",
+      "summary": "A satirical browser strategy game set in the fictional city of Kala. Trilingual: Chinese / English / Uyghur. No install, play in browser.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T11:45:46.651432+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "play in browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, play in browser",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
+      ]
+    },
+    {
+      "title": "Aniket-a14/mothlight-last-bloom",
+      "url": "https://github.com/Aniket-a14/mothlight-last-bloom",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-11-01T10:39:13Z",
+      "summary": "Play in browser on itch.io: a short original 2D Unity arcade game about gathering fireflies, reviving a moonflower, and outmaneuvering thorn spirits. macOS + Windows previews. Topics: 2d-game, arcade-game, browser-game, game-development, html5, indie-game, itch-io, macos, procedural-art, unity, unity-game, unity-urp, webgl, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T11:45:46.650395+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webgl",
+          "html5",
+          "play in browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, play in browser, webgl, html5, windows",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "DouglasHalse/SSX3RecompNative",
       "url": "https://github.com/DouglasHalse/SSX3RecompNative",
@@ -11,7 +282,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-31T23:15:56.290106+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-01T11:46:00.250784+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "SSX 3 (Xbox) recompiled to native, with the launcher's settings moved into an in-game options screen",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -44,7 +332,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-31T23:15:48.273124+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-01T11:46:01.484542+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation toolkit that turns a dump of your own Pokémon Black (Nintendo DS) cartridge into a native macOS app for Apple Silicon. Tools, patches and config only: no ROM, game code or assets included. Noncommercial; not affiliated with Nintendo.",
+        "latest_release_url": "https://github.com/ofdnith/ndspkblack/releases/tag/m1-build",
+        "latest_release_name": "m1-build",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "m1-build",
+            "url": "https://github.com/ofdnith/ndspkblack/releases/tag/m1-build",
+            "published_at": "2026-10-29T21:49:39Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -71,7 +385,73 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-31T23:15:48.272030+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-01T11:46:02.806044+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Senjin Aleste (M2, arcade APM3) to native Linux x86-64, plus a Windows apm_x86.dll replacement. No game data — bring your own copy.",
+        "latest_release_url": "https://github.com/kazuyette/senjin-recomped/releases/tag/v0.6.9",
+        "latest_release_name": "v0.6.9 — fullscreen toggle (F11 / Alt+Enter), launcher in your language",
+        "release_assets": [
+          {
+            "name": "senjin-aleste-windows-tools-v0.6.9.zip",
+            "url": "https://github.com/kazuyette/senjin-recomped/releases/download/v0.6.9/senjin-aleste-windows-tools-v0.6.9.zip",
+            "size": 133746
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.6.9 — fullscreen toggle (F11 / Alt+Enter), launcher in your language",
+            "url": "https://github.com/kazuyette/senjin-recomped/releases/tag/v0.6.9",
+            "published_at": "2026-11-01T09:53:47Z",
+            "assets": [
+              {
+                "name": "senjin-aleste-windows-tools-v0.6.9.zip",
+                "url": "https://github.com/kazuyette/senjin-recomped/releases/download/v0.6.9/senjin-aleste-windows-tools-v0.6.9.zip",
+                "size": 133746
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.6.7 — playable from start to finish, pause, all settings in the launcher",
+            "url": "https://github.com/kazuyette/senjin-recomped/releases/tag/v0.6.7",
+            "published_at": "2026-10-31T23:05:07Z",
+            "assets": [
+              {
+                "name": "senjin-aleste-windows-tools-v0.6.7.zip",
+                "url": "https://github.com/kazuyette/senjin-recomped/releases/download/v0.6.7/senjin-aleste-windows-tools-v0.6.7.zip",
+                "size": 129960
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.6.3 — first public release",
+            "url": "https://github.com/kazuyette/senjin-recomped/releases/tag/v0.6.3",
+            "published_at": "2026-10-31T18:27:27Z",
+            "assets": [
+              {
+                "name": "senjin-aleste-windows-tools-v0.6.3.zip",
+                "url": "https://github.com/kazuyette/senjin-recomped/releases/download/v0.6.3/senjin-aleste-windows-tools-v0.6.3.zip",
+                "size": 122831
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -85,9 +465,26 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "senjin-aleste-windows-tools-v0.6.9.zip",
+          "url": "https://github.com/kazuyette/senjin-recomped/releases/download/v0.6.9/senjin-aleste-windows-tools-v0.6.9.zip",
+          "type": "archive"
+        },
+        {
+          "name": "senjin-aleste-windows-tools-v0.6.7.zip",
+          "url": "https://github.com/kazuyette/senjin-recomped/releases/download/v0.6.7/senjin-aleste-windows-tools-v0.6.7.zip",
+          "type": "archive"
+        },
+        {
+          "name": "senjin-aleste-windows-tools-v0.6.3.zip",
+          "url": "https://github.com/kazuyette/senjin-recomped/releases/download/v0.6.3/senjin-aleste-windows-tools-v0.6.3.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -1395,7 +1792,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-31T10:48:56.686240+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-01T11:46:04.136165+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "My first repository on github",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -2617,7 +3031,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T23:34:57.063181+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-01T11:46:05.388751+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A horror game played by phone: talk a terrified stranger out of a maze while something hunts by sound. Gemma 4 plays the caller, in your browser. Kotlin Multiplatform, built with Telar.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -2652,7 +3083,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T23:34:57.058876+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-01T11:46:06.665840+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Nitemare-3D (Win16, 1994) to portable C for macOS, Linux, Windows and WebAssembly. Bring your own game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -2690,7 +3138,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-30T23:34:52.968132+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-01T11:46:07.914501+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Browser port of A Weird Game About Sausage (demo), ported by Down1oads",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -8152,7 +8617,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T18:20:36.177813+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-01T11:46:09.214731+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Static recompilation of Tekken 4 (PS2) to a native Windows program with PS2Recomp. No game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
