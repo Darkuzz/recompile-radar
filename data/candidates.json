@@ -1,7 +1,517 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-01T17:51:07.566662+00:00",
+  "last_updated": "2026-11-01T23:28:46.009304+00:00",
   "candidates": [
+    {
+      "title": "franciscoclou/shadowfight2-vita",
+      "url": "https://github.com/franciscoclou/shadowfight2-vita",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-01T17:54:26Z",
+      "summary": "Loader port of Shadow Fight 2 (Android, 1.9.38) to the PS Vita. Contains no game code or data; you supply your own APK.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:29.883225+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "ps vita"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "Sp4wnE/RavenDroid",
+      "url": "https://github.com/Sp4wnE/RavenDroid",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-01T20:18:39Z",
+      "summary": "Native Android Port for Ravenfield, with offline game data and customizable touch controls.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:29.881885+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "veniaminminaj-tech/farming-and-cooking-android",
+      "url": "https://github.com/veniaminminaj-tech/farming-and-cooking-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-01T20:54:24Z",
+      "summary": "Android port of A Game About Farming and Cooking",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:29.881257+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "khorne-hub/gu-native",
+      "url": "https://github.com/khorne-hub/gu-native",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-01T23:22:53Z",
+      "summary": "Native Android port with touch controls. Bring your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:29.878990+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "AntAir267/antbox",
+      "url": "https://github.com/AntAir267/antbox",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T19:51:08Z",
+      "summary": "Shared toolkit for original-Xbox static recompilations. A fork of takedawn's xboxrecomp, with a native Vulkan renderer, frame capture and replay. No game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:23.857435+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "OddTrie/MotorstormPCificRift",
+      "url": "https://github.com/OddTrie/MotorstormPCificRift",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T22:22:22Z",
+      "summary": "Static recompilation of MotorStorm: Pacific Rift (PS3) for PC. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:23.856735+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "MildRain479/PokePark-Wiicompiled",
+      "url": "https://github.com/MildRain479/PokePark-Wiicompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T22:34:02Z",
+      "summary": "A native PC port of PokePark Wii: Pikachu's Adventure by static recompilation (open beta). No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:23.856098+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "TheBozos/TLOTR_TTA_Recomp",
+      "url": "https://github.com/TheBozos/TLOTR_TTA_Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T22:36:57Z",
+      "summary": "The Lord of the Rings: The Third Age (NTSC-U, SLUS-21027) static recompilation with PS2Recomp, for Windows, Linux and macOS: configs, scripts, notes (no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:23.855368+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "TheBozos/SoulCaliburIII_Recomp",
+      "url": "https://github.com/TheBozos/SoulCaliburIII_Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T23:10:14Z",
+      "summary": "Soulcalibur III (USA) static recompilation with PS2Recomp - configs, overrides, notes (no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:23.854654+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "TheBozos/FightingForOnePiece_Recomp",
+      "url": "https://github.com/TheBozos/FightingForOnePiece_Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T22:37:43Z",
+      "summary": "Fighting for One Piece (Japan) static recompilation with PS2Recomp - configs, overrides, notes (no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:23.854001+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "TheBozos/SmashCourtTennisProTournament2_Recomp",
+      "url": "https://github.com/TheBozos/SmashCourtTennisProTournament2_Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T22:37:45Z",
+      "summary": "Smash Court Tennis Pro Tournament 2 (USA) static recompilation with PS2Recomp - configs, overrides, notes (no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:23.853296+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "TheBozos/JC2_Recomp",
+      "url": "https://github.com/TheBozos/JC2_Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T22:38:20Z",
+      "summary": "Jade Cocoon 2 (NTSC-U, SLUS-20309) static recompilation with PS2Recomp: configs, scripts, notes (no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:23.852605+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "TheBozos/TMB_Recomp",
+      "url": "https://github.com/TheBozos/TMB_Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T23:00:18Z",
+      "summary": "Twisted Metal: Black (PAL, SCES-50360) static recompilation with PS2Recomp: configs, scripts, notes (no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:23.851952+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "tmcleroy/fighting-vipers-recomp",
+      "url": "https://github.com/tmcleroy/fighting-vipers-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T23:23:51Z",
+      "summary": "Fighting Vipers (Sega Saturn) native port by static recompilation, on satrecomp. No game is included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:23.851259+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "tmcleroy/fighters-megamix-recomp",
+      "url": "https://github.com/tmcleroy/fighters-megamix-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T23:23:54Z",
+      "summary": "Fighters Megamix (Sega Saturn) native port by static recompilation, on satrecomp. No game is included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:23.850580+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "TheBozos/DC_Recomp",
+      "url": "https://github.com/TheBozos/DC_Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T23:25:59Z",
+      "summary": "Dark Cloud (NTSC-U, SCUS-97111) static recompilation with PS2Recomp: configs, scripts, notes (no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:23.849916+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "TheBozos/VP2S_Recomp",
+      "url": "https://github.com/TheBozos/VP2S_Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-01T23:27:14Z",
+      "summary": "Native PC port of Valkyrie Profile 2: Silmeria (PAL, SLES-54645) by static recompilation with PS2Recomp. No game data or keys included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:23.849199+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "Ptraaah/godhand-recompiled-android",
       "url": "https://github.com/Ptraaah/godhand-recompiled-android",
@@ -11,7 +521,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-01T17:50:53.275746+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-01T23:28:33.389569+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "God Hand, rebuilt to run natively on Android. Game code translated ahead of time to native ARM, an Android shell written for phones, and a renderer tuned for mobile chips instead of carried over from a desktop.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -48,7 +575,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-01T17:50:51.317788+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-01T23:28:34.917913+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "(vibecoded) port of Subway Surfers Tag to Android, made in collaboration with a friend (pls someone should do a non-vibecoded port of it this game is good)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -81,7 +625,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-01T17:50:45.123081+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-01T23:28:36.493361+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "bananza",
+        "description": "Static recompilation of Donkey Kong Bananza (Switch 2) to native Windows, built on TotK Recomp. No game files included. Not playable yet.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -114,7 +675,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-01T17:50:45.122400+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-01T23:28:38.077404+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Prince of Persia: The Two Thrones in the browser: x86-to-C static recompilation, D3D9 on WebGPU (no game files)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -147,7 +725,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-01T17:50:45.121475+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-01T23:28:39.616740+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Buffy the Vampire Slayer (Xbox, 2002) running natively on Apple Silicon Macs, by static recompilation, with 25 built-in achievements. Bring your own disc: no game files included.",
+        "latest_release_url": "https://github.com/djrobson5/Hellmouth/releases/tag/v0.1.0",
+        "latest_release_name": "Hellmouth 0.1.0 (experimental)",
+        "release_assets": [
+          {
+            "name": "Hellmouth-0.1.0.zip",
+            "url": "https://github.com/djrobson5/Hellmouth/releases/download/v0.1.0/Hellmouth-0.1.0.zip",
+            "size": 8501102
+          }
+        ],
+        "releases": [
+          {
+            "name": "Hellmouth 0.1.0 (experimental)",
+            "url": "https://github.com/djrobson5/Hellmouth/releases/tag/v0.1.0",
+            "published_at": "2026-11-01T17:09:11Z",
+            "assets": [
+              {
+                "name": "Hellmouth-0.1.0.zip",
+                "url": "https://github.com/djrobson5/Hellmouth/releases/download/v0.1.0/Hellmouth-0.1.0.zip",
+                "size": 8501102
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -156,8 +772,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "Hellmouth-0.1.0.zip",
+          "url": "https://github.com/djrobson5/Hellmouth/releases/download/v0.1.0/Hellmouth-0.1.0.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -174,7 +798,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-01T17:50:40.698230+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-01T23:28:41.269407+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Six small first-person shooters: x86-64 and 6502 assembly, a no-library Rust port that plays in the browser, and a WebGL game in one HTML file. GPL-3.0.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -9498,7 +10139,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T18:20:36.177065+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-01T23:28:42.841317+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of New Super Mario Bros. Wii to PC and New 3DS. Bring your own disc; no game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -9525,7 +10183,73 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-10-29T18:20:36.176214+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-01T23:28:44.387227+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Fable II running natively on Android: static recompilation to arm64 with a Vulkan renderer. Bring your own game.",
+        "latest_release_url": "https://github.com/hardsilinder/FableDroid/releases/tag/v0.6.2-beta",
+        "latest_release_name": "FableDroid 0.6.2 Beta",
+        "release_assets": [
+          {
+            "name": "FableDroid-0.6.2-beta.apk",
+            "url": "https://github.com/hardsilinder/FableDroid/releases/download/v0.6.2-beta/FableDroid-0.6.2-beta.apk",
+            "size": 45861751
+          }
+        ],
+        "releases": [
+          {
+            "name": "FableDroid 0.6.2 Beta",
+            "url": "https://github.com/hardsilinder/FableDroid/releases/tag/v0.6.2-beta",
+            "published_at": "2026-10-30T03:22:34Z",
+            "assets": [
+              {
+                "name": "FableDroid-0.6.2-beta.apk",
+                "url": "https://github.com/hardsilinder/FableDroid/releases/download/v0.6.2-beta/FableDroid-0.6.2-beta.apk",
+                "size": 45861751
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "FableDroid 0.6.1 Beta",
+            "url": "https://github.com/hardsilinder/FableDroid/releases/tag/v0.6.1-beta",
+            "published_at": "2026-10-29T22:49:48Z",
+            "assets": [
+              {
+                "name": "FableDroid-0.6.1-beta.apk",
+                "url": "https://github.com/hardsilinder/FableDroid/releases/download/v0.6.1-beta/FableDroid-0.6.1-beta.apk",
+                "size": 45854195
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "FableDroid 0.6 Beta",
+            "url": "https://github.com/hardsilinder/FableDroid/releases/tag/v0.6.0-beta",
+            "published_at": "2026-10-29T17:46:39Z",
+            "assets": [
+              {
+                "name": "FableDroid-0.6.0-beta.apk",
+                "url": "https://github.com/hardsilinder/FableDroid/releases/download/v0.6.0-beta/FableDroid-0.6.0-beta.apk",
+                "size": 45846991
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -9538,9 +10262,26 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "FableDroid-0.6.2-beta.apk",
+          "url": "https://github.com/hardsilinder/FableDroid/releases/download/v0.6.2-beta/FableDroid-0.6.2-beta.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "FableDroid-0.6.1-beta.apk",
+          "url": "https://github.com/hardsilinder/FableDroid/releases/download/v0.6.1-beta/FableDroid-0.6.1-beta.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "FableDroid-0.6.0-beta.apk",
+          "url": "https://github.com/hardsilinder/FableDroid/releases/download/v0.6.0-beta/FableDroid-0.6.0-beta.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
