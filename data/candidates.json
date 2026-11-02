@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-01T23:28:46.009304+00:00",
+  "last_updated": "2026-11-02T13:19:47.842182+00:00",
   "candidates": [
     {
-      "title": "franciscoclou/shadowfight2-vita",
-      "url": "https://github.com/franciscoclou/shadowfight2-vita",
+      "title": "lferrete/brucelee-vita",
+      "url": "https://github.com/lferrete/brucelee-vita",
       "source_name": "GitHub: Android ports",
-      "published": "2026-11-01T17:54:26Z",
-      "summary": "Loader port of Shadow Fight 2 (Android, 1.9.38) to the PS Vita. Contains no game code or data; you supply your own APK.",
+      "published": "2026-11-02T03:03:31Z",
+      "summary": "Unofficial PS Vita port of Bruce Lee: Dragon Warrior (Android). Loader-only; game data not included. Topics: bruce-lee, homebrew, port, ps-vita, psvita, vitagl",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-01T23:28:29.883225+00:00",
+      "found_at": "2026-11-02T13:19:31.167941+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -31,22 +31,128 @@
         "В описании обнаружены признаки Android-поддержки.",
         "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
       ],
-      "relevance_score": 9,
+      "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
         "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
-        "Есть игровые/платформенные признаки: game, android, apk"
+        "Есть игровые/платформенные признаки: game, android"
       ]
     },
     {
-      "title": "Sp4wnE/RavenDroid",
-      "url": "https://github.com/Sp4wnE/RavenDroid",
+      "title": "samilry/rimworld-android-port",
+      "url": "https://github.com/samilry/rimworld-android-port",
       "source_name": "GitHub: Android ports",
-      "published": "2026-11-01T20:18:39Z",
-      "summary": "Native Android Port for Ravenfield, with offline game data and customizable touch controls.",
+      "published": "2026-11-02T08:51:16Z",
+      "summary": "Unofficial Android port of RimWorld 1.7 (Waylith engine, .NET 10): Android host, PC-mod compatibility layer, touch UI. No game files included. Topics: android, coreclr, dotnet, game-porting, harmony, rimworld, vulkan",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-01T23:28:29.881885+00:00",
+      "found_at": "2026-11-02T13:19:31.166774+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "zhouwuqi/noitadroid",
+      "url": "https://github.com/zhouwuqi/noitadroid",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-02T10:15:46Z",
+      "summary": "Noita Android port: the Windows game statically recompiled to native ARM64, for Android handhelds and phones. No emulation. Built on mina4mac; bring your own GOG copy. Topics: aarch64, android, android-game, android-handheld, arm64, ayaneo, binary-translation, fmod, game-port, gl4es, handheld, luajit, noita, opengl-es, recompilation, sdl2, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:31.165700+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "JaviiDeveloper/NSP-Box-Android",
+      "url": "https://github.com/JaviiDeveloper/NSP-Box-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-02T13:10:16Z",
+      "summary": "Android port of NSP Box - Switch game packager using Kotlin & Jetpack Compose",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:31.163618+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "ChiBen99/ffr-port-handoff",
+      "url": "https://github.com/ChiBen99/ffr-port-handoff",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-02T13:12:32Z",
+      "summary": "Handoff note: FINAL FANTASY RESONANCE (Switch) -> Android port on Anbernic RG477M (nx2android). Notes only, no game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:31.162921+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -73,6 +179,724 @@
       ]
     },
     {
+      "title": "mflr0/Arkeyan-Launcher",
+      "url": "https://github.com/mflr0/Arkeyan-Launcher",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-02T13:16:33Z",
+      "summary": "Launcher for native ports of the Skylanders games: builds the game from your own disc, keeps it updated, and manages your figures. Topics: dear-imgui, launcher, linux, macos, sdl3, skylanders, static-recompilation, steam-deck, windows, xbox-360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:29.090654+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "omegakatana92/Blast-Wind-Recomp",
+      "url": "https://github.com/omegakatana92/Blast-Wind-Recomp",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-02T02:03:06Z",
+      "summary": "A native Windows x64 and Linux/Steam Deck port of Blast Wind (Japan) for the Sega Saturn, built by static recompilation with satrecomp. The SH-2 code is translated to C++ and runs on a custom machine with CD-DA and SCSP audio, launcher, saves and full controller support. No emulator, no BIOS and no game data: players supply their own disc. GPL-3.0.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:29.089527+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "omegakatana92/Radiant-Slivergun-Recomp",
+      "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-02T02:50:20Z",
+      "summary": "Native Windows x64 and Linux/Steam Deck port of Radiant Silvergun (Japan), built by static SH-2 recompilation with satrecomp. Runs your own T-32902G V1.002 disc. No ROM, BIOS or game data. Toolkit/binary GPL-3.0; original files PolyForm Noncommercial. Launcher, CD-DA/SCSP audio, saves. Prebuilt downloads on the releases page.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:29.088244+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows, linux"
+      ]
+    },
+    {
+      "title": "xXNukem/in-extremis-port",
+      "url": "https://github.com/xXNukem/in-extremis-port",
+      "source_name": "GitHub: source ports",
+      "published": "2026-11-02T03:45:54Z",
+      "summary": "In Extremis (1993) PC game source port in development. Topics: forgotten-game, in-extremis, old-school-fps, sdl, sdl2, sdl3, source-port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:26.927425+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 7,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port, source-port",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Psychoghost/Vanillara_android_port",
+      "url": "https://github.com/Psychoghost/Vanillara_android_port",
+      "source_name": "GitHub: source ports",
+      "published": "2026-11-02T12:51:21Z",
+      "summary": "Vanillara source port for android. Buy the game with link provided Topics: release, source-code",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:26.926703+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "GeneralAtrox/PhantomCrash_Xbox_NativePort",
+      "url": "https://github.com/GeneralAtrox/PhantomCrash_Xbox_NativePort",
+      "source_name": "GitHub: source ports",
+      "published": "2026-11-02T13:17:12Z",
+      "summary": "Data-driven, moddable C++ source port of Phantom Crash (Europe, Original Xbox). Game data not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:26.926000+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "thefixinhixon/woohoo-flight-school",
+      "url": "https://github.com/thefixinhixon/woohoo-flight-school",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-02T06:49:15Z",
+      "summary": "Unofficial native PC port of Pilotwings Resort (3DS) by static recompilation. Bring your own game dump; no game data included. Topics: 3ds, game-port, linux, nintendo-3ds, pilotwings, recomp, sdl2, static-recompilation, vulkan, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:24.677769+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "KamiTK2/openNG2",
+      "url": "https://github.com/KamiTK2/openNG2",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-02T07:12:30Z",
+      "summary": "Native PC port of Ninja Gaiden II (Xbox 360) via ReXGlue static recompilation. No game data: bring your own copy.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:24.676972+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "drakolordx7/pkp-recomp",
+      "url": "https://github.com/drakolordx7/pkp-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-02T12:02:27Z",
+      "summary": "Unofficial static recompilation of a Nintendo Switch 2 game to native Windows. No game code, data or keys included. Topics: recompilation, static-recompilation, switch2, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:24.676220+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "DCRecomp/BlueStingerRecomp",
+      "url": "https://github.com/DCRecomp/BlueStingerRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-02T12:20:08Z",
+      "summary": "Open-source static recompilation of Blue Stinger (Dreamcast, SH-4) into native Windows x64 C++20, focused on game preservation, hardware replacement, and modding. Topics: dreamcast, game-preservation, recompilation, sh4, static-recompilation, survival-horror",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:24.675313+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, game preservation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "DaBlackDeath/Blood_Brothers_Recomp",
+      "url": "https://github.com/DaBlackDeath/Blood_Brothers_Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-02T12:52:14Z",
+      "summary": "Blood Brother Arcade Game Static Recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:24.674478+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "LuvAbyss/B3-Express",
+      "url": "https://github.com/LuvAbyss/B3-Express",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-02T12:58:19Z",
+      "summary": "Bayonetta 3 v1.2.0 running natively on Windows through ScarletNX static recompilation, with an NVN renderer on Vulkan and a friendly launcher. Aiming for butter-smooth 60 FPS. No game files included: bring your own dump.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:24.673648+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "Gitguy268/retro-zip",
+      "url": "https://github.com/Gitguy268/retro-zip",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-02T12:44:07Z",
+      "summary": "A retro game library: emulated games in the browser with EmulatorJS and Doom, plus six original games for a real terminal. No commercial ROMs included. Topics: doom, emulator, emulatorjs, homebrew, retro-gaming, terminal-games, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:20.217249+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "jonorl/carmen-sandiego",
+      "url": "https://github.com/jonorl/carmen-sandiego",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-02T13:09:41Z",
+      "summary": "A fan remake of the 1990 Where in the World is Carmen Sandiego? in Rust, for desktops, browsers and an ESP32-S3 touch screen, in English and Spanish. Topics: axum, browser-game, carmen-sandiego, dos, educational-game, embedded, esp32, esp32-s3, fan-game, game, geography, ili9341, macroquad, pixel-art, remake, retro-game, rust, touchscreen, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:20.214055+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "KarthikSubramanian07/cubes",
+      "url": "https://github.com/KarthikSubramanian07/cubes",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-02T13:15:45Z",
+      "summary": "A territory game of light and corners. Rust engine compiled to WebAssembly, Rust Durable Object rooms on Cloudflare, three.js boards. Play at playcubes.pages.dev. Topics: browser-game, bun, cloudflare-workers, durable-objects, multiplayer, react, rust, threejs, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-02T13:19:20.212073+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "franciscoclou/shadowfight2-vita",
+      "url": "https://github.com/franciscoclou/shadowfight2-vita",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-01T17:54:26Z",
+      "summary": "Loader port of Shadow Fight 2 (Android, 1.9.38) to the PS Vita. Contains no game code or data; you supply your own APK.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:29.883225+00:00",
+      "check": {
+        "checked_at": "2026-11-02T13:19:34.791480+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Loader port of Shadow Fight 2 (Android, 1.9.38) to the PS Vita. Contains no game code or data; you supply your own APK.",
+        "latest_release_url": "https://github.com/franciscoclou/shadowfight2-vita/releases/tag/v1.0",
+        "latest_release_name": "Shadow Fight 2 for PS Vita v1.0",
+        "release_assets": [
+          {
+            "name": "make_game_data.py",
+            "url": "https://github.com/franciscoclou/shadowfight2-vita/releases/download/v1.0/make_game_data.py",
+            "size": 13242
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/franciscoclou/shadowfight2-vita/releases/download/v1.0/SHA256SUMS.txt",
+            "size": 260
+          },
+          {
+            "name": "ShadowFight2-Vita-v1.0.zip",
+            "url": "https://github.com/franciscoclou/shadowfight2-vita/releases/download/v1.0/ShadowFight2-Vita-v1.0.zip",
+            "size": 1247332
+          },
+          {
+            "name": "ShadowFight2.vpk",
+            "url": "https://github.com/franciscoclou/shadowfight2-vita/releases/download/v1.0/ShadowFight2.vpk",
+            "size": 1241451
+          }
+        ],
+        "releases": [
+          {
+            "name": "Shadow Fight 2 for PS Vita v1.0",
+            "url": "https://github.com/franciscoclou/shadowfight2-vita/releases/tag/v1.0",
+            "published_at": "2026-11-01T17:54:26Z",
+            "assets": [
+              {
+                "name": "make_game_data.py",
+                "url": "https://github.com/franciscoclou/shadowfight2-vita/releases/download/v1.0/make_game_data.py",
+                "size": 13242
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/franciscoclou/shadowfight2-vita/releases/download/v1.0/SHA256SUMS.txt",
+                "size": 260
+              },
+              {
+                "name": "ShadowFight2-Vita-v1.0.zip",
+                "url": "https://github.com/franciscoclou/shadowfight2-vita/releases/download/v1.0/ShadowFight2-Vita-v1.0.zip",
+                "size": 1247332
+              },
+              {
+                "name": "ShadowFight2.vpk",
+                "url": "https://github.com/franciscoclou/shadowfight2-vita/releases/download/v1.0/ShadowFight2.vpk",
+                "size": 1241451
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "ps vita"
+        ]
+      },
+      "build_links": [
+        {
+          "name": "make_game_data.py",
+          "url": "https://github.com/franciscoclou/shadowfight2-vita/releases/download/v1.0/make_game_data.py",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/franciscoclou/shadowfight2-vita/releases/download/v1.0/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "ShadowFight2-Vita-v1.0.zip",
+          "url": "https://github.com/franciscoclou/shadowfight2-vita/releases/download/v1.0/ShadowFight2-Vita-v1.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ShadowFight2.vpk",
+          "url": "https://github.com/franciscoclou/shadowfight2-vita/releases/download/v1.0/ShadowFight2.vpk",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "Sp4wnE/RavenDroid",
+      "url": "https://github.com/Sp4wnE/RavenDroid",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-01T20:18:39Z",
+      "summary": "Native Android Port for Ravenfield, with offline game data and customizable touch controls.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-01T23:28:29.881885+00:00",
+      "check": {
+        "checked_at": "2026-11-02T13:19:36.404036+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android Port for Ravenfield, with offline game data and customizable touch controls.",
+        "latest_release_url": "https://github.com/Sp4wnE/RavenDroid/releases/tag/v0.20",
+        "latest_release_name": "RavenDroid 0.20 · Full Offline APK",
+        "release_assets": [
+          {
+            "name": "ravendroid-v0.20-full.apk",
+            "url": "https://github.com/Sp4wnE/RavenDroid/releases/download/v0.20/ravendroid-v0.20-full.apk",
+            "size": 1020492173
+          },
+          {
+            "name": "ravendroid-v0.20-full.apk.sha256",
+            "url": "https://github.com/Sp4wnE/RavenDroid/releases/download/v0.20/ravendroid-v0.20-full.apk.sha256",
+            "size": 93
+          }
+        ],
+        "releases": [
+          {
+            "name": "RavenDroid 0.20 · Full Offline APK",
+            "url": "https://github.com/Sp4wnE/RavenDroid/releases/tag/v0.20",
+            "published_at": "2026-11-01T16:45:35Z",
+            "assets": [
+              {
+                "name": "ravendroid-v0.20-full.apk",
+                "url": "https://github.com/Sp4wnE/RavenDroid/releases/download/v0.20/ravendroid-v0.20-full.apk",
+                "size": 1020492173
+              },
+              {
+                "name": "ravendroid-v0.20-full.apk.sha256",
+                "url": "https://github.com/Sp4wnE/RavenDroid/releases/download/v0.20/ravendroid-v0.20-full.apk.sha256",
+                "size": 93
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "ravendroid-v0.20-full.apk",
+          "url": "https://github.com/Sp4wnE/RavenDroid/releases/download/v0.20/ravendroid-v0.20-full.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ravendroid-v0.20-full.apk.sha256",
+          "url": "https://github.com/Sp4wnE/RavenDroid/releases/download/v0.20/ravendroid-v0.20-full.apk.sha256",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
       "title": "veniaminminaj-tech/farming-and-cooking-android",
       "url": "https://github.com/veniaminminaj-tech/farming-and-cooking-android",
       "source_name": "GitHub: Android ports",
@@ -81,7 +905,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-01T23:28:29.881257+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-02T13:19:38.002554+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Android port of A Game About Farming and Cooking",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -115,7 +956,112 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-01T23:28:29.878990+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-02T13:19:39.563324+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android port with touch controls. Bring your own copy of the game.",
+        "latest_release_url": "https://github.com/khorne-hub/gu-native/releases/tag/v0.1.4",
+        "latest_release_name": "0.1.4",
+        "release_assets": [
+          {
+            "name": "MHGU-0.1.4.apk",
+            "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.4/MHGU-0.1.4.apk",
+            "size": 6795112
+          },
+          {
+            "name": "MHGU-0.1.4.apk.sha256",
+            "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.4/MHGU-0.1.4.apk.sha256",
+            "size": 81
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.1.4",
+            "url": "https://github.com/khorne-hub/gu-native/releases/tag/v0.1.4",
+            "published_at": "2026-11-02T05:07:40Z",
+            "assets": [
+              {
+                "name": "MHGU-0.1.4.apk",
+                "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.4/MHGU-0.1.4.apk",
+                "size": 6795112
+              },
+              {
+                "name": "MHGU-0.1.4.apk.sha256",
+                "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.4/MHGU-0.1.4.apk.sha256",
+                "size": 81
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.1.2",
+            "url": "https://github.com/khorne-hub/gu-native/releases/tag/v0.1.2",
+            "published_at": "2026-11-02T01:09:34Z",
+            "assets": [
+              {
+                "name": "MHGU-0.1.2.apk",
+                "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.2/MHGU-0.1.2.apk",
+                "size": 6780760
+              },
+              {
+                "name": "MHGU-0.1.2.apk.sha256",
+                "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.2/MHGU-0.1.2.apk.sha256",
+                "size": 65
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.1.1",
+            "url": "https://github.com/khorne-hub/gu-native/releases/tag/v0.1.1",
+            "published_at": "2026-11-02T00:25:00Z",
+            "assets": [
+              {
+                "name": "MHGU-0.1.1.apk",
+                "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.1/MHGU-0.1.1.apk",
+                "size": 6779068
+              },
+              {
+                "name": "MHGU-0.1.1.apk.sha256",
+                "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.1/MHGU-0.1.1.apk.sha256",
+                "size": 65
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.1.0",
+            "url": "https://github.com/khorne-hub/gu-native/releases/tag/v0.1.0",
+            "published_at": "2026-11-01T21:24:17Z",
+            "assets": [
+              {
+                "name": "MHGU-0.1.0.apk",
+                "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.0/MHGU-0.1.0.apk",
+                "size": 6778412
+              },
+              {
+                "name": "MHGU-0.1.0.apk.sha256",
+                "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.0/MHGU-0.1.0.apk.sha256",
+                "size": 65
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -129,9 +1075,51 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "MHGU-0.1.4.apk",
+          "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.4/MHGU-0.1.4.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "MHGU-0.1.4.apk.sha256",
+          "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.4/MHGU-0.1.4.apk.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MHGU-0.1.2.apk",
+          "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.2/MHGU-0.1.2.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "MHGU-0.1.2.apk.sha256",
+          "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.2/MHGU-0.1.2.apk.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MHGU-0.1.1.apk",
+          "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.1/MHGU-0.1.1.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "MHGU-0.1.1.apk.sha256",
+          "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.1/MHGU-0.1.1.apk.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MHGU-0.1.0.apk",
+          "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.0/MHGU-0.1.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "MHGU-0.1.0.apk.sha256",
+          "url": "https://github.com/khorne-hub/gu-native/releases/download/v0.1.0/MHGU-0.1.0.apk.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
@@ -149,7 +1137,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-01T23:28:23.857435+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-02T13:19:41.295315+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Shared toolkit for original-Xbox static recompilations. A fork of takedawn's xboxrecomp, with a native Vulkan renderer, frame capture and replay. No game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -176,7 +1181,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-01T23:28:23.856735+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-02T13:19:42.922894+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of MotorStorm: Pacific Rift (PS3) for PC. No game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -203,7 +1225,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-01T23:28:23.856098+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-02T13:19:44.518779+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A native PC port of PokePark Wii: Pikachu's Adventure by static recompilation (open beta). No game data included.",
+        "latest_release_url": "https://github.com/MildRain479/PokePark-Wiicompiled/releases/tag/v0.1.0-beta",
+        "latest_release_name": "v0.1.0 beta",
+        "release_assets": [
+          {
+            "name": "PokePark-Wiicompiled-v0.1.0-beta-windows-x64.zip",
+            "url": "https://github.com/MildRain479/PokePark-Wiicompiled/releases/download/v0.1.0-beta/PokePark-Wiicompiled-v0.1.0-beta-windows-x64.zip",
+            "size": 12170038
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0 beta",
+            "url": "https://github.com/MildRain479/PokePark-Wiicompiled/releases/tag/v0.1.0-beta",
+            "published_at": "2026-11-01T22:30:26Z",
+            "assets": [
+              {
+                "name": "PokePark-Wiicompiled-v0.1.0-beta-windows-x64.zip",
+                "url": "https://github.com/MildRain479/PokePark-Wiicompiled/releases/download/v0.1.0-beta/PokePark-Wiicompiled-v0.1.0-beta-windows-x64.zip",
+                "size": 12170038
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -212,14 +1272,22 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
+          "windows",
           "pc port",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "PokePark-Wiicompiled-v0.1.0-beta-windows-x64.zip",
+          "url": "https://github.com/MildRain479/PokePark-Wiicompiled/releases/download/v0.1.0-beta/PokePark-Wiicompiled-v0.1.0-beta-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -237,7 +1305,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-01T23:28:23.855368+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-02T13:19:46.185796+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "The Lord of the Rings: The Third Age (NTSC-U, SLUS-21027) static recompilation with PS2Recomp, for Windows, Linux and macOS: configs, scripts, notes (no game data)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
