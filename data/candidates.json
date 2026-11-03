@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-03T02:09:17.737791+00:00",
+  "last_updated": "2026-11-03T12:42:47.910819+00:00",
   "candidates": [
     {
-      "title": "incelstn/MyMy-Android",
-      "url": "https://github.com/incelstn/MyMy-Android",
+      "title": "HUEVOMAN77/xboxcore",
+      "url": "https://github.com/HUEVOMAN77/xboxcore",
       "source_name": "GitHub: Android ports",
-      "published": "2026-11-02T20:02:06Z",
-      "summary": "android port the game is not mine.",
+      "published": "2026-11-03T04:15:12Z",
+      "summary": "Native Android ports of original Xbox games by static recompilation (XboxXBERecomp SDK, MIT). No game code or assets: bring your own disc.",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-03T02:09:02.477208+00:00",
+      "found_at": "2026-11-03T12:42:32.644845+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -28,6 +28,219 @@
       "build_links": [],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "ScikuVRC/DefJamFFNY-recomp",
+      "url": "https://github.com/ScikuVRC/DefJamFFNY-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-03T09:19:10Z",
+      "summary": "Def Jam: Fight for NY PC port — static recompilation of the original Xbox game for native Windows and macOS (Direct3D 11 / Vulkan). Bring your own game dump.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-03T12:42:26.675992+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "PeriBluGaming/SledStormPSXRecomp",
+      "url": "https://github.com/PeriBluGaming/SledStormPSXRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-03T11:12:10Z",
+      "summary": "SledStormPSXRecomp is an unofficial, noncommercial static recompilation of the PlayStation game Sled Storm, built on psxrecomp and recomp-ui. It runs the game as a native executable. You need your own legally obtained copy of the game to play.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-03T12:42:26.674873+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "RizgarOzan/lockstep-tactics",
+      "url": "https://github.com/RizgarOzan/lockstep-tactics",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-03T10:23:48Z",
+      "summary": "A C++20 tactics game, playable in the browser, that stays bit-identical across MSVC, Apple clang arm64 and WebAssembly, checked on every commit. Topics: cpp, cpp20, determinism, fixed-point, gamedev, hacktoberfest, lockstep, multiplayer, raylib, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-03T12:42:22.415308+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, playable, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "luciavmf/invasiones-web",
+      "url": "https://github.com/luciavmf/invasiones-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-03T10:50:29Z",
+      "summary": "Browser port of Invasiones, a 2008 strategy game about the British invasions of the Río de la Plata. TypeScript and PixiJS, playable on desktop and iPhone.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-03T12:42:18.005517+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable"
+      ]
+    },
+    {
+      "title": "incelstn/MyMy-Android",
+      "url": "https://github.com/incelstn/MyMy-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-02T20:02:06Z",
+      "summary": "android port the game is not mine.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-03T02:09:02.477208+00:00",
+      "check": {
+        "checked_at": "2026-11-03T12:42:36.155527+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "android port the game is not mine.",
+        "latest_release_url": "https://github.com/incelstn/MyMy-Android/releases/tag/mymy",
+        "latest_release_name": "MyMy-Android",
+        "release_assets": [
+          {
+            "name": "MyMy_1.0.apk",
+            "url": "https://github.com/incelstn/MyMy-Android/releases/download/mymy/MyMy_1.0.apk",
+            "size": 3677921
+          }
+        ],
+        "releases": [
+          {
+            "name": "MyMy-Android",
+            "url": "https://github.com/incelstn/MyMy-Android/releases/tag/mymy",
+            "published_at": "2026-11-02T20:02:06Z",
+            "assets": [
+              {
+                "name": "MyMy_1.0.apk",
+                "url": "https://github.com/incelstn/MyMy-Android/releases/download/mymy/MyMy_1.0.apk",
+                "size": 3677921
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "MyMy_1.0.apk",
+          "url": "https://github.com/incelstn/MyMy-Android/releases/download/mymy/MyMy_1.0.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 8,
       "relevance_status": "promising",
@@ -45,7 +258,139 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-03T02:09:02.476367+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-03T12:42:37.637685+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Experimental open-source Wolfenstein (2009) SP engine research and native Android port. Bring your own game data.",
+        "latest_release_url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/tag/v0.9.0-engine-dev",
+        "latest_release_name": "0.9.0-engine-dev — нативный движок Android",
+        "release_assets": [
+          {
+            "name": "wolf2009-sp-0.9.0-engine-dev.apk",
+            "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.9.0-engine-dev/wolf2009-sp-0.9.0-engine-dev.apk",
+            "size": 19168813
+          },
+          {
+            "name": "wolf2009-sp-0.9.0-engine-dev.apk.sha256",
+            "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.9.0-engine-dev/wolf2009-sp-0.9.0-engine-dev.apk.sha256",
+            "size": 99
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.9.0-engine-dev — нативный движок Android",
+            "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/tag/v0.9.0-engine-dev",
+            "published_at": "2026-11-03T01:43:58Z",
+            "assets": [
+              {
+                "name": "wolf2009-sp-0.9.0-engine-dev.apk",
+                "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.9.0-engine-dev/wolf2009-sp-0.9.0-engine-dev.apk",
+                "size": 19168813
+              },
+              {
+                "name": "wolf2009-sp-0.9.0-engine-dev.apk.sha256",
+                "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.9.0-engine-dev/wolf2009-sp-0.9.0-engine-dev.apk.sha256",
+                "size": 99
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Wolf2009 SP 0.8.0-alpha — дверь вагона",
+            "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/tag/v0.8.0-alpha",
+            "published_at": "2026-11-03T00:07:15Z",
+            "assets": [
+              {
+                "name": "wolf2009-sp-0.8.0-alpha.apk",
+                "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.8.0-alpha/wolf2009-sp-0.8.0-alpha.apk",
+                "size": 3519246
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Wolf2009 SP 0.7.0-alpha — прибытие в Trainyard",
+            "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/tag/v0.7.0-alpha",
+            "published_at": "2026-11-02T23:30:04Z",
+            "assets": [
+              {
+                "name": "wolf2009-sp-0.7.0-alpha.apk",
+                "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.7.0-alpha/wolf2009-sp-0.7.0-alpha.apk",
+                "size": 3150606
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Android 0.6.0 alpha — начало миссии на вокзале",
+            "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/tag/v0.6.0-alpha",
+            "published_at": "2026-11-02T22:59:38Z",
+            "assets": [
+              {
+                "name": "wolf2009-sp-0.6.0-alpha.apk",
+                "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.6.0-alpha/wolf2009-sp-0.6.0-alpha.apk",
+                "size": 2945806
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Android 0.5.0 alpha — ходьба с коллизиями Wolfenstein (2009) SP",
+            "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/tag/v0.5.0-alpha",
+            "published_at": "2026-11-02T22:28:38Z",
+            "assets": [
+              {
+                "name": "wolf2009-sp-0.5.0-alpha.apk",
+                "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.5.0-alpha/wolf2009-sp-0.5.0-alpha.apk",
+                "size": 2736910
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Android 0.4.0 alpha — карты с текстурами Wolfenstein (2009) SP",
+            "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/tag/v0.4.0-alpha",
+            "published_at": "2026-11-02T22:05:46Z",
+            "assets": [
+              {
+                "name": "wolf2009-viewer-0.4.0-alpha.apk",
+                "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.4.0-alpha/wolf2009-viewer-0.4.0-alpha.apk",
+                "size": 2548494
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Android 0.3.0 alpha — просмотр карт Wolfenstein (2009) SP",
+            "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/tag/v0.3.0-alpha",
+            "published_at": "2026-11-02T21:56:48Z",
+            "assets": [
+              {
+                "name": "wolf2009-viewer-0.3.0-alpha.apk",
+                "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.3.0-alpha/wolf2009-viewer-0.3.0-alpha.apk",
+                "size": 2405134
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -59,9 +404,51 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "wolf2009-sp-0.9.0-engine-dev.apk",
+          "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.9.0-engine-dev/wolf2009-sp-0.9.0-engine-dev.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "wolf2009-sp-0.9.0-engine-dev.apk.sha256",
+          "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.9.0-engine-dev/wolf2009-sp-0.9.0-engine-dev.apk.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "wolf2009-sp-0.8.0-alpha.apk",
+          "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.8.0-alpha/wolf2009-sp-0.8.0-alpha.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "wolf2009-sp-0.7.0-alpha.apk",
+          "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.7.0-alpha/wolf2009-sp-0.7.0-alpha.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "wolf2009-sp-0.6.0-alpha.apk",
+          "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.6.0-alpha/wolf2009-sp-0.6.0-alpha.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "wolf2009-sp-0.5.0-alpha.apk",
+          "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.5.0-alpha/wolf2009-sp-0.5.0-alpha.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "wolf2009-viewer-0.4.0-alpha.apk",
+          "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.4.0-alpha/wolf2009-viewer-0.4.0-alpha.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "wolf2009-viewer-0.3.0-alpha.apk",
+          "url": "https://github.com/CheffCorleOne/wolf2009-sp/releases/download/v0.3.0-alpha/wolf2009-viewer-0.3.0-alpha.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
@@ -79,7 +466,75 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-03T02:09:00.505309+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-03T12:42:39.102286+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "PC port (Linux, Windows) of Battle Stadium D.O.N (PS2) by static recompilation. No game material included: bring your own disc.",
+        "latest_release_url": "https://github.com/dvilelaf/battlestadium-don/releases/tag/v1.0",
+        "latest_release_name": "Battle Stadium D.O.N for PC 1.0",
+        "release_assets": [
+          {
+            "name": "BattleStadiumDON-1.0-x86_64.AppImage",
+            "url": "https://github.com/dvilelaf/battlestadium-don/releases/download/v1.0/BattleStadiumDON-1.0-x86_64.AppImage",
+            "size": 107940344
+          },
+          {
+            "name": "don-linux-5d2b93e.tar.gz",
+            "url": "https://github.com/dvilelaf/battlestadium-don/releases/download/v1.0/don-linux-5d2b93e.tar.gz",
+            "size": 118914264
+          },
+          {
+            "name": "don-windows-f537322.zip",
+            "url": "https://github.com/dvilelaf/battlestadium-don/releases/download/v1.0/don-windows-f537322.zip",
+            "size": 86101876
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/dvilelaf/battlestadium-don/releases/download/v1.0/SHA256SUMS",
+            "size": 284
+          }
+        ],
+        "releases": [
+          {
+            "name": "Battle Stadium D.O.N for PC 1.0",
+            "url": "https://github.com/dvilelaf/battlestadium-don/releases/tag/v1.0",
+            "published_at": "2026-11-02T13:30:52Z",
+            "assets": [
+              {
+                "name": "BattleStadiumDON-1.0-x86_64.AppImage",
+                "url": "https://github.com/dvilelaf/battlestadium-don/releases/download/v1.0/BattleStadiumDON-1.0-x86_64.AppImage",
+                "size": 107940344
+              },
+              {
+                "name": "don-linux-5d2b93e.tar.gz",
+                "url": "https://github.com/dvilelaf/battlestadium-don/releases/download/v1.0/don-linux-5d2b93e.tar.gz",
+                "size": 118914264
+              },
+              {
+                "name": "don-windows-f537322.zip",
+                "url": "https://github.com/dvilelaf/battlestadium-don/releases/download/v1.0/don-windows-f537322.zip",
+                "size": 86101876
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/dvilelaf/battlestadium-don/releases/download/v1.0/SHA256SUMS",
+                "size": 284
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -94,9 +549,31 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "BattleStadiumDON-1.0-x86_64.AppImage",
+          "url": "https://github.com/dvilelaf/battlestadium-don/releases/download/v1.0/BattleStadiumDON-1.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "don-linux-5d2b93e.tar.gz",
+          "url": "https://github.com/dvilelaf/battlestadium-don/releases/download/v1.0/don-linux-5d2b93e.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "don-windows-f537322.zip",
+          "url": "https://github.com/dvilelaf/battlestadium-don/releases/download/v1.0/don-windows-f537322.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/dvilelaf/battlestadium-don/releases/download/v1.0/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -114,7 +591,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-03T02:08:56.659965+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-03T12:42:40.540951+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Play The Darkness natively on PC with this static recompilation fan port, featuring Direct3D 12 rendering; bring your own game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -141,7 +635,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-03T02:08:56.659331+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-03T12:42:41.936940+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Quarantine (1994, DOS) to native C for macOS/Linux/Windows. Bring your own game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -175,7 +686,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-03T02:08:56.658837+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-03T12:42:43.335998+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Experimental native Android ARM64 port of Conker: Live & Reloaded (Xbox) by static recompilation. Not playable yet. Bring your own game; no game code or data included.",
+        "latest_release_url": "https://github.com/codepdbh/conker-android-evolved/releases/tag/v0.2.0",
+        "latest_release_name": "v0.2.0: launcher (sin el juego / game not included)",
+        "release_assets": [
+          {
+            "name": "ConkerAndroidEvolved-launcher-0.2.0.apk",
+            "url": "https://github.com/codepdbh/conker-android-evolved/releases/download/v0.2.0/ConkerAndroidEvolved-launcher-0.2.0.apk",
+            "size": 4093597
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.2.0: launcher (sin el juego / game not included)",
+            "url": "https://github.com/codepdbh/conker-android-evolved/releases/tag/v0.2.0",
+            "published_at": "2026-11-03T02:02:04Z",
+            "assets": [
+              {
+                "name": "ConkerAndroidEvolved-launcher-0.2.0.apk",
+                "url": "https://github.com/codepdbh/conker-android-evolved/releases/download/v0.2.0/ConkerAndroidEvolved-launcher-0.2.0.apk",
+                "size": 4093597
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.1.0: launcher (sin el juego / game not included)",
+            "url": "https://github.com/codepdbh/conker-android-evolved/releases/tag/v0.1.0",
+            "published_at": "2026-11-03T01:34:11Z",
+            "assets": [
+              {
+                "name": "ConkerAndroidEvolved-launcher-0.1.0.apk",
+                "url": "https://github.com/codepdbh/conker-android-evolved/releases/download/v0.1.0/ConkerAndroidEvolved-launcher-0.1.0.apk",
+                "size": 4084997
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -188,9 +751,21 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "ConkerAndroidEvolved-launcher-0.2.0.apk",
+          "url": "https://github.com/codepdbh/conker-android-evolved/releases/download/v0.2.0/ConkerAndroidEvolved-launcher-0.2.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ConkerAndroidEvolved-launcher-0.1.0.apk",
+          "url": "https://github.com/codepdbh/conker-android-evolved/releases/download/v0.1.0/ConkerAndroidEvolved-launcher-0.1.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -208,7 +783,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-03T02:08:52.740102+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-03T12:42:45.032135+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Play Motocross Madness 2 in your browser. A Rust, WebAssembly and WebGPU port. Bring your own installed copy of the game: no game files are included or uploaded.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -243,7 +835,126 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-03T02:08:52.738323+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-03T12:42:46.458813+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Open reimplementation of Beach Life, the beach-resort management game, for the browser, Windows and Linux",
+        "latest_release_url": "https://github.com/h4570/openbeach/releases/tag/v1.5.0",
+        "latest_release_name": "v1.5.0",
+        "release_assets": [
+          {
+            "name": "openbeach-1.5.0-linux-x86_64-debug.tar.gz",
+            "url": "https://github.com/h4570/openbeach/releases/download/v1.5.0/openbeach-1.5.0-linux-x86_64-debug.tar.gz",
+            "size": 55196804
+          },
+          {
+            "name": "openbeach-1.5.0-linux-x86_64.tar.gz",
+            "url": "https://github.com/h4570/openbeach/releases/download/v1.5.0/openbeach-1.5.0-linux-x86_64.tar.gz",
+            "size": 6267037
+          },
+          {
+            "name": "openbeach-1.5.0-windows-x64-debug.zip",
+            "url": "https://github.com/h4570/openbeach/releases/download/v1.5.0/openbeach-1.5.0-windows-x64-debug.zip",
+            "size": 44238123
+          },
+          {
+            "name": "openbeach-1.5.0-windows-x64.zip",
+            "url": "https://github.com/h4570/openbeach/releases/download/v1.5.0/openbeach-1.5.0-windows-x64.zip",
+            "size": 6736240
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.5.0",
+            "url": "https://github.com/h4570/openbeach/releases/tag/v1.5.0",
+            "published_at": "2026-11-03T12:14:48Z",
+            "assets": [
+              {
+                "name": "openbeach-1.5.0-linux-x86_64-debug.tar.gz",
+                "url": "https://github.com/h4570/openbeach/releases/download/v1.5.0/openbeach-1.5.0-linux-x86_64-debug.tar.gz",
+                "size": 55196804
+              },
+              {
+                "name": "openbeach-1.5.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/h4570/openbeach/releases/download/v1.5.0/openbeach-1.5.0-linux-x86_64.tar.gz",
+                "size": 6267037
+              },
+              {
+                "name": "openbeach-1.5.0-windows-x64-debug.zip",
+                "url": "https://github.com/h4570/openbeach/releases/download/v1.5.0/openbeach-1.5.0-windows-x64-debug.zip",
+                "size": 44238123
+              },
+              {
+                "name": "openbeach-1.5.0-windows-x64.zip",
+                "url": "https://github.com/h4570/openbeach/releases/download/v1.5.0/openbeach-1.5.0-windows-x64.zip",
+                "size": 6736240
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.4.0",
+            "url": "https://github.com/h4570/openbeach/releases/tag/v1.4.0",
+            "published_at": "2026-11-03T10:19:20Z",
+            "assets": [
+              {
+                "name": "openbeach-1.4.0-linux-x86_64-debug.tar.gz",
+                "url": "https://github.com/h4570/openbeach/releases/download/v1.4.0/openbeach-1.4.0-linux-x86_64-debug.tar.gz",
+                "size": 55198975
+              },
+              {
+                "name": "openbeach-1.4.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/h4570/openbeach/releases/download/v1.4.0/openbeach-1.4.0-linux-x86_64.tar.gz",
+                "size": 6231061
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.3.0",
+            "url": "https://github.com/h4570/openbeach/releases/tag/v1.3.0",
+            "published_at": "2026-11-02T22:21:59Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.2.0",
+            "url": "https://github.com/h4570/openbeach/releases/tag/v1.2.0",
+            "published_at": "2026-11-02T21:12:09Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.1.0",
+            "url": "https://github.com/h4570/openbeach/releases/tag/v1.1.0",
+            "published_at": "2026-11-02T20:08:18Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0.0",
+            "url": "https://github.com/h4570/openbeach/releases/tag/v1.0.0",
+            "published_at": "2026-11-02T16:39:58Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -262,10 +973,42 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "openbeach-1.5.0-linux-x86_64-debug.tar.gz",
+          "url": "https://github.com/h4570/openbeach/releases/download/v1.5.0/openbeach-1.5.0-linux-x86_64-debug.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "openbeach-1.5.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/h4570/openbeach/releases/download/v1.5.0/openbeach-1.5.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "openbeach-1.5.0-windows-x64-debug.zip",
+          "url": "https://github.com/h4570/openbeach/releases/download/v1.5.0/openbeach-1.5.0-windows-x64-debug.zip",
+          "type": "archive"
+        },
+        {
+          "name": "openbeach-1.5.0-windows-x64.zip",
+          "url": "https://github.com/h4570/openbeach/releases/download/v1.5.0/openbeach-1.5.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "openbeach-1.4.0-linux-x86_64-debug.tar.gz",
+          "url": "https://github.com/h4570/openbeach/releases/download/v1.4.0/openbeach-1.4.0-linux-x86_64-debug.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "openbeach-1.4.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/h4570/openbeach/releases/download/v1.4.0/openbeach-1.4.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
