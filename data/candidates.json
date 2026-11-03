@@ -1,7 +1,347 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-02T13:19:47.842182+00:00",
+  "last_updated": "2026-11-03T02:09:17.737791+00:00",
   "candidates": [
+    {
+      "title": "incelstn/MyMy-Android",
+      "url": "https://github.com/incelstn/MyMy-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-02T20:02:06Z",
+      "summary": "android port the game is not mine.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-03T02:09:02.477208+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "CheffCorleOne/wolf2009-sp",
+      "url": "https://github.com/CheffCorleOne/wolf2009-sp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-03T01:45:06Z",
+      "summary": "Experimental open-source Wolfenstein (2009) SP engine research and native Android port. Bring your own game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-03T02:09:02.476367+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "dvilelaf/battlestadium-don",
+      "url": "https://github.com/dvilelaf/battlestadium-don",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-02T17:00:03Z",
+      "summary": "PC port (Linux, Windows) of Battle Stadium D.O.N (PS2) by static recompilation. No game material included: bring your own disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-03T02:09:00.505309+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "binarydigitjohnmilton633/Estacado-The-Darkness-Recomp",
+      "url": "https://github.com/binarydigitjohnmilton633/Estacado-The-Darkness-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-02T22:26:16Z",
+      "summary": "Play The Darkness natively on PC with this static recompilation fan port, featuring Direct3D 12 rendering; bring your own game files. Topics: clojure, design-platform, design-tokens, design-tools, dev-tools, directx12, figma-alternative, mcp-server, open-source, recomp, recompilation, self-hosted, svg-editor, the-darkness, ui-design, ui-ux-design, web-standards, xbox-360, xenonrecomp",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-03T02:08:56.659965+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, fan port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "ACR-GD/quarantine-recomp",
+      "url": "https://github.com/ACR-GD/quarantine-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-03T01:52:19Z",
+      "summary": "Static recompilation of Quarantine (1994, DOS) to native C for macOS/Linux/Windows. Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-03T02:08:56.659331+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "codepdbh/conker-android-evolved",
+      "url": "https://github.com/codepdbh/conker-android-evolved",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-03T02:03:42Z",
+      "summary": "Experimental native Android ARM64 port of Conker: Live & Reloaded (Xbox) by static recompilation. Not playable yet. Bring your own game; no game code or data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-03T02:08:56.658837+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable, android"
+      ]
+    },
+    {
+      "title": "zeoscope/mcm2-web",
+      "url": "https://github.com/zeoscope/mcm2-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-02T21:50:12Z",
+      "summary": "Play Motocross Madness 2 in your browser. A Rust, WebAssembly and WebGPU port. Bring your own installed copy of the game: no game files are included or uploaded. Topics: browser-game, gameport, mcm2, motocross-madness, motocross-madness-2, racing-game, rust, webassembly, webgpu, wgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-03T02:08:52.740102+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "h4570/openbeach",
+      "url": "https://github.com/h4570/openbeach",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-03T00:23:08Z",
+      "summary": "Open reimplementation of Beach Life, the beach-resort management game, for the browser, Windows and Linux Topics: cpp, cpp20, cross-platform, game-engine, sdl, simulation-game, tycoon, tycoon-game, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-03T02:08:52.738323+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: reimplementation",
+        "Есть игровые/платформенные признаки: game, webassembly, wasm, windows, linux"
+      ]
+    },
+    {
+      "title": "2009ejsvk/plyworld-game",
+      "url": "https://github.com/2009ejsvk/plyworld-game",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-11-03T02:00:20Z",
+      "summary": "plyworld: plate-kit assembly game (play in browser)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-03T02:08:50.792752+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "play in browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, play in browser",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
+      ]
+    },
+    {
+      "title": "adi3120/fiveplay-controller",
+      "url": "https://github.com/adi3120/fiveplay-controller",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-02T23:07:12Z",
+      "summary": "Play fiveplay.lol (the browser port of GTA V) with a game controller, in GTA V's original controller layout. Bookmark or userscript, nothing to install. Topics: bookmarklet, controller, gamepad, gamepad-api, gta5, tampermonkey, userscript",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-03T02:08:48.531452+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "lferrete/brucelee-vita",
       "url": "https://github.com/lferrete/brucelee-vita",
@@ -11,7 +351,74 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-02T13:19:31.167941+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-03T02:09:05.677520+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial PS Vita port of Bruce Lee: Dragon Warrior (Android). Loader-only; game data not included.",
+        "latest_release_url": "https://github.com/lferrete/brucelee-vita/releases/tag/v1.0.1",
+        "latest_release_name": "v1.0.1 - Bruce Lee: Dragon Warrior (PS Vita)",
+        "release_assets": [
+          {
+            "name": "brucelee.vpk",
+            "url": "https://github.com/lferrete/brucelee-vita/releases/download/v1.0.1/brucelee.vpk",
+            "size": 876952
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/lferrete/brucelee-vita/releases/download/v1.0.1/SHA256SUMS.txt",
+            "size": 143
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.0.1 - Bruce Lee: Dragon Warrior (PS Vita)",
+            "url": "https://github.com/lferrete/brucelee-vita/releases/tag/v1.0.1",
+            "published_at": "2026-11-02T03:03:51Z",
+            "assets": [
+              {
+                "name": "brucelee.vpk",
+                "url": "https://github.com/lferrete/brucelee-vita/releases/download/v1.0.1/brucelee.vpk",
+                "size": 876952
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/lferrete/brucelee-vita/releases/download/v1.0.1/SHA256SUMS.txt",
+                "size": 143
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0 - Bruce Lee: Dragon Warrior (PS Vita)",
+            "url": "https://github.com/lferrete/brucelee-vita/releases/tag/v1.0",
+            "published_at": "2026-11-02T01:47:52Z",
+            "assets": [
+              {
+                "name": "brucelee.vpk",
+                "url": "https://github.com/lferrete/brucelee-vita/releases/download/v1.0/brucelee.vpk",
+                "size": 876952
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/lferrete/brucelee-vita/releases/download/v1.0/SHA256SUMS.txt",
+                "size": 143
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -26,10 +433,32 @@
           "ps vita"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "brucelee.vpk",
+          "url": "https://github.com/lferrete/brucelee-vita/releases/download/v1.0.1/brucelee.vpk",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/lferrete/brucelee-vita/releases/download/v1.0.1/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "brucelee.vpk",
+          "url": "https://github.com/lferrete/brucelee-vita/releases/download/v1.0/brucelee.vpk",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/lferrete/brucelee-vita/releases/download/v1.0/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 8,
       "relevance_status": "promising",
@@ -47,7 +476,105 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-02T13:19:31.166774+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-03T02:09:07.249780+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial Android port of RimWorld 1.7 (Waylith engine, .NET 10): Android host, PC-mod compatibility layer, touch UI. No game files included.",
+        "latest_release_url": "https://github.com/samilry/rimworld-android-port/releases/tag/v2026.11.02",
+        "latest_release_name": "2026-11-02 · 适配 1.7.4995，源码公开，可复现构建",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "2026-11-02 · 适配 1.7.4995，源码公开，可复现构建",
+            "url": "https://github.com/samilry/rimworld-android-port/releases/tag/v2026.11.02",
+            "published_at": "2026-11-02T08:13:11Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "2026-10-30 · mod 兼容性和电脑版逐项对照",
+            "url": "https://github.com/samilry/rimworld-android-port/releases/tag/v2026.10.30",
+            "published_at": "2026-11-02T08:13:10Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "2026-10-29 · 着色器编译器和电脑版一致，第三批电脑版对照",
+            "url": "https://github.com/samilry/rimworld-android-port/releases/tag/v2026.10.29",
+            "published_at": "2026-11-02T08:13:07Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "2026-10-28 · 字体线程闪退，线程栈，缺失程序集替身",
+            "url": "https://github.com/samilry/rimworld-android-port/releases/tag/v2026.10.28",
+            "published_at": "2026-11-02T08:13:06Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "2026-10-27 · 游戏更新到 1.7.4990，兼容模式，日志和崩溃报告",
+            "url": "https://github.com/samilry/rimworld-android-port/releases/tag/v2026.10.27",
+            "published_at": "2026-11-02T08:13:04Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "2026-10-26 · 贴图缺失的根本原因，键鼠识别，开发者工具的确认按钮",
+            "url": "https://github.com/samilry/rimworld-android-port/releases/tag/v2026.10.26",
+            "published_at": "2026-11-02T08:13:03Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "2026-10-25 · 列表惯性，分辨率选项",
+            "url": "https://github.com/samilry/rimworld-android-port/releases/tag/v2026.10.25",
+            "published_at": "2026-11-02T08:13:01Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "2026-10-24 · 导入存档，输入法，麒麟和老 Mali 手机的闪退",
+            "url": "https://github.com/samilry/rimworld-android-port/releases/tag/v2026.10.24",
+            "published_at": "2026-11-02T08:12:59Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "2026-10-23 · 两步降落，摄像头挖孔避让，键鼠模式，命令图标大小",
+            "url": "https://github.com/samilry/rimworld-android-port/releases/tag/v2026.10.23",
+            "published_at": "2026-11-02T08:12:57Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "2026-10-22 · 触控修正，跟进 1.7.4985，导入 Linux 版游戏",
+            "url": "https://github.com/samilry/rimworld-android-port/releases/tag/v2026.10.22",
+            "published_at": "2026-11-02T08:12:56Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -81,7 +608,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-02T13:19:31.165700+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-03T02:09:08.838464+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "android",
+        "description": "Noita Android port: the Windows game statically recompiled to native ARM64, for Android handhelds and phones. No emulation. Built on mina4mac; bring your own GOG copy.",
+        "latest_release_url": "https://github.com/zhouwuqi/noitadroid/releases/tag/v0.1.0",
+        "latest_release_name": "noitadroid 0.1.0: Noita plays natively on Android",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "noitadroid 0.1.0: Noita plays natively on Android",
+            "url": "https://github.com/zhouwuqi/noitadroid/releases/tag/v0.1.0",
+            "published_at": "2026-11-02T10:15:46Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -119,7 +672,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-02T13:19:31.163618+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-03T02:09:10.300435+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Android port of NSP Box - Switch game packager using Kotlin & Jetpack Compose",
+        "latest_release_url": "https://github.com/JaviiDeveloper/NSP-Box-Android/releases/tag/V3.0.0",
+        "latest_release_name": "V3.0.0",
+        "release_assets": [
+          {
+            "name": "NSP-Box-Android-3.0.0.apk",
+            "url": "https://github.com/JaviiDeveloper/NSP-Box-Android/releases/download/V3.0.0/NSP-Box-Android-3.0.0.apk",
+            "size": 40631688
+          }
+        ],
+        "releases": [
+          {
+            "name": "V3.0.0",
+            "url": "https://github.com/JaviiDeveloper/NSP-Box-Android/releases/tag/V3.0.0",
+            "published_at": "2026-11-02T12:59:18Z",
+            "assets": [
+              {
+                "name": "NSP-Box-Android-3.0.0.apk",
+                "url": "https://github.com/JaviiDeveloper/NSP-Box-Android/releases/download/V3.0.0/NSP-Box-Android-3.0.0.apk",
+                "size": 40631688
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -133,9 +724,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "NSP-Box-Android-3.0.0.apk",
+          "url": "https://github.com/JaviiDeveloper/NSP-Box-Android/releases/download/V3.0.0/NSP-Box-Android-3.0.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -153,7 +751,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-02T13:19:31.162921+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-03T02:09:11.817124+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Handoff note: FINAL FANTASY RESONANCE (Switch) -> Android port on Anbernic RG477M (nx2android). Notes only, no game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -187,7 +802,576 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-02T13:19:29.090654+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-03T02:09:13.252916+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Launcher for native ports of the Skylanders games: builds the game from your own disc, keeps it updated, and manages your figures.",
+        "latest_release_url": "https://github.com/mflr0/Arkeyan-Launcher/releases/tag/v0.7.2",
+        "latest_release_name": "Arkeyan Launcher v0.7.2",
+        "release_assets": [
+          {
+            "name": "ArkeyanLauncher-macOS.dmg",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/ArkeyanLauncher-macOS.dmg",
+            "size": 4287054
+          },
+          {
+            "name": "ArkeyanLauncher-macOS.zip",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/ArkeyanLauncher-macOS.zip",
+            "size": 3876562
+          },
+          {
+            "name": "ArkeyanLauncher-x86_64.AppImage",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/ArkeyanLauncher-x86_64.AppImage",
+            "size": 3926520
+          },
+          {
+            "name": "ArkeyanLauncher.exe",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/ArkeyanLauncher.exe",
+            "size": 7385088
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/SHA256SUMS",
+            "size": 657
+          },
+          {
+            "name": "skylanders-kit-linux-x64.zip",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/skylanders-kit-linux-x64.zip",
+            "size": 47379547
+          },
+          {
+            "name": "skylanders-kit-macos-arm64.zip",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/skylanders-kit-macos-arm64.zip",
+            "size": 45060700
+          },
+          {
+            "name": "skylanders-kit-windows-x64.zip",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/skylanders-kit-windows-x64.zip",
+            "size": 46761964
+          }
+        ],
+        "releases": [
+          {
+            "name": "Arkeyan Launcher v0.7.2",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/tag/v0.7.2",
+            "published_at": "2026-11-01T02:01:37Z",
+            "assets": [
+              {
+                "name": "ArkeyanLauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/ArkeyanLauncher-macOS.dmg",
+                "size": 4287054
+              },
+              {
+                "name": "ArkeyanLauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/ArkeyanLauncher-macOS.zip",
+                "size": 3876562
+              },
+              {
+                "name": "ArkeyanLauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/ArkeyanLauncher-x86_64.AppImage",
+                "size": 3926520
+              },
+              {
+                "name": "ArkeyanLauncher.exe",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/ArkeyanLauncher.exe",
+                "size": 7385088
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/SHA256SUMS",
+                "size": 657
+              },
+              {
+                "name": "skylanders-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/skylanders-kit-linux-x64.zip",
+                "size": 47379547
+              },
+              {
+                "name": "skylanders-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/skylanders-kit-macos-arm64.zip",
+                "size": 45060700
+              },
+              {
+                "name": "skylanders-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/skylanders-kit-windows-x64.zip",
+                "size": 46761964
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Arkeyan Launcher v0.7.1",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/tag/v0.7.1",
+            "published_at": "2026-10-31T20:40:18Z",
+            "assets": [
+              {
+                "name": "ArkeyanLauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.1/ArkeyanLauncher-macOS.dmg",
+                "size": 4277800
+              },
+              {
+                "name": "ArkeyanLauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.1/ArkeyanLauncher-macOS.zip",
+                "size": 3871860
+              },
+              {
+                "name": "ArkeyanLauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.1/ArkeyanLauncher-x86_64.AppImage",
+                "size": 3926520
+              },
+              {
+                "name": "ArkeyanLauncher.exe",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.1/ArkeyanLauncher.exe",
+                "size": 7363072
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.1/SHA256SUMS",
+                "size": 657
+              },
+              {
+                "name": "skylanders-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.1/skylanders-kit-linux-x64.zip",
+                "size": 47379547
+              },
+              {
+                "name": "skylanders-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.1/skylanders-kit-macos-arm64.zip",
+                "size": 45060700
+              },
+              {
+                "name": "skylanders-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.1/skylanders-kit-windows-x64.zip",
+                "size": 46761964
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Arkeyan Launcher v0.7.0",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/tag/v0.7.0",
+            "published_at": "2026-10-31T18:04:29Z",
+            "assets": [
+              {
+                "name": "ArkeyanLauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0/ArkeyanLauncher-macOS.dmg",
+                "size": 4260333
+              },
+              {
+                "name": "ArkeyanLauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0/ArkeyanLauncher-macOS.zip",
+                "size": 3851970
+              },
+              {
+                "name": "ArkeyanLauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0/ArkeyanLauncher-x86_64.AppImage",
+                "size": 3914232
+              },
+              {
+                "name": "ArkeyanLauncher.exe",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0/ArkeyanLauncher.exe",
+                "size": 7289856
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0/SHA256SUMS",
+                "size": 657
+              },
+              {
+                "name": "skylanders-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0/skylanders-kit-linux-x64.zip",
+                "size": 47317491
+              },
+              {
+                "name": "skylanders-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0/skylanders-kit-macos-arm64.zip",
+                "size": 45004411
+              },
+              {
+                "name": "skylanders-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0/skylanders-kit-windows-x64.zip",
+                "size": 46698640
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Arkeyan Launcher v0.7.0-beta.1",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/tag/v0.7.0-beta.1",
+            "published_at": "2026-10-31T09:41:14Z",
+            "assets": [
+              {
+                "name": "ArkeyanLauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0-beta.1/ArkeyanLauncher-macOS.dmg",
+                "size": 4238714
+              },
+              {
+                "name": "ArkeyanLauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0-beta.1/ArkeyanLauncher-macOS.zip",
+                "size": 3835193
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0-beta.1/SHA256SUMS",
+                "size": 281
+              },
+              {
+                "name": "skylanders-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0-beta.1/skylanders-kit-macos-arm64.zip",
+                "size": 44950627
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Arkeyan Launcher v0.6.1",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/tag/v0.6.1",
+            "published_at": "2026-10-29T21:40:10Z",
+            "assets": [
+              {
+                "name": "ArkeyanLauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.1/ArkeyanLauncher-macOS.dmg",
+                "size": 7694543
+              },
+              {
+                "name": "ArkeyanLauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.1/ArkeyanLauncher-macOS.zip",
+                "size": 7029467
+              },
+              {
+                "name": "ArkeyanLauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.1/ArkeyanLauncher-x86_64.AppImage",
+                "size": 3856888
+              },
+              {
+                "name": "ArkeyanLauncher.exe",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.1/ArkeyanLauncher.exe",
+                "size": 7183360
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.1/SHA256SUMS",
+                "size": 657
+              },
+              {
+                "name": "skylanders-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.1/skylanders-kit-linux-x64.zip",
+                "size": 42074504
+              },
+              {
+                "name": "skylanders-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.1/skylanders-kit-macos-arm64.zip",
+                "size": 43257397
+              },
+              {
+                "name": "skylanders-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.1/skylanders-kit-windows-x64.zip",
+                "size": 41102425
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Arkeyan Launcher v0.6.0",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/tag/v0.6.0",
+            "published_at": "2026-10-28T02:07:54Z",
+            "assets": [
+              {
+                "name": "ArkeyanLauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/ArkeyanLauncher-macOS.dmg",
+                "size": 7429205
+              },
+              {
+                "name": "ArkeyanLauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/ArkeyanLauncher-macOS.zip",
+                "size": 6793220
+              },
+              {
+                "name": "ArkeyanLauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/ArkeyanLauncher-x86_64.AppImage",
+                "size": 3762680
+              },
+              {
+                "name": "ArkeyanLauncher.exe",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/ArkeyanLauncher.exe",
+                "size": 6927872
+              },
+              {
+                "name": "games.json",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/games.json",
+                "size": 444
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/SHA256SUMS",
+                "size": 1354
+              },
+              {
+                "name": "skylanders-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/skylanders-kit-linux-x64.zip",
+                "size": 40642141
+              },
+              {
+                "name": "skylanders-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/skylanders-kit-macos-arm64.zip",
+                "size": 41785343
+              },
+              {
+                "name": "skylanders-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/skylanders-kit-windows-x64.zip",
+                "size": 39560680
+              },
+              {
+                "name": "Skylauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/Skylauncher-macOS.dmg",
+                "size": 7429401
+              },
+              {
+                "name": "Skylauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/Skylauncher-macOS.zip",
+                "size": 6793283
+              },
+              {
+                "name": "Skylauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/Skylauncher-x86_64.AppImage",
+                "size": 3762680
+              },
+              {
+                "name": "Skylauncher.exe",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/Skylauncher.exe",
+                "size": 6927872
+              },
+              {
+                "name": "ssa-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/ssa-kit-linux-x64.zip",
+                "size": 40642141
+              },
+              {
+                "name": "ssa-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/ssa-kit-macos-arm64.zip",
+                "size": 41785343
+              },
+              {
+                "name": "ssa-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/ssa-kit-windows-x64.zip",
+                "size": 39560680
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Skylauncher v0.4.3",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/tag/v0.4.3",
+            "published_at": "2026-10-27T13:21:49Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.3/SHA256SUMS",
+                "size": 620
+              },
+              {
+                "name": "Skylauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.3/Skylauncher-macOS.dmg",
+                "size": 7178645
+              },
+              {
+                "name": "Skylauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.3/Skylauncher-macOS.zip",
+                "size": 6556424
+              },
+              {
+                "name": "Skylauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.3/Skylauncher-x86_64.AppImage",
+                "size": 3635704
+              },
+              {
+                "name": "Skylauncher.exe",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.3/Skylauncher.exe",
+                "size": 6599168
+              },
+              {
+                "name": "ssa-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.3/ssa-kit-linux-x64.zip",
+                "size": 34902049
+              },
+              {
+                "name": "ssa-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.3/ssa-kit-macos-arm64.zip",
+                "size": 39569379
+              },
+              {
+                "name": "ssa-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.3/ssa-kit-windows-x64.zip",
+                "size": 33324397
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Skylauncher v0.4.2",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/tag/v0.4.2",
+            "published_at": "2026-10-27T11:01:54Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.2/SHA256SUMS",
+                "size": 620
+              },
+              {
+                "name": "Skylauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.2/Skylauncher-macOS.dmg",
+                "size": 7178517
+              },
+              {
+                "name": "Skylauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.2/Skylauncher-macOS.zip",
+                "size": 6556083
+              },
+              {
+                "name": "Skylauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.2/Skylauncher-x86_64.AppImage",
+                "size": 3635704
+              },
+              {
+                "name": "Skylauncher.exe",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.2/Skylauncher.exe",
+                "size": 6594560
+              },
+              {
+                "name": "ssa-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.2/ssa-kit-linux-x64.zip",
+                "size": 34811653
+              },
+              {
+                "name": "ssa-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.2/ssa-kit-macos-arm64.zip",
+                "size": 39333178
+              },
+              {
+                "name": "ssa-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.2/ssa-kit-windows-x64.zip",
+                "size": 33228491
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Skylauncher v0.4.1",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/tag/v0.4.1",
+            "published_at": "2026-10-27T07:42:42Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.1/SHA256SUMS",
+                "size": 620
+              },
+              {
+                "name": "Skylauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.1/Skylauncher-macOS.dmg",
+                "size": 7178335
+              },
+              {
+                "name": "Skylauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.1/Skylauncher-macOS.zip",
+                "size": 6555896
+              },
+              {
+                "name": "Skylauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.1/Skylauncher-x86_64.AppImage",
+                "size": 3639800
+              },
+              {
+                "name": "Skylauncher.exe",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.1/Skylauncher.exe",
+                "size": 6594560
+              },
+              {
+                "name": "ssa-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.1/ssa-kit-linux-x64.zip",
+                "size": 34811653
+              },
+              {
+                "name": "ssa-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.1/ssa-kit-macos-arm64.zip",
+                "size": 39333178
+              },
+              {
+                "name": "ssa-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.1/ssa-kit-windows-x64.zip",
+                "size": 33228491
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Skylauncher v0.4.0",
+            "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/tag/v0.4.0",
+            "published_at": "2026-10-26T20:27:44Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.0/SHA256SUMS",
+                "size": 620
+              },
+              {
+                "name": "Skylauncher-macOS.dmg",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.0/Skylauncher-macOS.dmg",
+                "size": 7157973
+              },
+              {
+                "name": "Skylauncher-macOS.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.0/Skylauncher-macOS.zip",
+                "size": 6536518
+              },
+              {
+                "name": "Skylauncher-x86_64.AppImage",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.0/Skylauncher-x86_64.AppImage",
+                "size": 3631608
+              },
+              {
+                "name": "Skylauncher.exe",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.0/Skylauncher.exe",
+                "size": 6562304
+              },
+              {
+                "name": "ssa-kit-linux-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.0/ssa-kit-linux-x64.zip",
+                "size": 34774018
+              },
+              {
+                "name": "ssa-kit-macos-arm64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.0/ssa-kit-macos-arm64.zip",
+                "size": 39452043
+              },
+              {
+                "name": "ssa-kit-windows-x64.zip",
+                "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.0/ssa-kit-windows-x64.zip",
+                "size": 33164495
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -201,9 +1385,431 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "ArkeyanLauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/ArkeyanLauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ArkeyanLauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/ArkeyanLauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ArkeyanLauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/ArkeyanLauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ArkeyanLauncher.exe",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/ArkeyanLauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "skylanders-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/skylanders-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "skylanders-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/skylanders-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "skylanders-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.2/skylanders-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ArkeyanLauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.1/ArkeyanLauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ArkeyanLauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.1/ArkeyanLauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ArkeyanLauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.1/ArkeyanLauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ArkeyanLauncher.exe",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.1/ArkeyanLauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "skylanders-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.1/skylanders-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "skylanders-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.1/skylanders-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "skylanders-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.1/skylanders-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ArkeyanLauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0/ArkeyanLauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ArkeyanLauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0/ArkeyanLauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ArkeyanLauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0/ArkeyanLauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ArkeyanLauncher.exe",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0/ArkeyanLauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "skylanders-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0/skylanders-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "skylanders-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0/skylanders-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "skylanders-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0/skylanders-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ArkeyanLauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0-beta.1/ArkeyanLauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ArkeyanLauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0-beta.1/ArkeyanLauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0-beta.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "skylanders-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.7.0-beta.1/skylanders-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ArkeyanLauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.1/ArkeyanLauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ArkeyanLauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.1/ArkeyanLauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ArkeyanLauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.1/ArkeyanLauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ArkeyanLauncher.exe",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.1/ArkeyanLauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "skylanders-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.1/skylanders-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "skylanders-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.1/skylanders-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "skylanders-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.1/skylanders-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ArkeyanLauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/ArkeyanLauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ArkeyanLauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/ArkeyanLauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ArkeyanLauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/ArkeyanLauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ArkeyanLauncher.exe",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/ArkeyanLauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "games.json",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/games.json",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "skylanders-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/skylanders-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "skylanders-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/skylanders-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "skylanders-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/skylanders-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Skylauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/Skylauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/Skylauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Skylauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/Skylauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher.exe",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/Skylauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "ssa-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/ssa-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/ssa-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.6.0/ssa-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.3/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Skylauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.3/Skylauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.3/Skylauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Skylauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.3/Skylauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher.exe",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.3/Skylauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "ssa-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.3/ssa-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.3/ssa-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.3/ssa-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Skylauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.2/Skylauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.2/Skylauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Skylauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.2/Skylauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher.exe",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.2/Skylauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "ssa-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.2/ssa-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.2/ssa-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.2/ssa-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Skylauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.1/Skylauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.1/Skylauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Skylauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.1/Skylauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher.exe",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.1/Skylauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "ssa-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.1/ssa-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.1/ssa-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.1/ssa-kit-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "Skylauncher-macOS.dmg",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.0/Skylauncher-macOS.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher-macOS.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.0/Skylauncher-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Skylauncher-x86_64.AppImage",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.0/Skylauncher-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Skylauncher.exe",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.0/Skylauncher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "ssa-kit-linux-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.0/ssa-kit-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-macos-arm64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.0/ssa-kit-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ssa-kit-windows-x64.zip",
+          "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.4.0/ssa-kit-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -221,7 +1827,65 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-02T13:19:29.089527+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-03T02:09:14.836581+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A native Windows x64 and Linux/Steam Deck port of Blast Wind (Japan) for the Sega Saturn, built by static recompilation with satrecomp. The SH-2 code is translated to C++ and runs on a custom machine with CD-DA and SCSP audio, launcher, saves and full controller support. No emulator, no BIOS and no game data: players supply their own disc. GPL-3.0.",
+        "latest_release_url": "https://github.com/omegakatana92/Blast-Wind-Recomp/releases/tag/v0.1.0",
+        "latest_release_name": "Blast Wind v0.1.0",
+        "release_assets": [
+          {
+            "name": "Blast-Wind-v0.1.0-SteamDeck-x86_64.AppImage",
+            "url": "https://github.com/omegakatana92/Blast-Wind-Recomp/releases/download/v0.1.0/Blast-Wind-v0.1.0-SteamDeck-x86_64.AppImage",
+            "size": 23095800
+          },
+          {
+            "name": "Blast-Wind-Windows-x64.zip",
+            "url": "https://github.com/omegakatana92/Blast-Wind-Recomp/releases/download/v0.1.0/Blast-Wind-Windows-x64.zip",
+            "size": 26482395
+          },
+          {
+            "name": "SHA256SUMS-release.txt",
+            "url": "https://github.com/omegakatana92/Blast-Wind-Recomp/releases/download/v0.1.0/SHA256SUMS-release.txt",
+            "size": 412
+          }
+        ],
+        "releases": [
+          {
+            "name": "Blast Wind v0.1.0",
+            "url": "https://github.com/omegakatana92/Blast-Wind-Recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-02T02:03:50Z",
+            "assets": [
+              {
+                "name": "Blast-Wind-v0.1.0-SteamDeck-x86_64.AppImage",
+                "url": "https://github.com/omegakatana92/Blast-Wind-Recomp/releases/download/v0.1.0/Blast-Wind-v0.1.0-SteamDeck-x86_64.AppImage",
+                "size": 23095800
+              },
+              {
+                "name": "Blast-Wind-Windows-x64.zip",
+                "url": "https://github.com/omegakatana92/Blast-Wind-Recomp/releases/download/v0.1.0/Blast-Wind-Windows-x64.zip",
+                "size": 26482395
+              },
+              {
+                "name": "SHA256SUMS-release.txt",
+                "url": "https://github.com/omegakatana92/Blast-Wind-Recomp/releases/download/v0.1.0/SHA256SUMS-release.txt",
+                "size": 412
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -235,9 +1899,26 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Blast-Wind-v0.1.0-SteamDeck-x86_64.AppImage",
+          "url": "https://github.com/omegakatana92/Blast-Wind-Recomp/releases/download/v0.1.0/Blast-Wind-v0.1.0-SteamDeck-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Blast-Wind-Windows-x64.zip",
+          "url": "https://github.com/omegakatana92/Blast-Wind-Recomp/releases/download/v0.1.0/Blast-Wind-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS-release.txt",
+          "url": "https://github.com/omegakatana92/Blast-Wind-Recomp/releases/download/v0.1.0/SHA256SUMS-release.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -255,7 +1936,105 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-02T13:19:29.088244+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-03T02:09:16.292714+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows x64 and Linux/Steam Deck port of Radiant Silvergun (Japan), built by static SH-2 recompilation with satrecomp. Runs your own T-32902G V1.002 disc. No ROM, BIOS or game data. Toolkit/binary GPL-3.0; original files PolyForm Noncommercial. Launcher, CD-DA/SCSP audio, saves. Prebuilt downloads on the releases page.",
+        "latest_release_url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/tag/v0.1.0",
+        "latest_release_name": "Radiant Silvergun (Japan) native port v0.1.0",
+        "release_assets": [
+          {
+            "name": "LICENSE",
+            "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/LICENSE",
+            "size": 35147
+          },
+          {
+            "name": "LICENSE-ORIGINAL-WORK.md",
+            "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/LICENSE-ORIGINAL-WORK.md",
+            "size": 6045
+          },
+          {
+            "name": "LICENSING.md",
+            "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/LICENSING.md",
+            "size": 1546
+          },
+          {
+            "name": "Radiant-Silvergun-SteamDeck-x86_64.AppImage",
+            "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/Radiant-Silvergun-SteamDeck-x86_64.AppImage",
+            "size": 14535160
+          },
+          {
+            "name": "Radiant-Silvergun-Windows-x64.zip",
+            "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/Radiant-Silvergun-Windows-x64.zip",
+            "size": 15765734
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/SHA256SUMS.txt",
+            "size": 210
+          },
+          {
+            "name": "THIRD_PARTY_NOTICES.md",
+            "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/THIRD_PARTY_NOTICES.md",
+            "size": 2760
+          }
+        ],
+        "releases": [
+          {
+            "name": "Radiant Silvergun (Japan) native port v0.1.0",
+            "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-02T02:04:25Z",
+            "assets": [
+              {
+                "name": "LICENSE",
+                "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/LICENSE",
+                "size": 35147
+              },
+              {
+                "name": "LICENSE-ORIGINAL-WORK.md",
+                "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/LICENSE-ORIGINAL-WORK.md",
+                "size": 6045
+              },
+              {
+                "name": "LICENSING.md",
+                "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/LICENSING.md",
+                "size": 1546
+              },
+              {
+                "name": "Radiant-Silvergun-SteamDeck-x86_64.AppImage",
+                "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/Radiant-Silvergun-SteamDeck-x86_64.AppImage",
+                "size": 14535160
+              },
+              {
+                "name": "Radiant-Silvergun-Windows-x64.zip",
+                "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/Radiant-Silvergun-Windows-x64.zip",
+                "size": 15765734
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/SHA256SUMS.txt",
+                "size": 210
+              },
+              {
+                "name": "THIRD_PARTY_NOTICES.md",
+                "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/THIRD_PARTY_NOTICES.md",
+                "size": 2760
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -269,9 +2048,46 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "LICENSE",
+          "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/LICENSE",
+          "type": "other_file"
+        },
+        {
+          "name": "LICENSE-ORIGINAL-WORK.md",
+          "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/LICENSE-ORIGINAL-WORK.md",
+          "type": "other_file"
+        },
+        {
+          "name": "LICENSING.md",
+          "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/LICENSING.md",
+          "type": "other_file"
+        },
+        {
+          "name": "Radiant-Silvergun-SteamDeck-x86_64.AppImage",
+          "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/Radiant-Silvergun-SteamDeck-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Radiant-Silvergun-Windows-x64.zip",
+          "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/Radiant-Silvergun-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "THIRD_PARTY_NOTICES.md",
+          "url": "https://github.com/omegakatana92/Radiant-Slivergun-Recomp/releases/download/v0.1.0/THIRD_PARTY_NOTICES.md",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
