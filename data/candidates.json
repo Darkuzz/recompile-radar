@@ -1,7 +1,309 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-03T12:42:47.910819+00:00",
+  "last_updated": "2026-11-04T00:33:03.425973+00:00",
   "candidates": [
+    {
+      "title": "iMrBurn/wwe12-pc",
+      "url": "https://github.com/iMrBurn/wwe12-pc",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-03T17:38:27Z",
+      "summary": "WWE '12 for PC and Android. Native port, no emulator. Vulkan, DirectX 12 and 11. Bring your own game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-04T00:32:48.193461+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: native port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "vextech76/sh2-linux",
+      "url": "https://github.com/vextech76/sh2-linux",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-03T20:49:23Z",
+      "summary": "LANTERN: Linux/Vulkan runtime for a static recompilation of PS2 Silent Hill 2 (no game data included)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-04T00:32:42.276018+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "twelvehourstime/wet-recomp",
+      "url": "https://github.com/twelvehourstime/wet-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-03T21:29:29Z",
+      "summary": "Unofficial native Windows port of Wet (Xbox 360) via static recompilation with ReXGlue. Bring your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-04T00:32:42.275257+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "codepdbh/maxpayne2pc-androidevolved",
+      "url": "https://github.com/codepdbh/maxpayne2pc-androidevolved",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-03T22:03:47Z",
+      "summary": "Static recompilation of Max Payne 2 (PC, x86) to native Android ARM64 with pcrecomp. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-04T00:32:42.274469+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "pedrohenrique505/digimon-rumble-arena-2-recomp",
+      "url": "https://github.com/pedrohenrique505/digimon-rumble-arena-2-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-03T22:32:25Z",
+      "summary": "Static recompilation of Digimon Rumble Arena 2 (PS2, SLUS-21067) into a native PC executable. Translates the Emotion Engine MIPS R5900 code to C++ and pairs it with a runtime that replaces the PS2 hardware (GS, VU1, IOP, SPU2). No game files included; Linux only for now.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-04T00:32:42.273439+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "AksharDP/xc2-recomp",
+      "url": "https://github.com/AksharDP/xc2-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-04T00:31:38Z",
+      "summary": "Static recompilation of Xenoblade Chronicles 2 to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-04T00:32:42.272375+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "rzrabbi/mcm2-web",
+      "url": "https://github.com/rzrabbi/mcm2-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-03T19:01:03Z",
+      "summary": "Play Motocross Madness 2 in your browser. A Rust, WebAssembly and WebGPU port. Bring your own installed copy of the game: no game files are included or uploaded. Topics: browser-game, mcm2, motocross-madness-2, racing-game, rust, webassembly, webgpu, wgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-04T00:32:38.095678+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "prayanshchh/revracers",
+      "url": "https://github.com/prayanshchh/revracers",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-03T20:41:22Z",
+      "summary": "RevRacers: a single-seater racing game in the browser. Speed Dreams physics compiled to WebAssembly, three.js WebGPU graphics, a 22-car AI field, weather, strategy and race control. Topics: browser-game, emscripten, gpl-3, racing-game, racing-simulator, speed-dreams, threejs, typescript, webassembly, webgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-04T00:32:38.092106+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "DexWRLD/nfsuc-web",
+      "url": "https://github.com/DexWRLD/nfsuc-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-03T22:04:33Z",
+      "summary": "Experimental static recompilation research for running Need for Speed Undercover through a portable runtime and WebAssembly/WebGPU. Requires a legally owned game installation; no game files are distributed.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-04T00:32:38.089925+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
     {
       "title": "HUEVOMAN77/xboxcore",
       "url": "https://github.com/HUEVOMAN77/xboxcore",
@@ -11,7 +313,87 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-03T12:42:32.644845+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-04T00:32:51.716139+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android ports of original Xbox games by static recompilation (XboxXBERecomp SDK, MIT). No game code or assets: bring your own disc.",
+        "latest_release_url": "https://github.com/HUEVOMAN77/xboxcore/releases/tag/v1.6.1",
+        "latest_release_name": "Most Wanted for Android v1.6.1",
+        "release_assets": [
+          {
+            "name": "MostWanted-1.6.1.apk",
+            "url": "https://github.com/HUEVOMAN77/xboxcore/releases/download/v1.6.1/MostWanted-1.6.1.apk",
+            "size": 33916224
+          }
+        ],
+        "releases": [
+          {
+            "name": "Most Wanted for Android v1.6.1",
+            "url": "https://github.com/HUEVOMAN77/xboxcore/releases/tag/v1.6.1",
+            "published_at": "2026-11-03T17:08:12Z",
+            "assets": [
+              {
+                "name": "MostWanted-1.6.1.apk",
+                "url": "https://github.com/HUEVOMAN77/xboxcore/releases/download/v1.6.1/MostWanted-1.6.1.apk",
+                "size": 33916224
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Most Wanted for Android v1.6.0",
+            "url": "https://github.com/HUEVOMAN77/xboxcore/releases/tag/v1.6.0",
+            "published_at": "2026-11-03T16:06:56Z",
+            "assets": [
+              {
+                "name": "MostWanted-1.6.0.apk",
+                "url": "https://github.com/HUEVOMAN77/xboxcore/releases/download/v1.6.0/MostWanted-1.6.0.apk",
+                "size": 33920348
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Most Wanted for Android v1.5.0",
+            "url": "https://github.com/HUEVOMAN77/xboxcore/releases/tag/v1.5.0",
+            "published_at": "2026-11-03T15:06:01Z",
+            "assets": [
+              {
+                "name": "MostWanted-1.5.0.apk",
+                "url": "https://github.com/HUEVOMAN77/xboxcore/releases/download/v1.5.0/MostWanted-1.5.0.apk",
+                "size": 33912332
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Most Wanted for Android v1.4.0",
+            "url": "https://github.com/HUEVOMAN77/xboxcore/releases/tag/v1.4.0",
+            "published_at": "2026-11-03T04:42:22Z",
+            "assets": [
+              {
+                "name": "MostWanted-1.4.0.apk",
+                "url": "https://github.com/HUEVOMAN77/xboxcore/releases/download/v1.4.0/MostWanted-1.4.0.apk",
+                "size": 33806772
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -25,9 +407,31 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "MostWanted-1.6.1.apk",
+          "url": "https://github.com/HUEVOMAN77/xboxcore/releases/download/v1.6.1/MostWanted-1.6.1.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "MostWanted-1.6.0.apk",
+          "url": "https://github.com/HUEVOMAN77/xboxcore/releases/download/v1.6.0/MostWanted-1.6.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "MostWanted-1.5.0.apk",
+          "url": "https://github.com/HUEVOMAN77/xboxcore/releases/download/v1.5.0/MostWanted-1.5.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "MostWanted-1.4.0.apk",
+          "url": "https://github.com/HUEVOMAN77/xboxcore/releases/download/v1.4.0/MostWanted-1.4.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -45,7 +449,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-03T12:42:26.675992+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-04T00:32:53.252213+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Def Jam: Fight for NY PC port — static recompilation of the original Xbox game for native Windows and macOS (Direct3D 11 / Vulkan). Bring your own game dump.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -79,17 +500,114 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-03T12:42:26.674873+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-11-04T00:32:54.666777+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "SledStormPSXRecomp is an unofficial, noncommercial static recompilation of the PlayStation game Sled Storm, built on psxrecomp and recomp-ui. It runs the game as a native executable. You need your own legally obtained copy of the game to play.",
+        "latest_release_url": "https://github.com/PeriBluGaming/SledStormPSXRecomp/releases/tag/v0.1.0",
+        "latest_release_name": "SledStorm Recompiled v0.1.0",
+        "release_assets": [
+          {
+            "name": "sledstorm-0.1.0-linux-x64.zip",
+            "url": "https://github.com/PeriBluGaming/SledStormPSXRecomp/releases/download/v0.1.0/sledstorm-0.1.0-linux-x64.zip",
+            "size": 52431285
+          },
+          {
+            "name": "sledstorm-0.1.0-macos-arm64.zip",
+            "url": "https://github.com/PeriBluGaming/SledStormPSXRecomp/releases/download/v0.1.0/sledstorm-0.1.0-macos-arm64.zip",
+            "size": 28155123
+          },
+          {
+            "name": "sledstorm-0.1.0-macos-x64.zip",
+            "url": "https://github.com/PeriBluGaming/SledStormPSXRecomp/releases/download/v0.1.0/sledstorm-0.1.0-macos-x64.zip",
+            "size": 29670617
+          },
+          {
+            "name": "sledstorm-0.1.0-windows-x64.zip",
+            "url": "https://github.com/PeriBluGaming/SledStormPSXRecomp/releases/download/v0.1.0/sledstorm-0.1.0-windows-x64.zip",
+            "size": 30115156
+          }
+        ],
+        "releases": [
+          {
+            "name": "SledStorm Recompiled v0.1.0",
+            "url": "https://github.com/PeriBluGaming/SledStormPSXRecomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-03T11:12:15Z",
+            "assets": [
+              {
+                "name": "sledstorm-0.1.0-linux-x64.zip",
+                "url": "https://github.com/PeriBluGaming/SledStormPSXRecomp/releases/download/v0.1.0/sledstorm-0.1.0-linux-x64.zip",
+                "size": 52431285
+              },
+              {
+                "name": "sledstorm-0.1.0-macos-arm64.zip",
+                "url": "https://github.com/PeriBluGaming/SledStormPSXRecomp/releases/download/v0.1.0/sledstorm-0.1.0-macos-arm64.zip",
+                "size": 28155123
+              },
+              {
+                "name": "sledstorm-0.1.0-macos-x64.zip",
+                "url": "https://github.com/PeriBluGaming/SledStormPSXRecomp/releases/download/v0.1.0/sledstorm-0.1.0-macos-x64.zip",
+                "size": 29670617
+              },
+              {
+                "name": "sledstorm-0.1.0-windows-x64.zip",
+                "url": "https://github.com/PeriBluGaming/SledStormPSXRecomp/releases/download/v0.1.0/sledstorm-0.1.0-windows-x64.zip",
+                "size": 30115156
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "sledstorm-0.1.0-linux-x64.zip",
+          "url": "https://github.com/PeriBluGaming/SledStormPSXRecomp/releases/download/v0.1.0/sledstorm-0.1.0-linux-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "sledstorm-0.1.0-macos-arm64.zip",
+          "url": "https://github.com/PeriBluGaming/SledStormPSXRecomp/releases/download/v0.1.0/sledstorm-0.1.0-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "sledstorm-0.1.0-macos-x64.zip",
+          "url": "https://github.com/PeriBluGaming/SledStormPSXRecomp/releases/download/v0.1.0/sledstorm-0.1.0-macos-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "sledstorm-0.1.0-windows-x64.zip",
+          "url": "https://github.com/PeriBluGaming/SledStormPSXRecomp/releases/download/v0.1.0/sledstorm-0.1.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -106,7 +624,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-03T12:42:22.415308+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-04T00:32:56.156798+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A C++20 tactics game, playable in the browser, that stays bit-identical across MSVC, Apple clang arm64 and WebAssembly, checked on every commit.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -141,7 +676,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-03T12:42:18.005517+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-04T00:32:57.621540+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Browser port of Invasiones, a 2008 strategy game about the British invasions of the Río de la Plata. TypeScript and PixiJS, playable on desktop and iPhone.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -1026,7 +1578,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-03T02:08:50.792752+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-04T00:32:59.134189+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "plyworld: plate-kit assembly game (play in browser)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -1060,7 +1629,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-03T02:08:48.531452+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-04T00:33:00.537915+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Play fiveplay.lol (the browser port of GTA V) with a game controller, in GTA V's original controller layout. Bookmark or userscript, nothing to install.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -2848,7 +3434,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-02T13:19:26.927425+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-04T00:33:01.951016+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "In Extremis (1993) PC game source port in development.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
