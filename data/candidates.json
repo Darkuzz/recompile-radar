@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-04T12:53:06.044472+00:00",
+  "last_updated": "2026-11-05T00:49:58.937721+00:00",
   "candidates": [
     {
-      "title": "AurelioB/totk-android",
-      "url": "https://github.com/AurelioB/totk-android",
+      "title": "Frostie77/Dad-n-Me",
+      "url": "https://github.com/Frostie77/Dad-n-Me",
       "source_name": "GitHub: Android ports",
-      "published": "2026-11-04T06:13:28Z",
-      "summary": "Tears of the Kingdom 1.4.3 native Android port (TotK Native): bring your own game files",
+      "published": "2026-11-04T14:48:53Z",
+      "summary": "A Native Android Port of the violent Flash game Dad 'n ME.",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-04T12:52:50.874323+00:00",
+      "found_at": "2026-11-05T00:49:42.476885+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -29,6 +29,381 @@
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
       ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Frostie77/Skull-Kid",
+      "url": "https://github.com/Frostie77/Skull-Kid",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-05T00:44:48Z",
+      "summary": "A Native Android Port of the brutal action Flash game Skull Kid.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-05T00:49:42.474433+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Yui-Ezic/sakurasou-port",
+      "url": "https://github.com/Yui-Ezic/sakurasou-port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-04T21:30:48Z",
+      "summary": "The native PC (linux\\windows) port of the Sakurasou no Pet na Kanojo PSP game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-05T00:49:40.414495+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "cheviman/tmnt-port",
+      "url": "https://github.com/cheviman/tmnt-port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-05T00:42:01Z",
+      "summary": "A native port of Konami's Teenage Mutant Ninja Turtles (1989 arcade), built on the verified decompilation tmntarcade-decomp: TMNT Arcade, the arcade game 1:1, and Splinter Way, made for home. Windows, Linux, macOS, Android, Nintendo Switch and Anbernic. Bring your own ROM set.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-05T00:49:40.413044+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, port of, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows, linux, android"
+      ]
+    },
+    {
+      "title": "EddyGameDev/ContraLoW-Android-Recomp",
+      "url": "https://github.com/EddyGameDev/ContraLoW-Android-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-04T23:29:12Z",
+      "summary": "Contra: Legacy of War (PS1, SLUS-00288) static-recompilation port to native Android (arm64) with a game-file launcher. No game data. Engine: psxrecomp-android.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-05T00:49:36.151662+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "mguhlin/Prospect47",
+      "url": "https://github.com/mguhlin/Prospect47",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-04T17:02:24Z",
+      "summary": "Browser-first asteroid mining and colony-building game on a WebAssembly Luanti engine. Dig. Craft. Build. Prepare for Tomorrow. Topics: asteroid-mining, browser-game, game, lua, luanti, minetest, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-05T00:49:31.640113+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "WheresRace/deadcellsport",
+      "url": "https://github.com/WheresRace/deadcellsport",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-04T17:17:23Z",
+      "summary": "Experimental Dead Cells WebAssembly port; bring your own GOG game files",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-05T00:49:31.639360+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
+    {
+      "title": "johnreevesiii/doc-browser-source",
+      "url": "https://github.com/johnreevesiii/doc-browser-source",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-04T21:15:23Z",
+      "summary": "Derby Owners Club in the browser: source for the Flycast WebAssembly cores and game page (GPL)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-05T00:49:31.636663+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "RillianZ/600-seconds",
+      "url": "https://github.com/RillianZ/600-seconds",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-04T23:14:32Z",
+      "summary": "Top down time loop game prototype. One hour, one house, a kid who remembers every loop. C++ and raylib, runs in the browser. Topics: cpp, game, prototype, raylib, time-loop, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-05T00:49:31.634404+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "AurelioB/totk-android",
+      "url": "https://github.com/AurelioB/totk-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-04T06:13:28Z",
+      "summary": "Tears of the Kingdom 1.4.3 native Android port (TotK Native): bring your own game files",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-04T12:52:50.874323+00:00",
+      "check": {
+        "checked_at": "2026-11-05T00:49:46.085295+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Tears of the Kingdom native Android port (TotK Native)",
+        "latest_release_url": "https://github.com/AurelioB/totk-android/releases/tag/v1.0.0",
+        "latest_release_name": "TotK Native 1.0.0",
+        "release_assets": [
+          {
+            "name": "TotK-Native-1.0.0.apk",
+            "url": "https://github.com/AurelioB/totk-android/releases/download/v1.0.0/TotK-Native-1.0.0.apk",
+            "size": 18315790
+          },
+          {
+            "name": "TotK-Native-1.0.0.apk.sha256",
+            "url": "https://github.com/AurelioB/totk-android/releases/download/v1.0.0/TotK-Native-1.0.0.apk.sha256",
+            "size": 88
+          }
+        ],
+        "releases": [
+          {
+            "name": "TotK Native 1.0.0",
+            "url": "https://github.com/AurelioB/totk-android/releases/tag/v1.0.0",
+            "published_at": "2026-11-04T06:13:28Z",
+            "assets": [
+              {
+                "name": "TotK-Native-1.0.0.apk",
+                "url": "https://github.com/AurelioB/totk-android/releases/download/v1.0.0/TotK-Native-1.0.0.apk",
+                "size": 18315790
+              },
+              {
+                "name": "TotK-Native-1.0.0.apk.sha256",
+                "url": "https://github.com/AurelioB/totk-android/releases/download/v1.0.0/TotK-Native-1.0.0.apk.sha256",
+                "size": 88
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "TotK-Native-1.0.0.apk",
+          "url": "https://github.com/AurelioB/totk-android/releases/download/v1.0.0/TotK-Native-1.0.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "TotK-Native-1.0.0.apk.sha256",
+          "url": "https://github.com/AurelioB/totk-android/releases/download/v1.0.0/TotK-Native-1.0.0.apk.sha256",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -45,7 +420,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-04T12:52:44.832683+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-05T00:49:47.686856+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of Pro Yakyuu Team wo Tsukurou! 3 (PS2, SLPM-65853) by static recompilation. No game data included: bring your own disc.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -79,7 +471,88 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-04T12:52:44.832128+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-05T00:49:49.233518+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Tenchu: Return from Darkness - HoloCatt Recomp Project: work-in-progress static recompilation of Tenchu: Return from Darkness (original Xbox) for Windows. Bring your own disc image: no game files included.",
+        "latest_release_url": "https://github.com/Llamapixels/TenchuRFDRecomp/releases/tag/v0.1.6-alpha",
+        "latest_release_name": "Alpha 0.1.6",
+        "release_assets": [
+          {
+            "name": "TenchuRFD-0.1.6-alpha-windows.zip",
+            "url": "https://github.com/Llamapixels/TenchuRFDRecomp/releases/download/v0.1.6-alpha/TenchuRFD-0.1.6-alpha-windows.zip",
+            "size": 81400465
+          },
+          {
+            "name": "TenchuRFD-0.1.6-alpha-windows.zip.sha256",
+            "url": "https://github.com/Llamapixels/TenchuRFDRecomp/releases/download/v0.1.6-alpha/TenchuRFD-0.1.6-alpha-windows.zip.sha256",
+            "size": 101
+          }
+        ],
+        "releases": [
+          {
+            "name": "Alpha 0.1.6",
+            "url": "https://github.com/Llamapixels/TenchuRFDRecomp/releases/tag/v0.1.6-alpha",
+            "published_at": "2026-11-04T10:14:18Z",
+            "assets": [
+              {
+                "name": "TenchuRFD-0.1.6-alpha-windows.zip",
+                "url": "https://github.com/Llamapixels/TenchuRFDRecomp/releases/download/v0.1.6-alpha/TenchuRFD-0.1.6-alpha-windows.zip",
+                "size": 81400465
+              },
+              {
+                "name": "TenchuRFD-0.1.6-alpha-windows.zip.sha256",
+                "url": "https://github.com/Llamapixels/TenchuRFDRecomp/releases/download/v0.1.6-alpha/TenchuRFD-0.1.6-alpha-windows.zip.sha256",
+                "size": 101
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Alpha 0.1.5",
+            "url": "https://github.com/Llamapixels/TenchuRFDRecomp/releases/tag/v0.1.5-alpha",
+            "published_at": "2026-11-01T18:15:13Z",
+            "assets": [
+              {
+                "name": "TenchuRFD-0.1.5-alpha-windows.zip",
+                "url": "https://github.com/Llamapixels/TenchuRFDRecomp/releases/download/v0.1.5-alpha/TenchuRFD-0.1.5-alpha-windows.zip",
+                "size": 81242724
+              },
+              {
+                "name": "TenchuRFD-0.1.5-alpha-windows.zip.sha256",
+                "url": "https://github.com/Llamapixels/TenchuRFDRecomp/releases/download/v0.1.5-alpha/TenchuRFD-0.1.5-alpha-windows.zip.sha256",
+                "size": 101
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Alpha 0.1.4",
+            "url": "https://github.com/Llamapixels/TenchuRFDRecomp/releases/tag/v0.1.4-alpha",
+            "published_at": "2026-10-29T20:05:45Z",
+            "assets": [
+              {
+                "name": "TenchuRFD-0.1.4-alpha-windows.zip",
+                "url": "https://github.com/Llamapixels/TenchuRFDRecomp/releases/download/v0.1.4-alpha/TenchuRFD-0.1.4-alpha-windows.zip",
+                "size": 81123268
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -92,9 +565,36 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "TenchuRFD-0.1.6-alpha-windows.zip",
+          "url": "https://github.com/Llamapixels/TenchuRFDRecomp/releases/download/v0.1.6-alpha/TenchuRFD-0.1.6-alpha-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "TenchuRFD-0.1.6-alpha-windows.zip.sha256",
+          "url": "https://github.com/Llamapixels/TenchuRFDRecomp/releases/download/v0.1.6-alpha/TenchuRFD-0.1.6-alpha-windows.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "TenchuRFD-0.1.5-alpha-windows.zip",
+          "url": "https://github.com/Llamapixels/TenchuRFDRecomp/releases/download/v0.1.5-alpha/TenchuRFD-0.1.5-alpha-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "TenchuRFD-0.1.5-alpha-windows.zip.sha256",
+          "url": "https://github.com/Llamapixels/TenchuRFDRecomp/releases/download/v0.1.5-alpha/TenchuRFD-0.1.5-alpha-windows.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "TenchuRFD-0.1.4-alpha-windows.zip",
+          "url": "https://github.com/Llamapixels/TenchuRFDRecomp/releases/download/v0.1.4-alpha/TenchuRFD-0.1.4-alpha-windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -112,7 +612,85 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-04T12:52:44.831480+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-05T00:49:50.865862+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Soleanna (sonic06-recomp): an unofficial PC port of Sonic the Hedgehog (2006), PS3 version, by static recompilation. No game files included: the launcher builds it from your own disc.",
+        "latest_release_url": "https://github.com/DrummingBird1/sonic06-recomp/releases/tag/v0.1.0",
+        "latest_release_name": "Soleanna 0.1.0: first public version",
+        "release_assets": [
+          {
+            "name": "screenshot-crisis-city.jpg",
+            "url": "https://github.com/DrummingBird1/sonic06-recomp/releases/download/v0.1.0/screenshot-crisis-city.jpg",
+            "size": 660778
+          },
+          {
+            "name": "screenshot-soleanna.jpg",
+            "url": "https://github.com/DrummingBird1/sonic06-recomp/releases/download/v0.1.0/screenshot-soleanna.jpg",
+            "size": 535608
+          },
+          {
+            "name": "screenshot-wave-ocean-jump.jpg",
+            "url": "https://github.com/DrummingBird1/sonic06-recomp/releases/download/v0.1.0/screenshot-wave-ocean-jump.jpg",
+            "size": 383735
+          },
+          {
+            "name": "screenshot-wave-ocean.jpg",
+            "url": "https://github.com/DrummingBird1/sonic06-recomp/releases/download/v0.1.0/screenshot-wave-ocean.jpg",
+            "size": 418298
+          },
+          {
+            "name": "Soleanna-0.1.0.exe",
+            "url": "https://github.com/DrummingBird1/sonic06-recomp/releases/download/v0.1.0/Soleanna-0.1.0.exe",
+            "size": 573440
+          }
+        ],
+        "releases": [
+          {
+            "name": "Soleanna 0.1.0: first public version",
+            "url": "https://github.com/DrummingBird1/sonic06-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-04T06:49:38Z",
+            "assets": [
+              {
+                "name": "screenshot-crisis-city.jpg",
+                "url": "https://github.com/DrummingBird1/sonic06-recomp/releases/download/v0.1.0/screenshot-crisis-city.jpg",
+                "size": 660778
+              },
+              {
+                "name": "screenshot-soleanna.jpg",
+                "url": "https://github.com/DrummingBird1/sonic06-recomp/releases/download/v0.1.0/screenshot-soleanna.jpg",
+                "size": 535608
+              },
+              {
+                "name": "screenshot-wave-ocean-jump.jpg",
+                "url": "https://github.com/DrummingBird1/sonic06-recomp/releases/download/v0.1.0/screenshot-wave-ocean-jump.jpg",
+                "size": 383735
+              },
+              {
+                "name": "screenshot-wave-ocean.jpg",
+                "url": "https://github.com/DrummingBird1/sonic06-recomp/releases/download/v0.1.0/screenshot-wave-ocean.jpg",
+                "size": 418298
+              },
+              {
+                "name": "Soleanna-0.1.0.exe",
+                "url": "https://github.com/DrummingBird1/sonic06-recomp/releases/download/v0.1.0/Soleanna-0.1.0.exe",
+                "size": 573440
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -125,9 +703,36 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "screenshot-crisis-city.jpg",
+          "url": "https://github.com/DrummingBird1/sonic06-recomp/releases/download/v0.1.0/screenshot-crisis-city.jpg",
+          "type": "other_file"
+        },
+        {
+          "name": "screenshot-soleanna.jpg",
+          "url": "https://github.com/DrummingBird1/sonic06-recomp/releases/download/v0.1.0/screenshot-soleanna.jpg",
+          "type": "other_file"
+        },
+        {
+          "name": "screenshot-wave-ocean-jump.jpg",
+          "url": "https://github.com/DrummingBird1/sonic06-recomp/releases/download/v0.1.0/screenshot-wave-ocean-jump.jpg",
+          "type": "other_file"
+        },
+        {
+          "name": "screenshot-wave-ocean.jpg",
+          "url": "https://github.com/DrummingBird1/sonic06-recomp/releases/download/v0.1.0/screenshot-wave-ocean.jpg",
+          "type": "other_file"
+        },
+        {
+          "name": "Soleanna-0.1.0.exe",
+          "url": "https://github.com/DrummingBird1/sonic06-recomp/releases/download/v0.1.0/Soleanna-0.1.0.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -145,7 +750,232 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-04T12:52:44.830845+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-05T00:49:52.495405+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Def Jam: Fight for NY PC port — static recompilation of the original Xbox game for native Windows and macOS (Direct3D 11 / Vulkan). Bring your own game dump.",
+        "latest_release_url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/tag/v0.14.2",
+        "latest_release_name": "Def Jam Remastered v0.14.2",
+        "release_assets": [
+          {
+            "name": "DefJamSetup-0.14.2-linux-x64.provenance.json",
+            "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-linux-x64.provenance.json",
+            "size": 477344
+          },
+          {
+            "name": "DefJamSetup-0.14.2-linux-x64.sha256",
+            "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-linux-x64.sha256",
+            "size": 102
+          },
+          {
+            "name": "DefJamSetup-0.14.2-linux-x64.tar.gz",
+            "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-linux-x64.tar.gz",
+            "size": 146212653
+          },
+          {
+            "name": "DefJamSetup-0.14.2-macos-arm64.dmg",
+            "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-macos-arm64.dmg",
+            "size": 70318041
+          },
+          {
+            "name": "DefJamSetup-0.14.2-macos-arm64.provenance.json",
+            "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-macos-arm64.provenance.json",
+            "size": 705158
+          },
+          {
+            "name": "DefJamSetup-0.14.2-macos-arm64.sha256",
+            "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-macos-arm64.sha256",
+            "size": 101
+          },
+          {
+            "name": "DefJamSetup-0.14.2-windows-x64.exe",
+            "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-windows-x64.exe",
+            "size": 59245056
+          },
+          {
+            "name": "DefJamSetup-0.14.2-windows-x64.provenance.json",
+            "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-windows-x64.provenance.json",
+            "size": 628119
+          },
+          {
+            "name": "DefJamSetup-0.14.2-windows-x64.sha256",
+            "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-windows-x64.sha256",
+            "size": 102
+          }
+        ],
+        "releases": [
+          {
+            "name": "Def Jam Remastered v0.14.2",
+            "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/tag/v0.14.2",
+            "published_at": "2026-11-04T10:59:55Z",
+            "assets": [
+              {
+                "name": "DefJamSetup-0.14.2-linux-x64.provenance.json",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-linux-x64.provenance.json",
+                "size": 477344
+              },
+              {
+                "name": "DefJamSetup-0.14.2-linux-x64.sha256",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-linux-x64.sha256",
+                "size": 102
+              },
+              {
+                "name": "DefJamSetup-0.14.2-linux-x64.tar.gz",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-linux-x64.tar.gz",
+                "size": 146212653
+              },
+              {
+                "name": "DefJamSetup-0.14.2-macos-arm64.dmg",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-macos-arm64.dmg",
+                "size": 70318041
+              },
+              {
+                "name": "DefJamSetup-0.14.2-macos-arm64.provenance.json",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-macos-arm64.provenance.json",
+                "size": 705158
+              },
+              {
+                "name": "DefJamSetup-0.14.2-macos-arm64.sha256",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-macos-arm64.sha256",
+                "size": 101
+              },
+              {
+                "name": "DefJamSetup-0.14.2-windows-x64.exe",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-windows-x64.exe",
+                "size": 59245056
+              },
+              {
+                "name": "DefJamSetup-0.14.2-windows-x64.provenance.json",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-windows-x64.provenance.json",
+                "size": 628119
+              },
+              {
+                "name": "DefJamSetup-0.14.2-windows-x64.sha256",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-windows-x64.sha256",
+                "size": 102
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Def Jam Remastered v0.14.1",
+            "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/tag/v0.14.1",
+            "published_at": "2026-11-04T08:20:30Z",
+            "assets": [
+              {
+                "name": "DefJamSetup-0.14.1-linux-x64.provenance.json",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-linux-x64.provenance.json",
+                "size": 477218
+              },
+              {
+                "name": "DefJamSetup-0.14.1-linux-x64.sha256",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-linux-x64.sha256",
+                "size": 102
+              },
+              {
+                "name": "DefJamSetup-0.14.1-linux-x64.tar.gz",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-linux-x64.tar.gz",
+                "size": 146209057
+              },
+              {
+                "name": "DefJamSetup-0.14.1-macos-arm64.dmg",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-macos-arm64.dmg",
+                "size": 70316549
+              },
+              {
+                "name": "DefJamSetup-0.14.1-macos-arm64.provenance.json",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-macos-arm64.provenance.json",
+                "size": 705032
+              },
+              {
+                "name": "DefJamSetup-0.14.1-macos-arm64.sha256",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-macos-arm64.sha256",
+                "size": 101
+              },
+              {
+                "name": "DefJamSetup-0.14.1-windows-x64.exe",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-windows-x64.exe",
+                "size": 59240448
+              },
+              {
+                "name": "DefJamSetup-0.14.1-windows-x64.provenance.json",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-windows-x64.provenance.json",
+                "size": 627992
+              },
+              {
+                "name": "DefJamSetup-0.14.1-windows-x64.sha256",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-windows-x64.sha256",
+                "size": 102
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Def Jam Remastered v0.14.0",
+            "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/tag/v0.14.0",
+            "published_at": "2026-11-04T07:15:06Z",
+            "assets": [
+              {
+                "name": "DefJamSetup-0.14.0-windows-x64.exe",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.0/DefJamSetup-0.14.0-windows-x64.exe",
+                "size": 59229184
+              },
+              {
+                "name": "DefJamSetup-0.14.0-windows-x64.provenance.json",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.0/DefJamSetup-0.14.0-windows-x64.provenance.json",
+                "size": 627774
+              },
+              {
+                "name": "DefJamSetup-0.14.0-windows-x64.sha256",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.0/DefJamSetup-0.14.0-windows-x64.sha256",
+                "size": 102
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Mod packs",
+            "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/tag/mods",
+            "published_at": "2026-11-04T07:15:33Z",
+            "assets": [
+              {
+                "name": "catalogue.json",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/mods/catalogue.json",
+                "size": 2724
+              },
+              {
+                "name": "catalogue.json.sig",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/mods/catalogue.json.sig",
+                "size": 64
+              },
+              {
+                "name": "hd-fighters-1.0.0.zip",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/mods/hd-fighters-1.0.0.zip",
+                "size": 669255742
+              },
+              {
+                "name": "menu-ui-hd-wide-1.4.0.zip",
+                "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/mods/menu-ui-hd-wide-1.4.0.zip",
+                "size": 601895156
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -155,13 +985,141 @@
         "android_terms": [],
         "pc_terms": [
           "windows",
+          "linux",
           "pc port"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "DefJamSetup-0.14.2-linux-x64.provenance.json",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-linux-x64.provenance.json",
+          "type": "other_file"
+        },
+        {
+          "name": "DefJamSetup-0.14.2-linux-x64.sha256",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-linux-x64.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "DefJamSetup-0.14.2-linux-x64.tar.gz",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "DefJamSetup-0.14.2-macos-arm64.dmg",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-macos-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "DefJamSetup-0.14.2-macos-arm64.provenance.json",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-macos-arm64.provenance.json",
+          "type": "other_file"
+        },
+        {
+          "name": "DefJamSetup-0.14.2-macos-arm64.sha256",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-macos-arm64.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "DefJamSetup-0.14.2-windows-x64.exe",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-windows-x64.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "DefJamSetup-0.14.2-windows-x64.provenance.json",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-windows-x64.provenance.json",
+          "type": "other_file"
+        },
+        {
+          "name": "DefJamSetup-0.14.2-windows-x64.sha256",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.2/DefJamSetup-0.14.2-windows-x64.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "DefJamSetup-0.14.1-linux-x64.provenance.json",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-linux-x64.provenance.json",
+          "type": "other_file"
+        },
+        {
+          "name": "DefJamSetup-0.14.1-linux-x64.sha256",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-linux-x64.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "DefJamSetup-0.14.1-linux-x64.tar.gz",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "DefJamSetup-0.14.1-macos-arm64.dmg",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-macos-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "DefJamSetup-0.14.1-macos-arm64.provenance.json",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-macos-arm64.provenance.json",
+          "type": "other_file"
+        },
+        {
+          "name": "DefJamSetup-0.14.1-macos-arm64.sha256",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-macos-arm64.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "DefJamSetup-0.14.1-windows-x64.exe",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-windows-x64.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "DefJamSetup-0.14.1-windows-x64.provenance.json",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-windows-x64.provenance.json",
+          "type": "other_file"
+        },
+        {
+          "name": "DefJamSetup-0.14.1-windows-x64.sha256",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.1/DefJamSetup-0.14.1-windows-x64.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "DefJamSetup-0.14.0-windows-x64.exe",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.0/DefJamSetup-0.14.0-windows-x64.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "DefJamSetup-0.14.0-windows-x64.provenance.json",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.0/DefJamSetup-0.14.0-windows-x64.provenance.json",
+          "type": "other_file"
+        },
+        {
+          "name": "DefJamSetup-0.14.0-windows-x64.sha256",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/v0.14.0/DefJamSetup-0.14.0-windows-x64.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "catalogue.json",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/mods/catalogue.json",
+          "type": "other_file"
+        },
+        {
+          "name": "catalogue.json.sig",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/mods/catalogue.json.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "hd-fighters-1.0.0.zip",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/mods/hd-fighters-1.0.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "menu-ui-hd-wide-1.4.0.zip",
+          "url": "https://github.com/ScikuVRC/DefJamFFNY-Remastered-Online/releases/download/mods/menu-ui-hd-wide-1.4.0.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -179,7 +1137,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-04T12:52:44.830280+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-05T00:49:54.253369+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Independent research into static recompilation: Luigi's Mansion 3 running natively on Linux with Vulkan. Requires your own legally obtained copy. No game files included. Not affiliated with Nintendo.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -212,7 +1187,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-04T12:52:44.829768+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-05T00:49:55.822045+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Kameo: Elements of Power on the Nintendo Switch (homebrew), a ReXGlue static recompilation. You need your own copy of the game.",
+        "latest_release_url": "https://github.com/ChanseyIsTheBest/kameo-nx/releases/tag/v1.0.0",
+        "latest_release_name": "kameo-nx 1.0.0",
+        "release_assets": [
+          {
+            "name": "kameo-nx.nro",
+            "url": "https://github.com/ChanseyIsTheBest/kameo-nx/releases/download/v1.0.0/kameo-nx.nro",
+            "size": 58664956
+          }
+        ],
+        "releases": [
+          {
+            "name": "kameo-nx 1.0.0",
+            "url": "https://github.com/ChanseyIsTheBest/kameo-nx/releases/tag/v1.0.0",
+            "published_at": "2026-11-04T12:01:12Z",
+            "assets": [
+              {
+                "name": "kameo-nx.nro",
+                "url": "https://github.com/ChanseyIsTheBest/kameo-nx/releases/download/v1.0.0/kameo-nx.nro",
+                "size": 58664956
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -223,9 +1236,16 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "kameo-nx.nro",
+          "url": "https://github.com/ChanseyIsTheBest/kameo-nx/releases/download/v1.0.0/kameo-nx.nro",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 10,
       "relevance_status": "promising",
@@ -243,7 +1263,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-04T12:52:44.829281+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-05T00:49:57.399678+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial open-source static recompilation project for Harvest Moon: Animal Parade (Wii). Bring your own legally dumped disc. No game assets included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
