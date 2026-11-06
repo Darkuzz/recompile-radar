@@ -1,7 +1,347 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-05T13:01:01.890201+00:00",
+  "last_updated": "2026-11-06T00:55:36.736752+00:00",
   "candidates": [
+    {
+      "title": "EddyGameDev/mgs3-recompiled-android",
+      "url": "https://github.com/EddyGameDev/mgs3-recompiled-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-05T17:42:36Z",
+      "summary": "Native Android port of MGS3 Subsistence via PS2Recomp static recompilation - launcher app, no game data",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T00:55:23.055555+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Adriansyah101/Gangstar-Miami-Vindication-PC-Port",
+      "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-05T16:45:06Z",
+      "summary": "Unofficial Windows and Linux port of Gangstar: Miami Vindication (Mac version) for x86 PCs, with fixes and optional enhancements. Requires your own copy of the game. Topics: game-port, gameloft, gangstar, gangstar-gameloft, gangstar-miami-vindication, gangstar-mv, linux, loader, mach-o, opengl, sdl3, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T00:55:21.297821+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "victor-takai/rogue-galaxy-recomp",
+      "url": "https://github.com/victor-takai/rogue-galaxy-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-05T21:55:57Z",
+      "summary": "Rogue Galaxy (PS2) as a native Windows game: a static recompilation on PS2Recomp, built from your own disc. Topics: pc-port, playstation2, ps2, recompilation, rogue-galaxy, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T00:55:17.617403+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "ddjouida999-sketch/WindWakerHD-Android-Plus",
+      "url": "https://github.com/ddjouida999-sketch/WindWakerHD-Android-Plus",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-05T23:33:14Z",
+      "summary": "The Legend of Zelda: The Wind Waker HD natively on Android (static recompilation, Vulkan). Built-in Brazilian Portuguese translation, HUD editor, .wua support, controller gyro, and more. Bring your own game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T00:55:17.616397+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "naufalalamsyah453/Totk-pc-recomp-next",
+      "url": "https://github.com/naufalalamsyah453/Totk-pc-recomp-next",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-05T23:37:07Z",
+      "summary": "Static recompilation of Tears of the Kingdom to native Windows/Linux x86-64 with Vulkan. Personal next fork: native in-game Options (SavageWind-style), CI/CD + automatic Windows releases. Game files not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T00:55:17.615367+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "matpdev/SaintSeiyaRecomp",
+      "url": "https://github.com/matpdev/SaintSeiyaRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-05T23:54:24Z",
+      "summary": "Native Linux port of Saint Seiya: The Hades (PS2) by static recompilation: Vulkan, 16:9, 60 Hz. Bring your own disc. Topics: decompilation, game, mips, playstation-2, ps2, reverse-engineering, static-recompilation, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T00:55:17.614337+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "agustinyarrus/hinokakera-android",
+      "url": "https://github.com/agustinyarrus/hinokakera-android",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-06T00:24:14Z",
+      "summary": "Hinokakera Chaotic Eclipse ported to Android by static recompilation, x86 → C (game data not included) · Port a Android de Hinokakera Chaotic Eclipse por recompilación estática x86 → C (sin los datos del juego)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T00:55:17.613180+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "portsofbigN/Raiders-port",
+      "url": "https://github.com/portsofbigN/Raiders-port",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-06T00:42:14Z",
+      "summary": "Native Windows x64 PC port of Splatoon Raiders built with static recompilation and Vulkan. Features 60/120 FPS, up to 4K output, AMD FSR / NVIDIA NIS, gyro motion aiming, and a built-in settings launcher. No ROM or copyrighted assets included (bring your own game dump), still in progress.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T00:55:17.611937+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows"
+      ]
+    },
+    {
+      "title": "irnutsmurt/Cubic.Heroes",
+      "url": "https://github.com/irnutsmurt/Cubic.Heroes",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-06T00:44:42Z",
+      "summary": "Native PC port (Windows/Linux) of the US PS3 version of 3D Dot Game Heroes via static recompilation. Bring your own legally acquired disc; no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T00:55:17.610865+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "monstercameron/CounterSplat",
+      "url": "https://github.com/monstercameron/CounterSplat",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-05T22:50:11Z",
+      "summary": "Rust + WebGPU game engine that turns Gaussian-splat scans into playable first-person worlds. Play the browser demo. Topics: 3d-gaussian-splatting, browser-game, ecs, fps, game-engine, gaussian-splatting, lua, rust, wasm, webassembly, webgpu, wgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T00:55:13.837740+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, game engine, playable, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "YuutaTsubasa/MarbleKnightsRecompiled",
       "url": "https://github.com/YuutaTsubasa/MarbleKnightsRecompiled",
@@ -11,7 +351,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-05T13:00:39.623810+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-06T00:55:26.416776+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial static recompilation of the Apple Arcade game Marble Knights (iOS, Unity IL2CPP, ARM64) into a native Windows build. Bring your own copy of the game; no game data included.",
+        "latest_release_url": "https://github.com/YuutaTsubasa/MarbleKnightsRecompiled/releases/tag/v0.1.0",
+        "latest_release_name": "0.1.0",
+        "release_assets": [
+          {
+            "name": "MarbleKnightsRecompiled-0.1.0-windows-x64.zip",
+            "url": "https://github.com/YuutaTsubasa/MarbleKnightsRecompiled/releases/download/v0.1.0/MarbleKnightsRecompiled-0.1.0-windows-x64.zip",
+            "size": 81943884
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.1.0",
+            "url": "https://github.com/YuutaTsubasa/MarbleKnightsRecompiled/releases/tag/v0.1.0",
+            "published_at": "2026-11-05T20:30:51Z",
+            "assets": [
+              {
+                "name": "MarbleKnightsRecompiled-0.1.0-windows-x64.zip",
+                "url": "https://github.com/YuutaTsubasa/MarbleKnightsRecompiled/releases/download/v0.1.0/MarbleKnightsRecompiled-0.1.0-windows-x64.zip",
+                "size": 81943884
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -25,9 +403,16 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "MarbleKnightsRecompiled-0.1.0-windows-x64.zip",
+          "url": "https://github.com/YuutaTsubasa/MarbleKnightsRecompiled/releases/download/v0.1.0/MarbleKnightsRecompiled-0.1.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -45,20 +430,202 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-05T13:00:39.622779+00:00",
-      "check": null,
-      "category": "other",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-11-06T00:55:27.747456+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Castlevania: Harmony of Despair (Xbox 360) on Nintendo Switch: static recompilation (ReXGlue) + deko3d renderer. Experimental, ~40 fps, no multiplayer. No game data included.",
+        "latest_release_url": "https://github.com/rashevskyv/cvhd-recomp/releases/tag/v0.292.6e2c091",
+        "latest_release_name": "Castlevania HD 0.292 (experimental): Switch, Windows, Linux",
+        "release_assets": [
+          {
+            "name": "cvhd-0.292.6e2c091-linux-x86_64.tar.gz",
+            "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/v0.292.6e2c091/cvhd-0.292.6e2c091-linux-x86_64.tar.gz",
+            "size": 17919685
+          },
+          {
+            "name": "cvhd-0.292.6e2c091-windows-x86_64.zip",
+            "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/v0.292.6e2c091/cvhd-0.292.6e2c091-windows-x86_64.zip",
+            "size": 19641870
+          },
+          {
+            "name": "cvhd-0.295.f206be8-switch.zip",
+            "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/v0.292.6e2c091/cvhd-0.295.f206be8-switch.zip",
+            "size": 29338283
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/v0.292.6e2c091/SHA256SUMS",
+            "size": 305
+          }
+        ],
+        "releases": [
+          {
+            "name": "Castlevania HD 0.292 (experimental): Switch, Windows, Linux",
+            "url": "https://github.com/rashevskyv/cvhd-recomp/releases/tag/v0.292.6e2c091",
+            "published_at": "2026-11-03T16:34:35Z",
+            "assets": [
+              {
+                "name": "cvhd-0.292.6e2c091-linux-x86_64.tar.gz",
+                "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/v0.292.6e2c091/cvhd-0.292.6e2c091-linux-x86_64.tar.gz",
+                "size": 17919685
+              },
+              {
+                "name": "cvhd-0.292.6e2c091-windows-x86_64.zip",
+                "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/v0.292.6e2c091/cvhd-0.292.6e2c091-windows-x86_64.zip",
+                "size": 19641870
+              },
+              {
+                "name": "cvhd-0.295.f206be8-switch.zip",
+                "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/v0.292.6e2c091/cvhd-0.295.f206be8-switch.zip",
+                "size": 29338283
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/v0.292.6e2c091/SHA256SUMS",
+                "size": 305
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.285: source only (superseded by v0.292.6e2c091)",
+            "url": "https://github.com/rashevskyv/cvhd-recomp/releases/tag/v0.285",
+            "published_at": "2026-11-03T15:16:23Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Eden screenshots 2026-10-23",
+            "url": "https://github.com/rashevskyv/cvhd-recomp/releases/tag/shots-1",
+            "published_at": "2026-10-23T08:38:16Z",
+            "assets": [
+              {
+                "name": "eden-menu-1.webp",
+                "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/shots-1/eden-menu-1.webp",
+                "size": 270346
+              },
+              {
+                "name": "eden-menu-2.webp",
+                "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/shots-1/eden-menu-2.webp",
+                "size": 379796
+              },
+              {
+                "name": "eden-menu-3-singleplayer.webp",
+                "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/shots-1/eden-menu-3-singleplayer.webp",
+                "size": 399478
+              },
+              {
+                "name": "NOTES.md",
+                "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/shots-1/NOTES.md",
+                "size": 1370
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "gamedata (private, user's own copy)",
+            "url": "https://github.com/rashevskyv/cvhd-recomp/releases/tag/gamedata",
+            "published_at": "2026-10-23T08:35:28Z",
+            "assets": [
+              {
+                "name": "cvhd_LIVE_58410A7A.stfs",
+                "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/gamedata/cvhd_LIVE_58410A7A.stfs",
+                "size": 377905152
+              },
+              {
+                "name": "cvhd_TU.stfs",
+                "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/gamedata/cvhd_TU.stfs",
+                "size": 2437120
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
         "other_platform_terms": [
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "cvhd-0.292.6e2c091-linux-x86_64.tar.gz",
+          "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/v0.292.6e2c091/cvhd-0.292.6e2c091-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "cvhd-0.292.6e2c091-windows-x86_64.zip",
+          "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/v0.292.6e2c091/cvhd-0.292.6e2c091-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "cvhd-0.295.f206be8-switch.zip",
+          "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/v0.292.6e2c091/cvhd-0.295.f206be8-switch.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/v0.292.6e2c091/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "eden-menu-1.webp",
+          "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/shots-1/eden-menu-1.webp",
+          "type": "other_file"
+        },
+        {
+          "name": "eden-menu-2.webp",
+          "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/shots-1/eden-menu-2.webp",
+          "type": "other_file"
+        },
+        {
+          "name": "eden-menu-3-singleplayer.webp",
+          "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/shots-1/eden-menu-3-singleplayer.webp",
+          "type": "other_file"
+        },
+        {
+          "name": "NOTES.md",
+          "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/shots-1/NOTES.md",
+          "type": "other_file"
+        },
+        {
+          "name": "cvhd_LIVE_58410A7A.stfs",
+          "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/gamedata/cvhd_LIVE_58410A7A.stfs",
+          "type": "other_file"
+        },
+        {
+          "name": "cvhd_TU.stfs",
+          "url": "https://github.com/rashevskyv/cvhd-recomp/releases/download/gamedata/cvhd_TU.stfs",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 10,
       "relevance_status": "promising",
@@ -76,7 +643,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-05T13:00:39.621899+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-06T00:55:29.093049+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A static recompilation project of the 2000 Dreamcast game Draconus: Cult of the Wyrm (Dragon's Blood)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -103,7 +687,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-05T13:00:35.210925+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-06T00:55:30.363272+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Curated game decompilations, recompilations, engine reimplementations and ports, with screenshots, browser links and launch instructions.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -137,7 +738,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-05T13:00:32.997857+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-06T00:55:31.628953+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "✈️ Sky Dodger — a minimal HTML5 Canvas airplane game in vanilla JS. Play in browser via GitHub Pages.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -878,7 +1496,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-05T00:49:31.634404+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-06T00:55:32.863689+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Top down time loop game prototype. One hour, one house, a kid who remembers every loop. C++ and raylib, runs in the browser.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -1894,7 +2529,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-04T12:52:40.737333+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-06T00:55:34.094488+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "The Specialists — a Half-Life 1 mod — running in a browser tab, played against a real dedicated server. A Rust port of the game logic, the Xash3D-FWGS engine in WASM, a WebSocket↔UDP bridge, and a control plane. Live at bulletballet.dev.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -1929,7 +2581,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-04T12:52:40.734048+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-06T00:55:35.423980+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A 2D top-down satire game about getting one document from the government of Kuvukiland. Rust, macroquad, WebAssembly.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
