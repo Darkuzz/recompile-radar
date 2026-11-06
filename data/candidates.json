@@ -1,7 +1,207 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-06T00:55:36.736752+00:00",
+  "last_updated": "2026-11-06T12:49:53.384957+00:00",
   "candidates": [
+    {
+      "title": "ZeroMatrixX/WindWakerHD-Android-Plus",
+      "url": "https://github.com/ZeroMatrixX/WindWakerHD-Android-Plus",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-05T23:33:14Z",
+      "summary": "The Legend of Zelda: The Wind Waker HD natively on Android (static recompilation, Vulkan). Built-in Brazilian Portuguese translation, HUD editor, .wua support, controller gyro, and more. Bring your own game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T12:49:39.117605+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Frostie77/The-Last-Stand-2",
+      "url": "https://github.com/Frostie77/The-Last-Stand-2",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-06T12:24:09Z",
+      "summary": "A Native Android Port of the classic Flash survival game The Last Stand 2.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T12:49:37.054675+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "unjordi/ikaruga-psp",
+      "url": "https://github.com/unjordi/ikaruga-psp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-06T06:53:34Z",
+      "summary": "Port of Ikaruga (Dreamcast) to the PSP via static recompilation (dcrecomp). Bring your own disc; no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T12:49:30.606149+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Starkka15/spyro-aht-pc",
+      "url": "https://github.com/Starkka15/spyro-aht-pc",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-06T09:50:30Z",
+      "summary": "Spyro: A Hero's Tail (original Xbox) native PC port via static recompilation - bring your own game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T12:49:30.605275+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "bassobr/Far-Cry-Instincts-Recomp",
+      "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-06T12:48:03Z",
+      "summary": "Static recompilation of the original Xbox Far Cry Instincts into a native Windows x64 executable (Direct3D 11). Bring your own copy of the game; no game files included. Topics: direct3d11, far-cry, far-cry-instincts, original-xbox, pc-port, recompilation, static-recompilation, steam-deck, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T12:49:30.604100+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "mark20142026/cadence",
+      "url": "https://github.com/mark20142026/cadence",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-06T09:41:51Z",
+      "summary": "Unofficial from-scratch Rust reimplementation of Geometry Dash 2.2091 for desktop and the browser (wgpu: Metal, Vulkan, DX12, WebGPU). Physics checked step for step against the real game. Bring your own game files. Topics: game-engine, gamedev, geometry-dash, reverse-engineering, rust, wasm, webassembly, webgpu, wgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T12:49:26.148398+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: reimplementation",
+        "Есть игровые/платформенные признаки: game, webassembly, wasm"
+      ]
+    },
     {
       "title": "EddyGameDev/mgs3-recompiled-android",
       "url": "https://github.com/EddyGameDev/mgs3-recompiled-android",
@@ -11,7 +211,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-06T00:55:23.055555+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-06T12:49:40.684042+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android port of MGS3 Subsistence via PS2Recomp static recompilation - launcher app, no game data",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +262,149 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-06T00:55:21.297821+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-06T12:49:42.292909+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial Windows and Linux port of Gangstar: Miami Vindication (Mac version) for x86 PCs, with fixes and optional enhancements. Requires your own copy of the game.",
+        "latest_release_url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/tag/V1.0.1",
+        "latest_release_name": "GangstarMV PC Port V1.0.1",
+        "release_assets": [
+          {
+            "name": "GangstarMV-PC-Port-V1.0.1-Linux-x86-dev.tar.gz",
+            "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Linux-x86-dev.tar.gz",
+            "size": 747789
+          },
+          {
+            "name": "GangstarMV-PC-Port-V1.0.1-Linux-x86-noicon.tar.gz",
+            "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Linux-x86-noicon.tar.gz",
+            "size": 425938
+          },
+          {
+            "name": "GangstarMV-PC-Port-V1.0.1-Linux-x86.tar.gz",
+            "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Linux-x86.tar.gz",
+            "size": 667694
+          },
+          {
+            "name": "GangstarMV-PC-Port-V1.0.1-Windows-x86-dev.zip",
+            "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Windows-x86-dev.zip",
+            "size": 2626301
+          },
+          {
+            "name": "GangstarMV-PC-Port-V1.0.1-Windows-x86-noicon.zip",
+            "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Windows-x86-noicon.zip",
+            "size": 2307222
+          },
+          {
+            "name": "GangstarMV-PC-Port-V1.0.1-Windows-x86.zip",
+            "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Windows-x86.zip",
+            "size": 2547522
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/SHA256SUMS.txt",
+            "size": 673
+          }
+        ],
+        "releases": [
+          {
+            "name": "GangstarMV PC Port V1.0.1",
+            "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/tag/V1.0.1",
+            "published_at": "2026-11-06T05:36:43Z",
+            "assets": [
+              {
+                "name": "GangstarMV-PC-Port-V1.0.1-Linux-x86-dev.tar.gz",
+                "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Linux-x86-dev.tar.gz",
+                "size": 747789
+              },
+              {
+                "name": "GangstarMV-PC-Port-V1.0.1-Linux-x86-noicon.tar.gz",
+                "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Linux-x86-noicon.tar.gz",
+                "size": 425938
+              },
+              {
+                "name": "GangstarMV-PC-Port-V1.0.1-Linux-x86.tar.gz",
+                "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Linux-x86.tar.gz",
+                "size": 667694
+              },
+              {
+                "name": "GangstarMV-PC-Port-V1.0.1-Windows-x86-dev.zip",
+                "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Windows-x86-dev.zip",
+                "size": 2626301
+              },
+              {
+                "name": "GangstarMV-PC-Port-V1.0.1-Windows-x86-noicon.zip",
+                "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Windows-x86-noicon.zip",
+                "size": 2307222
+              },
+              {
+                "name": "GangstarMV-PC-Port-V1.0.1-Windows-x86.zip",
+                "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Windows-x86.zip",
+                "size": 2547522
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/SHA256SUMS.txt",
+                "size": 673
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "GangstarMV PC Port V1.0.0",
+            "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/tag/V1.0.0",
+            "published_at": "2026-11-05T16:40:51Z",
+            "assets": [
+              {
+                "name": "GangstarMV-PC-Port-V1.0.0-Linux-dev.tar.gz",
+                "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Linux-dev.tar.gz",
+                "size": 772602
+              },
+              {
+                "name": "GangstarMV-PC-Port-V1.0.0-Linux-noicon.tar.gz",
+                "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Linux-noicon.tar.gz",
+                "size": 439461
+              },
+              {
+                "name": "GangstarMV-PC-Port-V1.0.0-Linux.tar.gz",
+                "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Linux.tar.gz",
+                "size": 680793
+              },
+              {
+                "name": "GangstarMV-PC-Port-V1.0.0-Windows-dev.zip",
+                "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Windows-dev.zip",
+                "size": 2647912
+              },
+              {
+                "name": "GangstarMV-PC-Port-V1.0.0-Windows-noicon.zip",
+                "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Windows-noicon.zip",
+                "size": 2320227
+              },
+              {
+                "name": "GangstarMV-PC-Port-V1.0.0-Windows.zip",
+                "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Windows.zip",
+                "size": 2560431
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.0/SHA256SUMS.txt",
+                "size": 649
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -59,9 +418,81 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "GangstarMV-PC-Port-V1.0.1-Linux-x86-dev.tar.gz",
+          "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Linux-x86-dev.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "GangstarMV-PC-Port-V1.0.1-Linux-x86-noicon.tar.gz",
+          "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Linux-x86-noicon.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "GangstarMV-PC-Port-V1.0.1-Linux-x86.tar.gz",
+          "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Linux-x86.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "GangstarMV-PC-Port-V1.0.1-Windows-x86-dev.zip",
+          "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Windows-x86-dev.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GangstarMV-PC-Port-V1.0.1-Windows-x86-noicon.zip",
+          "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Windows-x86-noicon.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GangstarMV-PC-Port-V1.0.1-Windows-x86.zip",
+          "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/GangstarMV-PC-Port-V1.0.1-Windows-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.1/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "GangstarMV-PC-Port-V1.0.0-Linux-dev.tar.gz",
+          "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Linux-dev.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "GangstarMV-PC-Port-V1.0.0-Linux-noicon.tar.gz",
+          "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Linux-noicon.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "GangstarMV-PC-Port-V1.0.0-Linux.tar.gz",
+          "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Linux.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "GangstarMV-PC-Port-V1.0.0-Windows-dev.zip",
+          "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Windows-dev.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GangstarMV-PC-Port-V1.0.0-Windows-noicon.zip",
+          "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Windows-noicon.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GangstarMV-PC-Port-V1.0.0-Windows.zip",
+          "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/Adriansyah101/Gangstar-Miami-Vindication-PC-Port/releases/download/V1.0.0/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -79,7 +510,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-06T00:55:17.617403+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-06T12:49:43.975922+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Rogue Galaxy (PS2) as a native Windows game: a static recompilation on PS2Recomp, built from your own disc.",
+        "latest_release_url": "https://github.com/victor-takai/rogue-galaxy-recomp/releases/tag/v0.2.0",
+        "latest_release_name": "Rogue Galaxy Recompiled 0.2.0",
+        "release_assets": [
+          {
+            "name": "RogueGalaxy-0.2.0.zip",
+            "url": "https://github.com/victor-takai/rogue-galaxy-recomp/releases/download/v0.2.0/RogueGalaxy-0.2.0.zip",
+            "size": 9170015
+          }
+        ],
+        "releases": [
+          {
+            "name": "Rogue Galaxy Recompiled 0.2.0",
+            "url": "https://github.com/victor-takai/rogue-galaxy-recomp/releases/tag/v0.2.0",
+            "published_at": "2026-11-04T18:44:49Z",
+            "assets": [
+              {
+                "name": "RogueGalaxy-0.2.0.zip",
+                "url": "https://github.com/victor-takai/rogue-galaxy-recomp/releases/download/v0.2.0/RogueGalaxy-0.2.0.zip",
+                "size": 9170015
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Rogue Galaxy Recompiled 0.1.0",
+            "url": "https://github.com/victor-takai/rogue-galaxy-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-10-27T19:10:31Z",
+            "assets": [
+              {
+                "name": "RogueGalaxy-0.1.0.zip",
+                "url": "https://github.com/victor-takai/rogue-galaxy-recomp/releases/download/v0.1.0/RogueGalaxy-0.1.0.zip",
+                "size": 7744498
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -92,9 +575,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "RogueGalaxy-0.2.0.zip",
+          "url": "https://github.com/victor-takai/rogue-galaxy-recomp/releases/download/v0.2.0/RogueGalaxy-0.2.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RogueGalaxy-0.1.0.zip",
+          "url": "https://github.com/victor-takai/rogue-galaxy-recomp/releases/download/v0.1.0/RogueGalaxy-0.1.0.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -112,7 +607,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-06T00:55:17.616397+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-06T12:49:45.782026+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "The Legend of Zelda: The Wind Waker HD natively on Android (static recompilation, Vulkan). Built-in Brazilian Portuguese translation, HUD editor, .wua support, controller gyro, and more. Bring your own game.",
+        "latest_release_url": "https://github.com/ZeroMatrixX/WindWakerHD-Android-Plus/releases/tag/v1.14",
+        "latest_release_name": "Zelda Wind waker v1.14 arabic",
+        "release_assets": [
+          {
+            "name": "Zelda_WWHD_Arabic_v1.14.apk",
+            "url": "https://github.com/ZeroMatrixX/WindWakerHD-Android-Plus/releases/download/v1.14/Zelda_WWHD_Arabic_v1.14.apk",
+            "size": 65646938
+          }
+        ],
+        "releases": [
+          {
+            "name": "Zelda Wind waker v1.14 arabic",
+            "url": "https://github.com/ZeroMatrixX/WindWakerHD-Android-Plus/releases/tag/v1.14",
+            "published_at": "2026-11-06T00:55:15Z",
+            "assets": [
+              {
+                "name": "Zelda_WWHD_Arabic_v1.14.apk",
+                "url": "https://github.com/ZeroMatrixX/WindWakerHD-Android-Plus/releases/download/v1.14/Zelda_WWHD_Arabic_v1.14.apk",
+                "size": 65646938
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -125,9 +658,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Zelda_WWHD_Arabic_v1.14.apk",
+          "url": "https://github.com/ZeroMatrixX/WindWakerHD-Android-Plus/releases/download/v1.14/Zelda_WWHD_Arabic_v1.14.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -145,7 +685,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-06T00:55:17.615367+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-06T12:49:47.866118+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Tears of the Kingdom to native Windows/Linux x86-64 with Vulkan. Personal next fork: native in-game Options (SavageWind-style), CI/CD + automatic Windows releases. Game files not included.",
+        "latest_release_url": "https://github.com/naufalalamsyah453/Totk-pc-recomp-next/releases/tag/v0.3.11-test",
+        "latest_release_name": "v0.3.11-test",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/naufalalamsyah453/Totk-pc-recomp-next/releases/download/v0.3.11-test/SHA256SUMS.txt",
+            "size": 103
+          },
+          {
+            "name": "TotK-Setup-v0.3.11-test-windows.zip",
+            "url": "https://github.com/naufalalamsyah453/Totk-pc-recomp-next/releases/download/v0.3.11-test/TotK-Setup-v0.3.11-test-windows.zip",
+            "size": 145954209
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.3.11-test",
+            "url": "https://github.com/naufalalamsyah453/Totk-pc-recomp-next/releases/tag/v0.3.11-test",
+            "published_at": "2026-11-06T11:08:51Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/naufalalamsyah453/Totk-pc-recomp-next/releases/download/v0.3.11-test/SHA256SUMS.txt",
+                "size": 103
+              },
+              {
+                "name": "TotK-Setup-v0.3.11-test-windows.zip",
+                "url": "https://github.com/naufalalamsyah453/Totk-pc-recomp-next/releases/download/v0.3.11-test/TotK-Setup-v0.3.11-test-windows.zip",
+                "size": 145954209
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -159,9 +747,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/naufalalamsyah453/Totk-pc-recomp-next/releases/download/v0.3.11-test/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "TotK-Setup-v0.3.11-test-windows.zip",
+          "url": "https://github.com/naufalalamsyah453/Totk-pc-recomp-next/releases/download/v0.3.11-test/TotK-Setup-v0.3.11-test-windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -179,7 +779,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-06T00:55:17.614337+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-06T12:49:49.539906+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Native Linux port of Saint Seiya: The Hades (PS2) by static recompilation: Vulkan, 16:9, 60 Hz. Bring your own disc.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -212,7 +829,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-06T00:55:17.613180+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-06T12:49:51.112160+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Hinokakera Chaotic Eclipse ported to Android by static recompilation, x86 → C (game data not included) · Port a Android de Hinokakera Chaotic Eclipse por recompilación estática x86 → C (sin los datos del juego)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -245,7 +879,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-06T00:55:17.611937+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-06T12:49:52.638648+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": false,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub вернул 404. Проект не удаляем; проверку нужно повторить."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
