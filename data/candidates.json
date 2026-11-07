@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-06T12:49:53.384957+00:00",
+  "last_updated": "2026-11-07T00:02:16.733941+00:00",
   "candidates": [
     {
-      "title": "ZeroMatrixX/WindWakerHD-Android-Plus",
-      "url": "https://github.com/ZeroMatrixX/WindWakerHD-Android-Plus",
+      "title": "dguillot-gh/tomba-android",
+      "url": "https://github.com/dguillot-gh/tomba-android",
       "source_name": "GitHub: Android recompilation",
-      "published": "2026-11-05T23:33:14Z",
-      "summary": "The Legend of Zelda: The Wind Waker HD natively on Android (static recompilation, Vulkan). Built-in Brazilian Portuguese translation, HUD editor, .wua support, controller gyro, and more. Bring your own game.",
+      "published": "2026-11-06T15:24:52Z",
+      "summary": "Tomba! (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-06T12:49:39.117605+00:00",
+      "found_at": "2026-11-07T00:02:03.655903+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -36,6 +36,587 @@
       ]
     },
     {
+      "title": "dguillot-gh/tomba2-android",
+      "url": "https://github.com/dguillot-gh/tomba2-android",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-06T15:26:17Z",
+      "summary": "Tomba! 2 (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T00:02:03.655312+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "dguillot-gh/parasite-eve-android",
+      "url": "https://github.com/dguillot-gh/parasite-eve-android",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-06T15:29:54Z",
+      "summary": "Parasite Eve (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T00:02:03.654700+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "dguillot-gh/parasite-eve2-android",
+      "url": "https://github.com/dguillot-gh/parasite-eve2-android",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-06T15:30:06Z",
+      "summary": "Parasite Eve II (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T00:02:03.654070+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "dguillot-gh/persona-android",
+      "url": "https://github.com/dguillot-gh/persona-android",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-06T15:30:21Z",
+      "summary": "Persona (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T00:02:03.653451+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "dguillot-gh/persona2-android",
+      "url": "https://github.com/dguillot-gh/persona2-android",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-06T15:30:33Z",
+      "summary": "Persona 2: Eternal Punishment (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T00:02:03.652814+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "dguillot-gh/mizzurnafallsthechillingcut-android",
+      "url": "https://github.com/dguillot-gh/mizzurnafallsthechillingcut-android",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-06T15:31:38Z",
+      "summary": "Mizzurna Falls - The Chilling Cut (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T00:02:03.652139+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "dguillot-gh/policenauts-android",
+      "url": "https://github.com/dguillot-gh/policenauts-android",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-06T15:31:49Z",
+      "summary": "Policenauts (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T00:02:03.651479+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "dguillot-gh/racinglagoon-android",
+      "url": "https://github.com/dguillot-gh/racinglagoon-android",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-06T15:32:01Z",
+      "summary": "Racing Lagoon (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T00:02:03.650811+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "GenissonEmilio/Brawl-Android",
+      "url": "https://github.com/GenissonEmilio/Brawl-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-06T18:39:32Z",
+      "summary": "Experimental native ARM64 Android port of BrawlRecompiled, with GameCube multitouch controls and regression tests. Requires compatible game data supplied by the player.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T00:02:01.821542+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "uamo11/y0x1GameMobile",
+      "url": "https://github.com/uamo11/y0x1GameMobile",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-06T19:09:42Z",
+      "summary": "Mobile port of ySpades (Ace of Spades 0.75 client) for Android",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T00:02:01.820919+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of",
+        "Есть игровые/платформенные признаки: android"
+      ]
+    },
+    {
+      "title": "henroids/black-mesa-tennis",
+      "url": "https://github.com/henroids/black-mesa-tennis",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-06T19:23:50Z",
+      "summary": "android port of pretty much the only table tennis game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T00:02:01.820411+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "phys-winner/pc_port_tcs",
+      "url": "https://github.com/phys-winner/pc_port_tcs",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-06T23:49:40Z",
+      "summary": "Unofficial Android ARM64 port of The Closing Shift (Steam 1843090). Requires the original game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T00:02:01.817131+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game, android"
+      ]
+    },
+    {
+      "title": "heyjonanderson/PacNJumpNative",
+      "url": "https://github.com/heyjonanderson/PacNJumpNative",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-06T23:46:02Z",
+      "summary": "Native port of Pac'N-Jump (Namco, 2011) for Windows, macOS, Linux and Android. Bring your own APK, no game data in the repo. Topics: android, c99, game-preservation, homebrew, linux, macos, pac-n-jump, sdl3, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T00:01:59.976090+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux, android, apk"
+      ]
+    },
+    {
+      "title": "1vs100/1vs100-reborn-pc",
+      "url": "https://github.com/1vs100/1vs100-reborn-pc",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-06T23:39:11Z",
+      "summary": "1 vs 100 Xbox 360 game, ported to PC (windows, linux, mac) and xbox one/series in dev mode Topics: 1-vs-100, 1vs100, decompilation, game, gameserver, reborn, recompilation, revival, server, x360, xbox-360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T00:01:59.974847+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "rzrbld/The-ReThing",
+      "url": "https://github.com/rzrbld/The-ReThing",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-06T22:21:23Z",
+      "summary": "The ReThing — ARM64 Linux port of The Thing (2002), using static recompilation, SDL2 and OpenGL ES. Users supply their own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T00:01:55.955199+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "ZeroMatrixX/WindWakerHD-Android-Plus",
+      "url": "https://github.com/ZeroMatrixX/WindWakerHD-Android-Plus",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-05T23:33:14Z",
+      "summary": "The Legend of Zelda: The Wind Waker HD natively on Android (static recompilation, Vulkan). Built-in Brazilian Portuguese translation, HUD editor, .wua support, controller gyro, and more. Bring your own game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-06T12:49:39.117605+00:00",
+      "check": {
+        "checked_at": "2026-11-07T00:02:05.150918+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "The Legend of Zelda: The Wind Waker HD natively on Android (static recompilation, Vulkan). Built-in Brazilian Portuguese translation, HUD editor, .wua support, controller gyro, and more. Bring your own game.",
+        "latest_release_url": "https://github.com/ZeroMatrixX/WindWakerHD-Android-Plus/releases/tag/v1.14",
+        "latest_release_name": "Zelda Wind waker v1.14 arabic",
+        "release_assets": [
+          {
+            "name": "Zelda_WWHD_Arabic_v1.14.apk",
+            "url": "https://github.com/ZeroMatrixX/WindWakerHD-Android-Plus/releases/download/v1.14/Zelda_WWHD_Arabic_v1.14.apk",
+            "size": 65646938
+          }
+        ],
+        "releases": [
+          {
+            "name": "Zelda Wind waker v1.14 arabic",
+            "url": "https://github.com/ZeroMatrixX/WindWakerHD-Android-Plus/releases/tag/v1.14",
+            "published_at": "2026-11-06T00:55:15Z",
+            "assets": [
+              {
+                "name": "Zelda_WWHD_Arabic_v1.14.apk",
+                "url": "https://github.com/ZeroMatrixX/WindWakerHD-Android-Plus/releases/download/v1.14/Zelda_WWHD_Arabic_v1.14.apk",
+                "size": 65646938
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "Zelda_WWHD_Arabic_v1.14.apk",
+          "url": "https://github.com/ZeroMatrixX/WindWakerHD-Android-Plus/releases/download/v1.14/Zelda_WWHD_Arabic_v1.14.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
       "title": "Frostie77/The-Last-Stand-2",
       "url": "https://github.com/Frostie77/The-Last-Stand-2",
       "source_name": "GitHub: Android ports",
@@ -44,7 +625,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-06T12:49:37.054675+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T00:02:06.643891+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A Native Android Port of the classic Flash survival game The Last Stand 2.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -78,7 +676,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-06T12:49:30.606149+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T00:02:08.081639+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "develop",
+        "description": "Port of Ikaruga (Dreamcast) to the PSP via static recompilation (dcrecomp). Bring your own disc; no game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -105,7 +720,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-06T12:49:30.605275+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T00:02:09.499601+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Spyro: A Hero's Tail (original Xbox) native PC port via static recompilation - bring your own game",
+        "latest_release_url": "https://github.com/Starkka15/spyro-aht-pc/releases/tag/v1.0.1",
+        "latest_release_name": "1.0.1",
+        "release_assets": [
+          {
+            "name": "SpyroAHT-PC-1.0.1-Setup.exe",
+            "url": "https://github.com/Starkka15/spyro-aht-pc/releases/download/v1.0.1/SpyroAHT-PC-1.0.1-Setup.exe",
+            "size": 9472059
+          }
+        ],
+        "releases": [
+          {
+            "name": "1.0.1",
+            "url": "https://github.com/Starkka15/spyro-aht-pc/releases/tag/v1.0.1",
+            "published_at": "2026-11-06T13:35:33Z",
+            "assets": [
+              {
+                "name": "SpyroAHT-PC-1.0.1-Setup.exe",
+                "url": "https://github.com/Starkka15/spyro-aht-pc/releases/download/v1.0.1/SpyroAHT-PC-1.0.1-Setup.exe",
+                "size": 9472059
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Spyro: A Hero's Tail PC port 1.0.0",
+            "url": "https://github.com/Starkka15/spyro-aht-pc/releases/tag/v1.0.0",
+            "published_at": "2026-11-06T09:50:30Z",
+            "assets": [
+              {
+                "name": "SpyroAHT-PC-1.0.0-Setup.exe",
+                "url": "https://github.com/Starkka15/spyro-aht-pc/releases/download/v1.0.0/SpyroAHT-PC-1.0.0-Setup.exe",
+                "size": 9533355
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -119,9 +786,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SpyroAHT-PC-1.0.1-Setup.exe",
+          "url": "https://github.com/Starkka15/spyro-aht-pc/releases/download/v1.0.1/SpyroAHT-PC-1.0.1-Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "SpyroAHT-PC-1.0.0-Setup.exe",
+          "url": "https://github.com/Starkka15/spyro-aht-pc/releases/download/v1.0.0/SpyroAHT-PC-1.0.0-Setup.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 10,
       "relevance_status": "promising",
@@ -139,7 +818,93 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-06T12:49:30.604100+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T00:02:10.940705+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of the original Xbox Far Cry Instincts into a native Windows x64 executable (Direct3D 11). Bring your own copy of the game; no game files included.",
+        "latest_release_url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/tag/v0.1.2",
+        "latest_release_name": "v0.1.2",
+        "release_assets": [
+          {
+            "name": "FarCryInstincts-Recomp-v0.1.2-win64.zip",
+            "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/download/v0.1.2/FarCryInstincts-Recomp-v0.1.2-win64.zip",
+            "size": 65704056
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/download/v0.1.2/SHA256SUMS",
+            "size": 106
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.2",
+            "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/tag/v0.1.2",
+            "published_at": "2026-11-06T21:35:13Z",
+            "assets": [
+              {
+                "name": "FarCryInstincts-Recomp-v0.1.2-win64.zip",
+                "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/download/v0.1.2/FarCryInstincts-Recomp-v0.1.2-win64.zip",
+                "size": 65704056
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/download/v0.1.2/SHA256SUMS",
+                "size": 106
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.1",
+            "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/tag/v0.1.1",
+            "published_at": "2026-11-06T18:43:18Z",
+            "assets": [
+              {
+                "name": "FarCryInstincts-Recomp-v0.1.1-win64.zip",
+                "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/download/v0.1.1/FarCryInstincts-Recomp-v0.1.1-win64.zip",
+                "size": 63482427
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/download/v0.1.1/SHA256SUMS",
+                "size": 106
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.0",
+            "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-06T16:24:18Z",
+            "assets": [
+              {
+                "name": "FarCryInstincts-Recomp-v0.1.0-win64.zip",
+                "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/download/v0.1.0/FarCryInstincts-Recomp-v0.1.0-win64.zip",
+                "size": 65699414
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/download/v0.1.0/SHA256SUMS",
+                "size": 106
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -148,13 +913,46 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
-          "windows"
+          "windows",
+          "win64"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "FarCryInstincts-Recomp-v0.1.2-win64.zip",
+          "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/download/v0.1.2/FarCryInstincts-Recomp-v0.1.2-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/download/v0.1.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "FarCryInstincts-Recomp-v0.1.1-win64.zip",
+          "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/download/v0.1.1/FarCryInstincts-Recomp-v0.1.1-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/download/v0.1.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "FarCryInstincts-Recomp-v0.1.0-win64.zip",
+          "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/download/v0.1.0/FarCryInstincts-Recomp-v0.1.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/releases/download/v0.1.0/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -172,7 +970,95 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-06T12:49:26.148398+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T00:02:12.434332+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial from-scratch Rust reimplementation of Geometry Dash 2.2091 for desktop and the browser (wgpu: Metal, Vulkan, DX12, WebGPU). Physics checked step for step against the real game. Bring your own game files.",
+        "latest_release_url": "https://github.com/mark20142026/cadence/releases/tag/v0.0.2",
+        "latest_release_name": "v0.0.2",
+        "release_assets": [
+          {
+            "name": "Cadence-linux.tar.gz",
+            "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-linux.tar.gz",
+            "size": 87761614
+          },
+          {
+            "name": "Cadence-macos-arm64.dmg",
+            "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-macos-arm64.dmg",
+            "size": 14610239
+          },
+          {
+            "name": "Cadence-macos-arm64.zip",
+            "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-macos-arm64.zip",
+            "size": 13259946
+          },
+          {
+            "name": "Cadence-macos-intel.dmg",
+            "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-macos-intel.dmg",
+            "size": 15712895
+          },
+          {
+            "name": "Cadence-macos-intel.zip",
+            "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-macos-intel.zip",
+            "size": 14172117
+          },
+          {
+            "name": "Cadence-windows.zip",
+            "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-windows.zip",
+            "size": 13452696
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.0.2",
+            "url": "https://github.com/mark20142026/cadence/releases/tag/v0.0.2",
+            "published_at": "2026-11-05T15:39:12Z",
+            "assets": [
+              {
+                "name": "Cadence-linux.tar.gz",
+                "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-linux.tar.gz",
+                "size": 87761614
+              },
+              {
+                "name": "Cadence-macos-arm64.dmg",
+                "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-macos-arm64.dmg",
+                "size": 14610239
+              },
+              {
+                "name": "Cadence-macos-arm64.zip",
+                "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-macos-arm64.zip",
+                "size": 13259946
+              },
+              {
+                "name": "Cadence-macos-intel.dmg",
+                "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-macos-intel.dmg",
+                "size": 15712895
+              },
+              {
+                "name": "Cadence-macos-intel.zip",
+                "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-macos-intel.zip",
+                "size": 14172117
+              },
+              {
+                "name": "Cadence-windows.zip",
+                "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-windows.zip",
+                "size": 13452696
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -186,14 +1072,48 @@
         ],
         "android_terms": [],
         "pc_terms": [
+          "windows",
+          "linux",
           "desktop"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Cadence-linux.tar.gz",
+          "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-linux.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "Cadence-macos-arm64.dmg",
+          "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-macos-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Cadence-macos-arm64.zip",
+          "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Cadence-macos-intel.dmg",
+          "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-macos-intel.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Cadence-macos-intel.zip",
+          "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-macos-intel.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Cadence-windows.zip",
+          "url": "https://github.com/mark20142026/cadence/releases/download/v0.0.2/Cadence-windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -929,7 +1849,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-06T00:55:17.610865+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T00:02:13.955157+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port (Windows/Linux) of the US PS3 version of 3D Dot Game Heroes via static recompilation. Bring your own legally acquired disc; no game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -965,7 +1902,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-06T00:55:13.837740+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T00:02:15.346387+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Rust + WebGPU game engine that turns Gaussian-splat scans into playable first-person worlds. Play the browser demo.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
