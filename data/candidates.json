@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-07T17:41:24.315014+00:00",
+  "last_updated": "2026-11-07T23:33:44.249439+00:00",
   "candidates": [
     {
-      "title": "base64E/The-Jolly-Gang-s-Misadventures-in-Africa-Android-port",
-      "url": "https://github.com/base64E/The-Jolly-Gang-s-Misadventures-in-Africa-Android-port",
+      "title": "shahzadp/Project-Alice-Android-by-Alex",
+      "url": "https://github.com/shahzadp/Project-Alice-Android-by-Alex",
       "source_name": "GitHub: Android ports",
-      "published": "2026-11-07T12:36:05Z",
-      "summary": "This is an unofficial Android port of the classic point-and-click adventure game \"The Jolly Gang's Misadventures in Africa\" (Масяня в полной Африке), originally developed by Alawar Entertainment.",
+      "published": "2026-11-07T19:16:10Z",
+      "summary": "Android port of Project Alice - the open-source engine for playing Victoria 2. Requires a copy of Victoria 2; game assets are NOT included. Topics: android, game-engine, gpl-3, victoria-2",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-07T17:41:10.380340+00:00",
+      "found_at": "2026-11-07T23:33:32.570828+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -37,6 +37,288 @@
       ]
     },
     {
+      "title": "shahzadp/DoL-by-Alex",
+      "url": "https://github.com/shahzadp/DoL-by-Alex",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-07T19:58:22Z",
+      "summary": "Android port of Degrees of Lewdity - SugarCube/Twine adult game (CC BY-NC-SA 4.0). Community fork for Android; attribution required, non-commercial. Not affiliated with upstream. Topics: android, cc-by-nc-sa, degrees-of-lewdity, twine",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T23:33:32.569763+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Nazatric/Re-Port",
+      "url": "https://github.com/Nazatric/Re-Port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-07T20:08:31Z",
+      "summary": "Android Game Ports Put Into A Beautiful App Topics: android, open-source, port, recomp, recompilation, user-interface, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T23:33:32.568843+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "SayaModding/battle-of-z-pc",
+      "url": "https://github.com/SayaModding/battle-of-z-pc",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-07T21:44:06Z",
+      "summary": "PC port of Dragon Ball Z: Battle of Z (PS3), built by static recompilation. Needs your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T23:33:27.552363+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "kahoot-ut/SwitchStaticRecompiler",
+      "url": "https://github.com/kahoot-ut/SwitchStaticRecompiler",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-07T22:40:08Z",
+      "summary": "An experimental Android-based Nintendo Switch static recompilation project, designed to explore native ARM64 code generation, game compatibility, and mobile performance.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T23:33:27.551527+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Goldoire/fefw-recomp",
+      "url": "https://github.com/Goldoire/fefw-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-07T23:20:40Z",
+      "summary": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included. Topics: nintendo-switch-2, pc-port, recompilation, static-recompilation, vulkan, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T23:33:27.550554+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "frotzilla/house-md-browser-port",
+      "url": "https://github.com/frotzilla/house-md-browser-port",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-07T22:11:48Z",
+      "summary": "Play the 2010 House M.D. PC game in your browser with Ruffle. Build scripts and patches only; bring your own copy of the game. Topics: flash, game-preservation, house-md, ruffle",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T23:33:20.426008+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "base64E/The-Jolly-Gang-s-Misadventures-in-Africa-Android-port",
+      "url": "https://github.com/base64E/The-Jolly-Gang-s-Misadventures-in-Africa-Android-port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-07T12:36:05Z",
+      "summary": "This is an unofficial Android port of the classic point-and-click adventure game \"The Jolly Gang's Misadventures in Africa\" (Масяня в полной Африке), originally developed by Alawar Entertainment.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T17:41:10.380340+00:00",
+      "check": {
+        "checked_at": "2026-11-07T23:33:34.253610+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "This is an unofficial Android port of the classic point-and-click adventure game \"The Jolly Gang's Misadventures in Africa\" (Масяня в полной Африке), originally developed by Alawar Entertainment.",
+        "latest_release_url": "https://github.com/base64E/The-Jolly-Gang-s-Misadventures-in-Africa-Android-port/releases/tag/0.7",
+        "latest_release_name": "0.7",
+        "release_assets": [
+          {
+            "name": "-.-.-.-release.apk",
+            "url": "https://github.com/base64E/The-Jolly-Gang-s-Misadventures-in-Africa-Android-port/releases/download/0.7/-.-.-.-release.apk",
+            "size": 213743215
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.7",
+            "url": "https://github.com/base64E/The-Jolly-Gang-s-Misadventures-in-Africa-Android-port/releases/tag/0.7",
+            "published_at": "2026-11-07T12:36:05Z",
+            "assets": [
+              {
+                "name": "-.-.-.-release.apk",
+                "url": "https://github.com/base64E/The-Jolly-Gang-s-Misadventures-in-Africa-Android-port/releases/download/0.7/-.-.-.-release.apk",
+                "size": 213743215
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "-.-.-.-release.apk",
+          "url": "https://github.com/base64E/The-Jolly-Gang-s-Misadventures-in-Africa-Android-port/releases/download/0.7/-.-.-.-release.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
       "title": "kubakozub/maturaios",
       "url": "https://github.com/kubakozub/maturaios",
       "source_name": "GitHub: Android ports",
@@ -45,7 +327,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T17:41:10.377382+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T23:33:35.522066+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "iOS port of the Matura English vocabulary game. Swift and SwiftUI, same engine, vocabulary and mechanics as the Android version. 102 sets, 2084 entries, fully offline.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -81,7 +380,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T17:41:08.617146+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T23:33:36.743962+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Bayonetta 3 PC, Steam Deck and Android native port: static ARM-to-C++ recompiler, Horizon/NVN runtime and Vulkan backend. No emulator; bring your own 1.2.0 game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -119,17 +435,84 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T17:41:06.883478+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-11-07T23:33:37.965313+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A modern source port for 1991 MS-DOS Game D/Generation.",
+        "latest_release_url": "https://github.com/uosdwashi/DGenerationPort/releases/tag/v1.0.0",
+        "latest_release_name": "D/Generation Source Port 1.0.0",
+        "release_assets": [
+          {
+            "name": "dgen-1.0.0-linux-x86_64.tar.gz",
+            "url": "https://github.com/uosdwashi/DGenerationPort/releases/download/v1.0.0/dgen-1.0.0-linux-x86_64.tar.gz",
+            "size": 3383429
+          },
+          {
+            "name": "dgen-1.0.0-windows-x86_64.zip",
+            "url": "https://github.com/uosdwashi/DGenerationPort/releases/download/v1.0.0/dgen-1.0.0-windows-x86_64.zip",
+            "size": 3331370
+          }
+        ],
+        "releases": [
+          {
+            "name": "D/Generation Source Port 1.0.0",
+            "url": "https://github.com/uosdwashi/DGenerationPort/releases/tag/v1.0.0",
+            "published_at": "2026-11-07T16:47:19Z",
+            "assets": [
+              {
+                "name": "dgen-1.0.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/uosdwashi/DGenerationPort/releases/download/v1.0.0/dgen-1.0.0-linux-x86_64.tar.gz",
+                "size": 3383429
+              },
+              {
+                "name": "dgen-1.0.0-windows-x86_64.zip",
+                "url": "https://github.com/uosdwashi/DGenerationPort/releases/download/v1.0.0/dgen-1.0.0-windows-x86_64.zip",
+                "size": 3331370
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "dgen-1.0.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/uosdwashi/DGenerationPort/releases/download/v1.0.0/dgen-1.0.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "dgen-1.0.0-windows-x86_64.zip",
+          "url": "https://github.com/uosdwashi/DGenerationPort/releases/download/v1.0.0/dgen-1.0.0-windows-x86_64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 4,
       "relevance_status": "possible",
       "relevance_reasons": [
@@ -146,7 +529,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T17:41:05.110154+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T23:33:39.278369+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Static recompilation of The Legend of Zelda: Ocarina of Time to native Windows x86-64, with a Vulkan renderer. Dump your own Switch Game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -179,7 +579,65 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T17:41:03.412435+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T23:33:40.533015+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A Web Port of the game Unturned using WebGL and WebRTC for Multiplayer",
+        "latest_release_url": "https://github.com/arlenh7butbetter/webturned/releases/tag/0.1.0",
+        "latest_release_name": "Webturned 0.1.0",
+        "release_assets": [
+          {
+            "name": "game.unturned",
+            "url": "https://github.com/arlenh7butbetter/webturned/releases/download/0.1.0/game.unturned",
+            "size": 1518446840
+          },
+          {
+            "name": "index.html",
+            "url": "https://github.com/arlenh7butbetter/webturned/releases/download/0.1.0/index.html",
+            "size": 586
+          },
+          {
+            "name": "runtime.js",
+            "url": "https://github.com/arlenh7butbetter/webturned/releases/download/0.1.0/runtime.js",
+            "size": 26645
+          }
+        ],
+        "releases": [
+          {
+            "name": "Webturned 0.1.0",
+            "url": "https://github.com/arlenh7butbetter/webturned/releases/tag/0.1.0",
+            "published_at": "2026-11-07T15:48:29Z",
+            "assets": [
+              {
+                "name": "game.unturned",
+                "url": "https://github.com/arlenh7butbetter/webturned/releases/download/0.1.0/game.unturned",
+                "size": 1518446840
+              },
+              {
+                "name": "index.html",
+                "url": "https://github.com/arlenh7butbetter/webturned/releases/download/0.1.0/index.html",
+                "size": 586
+              },
+              {
+                "name": "runtime.js",
+                "url": "https://github.com/arlenh7butbetter/webturned/releases/download/0.1.0/runtime.js",
+                "size": 26645
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -193,9 +651,26 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "game.unturned",
+          "url": "https://github.com/arlenh7butbetter/webturned/releases/download/0.1.0/game.unturned",
+          "type": "other_file"
+        },
+        {
+          "name": "index.html",
+          "url": "https://github.com/arlenh7butbetter/webturned/releases/download/0.1.0/index.html",
+          "type": "html_file"
+        },
+        {
+          "name": "runtime.js",
+          "url": "https://github.com/arlenh7butbetter/webturned/releases/download/0.1.0/runtime.js",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -213,7 +688,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T17:41:01.373791+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T23:33:41.800842+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "A falling-sand game: cellular-automaton physics in Rust, compiled to a 35 KB WebAssembly module. Sand, water, fire, lava, acid, plants. Play it in your browser.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -249,7 +741,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T17:41:01.368170+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T23:33:43.030799+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Tony Hawk's Underground 2 PC in the browser: the community decomp compiled to WebAssembly, drawn with WebGPU (no emulation, no game files here)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
