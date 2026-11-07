@@ -1,7 +1,365 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-07T00:02:16.733941+00:00",
+  "last_updated": "2026-11-07T11:37:24.282268+00:00",
   "candidates": [
+    {
+      "title": "shendyvisual07-eng/crashwoc-android",
+      "url": "https://github.com/shendyvisual07-eng/crashwoc-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-07T09:20:59Z",
+      "summary": "Unofficial Android port of Crash Bandicoot: The Wrath of Cortex. Requires your own legally obtained game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T11:37:09.433198+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "easleyclaymore/Rance10-Android-Port",
+      "url": "https://github.com/easleyclaymore/Rance10-Android-Port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-07T09:40:18Z",
+      "summary": "Rance10 Android native port - xsystem4 downstream fork (engine source only, no game assets)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T11:37:09.431596+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: native port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "justinbukoski/mc2-rust",
+      "url": "https://github.com/justinbukoski/mc2-rust",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-07T01:34:17Z",
+      "summary": "Download and play: justinbukoski.github.io/mc2-rust | a free Rust port of the 2001 game MechCommander 2 for macOS, Linux and Windows (bring your own game data) Topics: cross-platform, game, mechcommander2, port, rts, rust, wgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T11:37:07.502880+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "saulob/el-chavo-kart-recompiled",
+      "url": "https://github.com/saulob/el-chavo-kart-recompiled",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-07T04:55:30Z",
+      "summary": "Chaves Kart (El Chavo Kart) for Xbox 360, statically recompiled as a native PC port for Windows and Linux, with online multiplayer, modern graphics options and Steam Deck support Topics: chaves, chavo, game, recomp, recompilation, rexglue, rexglue-recomp, xbox-360, xbox360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T11:37:07.501730+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "erikomis/afro-samurai-recomp",
+      "url": "https://github.com/erikomis/afro-samurai-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-07T04:32:23Z",
+      "summary": "Afro Samurai (PS3, BLUS30264) static recompilation for macOS/arm64 with Metal, built on ps3recomp. No game data: build it from your own disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T11:37:03.786498+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Rhalekey/ProjectDivaRecomp",
+      "url": "https://github.com/Rhalekey/ProjectDivaRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-07T05:31:30Z",
+      "summary": "Static recompilation of Hatsune Miku: Project DIVA (PSP) for PC. Bring your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T11:37:03.785689+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "ZuanCrisp/OOT-Recomp",
+      "url": "https://github.com/ZuanCrisp/OOT-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-07T09:29:37Z",
+      "summary": "Static recompilation of The Legend of Zelda: Ocarina of Time to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T11:37:03.784912+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "VetTV-Studios/simpsons-hit-and-run-recomp",
+      "url": "https://github.com/VetTV-Studios/simpsons-hit-and-run-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-07T09:54:20Z",
+      "summary": "Fan-made static recompilation bring-up of the original Xbox version of The Simpsons: Hit & Run for native PC. Bring your own game; no assets included. Topics: directx-12, game-port, reverse-engineering, simpsons-hit-and-run, static-recompilation, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T11:37:03.783925+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "jabroni1kanobi/ocarina-of-time-recomp",
+      "url": "https://github.com/jabroni1kanobi/ocarina-of-time-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-07T11:00:33Z",
+      "summary": "Static recompilation of The Legend of Zelda: Ocarina of Time (Switch 2) for Windows. Bring your own dump; no game content.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T11:37:03.782927+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "ReSands/ReSands",
+      "url": "https://github.com/ReSands/ReSands",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-07T11:27:59Z",
+      "summary": "Prince of Persia: The Sands of Time, PS2 static recompilation with native PC hardware replacements (WIP, no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T11:37:03.782091+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "WSED0412/bg_advisor_web",
+      "url": "https://github.com/WSED0412/bg_advisor_web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-07T11:05:27Z",
+      "summary": "Hearthstone Battlegrounds post-game review in the browser (reads Power.log via an HDT plugin) Topics: battlegrounds, hdt-plugin, hearthstone, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T11:36:59.852722+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "dguillot-gh/tomba-android",
       "url": "https://github.com/dguillot-gh/tomba-android",
@@ -11,7 +369,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T00:02:03.655903+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T11:37:12.856687+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Tomba! (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -44,7 +419,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T00:02:03.655312+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T11:37:14.303859+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Tomba! 2 (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -77,7 +469,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T00:02:03.654700+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T11:37:15.755595+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Parasite Eve (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -110,7 +519,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T00:02:03.654070+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T11:37:17.257768+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Parasite Eve II (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -143,7 +569,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T00:02:03.653451+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T11:37:18.739453+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Persona (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -176,7 +619,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T00:02:03.652814+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T11:37:20.181988+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Persona 2: Eternal Punishment (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -209,7 +669,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T00:02:03.652139+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T11:37:21.546865+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Mizzurna Falls - The Chilling Cut (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -242,7 +719,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T00:02:03.651479+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T11:37:22.904029+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Policenauts (PS1) as a native Android app via psxrecomp static recompilation. Build from your own disc; no game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
