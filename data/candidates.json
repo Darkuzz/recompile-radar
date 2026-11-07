@@ -1,7 +1,280 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-07T11:37:24.282268+00:00",
+  "last_updated": "2026-11-07T17:41:24.315014+00:00",
   "candidates": [
+    {
+      "title": "base64E/The-Jolly-Gang-s-Misadventures-in-Africa-Android-port",
+      "url": "https://github.com/base64E/The-Jolly-Gang-s-Misadventures-in-Africa-Android-port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-07T12:36:05Z",
+      "summary": "This is an unofficial Android port of the classic point-and-click adventure game \"The Jolly Gang's Misadventures in Africa\" (Масяня в полной Африке), originally developed by Alawar Entertainment.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T17:41:10.380340+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "kubakozub/maturaios",
+      "url": "https://github.com/kubakozub/maturaios",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-07T15:11:03Z",
+      "summary": "iOS port of the Matura English vocabulary game. Swift and SwiftUI, same engine, vocabulary and mechanics as the Android version. 102 sets, 2084 entries, fully offline. Topics: education, english-learning, ios, language-learning, matura, offline-first, swift, swiftui, vocabulary",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T17:41:10.377382+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "ios port"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "aoxzh/bayo3-recomp",
+      "url": "https://github.com/aoxzh/bayo3-recomp",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-07T16:48:49Z",
+      "summary": "Bayonetta 3 PC, Steam Deck and Android native port: static ARM-to-C++ recompiler, Horizon/NVN runtime and Vulkan backend. No emulator; bring your own 1.2.0 game files. Topics: android, arm64, bayo3, bayonetta-3, bayonetta3, game-recompilation, homebrew, linux, native-port, nintendo-switch, nvn, pc-port, recompiler, reverse-engineering, static-recompilation, steam-deck, switch, vulkan, windows, x86-64",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T17:41:08.617146+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux, android"
+      ]
+    },
+    {
+      "title": "uosdwashi/DGenerationPort",
+      "url": "https://github.com/uosdwashi/DGenerationPort",
+      "source_name": "GitHub: source ports",
+      "published": "2026-11-07T16:47:14Z",
+      "summary": "A modern source port for 1991 MS-DOS Game D/Generation.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T17:41:06.883478+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "ZuanCrisp/Zelda-OOT-Port",
+      "url": "https://github.com/ZuanCrisp/Zelda-OOT-Port",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-07T12:19:45Z",
+      "summary": "Static recompilation of The Legend of Zelda: Ocarina of Time to native Windows x86-64, with a Vulkan renderer. Dump your own Switch Game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T17:41:05.110154+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "arlenh7butbetter/webturned",
+      "url": "https://github.com/arlenh7butbetter/webturned",
+      "source_name": "GitHub: WebGL ports",
+      "published": "2026-11-07T15:48:29Z",
+      "summary": "A Web Port of the game Unturned using WebGL and WebRTC for Multiplayer",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T17:41:03.412435+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webgl",
+          "web port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: web port of, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webgl"
+      ]
+    },
+    {
+      "title": "AndreaAcanfora/sabbia",
+      "url": "https://github.com/AndreaAcanfora/sabbia",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-07T15:53:57Z",
+      "summary": "A falling-sand game: cellular-automaton physics in Rust, compiled to a 35 KB WebAssembly module. Sand, water, fire, lava, acid, plants. Play it in your browser. Topics: browser-game, cellular-automata, falling-sand, game, physics, pwa, rust, simulation, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T17:41:01.373791+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "Loosemond/thug2-web",
+      "url": "https://github.com/Loosemond/thug2-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-07T17:28:48Z",
+      "summary": "Tony Hawk's Underground 2 PC in the browser: the community decomp compiled to WebAssembly, drawn with WebGPU (no emulation, no game files here)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T17:41:01.368170+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "shendyvisual07-eng/crashwoc-android",
       "url": "https://github.com/shendyvisual07-eng/crashwoc-android",
@@ -11,7 +284,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T11:37:09.433198+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T17:41:13.842157+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial Android port of Crash Bandicoot: The Wrath of Cortex. Requires your own legally obtained game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +335,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T11:37:09.431596+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T17:41:15.222881+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Rance10 Android native port - xsystem4 downstream fork (engine source only, no game assets)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -78,7 +385,85 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T11:37:07.502880+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T17:41:16.610157+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Download and play: justinbukoski.github.io/mc2-rust | a free Rust port of the 2001 game MechCommander 2 for macOS, Linux and Windows (bring your own game data)",
+        "latest_release_url": "https://github.com/justinbukoski/mc2-rust/releases/tag/v0.1.0",
+        "latest_release_name": "MC2 Rust 0.1.0",
+        "release_assets": [
+          {
+            "name": "mc2-rust-0.1.0-5dcc8c14c146-linux-x86_64.tar.gz",
+            "url": "https://github.com/justinbukoski/mc2-rust/releases/download/v0.1.0/mc2-rust-0.1.0-5dcc8c14c146-linux-x86_64.tar.gz",
+            "size": 7012709
+          },
+          {
+            "name": "mc2-rust-0.1.0-5dcc8c14c146-macos-arm64.zip",
+            "url": "https://github.com/justinbukoski/mc2-rust/releases/download/v0.1.0/mc2-rust-0.1.0-5dcc8c14c146-macos-arm64.zip",
+            "size": 5422720
+          },
+          {
+            "name": "mc2-rust-0.1.0-5dcc8c14c146-windows-x86_64.zip",
+            "url": "https://github.com/justinbukoski/mc2-rust/releases/download/v0.1.0/mc2-rust-0.1.0-5dcc8c14c146-windows-x86_64.zip",
+            "size": 8039897
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/justinbukoski/mc2-rust/releases/download/v0.1.0/SHA256SUMS",
+            "size": 337
+          },
+          {
+            "name": "THIRD-PARTY-NOTICES.txt",
+            "url": "https://github.com/justinbukoski/mc2-rust/releases/download/v0.1.0/THIRD-PARTY-NOTICES.txt",
+            "size": 1472310
+          }
+        ],
+        "releases": [
+          {
+            "name": "MC2 Rust 0.1.0",
+            "url": "https://github.com/justinbukoski/mc2-rust/releases/tag/v0.1.0",
+            "published_at": "2026-11-06T15:53:16Z",
+            "assets": [
+              {
+                "name": "mc2-rust-0.1.0-5dcc8c14c146-linux-x86_64.tar.gz",
+                "url": "https://github.com/justinbukoski/mc2-rust/releases/download/v0.1.0/mc2-rust-0.1.0-5dcc8c14c146-linux-x86_64.tar.gz",
+                "size": 7012709
+              },
+              {
+                "name": "mc2-rust-0.1.0-5dcc8c14c146-macos-arm64.zip",
+                "url": "https://github.com/justinbukoski/mc2-rust/releases/download/v0.1.0/mc2-rust-0.1.0-5dcc8c14c146-macos-arm64.zip",
+                "size": 5422720
+              },
+              {
+                "name": "mc2-rust-0.1.0-5dcc8c14c146-windows-x86_64.zip",
+                "url": "https://github.com/justinbukoski/mc2-rust/releases/download/v0.1.0/mc2-rust-0.1.0-5dcc8c14c146-windows-x86_64.zip",
+                "size": 8039897
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/justinbukoski/mc2-rust/releases/download/v0.1.0/SHA256SUMS",
+                "size": 337
+              },
+              {
+                "name": "THIRD-PARTY-NOTICES.txt",
+                "url": "https://github.com/justinbukoski/mc2-rust/releases/download/v0.1.0/THIRD-PARTY-NOTICES.txt",
+                "size": 1472310
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -92,9 +477,36 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "mc2-rust-0.1.0-5dcc8c14c146-linux-x86_64.tar.gz",
+          "url": "https://github.com/justinbukoski/mc2-rust/releases/download/v0.1.0/mc2-rust-0.1.0-5dcc8c14c146-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "mc2-rust-0.1.0-5dcc8c14c146-macos-arm64.zip",
+          "url": "https://github.com/justinbukoski/mc2-rust/releases/download/v0.1.0/mc2-rust-0.1.0-5dcc8c14c146-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "mc2-rust-0.1.0-5dcc8c14c146-windows-x86_64.zip",
+          "url": "https://github.com/justinbukoski/mc2-rust/releases/download/v0.1.0/mc2-rust-0.1.0-5dcc8c14c146-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/justinbukoski/mc2-rust/releases/download/v0.1.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "THIRD-PARTY-NOTICES.txt",
+          "url": "https://github.com/justinbukoski/mc2-rust/releases/download/v0.1.0/THIRD-PARTY-NOTICES.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -112,7 +524,75 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T11:37:07.501730+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T17:41:18.006946+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Chaves Kart (El Chavo Kart) for Xbox 360, statically recompiled as a native PC port for Windows and Linux, with online multiplayer, modern graphics options and Steam Deck support",
+        "latest_release_url": "https://github.com/saulob/el-chavo-kart-recompiled/releases/tag/v0.1.0",
+        "latest_release_name": "El Chavo Kart Recompiled v0.1.0",
+        "release_assets": [
+          {
+            "name": "ElChavoKart-v0.1.0-windows-x64.sha256",
+            "url": "https://github.com/saulob/el-chavo-kart-recompiled/releases/download/v0.1.0/ElChavoKart-v0.1.0-windows-x64.sha256",
+            "size": 101
+          },
+          {
+            "name": "ElChavoKart-v0.1.0-windows-x64.zip",
+            "url": "https://github.com/saulob/el-chavo-kart-recompiled/releases/download/v0.1.0/ElChavoKart-v0.1.0-windows-x64.zip",
+            "size": 39572925
+          },
+          {
+            "name": "ElChavoKart-v0.1.0-x86_64.AppImage",
+            "url": "https://github.com/saulob/el-chavo-kart-recompiled/releases/download/v0.1.0/ElChavoKart-v0.1.0-x86_64.AppImage",
+            "size": 40626496
+          },
+          {
+            "name": "ElChavoKart-v0.1.0-x86_64.sha256",
+            "url": "https://github.com/saulob/el-chavo-kart-recompiled/releases/download/v0.1.0/ElChavoKart-v0.1.0-x86_64.sha256",
+            "size": 101
+          }
+        ],
+        "releases": [
+          {
+            "name": "El Chavo Kart Recompiled v0.1.0",
+            "url": "https://github.com/saulob/el-chavo-kart-recompiled/releases/tag/v0.1.0",
+            "published_at": "2026-11-07T02:43:26Z",
+            "assets": [
+              {
+                "name": "ElChavoKart-v0.1.0-windows-x64.sha256",
+                "url": "https://github.com/saulob/el-chavo-kart-recompiled/releases/download/v0.1.0/ElChavoKart-v0.1.0-windows-x64.sha256",
+                "size": 101
+              },
+              {
+                "name": "ElChavoKart-v0.1.0-windows-x64.zip",
+                "url": "https://github.com/saulob/el-chavo-kart-recompiled/releases/download/v0.1.0/ElChavoKart-v0.1.0-windows-x64.zip",
+                "size": 39572925
+              },
+              {
+                "name": "ElChavoKart-v0.1.0-x86_64.AppImage",
+                "url": "https://github.com/saulob/el-chavo-kart-recompiled/releases/download/v0.1.0/ElChavoKart-v0.1.0-x86_64.AppImage",
+                "size": 40626496
+              },
+              {
+                "name": "ElChavoKart-v0.1.0-x86_64.sha256",
+                "url": "https://github.com/saulob/el-chavo-kart-recompiled/releases/download/v0.1.0/ElChavoKart-v0.1.0-x86_64.sha256",
+                "size": 101
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -128,9 +608,31 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "ElChavoKart-v0.1.0-windows-x64.sha256",
+          "url": "https://github.com/saulob/el-chavo-kart-recompiled/releases/download/v0.1.0/ElChavoKart-v0.1.0-windows-x64.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "ElChavoKart-v0.1.0-windows-x64.zip",
+          "url": "https://github.com/saulob/el-chavo-kart-recompiled/releases/download/v0.1.0/ElChavoKart-v0.1.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ElChavoKart-v0.1.0-x86_64.AppImage",
+          "url": "https://github.com/saulob/el-chavo-kart-recompiled/releases/download/v0.1.0/ElChavoKart-v0.1.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "ElChavoKart-v0.1.0-x86_64.sha256",
+          "url": "https://github.com/saulob/el-chavo-kart-recompiled/releases/download/v0.1.0/ElChavoKart-v0.1.0-x86_64.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -148,7 +650,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T11:37:03.786498+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T17:41:19.465855+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Afro Samurai (PS3, BLUS30264) static recompilation for macOS/arm64 with Metal, built on ps3recomp. No game data: build it from your own disc.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -175,7 +694,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T11:37:03.785689+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T17:41:20.824998+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Hatsune Miku: Project DIVA (PSP) for PC. Bring your own copy of the game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -202,7 +738,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T11:37:03.784912+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T17:41:22.224189+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": false,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub вернул 404. Проект не удаляем; проверку нужно повторить."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -235,7 +787,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T11:37:03.783925+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-07T17:41:22.887498+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Fan-made static recompilation bring-up of the original Xbox version of The Simpsons: Hit & Run for native PC. Bring your own game; no assets included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
