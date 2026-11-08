@@ -1,7 +1,298 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-08T17:51:45.685808+00:00",
+  "last_updated": "2026-11-08T23:34:16.872802+00:00",
   "candidates": [
+    {
+      "title": "thurahtetaung/contradiction-android",
+      "url": "https://github.com/thurahtetaung/contradiction-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-08T16:43:39Z",
+      "summary": "Android port adapter for a locally supplied Contradiction game copy, with touch controls and video import",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T23:34:02.739238+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Starkka15/skylanders-sa-pc",
+      "url": "https://github.com/Starkka15/skylanders-sa-pc",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T20:01:02Z",
+      "summary": "Native Linux/PC port of Skylanders: Spyro's Adventure (Xbox 360) via ReXGlue static recompilation. A starting point; bring your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T23:33:57.339901+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "looking-glassinsects/MagicalPopnRecomp",
+      "url": "https://github.com/looking-glassinsects/MagicalPopnRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T20:14:46Z",
+      "summary": "Static recompilation of the SNES game Magical Pop'n into a native Windows game, built from your own ROM. Motion smoothing, native widescreen. Topics: magical-popn, recompilation, snes, static-recompilation, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T23:33:57.339369+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows"
+      ]
+    },
+    {
+      "title": "xPXavierx/bleach-soul-resurreccion-recomp",
+      "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T20:16:54Z",
+      "summary": "A static recompilation of Bleach: Soul Resurrección (PS3, BLUS30769) for Windows. Topics: dx12, game, ps3recomp, recomp, recompilation, static-recompilation, windows, x86, x86-64",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T23:33:57.338764+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "pedrowallybandeira/RDR_recomp",
+      "url": "https://github.com/pedrowallybandeira/RDR_recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T20:27:05Z",
+      "summary": "Static recompilation of RED DEAD REDEMPTION on ps3recomp. Research, not playable. Bring your own game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T23:33:57.338230+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable"
+      ]
+    },
+    {
+      "title": "Spaced1127/SpongeBobRecomp",
+      "url": "https://github.com/Spaced1127/SpongeBobRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T22:54:00Z",
+      "summary": "Standalone PC static recompilation of SpongeBob SquarePants: Revenge of the Flying Dutchman (GameCube). No game assets included. Topics: dolphin, gamecube, pc-port, spongebob, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T23:33:57.337744+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "deadlynch/power-moon-recomp-k10",
+      "url": "https://github.com/deadlynch/power-moon-recomp-k10",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T23:09:37Z",
+      "summary": "Power Moon Recomp (Super Mario Odyssey static recompilation) ported to AMD K10 CPUs (Phenom II, Athlon II) on Linux. Fork of gitlab.com/zzzarathustra-dev/power-moon-recomp. No game files included. Topics: amd-k10, linux, phenom, recompilation, static-recompilation, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T23:33:57.337104+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "alfman99/wasm-ce",
+      "url": "https://github.com/alfman99/wasm-ce",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-08T22:47:00Z",
+      "summary": "Ask your AI agent to change any web app or browser game, and keep the change as a mod that comes back on every load. A browser extension and an MCP server, with a DevTools panel for doing it by hand. Topics: ai-agents, browser-extension, cheat-engine, chrome-extension, claude-code, devtools, game-hacking, game-modding, mcp, mcp-server, memory-scanner, model-context-protocol, playcanvas, unity, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T23:33:53.615590+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "shellbear/aoe-2-decompiled",
+      "url": "https://github.com/shellbear/aoe-2-decompiled",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-08T23:14:13Z",
+      "summary": "Unofficial C++ reconstruction of Age of Empires II HD 5.8 from its executable: scored function by function against the original compiler's output, and playable in the browser via WebAssembly with your own game data. Topics: aoe, aoe2, aoe2hd, decompilation, decompiled, rea",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T23:33:53.614092+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable, webassembly"
+      ]
+    },
     {
       "title": "gabrielbskk/mcla-recomp-rv",
       "url": "https://github.com/gabrielbskk/mcla-recomp-rv",
@@ -11,7 +302,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T17:51:32.114171+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-08T23:34:05.889188+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Experimental native Android ARM64 port of MCLA Recomp (C++23, SDL3, Vulkan); user-supplied game files required",
+        "latest_release_url": "https://github.com/gabrielbskk/mcla-recomp-rv/releases/tag/android-arm64-2026-11-08",
+        "latest_release_name": "Android ARM64 experimental build — 2026-11-08",
+        "release_assets": [
+          {
+            "name": "MCLA-Recomp-arm64.apk",
+            "url": "https://github.com/gabrielbskk/mcla-recomp-rv/releases/download/android-arm64-2026-11-08/MCLA-Recomp-arm64.apk",
+            "size": 109212812
+          }
+        ],
+        "releases": [
+          {
+            "name": "Android ARM64 experimental build — 2026-11-08",
+            "url": "https://github.com/gabrielbskk/mcla-recomp-rv/releases/tag/android-arm64-2026-11-08",
+            "published_at": "2026-11-08T12:04:58Z",
+            "assets": [
+              {
+                "name": "MCLA-Recomp-arm64.apk",
+                "url": "https://github.com/gabrielbskk/mcla-recomp-rv/releases/download/android-arm64-2026-11-08/MCLA-Recomp-arm64.apk",
+                "size": 109212812
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -24,9 +353,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "MCLA-Recomp-arm64.apk",
+          "url": "https://github.com/gabrielbskk/mcla-recomp-rv/releases/download/android-arm64-2026-11-08/MCLA-Recomp-arm64.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -44,7 +380,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T17:51:32.112798+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-08T23:34:07.257379+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Nintendo Switch and Switch 2 games running natively on Android, replayed on Vulkan: nxnative with an Android port. Bring your own game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -81,7 +434,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T17:51:32.112008+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-08T23:34:08.609121+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android port of Red Alert 3 (tools only, no game files)",
+        "latest_release_url": "https://github.com/blackorange-sketch/RA3-Native/releases/tag/latest",
+        "latest_release_name": "Latest build",
+        "release_assets": [
+          {
+            "name": "ra3-native.apk",
+            "url": "https://github.com/blackorange-sketch/RA3-Native/releases/download/latest/ra3-native.apk",
+            "size": 79564256
+          }
+        ],
+        "releases": [
+          {
+            "name": "Latest build",
+            "url": "https://github.com/blackorange-sketch/RA3-Native/releases/tag/latest",
+            "published_at": "2026-11-07T10:58:26Z",
+            "assets": [
+              {
+                "name": "ra3-native.apk",
+                "url": "https://github.com/blackorange-sketch/RA3-Native/releases/download/latest/ra3-native.apk",
+                "size": 79564256
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -95,9 +486,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "ra3-native.apk",
+          "url": "https://github.com/blackorange-sketch/RA3-Native/releases/download/latest/ra3-native.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -115,7 +513,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T17:51:32.111301+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-08T23:34:10.019826+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A pure HTML5 Canvas + vanilla JavaScript port of the AOSP Android Easter Egg \"Landroid\" space exploration game",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -152,7 +567,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T17:51:28.818226+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-08T23:34:11.330078+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A native, open-source port of the 2000 PC BMX classic: fully rewritten in C, verified against the original, 64-bit, SDL3. Windows and Android, any resolution and frame rate. Requires your own copy of the game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -189,7 +621,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T17:51:27.061980+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-08T23:34:12.664773+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of Saka Tsuku: Pro Soccer Club o Tsukurou! (PS3, BLJM61064) by static recompilation. No game data included: bring your own disc.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -223,7 +672,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T17:51:27.061013+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-08T23:34:14.012418+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included. (Extended cloud-native edition & architecture specifications)",
+        "latest_release_url": "https://github.com/Shijiuwei/totk-pc-recomp-service/releases/tag/v1.0.0",
+        "latest_release_name": "Release v1.0.0: Initial Project Release & Architecture Specs",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "Release v1.0.0: Initial Project Release & Architecture Specs",
+            "url": "https://github.com/Shijiuwei/totk-pc-recomp-service/releases/tag/v1.0.0",
+            "published_at": "2026-11-08T16:24:43Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -257,7 +732,171 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T17:51:27.059987+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-08T23:34:15.407782+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Transformers (PS2, 2004) as a native PC game: static recompilation from your own disc, native Direct3D 12 renderer, up to 4K / 240 fps / ultrawide. Bring your own disc.",
+        "latest_release_url": "https://github.com/kayliox/transformers-armada-recomp/releases/tag/setup-v0.3.8",
+        "latest_release_name": "Setup v0.3.8",
+        "release_assets": [
+          {
+            "name": "tfa-setup.exe",
+            "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.8/tfa-setup.exe",
+            "size": 5142528
+          }
+        ],
+        "releases": [
+          {
+            "name": "Setup v0.3.8",
+            "url": "https://github.com/kayliox/transformers-armada-recomp/releases/tag/setup-v0.3.8",
+            "published_at": "2026-11-08T23:14:55Z",
+            "assets": [
+              {
+                "name": "tfa-setup.exe",
+                "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.8/tfa-setup.exe",
+                "size": 5142528
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Setup v0.3.7",
+            "url": "https://github.com/kayliox/transformers-armada-recomp/releases/tag/setup-v0.3.7",
+            "published_at": "2026-11-08T22:44:07Z",
+            "assets": [
+              {
+                "name": "tfa-setup.exe",
+                "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.7/tfa-setup.exe",
+                "size": 5142528
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Setup v0.3.6",
+            "url": "https://github.com/kayliox/transformers-armada-recomp/releases/tag/setup-v0.3.6",
+            "published_at": "2026-11-08T22:18:49Z",
+            "assets": [
+              {
+                "name": "tfa-setup.exe",
+                "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.6/tfa-setup.exe",
+                "size": 5142528
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Setup v0.3.5",
+            "url": "https://github.com/kayliox/transformers-armada-recomp/releases/tag/setup-v0.3.5",
+            "published_at": "2026-11-08T21:58:20Z",
+            "assets": [
+              {
+                "name": "tfa-setup.exe",
+                "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.5/tfa-setup.exe",
+                "size": 5142528
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Setup v0.3.4",
+            "url": "https://github.com/kayliox/transformers-armada-recomp/releases/tag/setup-v0.3.4",
+            "published_at": "2026-11-08T21:34:05Z",
+            "assets": [
+              {
+                "name": "tfa-setup.exe",
+                "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.4/tfa-setup.exe",
+                "size": 5142528
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Setup v0.3.3",
+            "url": "https://github.com/kayliox/transformers-armada-recomp/releases/tag/setup-v0.3.3",
+            "published_at": "2026-11-08T21:24:58Z",
+            "assets": [
+              {
+                "name": "tfa-setup.exe",
+                "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.3/tfa-setup.exe",
+                "size": 5123072
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Setup v0.3.2",
+            "url": "https://github.com/kayliox/transformers-armada-recomp/releases/tag/setup-v0.3.2",
+            "published_at": "2026-11-08T21:12:06Z",
+            "assets": [
+              {
+                "name": "tfa-setup.exe",
+                "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.2/tfa-setup.exe",
+                "size": 5123072
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Setup v0.3.1",
+            "url": "https://github.com/kayliox/transformers-armada-recomp/releases/tag/setup-v0.3.1",
+            "published_at": "2026-11-08T20:14:41Z",
+            "assets": [
+              {
+                "name": "tfa-setup.exe",
+                "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.1/tfa-setup.exe",
+                "size": 5118464
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Setup v0.3.0",
+            "url": "https://github.com/kayliox/transformers-armada-recomp/releases/tag/setup-v0.3.0",
+            "published_at": "2026-11-08T18:28:20Z",
+            "assets": [
+              {
+                "name": "tfa-setup.exe",
+                "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.0/tfa-setup.exe",
+                "size": 5118464
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Setup v0.2.9",
+            "url": "https://github.com/kayliox/transformers-armada-recomp/releases/tag/setup-v0.2.9",
+            "published_at": "2026-11-08T17:49:48Z",
+            "assets": [
+              {
+                "name": "tfa-setup.exe",
+                "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.2.9/tfa-setup.exe",
+                "size": 5118464
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -270,9 +909,61 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "tfa-setup.exe",
+          "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.8/tfa-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "tfa-setup.exe",
+          "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.7/tfa-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "tfa-setup.exe",
+          "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.6/tfa-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "tfa-setup.exe",
+          "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.5/tfa-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "tfa-setup.exe",
+          "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.4/tfa-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "tfa-setup.exe",
+          "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.3/tfa-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "tfa-setup.exe",
+          "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.2/tfa-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "tfa-setup.exe",
+          "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.1/tfa-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "tfa-setup.exe",
+          "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.3.0/tfa-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "tfa-setup.exe",
+          "url": "https://github.com/kayliox/transformers-armada-recomp/releases/download/setup-v0.2.9/tfa-setup.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 10,
       "relevance_status": "promising",
