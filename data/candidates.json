@@ -1,84 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-07T23:33:44.249439+00:00",
+  "last_updated": "2026-11-08T11:49:38.207776+00:00",
   "candidates": [
     {
-      "title": "shahzadp/Project-Alice-Android-by-Alex",
-      "url": "https://github.com/shahzadp/Project-Alice-Android-by-Alex",
-      "source_name": "GitHub: Android ports",
-      "published": "2026-11-07T19:16:10Z",
-      "summary": "Android port of Project Alice - the open-source engine for playing Victoria 2. Requires a copy of Victoria 2; game assets are NOT included. Topics: android, game-engine, gpl-3, victoria-2",
+      "title": "WitherBlitz/nsmbw-profiler",
+      "url": "https://github.com/WitherBlitz/nsmbw-profiler",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-08T03:57:01Z",
+      "summary": "Profiles the NSMBW recompilation on an Android phone over adb: plays each world's level 1 and records CPU, GPU, frame times and the game's own profiler into one zip.",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-07T23:33:32.570828+00:00",
-      "check": null,
-      "category": "android",
-      "platforms_guess": [
-        "Android"
-      ],
-      "category_evidence": {
-        "browser_terms": [],
-        "android_terms": [
-          "android",
-          "android port"
-        ],
-        "pc_terms": [],
-        "other_platform_terms": []
-      },
-      "build_links": [],
-      "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
-      ],
-      "relevance_score": 11,
-      "relevance_status": "promising",
-      "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
-        "Есть игровые/платформенные признаки: game, android"
-      ]
-    },
-    {
-      "title": "shahzadp/DoL-by-Alex",
-      "url": "https://github.com/shahzadp/DoL-by-Alex",
-      "source_name": "GitHub: Android ports",
-      "published": "2026-11-07T19:58:22Z",
-      "summary": "Android port of Degrees of Lewdity - SugarCube/Twine adult game (CC BY-NC-SA 4.0). Community fork for Android; attribution required, non-commercial. Not affiliated with upstream. Topics: android, cc-by-nc-sa, degrees-of-lewdity, twine",
-      "status": "unverified",
-      "browser_playable": "unknown",
-      "found_at": "2026-11-07T23:33:32.569763+00:00",
-      "check": null,
-      "category": "android",
-      "platforms_guess": [
-        "Android"
-      ],
-      "category_evidence": {
-        "browser_terms": [],
-        "android_terms": [
-          "android",
-          "android port"
-        ],
-        "pc_terms": [],
-        "other_platform_terms": []
-      },
-      "build_links": [],
-      "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
-      ],
-      "relevance_score": 11,
-      "relevance_status": "promising",
-      "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
-        "Есть игровые/платформенные признаки: game, android"
-      ]
-    },
-    {
-      "title": "Nazatric/Re-Port",
-      "url": "https://github.com/Nazatric/Re-Port",
-      "source_name": "GitHub: Android ports",
-      "published": "2026-11-07T20:08:31Z",
-      "summary": "Android Game Ports Put Into A Beautiful App Topics: android, open-source, port, recomp, recompilation, user-interface, vulkan",
-      "status": "unverified",
-      "browser_playable": "unknown",
-      "found_at": "2026-11-07T23:33:32.568843+00:00",
+      "found_at": "2026-11-08T11:49:10.135399+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -104,6 +36,877 @@
       ]
     },
     {
+      "title": "Brandon04Gonzalez/p4g-android",
+      "url": "https://github.com/Brandon04Gonzalez/p4g-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-08T03:52:50Z",
+      "summary": "Persona 4 Golden for Android: a native port that runs your own dump (the APK holds no game code or data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:08.465593+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: native port",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "Brandon04Gonzalez/p4au-android",
+      "url": "https://github.com/Brandon04Gonzalez/p4au-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-08T04:20:50Z",
+      "summary": "Persona 4 Arena Ultimax for Android: a native port that runs your own dump (the APK holds no game code or data). Online play coming soon.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:08.464973+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: native port",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "Brandon04Gonzalez/nier-android",
+      "url": "https://github.com/Brandon04Gonzalez/nier-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-08T05:05:38Z",
+      "summary": "NieR:Automata for Android: a native port that runs your own dump, prepared on the phone (the APK holds no game code or data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:08.464309+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: native port",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "11NU0/taisei-android",
+      "url": "https://github.com/11NU0/taisei-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-08T06:17:34Z",
+      "summary": "Android port of Taisei Project — an open-source Touhou Project danmaku (bullet hell) fan-game Topics: android, bullet-hell, danmaku, game, sdl3, shmup, touhou, touhou-project",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:08.463312+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Brandon04Gonzalez/pq-android",
+      "url": "https://github.com/Brandon04Gonzalez/pq-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-08T06:36:19Z",
+      "summary": "Persona Q for Android: a native port that recompiles your own game on the phone (the APK holds no game code or data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:08.462538+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, native port",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "xXNukem/Extremis-RE",
+      "url": "https://github.com/xXNukem/Extremis-RE",
+      "source_name": "GitHub: source ports",
+      "published": "2026-11-08T00:03:46Z",
+      "summary": "In Extremis (1993) PC game source port in development. Topics: forgotten-game, in-extremis, old-school-fps, sdl, sdl2, sdl3, source-port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:05.152873+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 7,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port, source-port",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "randomize6711/csx-recomp",
+      "url": "https://github.com/randomize6711/csx-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T03:48:54Z",
+      "summary": "Unofficial native PC port of Counter-Strike (Xbox, 2003) by static recompilation. No game files included: bring your own default.xbe (MS-054, PAL).",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:03.387616+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Guuzzeji/otogi-xunchain",
+      "url": "https://github.com/Guuzzeji/otogi-xunchain",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T04:08:11Z",
+      "summary": "Otogi: Myth of Demons natively recompiled for Windows PC. Static recompilation of the original Xbox game (no emulator) with widescreen, high frame rates and up to 4x resolution. Bring your own disc. Topics: angle, fromsoftware, game-preservation, opengl-es, original-xbox, otogi, otogi-myth-of-demons, pc-port, recomp, recompilation, static-recompilation, xbox, xboxrecomp, zig",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:03.386716+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "gcerkez/comet-crash-re",
+      "url": "https://github.com/gcerkez/comet-crash-re",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T08:04:09Z",
+      "summary": "Comet Crash (PS3) reconstruction: native port + static recompilation tooling. Bring your own game dump; no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:03.385842+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "ramaaonly/ramaaonly.github.io",
+      "url": "https://github.com/ramaaonly/ramaaonly.github.io",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T04:33:38Z",
+      "summary": "Play Need for Speed: Most Wanted (2005) natively on Apple Silicon Macs via static recompilation—no emulator or Wine; build from your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:03.385092+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "WitherBlitz/NSMB-Wii-Recompilation",
+      "url": "https://github.com/WitherBlitz/NSMB-Wii-Recompilation",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T05:02:04Z",
+      "summary": "New Super Mario Bros. Wii running natively on Android and Windows: a static recompilation built on WiiCompiled. Bring your own game. Languages: English, Spanish (Español), French (Français).",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:03.384203+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "kayochiaradia/mtf-recomp",
+      "url": "https://github.com/kayochiaradia/mtf-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T05:18:48Z",
+      "summary": "MTF Recomp: a static recompilation of Mario Tennis Fever (Switch 2) into a native Windows x86-64 application. No game files included. Topics: recompilation, static-recompilation, vulkan, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:03.383341+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "fasipe/Castlevania-COD-QOL",
+      "url": "https://github.com/fasipe/Castlevania-COD-QOL",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T06:22:06Z",
+      "summary": "Unofficial native PC port of Castlevania: Curse of Darkness (PS2) by static recompilation: up to 4x resolution, widescreen, texture filtering, minimap, sprint and more. Requires your own copy of the game. Topics: castlevania, castlevania-curse-of-darkness, konami, pc-port, ps2, recompilation, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:03.382441+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "ZuanCrisp/Pokopia-Recomp-Port",
+      "url": "https://github.com/ZuanCrisp/Pokopia-Recomp-Port",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T07:43:17Z",
+      "summary": "Static recompilation of Pokopia to native Windows x86-64, with a Vulkan renderer. Dump your own Switch Game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:03.381618+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "Unkn0wnAli4n/TOoT-R",
+      "url": "https://github.com/Unkn0wnAli4n/TOoT-R",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T09:01:54Z",
+      "summary": "Native PC port of Ocarina of Time (Switch 2) by static recompilation, built from your own copy of the game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:03.381018+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "rzrbld/ReRED_Faction_Duo",
+      "url": "https://github.com/rzrbld/ReRED_Faction_Duo",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T09:03:40Z",
+      "summary": "ReRed Faction II — ARM64 Linux port of Red Faction II (2003), using static recompilation, SDL2 and OpenGL ES. Players supply their own game (GOG.com). Topics: airecompilation, arm64, first-person-shooter, fps, game, game-dev, game-development, gameport, games, portmaster, recompilation, recompile, recompiled, shooter, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:03.380044+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "sunsided/games.markusmayer.dev",
+      "url": "https://github.com/sunsided/games.markusmayer.dev",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-08T01:26:27Z",
+      "summary": "games.markusmayer.dev — my games, with the browser builds playable in place; game repos announce releases and the site picks them up Topics: browser-games, games, github-actions, personal-website, release-automation, static-site, sveltekit, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:48:59.951768+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, playable, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "c60751003/playgta5",
+      "url": "https://github.com/c60751003/playgta5",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-08T07:30:22Z",
+      "summary": "Archive and run the original V1 playgta5.com GTA5 browser port locally with this preserved source code. Topics: chrome, game, gaming, go, gtaiv, hotfix, localhost, macos, mods, securom, webgpu, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:48:55.853726+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "shahzadp/Project-Alice-Android-by-Alex",
+      "url": "https://github.com/shahzadp/Project-Alice-Android-by-Alex",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-07T19:16:10Z",
+      "summary": "Android port of Project Alice - the open-source engine for playing Victoria 2. Requires a copy of Victoria 2; game assets are NOT included. Topics: android, game-engine, gpl-3, victoria-2",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T23:33:32.570828+00:00",
+      "check": {
+        "checked_at": "2026-11-08T11:49:11.645380+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Android port of Project Alice - the open-source engine for playing Victoria 2. Requires a copy of Victoria 2; game assets are NOT included.",
+        "latest_release_url": "https://github.com/shahzadp/Project-Alice-Android-by-Alex/releases/tag/v0.6",
+        "latest_release_name": "Project Alice 0.6 (Android)",
+        "release_assets": [
+          {
+            "name": "app-release.apk",
+            "url": "https://github.com/shahzadp/Project-Alice-Android-by-Alex/releases/download/v0.6/app-release.apk",
+            "size": 75199023
+          }
+        ],
+        "releases": [
+          {
+            "name": "Project Alice 0.6 (Android)",
+            "url": "https://github.com/shahzadp/Project-Alice-Android-by-Alex/releases/tag/v0.6",
+            "published_at": "2026-11-07T19:16:10Z",
+            "assets": [
+              {
+                "name": "app-release.apk",
+                "url": "https://github.com/shahzadp/Project-Alice-Android-by-Alex/releases/download/v0.6/app-release.apk",
+                "size": 75199023
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "app-release.apk",
+          "url": "https://github.com/shahzadp/Project-Alice-Android-by-Alex/releases/download/v0.6/app-release.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "shahzadp/DoL-by-Alex",
+      "url": "https://github.com/shahzadp/DoL-by-Alex",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-07T19:58:22Z",
+      "summary": "Android port of Degrees of Lewdity - SugarCube/Twine adult game (CC BY-NC-SA 4.0). Community fork for Android; attribution required, non-commercial. Not affiliated with upstream. Topics: android, cc-by-nc-sa, degrees-of-lewdity, twine",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T23:33:32.569763+00:00",
+      "check": {
+        "checked_at": "2026-11-08T11:49:12.980328+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Android port of Degrees of Lewdity - SugarCube/Twine adult game (CC BY-NC-SA 4.0). Community fork for Android; attribution required, non-commercial. Not affiliated with upstream.",
+        "latest_release_url": "https://github.com/shahzadp/DoL-by-Alex/releases/tag/v0.5.13.8",
+        "latest_release_name": "DoL by Alex 0.5.13.8 (Android)",
+        "release_assets": [
+          {
+            "name": "Degrees.of.Lewdity.VERSION.html",
+            "url": "https://github.com/shahzadp/DoL-by-Alex/releases/download/v0.5.13.8/Degrees.of.Lewdity.VERSION.html",
+            "size": 54342090
+          },
+          {
+            "name": "DoL-by-Alex-0.5.13.8-release.apk",
+            "url": "https://github.com/shahzadp/DoL-by-Alex/releases/download/v0.5.13.8/DoL-by-Alex-0.5.13.8-release.apk",
+            "size": 39622238
+          }
+        ],
+        "releases": [
+          {
+            "name": "DoL by Alex 0.5.13.8 (Android)",
+            "url": "https://github.com/shahzadp/DoL-by-Alex/releases/tag/v0.5.13.8",
+            "published_at": "2026-11-08T00:54:12Z",
+            "assets": [
+              {
+                "name": "Degrees.of.Lewdity.VERSION.html",
+                "url": "https://github.com/shahzadp/DoL-by-Alex/releases/download/v0.5.13.8/Degrees.of.Lewdity.VERSION.html",
+                "size": 54342090
+              },
+              {
+                "name": "DoL-by-Alex-0.5.13.8-release.apk",
+                "url": "https://github.com/shahzadp/DoL-by-Alex/releases/download/v0.5.13.8/DoL-by-Alex-0.5.13.8-release.apk",
+                "size": 39622238
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "DoL by Alex 0.5.13.6 (Android)",
+            "url": "https://github.com/shahzadp/DoL-by-Alex/releases/tag/v0.5.13.6",
+            "published_at": "2026-11-07T19:58:22Z",
+            "assets": [
+              {
+                "name": "Degrees.of.Lewdity.VERSION.html",
+                "url": "https://github.com/shahzadp/DoL-by-Alex/releases/download/v0.5.13.6/Degrees.of.Lewdity.VERSION.html",
+                "size": 52963199
+              },
+              {
+                "name": "DoL-by-Alex-0.5.13.6-release.apk",
+                "url": "https://github.com/shahzadp/DoL-by-Alex/releases/download/v0.5.13.6/DoL-by-Alex-0.5.13.6-release.apk",
+                "size": 39615875
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "Degrees.of.Lewdity.VERSION.html",
+          "url": "https://github.com/shahzadp/DoL-by-Alex/releases/download/v0.5.13.8/Degrees.of.Lewdity.VERSION.html",
+          "type": "html_file"
+        },
+        {
+          "name": "DoL-by-Alex-0.5.13.8-release.apk",
+          "url": "https://github.com/shahzadp/DoL-by-Alex/releases/download/v0.5.13.8/DoL-by-Alex-0.5.13.8-release.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "Degrees.of.Lewdity.VERSION.html",
+          "url": "https://github.com/shahzadp/DoL-by-Alex/releases/download/v0.5.13.6/Degrees.of.Lewdity.VERSION.html",
+          "type": "html_file"
+        },
+        {
+          "name": "DoL-by-Alex-0.5.13.6-release.apk",
+          "url": "https://github.com/shahzadp/DoL-by-Alex/releases/download/v0.5.13.6/DoL-by-Alex-0.5.13.6-release.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Nazatric/Re-Port",
+      "url": "https://github.com/Nazatric/Re-Port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-07T20:08:31Z",
+      "summary": "Android Game Ports Put Into A Beautiful App Topics: android, open-source, port, recomp, recompilation, user-interface, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-07T23:33:32.568843+00:00",
+      "check": {
+        "checked_at": "2026-11-08T11:49:14.280896+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Android Game Ports Put Into A Beautiful App",
+        "latest_release_url": "https://github.com/Nazatric/Re-Port/releases/tag/v1.0",
+        "latest_release_name": "Re:Port V1.0",
+        "release_assets": [
+          {
+            "name": "RePort-V1.0-Universal.apk",
+            "url": "https://github.com/Nazatric/Re-Port/releases/download/v1.0/RePort-V1.0-Universal.apk",
+            "size": 5422316
+          }
+        ],
+        "releases": [
+          {
+            "name": "Re:Port V1.0",
+            "url": "https://github.com/Nazatric/Re-Port/releases/tag/v1.0",
+            "published_at": "2026-11-07T19:50:14Z",
+            "assets": [
+              {
+                "name": "RePort-V1.0-Universal.apk",
+                "url": "https://github.com/Nazatric/Re-Port/releases/download/v1.0/RePort-V1.0-Universal.apk",
+                "size": 5422316
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "RePort-V1.0-Universal.apk",
+          "url": "https://github.com/Nazatric/Re-Port/releases/download/v1.0/RePort-V1.0-Universal.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
       "title": "SayaModding/battle-of-z-pc",
       "url": "https://github.com/SayaModding/battle-of-z-pc",
       "source_name": "GitHub: static recompilation",
@@ -112,7 +915,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T23:33:27.552363+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-08T11:49:15.624256+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 503; проверку нужно повторить."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -145,7 +964,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T23:33:27.551527+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-08T11:49:20.139885+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 503; проверку нужно повторить."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -181,7 +1016,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T23:33:27.550554+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-08T11:49:24.658195+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 503; проверку нужно повторить."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -215,7 +1066,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T23:33:20.426008+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-08T11:49:29.173669+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 503; проверку нужно повторить."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -1346,7 +2213,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-07T11:37:03.782927+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-08T11:49:33.690069+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 503; проверку нужно повторить."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
