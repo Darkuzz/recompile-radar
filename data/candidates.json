@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-08T11:49:38.207776+00:00",
+  "last_updated": "2026-11-08T17:51:45.685808+00:00",
   "candidates": [
     {
-      "title": "WitherBlitz/nsmbw-profiler",
-      "url": "https://github.com/WitherBlitz/nsmbw-profiler",
-      "source_name": "GitHub: Android recompilation",
-      "published": "2026-11-08T03:57:01Z",
-      "summary": "Profiles the NSMBW recompilation on an Android phone over adb: plays each world's level 1 and records CPU, GPU, frame times and the game's own profiler into one zip.",
+      "title": "gabrielbskk/mcla-recomp-rv",
+      "url": "https://github.com/gabrielbskk/mcla-recomp-rv",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-08T12:55:59Z",
+      "summary": "Experimental native Android ARM64 port of MCLA Recomp (C++23, SDL3, Vulkan); user-supplied game files required Topics: android, arm64, sdl3, static-recompilation, vulkan, xbox360",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-08T11:49:10.135399+00:00",
+      "found_at": "2026-11-08T17:51:32.114171+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -28,22 +28,22 @@
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
       ],
-      "relevance_score": 8,
+      "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
     {
-      "title": "Brandon04Gonzalez/p4g-android",
-      "url": "https://github.com/Brandon04Gonzalez/p4g-android",
+      "title": "enjoyerofslop/droidnative",
+      "url": "https://github.com/enjoyerofslop/droidnative",
       "source_name": "GitHub: Android ports",
-      "published": "2026-11-08T03:52:50Z",
-      "summary": "Persona 4 Golden for Android: a native port that runs your own dump (the APK holds no game code or data)",
+      "published": "2026-11-08T16:44:59Z",
+      "summary": "Nintendo Switch and Switch 2 games running natively on Android, replayed on Vulkan: nxnative with an Android port. Bring your own game. Topics: android, native, nintendo-switch, switch2, vulkan",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-08T11:49:08.465593+00:00",
+      "found_at": "2026-11-08T17:51:32.112798+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -52,97 +52,35 @@
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [
-          "android"
+          "android",
+          "android port"
         ],
         "pc_terms": [],
-        "other_platform_terms": []
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
       },
       "build_links": [],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
       ],
-      "relevance_score": 6,
+      "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: native port",
-        "Есть игровые/платформенные признаки: game, android, apk"
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
       ]
     },
     {
-      "title": "Brandon04Gonzalez/p4au-android",
-      "url": "https://github.com/Brandon04Gonzalez/p4au-android",
+      "title": "blackorange-sketch/RA3-Native",
+      "url": "https://github.com/blackorange-sketch/RA3-Native",
       "source_name": "GitHub: Android ports",
-      "published": "2026-11-08T04:20:50Z",
-      "summary": "Persona 4 Arena Ultimax for Android: a native port that runs your own dump (the APK holds no game code or data). Online play coming soon.",
+      "published": "2026-11-08T16:53:14Z",
+      "summary": "Native Android port of Red Alert 3 (tools only, no game files)",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-08T11:49:08.464973+00:00",
-      "check": null,
-      "category": "android",
-      "platforms_guess": [
-        "Android"
-      ],
-      "category_evidence": {
-        "browser_terms": [],
-        "android_terms": [
-          "android"
-        ],
-        "pc_terms": [],
-        "other_platform_terms": []
-      },
-      "build_links": [],
-      "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
-      ],
-      "relevance_score": 6,
-      "relevance_status": "promising",
-      "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: native port",
-        "Есть игровые/платформенные признаки: game, android, apk"
-      ]
-    },
-    {
-      "title": "Brandon04Gonzalez/nier-android",
-      "url": "https://github.com/Brandon04Gonzalez/nier-android",
-      "source_name": "GitHub: Android ports",
-      "published": "2026-11-08T05:05:38Z",
-      "summary": "NieR:Automata for Android: a native port that runs your own dump, prepared on the phone (the APK holds no game code or data)",
-      "status": "unverified",
-      "browser_playable": "unknown",
-      "found_at": "2026-11-08T11:49:08.464309+00:00",
-      "check": null,
-      "category": "android",
-      "platforms_guess": [
-        "Android"
-      ],
-      "category_evidence": {
-        "browser_terms": [],
-        "android_terms": [
-          "android"
-        ],
-        "pc_terms": [],
-        "other_platform_terms": []
-      },
-      "build_links": [],
-      "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
-      ],
-      "relevance_score": 6,
-      "relevance_status": "promising",
-      "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: native port",
-        "Есть игровые/платформенные признаки: game, android, apk"
-      ]
-    },
-    {
-      "title": "11NU0/taisei-android",
-      "url": "https://github.com/11NU0/taisei-android",
-      "source_name": "GitHub: Android ports",
-      "published": "2026-11-08T06:17:34Z",
-      "summary": "Android port of Taisei Project — an open-source Touhou Project danmaku (bullet hell) fan-game Topics: android, bullet-hell, danmaku, game, sdl3, shmup, touhou, touhou-project",
-      "status": "unverified",
-      "browser_playable": "unknown",
-      "found_at": "2026-11-08T11:49:08.463312+00:00",
+      "found_at": "2026-11-08T17:51:32.112008+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -169,15 +107,481 @@
       ]
     },
     {
-      "title": "Brandon04Gonzalez/pq-android",
-      "url": "https://github.com/Brandon04Gonzalez/pq-android",
+      "title": "kookyharsh/landdroid",
+      "url": "https://github.com/kookyharsh/landdroid",
       "source_name": "GitHub: Android ports",
-      "published": "2026-11-08T06:36:19Z",
-      "summary": "Persona Q for Android: a native port that recompiles your own game on the phone (the APK holds no game code or data)",
+      "published": "2026-11-08T17:22:46Z",
+      "summary": "A pure HTML5 Canvas + vanilla JavaScript port of the AOSP Android Easter Egg \"Landroid\" space exploration game",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-08T11:49:08.462538+00:00",
+      "found_at": "2026-11-08T17:51:32.111301+00:00",
       "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "html5"
+        ],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, html5, android"
+      ]
+    },
+    {
+      "title": "DenzoNL/open-freestyle-bmx",
+      "url": "https://github.com/DenzoNL/open-freestyle-bmx",
+      "source_name": "GitHub: source ports",
+      "published": "2026-11-08T15:46:33Z",
+      "summary": "A native, open-source port of the 2000 PC BMX classic: fully rewritten in C, verified against the original, 64-bit, SDL3. Windows and Android, any resolution and frame rate. Requires your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T17:51:28.818226+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "PrimeTimerer/Make-Soccer-Club-Game-Project",
+      "url": "https://github.com/PrimeTimerer/Make-Soccer-Club-Game-Project",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T15:49:58Z",
+      "summary": "Native PC port of Saka Tsuku: Pro Soccer Club o Tsukurou! (PS3, BLJM61064) by static recompilation. No game data included: bring your own disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T17:51:27.061980+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Shijiuwei/totk-pc-recomp-service",
+      "url": "https://github.com/Shijiuwei/totk-pc-recomp-service",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T16:24:43Z",
+      "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included. (Extended cloud-native edition & architecture specifications)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T17:51:27.061013+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "kayliox/transformers-armada-recomp",
+      "url": "https://github.com/kayliox/transformers-armada-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-08T17:50:11Z",
+      "summary": "Transformers (PS2, 2004) as a native PC game: static recompilation from your own disc, native Direct3D 12 renderer, up to 4K / 240 fps / ultrawide. Bring your own disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T17:51:27.059987+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "terry65536/bedrock-touch-ui",
+      "url": "https://github.com/terry65536/bedrock-touch-ui",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-08T13:10:09Z",
+      "summary": "Bedrock-style touch controls for the Eaglercraft 26.2 single-file Minecraft client (MIT, no game files). Topics: bedrock-edition, browser-game, eaglercraft, javascript, minecraft, mobile-gaming, touch-controls, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T17:51:23.524771+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "SgtMetz/fnv-web-recomp",
+      "url": "https://github.com/SgtMetz/fnv-web-recomp",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-08T16:44:37Z",
+      "summary": "Fallout: New Vegas recompiled to WebAssembly and WebGPU, running from your own copy of the game. Built on fnv_decomp. Contains no game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T17:51:23.519067+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
+    {
+      "title": "jhm-ciberman/bugged-out-rally-restored",
+      "url": "https://github.com/jhm-ciberman/bugged-out-rally-restored",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-08T17:50:00Z",
+      "summary": "An unofficial browser port of Bugged Out Rally, a racing game from 2004. Fan restoration.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T17:51:19.280032+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "WitherBlitz/nsmbw-profiler",
+      "url": "https://github.com/WitherBlitz/nsmbw-profiler",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-08T03:57:01Z",
+      "summary": "Profiles the NSMBW recompilation on an Android phone over adb: plays each world's level 1 and records CPU, GPU, frame times and the game's own profiler into one zip.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:10.135399+00:00",
+      "check": {
+        "checked_at": "2026-11-08T17:51:35.479829+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Profiles the NSMBW recompilation on an Android phone over adb: plays each world's level 1 and records CPU, GPU, frame times and the game's own profiler into one zip.",
+        "latest_release_url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/tag/v1.0.1",
+        "latest_release_name": "NSMBW Profiler 1.0.1",
+        "release_assets": [
+          {
+            "name": "NSMBW-Profiler-linux",
+            "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/download/v1.0.1/NSMBW-Profiler-linux",
+            "size": 26479536
+          },
+          {
+            "name": "NSMBW-Profiler-macos.zip",
+            "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/download/v1.0.1/NSMBW-Profiler-macos.zip",
+            "size": 10569999
+          },
+          {
+            "name": "NSMBW-Profiler.exe",
+            "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/download/v1.0.1/NSMBW-Profiler.exe",
+            "size": 13381013
+          }
+        ],
+        "releases": [
+          {
+            "name": "NSMBW Profiler 1.0.1",
+            "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/tag/v1.0.1",
+            "published_at": "2026-11-08T03:57:01Z",
+            "assets": [
+              {
+                "name": "NSMBW-Profiler-linux",
+                "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/download/v1.0.1/NSMBW-Profiler-linux",
+                "size": 26479536
+              },
+              {
+                "name": "NSMBW-Profiler-macos.zip",
+                "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/download/v1.0.1/NSMBW-Profiler-macos.zip",
+                "size": 10569999
+              },
+              {
+                "name": "NSMBW-Profiler.exe",
+                "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/download/v1.0.1/NSMBW-Profiler.exe",
+                "size": 13381013
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "NSMBW Profiler 1.0.0",
+            "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/tag/v1.0.0",
+            "published_at": "2026-11-08T02:56:00Z",
+            "assets": [
+              {
+                "name": "NSMBW-Profiler-linux",
+                "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/download/v1.0.0/NSMBW-Profiler-linux",
+                "size": 26477592
+              },
+              {
+                "name": "NSMBW-Profiler-macos.zip",
+                "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/download/v1.0.0/NSMBW-Profiler-macos.zip",
+                "size": 10569850
+              },
+              {
+                "name": "NSMBW-Profiler.exe",
+                "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/download/v1.0.0/NSMBW-Profiler.exe",
+                "size": 13378089
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "NSMBW-Profiler-linux",
+          "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/download/v1.0.1/NSMBW-Profiler-linux",
+          "type": "other_file"
+        },
+        {
+          "name": "NSMBW-Profiler-macos.zip",
+          "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/download/v1.0.1/NSMBW-Profiler-macos.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NSMBW-Profiler.exe",
+          "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/download/v1.0.1/NSMBW-Profiler.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "NSMBW-Profiler-linux",
+          "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/download/v1.0.0/NSMBW-Profiler-linux",
+          "type": "other_file"
+        },
+        {
+          "name": "NSMBW-Profiler-macos.zip",
+          "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/download/v1.0.0/NSMBW-Profiler-macos.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NSMBW-Profiler.exe",
+          "url": "https://github.com/WitherBlitz/nsmbw-profiler/releases/download/v1.0.0/NSMBW-Profiler.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Brandon04Gonzalez/p4g-android",
+      "url": "https://github.com/Brandon04Gonzalez/p4g-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-08T03:52:50Z",
+      "summary": "Persona 4 Golden for Android: a native port that runs your own dump (the APK holds no game code or data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:08.465593+00:00",
+      "check": {
+        "checked_at": "2026-11-08T17:51:36.805898+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Persona 4 Golden for Android: a native port that runs your own dump (the APK holds no game code or data)",
+        "latest_release_url": "https://github.com/Brandon04Gonzalez/p4g-android/releases/tag/v0.3.3",
+        "latest_release_name": "v0.3.3: first public release",
+        "release_assets": [
+          {
+            "name": "p4g.apk",
+            "url": "https://github.com/Brandon04Gonzalez/p4g-android/releases/download/v0.3.3/p4g.apk",
+            "size": 3742434
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.3.3: first public release",
+            "url": "https://github.com/Brandon04Gonzalez/p4g-android/releases/tag/v0.3.3",
+            "published_at": "2026-11-08T03:52:51Z",
+            "assets": [
+              {
+                "name": "p4g.apk",
+                "url": "https://github.com/Brandon04Gonzalez/p4g-android/releases/download/v0.3.3/p4g.apk",
+                "size": 3742434
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -190,9 +594,348 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "p4g.apk",
+          "url": "https://github.com/Brandon04Gonzalez/p4g-android/releases/download/v0.3.3/p4g.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: native port",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "Brandon04Gonzalez/p4au-android",
+      "url": "https://github.com/Brandon04Gonzalez/p4au-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-08T04:20:50Z",
+      "summary": "Persona 4 Arena Ultimax for Android: a native port that runs your own dump (the APK holds no game code or data). Online play coming soon.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:08.464973+00:00",
+      "check": {
+        "checked_at": "2026-11-08T17:51:38.083070+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Persona 4 Arena Ultimax for Android: a native port that runs your own dump (the APK holds no game code or data). Online play coming soon.",
+        "latest_release_url": "https://github.com/Brandon04Gonzalez/p4au-android/releases/tag/v0.3.3",
+        "latest_release_name": "v0.3.3: native port, offline (online coming soon)",
+        "release_assets": [
+          {
+            "name": "p4au.apk",
+            "url": "https://github.com/Brandon04Gonzalez/p4au-android/releases/download/v0.3.3/p4au.apk",
+            "size": 3701476
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.3.3: native port, offline (online coming soon)",
+            "url": "https://github.com/Brandon04Gonzalez/p4au-android/releases/tag/v0.3.3",
+            "published_at": "2026-11-08T04:20:50Z",
+            "assets": [
+              {
+                "name": "p4au.apk",
+                "url": "https://github.com/Brandon04Gonzalez/p4au-android/releases/download/v0.3.3/p4au.apk",
+                "size": 3701476
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "p4au.apk",
+          "url": "https://github.com/Brandon04Gonzalez/p4au-android/releases/download/v0.3.3/p4au.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: native port",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "Brandon04Gonzalez/nier-android",
+      "url": "https://github.com/Brandon04Gonzalez/nier-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-08T05:05:38Z",
+      "summary": "NieR:Automata for Android: a native port that runs your own dump, prepared on the phone (the APK holds no game code or data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:08.464309+00:00",
+      "check": {
+        "checked_at": "2026-11-08T17:51:39.350114+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "NieR:Automata for Android: a native port that runs your own dump, prepared on the phone (the APK holds no game code or data)",
+        "latest_release_url": "https://github.com/Brandon04Gonzalez/nier-android/releases/tag/v0.2.0",
+        "latest_release_name": "v0.2.0: prepare the game on the phone, no PC needed",
+        "release_assets": [
+          {
+            "name": "nier.apk",
+            "url": "https://github.com/Brandon04Gonzalez/nier-android/releases/download/v0.2.0/nier.apk",
+            "size": 3782474
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.2.0: prepare the game on the phone, no PC needed",
+            "url": "https://github.com/Brandon04Gonzalez/nier-android/releases/tag/v0.2.0",
+            "published_at": "2026-11-08T05:04:40Z",
+            "assets": [
+              {
+                "name": "nier.apk",
+                "url": "https://github.com/Brandon04Gonzalez/nier-android/releases/download/v0.2.0/nier.apk",
+                "size": 3782474
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.0: first public preview",
+            "url": "https://github.com/Brandon04Gonzalez/nier-android/releases/tag/v0.1.0",
+            "published_at": "2026-11-08T03:55:10Z",
+            "assets": [
+              {
+                "name": "nier.apk",
+                "url": "https://github.com/Brandon04Gonzalez/nier-android/releases/download/v0.1.0/nier.apk",
+                "size": 1476272
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "nier.apk",
+          "url": "https://github.com/Brandon04Gonzalez/nier-android/releases/download/v0.2.0/nier.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "nier.apk",
+          "url": "https://github.com/Brandon04Gonzalez/nier-android/releases/download/v0.1.0/nier.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: native port",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "11NU0/taisei-android",
+      "url": "https://github.com/11NU0/taisei-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-08T06:17:34Z",
+      "summary": "Android port of Taisei Project — an open-source Touhou Project danmaku (bullet hell) fan-game Topics: android, bullet-hell, danmaku, game, sdl3, shmup, touhou, touhou-project",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:08.463312+00:00",
+      "check": {
+        "checked_at": "2026-11-08T17:51:40.661903+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Android port of Taisei Project — an open-source Touhou Project danmaku (bullet hell) fan-game",
+        "latest_release_url": "https://github.com/11NU0/taisei-android/releases/tag/v1.0",
+        "latest_release_name": "v1.0 - Android port",
+        "release_assets": [
+          {
+            "name": "taisei-android.apk",
+            "url": "https://github.com/11NU0/taisei-android/releases/download/v1.0/taisei-android.apk",
+            "size": 229082325
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.0 - Android port",
+            "url": "https://github.com/11NU0/taisei-android/releases/tag/v1.0",
+            "published_at": "2026-11-08T06:17:35Z",
+            "assets": [
+              {
+                "name": "taisei-android.apk",
+                "url": "https://github.com/11NU0/taisei-android/releases/download/v1.0/taisei-android.apk",
+                "size": 229082325
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "taisei-android.apk",
+          "url": "https://github.com/11NU0/taisei-android/releases/download/v1.0/taisei-android.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Brandon04Gonzalez/pq-android",
+      "url": "https://github.com/Brandon04Gonzalez/pq-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-08T06:36:19Z",
+      "summary": "Persona Q for Android: a native port that recompiles your own game on the phone (the APK holds no game code or data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-08T11:49:08.462538+00:00",
+      "check": {
+        "checked_at": "2026-11-08T17:51:41.936657+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Persona Q for Android: a native port that recompiles your own game on the phone (the APK holds no game code or data)",
+        "latest_release_url": "https://github.com/Brandon04Gonzalez/pq-android/releases/tag/v0.5.0",
+        "latest_release_name": "v0.5.0: the game recompiled on your phone, no game code in the APK",
+        "release_assets": [
+          {
+            "name": "PersonaQ.apk",
+            "url": "https://github.com/Brandon04Gonzalez/pq-android/releases/download/v0.5.0/PersonaQ.apk",
+            "size": 72249972
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.5.0: the game recompiled on your phone, no game code in the APK",
+            "url": "https://github.com/Brandon04Gonzalez/pq-android/releases/tag/v0.5.0",
+            "published_at": "2026-11-08T06:36:20Z",
+            "assets": [
+              {
+                "name": "PersonaQ.apk",
+                "url": "https://github.com/Brandon04Gonzalez/pq-android/releases/download/v0.5.0/PersonaQ.apk",
+                "size": 72249972
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "PersonaQ.apk",
+          "url": "https://github.com/Brandon04Gonzalez/pq-android/releases/download/v0.5.0/PersonaQ.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -210,7 +953,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T11:49:05.152873+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-08T17:51:43.207012+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "In Extremis (1993) PC game source port in development.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -237,7 +997,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T11:49:03.387616+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-08T17:51:44.446409+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native PC port of Counter-Strike (Xbox, 2003) by static recompilation. No game files included: bring your own default.xbe (MS-054, PAL).",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
