@@ -1,7 +1,373 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-08T23:34:16.872802+00:00",
+  "last_updated": "2026-11-09T13:44:34.756223+00:00",
   "candidates": [
+    {
+      "title": "Grunttanamo/KarPur",
+      "url": "https://github.com/Grunttanamo/KarPur",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-09T09:14:07Z",
+      "summary": "Native Windows port of Pokémon Scarlet/Violet (Switch), static recompilation, built on LAS Recomp and TotK Recomp. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-09T13:44:11.533972+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "ArthurReboulSalze/RetroRecomp",
+      "url": "https://github.com/ArthurReboulSalze/RetroRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-09T09:53:57Z",
+      "summary": "Static recompilation of your own retro game dumps into standalone Windows and Linux executables, as native as possible, with a counted interpreter fallback. Sixteen machines, from Master System to PlayStation (six experimental), plus ScummVM adventure games (emulated). Optional enhancements, eight languages and a shared learning loop. Topics: amiga, arcade, atari, capcom, game-boy, game-boy-advance, game-gear, game-porting, master-system, mega-drive, n64, neogeo, nes, pc-engine, playstation, recompiler, scummvm, snes, static-recompilation, x68000",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-09T13:44:11.532913+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "STS78721/MKW-THWOMP",
+      "url": "https://github.com/STS78721/MKW-THWOMP",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-09T10:04:19Z",
+      "summary": "Static recompilation of Mario Kart World (Switch 2) to native Windows with Vulkan. The Intro renders , graphical issues still ; not playable yet. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-09T13:44:11.531862+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable, windows"
+      ]
+    },
+    {
+      "title": "rzrbld/TheFamilia",
+      "url": "https://github.com/rzrbld/TheFamilia",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-09T10:11:14Z",
+      "summary": "The Familia — ARM64 Linux port of Mafia: The City of Lost Heaven (2002), using static recompilation, SDL2 and OpenGL ES. Players supply their own game files. Topics: airecompilation, arm64, driving, game, game-dev, game-development, gameport, games, mafia, open-world, portmaster, recompilation, recompile, recompiled, static-recompilation, third-person-shooter",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-09T13:44:11.530803+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "Spaced1127/GameCube-Static-Recomp-Guide",
+      "url": "https://github.com/Spaced1127/GameCube-Static-Recomp-Guide",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-09T12:29:13Z",
+      "summary": "Practical GameCube static recompilation reference: DolRecomp, ModernGekko/Dolphin, PGO, performance, RecompLauncher, release. Topics: dolphin-emu, dolrecomp, gamecube, moderngekko, pgo, recomplauncher, reverse-engineering, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-09T13:44:11.529627+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording"
+      ]
+    },
+    {
+      "title": "DivxPlays/stilwater-recompiled",
+      "url": "https://github.com/DivxPlays/stilwater-recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-09T12:44:10Z",
+      "summary": "Saints Row (Xbox 360, 2006) as a native PC port, by static recompilation with ReXGlue. Bring your own disc: the launcher builds it. No game data included. Made with the help of AI. Topics: game-port, pc-port, recompilation, rexglue, saints-row, static-recompilation, xbox-360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-09T13:44:11.528663+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "ZuanCrisp/NX2Navi-Zelda-OOT-Port",
+      "url": "https://github.com/ZuanCrisp/NX2Navi-Zelda-OOT-Port",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-09T12:44:56Z",
+      "summary": "NX2navi is a static recompilation of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 (game version 1.1.1) into a native x86-64 application for Windows, with a Vulkan renderer.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-09T13:44:11.527789+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "rigaz29/Ascension-R",
+      "url": "https://github.com/rigaz29/Ascension-R",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-09T13:13:50Z",
+      "summary": "God of War: Ascension (PS3, NPUA80918) static recompilation to native Windows on ps3recomp. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-09T13:44:11.527073+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "SerenityG4K/starfox-command-native",
+      "url": "https://github.com/SerenityG4K/starfox-command-native",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-09T13:30:21Z",
+      "summary": "Native PC port of Star Fox Command (Nintendo DS) by static recompilation — bring your own European ROM; the game is built on your PC.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-09T13:44:11.526334+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom"
+      ]
+    },
+    {
+      "title": "MohamedAliSalam/TicTacToe-Blazor",
+      "url": "https://github.com/MohamedAliSalam/TicTacToe-Blazor",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-09T07:45:43Z",
+      "summary": "Tic-Tac-Toe in the browser: two-player mode or a computer opponent that wins when it can and blocks when it must. Blazor WebAssembly. Topics: blazor, blazor-webassembly, csharp, dotnet, game, tic-tac-toe",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-09T13:44:07.082897+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "ediskandarov/tm4_rewired",
+      "url": "https://github.com/ediskandarov/tm4_rewired",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-09T07:51:57Z",
+      "summary": "Twisted Metal 4 browser port powered by PsyZ and WebAssembly. Bring your own game disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-09T13:44:02.253846+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
     {
       "title": "thurahtetaung/contradiction-android",
       "url": "https://github.com/thurahtetaung/contradiction-android",
@@ -11,7 +377,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T23:34:02.739238+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-09T13:44:21.812532+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Android port adapter for a locally supplied Contradiction game copy, with touch controls and video import",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +428,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T23:33:57.339901+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-09T13:44:23.375009+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Linux/PC port of Skylanders: Spyro's Adventure (Xbox 360) via ReXGlue static recompilation. A starting point; bring your own copy of the game.",
+        "latest_release_url": "https://github.com/Starkka15/skylanders-sa-pc/releases/tag/v0.1.0",
+        "latest_release_name": "0.1.0",
+        "release_assets": [
+          {
+            "name": "skylanders_sa-linux-x86_64-0.1.0.tar.gz",
+            "url": "https://github.com/Starkka15/skylanders-sa-pc/releases/download/v0.1.0/skylanders_sa-linux-x86_64-0.1.0.tar.gz",
+            "size": 69792264
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.1.0",
+            "url": "https://github.com/Starkka15/skylanders-sa-pc/releases/tag/v0.1.0",
+            "published_at": "2026-11-08T20:01:02Z",
+            "assets": [
+              {
+                "name": "skylanders_sa-linux-x86_64-0.1.0.tar.gz",
+                "url": "https://github.com/Starkka15/skylanders-sa-pc/releases/download/v0.1.0/skylanders_sa-linux-x86_64-0.1.0.tar.gz",
+                "size": 69792264
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -59,9 +480,16 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "skylanders_sa-linux-x86_64-0.1.0.tar.gz",
+          "url": "https://github.com/Starkka15/skylanders-sa-pc/releases/download/v0.1.0/skylanders_sa-linux-x86_64-0.1.0.tar.gz",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -79,7 +507,73 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T23:33:57.339369+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-09T13:44:24.958122+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of the SNES game Magical Pop'n into a native Windows game, built from your own ROM. Motion smoothing, native widescreen.",
+        "latest_release_url": "https://github.com/looking-glassinsects/MagicalPopnRecomp/releases/tag/v0.9.2",
+        "latest_release_name": "Magical Pop'n Builder v0.9.2",
+        "release_assets": [
+          {
+            "name": "MagicalPopn-Builder.zip",
+            "url": "https://github.com/looking-glassinsects/MagicalPopnRecomp/releases/download/v0.9.2/MagicalPopn-Builder.zip",
+            "size": 93171755
+          }
+        ],
+        "releases": [
+          {
+            "name": "Magical Pop'n Builder v0.9.2",
+            "url": "https://github.com/looking-glassinsects/MagicalPopnRecomp/releases/tag/v0.9.2",
+            "published_at": "2026-11-09T00:20:04Z",
+            "assets": [
+              {
+                "name": "MagicalPopn-Builder.zip",
+                "url": "https://github.com/looking-glassinsects/MagicalPopnRecomp/releases/download/v0.9.2/MagicalPopn-Builder.zip",
+                "size": 93171755
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Magical Pop'n Builder v0.9.1",
+            "url": "https://github.com/looking-glassinsects/MagicalPopnRecomp/releases/tag/v0.9.1",
+            "published_at": "2026-11-08T20:08:16Z",
+            "assets": [
+              {
+                "name": "MagicalPopn-Builder.zip",
+                "url": "https://github.com/looking-glassinsects/MagicalPopnRecomp/releases/download/v0.9.1/MagicalPopn-Builder.zip",
+                "size": 93169169
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Magical Pop'n Builder v0.9",
+            "url": "https://github.com/looking-glassinsects/MagicalPopnRecomp/releases/tag/v0.9",
+            "published_at": "2026-11-08T19:00:42Z",
+            "assets": [
+              {
+                "name": "MagicalPopn-Builder.zip",
+                "url": "https://github.com/looking-glassinsects/MagicalPopnRecomp/releases/download/v0.9/MagicalPopn-Builder.zip",
+                "size": 93169227
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -92,9 +586,26 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "MagicalPopn-Builder.zip",
+          "url": "https://github.com/looking-glassinsects/MagicalPopnRecomp/releases/download/v0.9.2/MagicalPopn-Builder.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MagicalPopn-Builder.zip",
+          "url": "https://github.com/looking-glassinsects/MagicalPopnRecomp/releases/download/v0.9.1/MagicalPopn-Builder.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MagicalPopn-Builder.zip",
+          "url": "https://github.com/looking-glassinsects/MagicalPopnRecomp/releases/download/v0.9/MagicalPopn-Builder.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -112,7 +623,153 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T23:33:57.338764+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-09T13:44:26.598122+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A static recompilation of Bleach: Soul Resurrección (PS3, BLUS30769) for Windows.",
+        "latest_release_url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/tag/v1.1.1",
+        "latest_release_name": "v1.1.1 - Reproducible installer / Instalador reproduzível",
+        "release_assets": [
+          {
+            "name": "attestation.jsonl",
+            "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/attestation.jsonl",
+            "size": 11517
+          },
+          {
+            "name": "Bleach.Soul.Resurreccion.-.Setup.exe",
+            "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/Bleach.Soul.Resurreccion.-.Setup.exe",
+            "size": 96164546
+          },
+          {
+            "name": "build_a.json",
+            "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/build_a.json",
+            "size": 144517
+          },
+          {
+            "name": "build_b.json",
+            "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/build_b.json",
+            "size": 144517
+          },
+          {
+            "name": "release-verification-attestation.jsonl",
+            "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/release-verification-attestation.jsonl",
+            "size": 11597
+          },
+          {
+            "name": "release-verification.json",
+            "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/release-verification.json",
+            "size": 1387
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/SHA256SUMS.txt",
+            "size": 103
+          },
+          {
+            "name": "summary.md",
+            "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/summary.md",
+            "size": 651
+          },
+          {
+            "name": "verification.json",
+            "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/verification.json",
+            "size": 735
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.1.1 - Reproducible installer / Instalador reproduzível",
+            "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/tag/v1.1.1",
+            "published_at": "2026-11-09T01:11:50Z",
+            "assets": [
+              {
+                "name": "attestation.jsonl",
+                "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/attestation.jsonl",
+                "size": 11517
+              },
+              {
+                "name": "Bleach.Soul.Resurreccion.-.Setup.exe",
+                "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/Bleach.Soul.Resurreccion.-.Setup.exe",
+                "size": 96164546
+              },
+              {
+                "name": "build_a.json",
+                "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/build_a.json",
+                "size": 144517
+              },
+              {
+                "name": "build_b.json",
+                "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/build_b.json",
+                "size": 144517
+              },
+              {
+                "name": "release-verification-attestation.jsonl",
+                "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/release-verification-attestation.jsonl",
+                "size": 11597
+              },
+              {
+                "name": "release-verification.json",
+                "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/release-verification.json",
+                "size": 1387
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/SHA256SUMS.txt",
+                "size": 103
+              },
+              {
+                "name": "summary.md",
+                "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/summary.md",
+                "size": 651
+              },
+              {
+                "name": "verification.json",
+                "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/verification.json",
+                "size": 735
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Recomp v1.1",
+            "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/tag/v1.1",
+            "published_at": "2026-11-08T18:32:27Z",
+            "assets": [
+              {
+                "name": "Bleach.Soul.Resurreccion.-.Setup.exe",
+                "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1/Bleach.Soul.Resurreccion.-.Setup.exe",
+                "size": 97418056
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Recomp v1.0",
+            "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/tag/v1.0",
+            "published_at": "2026-11-07T23:59:43Z",
+            "assets": [
+              {
+                "name": "Bleach.Soul.Resurreccion.-.Setup.exe",
+                "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.0/Bleach.Soul.Resurreccion.-.Setup.exe",
+                "size": 97412654
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -125,9 +782,66 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "attestation.jsonl",
+          "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/attestation.jsonl",
+          "type": "other_file"
+        },
+        {
+          "name": "Bleach.Soul.Resurreccion.-.Setup.exe",
+          "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/Bleach.Soul.Resurreccion.-.Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "build_a.json",
+          "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/build_a.json",
+          "type": "other_file"
+        },
+        {
+          "name": "build_b.json",
+          "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/build_b.json",
+          "type": "other_file"
+        },
+        {
+          "name": "release-verification-attestation.jsonl",
+          "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/release-verification-attestation.jsonl",
+          "type": "other_file"
+        },
+        {
+          "name": "release-verification.json",
+          "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/release-verification.json",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "summary.md",
+          "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/summary.md",
+          "type": "other_file"
+        },
+        {
+          "name": "verification.json",
+          "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1.1/verification.json",
+          "type": "other_file"
+        },
+        {
+          "name": "Bleach.Soul.Resurreccion.-.Setup.exe",
+          "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.1/Bleach.Soul.Resurreccion.-.Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Bleach.Soul.Resurreccion.-.Setup.exe",
+          "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp/releases/download/v1.0/Bleach.Soul.Resurreccion.-.Setup.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -145,7 +859,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T23:33:57.338230+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-09T13:44:28.232261+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "recompilation of RED DEAD REDEMPTION on ps3recomp. Research, not playable. Bring your own game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -172,17 +903,170 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T23:33:57.337744+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-11-09T13:44:29.812263+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Standalone PC static recompilation of SpongeBob SquarePants: Revenge of the Flying Dutchman (GameCube). No game assets included.",
+        "latest_release_url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/tag/v0.1.3",
+        "latest_release_name": "SpongeBobRecomp v0.1.3",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.3/SHA256SUMS.txt",
+            "size": 106
+          },
+          {
+            "name": "SpongeBobRecomp-v0.1.3-Windows-x64.zip",
+            "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.3/SpongeBobRecomp-v0.1.3-Windows-x64.zip",
+            "size": 28795409
+          }
+        ],
+        "releases": [
+          {
+            "name": "SpongeBobRecomp v0.1.3",
+            "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/tag/v0.1.3",
+            "published_at": "2026-11-09T09:34:56Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.3/SHA256SUMS.txt",
+                "size": 106
+              },
+              {
+                "name": "SpongeBobRecomp-v0.1.3-Windows-x64.zip",
+                "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.3/SpongeBobRecomp-v0.1.3-Windows-x64.zip",
+                "size": 28795409
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SpongeBobRecomp v0.1.2",
+            "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/tag/v0.1.2",
+            "published_at": "2026-11-09T04:21:28Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.2/SHA256SUMS.txt",
+                "size": 106
+              },
+              {
+                "name": "SpongeBobRecomp-v0.1.2-Windows-x64.zip",
+                "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.2/SpongeBobRecomp-v0.1.2-Windows-x64.zip",
+                "size": 28427519
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SpongeBobRecomp v0.1.1",
+            "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/tag/v0.1.1",
+            "published_at": "2026-11-09T01:52:44Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.1/SHA256SUMS.txt",
+                "size": 95
+              },
+              {
+                "name": "SpongeBobRecomp-Release.zip",
+                "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.1/SpongeBobRecomp-Release.zip",
+                "size": 28423310
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SpongeBobRecomp v0.1.0",
+            "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-08T22:54:01Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.0/SHA256SUMS.txt",
+                "size": 95
+              },
+              {
+                "name": "SpongeBobRecomp-Release.zip",
+                "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.0/SpongeBobRecomp-Release.zip",
+                "size": 28423246
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.3/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "SpongeBobRecomp-v0.1.3-Windows-x64.zip",
+          "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.3/SpongeBobRecomp-v0.1.3-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.2/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "SpongeBobRecomp-v0.1.2-Windows-x64.zip",
+          "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.2/SpongeBobRecomp-v0.1.2-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.1/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "SpongeBobRecomp-Release.zip",
+          "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.1/SpongeBobRecomp-Release.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.0/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "SpongeBobRecomp-Release.zip",
+          "url": "https://github.com/Spaced1127/SpongeBobRecomp/releases/download/v0.1.0/SpongeBobRecomp-Release.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -199,7 +1083,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T23:33:57.337104+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-09T13:44:31.479137+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "k10",
+        "description": "Power Moon Recomp (Super Mario Odyssey static recompilation) ported to AMD K10 CPUs (Phenom II, Athlon II) on Linux. Fork of gitlab.com/zzzarathustra-dev/power-moon-recomp. No game files included.",
+        "latest_release_url": "https://github.com/deadlynch/power-moon-recomp-k10/releases/tag/v0.2.1-k10",
+        "latest_release_name": "Power Moon Recomp 0.2.1 — AMD K10",
+        "release_assets": [
+          {
+            "name": "Power.Moon.Recomp-0.2.1-k10-linux-x86_64.AppImage",
+            "url": "https://github.com/deadlynch/power-moon-recomp-k10/releases/download/v0.2.1-k10/Power.Moon.Recomp-0.2.1-k10-linux-x86_64.AppImage",
+            "size": 84380152
+          }
+        ],
+        "releases": [
+          {
+            "name": "Power Moon Recomp 0.2.1 — AMD K10",
+            "url": "https://github.com/deadlynch/power-moon-recomp-k10/releases/tag/v0.2.1-k10",
+            "published_at": "2026-11-09T00:47:30Z",
+            "assets": [
+              {
+                "name": "Power.Moon.Recomp-0.2.1-k10-linux-x86_64.AppImage",
+                "url": "https://github.com/deadlynch/power-moon-recomp-k10/releases/download/v0.2.1-k10/Power.Moon.Recomp-0.2.1-k10-linux-x86_64.AppImage",
+                "size": 84380152
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Linux and macOS test builds",
+            "url": "https://github.com/deadlynch/power-moon-recomp-k10/releases/tag/test-builds",
+            "published_at": "2026-11-09T00:58:12Z",
+            "assets": [
+              {
+                "name": "Power.Moon.Recomp-0.2.1-k10-linux-x86_64.AppImage",
+                "url": "https://github.com/deadlynch/power-moon-recomp-k10/releases/download/test-builds/Power.Moon.Recomp-0.2.1-k10-linux-x86_64.AppImage",
+                "size": 84380152
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -212,9 +1148,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Power.Moon.Recomp-0.2.1-k10-linux-x86_64.AppImage",
+          "url": "https://github.com/deadlynch/power-moon-recomp-k10/releases/download/v0.2.1-k10/Power.Moon.Recomp-0.2.1-k10-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Power.Moon.Recomp-0.2.1-k10-linux-x86_64.AppImage",
+          "url": "https://github.com/deadlynch/power-moon-recomp-k10/releases/download/test-builds/Power.Moon.Recomp-0.2.1-k10-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -232,7 +1180,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T23:33:53.615590+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-09T13:44:33.117437+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Ask your AI agent to change any web app or browser game, and keep the change as a mod that comes back on every load. A browser extension and an MCP server, with a DevTools panel for doing it by hand.",
+        "latest_release_url": "https://github.com/alfman99/wasm-ce/releases/tag/v0.2.0",
+        "latest_release_name": "WasmCheat 0.2.0",
+        "release_assets": [
+          {
+            "name": "wasmcheat-extension-v0.2.0.zip",
+            "url": "https://github.com/alfman99/wasm-ce/releases/download/v0.2.0/wasmcheat-extension-v0.2.0.zip",
+            "size": 133358
+          }
+        ],
+        "releases": [
+          {
+            "name": "WasmCheat 0.2.0",
+            "url": "https://github.com/alfman99/wasm-ce/releases/tag/v0.2.0",
+            "published_at": "2026-10-21T08:02:38Z",
+            "assets": [
+              {
+                "name": "wasmcheat-extension-v0.2.0.zip",
+                "url": "https://github.com/alfman99/wasm-ce/releases/download/v0.2.0/wasmcheat-extension-v0.2.0.zip",
+                "size": 133358
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "WasmCheat 0.1.0",
+            "url": "https://github.com/alfman99/wasm-ce/releases/tag/v0.1.0",
+            "published_at": "2026-10-20T14:01:58Z",
+            "assets": [
+              {
+                "name": "wasmcheat-extension-v0.1.0.zip",
+                "url": "https://github.com/alfman99/wasm-ce/releases/download/v0.1.0/wasmcheat-extension-v0.1.0.zip",
+                "size": 124803
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -247,9 +1247,21 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "wasmcheat-extension-v0.2.0.zip",
+          "url": "https://github.com/alfman99/wasm-ce/releases/download/v0.2.0/wasmcheat-extension-v0.2.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "wasmcheat-extension-v0.1.0.zip",
+          "url": "https://github.com/alfman99/wasm-ce/releases/download/v0.1.0/wasmcheat-extension-v0.1.0.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "possible",
