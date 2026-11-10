@@ -1,7 +1,142 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-10T02:38:21.566156+00:00",
+  "last_updated": "2026-11-10T13:23:16.621767+00:00",
   "candidates": [
+    {
+      "title": "rzrbld/ReNFS5",
+      "url": "https://github.com/rzrbld/ReNFS5",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-10T12:15:11Z",
+      "summary": "ReNFS5: Recomp Unleashed — ARM64 Linux port of Need for Speed: Porsche Unleashed (2000), using static recompilation, SDL2 and OpenGL ES. Players supply their own game files. Topics: airecompilation, arm64, game, game-dev, game-development, gameport, games, portmaster, racing, racing-game, recompilation, recompile, recompiled, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-10T13:23:03.729873+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "JLAgamer/Godzilla-Save-the-Earth-Xbox-static-recompilation",
+      "url": "https://github.com/JLAgamer/Godzilla-Save-the-Earth-Xbox-static-recompilation",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-10T13:06:14Z",
+      "summary": "A native Windows port of the Xbox version of Godzilla: Save the Earth (2004), made by statically recompiling the game's default.xbe into C with the xboxrecomp toolkit and running it on a Direct3D 11 renderer.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-10T13:23:03.728765+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "swarm-routing/swarm-routing.github.io",
+      "url": "https://github.com/swarm-routing/swarm-routing.github.io",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-10T12:17:29Z",
+      "summary": "Colony Arena, the swarm-routing site: a colony map of every project, a page per protocol with its diagrams and quests, and AntHocNet's game, docs and API, running AntHocNet's C++ core compiled to WebAssembly in the browser. Topics: ant-colony-optimization, education, github-pages, manet, routing-protocol, swarm-intelligence, visualization, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-10T13:22:59.614722+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "rubenyoungon/dodge-balls",
+      "url": "https://github.com/rubenyoungon/dodge-balls",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-10T12:27:59Z",
+      "summary": "Dodge the blue balls: a WinForms game with a static HTML/JS browser port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-10T13:22:54.930875+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 7,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "enjoyerofslop/droidplay-core",
       "url": "https://github.com/enjoyerofslop/droidplay-core",
@@ -11,7 +146,375 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-10T02:38:06.033899+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-10T13:23:05.378606+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "DroidPlay Core: Nintendo Switch and Switch 2 games running natively on Android, replayed on Vulkan (nxnative with an Android port). The engine behind DroidPlay. Bring your own game. Formerly droidnative.",
+        "latest_release_url": "https://github.com/enjoyerofslop/droidplay-core/releases/tag/v0.6.0",
+        "latest_release_name": "DroidPlay Core 0.6.0",
+        "release_assets": [
+          {
+            "name": "droidnative-0.6.0.tar.xz",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/droidnative-0.6.0.tar.xz",
+            "size": 53927048
+          },
+          {
+            "name": "droidnative-0.6.0.zip",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/droidnative-0.6.0.zip",
+            "size": 87697464
+          },
+          {
+            "name": "droidplay-core-0.6.0.tar.xz",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/droidplay-core-0.6.0.tar.xz",
+            "size": 53927048
+          },
+          {
+            "name": "droidplay-core-0.6.0.zip",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/droidplay-core-0.6.0.zip",
+            "size": 87697464
+          },
+          {
+            "name": "DroidPlay-Setup-0.6.0.exe",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/DroidPlay-Setup-0.6.0.exe",
+            "size": 83390759
+          },
+          {
+            "name": "DroidPlay-Setup-0.6.0.exe.sha256",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/DroidPlay-Setup-0.6.0.exe.sha256",
+            "size": 93
+          },
+          {
+            "name": "Install.DroidPlay.cmd",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/Install.DroidPlay.cmd",
+            "size": 12645
+          }
+        ],
+        "releases": [
+          {
+            "name": "DroidPlay Core 0.6.0",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/tag/v0.6.0",
+            "published_at": "2026-11-10T05:20:13Z",
+            "assets": [
+              {
+                "name": "droidnative-0.6.0.tar.xz",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/droidnative-0.6.0.tar.xz",
+                "size": 53927048
+              },
+              {
+                "name": "droidnative-0.6.0.zip",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/droidnative-0.6.0.zip",
+                "size": 87697464
+              },
+              {
+                "name": "droidplay-core-0.6.0.tar.xz",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/droidplay-core-0.6.0.tar.xz",
+                "size": 53927048
+              },
+              {
+                "name": "droidplay-core-0.6.0.zip",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/droidplay-core-0.6.0.zip",
+                "size": 87697464
+              },
+              {
+                "name": "DroidPlay-Setup-0.6.0.exe",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/DroidPlay-Setup-0.6.0.exe",
+                "size": 83390759
+              },
+              {
+                "name": "DroidPlay-Setup-0.6.0.exe.sha256",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/DroidPlay-Setup-0.6.0.exe.sha256",
+                "size": 93
+              },
+              {
+                "name": "Install.DroidPlay.cmd",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/Install.DroidPlay.cmd",
+                "size": 12645
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "DroidPlay Core 0.5.2",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/tag/v0.5.2",
+            "published_at": "2026-11-10T01:12:49Z",
+            "assets": [
+              {
+                "name": "droidnative-0.5.2.tar.xz",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.2/droidnative-0.5.2.tar.xz",
+                "size": 53921796
+              },
+              {
+                "name": "droidnative-0.5.2.zip",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.2/droidnative-0.5.2.zip",
+                "size": 87674208
+              },
+              {
+                "name": "droidplay-core-0.5.2.tar.xz",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.2/droidplay-core-0.5.2.tar.xz",
+                "size": 53921796
+              },
+              {
+                "name": "droidplay-core-0.5.2.zip",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.2/droidplay-core-0.5.2.zip",
+                "size": 87674208
+              },
+              {
+                "name": "DroidPlay-Setup-0.5.2.exe",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.2/DroidPlay-Setup-0.5.2.exe",
+                "size": 83420373
+              },
+              {
+                "name": "DroidPlay-Setup-0.5.2.exe.sha256",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.2/DroidPlay-Setup-0.5.2.exe.sha256",
+                "size": 93
+              },
+              {
+                "name": "Install.DroidPlay.cmd",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.2/Install.DroidPlay.cmd",
+                "size": 12645
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "DroidPlay Core 0.5.1",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/tag/v0.5.1",
+            "published_at": "2026-11-10T00:45:40Z",
+            "assets": [
+              {
+                "name": "droidnative-0.5.1.tar.xz",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.1/droidnative-0.5.1.tar.xz",
+                "size": 53941732
+              },
+              {
+                "name": "droidnative-0.5.1.zip",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.1/droidnative-0.5.1.zip",
+                "size": 87673329
+              },
+              {
+                "name": "droidplay-core-0.5.1.tar.xz",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.1/droidplay-core-0.5.1.tar.xz",
+                "size": 53941732
+              },
+              {
+                "name": "droidplay-core-0.5.1.zip",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.1/droidplay-core-0.5.1.zip",
+                "size": 87673329
+              },
+              {
+                "name": "DroidPlay-Setup-0.5.1.exe",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.1/DroidPlay-Setup-0.5.1.exe",
+                "size": 83398449
+              },
+              {
+                "name": "DroidPlay-Setup-0.5.1.exe.sha256",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.1/DroidPlay-Setup-0.5.1.exe.sha256",
+                "size": 93
+              },
+              {
+                "name": "Install.DroidPlay.cmd",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.1/Install.DroidPlay.cmd",
+                "size": 12645
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "DroidPlay Core 0.5.0",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/tag/v0.5.0",
+            "published_at": "2026-11-10T00:10:09Z",
+            "assets": [
+              {
+                "name": "droidnative-0.5.0.tar.xz",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.0/droidnative-0.5.0.tar.xz",
+                "size": 53905684
+              },
+              {
+                "name": "droidnative-0.5.0.zip",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.0/droidnative-0.5.0.zip",
+                "size": 87670829
+              },
+              {
+                "name": "droidplay-core-0.5.0.tar.xz",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.0/droidplay-core-0.5.0.tar.xz",
+                "size": 53905684
+              },
+              {
+                "name": "droidplay-core-0.5.0.zip",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.0/droidplay-core-0.5.0.zip",
+                "size": 87670829
+              },
+              {
+                "name": "DroidPlay-Setup-0.5.0.exe",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.0/DroidPlay-Setup-0.5.0.exe",
+                "size": 83449051
+              },
+              {
+                "name": "DroidPlay-Setup-0.5.0.exe.sha256",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.0/DroidPlay-Setup-0.5.0.exe.sha256",
+                "size": 93
+              },
+              {
+                "name": "Install.DroidPlay.cmd",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.0/Install.DroidPlay.cmd",
+                "size": 12645
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "DroidPlay Core 0.4.0",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/tag/v0.4.0",
+            "published_at": "2026-11-09T21:10:45Z",
+            "assets": [
+              {
+                "name": "droidnative-0.4.0.tar.xz",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.4.0/droidnative-0.4.0.tar.xz",
+                "size": 53916008
+              },
+              {
+                "name": "droidnative-0.4.0.zip",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.4.0/droidnative-0.4.0.zip",
+                "size": 87620497
+              },
+              {
+                "name": "droidplay-core-0.4.0.tar.xz",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.4.0/droidplay-core-0.4.0.tar.xz",
+                "size": 53916008
+              },
+              {
+                "name": "droidplay-core-0.4.0.zip",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.4.0/droidplay-core-0.4.0.zip",
+                "size": 87620497
+              },
+              {
+                "name": "Install.DroidPlay.cmd",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.4.0/Install.DroidPlay.cmd",
+                "size": 10475
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "DroidPlay Core 0.3.0",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/tag/v0.3.0",
+            "published_at": "2026-11-09T17:44:52Z",
+            "assets": [
+              {
+                "name": "droidnative-0.3.0.tar.xz",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.3.0/droidnative-0.3.0.tar.xz",
+                "size": 53881320
+              },
+              {
+                "name": "droidnative-0.3.0.zip",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.3.0/droidnative-0.3.0.zip",
+                "size": 87590713
+              },
+              {
+                "name": "droidplay-core-0.3.0.tar.xz",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.3.0/droidplay-core-0.3.0.tar.xz",
+                "size": 53881320
+              },
+              {
+                "name": "droidplay-core-0.3.0.zip",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.3.0/droidplay-core-0.3.0.zip",
+                "size": 87590713
+              },
+              {
+                "name": "Install.DroidPlay.cmd",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.3.0/Install.DroidPlay.cmd",
+                "size": 10475
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "droidnative 0.2.2",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/tag/v0.2.2",
+            "published_at": "2026-11-09T13:33:01Z",
+            "assets": [
+              {
+                "name": "droidnative-0.2.2.tar.xz",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.2.2/droidnative-0.2.2.tar.xz",
+                "size": 53855428
+              },
+              {
+                "name": "droidnative-0.2.2.zip",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.2.2/droidnative-0.2.2.zip",
+                "size": 87559212
+              },
+              {
+                "name": "Install.DroidPlay.cmd",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.2.2/Install.DroidPlay.cmd",
+                "size": 10125
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "droidnative 0.2.1",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/tag/v0.2.1",
+            "published_at": "2026-11-09T13:16:53Z",
+            "assets": [
+              {
+                "name": "droidnative-0.2.1.tar.xz",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.2.1/droidnative-0.2.1.tar.xz",
+                "size": 53799212
+              },
+              {
+                "name": "droidnative-0.2.1.zip",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.2.1/droidnative-0.2.1.zip",
+                "size": 87558642
+              },
+              {
+                "name": "Install.DroidPlay.cmd",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.2.1/Install.DroidPlay.cmd",
+                "size": 8622
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "droidnative 0.2.0",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/tag/v0.2.0",
+            "published_at": "2026-11-09T06:44:13Z",
+            "assets": [
+              {
+                "name": "Install.DroidPlay.cmd",
+                "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.2.0/Install.DroidPlay.cmd",
+                "size": 5238
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "droidnative 0.1.0",
+            "url": "https://github.com/enjoyerofslop/droidplay-core/releases/tag/v0.1.0",
+            "published_at": "2026-11-09T03:51:48Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -27,10 +530,237 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "droidnative-0.6.0.tar.xz",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/droidnative-0.6.0.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "droidnative-0.6.0.zip",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/droidnative-0.6.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "droidplay-core-0.6.0.tar.xz",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/droidplay-core-0.6.0.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "droidplay-core-0.6.0.zip",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/droidplay-core-0.6.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "DroidPlay-Setup-0.6.0.exe",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/DroidPlay-Setup-0.6.0.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "DroidPlay-Setup-0.6.0.exe.sha256",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/DroidPlay-Setup-0.6.0.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "Install.DroidPlay.cmd",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.6.0/Install.DroidPlay.cmd",
+          "type": "other_file"
+        },
+        {
+          "name": "droidnative-0.5.2.tar.xz",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.2/droidnative-0.5.2.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "droidnative-0.5.2.zip",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.2/droidnative-0.5.2.zip",
+          "type": "archive"
+        },
+        {
+          "name": "droidplay-core-0.5.2.tar.xz",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.2/droidplay-core-0.5.2.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "droidplay-core-0.5.2.zip",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.2/droidplay-core-0.5.2.zip",
+          "type": "archive"
+        },
+        {
+          "name": "DroidPlay-Setup-0.5.2.exe",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.2/DroidPlay-Setup-0.5.2.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "DroidPlay-Setup-0.5.2.exe.sha256",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.2/DroidPlay-Setup-0.5.2.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "Install.DroidPlay.cmd",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.2/Install.DroidPlay.cmd",
+          "type": "other_file"
+        },
+        {
+          "name": "droidnative-0.5.1.tar.xz",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.1/droidnative-0.5.1.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "droidnative-0.5.1.zip",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.1/droidnative-0.5.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "droidplay-core-0.5.1.tar.xz",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.1/droidplay-core-0.5.1.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "droidplay-core-0.5.1.zip",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.1/droidplay-core-0.5.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "DroidPlay-Setup-0.5.1.exe",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.1/DroidPlay-Setup-0.5.1.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "DroidPlay-Setup-0.5.1.exe.sha256",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.1/DroidPlay-Setup-0.5.1.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "Install.DroidPlay.cmd",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.1/Install.DroidPlay.cmd",
+          "type": "other_file"
+        },
+        {
+          "name": "droidnative-0.5.0.tar.xz",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.0/droidnative-0.5.0.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "droidnative-0.5.0.zip",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.0/droidnative-0.5.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "droidplay-core-0.5.0.tar.xz",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.0/droidplay-core-0.5.0.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "droidplay-core-0.5.0.zip",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.0/droidplay-core-0.5.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "DroidPlay-Setup-0.5.0.exe",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.0/DroidPlay-Setup-0.5.0.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "DroidPlay-Setup-0.5.0.exe.sha256",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.0/DroidPlay-Setup-0.5.0.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "Install.DroidPlay.cmd",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.5.0/Install.DroidPlay.cmd",
+          "type": "other_file"
+        },
+        {
+          "name": "droidnative-0.4.0.tar.xz",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.4.0/droidnative-0.4.0.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "droidnative-0.4.0.zip",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.4.0/droidnative-0.4.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "droidplay-core-0.4.0.tar.xz",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.4.0/droidplay-core-0.4.0.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "droidplay-core-0.4.0.zip",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.4.0/droidplay-core-0.4.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Install.DroidPlay.cmd",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.4.0/Install.DroidPlay.cmd",
+          "type": "other_file"
+        },
+        {
+          "name": "droidnative-0.3.0.tar.xz",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.3.0/droidnative-0.3.0.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "droidnative-0.3.0.zip",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.3.0/droidnative-0.3.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "droidplay-core-0.3.0.tar.xz",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.3.0/droidplay-core-0.3.0.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "droidplay-core-0.3.0.zip",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.3.0/droidplay-core-0.3.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Install.DroidPlay.cmd",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.3.0/Install.DroidPlay.cmd",
+          "type": "other_file"
+        },
+        {
+          "name": "droidnative-0.2.2.tar.xz",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.2.2/droidnative-0.2.2.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "droidnative-0.2.2.zip",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.2.2/droidnative-0.2.2.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Install.DroidPlay.cmd",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.2.2/Install.DroidPlay.cmd",
+          "type": "other_file"
+        },
+        {
+          "name": "droidnative-0.2.1.tar.xz",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.2.1/droidnative-0.2.1.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "droidnative-0.2.1.zip",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.2.1/droidnative-0.2.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Install.DroidPlay.cmd",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.2.1/Install.DroidPlay.cmd",
+          "type": "other_file"
+        },
+        {
+          "name": "Install.DroidPlay.cmd",
+          "url": "https://github.com/enjoyerofslop/droidplay-core/releases/download/v0.2.0/Install.DroidPlay.cmd",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 8,
       "relevance_status": "promising",
@@ -48,7 +778,181 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-10T02:38:04.143483+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-10T13:23:06.815293+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Crash Twinsanity (PS2, PAL) running natively on Windows, played through to the credits: a Windows port of HAB3X's Mac port of Smartkin's C++ decompilation. No game data included: bring your own disc image.",
+        "latest_release_url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/tag/v1.2.0",
+        "latest_release_name": "Crash Twinsanity for Windows 1.2.0",
+        "release_assets": [
+          {
+            "name": "Crash-Twinsanity-Linux-x86_64.AppImage",
+            "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.2.0/Crash-Twinsanity-Linux-x86_64.AppImage",
+            "size": 13830648
+          },
+          {
+            "name": "Crash-Twinsanity-Windows.zip",
+            "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.2.0/Crash-Twinsanity-Windows.zip",
+            "size": 14986430
+          }
+        ],
+        "releases": [
+          {
+            "name": "Crash Twinsanity for Windows 1.2.0",
+            "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/tag/v1.2.0",
+            "published_at": "2026-11-08T22:21:07Z",
+            "assets": [
+              {
+                "name": "Crash-Twinsanity-Linux-x86_64.AppImage",
+                "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.2.0/Crash-Twinsanity-Linux-x86_64.AppImage",
+                "size": 13830648
+              },
+              {
+                "name": "Crash-Twinsanity-Windows.zip",
+                "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.2.0/Crash-Twinsanity-Windows.zip",
+                "size": 14986430
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Crash Twinsanity for Windows 1.1.0",
+            "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/tag/v1.1.0",
+            "published_at": "2026-11-01T22:51:07Z",
+            "assets": [
+              {
+                "name": "Crash-Twinsanity-Windows.zip",
+                "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.1.0/Crash-Twinsanity-Windows.zip",
+                "size": 14436718
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Crash Twinsanity for Windows 1.0.19",
+            "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/tag/v1.0.19",
+            "published_at": "2026-10-26T22:48:46Z",
+            "assets": [
+              {
+                "name": "Crash-Twinsanity-Windows.zip",
+                "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.0.19/Crash-Twinsanity-Windows.zip",
+                "size": 14371309
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Crash Twinsanity for Windows 1.0.18",
+            "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/tag/v1.0.18",
+            "published_at": "2026-10-25T14:13:31Z",
+            "assets": [
+              {
+                "name": "Crash-Twinsanity-Windows.zip",
+                "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.0.18/Crash-Twinsanity-Windows.zip",
+                "size": 14300427
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Crash Twinsanity for Windows 1.0.17",
+            "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/tag/v1.0.17",
+            "published_at": "2026-10-25T04:11:28Z",
+            "assets": [
+              {
+                "name": "Crash-Twinsanity-Windows.zip",
+                "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.0.17/Crash-Twinsanity-Windows.zip",
+                "size": 14293005
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Crash Twinsanity for Windows 1.0.16",
+            "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/tag/v1.0.16",
+            "published_at": "2026-10-24T12:11:56Z",
+            "assets": [
+              {
+                "name": "Crash-Twinsanity-Windows.zip",
+                "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.0.16/Crash-Twinsanity-Windows.zip",
+                "size": 14242193
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Crash Twinsanity for Windows 1.0.15",
+            "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/tag/v1.0.15",
+            "published_at": "2026-10-24T11:17:52Z",
+            "assets": [
+              {
+                "name": "Crash-Twinsanity-Windows.zip",
+                "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.0.15/Crash-Twinsanity-Windows.zip",
+                "size": 14241636
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Crash Twinsanity for Windows 1.0.14",
+            "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/tag/v1.0.14",
+            "published_at": "2026-10-23T18:36:34Z",
+            "assets": [
+              {
+                "name": "Crash-Twinsanity-Windows.zip",
+                "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.0.14/Crash-Twinsanity-Windows.zip",
+                "size": 14134672
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Crash Twinsanity for Windows 1.0.13",
+            "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/tag/v1.0.13",
+            "published_at": "2026-10-23T14:56:12Z",
+            "assets": [
+              {
+                "name": "Crash-Twinsanity-Windows.zip",
+                "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.0.13/Crash-Twinsanity-Windows.zip",
+                "size": 14093517
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Crash Twinsanity for Windows 1.0.12",
+            "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/tag/v1.0.12",
+            "published_at": "2026-10-21T17:59:38Z",
+            "assets": [
+              {
+                "name": "Crash-Twinsanity-Windows.zip",
+                "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.0.12/Crash-Twinsanity-Windows.zip",
+                "size": 14090679
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -62,9 +966,66 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Crash-Twinsanity-Linux-x86_64.AppImage",
+          "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.2.0/Crash-Twinsanity-Linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Crash-Twinsanity-Windows.zip",
+          "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.2.0/Crash-Twinsanity-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Crash-Twinsanity-Windows.zip",
+          "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.1.0/Crash-Twinsanity-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Crash-Twinsanity-Windows.zip",
+          "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.0.19/Crash-Twinsanity-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Crash-Twinsanity-Windows.zip",
+          "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.0.18/Crash-Twinsanity-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Crash-Twinsanity-Windows.zip",
+          "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.0.17/Crash-Twinsanity-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Crash-Twinsanity-Windows.zip",
+          "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.0.16/Crash-Twinsanity-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Crash-Twinsanity-Windows.zip",
+          "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.0.15/Crash-Twinsanity-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Crash-Twinsanity-Windows.zip",
+          "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.0.14/Crash-Twinsanity-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Crash-Twinsanity-Windows.zip",
+          "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.0.13/Crash-Twinsanity-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Crash-Twinsanity-Windows.zip",
+          "url": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/download/v1.0.12/Crash-Twinsanity-Windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -82,7 +1043,268 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-10T02:38:04.142084+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-10T13:23:08.248154+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Midnight Club 3: DUB Edition Remix PC port. Unofficial native Windows and Linux (Wine) port of the Xbox game, with 60 fps, true 16:9 and up to 5K resolution. Bring your own disc image: no game files included.",
+        "latest_release_url": "https://github.com/SickSartori/mc3port/releases/tag/v0.3.5",
+        "latest_release_name": "mc3port v0.3.5",
+        "release_assets": [
+          {
+            "name": "mc3port-0.3.5-linux.tar.gz",
+            "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.5/mc3port-0.3.5-linux.tar.gz",
+            "size": 4685281
+          },
+          {
+            "name": "mc3port-0.3.5-windows-x86-setup.exe",
+            "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.5/mc3port-0.3.5-windows-x86-setup.exe",
+            "size": 7162985
+          },
+          {
+            "name": "mc3port-0.3.5-windows-x86.zip",
+            "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.5/mc3port-0.3.5-windows-x86.zip",
+            "size": 4673495
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.5/SHA256SUMS",
+            "size": 290
+          }
+        ],
+        "releases": [
+          {
+            "name": "mc3port v0.3.5",
+            "url": "https://github.com/SickSartori/mc3port/releases/tag/v0.3.5",
+            "published_at": "2026-11-09T22:47:53Z",
+            "assets": [
+              {
+                "name": "mc3port-0.3.5-linux.tar.gz",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.5/mc3port-0.3.5-linux.tar.gz",
+                "size": 4685281
+              },
+              {
+                "name": "mc3port-0.3.5-windows-x86-setup.exe",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.5/mc3port-0.3.5-windows-x86-setup.exe",
+                "size": 7162985
+              },
+              {
+                "name": "mc3port-0.3.5-windows-x86.zip",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.5/mc3port-0.3.5-windows-x86.zip",
+                "size": 4673495
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.5/SHA256SUMS",
+                "size": 290
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "mc3port v0.3.4",
+            "url": "https://github.com/SickSartori/mc3port/releases/tag/v0.3.4",
+            "published_at": "2026-11-08T12:14:19Z",
+            "assets": [
+              {
+                "name": "mc3port-0.3.4-linux.tar.gz",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.4/mc3port-0.3.4-linux.tar.gz",
+                "size": 4110843
+              },
+              {
+                "name": "mc3port-0.3.4-windows-x86-setup.exe",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.4/mc3port-0.3.4-windows-x86-setup.exe",
+                "size": 6745501
+              },
+              {
+                "name": "mc3port-0.3.4-windows-x86.zip",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.4/mc3port-0.3.4-windows-x86.zip",
+                "size": 4080753
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.4/SHA256SUMS",
+                "size": 290
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "mc3port v0.3.3",
+            "url": "https://github.com/SickSartori/mc3port/releases/tag/v0.3.3",
+            "published_at": "2026-11-08T10:01:20Z",
+            "assets": [
+              {
+                "name": "mc3port-0.3.3-linux.tar.gz",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.3/mc3port-0.3.3-linux.tar.gz",
+                "size": 4109251
+              },
+              {
+                "name": "mc3port-0.3.3-windows-x86-setup.exe",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.3/mc3port-0.3.3-windows-x86-setup.exe",
+                "size": 6744285
+              },
+              {
+                "name": "mc3port-0.3.3-windows-x86.zip",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.3/mc3port-0.3.3-windows-x86.zip",
+                "size": 4078435
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.3/SHA256SUMS",
+                "size": 290
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "mc3port v0.3.2",
+            "url": "https://github.com/SickSartori/mc3port/releases/tag/v0.3.2",
+            "published_at": "2026-11-08T00:29:14Z",
+            "assets": [
+              {
+                "name": "mc3port-0.3.2-linux.tar.gz",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.2/mc3port-0.3.2-linux.tar.gz",
+                "size": 4107488
+              },
+              {
+                "name": "mc3port-0.3.2-windows-x86-setup.exe",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.2/mc3port-0.3.2-windows-x86-setup.exe",
+                "size": 6742229
+              },
+              {
+                "name": "mc3port-0.3.2-windows-x86.zip",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.2/mc3port-0.3.2-windows-x86.zip",
+                "size": 4076469
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.2/SHA256SUMS",
+                "size": 290
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "mc3port v0.3.1",
+            "url": "https://github.com/SickSartori/mc3port/releases/tag/v0.3.1",
+            "published_at": "2026-11-06T20:38:31Z",
+            "assets": [
+              {
+                "name": "mc3port-0.3.1-linux.tar.gz",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.1/mc3port-0.3.1-linux.tar.gz",
+                "size": 4104438
+              },
+              {
+                "name": "mc3port-0.3.1-windows-x86-setup.exe",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.1/mc3port-0.3.1-windows-x86-setup.exe",
+                "size": 6740111
+              },
+              {
+                "name": "mc3port-0.3.1-windows-x86.zip",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.1/mc3port-0.3.1-windows-x86.zip",
+                "size": 4073136
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.1/SHA256SUMS",
+                "size": 290
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "mc3port v0.3.0",
+            "url": "https://github.com/SickSartori/mc3port/releases/tag/v0.3.0",
+            "published_at": "2026-11-04T20:33:36Z",
+            "assets": [
+              {
+                "name": "mc3port-0.3.0-linux.tar.gz",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.0/mc3port-0.3.0-linux.tar.gz",
+                "size": 4082035
+              },
+              {
+                "name": "mc3port-0.3.0-windows-x86-setup.exe",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.0/mc3port-0.3.0-windows-x86-setup.exe",
+                "size": 6724462
+              },
+              {
+                "name": "mc3port-0.3.0-windows-x86.zip",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.0/mc3port-0.3.0-windows-x86.zip",
+                "size": 4048582
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.0/SHA256SUMS",
+                "size": 290
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "mc3port v0.2.6",
+            "url": "https://github.com/SickSartori/mc3port/releases/tag/v0.2.6",
+            "published_at": "2026-11-04T12:45:22Z",
+            "assets": [
+              {
+                "name": "mc3port-0.2.6-windows-x86-setup.exe",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.2.6/mc3port-0.2.6-windows-x86-setup.exe",
+                "size": 6719690
+              },
+              {
+                "name": "mc3port-0.2.6-windows-x86.zip",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.2.6/mc3port-0.2.6-windows-x86.zip",
+                "size": 4042044
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.2.6/SHA256SUMS",
+                "size": 197
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "mc3port v0.2.4",
+            "url": "https://github.com/SickSartori/mc3port/releases/tag/v0.2.4",
+            "published_at": "2026-11-01T17:09:43Z",
+            "assets": [
+              {
+                "name": "mc3port-0.2.4-windows-x86-setup.exe",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.2.4/mc3port-0.2.4-windows-x86-setup.exe",
+                "size": 6682260
+              },
+              {
+                "name": "mc3port-0.2.4-windows-x86.zip",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.2.4/mc3port-0.2.4-windows-x86.zip",
+                "size": 3989591
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/SickSartori/mc3port/releases/download/v0.2.4/SHA256SUMS",
+                "size": 197
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -97,9 +1319,161 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "mc3port-0.3.5-linux.tar.gz",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.5/mc3port-0.3.5-linux.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "mc3port-0.3.5-windows-x86-setup.exe",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.5/mc3port-0.3.5-windows-x86-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "mc3port-0.3.5-windows-x86.zip",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.5/mc3port-0.3.5-windows-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.5/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "mc3port-0.3.4-linux.tar.gz",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.4/mc3port-0.3.4-linux.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "mc3port-0.3.4-windows-x86-setup.exe",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.4/mc3port-0.3.4-windows-x86-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "mc3port-0.3.4-windows-x86.zip",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.4/mc3port-0.3.4-windows-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.4/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "mc3port-0.3.3-linux.tar.gz",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.3/mc3port-0.3.3-linux.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "mc3port-0.3.3-windows-x86-setup.exe",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.3/mc3port-0.3.3-windows-x86-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "mc3port-0.3.3-windows-x86.zip",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.3/mc3port-0.3.3-windows-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.3/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "mc3port-0.3.2-linux.tar.gz",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.2/mc3port-0.3.2-linux.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "mc3port-0.3.2-windows-x86-setup.exe",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.2/mc3port-0.3.2-windows-x86-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "mc3port-0.3.2-windows-x86.zip",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.2/mc3port-0.3.2-windows-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "mc3port-0.3.1-linux.tar.gz",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.1/mc3port-0.3.1-linux.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "mc3port-0.3.1-windows-x86-setup.exe",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.1/mc3port-0.3.1-windows-x86-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "mc3port-0.3.1-windows-x86.zip",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.1/mc3port-0.3.1-windows-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "mc3port-0.3.0-linux.tar.gz",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.0/mc3port-0.3.0-linux.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "mc3port-0.3.0-windows-x86-setup.exe",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.0/mc3port-0.3.0-windows-x86-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "mc3port-0.3.0-windows-x86.zip",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.0/mc3port-0.3.0-windows-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.3.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "mc3port-0.2.6-windows-x86-setup.exe",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.2.6/mc3port-0.2.6-windows-x86-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "mc3port-0.2.6-windows-x86.zip",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.2.6/mc3port-0.2.6-windows-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.2.6/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "mc3port-0.2.4-windows-x86-setup.exe",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.2.4/mc3port-0.2.4-windows-x86-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "mc3port-0.2.4-windows-x86.zip",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.2.4/mc3port-0.2.4-windows-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/SickSartori/mc3port/releases/download/v0.2.4/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -117,17 +1491,99 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-10T02:38:02.059631+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-11-10T13:23:09.679311+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "OBCR: a modern Rust + SDL3 source port of Operation Body Count (1994). Requires the original game data.",
+        "latest_release_url": "https://github.com/jeddhor/OBCR/releases/tag/v1.0.0-beta.1",
+        "latest_release_name": "OBCR 1.0.0 Beta 1 (pre-release)",
+        "release_assets": [
+          {
+            "name": "OBCR-Setup-1.0.0-beta.1-linux-x86_64",
+            "url": "https://github.com/jeddhor/OBCR/releases/download/v1.0.0-beta.1/OBCR-Setup-1.0.0-beta.1-linux-x86_64",
+            "size": 27359951
+          },
+          {
+            "name": "OBCR-Setup-1.0.0-beta.1-windows-x64.exe",
+            "url": "https://github.com/jeddhor/OBCR/releases/download/v1.0.0-beta.1/OBCR-Setup-1.0.0-beta.1-windows-x64.exe",
+            "size": 16012167
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/jeddhor/OBCR/releases/download/v1.0.0-beta.1/SHA256SUMS.txt",
+            "size": 211
+          }
+        ],
+        "releases": [
+          {
+            "name": "OBCR 1.0.0 Beta 1 (pre-release)",
+            "url": "https://github.com/jeddhor/OBCR/releases/tag/v1.0.0-beta.1",
+            "published_at": "2026-11-06T23:43:10Z",
+            "assets": [
+              {
+                "name": "OBCR-Setup-1.0.0-beta.1-linux-x86_64",
+                "url": "https://github.com/jeddhor/OBCR/releases/download/v1.0.0-beta.1/OBCR-Setup-1.0.0-beta.1-linux-x86_64",
+                "size": 27359951
+              },
+              {
+                "name": "OBCR-Setup-1.0.0-beta.1-windows-x64.exe",
+                "url": "https://github.com/jeddhor/OBCR/releases/download/v1.0.0-beta.1/OBCR-Setup-1.0.0-beta.1-windows-x64.exe",
+                "size": 16012167
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/jeddhor/OBCR/releases/download/v1.0.0-beta.1/SHA256SUMS.txt",
+                "size": 211
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "OBCR-Setup-1.0.0-beta.1-linux-x86_64",
+          "url": "https://github.com/jeddhor/OBCR/releases/download/v1.0.0-beta.1/OBCR-Setup-1.0.0-beta.1-linux-x86_64",
+          "type": "other_file"
+        },
+        {
+          "name": "OBCR-Setup-1.0.0-beta.1-windows-x64.exe",
+          "url": "https://github.com/jeddhor/OBCR/releases/download/v1.0.0-beta.1/OBCR-Setup-1.0.0-beta.1-windows-x64.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/jeddhor/OBCR/releases/download/v1.0.0-beta.1/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -144,7 +1600,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-10T02:38:00.027005+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-10T13:23:11.087864+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "STATIC RECOMPILATION OF SPY VS. SPY(2005) Playstation 2 PAL VERSION",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -182,7 +1655,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-10T02:38:00.026163+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-10T13:23:12.393981+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "ultimate",
+        "description": "Ridge Racer 6 on the Nintendo Switch (homebrew), a ReXGlue static recompilation. You need your own copy of the game.",
+        "latest_release_url": "https://github.com/ChanseyIsTheBest/rr6-nx/releases/tag/v1.0.0",
+        "latest_release_name": "rr6-nx 1.0.0",
+        "release_assets": [
+          {
+            "name": "rr6-nx.nro",
+            "url": "https://github.com/ChanseyIsTheBest/rr6-nx/releases/download/v1.0.0/rr6-nx.nro",
+            "size": 62161534
+          }
+        ],
+        "releases": [
+          {
+            "name": "rr6-nx 1.0.0",
+            "url": "https://github.com/ChanseyIsTheBest/rr6-nx/releases/tag/v1.0.0",
+            "published_at": "2026-11-10T00:22:35Z",
+            "assets": [
+              {
+                "name": "rr6-nx.nro",
+                "url": "https://github.com/ChanseyIsTheBest/rr6-nx/releases/download/v1.0.0/rr6-nx.nro",
+                "size": 62161534
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -193,9 +1704,16 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "rr6-nx.nro",
+          "url": "https://github.com/ChanseyIsTheBest/rr6-nx/releases/download/v1.0.0/rr6-nx.nro",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 10,
       "relevance_status": "promising",
@@ -213,7 +1731,89 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-10T02:38:00.025301+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-10T13:23:13.841634+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "StarFox Remake [recompiled]: static recompilation of Star Fox (Nintendo Switch 2) into a native Windows app, built on your PC from your own copy. No game files included.",
+        "latest_release_url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/tag/v1.0.1",
+        "latest_release_name": "SpaceAnimalsRecomp 1.0.1",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/download/v1.0.1/SHA256SUMS.txt",
+            "size": 205
+          },
+          {
+            "name": "SpaceAnimalsRecomp-1.0.1-update.zip",
+            "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/download/v1.0.1/SpaceAnimalsRecomp-1.0.1-update.zip",
+            "size": 1073390
+          },
+          {
+            "name": "SpaceAnimalsRecomp-1.0.1-windows.zip",
+            "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/download/v1.0.1/SpaceAnimalsRecomp-1.0.1-windows.zip",
+            "size": 91089114
+          }
+        ],
+        "releases": [
+          {
+            "name": "SpaceAnimalsRecomp 1.0.1",
+            "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/tag/v1.0.1",
+            "published_at": "2026-11-10T03:30:59Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/download/v1.0.1/SHA256SUMS.txt",
+                "size": 205
+              },
+              {
+                "name": "SpaceAnimalsRecomp-1.0.1-update.zip",
+                "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/download/v1.0.1/SpaceAnimalsRecomp-1.0.1-update.zip",
+                "size": 1073390
+              },
+              {
+                "name": "SpaceAnimalsRecomp-1.0.1-windows.zip",
+                "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/download/v1.0.1/SpaceAnimalsRecomp-1.0.1-windows.zip",
+                "size": 91089114
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SpaceAnimalsRecomp 1.0.0 — StarFox Remake [recompiled]",
+            "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/tag/v1.0.0",
+            "published_at": "2026-11-10T01:47:24Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/download/v1.0.0/SHA256SUMS.txt",
+                "size": 205
+              },
+              {
+                "name": "SpaceAnimalsRecomp-1.0.0-update.zip",
+                "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/download/v1.0.0/SpaceAnimalsRecomp-1.0.0-update.zip",
+                "size": 1005962
+              },
+              {
+                "name": "SpaceAnimalsRecomp-1.0.0-windows.zip",
+                "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/download/v1.0.0/SpaceAnimalsRecomp-1.0.0-windows.zip",
+                "size": 316246515
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -228,10 +1828,42 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/download/v1.0.1/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "SpaceAnimalsRecomp-1.0.1-update.zip",
+          "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/download/v1.0.1/SpaceAnimalsRecomp-1.0.1-update.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SpaceAnimalsRecomp-1.0.1-windows.zip",
+          "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/download/v1.0.1/SpaceAnimalsRecomp-1.0.1-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/download/v1.0.0/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "SpaceAnimalsRecomp-1.0.0-update.zip",
+          "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/download/v1.0.0/SpaceAnimalsRecomp-1.0.0-update.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SpaceAnimalsRecomp-1.0.0-windows.zip",
+          "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/releases/download/v1.0.0/SpaceAnimalsRecomp-1.0.0-windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки PC-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -249,7 +1881,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-10T02:38:00.024399+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-10T13:23:15.256216+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Dark Souls: Prepare to Die Edition running natively on Apple silicon Macs, via static recompilation (x86recomp). No game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
