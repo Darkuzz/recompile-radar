@@ -1,7 +1,280 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-10T13:23:16.621767+00:00",
+  "last_updated": "2026-11-11T00:32:05.242733+00:00",
   "candidates": [
+    {
+      "title": "Frostie77/BlastDroid",
+      "url": "https://github.com/Frostie77/BlastDroid",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-10T05:29:53Z",
+      "summary": "A Native Android port of the classic N64 demolition game Blast Corps 64.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-11T00:31:50.352654+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "CanavarIT/WOlfhound3D",
+      "url": "https://github.com/CanavarIT/WOlfhound3D",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-10T15:14:27Z",
+      "summary": "Native port wolf4sdl for android Topics: 3d, android, android-ndk, cmake, cpp, doom-engine, fps, game, gradle, ndk, opengl-es, opensource, raycasting, retro-gaming, sdl2, shooter, wolf3d, wolf4sdl, wolfenstein, wolfhound",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-11T00:31:50.349500+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: native port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "1nsec/Naruto-The-Broken-Bond-Android-Port",
+      "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-10T20:44:10Z",
+      "summary": "Unofficial native Android port of Naruto: The Broken Bond (Xbox 360), statically recompiled with the ReXGlue SDK and drawn with Vulkan. Fights at 60 FPS, story mode at the game's own 30 FPS (60 with frame interpolation on newer Snapdragons). For Snapdragon/Adreno devices. Developed by 1nsec. Topics: 1nsec-port, 60fps, adreno-gpu-drivers, android-gaming, android-port, naruto, naruto-the-broken-bond, rexglue, static-recompilation, turnip, vulkan-renderer, xbox-360, xbox360-android",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-11T00:31:50.347788+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "VinTeRuS/spore-re",
+      "url": "https://github.com/VinTeRuS/spore-re",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-10T20:46:53Z",
+      "summary": "Native Android port of Spore via static x86 recompilation. Very early stage. No APKs or game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-11T00:31:50.346566+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Sylfried/dq4-portage",
+      "url": "https://github.com/Sylfried/dq4-portage",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-10T23:27:04Z",
+      "summary": "Native Windows port of Dragon Quest IV (Android): the original engine run in memory, 16:9 display, mouse / keyboard / gamepad, French and English, savestates. Python, pyglet, Unicorn. No game files included. Topics: dragon-quest, dragon-quest-iv, jrpg, pc-port, pyglet, python, unicorn-engine, widescreen",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-11T00:31:50.344999+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "Wndwsqrrl/MLBBobble-recomp",
+      "url": "https://github.com/Wndwsqrrl/MLBBobble-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-11T00:00:29Z",
+      "summary": "Native Windows PC ports of the Xbox 360 games MLB Bobblehead Pros and MLB Bobblehead Battle, made with ReXGlue and static recompilation. Topics: baseball, game, mlb, recomp, recompilation, rexglue, rexglue-recomp, static-recompilation, windows, xbox360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-11T00:31:44.637269+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "mac-recomp/pop2",
+      "url": "https://github.com/mac-recomp/pop2",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-10T16:54:57Z",
+      "summary": "Static recompilation of Prince of Persia 2: The Shadow & the Flame (Macintosh, 1994, 68k) to native C++ and WebAssembly. Engine + tools only; no game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-11T00:31:40.517691+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
+    {
+      "title": "waterys419/bot-manager",
+      "url": "https://github.com/waterys419/bot-manager",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-11-10T18:33:00Z",
+      "summary": "BOT MANAGER: A Developer's Life — an original SNES homebrew game. Play in browser, emulator or real hardware.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-11T00:31:38.536457+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "play in browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, play in browser",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
+      ]
+    },
     {
       "title": "rzrbld/ReNFS5",
       "url": "https://github.com/rzrbld/ReNFS5",
@@ -11,7 +284,226 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-10T13:23:03.729873+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-11T00:31:53.871981+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "ReNFS5: Recomp Unleashed — ARM64 Linux port of Need for Speed: Porsche Unleashed (2000), using static recompilation, SDL2 and OpenGL ES. Players supply their own game files.",
+        "latest_release_url": "https://github.com/rzrbld/ReNFS5/releases/tag/portmaster-v20261110-uncapped-alpha",
+        "latest_release_name": "ReNFS5: Recomp Unleashed — Uncapped by Default",
+        "release_assets": [
+          {
+            "name": "nfs5.zip",
+            "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-uncapped-alpha/nfs5.zip",
+            "size": 16795482
+          },
+          {
+            "name": "nfs5.zip.sha256",
+            "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-uncapped-alpha/nfs5.zip.sha256",
+            "size": 75
+          }
+        ],
+        "releases": [
+          {
+            "name": "ReNFS5: Recomp Unleashed — Uncapped by Default",
+            "url": "https://github.com/rzrbld/ReNFS5/releases/tag/portmaster-v20261110-uncapped-alpha",
+            "published_at": "2026-11-10T13:42:46Z",
+            "assets": [
+              {
+                "name": "nfs5.zip",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-uncapped-alpha/nfs5.zip",
+                "size": 16795482
+              },
+              {
+                "name": "nfs5.zip.sha256",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-uncapped-alpha/nfs5.zip.sha256",
+                "size": 75
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "ReNFS5: Recomp Unleashed — Intro Crash Fix",
+            "url": "https://github.com/rzrbld/ReNFS5/releases/tag/portmaster-v20261110-stream-fix-alpha",
+            "published_at": "2026-11-10T13:26:39Z",
+            "assets": [
+              {
+                "name": "nfs5.zip",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-stream-fix-alpha/nfs5.zip",
+                "size": 16795319
+              },
+              {
+                "name": "nfs5.zip.sha256",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-stream-fix-alpha/nfs5.zip.sha256",
+                "size": 75
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "ReNFS5: Recomp Unleashed — Speed Update & Controls Fix",
+            "url": "https://github.com/rzrbld/ReNFS5/releases/tag/portmaster-v20261110-speed-controls-alpha",
+            "published_at": "2026-11-10T08:23:11Z",
+            "assets": [
+              {
+                "name": "nfs5.zip",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-speed-controls-alpha/nfs5.zip",
+                "size": 17061835
+              },
+              {
+                "name": "nfs5.zip.sha256",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-speed-controls-alpha/nfs5.zip.sha256",
+                "size": 75
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "ReNFS5: Recomp Unleashed — Smooth Frame Cap",
+            "url": "https://github.com/rzrbld/ReNFS5/releases/tag/portmaster-v20261110-smooth-cap-alpha",
+            "published_at": "2026-11-10T15:52:00Z",
+            "assets": [
+              {
+                "name": "nfs5.zip",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-smooth-cap-alpha/nfs5.zip",
+                "size": 16795789
+              },
+              {
+                "name": "nfs5.zip.sha256",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-smooth-cap-alpha/nfs5.zip.sha256",
+                "size": 75
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "ReNFS5: Recomp Unleashed — Movies & Porsche Chronicles (test)",
+            "url": "https://github.com/rzrbld/ReNFS5/releases/tag/portmaster-v20261110-movies-alpha",
+            "published_at": "2026-11-10T11:50:33Z",
+            "assets": [
+              {
+                "name": "nfs5.zip",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-movies-alpha/nfs5.zip",
+                "size": 17062240
+              },
+              {
+                "name": "nfs5.zip.sha256",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-movies-alpha/nfs5.zip.sha256",
+                "size": 75
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "ReNFS5: Recomp Unleashed — Frame Cap Fix",
+            "url": "https://github.com/rzrbld/ReNFS5/releases/tag/portmaster-v20261110-framecap-fix-alpha",
+            "published_at": "2026-11-10T06:13:57Z",
+            "assets": [
+              {
+                "name": "nfs5.zip",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-framecap-fix-alpha/nfs5.zip",
+                "size": 15377344
+              },
+              {
+                "name": "nfs5.zip.sha256",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-framecap-fix-alpha/nfs5.zip.sha256",
+                "size": 75
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "ReNFS5 — Speed & Stability Update",
+            "url": "https://github.com/rzrbld/ReNFS5/releases/tag/portmaster-v20261107-speed-timer-alpha",
+            "published_at": "2026-11-07T09:35:09Z",
+            "assets": [
+              {
+                "name": "nfs5.zip",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261107-speed-timer-alpha/nfs5.zip",
+                "size": 15656360
+              },
+              {
+                "name": "nfs5.zip.sha256",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261107-speed-timer-alpha/nfs5.zip.sha256",
+                "size": 75
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "ReNFS5 — First Release (SDL GLES)",
+            "url": "https://github.com/rzrbld/ReNFS5/releases/tag/portmaster-v20261107-sdl-gles-alpha",
+            "published_at": "2026-11-07T00:57:09Z",
+            "assets": [
+              {
+                "name": "nfs5.zip",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261107-sdl-gles-alpha/nfs5.zip",
+                "size": 15644625
+              },
+              {
+                "name": "nfs5.zip.sha256",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261107-sdl-gles-alpha/nfs5.zip.sha256",
+                "size": 75
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "ReNFS5: Recomp Unleashed — Speed & Stability Update",
+            "url": "https://github.com/rzrbld/ReNFS5/releases/tag/portmaster-v20261107-recomp-unleashed-alpha",
+            "published_at": "2026-11-07T09:39:56Z",
+            "assets": [
+              {
+                "name": "nfs5.zip",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261107-recomp-unleashed-alpha/nfs5.zip",
+                "size": 15656452
+              },
+              {
+                "name": "nfs5.zip.sha256",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261107-recomp-unleashed-alpha/nfs5.zip.sha256",
+                "size": 75
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "ReNFS5 — Launcher Refresh",
+            "url": "https://github.com/rzrbld/ReNFS5/releases/tag/portmaster-v20261107-launcher-refresh-alpha",
+            "published_at": "2026-11-07T01:16:12Z",
+            "assets": [
+              {
+                "name": "nfs5.zip",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261107-launcher-refresh-alpha/nfs5.zip",
+                "size": 15646822
+              },
+              {
+                "name": "nfs5.zip.sha256",
+                "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261107-launcher-refresh-alpha/nfs5.zip.sha256",
+                "size": 75
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -24,9 +516,111 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "nfs5.zip",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-uncapped-alpha/nfs5.zip",
+          "type": "archive"
+        },
+        {
+          "name": "nfs5.zip.sha256",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-uncapped-alpha/nfs5.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "nfs5.zip",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-stream-fix-alpha/nfs5.zip",
+          "type": "archive"
+        },
+        {
+          "name": "nfs5.zip.sha256",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-stream-fix-alpha/nfs5.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "nfs5.zip",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-speed-controls-alpha/nfs5.zip",
+          "type": "archive"
+        },
+        {
+          "name": "nfs5.zip.sha256",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-speed-controls-alpha/nfs5.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "nfs5.zip",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-smooth-cap-alpha/nfs5.zip",
+          "type": "archive"
+        },
+        {
+          "name": "nfs5.zip.sha256",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-smooth-cap-alpha/nfs5.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "nfs5.zip",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-movies-alpha/nfs5.zip",
+          "type": "archive"
+        },
+        {
+          "name": "nfs5.zip.sha256",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-movies-alpha/nfs5.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "nfs5.zip",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-framecap-fix-alpha/nfs5.zip",
+          "type": "archive"
+        },
+        {
+          "name": "nfs5.zip.sha256",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261110-framecap-fix-alpha/nfs5.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "nfs5.zip",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261107-speed-timer-alpha/nfs5.zip",
+          "type": "archive"
+        },
+        {
+          "name": "nfs5.zip.sha256",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261107-speed-timer-alpha/nfs5.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "nfs5.zip",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261107-sdl-gles-alpha/nfs5.zip",
+          "type": "archive"
+        },
+        {
+          "name": "nfs5.zip.sha256",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261107-sdl-gles-alpha/nfs5.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "nfs5.zip",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261107-recomp-unleashed-alpha/nfs5.zip",
+          "type": "archive"
+        },
+        {
+          "name": "nfs5.zip.sha256",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261107-recomp-unleashed-alpha/nfs5.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "nfs5.zip",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261107-launcher-refresh-alpha/nfs5.zip",
+          "type": "archive"
+        },
+        {
+          "name": "nfs5.zip.sha256",
+          "url": "https://github.com/rzrbld/ReNFS5/releases/download/portmaster-v20261107-launcher-refresh-alpha/nfs5.zip.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -44,7 +638,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-10T13:23:03.728765+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-11T00:31:55.358771+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A native Windows port of the Xbox version of Godzilla: Save the Earth (2004), made by statically recompiling the game's default.xbe into C with the xboxrecomp toolkit and running it on a Direct3D 11 renderer.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -77,7 +688,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-10T13:22:59.614722+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-11T00:31:56.749844+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Colony Arena, the swarm-routing site: a colony map of every project, a page per protocol with its diagrams and quests, and AntHocNet's game, docs and API, running AntHocNet's C++ core compiled to WebAssembly in the browser.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -112,7 +740,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-10T13:22:54.930875+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-11T00:31:58.165556+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Dodge the blue balls: a WinForms game with a static HTML/JS browser port",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -1925,7 +2570,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-10T02:37:55.794722+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-11T00:31:59.553395+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "An interactive thriller where you learn to write SQL by hand to catch a rogue trader before the market opens.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -1960,7 +2622,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-10T02:37:51.319373+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-11T00:32:00.973700+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A from-scratch browser port of Need for Speed: ProStreet (2007): static x86->C recompilation to WebAssembly, D3D9->WebGPU, DirectSound->WebAudio. Bring your own game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -4036,7 +4715,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-09T13:44:11.526334+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-11T00:32:02.360634+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of Star Fox Command (Nintendo DS) by static recompilation — bring your own European ROM; the game is built on your PC.",
+        "latest_release_url": "https://github.com/SerenityG4K/starfox-command-native/releases/tag/v1.2",
+        "latest_release_name": "Star Fox Command — native PC port 1.2",
+        "release_assets": [
+          {
+            "name": "starfox-command-native-1.2-windows-x64.zip",
+            "url": "https://github.com/SerenityG4K/starfox-command-native/releases/download/v1.2/starfox-command-native-1.2-windows-x64.zip",
+            "size": 356697800
+          }
+        ],
+        "releases": [
+          {
+            "name": "Star Fox Command — native PC port 1.2",
+            "url": "https://github.com/SerenityG4K/starfox-command-native/releases/tag/v1.2",
+            "published_at": "2026-11-09T04:03:10Z",
+            "assets": [
+              {
+                "name": "starfox-command-native-1.2-windows-x64.zip",
+                "url": "https://github.com/SerenityG4K/starfox-command-native/releases/download/v1.2/starfox-command-native-1.2-windows-x64.zip",
+                "size": 356697800
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -4045,14 +4762,22 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
+          "windows",
           "pc port",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "starfox-command-native-1.2-windows-x64.zip",
+          "url": "https://github.com/SerenityG4K/starfox-command-native/releases/download/v1.2/starfox-command-native-1.2-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -4070,7 +4795,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-09T13:44:07.082897+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-11T00:32:03.854508+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Tic-Tac-Toe in the browser: two-player mode or a computer opponent that wins when it can and blocks when it must. Blazor WebAssembly.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
