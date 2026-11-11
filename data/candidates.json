@@ -1,7 +1,172 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-11T00:32:05.242733+00:00",
+  "last_updated": "2026-11-11T12:34:12.628205+00:00",
   "candidates": [
+    {
+      "title": "CanavarIT/DoomGen",
+      "url": "https://github.com/CanavarIT/DoomGen",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-11T00:31:22Z",
+      "summary": "native port of Doomgeneric for android Topics: android, android-port, application-code, c, cmake, doom, doomgeneric, game, gradle, java, ndk",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-11T12:33:55.675833+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "mostardor/adolfheim-android",
+      "url": "https://github.com/mostardor/adolfheim-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-11T04:29:22Z",
+      "summary": "Unofficial Android port of A Dance of Fire and Ice: versions, changes and build information (no game files)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-11T12:33:55.674492+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "linuxopt/pla-recomp",
+      "url": "https://github.com/linuxopt/pla-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-11T05:12:11Z",
+      "summary": "Pokémon Legends: Arceus (1.1.1) for Linux as a self-contained AppImage — LZ&A Recomp's static recompilation, built from your own game files. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-11T12:33:49.120730+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "Adolini1715/Concrete-Jungle-PC",
+      "url": "https://github.com/Adolini1715/Concrete-Jungle-PC",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-11T05:57:03Z",
+      "summary": "Native PC port of Predator: Concrete Jungle (Xbox, 2005) by static recompilation. Build it from your own disc with Install.bat. No game data included. Topics: decompilation, pc-port, predator, reverse-engineering, static-recompilation, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-11T12:33:49.119857+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "surblazer/legobatman-recomp",
+      "url": "https://github.com/surblazer/legobatman-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-11T12:30:07Z",
+      "summary": "LEGO Batman: The Videogame (Xbox 360) on Nintendo Switch by static recompilation (ReXGlue, deko3d). No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-11T12:33:49.119044+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "Frostie77/BlastDroid",
       "url": "https://github.com/Frostie77/BlastDroid",
@@ -11,7 +176,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-11T00:31:50.352654+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-11T12:33:59.323684+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A Native Android port of the classic N64 demolition game Blast Corps 64.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +227,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-11T00:31:50.349500+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-11T12:34:00.913994+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native port wolf4sdl for android",
+        "latest_release_url": "https://github.com/CanavarIT/WOlfhound3D/releases/tag/v1.0",
+        "latest_release_name": "WOlfhound3D-v1.0",
+        "release_assets": [
+          {
+            "name": "wolfhound3D.apk",
+            "url": "https://github.com/CanavarIT/WOlfhound3D/releases/download/v1.0/wolfhound3D.apk",
+            "size": 10618096
+          }
+        ],
+        "releases": [
+          {
+            "name": "WOlfhound3D-v1.0",
+            "url": "https://github.com/CanavarIT/WOlfhound3D/releases/tag/v1.0",
+            "published_at": "2026-11-10T15:11:08Z",
+            "assets": [
+              {
+                "name": "wolfhound3D.apk",
+                "url": "https://github.com/CanavarIT/WOlfhound3D/releases/download/v1.0/wolfhound3D.apk",
+                "size": 10618096
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -58,9 +278,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "wolfhound3D.apk",
+          "url": "https://github.com/CanavarIT/WOlfhound3D/releases/download/v1.0/wolfhound3D.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
@@ -78,7 +305,157 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-11T00:31:50.347788+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-11T12:34:02.540729+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native Android port of Naruto: The Broken Bond (Xbox 360), statically recompiled with the ReXGlue SDK and drawn with Vulkan. Fights at 60 FPS, story mode at the game's own 30 FPS (60 with frame interpolation on newer Snapdragons). For Snapdragon/Adreno devices. Developed by 1nsec.",
+        "latest_release_url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/tag/v2.5-android-beta.42",
+        "latest_release_name": "Android Beta (2.5-android-beta.42)",
+        "release_assets": [
+          {
+            "name": "NarutoBrokenBond-Android-2.5-android-beta.42.apk",
+            "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-beta.42/NarutoBrokenBond-Android-2.5-android-beta.42.apk",
+            "size": 52510868
+          }
+        ],
+        "releases": [
+          {
+            "name": "Android Beta (2.5-android-beta.42)",
+            "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/tag/v2.5-android-beta.42",
+            "published_at": "2026-11-10T20:44:11Z",
+            "assets": [
+              {
+                "name": "NarutoBrokenBond-Android-2.5-android-beta.42.apk",
+                "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-beta.42/NarutoBrokenBond-Android-2.5-android-beta.42.apk",
+                "size": 52510868
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Android Beta (2.5-android-beta.41)",
+            "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/tag/v2.5-android-beta.41",
+            "published_at": "2026-11-10T18:14:04Z",
+            "assets": [
+              {
+                "name": "NarutoBrokenBond-Android-2.5-android-beta.41.apk",
+                "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-beta.41/NarutoBrokenBond-Android-2.5-android-beta.41.apk",
+                "size": 52509652
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Android Beta (2.5-android-beta.35)",
+            "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/tag/v2.5-android-beta.35",
+            "published_at": "2026-11-10T16:19:34Z",
+            "assets": [
+              {
+                "name": "NarutoBrokenBond-Android-2.5-android-beta.35.apk",
+                "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-beta.35/NarutoBrokenBond-Android-2.5-android-beta.35.apk",
+                "size": 51897076
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Android Beta (2.5-android-beta.34)",
+            "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/tag/v2.5-android-beta.34",
+            "published_at": "2026-11-06T16:09:19Z",
+            "assets": [
+              {
+                "name": "NarutoBrokenBond-Android-2.5-android-beta.34.apk",
+                "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-beta.34/NarutoBrokenBond-Android-2.5-android-beta.34.apk",
+                "size": 51870444
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Android Beta (2.5-android-beta.33)",
+            "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/tag/v2.5-android-beta.33",
+            "published_at": "2026-11-04T17:17:54Z",
+            "assets": [
+              {
+                "name": "NarutoBrokenBond-Android-2.5-android-beta.33.apk",
+                "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-beta.33/NarutoBrokenBond-Android-2.5-android-beta.33.apk",
+                "size": 51869248
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Android Alpha (2.5-android-alpha.32)",
+            "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/tag/v2.5-android-alpha.32",
+            "published_at": "2026-11-04T16:24:02Z",
+            "assets": [
+              {
+                "name": "NarutoBrokenBond-Android-2.5-android-alpha.32.apk",
+                "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-alpha.32/NarutoBrokenBond-Android-2.5-android-alpha.32.apk",
+                "size": 51870088
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Android Alpha (2.5-android-alpha.30)",
+            "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/tag/v2.5-android-alpha.30",
+            "published_at": "2026-11-04T10:11:10Z",
+            "assets": [
+              {
+                "name": "NarutoBrokenBond-Android-2.5-android-alpha.30.apk",
+                "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-alpha.30/NarutoBrokenBond-Android-2.5-android-alpha.30.apk",
+                "size": 51847412
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Android Alpha (2.5-android-alpha.27)",
+            "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/tag/v2.5-android-alpha.27",
+            "published_at": "2026-11-03T13:42:06Z",
+            "assets": [
+              {
+                "name": "NarutoBrokenBond-Android-2.5-android-alpha.27.apk",
+                "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-alpha.27/NarutoBrokenBond-Android-2.5-android-alpha.27.apk",
+                "size": 51349596
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Android Alpha (2.5-android-alpha.26)",
+            "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/tag/v2.5-android-alpha.26",
+            "published_at": "2026-10-31T15:57:51Z",
+            "assets": [
+              {
+                "name": "NarutoBrokenBond-Android-2.5-android-alpha.26.apk",
+                "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-alpha.26/NarutoBrokenBond-Android-2.5-android-alpha.26.apk",
+                "size": 51348848
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -92,9 +469,56 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "NarutoBrokenBond-Android-2.5-android-beta.42.apk",
+          "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-beta.42/NarutoBrokenBond-Android-2.5-android-beta.42.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NarutoBrokenBond-Android-2.5-android-beta.41.apk",
+          "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-beta.41/NarutoBrokenBond-Android-2.5-android-beta.41.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NarutoBrokenBond-Android-2.5-android-beta.35.apk",
+          "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-beta.35/NarutoBrokenBond-Android-2.5-android-beta.35.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NarutoBrokenBond-Android-2.5-android-beta.34.apk",
+          "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-beta.34/NarutoBrokenBond-Android-2.5-android-beta.34.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NarutoBrokenBond-Android-2.5-android-beta.33.apk",
+          "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-beta.33/NarutoBrokenBond-Android-2.5-android-beta.33.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NarutoBrokenBond-Android-2.5-android-alpha.32.apk",
+          "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-alpha.32/NarutoBrokenBond-Android-2.5-android-alpha.32.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NarutoBrokenBond-Android-2.5-android-alpha.30.apk",
+          "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-alpha.30/NarutoBrokenBond-Android-2.5-android-alpha.30.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NarutoBrokenBond-Android-2.5-android-alpha.27.apk",
+          "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-alpha.27/NarutoBrokenBond-Android-2.5-android-alpha.27.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "NarutoBrokenBond-Android-2.5-android-alpha.26.apk",
+          "url": "https://github.com/1nsec/Naruto-The-Broken-Bond-Android-Port/releases/download/v2.5-android-alpha.26/NarutoBrokenBond-Android-2.5-android-alpha.26.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -112,7 +536,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-11T00:31:50.346566+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-11T12:34:04.336937+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Native Android port of Spore via static x86 recompilation. Very early stage. No APKs or game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -146,7 +587,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-11T00:31:50.344999+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-11T12:34:05.893882+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows port of Dragon Quest IV (Android): the original engine run in memory, 16:9 display, mouse / keyboard / gamepad, French and English, savestates. Python, pyglet, Unicorn. No game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -183,7 +641,65 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-11T00:31:44.637269+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-11T12:34:07.506695+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Native Windows PC ports of the Xbox 360 games MLB Bobblehead Pros and MLB Bobblehead Battle, made with ReXGlue and static recompilation.",
+        "latest_release_url": "https://github.com/Wndwsqrrl/MLBBobble-recomp/releases/tag/v0.1.0",
+        "latest_release_name": "MLB Bobblehead Recomp v0.1.0 — First release (base games, Windows)",
+        "release_assets": [
+          {
+            "name": "MLB-Bobblehead-Recomp-0.1.0-portable.zip",
+            "url": "https://github.com/Wndwsqrrl/MLBBobble-recomp/releases/download/v0.1.0/MLB-Bobblehead-Recomp-0.1.0-portable.zip",
+            "size": 25302332
+          },
+          {
+            "name": "MLB-Bobblehead-Recomp-0.1.0-setup.exe",
+            "url": "https://github.com/Wndwsqrrl/MLBBobble-recomp/releases/download/v0.1.0/MLB-Bobblehead-Recomp-0.1.0-setup.exe",
+            "size": 18180618
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/Wndwsqrrl/MLBBobble-recomp/releases/download/v0.1.0/SHA256SUMS.txt",
+            "size": 213
+          }
+        ],
+        "releases": [
+          {
+            "name": "MLB Bobblehead Recomp v0.1.0 — First release (base games, Windows)",
+            "url": "https://github.com/Wndwsqrrl/MLBBobble-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-10T23:32:26Z",
+            "assets": [
+              {
+                "name": "MLB-Bobblehead-Recomp-0.1.0-portable.zip",
+                "url": "https://github.com/Wndwsqrrl/MLBBobble-recomp/releases/download/v0.1.0/MLB-Bobblehead-Recomp-0.1.0-portable.zip",
+                "size": 25302332
+              },
+              {
+                "name": "MLB-Bobblehead-Recomp-0.1.0-setup.exe",
+                "url": "https://github.com/Wndwsqrrl/MLBBobble-recomp/releases/download/v0.1.0/MLB-Bobblehead-Recomp-0.1.0-setup.exe",
+                "size": 18180618
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/Wndwsqrrl/MLBBobble-recomp/releases/download/v0.1.0/SHA256SUMS.txt",
+                "size": 213
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -197,9 +713,26 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "MLB-Bobblehead-Recomp-0.1.0-portable.zip",
+          "url": "https://github.com/Wndwsqrrl/MLBBobble-recomp/releases/download/v0.1.0/MLB-Bobblehead-Recomp-0.1.0-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MLB-Bobblehead-Recomp-0.1.0-setup.exe",
+          "url": "https://github.com/Wndwsqrrl/MLBBobble-recomp/releases/download/v0.1.0/MLB-Bobblehead-Recomp-0.1.0-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/Wndwsqrrl/MLBBobble-recomp/releases/download/v0.1.0/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -217,7 +750,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-11T00:31:40.517691+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-11T12:34:09.191334+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Static recompilation of Prince of Persia 2: The Shadow & the Flame (Macintosh, 1994, 68k) to native C++ and WebAssembly. Engine + tools only; no game data.",
+        "latest_release_url": "https://github.com/mac-recomp/pop2/releases/tag/web-engine-1.0",
+        "latest_release_name": "Prince of Persia 2 (Macintosh) — self-hostable web engine (no game data)",
+        "release_assets": [
+          {
+            "name": "pop2-macintosh-web.zip",
+            "url": "https://github.com/mac-recomp/pop2/releases/download/web-engine-1.0/pop2-macintosh-web.zip",
+            "size": 2510512
+          }
+        ],
+        "releases": [
+          {
+            "name": "Prince of Persia 2 (Macintosh) — self-hostable web engine (no game data)",
+            "url": "https://github.com/mac-recomp/pop2/releases/tag/web-engine-1.0",
+            "published_at": "2026-07-05T09:55:35Z",
+            "assets": [
+              {
+                "name": "pop2-macintosh-web.zip",
+                "url": "https://github.com/mac-recomp/pop2/releases/download/web-engine-1.0/pop2-macintosh-web.zip",
+                "size": 2510512
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -230,9 +801,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "pop2-macintosh-web.zip",
+          "url": "https://github.com/mac-recomp/pop2/releases/download/web-engine-1.0/pop2-macintosh-web.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -250,7 +828,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-11T00:31:38.536457+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-11T12:34:10.872099+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "BOT MANAGER: A Developer's Life — an original SNES homebrew game. Play in browser, emulator or real hardware.",
+        "latest_release_url": "https://github.com/waterys419/bot-manager/releases/tag/v1.1",
+        "latest_release_name": "BOT MANAGER v1.1",
+        "release_assets": [
+          {
+            "name": "bot-manager.sfc",
+            "url": "https://github.com/waterys419/bot-manager/releases/download/v1.1/bot-manager.sfc",
+            "size": 524288
+          }
+        ],
+        "releases": [
+          {
+            "name": "BOT MANAGER v1.1",
+            "url": "https://github.com/waterys419/bot-manager/releases/tag/v1.1",
+            "published_at": "2026-11-11T01:32:54Z",
+            "assets": [
+              {
+                "name": "bot-manager.sfc",
+                "url": "https://github.com/waterys419/bot-manager/releases/download/v1.1/bot-manager.sfc",
+                "size": 524288
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "BOT MANAGER v1.0",
+            "url": "https://github.com/waterys419/bot-manager/releases/tag/v1.0",
+            "published_at": "2026-11-10T18:33:01Z",
+            "assets": [
+              {
+                "name": "bot-manager.sfc",
+                "url": "https://github.com/waterys419/bot-manager/releases/download/v1.0/bot-manager.sfc",
+                "size": 262144
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -264,9 +894,21 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "bot-manager.sfc",
+          "url": "https://github.com/waterys419/bot-manager/releases/download/v1.1/bot-manager.sfc",
+          "type": "other_file"
+        },
+        {
+          "name": "bot-manager.sfc",
+          "url": "https://github.com/waterys419/bot-manager/releases/download/v1.0/bot-manager.sfc",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 4,
       "relevance_status": "possible",
