@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-11T12:34:12.628205+00:00",
+  "last_updated": "2026-11-12T01:52:01.966670+00:00",
   "candidates": [
     {
-      "title": "CanavarIT/DoomGen",
-      "url": "https://github.com/CanavarIT/DoomGen",
+      "title": "almost-drowned-rat/Orta-Recompiled-Android",
+      "url": "https://github.com/almost-drowned-rat/Orta-Recompiled-Android",
       "source_name": "GitHub: Android ports",
-      "published": "2026-11-11T00:31:22Z",
-      "summary": "native port of Doomgeneric for android Topics: android, android-port, application-code, c, cmake, doom, doomgeneric, game, gradle, java, ndk",
+      "published": "2026-11-11T22:55:49Z",
+      "summary": "Experimental Android port of Orta Recompiled (Panzer Dragoon Orta, Xbox PAL): the game is compiled on your device from your own disc. AI assistance yes (Claude Code by Anthropic).",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-11T12:33:55.675833+00:00",
+      "found_at": "2026-11-12T01:51:47.888050+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -19,7 +19,8 @@
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [
-          "android"
+          "android",
+          "android port"
         ],
         "pc_terms": [],
         "other_platform_terms": []
@@ -28,22 +29,22 @@
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
       ],
-      "relevance_score": 11,
+      "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: port of, native port, explicit port/recompilation wording",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, android port, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
     {
-      "title": "mostardor/adolfheim-android",
-      "url": "https://github.com/mostardor/adolfheim-android",
+      "title": "IamWilmar/nier-recomp",
+      "url": "https://github.com/IamWilmar/nier-recomp",
       "source_name": "GitHub: Android ports",
-      "published": "2026-11-11T04:29:22Z",
-      "summary": "Unofficial Android port of A Dance of Fire and Ice: versions, changes and build information (no game files)",
+      "published": "2026-11-12T01:07:04Z",
+      "summary": "Native Android port of NieR:Automata for the Retroid Pocket Flip 2. Bring your own extracted game files.",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-11T12:33:55.674492+00:00",
+      "found_at": "2026-11-12T01:51:47.886490+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -70,6 +71,641 @@
       ]
     },
     {
+      "title": "IamWilmar/mhrise-recomp",
+      "url": "https://github.com/IamWilmar/mhrise-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-12T01:07:06Z",
+      "summary": "Native Android port of Monster Hunter Rise for the Retroid Pocket Flip 2. Bring your own extracted game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-12T01:51:47.885846+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "IamWilmar/xenoblade-recomp",
+      "url": "https://github.com/IamWilmar/xenoblade-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-12T01:07:08Z",
+      "summary": "Native Android port of Xenoblade Chronicles: Definitive Edition for the Retroid Pocket Flip 2. Bring your own extracted game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-12T01:51:47.885154+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "IamWilmar/disco-recomp",
+      "url": "https://github.com/IamWilmar/disco-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-12T01:07:10Z",
+      "summary": "Native Android port of Disco Elysium – The Final Cut for the Retroid Pocket Flip 2. Work in progress. Bring your own extracted game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-12T01:51:47.884306+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "artemnikonov/openhp1",
+      "url": "https://github.com/artemnikonov/openhp1",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-11T19:26:02Z",
+      "summary": "Open-source engine port of Harry Potter and the Philosopher's Stone (PC, 2001), checked against the original. Native on macOS, Windows and Linux. Requires your own game files. Topics: apple-silicon, csharp, dotnet, engine-reimplementation, game-engine, game-preservation, harry-potter, knowwonder, linux, macos, retro-gaming, sdl3, source-port, unreal-engine, unreal-engine-1, unrealscript, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-12T01:51:46.102799+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source-port, port of, reimplementation",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "jr551/stargatetc-src",
+      "url": "https://github.com/jr551/stargatetc-src",
+      "source_name": "GitHub: source ports",
+      "published": "2026-11-11T20:57:28Z",
+      "summary": "StargateTC source port — buildable C/C++ game logic for Half-Life/GoldSrc (source-only mirror; no assets or binaries) Topics: game-logic, goldsrc, half-life, hlsdk, reverse-engineering, source-port, total-conversion, xash3d",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-12T01:51:44.306750+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 7,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port, source-port",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "YJuDeAd/gow-ascension-pc-port",
+      "url": "https://github.com/YJuDeAd/gow-ascension-pc-port",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-11T22:54:33Z",
+      "summary": "Native Windows static recompilation of God of War: Ascension (PS3) using ps3recomp. Work in progress, no game files included. You must supply your own legally owned copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-12T01:51:42.480852+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "ECas95/djmax-recomp",
+      "url": "https://github.com/ECas95/djmax-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-11T23:35:21Z",
+      "summary": "Experimental DJMAX Fever (PSP) static recompilation: PS2 and 3DS ports. Code and tools only - bring your own game dump.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-12T01:51:42.480076+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "3ds port"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "MrWifi1143/LZA-Recomp",
+      "url": "https://github.com/MrWifi1143/LZA-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-11T23:58:26Z",
+      "summary": "LZ&A Recomp: Pokémon Legends: Arceus and Legends: Z-A static recompilations (built on letsgo-recomp / LAS Recomp). No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-12T01:51:42.479275+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "miroslavdanutalexandru-alt/Resistance-Fall-of-Man-Recomp",
+      "url": "https://github.com/miroslavdanutalexandru-alt/Resistance-Fall-of-Man-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-12T01:28:05Z",
+      "summary": "Native PC port of Resistance: Fall of Man (PS3) via static recompilation. D3D12 renderer, NVIDIA DLSS/DLAA and FSR upscaling, 60 fps, in-game PC menu, ultrawide, raw mouse input, keyboard and Xbox prompts. Requires your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-12T01:51:42.478285+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Tsamiuy/jsp-vs-ex",
+      "url": "https://github.com/Tsamiuy/jsp-vs-ex",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-12T01:35:30Z",
+      "summary": "J-Stars Victory VS-EX: Fan Revival. Unofficial PC port of J-Stars Victory VS+ (PS3) by static recompilation. Work in progress. Needs your own copy of the game. Topics: direct3d12, fan-project, fighting-game, pc-port, ps3, static-recompilation, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-12T01:51:42.477281+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "nawnie/yoshi4pc",
+      "url": "https://github.com/nawnie/yoshi4pc",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-12T01:44:39Z",
+      "summary": "Research project: static recompilation experiments for Yoshi and the Mysterious Book. No game assets included. Topics: research, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-12T01:51:42.476416+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Simon3Sarkis/super-odyssey-pc-recomp",
+      "url": "https://github.com/Simon3Sarkis/super-odyssey-pc-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-12T01:51:21Z",
+      "summary": "A native Windows PC port of Super Mario Odyssey by static recompilation. Bring your own game: no game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-12T01:51:42.475660+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "misterp1xfv-coder/CS-SOL",
+      "url": "https://github.com/misterp1xfv-coder/CS-SOL",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-11T22:05:30Z",
+      "summary": "Counter-Strike 1.6 in the browser via WebAssembly (Xash3D-FWGS + cs16-client), with an on-chain skin marketplace on Solana: buy, sell and trade skins with your wallet. Bring your own game files. No Valve assets included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-12T01:51:38.340003+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "CanavarIT/DoomGen",
+      "url": "https://github.com/CanavarIT/DoomGen",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-11T00:31:22Z",
+      "summary": "native port of Doomgeneric for android Topics: android, android-port, application-code, c, cmake, doom, doomgeneric, game, gradle, java, ndk",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-11T12:33:55.675833+00:00",
+      "check": {
+        "checked_at": "2026-11-12T01:51:51.441900+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "native port of Doomgeneric for android",
+        "latest_release_url": "https://github.com/CanavarIT/DoomGen/releases/tag/v1.0",
+        "latest_release_name": "DoomGen-v1.0",
+        "release_assets": [
+          {
+            "name": "doomgen.apk",
+            "url": "https://github.com/CanavarIT/DoomGen/releases/download/v1.0/doomgen.apk",
+            "size": 19430932
+          }
+        ],
+        "releases": [
+          {
+            "name": "DoomGen-v1.0",
+            "url": "https://github.com/CanavarIT/DoomGen/releases/tag/v1.0",
+            "published_at": "2026-11-11T00:29:20Z",
+            "assets": [
+              {
+                "name": "doomgen.apk",
+                "url": "https://github.com/CanavarIT/DoomGen/releases/download/v1.0/doomgen.apk",
+                "size": 19430932
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "doomgen.apk",
+          "url": "https://github.com/CanavarIT/DoomGen/releases/download/v1.0/doomgen.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "mostardor/adolfheim-android",
+      "url": "https://github.com/mostardor/adolfheim-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-11T04:29:22Z",
+      "summary": "Unofficial Android port of A Dance of Fire and Ice: versions, changes and build information (no game files)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-11T12:33:55.674492+00:00",
+      "check": {
+        "checked_at": "2026-11-12T01:51:52.819879+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial Android port of A Dance of Fire and Ice: versions, changes and build information (no game files)",
+        "latest_release_url": "https://github.com/mostardor/adolfheim-android/releases/tag/v0.3.1",
+        "latest_release_name": "0.3.1",
+        "release_assets": [
+          {
+            "name": "Adolfheim.apk",
+            "url": "https://github.com/mostardor/adolfheim-android/releases/download/v0.3.1/Adolfheim.apk",
+            "size": 81614053
+          },
+          {
+            "name": "main.1.com.adofaiport.personal.obb",
+            "url": "https://github.com/mostardor/adolfheim-android/releases/download/v0.3.1/main.1.com.adofaiport.personal.obb",
+            "size": 686065691
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.3.1",
+            "url": "https://github.com/mostardor/adolfheim-android/releases/tag/v0.3.1",
+            "published_at": "2026-11-11T14:58:13Z",
+            "assets": [
+              {
+                "name": "Adolfheim.apk",
+                "url": "https://github.com/mostardor/adolfheim-android/releases/download/v0.3.1/Adolfheim.apk",
+                "size": 81614053
+              },
+              {
+                "name": "main.1.com.adofaiport.personal.obb",
+                "url": "https://github.com/mostardor/adolfheim-android/releases/download/v0.3.1/main.1.com.adofaiport.personal.obb",
+                "size": 686065691
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.3.0-beta.1.",
+            "url": "https://github.com/mostardor/adolfheim-android/releases/tag/v0.3.0",
+            "published_at": "2026-11-11T03:40:23Z",
+            "assets": [
+              {
+                "name": "Adolfheim.apk",
+                "url": "https://github.com/mostardor/adolfheim-android/releases/download/v0.3.0/Adolfheim.apk",
+                "size": 81598737
+              },
+              {
+                "name": "main.1.com.adofaiport.personal.obb",
+                "url": "https://github.com/mostardor/adolfheim-android/releases/download/v0.3.0/main.1.com.adofaiport.personal.obb",
+                "size": 686059738
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.2.0",
+            "url": "https://github.com/mostardor/adolfheim-android/releases/tag/v0.2.0",
+            "published_at": "2026-11-11T03:40:16Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.1.0",
+            "url": "https://github.com/mostardor/adolfheim-android/releases/tag/v0.1.0",
+            "published_at": "2026-11-11T03:39:45Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "Adolfheim.apk",
+          "url": "https://github.com/mostardor/adolfheim-android/releases/download/v0.3.1/Adolfheim.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "main.1.com.adofaiport.personal.obb",
+          "url": "https://github.com/mostardor/adolfheim-android/releases/download/v0.3.1/main.1.com.adofaiport.personal.obb",
+          "type": "other_file"
+        },
+        {
+          "name": "Adolfheim.apk",
+          "url": "https://github.com/mostardor/adolfheim-android/releases/download/v0.3.0/Adolfheim.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "main.1.com.adofaiport.personal.obb",
+          "url": "https://github.com/mostardor/adolfheim-android/releases/download/v0.3.0/main.1.com.adofaiport.personal.obb",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
       "title": "linuxopt/pla-recomp",
       "url": "https://github.com/linuxopt/pla-recomp",
       "source_name": "GitHub: static recompilation",
@@ -78,7 +714,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-11T12:33:49.120730+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-12T01:51:54.258462+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Pokémon Legends: Arceus (1.1.1) for Linux as a self-contained AppImage — LZ&A Recomp's static recompilation, built from your own game files. No game files included.",
+        "latest_release_url": "https://github.com/linuxopt/pla-recomp/releases/tag/v1.2.0-rc1-appimage.4",
+        "latest_release_name": "PL:A Recomp AppImage 1.2.0-rc1 (build 4)",
+        "release_assets": [
+          {
+            "name": "PLA-Recomp-1.2.0-rc1-x86_64.AppImage",
+            "url": "https://github.com/linuxopt/pla-recomp/releases/download/v1.2.0-rc1-appimage.4/PLA-Recomp-1.2.0-rc1-x86_64.AppImage",
+            "size": 162875896
+          },
+          {
+            "name": "PLA-Recomp-1.2.0-rc1-x86_64.AppImage.sha256",
+            "url": "https://github.com/linuxopt/pla-recomp/releases/download/v1.2.0-rc1-appimage.4/PLA-Recomp-1.2.0-rc1-x86_64.AppImage.sha256",
+            "size": 103
+          }
+        ],
+        "releases": [
+          {
+            "name": "PL:A Recomp AppImage 1.2.0-rc1 (build 4)",
+            "url": "https://github.com/linuxopt/pla-recomp/releases/tag/v1.2.0-rc1-appimage.4",
+            "published_at": "2026-11-11T05:12:12Z",
+            "assets": [
+              {
+                "name": "PLA-Recomp-1.2.0-rc1-x86_64.AppImage",
+                "url": "https://github.com/linuxopt/pla-recomp/releases/download/v1.2.0-rc1-appimage.4/PLA-Recomp-1.2.0-rc1-x86_64.AppImage",
+                "size": 162875896
+              },
+              {
+                "name": "PLA-Recomp-1.2.0-rc1-x86_64.AppImage.sha256",
+                "url": "https://github.com/linuxopt/pla-recomp/releases/download/v1.2.0-rc1-appimage.4/PLA-Recomp-1.2.0-rc1-x86_64.AppImage.sha256",
+                "size": 103
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -91,9 +775,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "PLA-Recomp-1.2.0-rc1-x86_64.AppImage",
+          "url": "https://github.com/linuxopt/pla-recomp/releases/download/v1.2.0-rc1-appimage.4/PLA-Recomp-1.2.0-rc1-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "PLA-Recomp-1.2.0-rc1-x86_64.AppImage.sha256",
+          "url": "https://github.com/linuxopt/pla-recomp/releases/download/v1.2.0-rc1-appimage.4/PLA-Recomp-1.2.0-rc1-x86_64.AppImage.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -111,7 +807,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-11T12:33:49.119857+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-12T01:51:55.616878+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of Predator: Concrete Jungle (Xbox, 2005) by static recompilation. Build it from your own disc with Install.bat. No game data included.",
+        "latest_release_url": "https://github.com/Adolini1715/Concrete-Jungle-PC/releases/tag/v0.1",
+        "latest_release_name": "v0.1",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "v0.1",
+            "url": "https://github.com/Adolini1715/Concrete-Jungle-PC/releases/tag/v0.1",
+            "published_at": "2026-11-02T01:10:44Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -145,7 +867,74 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-11T12:33:49.119044+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-12T01:51:57.046085+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "LEGO Batman: The Videogame (Xbox 360) on Nintendo Switch by static recompilation (ReXGlue, deko3d). No game data included.",
+        "latest_release_url": "https://github.com/surblazer/legobatman-recomp/releases/tag/v0.1.1",
+        "latest_release_name": "LEGO Batman 0.1.1 (experimental): Switch",
+        "release_assets": [
+          {
+            "name": "legobatman-0.1.1-switch.zip",
+            "url": "https://github.com/surblazer/legobatman-recomp/releases/download/v0.1.1/legobatman-0.1.1-switch.zip",
+            "size": 23790843
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/surblazer/legobatman-recomp/releases/download/v0.1.1/SHA256SUMS",
+            "size": 94
+          }
+        ],
+        "releases": [
+          {
+            "name": "LEGO Batman 0.1.1 (experimental): Switch",
+            "url": "https://github.com/surblazer/legobatman-recomp/releases/tag/v0.1.1",
+            "published_at": "2026-11-11T13:50:22Z",
+            "assets": [
+              {
+                "name": "legobatman-0.1.1-switch.zip",
+                "url": "https://github.com/surblazer/legobatman-recomp/releases/download/v0.1.1/legobatman-0.1.1-switch.zip",
+                "size": 23790843
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/surblazer/legobatman-recomp/releases/download/v0.1.1/SHA256SUMS",
+                "size": 94
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "LEGO Batman 0.1.0 (experimental): Switch",
+            "url": "https://github.com/surblazer/legobatman-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-11T12:41:58Z",
+            "assets": [
+              {
+                "name": "legobatman-0.1.0-switch.zip",
+                "url": "https://github.com/surblazer/legobatman-recomp/releases/download/v0.1.0/legobatman-0.1.0-switch.zip",
+                "size": 23785838
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/surblazer/legobatman-recomp/releases/download/v0.1.0/SHA256SUMS",
+                "size": 94
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -156,9 +945,31 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "legobatman-0.1.1-switch.zip",
+          "url": "https://github.com/surblazer/legobatman-recomp/releases/download/v0.1.1/legobatman-0.1.1-switch.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/surblazer/legobatman-recomp/releases/download/v0.1.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "legobatman-0.1.0-switch.zip",
+          "url": "https://github.com/surblazer/legobatman-recomp/releases/download/v0.1.0/legobatman-0.1.0-switch.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/surblazer/legobatman-recomp/releases/download/v0.1.0/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 10,
       "relevance_status": "promising",
@@ -5489,10 +6300,69 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-09T13:44:02.253846+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-12T01:51:58.452296+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Twisted Metal 4 browser port powered by PsyZ and WebAssembly. Bring your own game disc.",
+        "latest_release_url": "https://github.com/ediskandarov/tm4_rewired/releases/tag/v0.1.2",
+        "latest_release_name": "v0.1.2",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/ediskandarov/tm4_rewired/releases/download/v0.1.2/SHA256SUMS",
+            "size": 206
+          },
+          {
+            "name": "tm4-rewired-server-linux-x64.tar.gz",
+            "url": "https://github.com/ediskandarov/tm4_rewired/releases/download/v0.1.2/tm4-rewired-server-linux-x64.tar.gz",
+            "size": 16912690
+          },
+          {
+            "name": "tm4-rewired-server-macos-arm64.tar.gz",
+            "url": "https://github.com/ediskandarov/tm4_rewired/releases/download/v0.1.2/tm4-rewired-server-macos-arm64.tar.gz",
+            "size": 15142906
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.2",
+            "url": "https://github.com/ediskandarov/tm4_rewired/releases/tag/v0.1.2",
+            "published_at": "2026-11-11T18:10:50Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ediskandarov/tm4_rewired/releases/download/v0.1.2/SHA256SUMS",
+                "size": 206
+              },
+              {
+                "name": "tm4-rewired-server-linux-x64.tar.gz",
+                "url": "https://github.com/ediskandarov/tm4_rewired/releases/download/v0.1.2/tm4-rewired-server-linux-x64.tar.gz",
+                "size": 16912690
+              },
+              {
+                "name": "tm4-rewired-server-macos-arm64.tar.gz",
+                "url": "https://github.com/ediskandarov/tm4_rewired/releases/download/v0.1.2/tm4-rewired-server-macos-arm64.tar.gz",
+                "size": 15142906
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
-        "Web"
+        "Web",
+        "PC"
       ],
       "category_evidence": {
         "browser_terms": [
@@ -5501,12 +6371,32 @@
           "browser port"
         ],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ediskandarov/tm4_rewired/releases/download/v0.1.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "tm4-rewired-server-linux-x64.tar.gz",
+          "url": "https://github.com/ediskandarov/tm4_rewired/releases/download/v0.1.2/tm4-rewired-server-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "tm4-rewired-server-macos-arm64.tar.gz",
+          "url": "https://github.com/ediskandarov/tm4_rewired/releases/download/v0.1.2/tm4-rewired-server-macos-arm64.tar.gz",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 8,
       "relevance_status": "promising",
@@ -6427,7 +7317,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T23:33:53.614092+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-12T01:51:59.855639+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": false,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub вернул 404. Проект не удаляем; проверку нужно повторить."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -7140,7 +8046,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-08T17:51:23.524771+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-12T01:52:00.493101+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Bedrock-style touch controls for the Eaglercraft 26.2 single-file Minecraft client (MIT, no game files).",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
