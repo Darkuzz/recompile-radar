@@ -1,7 +1,395 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-12T13:38:53.422600+00:00",
+  "last_updated": "2026-11-13T00:59:23.213099+00:00",
   "candidates": [
+    {
+      "title": "fractalstudio-sd/rally2-recomp-android",
+      "url": "https://github.com/fractalstudio-sd/rally2-recomp-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-12T20:08:28Z",
+      "summary": "Native Android port of the 1998 Model 3 arcade rally (srally2). Static recompilation + on-device ARM translation — no emulator, no game code included: bring your own ROM. Touch controls, widescreen, phone-as-controller, gamepad + vibration support.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T00:59:10.061679+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, android"
+      ]
+    },
+    {
+      "title": "mrchrisster/virtuatennis3-vr",
+      "url": "https://github.com/mrchrisster/virtuatennis3-vr",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-12T23:33:58Z",
+      "summary": "Virtua Tennis 3 in VR on Meta Quest: stand courtside in the full 3D stadium, or play Classic on a big virtual screen. Static recompilation runtime and build tools; no game files included - bring your own copy and build it yourself. Unofficial fan project, not affiliated with SEGA. Topics: gl4es, macos, meta-quest, openxr, sega-lindbergh, static-recompilation, virtua-tennis, virtual-reality",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T00:59:04.271638+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "vs-sr-dev/gbkit",
+      "url": "https://github.com/vs-sr-dev/gbkit",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-12T23:45:16Z",
+      "summary": "Nintendo Game Boy / Game Boy Color reverse engineering and static recompilation: an SM83-to-C++ recompiler and an LCD/sound/cartridge runtime under it; the whole library runs native, frame-identical to the interpreter. Topics: cpp, emulation, game-boy, game-boy-color, python, recompiler, retro-gaming, reverse-engineering, sm83, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T00:59:04.270760+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, reverse engineering, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "NikmanTheEvil/WWE-LoW-Recomp",
+      "url": "https://github.com/NikmanTheEvil/WWE-LoW-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-12T23:50:22Z",
+      "summary": "WWE Legends of WrestleMania (Xbox 360) as a native Windows program via static recompilation (ReXGlue). Bring your own game - no game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T00:59:04.270085+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "lagando/MKSM",
+      "url": "https://github.com/lagando/MKSM",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T00:56:46Z",
+      "summary": "Static recompilation of Mortal Kombat: Shaolin Monks (PS2) to native PC code with PS2Recomp. Vulkan GS renderer, VU1 JIT. No game data included: bring your own copy. Topics: decompilation, emulation, linux, playstation-2, ps2, recomp, recompilation, reverse-enginnering, static, static-recompilation, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T00:59:04.269432+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "SamiEnazi/infamous2-port",
+      "url": "https://github.com/SamiEnazi/infamous2-port",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T00:41:42Z",
+      "summary": "inFAMOUS 2 (PS3) as a native PC program for Windows and Linux: Setup recompiles YOUR copy on your PC (static recompilation, Vulkan). No game files included. Topics: infamous-2, linux, ps3, recompilation, static-recompilation, vulkan, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T00:59:04.268708+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "possessed1911/AAROAS-XBERecomp",
+      "url": "https://github.com/possessed1911/AAROAS-XBERecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T00:54:37Z",
+      "summary": "Static recompilation of America's Army: Rise of a Soldier, an original Xbox game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T00:59:04.268109+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Big-Onche/SauerWeb",
+      "url": "https://github.com/Big-Onche/SauerWeb",
+      "source_name": "GitHub: WebGL ports",
+      "published": "2026-11-13T00:58:27Z",
+      "summary": "A port of Cube 2: Sauerbraten in TypeScript, powered by Babylon.js. Topics: babylonjs, game, reverse-enginnering, typescript, webapp, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T00:59:02.411132+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webgl"
+      ]
+    },
+    {
+      "title": "clydejuniorscripts/mc3-web-study",
+      "url": "https://github.com/clydejuniorscripts/mc3-web-study",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-12T23:30:54Z",
+      "summary": "A study: Midnight Club 3 (mcdub3-nx / xboxrecomp) recompiled to WebAssembly, running in the browser with online free-roam. Full source, no game data: bring your own disc. Play: dubedition.xyz Topics: emscripten, game-preservation, midnight-club, multiplayer, recompilation, reverse-engineering, static-recompilation, webassembly, webgl2, websocket, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T00:58:59.422590+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
+    {
+      "title": "ediskandarov/rusty-metal-4",
+      "url": "https://github.com/ediskandarov/rusty-metal-4",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-12T18:12:44Z",
+      "summary": "Twisted Metal 4 browser port powered by PsyZ and WebAssembly. Bring your own game disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T00:58:54.995225+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
+    {
+      "title": "PhoeNox/Slingshot",
+      "url": "https://github.com/PhoeNox/Slingshot",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-12T20:18:37Z",
+      "summary": "A browser port of Slingshot, the two-player, turn-based gravity artillery game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T00:58:54.994788+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "KyleSchichl0x16/tennis-online",
+      "url": "https://github.com/KyleSchichl0x16/tennis-online",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-12T22:18:12Z",
+      "summary": "Online two-player browser port of GAMEDESIGN's Tennis Game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T00:58:54.994355+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "gmejia11/he-man_vita",
       "url": "https://github.com/gmejia11/he-man_vita",
@@ -11,7 +399,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-12T13:38:36.704979+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-13T00:59:11.610082+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "PS Vita port of the Android game He-Man: The Most Powerful Game in the Universe (based on soloader-boilerplate)",
+        "latest_release_url": "https://github.com/gmejia11/he-man_vita/releases/tag/v1.0",
+        "latest_release_name": "He-Man Vita v1.0",
+        "release_assets": [
+          {
+            "name": "heman.vpk",
+            "url": "https://github.com/gmejia11/he-man_vita/releases/download/v1.0/heman.vpk",
+            "size": 2237591
+          }
+        ],
+        "releases": [
+          {
+            "name": "He-Man Vita v1.0",
+            "url": "https://github.com/gmejia11/he-man_vita/releases/tag/v1.0",
+            "published_at": "2026-11-12T02:11:47Z",
+            "assets": [
+              {
+                "name": "heman.vpk",
+                "url": "https://github.com/gmejia11/he-man_vita/releases/download/v1.0/heman.vpk",
+                "size": 2237591
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -26,10 +452,17 @@
           "ps vita"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "heman.vpk",
+          "url": "https://github.com/gmejia11/he-man_vita/releases/download/v1.0/heman.vpk",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 8,
       "relevance_status": "promising",
@@ -47,7 +480,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-12T13:38:36.704115+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-13T00:59:13.050096+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial Android port of RhythmAlign — auto-align rhythm game handcam videos with music, export MP4 on device. Noncommercial.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -81,7 +531,209 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-12T13:38:34.573979+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-13T00:59:14.461536+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Port of the 1999 game Heavy Gear 2 - for modern Windows/Linux/Mac",
+        "latest_release_url": "https://github.com/BatMahn/HeavyGear2-Port/releases/tag/v0.26.0",
+        "latest_release_name": "v0.26.0",
+        "release_assets": [
+          {
+            "name": "hg2-port-linux-x86_64.zip",
+            "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.26.0/hg2-port-linux-x86_64.zip",
+            "size": 4297923
+          },
+          {
+            "name": "hg2-port-macos-universal.zip",
+            "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.26.0/hg2-port-macos-universal.zip",
+            "size": 5959931
+          },
+          {
+            "name": "hg2-port-windows-x64.zip",
+            "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.26.0/hg2-port-windows-x64.zip",
+            "size": 2708448
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.26.0",
+            "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/tag/v0.26.0",
+            "published_at": "2026-11-12T20:05:34Z",
+            "assets": [
+              {
+                "name": "hg2-port-linux-x86_64.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.26.0/hg2-port-linux-x86_64.zip",
+                "size": 4297923
+              },
+              {
+                "name": "hg2-port-macos-universal.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.26.0/hg2-port-macos-universal.zip",
+                "size": 5959931
+              },
+              {
+                "name": "hg2-port-windows-x64.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.26.0/hg2-port-windows-x64.zip",
+                "size": 2708448
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.25.0",
+            "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/tag/v0.25.0",
+            "published_at": "2026-11-12T15:29:51Z",
+            "assets": [
+              {
+                "name": "hg2-port-linux-x86_64.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.25.0/hg2-port-linux-x86_64.zip",
+                "size": 4274070
+              },
+              {
+                "name": "hg2-port-macos-universal.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.25.0/hg2-port-macos-universal.zip",
+                "size": 5929398
+              },
+              {
+                "name": "hg2-port-windows-x64.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.25.0/hg2-port-windows-x64.zip",
+                "size": 2694512
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.24.2",
+            "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/tag/v0.24.2",
+            "published_at": "2026-11-12T05:06:32Z",
+            "assets": [
+              {
+                "name": "hg2-port-linux-x86_64.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.2/hg2-port-linux-x86_64.zip",
+                "size": 4186412
+              },
+              {
+                "name": "hg2-port-macos-universal.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.2/hg2-port-macos-universal.zip",
+                "size": 5773710
+              },
+              {
+                "name": "hg2-port-windows-x64.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.2/hg2-port-windows-x64.zip",
+                "size": 2617521
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.24.1",
+            "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/tag/v0.24.1",
+            "published_at": "2026-11-12T04:59:40Z",
+            "assets": [
+              {
+                "name": "hg2-port-linux-x86_64.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.1/hg2-port-linux-x86_64.zip",
+                "size": 4186941
+              },
+              {
+                "name": "hg2-port-macos-universal.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.1/hg2-port-macos-universal.zip",
+                "size": 5773679
+              },
+              {
+                "name": "hg2-port-windows-x64.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.1/hg2-port-windows-x64.zip",
+                "size": 2616963
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.24.0",
+            "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/tag/v0.24.0",
+            "published_at": "2026-11-12T04:46:15Z",
+            "assets": [
+              {
+                "name": "hg2-port-linux-x86_64.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.0/hg2-port-linux-x86_64.zip",
+                "size": 4179864
+              },
+              {
+                "name": "hg2-port-macos-universal.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.0/hg2-port-macos-universal.zip",
+                "size": 5766020
+              },
+              {
+                "name": "hg2-port-windows-x64.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.0/hg2-port-windows-x64.zip",
+                "size": 2613338
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.23.0",
+            "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/tag/v0.23.0",
+            "published_at": "2026-11-12T04:28:43Z",
+            "assets": [
+              {
+                "name": "hg2-port-linux-x86_64.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.23.0/hg2-port-linux-x86_64.zip",
+                "size": 4173412
+              },
+              {
+                "name": "hg2-port-macos-universal.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.23.0/hg2-port-macos-universal.zip",
+                "size": 5751148
+              },
+              {
+                "name": "hg2-port-windows-x64.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.23.0/hg2-port-windows-x64.zip",
+                "size": 2606192
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.21.1",
+            "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/tag/v0.21.1",
+            "published_at": "2026-11-12T03:03:00Z",
+            "assets": [
+              {
+                "name": "hg2-port-linux-x86_64.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.21.1/hg2-port-linux-x86_64.zip",
+                "size": 4172572
+              },
+              {
+                "name": "hg2-port-macos-universal.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.21.1/hg2-port-macos-universal.zip",
+                "size": 5749504
+              },
+              {
+                "name": "hg2-port-windows-x64.zip",
+                "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.21.1/hg2-port-windows-x64.zip",
+                "size": 2605288
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -95,9 +747,116 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "hg2-port-linux-x86_64.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.26.0/hg2-port-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-macos-universal.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.26.0/hg2-port-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-windows-x64.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.26.0/hg2-port-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-linux-x86_64.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.25.0/hg2-port-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-macos-universal.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.25.0/hg2-port-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-windows-x64.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.25.0/hg2-port-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-linux-x86_64.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.2/hg2-port-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-macos-universal.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.2/hg2-port-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-windows-x64.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.2/hg2-port-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-linux-x86_64.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.1/hg2-port-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-macos-universal.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.1/hg2-port-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-windows-x64.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.1/hg2-port-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-linux-x86_64.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.0/hg2-port-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-macos-universal.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.0/hg2-port-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-windows-x64.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.24.0/hg2-port-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-linux-x86_64.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.23.0/hg2-port-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-macos-universal.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.23.0/hg2-port-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-windows-x64.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.23.0/hg2-port-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-linux-x86_64.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.21.1/hg2-port-linux-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-macos-universal.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.21.1/hg2-port-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "hg2-port-windows-x64.zip",
+          "url": "https://github.com/BatMahn/HeavyGear2-Port/releases/download/v0.21.1/hg2-port-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -115,17 +874,99 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-12T13:38:32.294291+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-11-13T00:59:15.946448+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Time Gate: Knight's Chase (1996) on modern PCs: a source port of the Infogrames engine with its original graphics, fixes and options. Bring your own copy of the game.",
+        "latest_release_url": "https://github.com/nayo186/TimeGateClassicReborn/releases/tag/v0.1.0-alpha.1",
+        "latest_release_name": "Time Gate: Classic Reborn v0.1.0-alpha.1",
+        "release_assets": [
+          {
+            "name": "TimeGateClassicReborn-0.1.0-alpha.1-linux-x64.tar.gz",
+            "url": "https://github.com/nayo186/TimeGateClassicReborn/releases/download/v0.1.0-alpha.1/TimeGateClassicReborn-0.1.0-alpha.1-linux-x64.tar.gz",
+            "size": 16481228
+          },
+          {
+            "name": "TimeGateClassicReborn-0.1.0-alpha.1-macos.tar.gz",
+            "url": "https://github.com/nayo186/TimeGateClassicReborn/releases/download/v0.1.0-alpha.1/TimeGateClassicReborn-0.1.0-alpha.1-macos.tar.gz",
+            "size": 21859199
+          },
+          {
+            "name": "TimeGateClassicReborn-0.1.0-alpha.1-windows-x64.zip",
+            "url": "https://github.com/nayo186/TimeGateClassicReborn/releases/download/v0.1.0-alpha.1/TimeGateClassicReborn-0.1.0-alpha.1-windows-x64.zip",
+            "size": 13887674
+          }
+        ],
+        "releases": [
+          {
+            "name": "Time Gate: Classic Reborn v0.1.0-alpha.1",
+            "url": "https://github.com/nayo186/TimeGateClassicReborn/releases/tag/v0.1.0-alpha.1",
+            "published_at": "2026-11-12T02:38:58Z",
+            "assets": [
+              {
+                "name": "TimeGateClassicReborn-0.1.0-alpha.1-linux-x64.tar.gz",
+                "url": "https://github.com/nayo186/TimeGateClassicReborn/releases/download/v0.1.0-alpha.1/TimeGateClassicReborn-0.1.0-alpha.1-linux-x64.tar.gz",
+                "size": 16481228
+              },
+              {
+                "name": "TimeGateClassicReborn-0.1.0-alpha.1-macos.tar.gz",
+                "url": "https://github.com/nayo186/TimeGateClassicReborn/releases/download/v0.1.0-alpha.1/TimeGateClassicReborn-0.1.0-alpha.1-macos.tar.gz",
+                "size": 21859199
+              },
+              {
+                "name": "TimeGateClassicReborn-0.1.0-alpha.1-windows-x64.zip",
+                "url": "https://github.com/nayo186/TimeGateClassicReborn/releases/download/v0.1.0-alpha.1/TimeGateClassicReborn-0.1.0-alpha.1-windows-x64.zip",
+                "size": 13887674
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "TimeGateClassicReborn-0.1.0-alpha.1-linux-x64.tar.gz",
+          "url": "https://github.com/nayo186/TimeGateClassicReborn/releases/download/v0.1.0-alpha.1/TimeGateClassicReborn-0.1.0-alpha.1-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "TimeGateClassicReborn-0.1.0-alpha.1-macos.tar.gz",
+          "url": "https://github.com/nayo186/TimeGateClassicReborn/releases/download/v0.1.0-alpha.1/TimeGateClassicReborn-0.1.0-alpha.1-macos.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "TimeGateClassicReborn-0.1.0-alpha.1-windows-x64.zip",
+          "url": "https://github.com/nayo186/TimeGateClassicReborn/releases/download/v0.1.0-alpha.1/TimeGateClassicReborn-0.1.0-alpha.1-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -142,7 +983,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-12T13:38:30.006129+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-13T00:59:17.385223+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native macOS port of Ferrari Virtual Race (2009) via static recompilation",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -169,7 +1027,336 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-12T13:38:30.004800+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-13T00:59:18.759802+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC version of UFC Undisputed 3 for Windows and Linux, built with ReXGlue static recompilation and Vulkan. Our main focus is the community Reborn mod. Career and Exhibition are playable at 60 FPS, with walkouts and other scenes at 60 FPS. You need your own copy of the game.",
+        "latest_release_url": "https://github.com/monscriser/UFC3MONS/releases/tag/1.0.12-UFC3MONS",
+        "latest_release_name": "UFC Undisputed 3: Recompiled — BETA 1.7",
+        "release_assets": [
+          {
+            "name": "UFC3MONS-BETA1.7-Linux-x86_64.AppImage",
+            "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.12-UFC3MONS/UFC3MONS-BETA1.7-Linux-x86_64.AppImage",
+            "size": 70216184
+          },
+          {
+            "name": "UFC3MONS-BETA1.7-Linux-x86_64.AppImage.sha256",
+            "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.12-UFC3MONS/UFC3MONS-BETA1.7-Linux-x86_64.AppImage.sha256",
+            "size": 105
+          },
+          {
+            "name": "UFC3MONS-BETA1.7-Windows.zip",
+            "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.12-UFC3MONS/UFC3MONS-BETA1.7-Windows.zip",
+            "size": 77266994
+          },
+          {
+            "name": "UFC3MONS-BETA1.7-Windows.zip.sha256",
+            "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.12-UFC3MONS/UFC3MONS-BETA1.7-Windows.zip.sha256",
+            "size": 96
+          }
+        ],
+        "releases": [
+          {
+            "name": "UFC Undisputed 3: Recompiled — BETA 1.7",
+            "url": "https://github.com/monscriser/UFC3MONS/releases/tag/1.0.12-UFC3MONS",
+            "published_at": "2026-11-11T21:26:47Z",
+            "assets": [
+              {
+                "name": "UFC3MONS-BETA1.7-Linux-x86_64.AppImage",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.12-UFC3MONS/UFC3MONS-BETA1.7-Linux-x86_64.AppImage",
+                "size": 70216184
+              },
+              {
+                "name": "UFC3MONS-BETA1.7-Linux-x86_64.AppImage.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.12-UFC3MONS/UFC3MONS-BETA1.7-Linux-x86_64.AppImage.sha256",
+                "size": 105
+              },
+              {
+                "name": "UFC3MONS-BETA1.7-Windows.zip",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.12-UFC3MONS/UFC3MONS-BETA1.7-Windows.zip",
+                "size": 77266994
+              },
+              {
+                "name": "UFC3MONS-BETA1.7-Windows.zip.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.12-UFC3MONS/UFC3MONS-BETA1.7-Windows.zip.sha256",
+                "size": 96
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "UFC Undisputed 3: Recompiled — BETA 1.6",
+            "url": "https://github.com/monscriser/UFC3MONS/releases/tag/1.0.11-UFC3MONS",
+            "published_at": "2026-11-10T15:16:40Z",
+            "assets": [
+              {
+                "name": "UFC3MONS-BETA1.6-Linux-x86_64.AppImage",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.11-UFC3MONS/UFC3MONS-BETA1.6-Linux-x86_64.AppImage",
+                "size": 70142456
+              },
+              {
+                "name": "UFC3MONS-BETA1.6-Linux-x86_64.AppImage.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.11-UFC3MONS/UFC3MONS-BETA1.6-Linux-x86_64.AppImage.sha256",
+                "size": 106
+              },
+              {
+                "name": "UFC3MONS-BETA1.6-Windows.zip",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.11-UFC3MONS/UFC3MONS-BETA1.6-Windows.zip",
+                "size": 78263624
+              },
+              {
+                "name": "UFC3MONS-BETA1.6-Windows.zip.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.11-UFC3MONS/UFC3MONS-BETA1.6-Windows.zip.sha256",
+                "size": 96
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "UFC Undisputed 3: Recompiled — BETA 1.5",
+            "url": "https://github.com/monscriser/UFC3MONS/releases/tag/1.0.10-UFC3MONS",
+            "published_at": "2026-11-06T00:46:21Z",
+            "assets": [
+              {
+                "name": "UFC3MONS-BETA1.5-Linux-x86_64.AppImage",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.10-UFC3MONS/UFC3MONS-BETA1.5-Linux-x86_64.AppImage",
+                "size": 70097400
+              },
+              {
+                "name": "UFC3MONS-BETA1.5-Linux-x86_64.AppImage.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.10-UFC3MONS/UFC3MONS-BETA1.5-Linux-x86_64.AppImage.sha256",
+                "size": 105
+              },
+              {
+                "name": "UFC3MONS-BETA1.5-Windows.zip",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.10-UFC3MONS/UFC3MONS-BETA1.5-Windows.zip",
+                "size": 77111451
+              },
+              {
+                "name": "UFC3MONS-BETA1.5-Windows.zip.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.10-UFC3MONS/UFC3MONS-BETA1.5-Windows.zip.sha256",
+                "size": 95
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "UFC Undisputed 3: Recompiled — BETA 1.4",
+            "url": "https://github.com/monscriser/UFC3MONS/releases/tag/1.0.9-UFC3MONS",
+            "published_at": "2026-11-05T18:33:58Z",
+            "assets": [
+              {
+                "name": "UFC3MONS-BETA1.4-Linux-x86_64.AppImage",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.9-UFC3MONS/UFC3MONS-BETA1.4-Linux-x86_64.AppImage",
+                "size": 70101496
+              },
+              {
+                "name": "UFC3MONS-BETA1.4-Linux-x86_64.AppImage.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.9-UFC3MONS/UFC3MONS-BETA1.4-Linux-x86_64.AppImage.sha256",
+                "size": 105
+              },
+              {
+                "name": "UFC3MONS-BETA1.4-Windows.zip",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.9-UFC3MONS/UFC3MONS-BETA1.4-Windows.zip",
+                "size": 77091440
+              },
+              {
+                "name": "UFC3MONS-BETA1.4-Windows.zip.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.9-UFC3MONS/UFC3MONS-BETA1.4-Windows.zip.sha256",
+                "size": 95
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "UFC Undisputed 3: Recompiled — BETA 1.3",
+            "url": "https://github.com/monscriser/UFC3MONS/releases/tag/1.0.8-UFC3MONS",
+            "published_at": "2026-11-04T19:27:54Z",
+            "assets": [
+              {
+                "name": "UFC3MONS-BETA1.3-Linux-x86_64.AppImage",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.8-UFC3MONS/UFC3MONS-BETA1.3-Linux-x86_64.AppImage",
+                "size": 70105592
+              },
+              {
+                "name": "UFC3MONS-BETA1.3-Linux-x86_64.AppImage.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.8-UFC3MONS/UFC3MONS-BETA1.3-Linux-x86_64.AppImage.sha256",
+                "size": 105
+              },
+              {
+                "name": "UFC3MONS-BETA1.3-Windows.zip",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.8-UFC3MONS/UFC3MONS-BETA1.3-Windows.zip",
+                "size": 77091441
+              },
+              {
+                "name": "UFC3MONS-BETA1.3-Windows.zip.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.8-UFC3MONS/UFC3MONS-BETA1.3-Windows.zip.sha256",
+                "size": 95
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "UFC Undisputed 3: Recompiled — BETA 1.2",
+            "url": "https://github.com/monscriser/UFC3MONS/releases/tag/1.0.7-UFC3MONS",
+            "published_at": "2026-11-04T12:28:44Z",
+            "assets": [
+              {
+                "name": "UFC3MONS-BETA1.2-Linux-x86_64.AppImage",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.7-UFC3MONS/UFC3MONS-BETA1.2-Linux-x86_64.AppImage",
+                "size": 70093304
+              },
+              {
+                "name": "UFC3MONS-BETA1.2-Linux-x86_64.AppImage.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.7-UFC3MONS/UFC3MONS-BETA1.2-Linux-x86_64.AppImage.sha256",
+                "size": 105
+              },
+              {
+                "name": "UFC3MONS-BETA1.2-Windows.zip",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.7-UFC3MONS/UFC3MONS-BETA1.2-Windows.zip",
+                "size": 77087524
+              },
+              {
+                "name": "UFC3MONS-BETA1.2-Windows.zip.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.7-UFC3MONS/UFC3MONS-BETA1.2-Windows.zip.sha256",
+                "size": 95
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "UFC Undisputed 3: Recompiled — BETA 1.1",
+            "url": "https://github.com/monscriser/UFC3MONS/releases/tag/1.0.6-UFC3MONS",
+            "published_at": "2026-10-30T11:44:06Z",
+            "assets": [
+              {
+                "name": "UFC3MONS-BETA1.1-Linux-x86_64.AppImage",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.6-UFC3MONS/UFC3MONS-BETA1.1-Linux-x86_64.AppImage",
+                "size": 70044152
+              },
+              {
+                "name": "UFC3MONS-BETA1.1-Linux-x86_64.AppImage.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.6-UFC3MONS/UFC3MONS-BETA1.1-Linux-x86_64.AppImage.sha256",
+                "size": 105
+              },
+              {
+                "name": "UFC3MONS-BETA1.1-Windows.zip",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.6-UFC3MONS/UFC3MONS-BETA1.1-Windows.zip",
+                "size": 77026768
+              },
+              {
+                "name": "UFC3MONS-BETA1.1-Windows.zip.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.6-UFC3MONS/UFC3MONS-BETA1.1-Windows.zip.sha256",
+                "size": 95
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "UFC Undisputed 3: Recompiled — BETA 1.0",
+            "url": "https://github.com/monscriser/UFC3MONS/releases/tag/1.0.5-UFC3MONS",
+            "published_at": "2026-10-29T23:11:39Z",
+            "assets": [
+              {
+                "name": "UFC3MONS-BETA1.0-Linux-x86_64.AppImage",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.5-UFC3MONS/UFC3MONS-BETA1.0-Linux-x86_64.AppImage",
+                "size": 70027768
+              },
+              {
+                "name": "UFC3MONS-BETA1.0-Linux-x86_64.AppImage.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.5-UFC3MONS/UFC3MONS-BETA1.0-Linux-x86_64.AppImage.sha256",
+                "size": 105
+              },
+              {
+                "name": "UFC3MONS-BETA1.0-Windows.zip",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.5-UFC3MONS/UFC3MONS-BETA1.0-Windows.zip",
+                "size": 77009187
+              },
+              {
+                "name": "UFC3MONS-BETA1.0-Windows.zip.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.5-UFC3MONS/UFC3MONS-BETA1.0-Windows.zip.sha256",
+                "size": 95
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "UFC Undisputed 3: Recompiled — R9.4-P14.5",
+            "url": "https://github.com/monscriser/UFC3MONS/releases/tag/1.0.4-UFC3MONS",
+            "published_at": "2026-10-28T23:39:10Z",
+            "assets": [
+              {
+                "name": "UFC3MONS-P14.5-Linux-x86_64.AppImage",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.4-UFC3MONS/UFC3MONS-P14.5-Linux-x86_64.AppImage",
+                "size": 69876216
+              },
+              {
+                "name": "UFC3MONS-P14.5-Linux-x86_64.AppImage.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.4-UFC3MONS/UFC3MONS-P14.5-Linux-x86_64.AppImage.sha256",
+                "size": 123
+              },
+              {
+                "name": "UFC3MONS-P14.5-Windows.zip",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.4-UFC3MONS/UFC3MONS-P14.5-Windows.zip",
+                "size": 76818045
+              },
+              {
+                "name": "UFC3MONS-P14.5-Windows.zip.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.4-UFC3MONS/UFC3MONS-P14.5-Windows.zip.sha256",
+                "size": 113
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "UFC Undisputed 3: Recompiled — R9.4-P7",
+            "url": "https://github.com/monscriser/UFC3MONS/releases/tag/1.0.3-UFC3MONS",
+            "published_at": "2026-10-24T22:24:44Z",
+            "assets": [
+              {
+                "name": "UFC3MONS-P7-PERFORMANCE-TEST-Linux-x86_64.AppImage",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.3-UFC3MONS/UFC3MONS-P7-PERFORMANCE-TEST-Linux-x86_64.AppImage",
+                "size": 69347832
+              },
+              {
+                "name": "UFC3MONS-P7-PERFORMANCE-TEST-Linux-x86_64.AppImage.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.3-UFC3MONS/UFC3MONS-P7-PERFORMANCE-TEST-Linux-x86_64.AppImage.sha256",
+                "size": 117
+              },
+              {
+                "name": "UFC3MONS-P7-PERFORMANCE-TEST-Windows.zip",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.3-UFC3MONS/UFC3MONS-P7-PERFORMANCE-TEST-Windows.zip",
+                "size": 76270943
+              },
+              {
+                "name": "UFC3MONS-P7-PERFORMANCE-TEST-Windows.zip.sha256",
+                "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.3-UFC3MONS/UFC3MONS-P7-PERFORMANCE-TEST-Windows.zip.sha256",
+                "size": 107
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -184,9 +1371,211 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "UFC3MONS-BETA1.7-Linux-x86_64.AppImage",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.12-UFC3MONS/UFC3MONS-BETA1.7-Linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "UFC3MONS-BETA1.7-Linux-x86_64.AppImage.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.12-UFC3MONS/UFC3MONS-BETA1.7-Linux-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-BETA1.7-Windows.zip",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.12-UFC3MONS/UFC3MONS-BETA1.7-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "UFC3MONS-BETA1.7-Windows.zip.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.12-UFC3MONS/UFC3MONS-BETA1.7-Windows.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-BETA1.6-Linux-x86_64.AppImage",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.11-UFC3MONS/UFC3MONS-BETA1.6-Linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "UFC3MONS-BETA1.6-Linux-x86_64.AppImage.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.11-UFC3MONS/UFC3MONS-BETA1.6-Linux-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-BETA1.6-Windows.zip",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.11-UFC3MONS/UFC3MONS-BETA1.6-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "UFC3MONS-BETA1.6-Windows.zip.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.11-UFC3MONS/UFC3MONS-BETA1.6-Windows.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-BETA1.5-Linux-x86_64.AppImage",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.10-UFC3MONS/UFC3MONS-BETA1.5-Linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "UFC3MONS-BETA1.5-Linux-x86_64.AppImage.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.10-UFC3MONS/UFC3MONS-BETA1.5-Linux-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-BETA1.5-Windows.zip",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.10-UFC3MONS/UFC3MONS-BETA1.5-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "UFC3MONS-BETA1.5-Windows.zip.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.10-UFC3MONS/UFC3MONS-BETA1.5-Windows.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-BETA1.4-Linux-x86_64.AppImage",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.9-UFC3MONS/UFC3MONS-BETA1.4-Linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "UFC3MONS-BETA1.4-Linux-x86_64.AppImage.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.9-UFC3MONS/UFC3MONS-BETA1.4-Linux-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-BETA1.4-Windows.zip",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.9-UFC3MONS/UFC3MONS-BETA1.4-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "UFC3MONS-BETA1.4-Windows.zip.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.9-UFC3MONS/UFC3MONS-BETA1.4-Windows.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-BETA1.3-Linux-x86_64.AppImage",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.8-UFC3MONS/UFC3MONS-BETA1.3-Linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "UFC3MONS-BETA1.3-Linux-x86_64.AppImage.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.8-UFC3MONS/UFC3MONS-BETA1.3-Linux-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-BETA1.3-Windows.zip",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.8-UFC3MONS/UFC3MONS-BETA1.3-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "UFC3MONS-BETA1.3-Windows.zip.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.8-UFC3MONS/UFC3MONS-BETA1.3-Windows.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-BETA1.2-Linux-x86_64.AppImage",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.7-UFC3MONS/UFC3MONS-BETA1.2-Linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "UFC3MONS-BETA1.2-Linux-x86_64.AppImage.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.7-UFC3MONS/UFC3MONS-BETA1.2-Linux-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-BETA1.2-Windows.zip",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.7-UFC3MONS/UFC3MONS-BETA1.2-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "UFC3MONS-BETA1.2-Windows.zip.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.7-UFC3MONS/UFC3MONS-BETA1.2-Windows.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-BETA1.1-Linux-x86_64.AppImage",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.6-UFC3MONS/UFC3MONS-BETA1.1-Linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "UFC3MONS-BETA1.1-Linux-x86_64.AppImage.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.6-UFC3MONS/UFC3MONS-BETA1.1-Linux-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-BETA1.1-Windows.zip",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.6-UFC3MONS/UFC3MONS-BETA1.1-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "UFC3MONS-BETA1.1-Windows.zip.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.6-UFC3MONS/UFC3MONS-BETA1.1-Windows.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-BETA1.0-Linux-x86_64.AppImage",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.5-UFC3MONS/UFC3MONS-BETA1.0-Linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "UFC3MONS-BETA1.0-Linux-x86_64.AppImage.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.5-UFC3MONS/UFC3MONS-BETA1.0-Linux-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-BETA1.0-Windows.zip",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.5-UFC3MONS/UFC3MONS-BETA1.0-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "UFC3MONS-BETA1.0-Windows.zip.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.5-UFC3MONS/UFC3MONS-BETA1.0-Windows.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-P14.5-Linux-x86_64.AppImage",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.4-UFC3MONS/UFC3MONS-P14.5-Linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "UFC3MONS-P14.5-Linux-x86_64.AppImage.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.4-UFC3MONS/UFC3MONS-P14.5-Linux-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-P14.5-Windows.zip",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.4-UFC3MONS/UFC3MONS-P14.5-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "UFC3MONS-P14.5-Windows.zip.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.4-UFC3MONS/UFC3MONS-P14.5-Windows.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-P7-PERFORMANCE-TEST-Linux-x86_64.AppImage",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.3-UFC3MONS/UFC3MONS-P7-PERFORMANCE-TEST-Linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "UFC3MONS-P7-PERFORMANCE-TEST-Linux-x86_64.AppImage.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.3-UFC3MONS/UFC3MONS-P7-PERFORMANCE-TEST-Linux-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "UFC3MONS-P7-PERFORMANCE-TEST-Windows.zip",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.3-UFC3MONS/UFC3MONS-P7-PERFORMANCE-TEST-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "UFC3MONS-P7-PERFORMANCE-TEST-Windows.zip.sha256",
+          "url": "https://github.com/monscriser/UFC3MONS/releases/download/1.0.3-UFC3MONS/UFC3MONS-P7-PERFORMANCE-TEST-Windows.zip.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -204,7 +1593,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-12T13:38:30.003275+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-13T00:59:20.312615+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows port of Formula One 06 (PS2, PAL) by static recompilation. GPU rendering, PC options in the game's menus, wheel support, photo mode. Free fan project, not affiliated; bring your own disc.",
+        "latest_release_url": "https://github.com/KevinL50-sysadmin/F1-06-PC/releases/tag/v1.1.0",
+        "latest_release_name": "F1 06 PC v1.1.0",
+        "release_assets": [
+          {
+            "name": "F1-06-PC-v1.1.0-portable.zip",
+            "url": "https://github.com/KevinL50-sysadmin/F1-06-PC/releases/download/v1.1.0/F1-06-PC-v1.1.0-portable.zip",
+            "size": 52061757
+          },
+          {
+            "name": "F1-06-PC-v1.1.0-setup.exe",
+            "url": "https://github.com/KevinL50-sysadmin/F1-06-PC/releases/download/v1.1.0/F1-06-PC-v1.1.0-setup.exe",
+            "size": 35580528
+          }
+        ],
+        "releases": [
+          {
+            "name": "F1 06 PC v1.1.0",
+            "url": "https://github.com/KevinL50-sysadmin/F1-06-PC/releases/tag/v1.1.0",
+            "published_at": "2026-11-11T23:29:59Z",
+            "assets": [
+              {
+                "name": "F1-06-PC-v1.1.0-portable.zip",
+                "url": "https://github.com/KevinL50-sysadmin/F1-06-PC/releases/download/v1.1.0/F1-06-PC-v1.1.0-portable.zip",
+                "size": 52061757
+              },
+              {
+                "name": "F1-06-PC-v1.1.0-setup.exe",
+                "url": "https://github.com/KevinL50-sysadmin/F1-06-PC/releases/download/v1.1.0/F1-06-PC-v1.1.0-setup.exe",
+                "size": 35580528
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -217,9 +1654,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "F1-06-PC-v1.1.0-portable.zip",
+          "url": "https://github.com/KevinL50-sysadmin/F1-06-PC/releases/download/v1.1.0/F1-06-PC-v1.1.0-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "F1-06-PC-v1.1.0-setup.exe",
+          "url": "https://github.com/KevinL50-sysadmin/F1-06-PC/releases/download/v1.1.0/F1-06-PC-v1.1.0-setup.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -237,7 +1686,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-12T13:38:30.001378+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-13T00:59:21.737971+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of the ARMv7 Android build of Fast Five HD into native x86-64 Windows C — no emulator, no JIT, no Android runtime. Toolchain and platform layer only; no game assets.",
+        "latest_release_url": "https://github.com/mrbaazzman/FastFiveHD-Native/releases/tag/v0.0.1",
+        "latest_release_name": "Fast Five HD - Native Port Installer v0.0.1",
+        "release_assets": [
+          {
+            "name": "FastFiveSetup.exe",
+            "url": "https://github.com/mrbaazzman/FastFiveHD-Native/releases/download/v0.0.1/FastFiveSetup.exe",
+            "size": 64903168
+          }
+        ],
+        "releases": [
+          {
+            "name": "Fast Five HD - Native Port Installer v0.0.1",
+            "url": "https://github.com/mrbaazzman/FastFiveHD-Native/releases/tag/v0.0.1",
+            "published_at": "2026-11-12T21:46:28Z",
+            "assets": [
+              {
+                "name": "FastFiveSetup.exe",
+                "url": "https://github.com/mrbaazzman/FastFiveHD-Native/releases/download/v0.0.1/FastFiveSetup.exe",
+                "size": 64903168
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -254,10 +1741,17 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "FastFiveSetup.exe",
+          "url": "https://github.com/mrbaazzman/FastFiveHD-Native/releases/download/v0.0.1/FastFiveSetup.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
