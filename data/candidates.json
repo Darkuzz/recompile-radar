@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-13T00:59:23.213099+00:00",
+  "last_updated": "2026-11-13T12:57:20.017082+00:00",
   "candidates": [
     {
-      "title": "fractalstudio-sd/rally2-recomp-android",
-      "url": "https://github.com/fractalstudio-sd/rally2-recomp-android",
+      "title": "Anas18102004/cricket-legacy",
+      "url": "https://github.com/Anas18102004/cricket-legacy",
       "source_name": "GitHub: Android ports",
-      "published": "2026-11-12T20:08:28Z",
-      "summary": "Native Android port of the 1998 Model 3 arcade rally (srally2). Static recompilation + on-device ARM translation — no emulator, no game code included: bring your own ROM. Touch controls, widescreen, phone-as-controller, gamepad + vibration support.",
+      "published": "2026-11-13T04:25:34Z",
+      "summary": "C/C++ native game engine recompilation and Android port preserving low-level memory layout, cross-compilation toolchains, and hardware acceleration. Topics: android-ndk, c, cpp, game-engine, static-recompilation, systems-programming",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-13T00:59:10.061679+00:00",
+      "found_at": "2026-11-13T12:57:05.622678+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -29,6 +29,427 @@
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
       ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, game engine, android"
+      ]
+    },
+    {
+      "title": "IamWilmar/castlevania-recomp",
+      "url": "https://github.com/IamWilmar/castlevania-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-13T07:38:23Z",
+      "summary": "Native Android port of Castlevania: Belmont's Curse for the Retroid Pocket Flip 2. Early version. Bring your own extracted game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T12:57:05.621324+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Spaced1127/WMXIX-Static-Recomp",
+      "url": "https://github.com/Spaced1127/WMXIX-Static-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T07:51:30Z",
+      "summary": "Static recompilation of WWE WrestleMania XIX (GameCube, GW9E78) for Windows. DolRecomp + ModernGekko. No game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T12:57:00.039448+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "MTG9T4/strikers-recomp",
+      "url": "https://github.com/MTG9T4/strikers-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T08:03:37Z",
+      "summary": "Static recompilation of Mario Strikers: Battle League to native Windows. Bring your own game: no game code, data, artwork or keys included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T12:57:00.038646+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "Spaced1127/WWE-WrestleMania-X8-Recomp",
+      "url": "https://github.com/Spaced1127/WWE-WrestleMania-X8-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T08:21:10Z",
+      "summary": "Static recompilation of WWE WrestleMania X8 (GameCube, GW3E78) for Windows. DolRecomp + ModernGekko. No game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T12:57:00.037830+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "ACR-GD/persona-digital-collection-recomp",
+      "url": "https://github.com/ACR-GD/persona-digital-collection-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T09:25:58Z",
+      "summary": "Static recompilation + English translation of Megami Ibunroku Persona Digital Collection (1998, Director 5) for macOS, Linux and Windows. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T12:57:00.036952+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "lumishelf/saboteur-android",
+      "url": "https://github.com/lumishelf/saboteur-android",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T11:13:05Z",
+      "summary": "The Saboteur (PC, 2009) on Android via static recompilation: x86 → native ARM64, Direct3D 9 → Vulkan (DXVK). No Wine, no emulator. No game files included. Topics: android, arm64, direct3d9, dxvk, porting, recompilation, static-recompilation, the-saboteur, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T12:57:00.035765+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Tel-BR/kof-xi-recomp",
+      "url": "https://github.com/Tel-BR/kof-xi-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T12:07:54Z",
+      "summary": "Static recompilation of The King of Fighters XI for native PC. Bring your own disc images; no game data in this repo.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T12:57:00.034672+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "illustricious/gta-lcs-pc",
+      "url": "https://github.com/illustricious/gta-lcs-pc",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T12:53:49Z",
+      "summary": "Static recompilation of GTA: Liberty City Stories (Android) for Windows. Bring your own copy: the installer pulls your game over ADB and builds it on your PC.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T12:57:00.033814+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "g0GobliN/object-chaos",
+      "url": "https://github.com/g0GobliN/object-chaos",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-13T07:52:35Z",
+      "summary": "A free, browser-based photo party game powered by on-device AI. Find objects, beat timed challenges, and roast your surroundings with Cactus Mirage. No accounts, photo uploads, or inference fees. Topics: ai-local, browser-game, computer-vision-on-device, object-detection, open-source, opensource, party-game, photo-game, privacy-first, tanstack-start, vite, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T12:56:55.892861+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "luizbizzio/scandeck",
+      "url": "https://github.com/luizbizzio/scandeck",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-13T07:53:57Z",
+      "summary": "Topics: aztec-code, barcode, browser-game, code128, data-matrix, game, game-console, game-development, html5-game, javascript, mini-game, offline-game, pdf417, qr-code, qrcode, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T12:56:55.891641+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "html5"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, html5",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "fractalstudio-sd/rally2-recomp-android",
+      "url": "https://github.com/fractalstudio-sd/rally2-recomp-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-12T20:08:28Z",
+      "summary": "Native Android port of the 1998 Model 3 arcade rally (srally2). Static recompilation + on-device ARM translation — no emulator, no game code included: bring your own ROM. Touch controls, widescreen, phone-as-controller, gamepad + vibration support.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-13T00:59:10.061679+00:00",
+      "check": {
+        "checked_at": "2026-11-13T12:57:09.685178+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android port of the 1998 Model 3 arcade rally (srally2). Static recompilation + on-device ARM translation — no emulator, no game code included: bring your own ROM. Touch controls, widescreen, phone-as-controller, gamepad + vibration support.",
+        "latest_release_url": "https://github.com/fractalstudio-sd/rally2-recomp-android/releases/tag/v0.65-beta",
+        "latest_release_name": "Rally 2 Recomp 0.65 beta",
+        "release_assets": [
+          {
+            "name": "Rally2Recomp-0.65-beta.apk",
+            "url": "https://github.com/fractalstudio-sd/rally2-recomp-android/releases/download/v0.65-beta/Rally2Recomp-0.65-beta.apk",
+            "size": 4632705
+          }
+        ],
+        "releases": [
+          {
+            "name": "Rally 2 Recomp 0.65 beta",
+            "url": "https://github.com/fractalstudio-sd/rally2-recomp-android/releases/tag/v0.65-beta",
+            "published_at": "2026-11-12T19:30:03Z",
+            "assets": [
+              {
+                "name": "Rally2Recomp-0.65-beta.apk",
+                "url": "https://github.com/fractalstudio-sd/rally2-recomp-android/releases/download/v0.65-beta/Rally2Recomp-0.65-beta.apk",
+                "size": 4632705
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "Rally2Recomp-0.65-beta.apk",
+          "url": "https://github.com/fractalstudio-sd/rally2-recomp-android/releases/download/v0.65-beta/Rally2Recomp-0.65-beta.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 13,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -45,7 +466,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-13T00:59:04.271638+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-13T12:57:10.989606+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Virtua Tennis 3 in VR on Meta Quest: stand courtside in the full 3D stadium, or play Classic on a big virtual screen. Static recompilation runtime and build tools; no game files included - bring your own copy and build it yourself. Unofficial fan project, not affiliated with SEGA.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -72,7 +510,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-13T00:59:04.270760+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-13T12:57:12.253563+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Nintendo Game Boy / Game Boy Color reverse engineering and static recompilation: an SM83-to-C++ recompiler and an LCD/sound/cartridge runtime under it; the whole library runs native, frame-identical to the interpreter.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -99,7 +554,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-13T00:59:04.270085+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-13T12:57:13.552480+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "WWE Legends of WrestleMania (Xbox 360) as a native Windows program via static recompilation (ReXGlue). Bring your own game - no game files included.",
+        "latest_release_url": "https://github.com/NikmanTheEvil/WWE-LoW-Recomp/releases/tag/v1.0.0",
+        "latest_release_name": "LoWRecomp 1.0.0",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "LoWRecomp 1.0.0",
+            "url": "https://github.com/NikmanTheEvil/WWE-LoW-Recomp/releases/tag/v1.0.0",
+            "published_at": "2026-11-12T23:50:22Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -132,7 +613,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-13T00:59:04.269432+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-13T12:57:14.862735+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Mortal Kombat: Shaolin Monks (PS2) to native PC code with PS2Recomp. Vulkan GS renderer, VU1 JIT. No game data included: bring your own copy.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -166,7 +664,196 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-13T00:59:04.268708+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-13T12:57:16.130944+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "inFAMOUS 2 (PS3) as a native PC program for Windows and Linux: Setup recompiles YOUR copy on your PC (static recompilation, Vulkan). No game files included.",
+        "latest_release_url": "https://github.com/SamiEnazi/infamous2-port/releases/tag/v0.5.1",
+        "latest_release_name": "v0.5.1: Black lightning works, renamed folders fixed",
+        "release_assets": [
+          {
+            "name": "inFAMOUS2-port-v0.5.1-Windows-x64.zip",
+            "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.5.1/inFAMOUS2-port-v0.5.1-Windows-x64.zip",
+            "size": 37878159
+          },
+          {
+            "name": "Setup.exe",
+            "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.5.1/Setup.exe",
+            "size": 120320
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.5.1: Black lightning works, renamed folders fixed",
+            "url": "https://github.com/SamiEnazi/infamous2-port/releases/tag/v0.5.1",
+            "published_at": "2026-11-12T19:12:53Z",
+            "assets": [
+              {
+                "name": "inFAMOUS2-port-v0.5.1-Windows-x64.zip",
+                "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.5.1/inFAMOUS2-port-v0.5.1-Windows-x64.zip",
+                "size": 37878159
+              },
+              {
+                "name": "Setup.exe",
+                "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.5.1/Setup.exe",
+                "size": 120320
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.5.0: in-game updates, Linux, trophies for Playnite, smoother cutscenes, and many fixes",
+            "url": "https://github.com/SamiEnazi/infamous2-port/releases/tag/v0.5.0",
+            "published_at": "2026-11-12T15:44:40Z",
+            "assets": [
+              {
+                "name": "inFAMOUS2-port-v0.5.0-Windows-x64.zip",
+                "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.5.0/inFAMOUS2-port-v0.5.0-Windows-x64.zip",
+                "size": 37875207
+              },
+              {
+                "name": "Setup.exe",
+                "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.5.0/Setup.exe",
+                "size": 120320
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.4.2: new cheats, Setup works on Windows 10",
+            "url": "https://github.com/SamiEnazi/infamous2-port/releases/tag/v0.4.2",
+            "published_at": "2026-11-12T10:23:52Z",
+            "assets": [
+              {
+                "name": "inFAMOUS2-port-v0.4.2-Windows-x64.zip",
+                "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.4.2/inFAMOUS2-port-v0.4.2-Windows-x64.zip",
+                "size": 37531084
+              },
+              {
+                "name": "Setup.exe",
+                "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.4.2/Setup.exe",
+                "size": 114688
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.4.1 - RecompLauncher support, all copies confirmed",
+            "url": "https://github.com/SamiEnazi/infamous2-port/releases/tag/v0.4.1",
+            "published_at": "2026-11-12T01:29:54Z",
+            "assets": [
+              {
+                "name": "inFAMOUS2-port-v0.4.1-Windows-x64.zip",
+                "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.4.1/inFAMOUS2-port-v0.4.1-Windows-x64.zip",
+                "size": 37510305
+              },
+              {
+                "name": "Setup.exe",
+                "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.4.1/Setup.exe",
+                "size": 114176
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.4.0 - Saved spots, smarter mod options, a hitch catcher",
+            "url": "https://github.com/SamiEnazi/infamous2-port/releases/tag/v0.4.0",
+            "published_at": "2026-11-11T19:47:14Z",
+            "assets": [
+              {
+                "name": "Setup.exe",
+                "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.4.0/Setup.exe",
+                "size": 100864
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.3.0 - Mods, direct mouse aiming, button remapping, widescreen",
+            "url": "https://github.com/SamiEnazi/infamous2-port/releases/tag/v0.3.0",
+            "published_at": "2026-11-11T18:02:03Z",
+            "assets": [
+              {
+                "name": "Setup.exe",
+                "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.3.0/Setup.exe",
+                "size": 100864
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.2.0 - Language menu, mesh trimming fix, engine update, glide cheat",
+            "url": "https://github.com/SamiEnazi/infamous2-port/releases/tag/v0.2.0",
+            "published_at": "2026-11-10T21:00:08Z",
+            "assets": [
+              {
+                "name": "Setup.exe",
+                "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.2.0/Setup.exe",
+                "size": 100864
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.2 - Setup works from USB sticks and external disks (#2)",
+            "url": "https://github.com/SamiEnazi/infamous2-port/releases/tag/v0.1.2",
+            "published_at": "2026-11-10T14:57:18Z",
+            "assets": [
+              {
+                "name": "Setup.exe",
+                "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.1.2/Setup.exe",
+                "size": 100864
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.1 - Setup updates your install and keeps your saves; sound fix",
+            "url": "https://github.com/SamiEnazi/infamous2-port/releases/tag/v0.1.1",
+            "published_at": "2026-11-10T07:15:22Z",
+            "assets": [
+              {
+                "name": "Setup.exe",
+                "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.1.1/Setup.exe",
+                "size": 99840
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.0 - early public test (Setup.exe)",
+            "url": "https://github.com/SamiEnazi/infamous2-port/releases/tag/v0.1.0",
+            "published_at": "2026-11-09T14:41:45Z",
+            "assets": [
+              {
+                "name": "Setup.exe",
+                "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.1.0/Setup.exe",
+                "size": 91136
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -181,9 +868,81 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "inFAMOUS2-port-v0.5.1-Windows-x64.zip",
+          "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.5.1/inFAMOUS2-port-v0.5.1-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Setup.exe",
+          "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.5.1/Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "inFAMOUS2-port-v0.5.0-Windows-x64.zip",
+          "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.5.0/inFAMOUS2-port-v0.5.0-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Setup.exe",
+          "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.5.0/Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "inFAMOUS2-port-v0.4.2-Windows-x64.zip",
+          "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.4.2/inFAMOUS2-port-v0.4.2-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Setup.exe",
+          "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.4.2/Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "inFAMOUS2-port-v0.4.1-Windows-x64.zip",
+          "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.4.1/inFAMOUS2-port-v0.4.1-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Setup.exe",
+          "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.4.1/Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Setup.exe",
+          "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.4.0/Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Setup.exe",
+          "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.3.0/Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Setup.exe",
+          "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.2.0/Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Setup.exe",
+          "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.1.2/Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Setup.exe",
+          "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.1.1/Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Setup.exe",
+          "url": "https://github.com/SamiEnazi/infamous2-port/releases/download/v0.1.0/Setup.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -201,7 +960,81 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-13T00:59:04.268109+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-13T12:57:17.437498+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of America's Army: Rise of a Soldier, an original Xbox game",
+        "latest_release_url": "https://github.com/possessed1911/AAROAS-XBERecomp/releases/tag/v1.0.0.3",
+        "latest_release_name": "v1.0.0.3 — Console History, Static Runtime & Fast Build Pipeline",
+        "release_assets": [
+          {
+            "name": "aa_roas.zip",
+            "url": "https://github.com/possessed1911/AAROAS-XBERecomp/releases/download/v1.0.0.3/aa_roas.zip",
+            "size": 8491472
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.0.0.3 — Console History, Static Runtime & Fast Build Pipeline",
+            "url": "https://github.com/possessed1911/AAROAS-XBERecomp/releases/tag/v1.0.0.3",
+            "published_at": "2026-11-13T03:54:21Z",
+            "assets": [
+              {
+                "name": "aa_roas.zip",
+                "url": "https://github.com/possessed1911/AAROAS-XBERecomp/releases/download/v1.0.0.3/aa_roas.zip",
+                "size": 8491472
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0.0.2 — PC FPS Controls & Input Fixes",
+            "url": "https://github.com/possessed1911/AAROAS-XBERecomp/releases/tag/v1.0.0.2",
+            "published_at": "2026-11-13T00:54:38Z",
+            "assets": [
+              {
+                "name": "aa_roas.zip",
+                "url": "https://github.com/possessed1911/AAROAS-XBERecomp/releases/download/v1.0.0.2/aa_roas.zip",
+                "size": 8815702
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0.0.1 — Display Mode Toggle & Cursor Lifecycle",
+            "url": "https://github.com/possessed1911/AAROAS-XBERecomp/releases/tag/v1.0.0.1",
+            "published_at": "2026-11-11T22:25:14Z",
+            "assets": [
+              {
+                "name": "aa_roas.zip",
+                "url": "https://github.com/possessed1911/AAROAS-XBERecomp/releases/download/v1.0.0.1/aa_roas.zip",
+                "size": 8816493
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0.0.0 — Initial AA:RoaS PC Recomp Release",
+            "url": "https://github.com/possessed1911/AAROAS-XBERecomp/releases/tag/v1.0.0.0",
+            "published_at": "2026-11-11T16:40:35Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -210,8 +1043,26 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "aa_roas.zip",
+          "url": "https://github.com/possessed1911/AAROAS-XBERecomp/releases/download/v1.0.0.3/aa_roas.zip",
+          "type": "archive"
+        },
+        {
+          "name": "aa_roas.zip",
+          "url": "https://github.com/possessed1911/AAROAS-XBERecomp/releases/download/v1.0.0.2/aa_roas.zip",
+          "type": "archive"
+        },
+        {
+          "name": "aa_roas.zip",
+          "url": "https://github.com/possessed1911/AAROAS-XBERecomp/releases/download/v1.0.0.1/aa_roas.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -228,7 +1079,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-13T00:59:02.411132+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-13T12:57:18.758249+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A port of Cube 2: Sauerbraten in TypeScript, powered by Babylon.js.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
