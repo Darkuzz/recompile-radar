@@ -1,7 +1,323 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-14T12:00:26.960494+00:00",
+  "last_updated": "2026-11-14T17:56:41.837080+00:00",
   "candidates": [
+    {
+      "title": "JC-Gamer-Nostalgic/Baldi-s-Basics-in-Funkin-3rd-Anniversary-Reskin-Android-Port-",
+      "url": "https://github.com/JC-Gamer-Nostalgic/Baldi-s-Basics-in-Funkin-3rd-Anniversary-Reskin-Android-Port-",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-14T17:56:10Z",
+      "summary": "An Android Port made by JC Gamer Nostalgic in Godot Engine 4.6",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T17:56:26.889920+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: android"
+      ]
+    },
+    {
+      "title": "metrist38/fefw-recomp",
+      "url": "https://github.com/metrist38/fefw-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T14:15:08Z",
+      "summary": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T17:56:21.228554+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "finalpantasy/snap-recomp",
+      "url": "https://github.com/finalpantasy/snap-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T15:01:04Z",
+      "summary": "Snap Recomp: native Windows PC static recompilation (AArch64 to C) of a 2021 Switch photography game, with an NVN-to-Vulkan renderer, 4K, DLSS/FSR and full input remapping. Code only; bring your own game dump. Topics: aarch64, decompilation, nintendo-switch, pc-port, recompilation, reverse-engineering, static-recompilation, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T17:56:21.228005+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "ALSOWRYYY/YR-Native",
+      "url": "https://github.com/ALSOWRYYY/YR-Native",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T15:10:06Z",
+      "summary": "Paused Yuri’s Revenge static recompilation research archive: reviewed generic tools and documentation only; no commercial game code or assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T17:56:21.227391+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Elie-0066/SPR-Recomp-Project",
+      "url": "https://github.com/Elie-0066/SPR-Recomp-Project",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T17:54:19Z",
+      "summary": "Unofficial static recompilation of Splatoon Raiders (Switch 2) to native Windows x86-64 with a Vulkan renderer. No game data included: bring your own dump. Topics: arm64, nintendo-switch-2, pc-port, recompilation, reverse-engineering, splatoon, static-recompilation, switch-2, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T17:56:21.226806+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "omegakatana92/Kaizer-Knuckle-Recomp",
+      "url": "https://github.com/omegakatana92/Kaizer-Knuckle-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T16:24:24Z",
+      "summary": "A static recompilation project for Taito's classic arcade fighting game Kaiser Knuckle (Global Champion). Aims to bring the original arcade experience to modern hardware through native Windows and Steam Deck/Linux support, with an AppImage distribution planned for Linux-based systems. Please provide your own roms.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T17:56:21.226155+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "sola127/RR7",
+      "url": "https://github.com/sola127/RR7",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T15:57:48Z",
+      "summary": "Apple Silicon / Metal static recompilation research: handwritten host code, runtime patches and tests. No game data or generated game code.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T17:56:21.225590+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "voronbuildstart/recomp4ps4",
+      "url": "https://github.com/voronbuildstart/recomp4ps4",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T16:05:52Z",
+      "summary": "Build your own PS4 packages for Harvest Moon 64 and Mario Party 3 from your ROM dump (static recompilation). GTK3 GUI + CLI, one-click fresh-machine setup. GPLv3. No game content.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T17:56:21.224995+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom"
+      ]
+    },
+    {
+      "title": "udarmolota/ME1Recomp",
+      "url": "https://github.com/udarmolota/ME1Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T17:07:43Z",
+      "summary": "Static recompilation runtime for Mass Effect (Xbox 360) on Android (XDroid360) and PC. No game code or data: the player's own copy is recompiled.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T17:56:21.224225+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "DenisTRW/bis-recomp",
+      "url": "https://github.com/DenisTRW/bis-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T17:18:11Z",
+      "summary": "Native PC port of Mario & Luigi: Bowser's Inside Story (DS) via static recompilation. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T17:56:21.223507+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "huggy12/OpenRA_Androidport-PSX-controls-",
       "url": "https://github.com/huggy12/OpenRA_Androidport-PSX-controls-",
@@ -11,7 +327,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T12:00:13.816152+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T17:56:30.263933+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "An unofficial Android port of OpenRA's Red Alert mod (bleed branch, commit b4d95a5, Nov 2026) with Bluetooth controller controls inspired by the PlayStation version. Built with .NET 10 and SDL2. No game files included; the freeware content downloads on first launch.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +378,65 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T12:00:12.206671+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T17:56:31.645219+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows, Linux and Steam Deck port of Kaneko’s 1998 arcade shooter Cyvern: The Dragon Weapons (Super Kaneko Nova System). The SH-2 game program and BIOS are statically recompiled to C, with the board’s graphics, sound and timers rebuilt natively. Shared SDL2 frontend: vertical display, save states, rewind, remapping. Bring your own ROMs.",
+        "latest_release_url": "https://github.com/omegakatana92/cyvern-the-dragon-weapons/releases/tag/v1.0.0",
+        "latest_release_name": "Cyvern The Dragon Weapons v1.0.0",
+        "release_assets": [
+          {
+            "name": "Cyvern-SteamDeck-x86_64.AppImage",
+            "url": "https://github.com/omegakatana92/cyvern-the-dragon-weapons/releases/download/v1.0.0/Cyvern-SteamDeck-x86_64.AppImage",
+            "size": 1808888
+          },
+          {
+            "name": "Cyvern-Windows-x86_64.zip",
+            "url": "https://github.com/omegakatana92/cyvern-the-dragon-weapons/releases/download/v1.0.0/Cyvern-Windows-x86_64.zip",
+            "size": 1277010
+          },
+          {
+            "name": "RELEASE-NOTES-v0.1.0.md",
+            "url": "https://github.com/omegakatana92/cyvern-the-dragon-weapons/releases/download/v1.0.0/RELEASE-NOTES-v0.1.0.md",
+            "size": 2141
+          }
+        ],
+        "releases": [
+          {
+            "name": "Cyvern The Dragon Weapons v1.0.0",
+            "url": "https://github.com/omegakatana92/cyvern-the-dragon-weapons/releases/tag/v1.0.0",
+            "published_at": "2026-11-14T02:02:50Z",
+            "assets": [
+              {
+                "name": "Cyvern-SteamDeck-x86_64.AppImage",
+                "url": "https://github.com/omegakatana92/cyvern-the-dragon-weapons/releases/download/v1.0.0/Cyvern-SteamDeck-x86_64.AppImage",
+                "size": 1808888
+              },
+              {
+                "name": "Cyvern-Windows-x86_64.zip",
+                "url": "https://github.com/omegakatana92/cyvern-the-dragon-weapons/releases/download/v1.0.0/Cyvern-Windows-x86_64.zip",
+                "size": 1277010
+              },
+              {
+                "name": "RELEASE-NOTES-v0.1.0.md",
+                "url": "https://github.com/omegakatana92/cyvern-the-dragon-weapons/releases/download/v1.0.0/RELEASE-NOTES-v0.1.0.md",
+                "size": 2141
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -59,9 +450,26 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Cyvern-SteamDeck-x86_64.AppImage",
+          "url": "https://github.com/omegakatana92/cyvern-the-dragon-weapons/releases/download/v1.0.0/Cyvern-SteamDeck-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Cyvern-Windows-x86_64.zip",
+          "url": "https://github.com/omegakatana92/cyvern-the-dragon-weapons/releases/download/v1.0.0/Cyvern-Windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "RELEASE-NOTES-v0.1.0.md",
+          "url": "https://github.com/omegakatana92/cyvern-the-dragon-weapons/releases/download/v1.0.0/RELEASE-NOTES-v0.1.0.md",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -79,7 +487,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T12:00:12.203147+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T17:56:33.103642+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Digimon World 3: Definitive Edition — native PC (Linux/Windows) & RK3326 handheld port built from a matching decompilation of DW2003 (PAL), with Persona-style elemental battles, Hunt/Forge/Black Market/DRI progression, and an in-game Guide.",
+        "latest_release_url": "https://github.com/al4xdev/digimon-world-3-definitive-edition/releases/tag/dw3-env-detect",
+        "latest_release_name": "dw3 env-detect test (not main)",
+        "release_assets": [
+          {
+            "name": "dw3.zip",
+            "url": "https://github.com/al4xdev/digimon-world-3-definitive-edition/releases/download/dw3-env-detect/dw3.zip",
+            "size": 2052015
+          }
+        ],
+        "releases": [
+          {
+            "name": "dw3 env-detect test (not main)",
+            "url": "https://github.com/al4xdev/digimon-world-3-definitive-edition/releases/tag/dw3-env-detect",
+            "published_at": "2026-11-02T21:37:03Z",
+            "assets": [
+              {
+                "name": "dw3.zip",
+                "url": "https://github.com/al4xdev/digimon-world-3-definitive-edition/releases/download/dw3-env-detect/dw3.zip",
+                "size": 2052015
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "dw3 port, first public build",
+            "url": "https://github.com/al4xdev/digimon-world-3-definitive-edition/releases/tag/dw3-port-1",
+            "published_at": "2026-10-21T13:15:09Z",
+            "assets": [
+              {
+                "name": "dw3.zip",
+                "url": "https://github.com/al4xdev/digimon-world-3-definitive-edition/releases/download/dw3-port-1/dw3.zip",
+                "size": 2055315
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -94,9 +554,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "dw3.zip",
+          "url": "https://github.com/al4xdev/digimon-world-3-definitive-edition/releases/download/dw3-env-detect/dw3.zip",
+          "type": "archive"
+        },
+        {
+          "name": "dw3.zip",
+          "url": "https://github.com/al4xdev/digimon-world-3-definitive-edition/releases/download/dw3-port-1/dw3.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -114,7 +586,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T12:00:08.629676+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T17:56:34.582070+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Apple Silicon port of Jurassic Park: The Game by static recompilation - bring your own copy",
+        "latest_release_url": "https://github.com/NightSightProductions/JPTG-Recomp/releases/tag/v1.0.0",
+        "latest_release_name": "JPTG Recomp 1.0.0",
+        "release_assets": [
+          {
+            "name": "JPTG-Recomp-macOS.dmg",
+            "url": "https://github.com/NightSightProductions/JPTG-Recomp/releases/download/v1.0.0/JPTG-Recomp-macOS.dmg",
+            "size": 479758
+          }
+        ],
+        "releases": [
+          {
+            "name": "JPTG Recomp 1.0.0",
+            "url": "https://github.com/NightSightProductions/JPTG-Recomp/releases/tag/v1.0.0",
+            "published_at": "2026-11-14T06:06:34Z",
+            "assets": [
+              {
+                "name": "JPTG-Recomp-macOS.dmg",
+                "url": "https://github.com/NightSightProductions/JPTG-Recomp/releases/download/v1.0.0/JPTG-Recomp-macOS.dmg",
+                "size": 479758
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -123,8 +633,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "JPTG-Recomp-macOS.dmg",
+          "url": "https://github.com/NightSightProductions/JPTG-Recomp/releases/download/v1.0.0/JPTG-Recomp-macOS.dmg",
+          "type": "desktop_package"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -141,7 +659,74 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T12:00:08.628712+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T17:56:36.014246+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Unicorn Overlord 1.05 on Windows: static recompilation with a Vulkan renderer, DLSS/FSR output scaling and a setup that builds the game from your own files. Game files not included.",
+        "latest_release_url": "https://github.com/imalti0r/uo-pc-recomp/releases/tag/v0.1.0-alpha.2",
+        "latest_release_name": "Unicorn Overlord PC Recomp 0.1.0-alpha.2",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/imalti0r/uo-pc-recomp/releases/download/v0.1.0-alpha.2/SHA256SUMS",
+            "size": 102
+          },
+          {
+            "name": "UO-Setup-0.1.0-alpha.2-windows.zip",
+            "url": "https://github.com/imalti0r/uo-pc-recomp/releases/download/v0.1.0-alpha.2/UO-Setup-0.1.0-alpha.2-windows.zip",
+            "size": 174520535
+          }
+        ],
+        "releases": [
+          {
+            "name": "Unicorn Overlord PC Recomp 0.1.0-alpha.2",
+            "url": "https://github.com/imalti0r/uo-pc-recomp/releases/tag/v0.1.0-alpha.2",
+            "published_at": "2026-11-14T14:21:01Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/imalti0r/uo-pc-recomp/releases/download/v0.1.0-alpha.2/SHA256SUMS",
+                "size": 102
+              },
+              {
+                "name": "UO-Setup-0.1.0-alpha.2-windows.zip",
+                "url": "https://github.com/imalti0r/uo-pc-recomp/releases/download/v0.1.0-alpha.2/UO-Setup-0.1.0-alpha.2-windows.zip",
+                "size": 174520535
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Unicorn Overlord PC Recomp 0.1.0-alpha.1",
+            "url": "https://github.com/imalti0r/uo-pc-recomp/releases/tag/v0.1.0-alpha.1",
+            "published_at": "2026-11-14T04:22:52Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/imalti0r/uo-pc-recomp/releases/download/v0.1.0-alpha.1/SHA256SUMS",
+                "size": 102
+              },
+              {
+                "name": "UO-Setup-0.1.0-alpha.1-windows.zip",
+                "url": "https://github.com/imalti0r/uo-pc-recomp/releases/download/v0.1.0-alpha.1/UO-Setup-0.1.0-alpha.1-windows.zip",
+                "size": 174504185
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -154,9 +739,31 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/imalti0r/uo-pc-recomp/releases/download/v0.1.0-alpha.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "UO-Setup-0.1.0-alpha.2-windows.zip",
+          "url": "https://github.com/imalti0r/uo-pc-recomp/releases/download/v0.1.0-alpha.2/UO-Setup-0.1.0-alpha.2-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/imalti0r/uo-pc-recomp/releases/download/v0.1.0-alpha.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "UO-Setup-0.1.0-alpha.1-windows.zip",
+          "url": "https://github.com/imalti0r/uo-pc-recomp/releases/download/v0.1.0-alpha.1/UO-Setup-0.1.0-alpha.1-windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -174,7 +781,83 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T12:00:08.627755+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T17:56:37.434976+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A native PC port of Super Mario Odyssey 1.0.0 by static recompilation. Bring your own game: no game files included.",
+        "latest_release_url": "https://github.com/rwwo8/OdysseyRecomp/releases/tag/0.2.4",
+        "latest_release_name": "Odyssey Recomp 0.2.4",
+        "release_assets": [
+          {
+            "name": "Odyssey.Recomp-0.2.4-linux-x86_64.tar.gz",
+            "url": "https://github.com/rwwo8/OdysseyRecomp/releases/download/0.2.4/Odyssey.Recomp-0.2.4-linux-x86_64.tar.gz",
+            "size": 161892905
+          },
+          {
+            "name": "Odyssey.Recomp-0.2.4-windows.zip",
+            "url": "https://github.com/rwwo8/OdysseyRecomp/releases/download/0.2.4/Odyssey.Recomp-0.2.4-windows.zip",
+            "size": 85772945
+          }
+        ],
+        "releases": [
+          {
+            "name": "Odyssey Recomp 0.2.4",
+            "url": "https://github.com/rwwo8/OdysseyRecomp/releases/tag/0.2.4",
+            "published_at": "2026-11-14T00:59:10Z",
+            "assets": [
+              {
+                "name": "Odyssey.Recomp-0.2.4-linux-x86_64.tar.gz",
+                "url": "https://github.com/rwwo8/OdysseyRecomp/releases/download/0.2.4/Odyssey.Recomp-0.2.4-linux-x86_64.tar.gz",
+                "size": 161892905
+              },
+              {
+                "name": "Odyssey.Recomp-0.2.4-windows.zip",
+                "url": "https://github.com/rwwo8/OdysseyRecomp/releases/download/0.2.4/Odyssey.Recomp-0.2.4-windows.zip",
+                "size": 85772945
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Odyssey Recomp 0.2.3",
+            "url": "https://github.com/rwwo8/OdysseyRecomp/releases/tag/0.2.3",
+            "published_at": "2026-11-13T04:15:16Z",
+            "assets": [
+              {
+                "name": "Odyssey.Recomp-0.2.3-windows.zip",
+                "url": "https://github.com/rwwo8/OdysseyRecomp/releases/download/0.2.3/Odyssey.Recomp-0.2.3-windows.zip",
+                "size": 85652397
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Odyssey Recomp 0.2.2",
+            "url": "https://github.com/rwwo8/OdysseyRecomp/releases/tag/0.2.2",
+            "published_at": "2026-11-11T03:43:38Z",
+            "assets": [
+              {
+                "name": "Odyssey.Recomp-0.2.2-windows.zip",
+                "url": "https://github.com/rwwo8/OdysseyRecomp/releases/download/0.2.2/Odyssey.Recomp-0.2.2-windows.zip",
+                "size": 85647224
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -183,14 +866,38 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
+          "windows",
+          "linux",
           "pc port",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Odyssey.Recomp-0.2.4-linux-x86_64.tar.gz",
+          "url": "https://github.com/rwwo8/OdysseyRecomp/releases/download/0.2.4/Odyssey.Recomp-0.2.4-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "Odyssey.Recomp-0.2.4-windows.zip",
+          "url": "https://github.com/rwwo8/OdysseyRecomp/releases/download/0.2.4/Odyssey.Recomp-0.2.4-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Odyssey.Recomp-0.2.3-windows.zip",
+          "url": "https://github.com/rwwo8/OdysseyRecomp/releases/download/0.2.3/Odyssey.Recomp-0.2.3-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Odyssey.Recomp-0.2.2-windows.zip",
+          "url": "https://github.com/rwwo8/OdysseyRecomp/releases/download/0.2.2/Odyssey.Recomp-0.2.2-windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -208,22 +915,303 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T12:00:08.626835+00:00",
-      "check": null,
-      "category": "android",
+      "check": {
+        "checked_at": "2026-11-14T17:56:38.894577+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "game static recompilation to android",
+        "latest_release_url": "https://github.com/MisterAlex95/Xrecomp/releases/tag/xrecomp-v0.3.0",
+        "latest_release_name": "XRecomp v0.3.0",
+        "release_assets": [
+          {
+            "name": "xrecomp-v0.3.0-linux.tar.gz",
+            "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0-linux.tar.gz",
+            "size": 7168802
+          },
+          {
+            "name": "xrecomp-v0.3.0-linux.tar.gz.sha256",
+            "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0-linux.tar.gz.sha256",
+            "size": 94
+          },
+          {
+            "name": "xrecomp-v0.3.0-macos-arm64.zip",
+            "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0-macos-arm64.zip",
+            "size": 9952069
+          },
+          {
+            "name": "xrecomp-v0.3.0-macos-arm64.zip.sha256",
+            "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0-macos-arm64.zip.sha256",
+            "size": 97
+          },
+          {
+            "name": "xrecomp-v0.3.0.apk",
+            "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0.apk",
+            "size": 48161997
+          },
+          {
+            "name": "xrecomp-v0.3.0.apk.sha256",
+            "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0.apk.sha256",
+            "size": 85
+          }
+        ],
+        "releases": [
+          {
+            "name": "XRecomp v0.3.0",
+            "url": "https://github.com/MisterAlex95/Xrecomp/releases/tag/xrecomp-v0.3.0",
+            "published_at": "2026-11-14T15:55:23Z",
+            "assets": [
+              {
+                "name": "xrecomp-v0.3.0-linux.tar.gz",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0-linux.tar.gz",
+                "size": 7168802
+              },
+              {
+                "name": "xrecomp-v0.3.0-linux.tar.gz.sha256",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0-linux.tar.gz.sha256",
+                "size": 94
+              },
+              {
+                "name": "xrecomp-v0.3.0-macos-arm64.zip",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0-macos-arm64.zip",
+                "size": 9952069
+              },
+              {
+                "name": "xrecomp-v0.3.0-macos-arm64.zip.sha256",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0-macos-arm64.zip.sha256",
+                "size": 97
+              },
+              {
+                "name": "xrecomp-v0.3.0.apk",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0.apk",
+                "size": 48161997
+              },
+              {
+                "name": "xrecomp-v0.3.0.apk.sha256",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0.apk.sha256",
+                "size": 85
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "XRecomp v0.2.0",
+            "url": "https://github.com/MisterAlex95/Xrecomp/releases/tag/xrecomp-v0.2.0",
+            "published_at": "2026-11-14T11:59:06Z",
+            "assets": [
+              {
+                "name": "xrecomp-v0.2.0-linux.tar.gz",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.2.0/xrecomp-v0.2.0-linux.tar.gz",
+                "size": 6928018
+              },
+              {
+                "name": "xrecomp-v0.2.0-linux.tar.gz.sha256",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.2.0/xrecomp-v0.2.0-linux.tar.gz.sha256",
+                "size": 94
+              },
+              {
+                "name": "xrecomp-v0.2.0-macos-arm64.zip",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.2.0/xrecomp-v0.2.0-macos-arm64.zip",
+                "size": 9673097
+              },
+              {
+                "name": "xrecomp-v0.2.0-macos-arm64.zip.sha256",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.2.0/xrecomp-v0.2.0-macos-arm64.zip.sha256",
+                "size": 97
+              },
+              {
+                "name": "xrecomp-v0.2.0.apk",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.2.0/xrecomp-v0.2.0.apk",
+                "size": 47808040
+              },
+              {
+                "name": "xrecomp-v0.2.0.apk.sha256",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.2.0/xrecomp-v0.2.0.apk.sha256",
+                "size": 85
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "XRecomp v0.1.0",
+            "url": "https://github.com/MisterAlex95/Xrecomp/releases/tag/xrecomp-v0.1.0",
+            "published_at": "2026-11-14T01:34:26Z",
+            "assets": [
+              {
+                "name": "xrecomp-v0.1.0.apk",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.1.0/xrecomp-v0.1.0.apk",
+                "size": 45863807
+              },
+              {
+                "name": "xrecomp-v0.1.0.apk.sha256",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.1.0/xrecomp-v0.1.0.apk.sha256",
+                "size": 85
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "XRecomp, latest main (7ca68d2b)",
+            "url": "https://github.com/MisterAlex95/Xrecomp/releases/tag/xrecomp-latest",
+            "published_at": "2026-11-14T17:46:44Z",
+            "assets": [
+              {
+                "name": "xrecomp-7ca68d2b-linux.tar.gz",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-latest/xrecomp-7ca68d2b-linux.tar.gz",
+                "size": 7193205
+              },
+              {
+                "name": "xrecomp-7ca68d2b-linux.tar.gz.sha256",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-latest/xrecomp-7ca68d2b-linux.tar.gz.sha256",
+                "size": 96
+              },
+              {
+                "name": "xrecomp-7ca68d2b-macos-arm64.zip",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-latest/xrecomp-7ca68d2b-macos-arm64.zip",
+                "size": 9977269
+              },
+              {
+                "name": "xrecomp-7ca68d2b-macos-arm64.zip.sha256",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-latest/xrecomp-7ca68d2b-macos-arm64.zip.sha256",
+                "size": 99
+              },
+              {
+                "name": "xrecomp-7ca68d2b.apk",
+                "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-latest/xrecomp-7ca68d2b.apk",
+                "size": 51585941
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
       "platforms_guess": [
-        "Android"
+        "Android",
+        "PC"
       ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [
           "android"
         ],
-        "pc_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "xrecomp-v0.3.0-linux.tar.gz",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0-linux.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "xrecomp-v0.3.0-linux.tar.gz.sha256",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0-linux.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "xrecomp-v0.3.0-macos-arm64.zip",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "xrecomp-v0.3.0-macos-arm64.zip.sha256",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0-macos-arm64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "xrecomp-v0.3.0.apk",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "xrecomp-v0.3.0.apk.sha256",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.3.0/xrecomp-v0.3.0.apk.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "xrecomp-v0.2.0-linux.tar.gz",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.2.0/xrecomp-v0.2.0-linux.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "xrecomp-v0.2.0-linux.tar.gz.sha256",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.2.0/xrecomp-v0.2.0-linux.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "xrecomp-v0.2.0-macos-arm64.zip",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.2.0/xrecomp-v0.2.0-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "xrecomp-v0.2.0-macos-arm64.zip.sha256",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.2.0/xrecomp-v0.2.0-macos-arm64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "xrecomp-v0.2.0.apk",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.2.0/xrecomp-v0.2.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "xrecomp-v0.2.0.apk.sha256",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.2.0/xrecomp-v0.2.0.apk.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "xrecomp-v0.1.0.apk",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.1.0/xrecomp-v0.1.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "xrecomp-v0.1.0.apk.sha256",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-v0.1.0/xrecomp-v0.1.0.apk.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "xrecomp-7ca68d2b-linux.tar.gz",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-latest/xrecomp-7ca68d2b-linux.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "xrecomp-7ca68d2b-linux.tar.gz.sha256",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-latest/xrecomp-7ca68d2b-linux.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "xrecomp-7ca68d2b-macos-arm64.zip",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-latest/xrecomp-7ca68d2b-macos-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "xrecomp-7ca68d2b-macos-arm64.zip.sha256",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-latest/xrecomp-7ca68d2b-macos-arm64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "xrecomp-7ca68d2b.apk",
+          "url": "https://github.com/MisterAlex95/Xrecomp/releases/download/xrecomp-latest/xrecomp-7ca68d2b.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -1082,7 +2070,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T00:49:48.682145+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T17:56:40.449627+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native port of PES 2013 (Xbox 360) for Windows and iPad via static recompilation. No game assets included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
