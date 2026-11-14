@@ -1,7 +1,230 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-14T17:56:41.837080+00:00",
+  "last_updated": "2026-11-14T23:47:52.901581+00:00",
   "candidates": [
+    {
+      "title": "PaceTea/world-across",
+      "url": "https://github.com/PaceTea/world-across",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T21:01:08Z",
+      "summary": "Native PC port of A Link Between Worlds (3DS) by static recompilation, with a GPU renderer. No game data included: bring your own dump.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T23:47:33.860563+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "kingzmanh/ring-nibelungen-pc-native",
+      "url": "https://github.com/kingzmanh/ring-nibelungen-pc-native",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T21:12:41Z",
+      "summary": "Native PC port of Ring: The Legend of the Nibelungen (1999): static recompilation, 4x panoramas, full-colour movies. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T23:47:33.860004+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "gtguerreiro-max/FromDustDeck",
+      "url": "https://github.com/gtguerreiro-max/FromDustDeck",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T21:49:35Z",
+      "summary": "From Dust (Xbox 360 XBLA) static recompilation with ReXGlue for the Steam Deck: native D3D12 renderer under Proton, 60 FPS. Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T23:47:33.859396+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Kapro777/fatal-frame-xbox-recomp",
+      "url": "https://github.com/Kapro777/fatal-frame-xbox-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T23:07:42Z",
+      "summary": "Fatal Frame (Xbox) static recompilation - cloud build/CI project. No game code or assets in this repo.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T23:47:33.858794+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Kapro777/fatal-frame-native-engine",
+      "url": "https://github.com/Kapro777/fatal-frame-native-engine",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T23:25:13Z",
+      "summary": "Fatal Frame Native Engine: runs the user's own Xbox disc natively via static recompilation. Ships no game code. Legal, by design.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T23:47:33.858216+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Femtech-web/Encroe",
+      "url": "https://github.com/Femtech-web/Encroe",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-14T22:48:11Z",
+      "summary": "The studio shut down. The game didn't. Game servers sealed into keyless NEAR contracts, verified in an enclave without being opened, released by anyone when the studio goes silent, and revived in the browser with every player's items. Topics: chain-signatures, game-preservation, near-protocol, tee, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T23:47:29.763686+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "AI3LabsX/rexxar-os",
+      "url": "https://github.com/AI3LabsX/rexxar-os",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-14T22:37:12Z",
+      "summary": "A desktop in the browser, written in Rust: GPU-rendered UI compiled to WebAssembly, with a security game inside",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T23:47:29.762191+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "JC-Gamer-Nostalgic/Baldi-s-Basics-in-Funkin-3rd-Anniversary-Reskin-Android-Port-",
       "url": "https://github.com/JC-Gamer-Nostalgic/Baldi-s-Basics-in-Funkin-3rd-Anniversary-Reskin-Android-Port-",
@@ -11,7 +234,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T17:56:26.889920+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T23:47:39.040508+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "An Android Port made by JC Gamer Nostalgic in Godot Engine 4.6",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +285,181 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T17:56:21.228554+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T23:47:40.369931+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
+        "latest_release_url": "https://github.com/metrist38/fefw-recomp/releases/tag/v0.2.0",
+        "latest_release_name": "0.2.0",
+        "release_assets": [
+          {
+            "name": "fefw-recomp-0.2.0-linux-x64.tar.gz",
+            "url": "https://github.com/metrist38/fefw-recomp/releases/download/v0.2.0/fefw-recomp-0.2.0-linux-x64.tar.gz",
+            "size": 297743135
+          },
+          {
+            "name": "fefw-recomp-0.2.0-win64.zip",
+            "url": "https://github.com/metrist38/fefw-recomp/releases/download/v0.2.0/fefw-recomp-0.2.0-win64.zip",
+            "size": 164512726
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.2.0",
+            "url": "https://github.com/metrist38/fefw-recomp/releases/tag/v0.2.0",
+            "published_at": "2026-11-14T14:20:28Z",
+            "assets": [
+              {
+                "name": "fefw-recomp-0.2.0-linux-x64.tar.gz",
+                "url": "https://github.com/metrist38/fefw-recomp/releases/download/v0.2.0/fefw-recomp-0.2.0-linux-x64.tar.gz",
+                "size": 297743135
+              },
+              {
+                "name": "fefw-recomp-0.2.0-win64.zip",
+                "url": "https://github.com/metrist38/fefw-recomp/releases/download/v0.2.0/fefw-recomp-0.2.0-win64.zip",
+                "size": 164512726
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "8bdaca6",
+            "url": "https://github.com/metrist38/fefw-recomp/releases/tag/8bdaca6",
+            "published_at": "2026-11-11T20:01:40Z",
+            "assets": [
+              {
+                "name": "fefw-recomp-8bdaca6-linux-x64.tar.gz",
+                "url": "https://github.com/metrist38/fefw-recomp/releases/download/8bdaca6/fefw-recomp-8bdaca6-linux-x64.tar.gz",
+                "size": 297702348
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "8875872",
+            "url": "https://github.com/metrist38/fefw-recomp/releases/tag/8875872",
+            "published_at": "2026-11-10T13:48:09Z",
+            "assets": [
+              {
+                "name": "fefw-recomp-8875872-linux-x64.tar.gz",
+                "url": "https://github.com/metrist38/fefw-recomp/releases/download/8875872/fefw-recomp-8875872-linux-x64.tar.gz",
+                "size": 297438824
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "d86ef03",
+            "url": "https://github.com/metrist38/fefw-recomp/releases/tag/d86ef03",
+            "published_at": "2026-11-10T13:14:36Z",
+            "assets": [
+              {
+                "name": "fefw-recomp-d86ef03-linux-x64.tar.gz",
+                "url": "https://github.com/metrist38/fefw-recomp/releases/download/d86ef03/fefw-recomp-d86ef03-linux-x64.tar.gz",
+                "size": 299933008
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "aba4497",
+            "url": "https://github.com/metrist38/fefw-recomp/releases/tag/aba4497",
+            "published_at": "2026-11-10T12:34:42Z",
+            "assets": [
+              {
+                "name": "fefw-recomp-aba4497-linux-x64.tar.gz",
+                "url": "https://github.com/metrist38/fefw-recomp/releases/download/aba4497/fefw-recomp-aba4497-linux-x64.tar.gz",
+                "size": 299921826
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "9b67d93",
+            "url": "https://github.com/metrist38/fefw-recomp/releases/tag/9b67d93",
+            "published_at": "2026-11-10T12:14:42Z",
+            "assets": [
+              {
+                "name": "fefw-recomp-9b67d93-linux-x64.tar.gz",
+                "url": "https://github.com/metrist38/fefw-recomp/releases/download/9b67d93/fefw-recomp-9b67d93-linux-x64.tar.gz",
+                "size": 299910624
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "9210e7a",
+            "url": "https://github.com/metrist38/fefw-recomp/releases/tag/9210e7a",
+            "published_at": "2026-11-10T12:44:32Z",
+            "assets": [
+              {
+                "name": "fefw-recomp-9210e7a-linux-x64.tar.gz",
+                "url": "https://github.com/metrist38/fefw-recomp/releases/download/9210e7a/fefw-recomp-9210e7a-linux-x64.tar.gz",
+                "size": 299936853
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "8d2142b",
+            "url": "https://github.com/metrist38/fefw-recomp/releases/tag/8d2142b",
+            "published_at": "2026-11-10T13:35:02Z",
+            "assets": [
+              {
+                "name": "fefw-recomp-8d2142b-linux-x64.tar.gz",
+                "url": "https://github.com/metrist38/fefw-recomp/releases/download/8d2142b/fefw-recomp-8d2142b-linux-x64.tar.gz",
+                "size": 297424935
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "3577d8d",
+            "url": "https://github.com/metrist38/fefw-recomp/releases/tag/3577d8d",
+            "published_at": "2026-11-10T18:03:35Z",
+            "assets": [
+              {
+                "name": "fefw-recomp-3577d8d-linux-x64.tar.gz",
+                "url": "https://github.com/metrist38/fefw-recomp/releases/download/3577d8d/fefw-recomp-3577d8d-linux-x64.tar.gz",
+                "size": 297437459
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "1aca6af",
+            "url": "https://github.com/metrist38/fefw-recomp/releases/tag/1aca6af",
+            "published_at": "2026-11-10T15:58:56Z",
+            "assets": [
+              {
+                "name": "fefw-recomp-1aca6af-linux-x64.tar.gz",
+                "url": "https://github.com/metrist38/fefw-recomp/releases/download/1aca6af/fefw-recomp-1aca6af-linux-x64.tar.gz",
+                "size": 297437093
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -55,13 +469,72 @@
         "android_terms": [],
         "pc_terms": [
           "windows",
+          "win64",
+          "linux",
           "pc port"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "fefw-recomp-0.2.0-linux-x64.tar.gz",
+          "url": "https://github.com/metrist38/fefw-recomp/releases/download/v0.2.0/fefw-recomp-0.2.0-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "fefw-recomp-0.2.0-win64.zip",
+          "url": "https://github.com/metrist38/fefw-recomp/releases/download/v0.2.0/fefw-recomp-0.2.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "fefw-recomp-8bdaca6-linux-x64.tar.gz",
+          "url": "https://github.com/metrist38/fefw-recomp/releases/download/8bdaca6/fefw-recomp-8bdaca6-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "fefw-recomp-8875872-linux-x64.tar.gz",
+          "url": "https://github.com/metrist38/fefw-recomp/releases/download/8875872/fefw-recomp-8875872-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "fefw-recomp-d86ef03-linux-x64.tar.gz",
+          "url": "https://github.com/metrist38/fefw-recomp/releases/download/d86ef03/fefw-recomp-d86ef03-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "fefw-recomp-aba4497-linux-x64.tar.gz",
+          "url": "https://github.com/metrist38/fefw-recomp/releases/download/aba4497/fefw-recomp-aba4497-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "fefw-recomp-9b67d93-linux-x64.tar.gz",
+          "url": "https://github.com/metrist38/fefw-recomp/releases/download/9b67d93/fefw-recomp-9b67d93-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "fefw-recomp-9210e7a-linux-x64.tar.gz",
+          "url": "https://github.com/metrist38/fefw-recomp/releases/download/9210e7a/fefw-recomp-9210e7a-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "fefw-recomp-8d2142b-linux-x64.tar.gz",
+          "url": "https://github.com/metrist38/fefw-recomp/releases/download/8d2142b/fefw-recomp-8d2142b-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "fefw-recomp-3577d8d-linux-x64.tar.gz",
+          "url": "https://github.com/metrist38/fefw-recomp/releases/download/3577d8d/fefw-recomp-3577d8d-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "fefw-recomp-1aca6af-linux-x64.tar.gz",
+          "url": "https://github.com/metrist38/fefw-recomp/releases/download/1aca6af/fefw-recomp-1aca6af-linux-x64.tar.gz",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -79,7 +552,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T17:56:21.228005+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T23:47:41.789980+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Snap Recomp: native Windows PC static recompilation (AArch64 to C) of a 2021 Switch photography game, with an NVN-to-Vulkan renderer, 4K, DLSS/FSR and full input remapping. Code only; bring your own game dump.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -112,7 +602,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T17:56:21.227391+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T23:47:43.123325+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Paused Yuri’s Revenge static recompilation research archive: reviewed generic tools and documentation only; no commercial game code or assets.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -139,7 +646,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T17:56:21.226806+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T23:47:44.469118+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "raiders",
+        "description": "Unofficial static recompilation of Splatoon Raiders (Switch 2) to native Windows x86-64 with a Vulkan renderer. No game data included: bring your own dump.",
+        "latest_release_url": "https://github.com/Elie-0066/SPR-Recomp-Project/releases/tag/v0.1.1",
+        "latest_release_name": "SPR Recomp v0.1.1",
+        "release_assets": [
+          {
+            "name": "SPR-Setup-0.1.1+c94314b-windows.zip",
+            "url": "https://github.com/Elie-0066/SPR-Recomp-Project/releases/download/v0.1.1/SPR-Setup-0.1.1%2Bc94314b-windows.zip",
+            "size": 127922180
+          }
+        ],
+        "releases": [
+          {
+            "name": "SPR Recomp v0.1.1",
+            "url": "https://github.com/Elie-0066/SPR-Recomp-Project/releases/tag/v0.1.1",
+            "published_at": "2026-11-14T17:57:58Z",
+            "assets": [
+              {
+                "name": "SPR-Setup-0.1.1+c94314b-windows.zip",
+                "url": "https://github.com/Elie-0066/SPR-Recomp-Project/releases/download/v0.1.1/SPR-Setup-0.1.1%2Bc94314b-windows.zip",
+                "size": 127922180
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SPR Recomp v0.1.0",
+            "url": "https://github.com/Elie-0066/SPR-Recomp-Project/releases/tag/v0.1.0",
+            "published_at": "2026-11-14T15:04:29Z",
+            "assets": [
+              {
+                "name": "SPR-Setup-0.1.0+6b2ea84-windows.zip",
+                "url": "https://github.com/Elie-0066/SPR-Recomp-Project/releases/download/v0.1.0/SPR-Setup-0.1.0%2B6b2ea84-windows.zip",
+                "size": 129389515
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -152,9 +711,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SPR-Setup-0.1.1+c94314b-windows.zip",
+          "url": "https://github.com/Elie-0066/SPR-Recomp-Project/releases/download/v0.1.1/SPR-Setup-0.1.1%2Bc94314b-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SPR-Setup-0.1.0+6b2ea84-windows.zip",
+          "url": "https://github.com/Elie-0066/SPR-Recomp-Project/releases/download/v0.1.0/SPR-Setup-0.1.0%2B6b2ea84-windows.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -172,7 +743,65 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T17:56:21.226155+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T23:47:45.857923+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A static recompilation project for Taito's classic arcade fighting game Kaiser Knuckle (Global Champion). Aims to bring the original arcade experience to modern hardware through native Windows and Steam Deck/Linux support, with an AppImage distribution planned for Linux-based systems. Please provide your own roms.",
+        "latest_release_url": "https://github.com/omegakatana92/Kaizer-Knuckle-Recomp/releases/tag/v1.0.0",
+        "latest_release_name": "Kaiser Knuckle v1.0.0",
+        "release_assets": [
+          {
+            "name": "KaiserKnuckle-SteamDeck-x86_64.AppImage",
+            "url": "https://github.com/omegakatana92/Kaizer-Knuckle-Recomp/releases/download/v1.0.0/KaiserKnuckle-SteamDeck-x86_64.AppImage",
+            "size": 2324984
+          },
+          {
+            "name": "KaiserKnuckle-Windows-x86_64.zip",
+            "url": "https://github.com/omegakatana92/Kaizer-Knuckle-Recomp/releases/download/v1.0.0/KaiserKnuckle-Windows-x86_64.zip",
+            "size": 1878583
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/omegakatana92/Kaizer-Knuckle-Recomp/releases/download/v1.0.0/SHA256SUMS.txt",
+            "size": 1083
+          }
+        ],
+        "releases": [
+          {
+            "name": "Kaiser Knuckle v1.0.0",
+            "url": "https://github.com/omegakatana92/Kaizer-Knuckle-Recomp/releases/tag/v1.0.0",
+            "published_at": "2026-11-14T16:24:25Z",
+            "assets": [
+              {
+                "name": "KaiserKnuckle-SteamDeck-x86_64.AppImage",
+                "url": "https://github.com/omegakatana92/Kaizer-Knuckle-Recomp/releases/download/v1.0.0/KaiserKnuckle-SteamDeck-x86_64.AppImage",
+                "size": 2324984
+              },
+              {
+                "name": "KaiserKnuckle-Windows-x86_64.zip",
+                "url": "https://github.com/omegakatana92/Kaizer-Knuckle-Recomp/releases/download/v1.0.0/KaiserKnuckle-Windows-x86_64.zip",
+                "size": 1878583
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/omegakatana92/Kaizer-Knuckle-Recomp/releases/download/v1.0.0/SHA256SUMS.txt",
+                "size": 1083
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -186,9 +815,26 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "KaiserKnuckle-SteamDeck-x86_64.AppImage",
+          "url": "https://github.com/omegakatana92/Kaizer-Knuckle-Recomp/releases/download/v1.0.0/KaiserKnuckle-SteamDeck-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "KaiserKnuckle-Windows-x86_64.zip",
+          "url": "https://github.com/omegakatana92/Kaizer-Knuckle-Recomp/releases/download/v1.0.0/KaiserKnuckle-Windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/omegakatana92/Kaizer-Knuckle-Recomp/releases/download/v1.0.0/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -206,7 +852,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T17:56:21.225590+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T23:47:50.226291+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Apple Silicon / Metal static recompilation research: handwritten host code, runtime patches and tests. No game data or generated game code.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -233,7 +896,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T17:56:21.224995+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T23:47:51.568435+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Build your own PS4 packages for Harvest Moon 64 and Mario Party 3 from your ROM dump (static recompilation). GTK3 GUI + CLI, one-click fresh-machine setup. GPLv3. No game content.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
