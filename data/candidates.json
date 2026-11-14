@@ -1,7 +1,712 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-13T12:57:20.017082+00:00",
+  "last_updated": "2026-11-14T00:50:07.826575+00:00",
   "candidates": [
+    {
+      "title": "Rinto02/tekken-tag-tournament-2-Android",
+      "url": "https://github.com/Rinto02/tekken-tag-tournament-2-Android",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-13T11:25:13Z",
+      "summary": "Native Android port of Tekken Tag Tournament 2 (Xbox 360) by static recompilation. Not an emulator. Ships no game data - the installer builds the game from your own disc image and Title Update 3.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:55.875552+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "MildRain479/PokePark-2-Wiicompiled",
+      "url": "https://github.com/MildRain479/PokePark-2-Wiicompiled",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-13T13:45:52Z",
+      "summary": "A static recompilation of PokéPark 2: Wonders Beyond for PC and Android, originally created for the Nintendo Wii with reconfigured controls, options, and performance to make the game in-line with modern PC releases.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:55.874622+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "DevCrashDay/pyramid-rising-android-x64",
+      "url": "https://github.com/DevCrashDay/pyramid-rising-android-x64",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-13T14:12:41Z",
+      "summary": "a port of the game Pyramid Rising from 2015 to modern x64 android devices",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:54.108351+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "eemanet/redalert-android",
+      "url": "https://github.com/eemanet/redalert-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-13T20:50:54Z",
+      "summary": "Unofficial Android port of Command & Conquer: Red Alert (Vanilla Conquer engine) with touch controls. Bring your own game data.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:54.107211+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "trevermfield/Quest64-Android",
+      "url": "https://github.com/trevermfield/Quest64-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-13T22:15:17Z",
+      "summary": "Unofficial Android port of Quest 64: Recompiled (patches and build scripts only, no game files)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:54.106591+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "artemnikonov/hpengine",
+      "url": "https://github.com/artemnikonov/hpengine",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-13T17:57:47Z",
+      "summary": "Open-source engine port of Harry Potter and the Philosopher's Stone / Sorcerer's Stone (PC, 2001), checked against the original. Native on macOS, Windows and Linux. Requires your own game files. Topics: apple-silicon, csharp, dotnet, engine-reimplementation, game-engine, game-preservation, harry-potter, knowwonder, linux, macos, retro-gaming, sdl3, source-port, unreal-engine, unreal-engine-1, unrealscript, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:52.360151+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source-port, port of, reimplementation",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "zetacean/BLACK-PC",
+      "url": "https://github.com/zetacean/BLACK-PC",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T22:11:16Z",
+      "summary": "BLACK PC: native PC port of BLACK (Xbox, 2006) by static recompilation. Installer included; the game is not.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:48.683442+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "bassobr/Far-Cry-Instincts-Predator-Recomp",
+      "url": "https://github.com/bassobr/Far-Cry-Instincts-Predator-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T22:18:39Z",
+      "summary": "Unofficial static recompilation of Far Cry Instincts Predator (Xbox 360) for Windows. Bring your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:48.682835+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "xamphy/PES13Recomp",
+      "url": "https://github.com/xamphy/PES13Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T22:53:58Z",
+      "summary": "Unofficial native port of PES 2013 (Xbox 360) for Windows and iPad via static recompilation. No game assets included. Topics: ipad, pes2013, recompilation, static-recompilation, vulkan, xbox360, xenonrecomp",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:48.682145+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "Zexyen/Hotel-Luigi",
+      "url": "https://github.com/Zexyen/Hotel-Luigi",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T23:02:41Z",
+      "summary": "Unofficial static recompilation of Luigi's Mansion 3. Builds the game on your PC from your own legally dumped copy. No game files, keys or SDK code included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:48.681434+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Kapro777/itp-recomp-android",
+      "url": "https://github.com/Kapro777/itp-recomp-android",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T23:13:07Z",
+      "summary": "Native Android port of Five Nights at Freddy's: Into the Pit (Nintendo Switch) via static recompilation. Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:48.680760+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "giogitsuspended-sketch/thug-psp-port",
+      "url": "https://github.com/giogitsuspended-sketch/thug-psp-port",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T23:38:59Z",
+      "summary": "Tony Hawk's Underground (PS2) on PSP via PS2RC static recompilation - no game data included",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:48.680149+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "replayrevival/ste-recomp",
+      "url": "https://github.com/replayrevival/ste-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-13T23:43:08Z",
+      "summary": "Native PC static recompilation of Godzilla: Save the Earth (Xbox). Requires your own copy of the game. Alpha, work in progress.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:48.679517+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "ManuelRiosRomero/catherine-linux-port",
+      "url": "https://github.com/ManuelRiosRomero/catherine-linux-port",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T00:19:21Z",
+      "summary": "Native Linux / Steam Deck port of Catherine Classic by static recompilation. Builds from your own copy of the game; no game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:48.678857+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "finalpantasy/new-pokemon-snap-recomp",
+      "url": "https://github.com/finalpantasy/new-pokemon-snap-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T00:30:40Z",
+      "summary": "New Pokémon Snap PC port: native Windows static recompilation (AArch64 to C) with an NVN-to-Vulkan renderer and full input remapping. Code only; bring your own game dump. Topics: aarch64, decompilation, new-pokemon-snap, nintendo-switch, pc-port, pokemon-snap, recompilation, reverse-engineering, static-recompilation, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:48.677879+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "MatheusLeffa/Tobal2Recomp",
+      "url": "https://github.com/MatheusLeffa/Tobal2Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T00:40:02Z",
+      "summary": "Tobal 2 (PS1) native PC port by static recompilation with PSXRecomp. English or original Japanese. Bring your own disc; no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:48.676869+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "charles-forsyth/ironwake",
+      "url": "https://github.com/charles-forsyth/ironwake",
+      "source_name": "GitHub: WebGL ports",
+      "published": "2026-11-13T20:20:04Z",
+      "summary": "Steampunk naval sailing game in Unreal Engine 5.8: three working ports, a living sea, solved Kelvin wakes. Live 3D fleet, sound deck and wake lab in the browser. Topics: game, hydrodynamics, kelvin-wake, model-viewer, naval, open-source-game, sailing, steampunk, unreal-engine, unreal-engine-5, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:46.860631+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webgl",
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "tom-tour/cogneurs",
+      "url": "https://github.com/tom-tour/cogneurs",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-13T20:30:54Z",
+      "summary": "Browser arena game where you write your fighter's battle plan instead of fighting. Rust engine (WebAssembly) and server. Topics: auto-battler, browser-game, game, rust, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:44.903566+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "sirmmo/opentactics",
+      "url": "https://github.com/sirmmo/opentactics",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-13T21:44:55Z",
+      "summary": "Turn-based tactical skirmish game in the browser: Rust/WebAssembly engine, JSON rules, AI, P2P multiplayer, map editor",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:44.902658+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "Elkwizard/Hengine",
+      "url": "https://github.com/Elkwizard/Hengine",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-13T23:03:01Z",
+      "summary": "A 2D/3D JS Game Engine designed to run in the browser. Uses hybrid HTML5 Canvas and WebGL for rendering. Includes a high-performance WebAssembly physics engine and an efficient, composable workflow. Topics: 2d-game-engine, 2d-game-framework, game-engine, html5, javascript",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:44.899324+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl",
+          "html5"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, game engine, webassembly, webgl, html5",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "CassetteTapeCrackle/code-village",
+      "url": "https://github.com/CassetteTapeCrackle/code-village",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-14T00:47:03Z",
+      "summary": "A cozy pixel village for learning to code Topics: browser-game, cloudflare-workers, education, educational-game, game, learn-python, learn-to-code, pixel-art, programming-education, pyodide, python, spaced-repetition, svelte, typescript, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T00:49:44.895949+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "Anas18102004/cricket-legacy",
       "url": "https://github.com/Anas18102004/cricket-legacy",
@@ -11,7 +716,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-13T12:57:05.622678+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T00:49:57.450877+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "C/C++ native game engine recompilation and Android port preserving low-level memory layout, cross-compilation toolchains, and hardware acceleration.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +767,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-13T12:57:05.621324+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T00:49:58.743105+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android port of Castlevania: Belmont's Curse for the Retroid Pocket Flip 2. Early version. Bring your own extracted game files.",
+        "latest_release_url": "https://github.com/IamWilmar/castlevania-recomp/releases/tag/v0.2.0",
+        "latest_release_name": "v0.2.0",
+        "release_assets": [
+          {
+            "name": "castlevaniaport-v0.2.0.apk",
+            "url": "https://github.com/IamWilmar/castlevania-recomp/releases/download/v0.2.0/castlevaniaport-v0.2.0.apk",
+            "size": 20702202
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.2.0",
+            "url": "https://github.com/IamWilmar/castlevania-recomp/releases/tag/v0.2.0",
+            "published_at": "2026-11-13T17:52:25Z",
+            "assets": [
+              {
+                "name": "castlevaniaport-v0.2.0.apk",
+                "url": "https://github.com/IamWilmar/castlevania-recomp/releases/download/v0.2.0/castlevaniaport-v0.2.0.apk",
+                "size": 20702202
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Castlevania port v0.1.0",
+            "url": "https://github.com/IamWilmar/castlevania-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-13T07:38:24Z",
+            "assets": [
+              {
+                "name": "castlevaniaport-v0.1.0.apk",
+                "url": "https://github.com/IamWilmar/castlevania-recomp/releases/download/v0.1.0/castlevaniaport-v0.1.0.apk",
+                "size": 20694010
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -59,9 +833,21 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "castlevaniaport-v0.2.0.apk",
+          "url": "https://github.com/IamWilmar/castlevania-recomp/releases/download/v0.2.0/castlevaniaport-v0.2.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "castlevaniaport-v0.1.0.apk",
+          "url": "https://github.com/IamWilmar/castlevania-recomp/releases/download/v0.1.0/castlevaniaport-v0.1.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -79,7 +865,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-13T12:57:00.039448+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T00:50:00.068184+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Static recompilation of WWE WrestleMania XIX (GameCube, GW9E78) for Windows. DolRecomp + ModernGekko. No game data.",
+        "latest_release_url": "https://github.com/Spaced1127/WMXIX-Static-Recomp/releases/tag/v0.3.1",
+        "latest_release_name": "WWE WrestleMania XIX v0.3.1",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/Spaced1127/WMXIX-Static-Recomp/releases/download/v0.3.1/SHA256SUMS.txt",
+            "size": 96
+          },
+          {
+            "name": "WMXIX-v0.3.1-Windows-x64.zip",
+            "url": "https://github.com/Spaced1127/WMXIX-Static-Recomp/releases/download/v0.3.1/WMXIX-v0.3.1-Windows-x64.zip",
+            "size": 33342775
+          }
+        ],
+        "releases": [
+          {
+            "name": "WWE WrestleMania XIX v0.3.1",
+            "url": "https://github.com/Spaced1127/WMXIX-Static-Recomp/releases/tag/v0.3.1",
+            "published_at": "2026-11-13T07:51:30Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/Spaced1127/WMXIX-Static-Recomp/releases/download/v0.3.1/SHA256SUMS.txt",
+                "size": 96
+              },
+              {
+                "name": "WMXIX-v0.3.1-Windows-x64.zip",
+                "url": "https://github.com/Spaced1127/WMXIX-Static-Recomp/releases/download/v0.3.1/WMXIX-v0.3.1-Windows-x64.zip",
+                "size": 33342775
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -92,9 +926,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/Spaced1127/WMXIX-Static-Recomp/releases/download/v0.3.1/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "WMXIX-v0.3.1-Windows-x64.zip",
+          "url": "https://github.com/Spaced1127/WMXIX-Static-Recomp/releases/download/v0.3.1/WMXIX-v0.3.1-Windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -112,7 +958,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-13T12:57:00.038646+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T00:50:01.369409+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Mario Strikers: Battle League to native Windows. Bring your own game: setup takes the ExeFS and RomFS you extracted from your own Switch; no game code, data, artwork or keys included, and nothing is decrypted.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -145,7 +1008,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-13T12:57:00.037830+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T00:50:02.669751+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of WWE WrestleMania X8 (GameCube, GW3E78) for Windows. DolRecomp + ModernGekko. No game data.",
+        "latest_release_url": "https://github.com/Spaced1127/WWE-WrestleMania-X8-Recomp/releases/tag/v0.1.0",
+        "latest_release_name": "WWE WrestleMania X8 Recomp v0.1.0",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/Spaced1127/WWE-WrestleMania-X8-Recomp/releases/download/v0.1.0/SHA256SUMS.txt",
+            "size": 111
+          },
+          {
+            "name": "WrestleManiaX8Recomp-v0.1.0-Windows-x64.zip",
+            "url": "https://github.com/Spaced1127/WWE-WrestleMania-X8-Recomp/releases/download/v0.1.0/WrestleManiaX8Recomp-v0.1.0-Windows-x64.zip",
+            "size": 19566392
+          }
+        ],
+        "releases": [
+          {
+            "name": "WWE WrestleMania X8 Recomp v0.1.0",
+            "url": "https://github.com/Spaced1127/WWE-WrestleMania-X8-Recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-13T08:19:41Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/Spaced1127/WWE-WrestleMania-X8-Recomp/releases/download/v0.1.0/SHA256SUMS.txt",
+                "size": 111
+              },
+              {
+                "name": "WrestleManiaX8Recomp-v0.1.0-Windows-x64.zip",
+                "url": "https://github.com/Spaced1127/WWE-WrestleMania-X8-Recomp/releases/download/v0.1.0/WrestleManiaX8Recomp-v0.1.0-Windows-x64.zip",
+                "size": 19566392
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -158,9 +1069,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/Spaced1127/WWE-WrestleMania-X8-Recomp/releases/download/v0.1.0/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "WrestleManiaX8Recomp-v0.1.0-Windows-x64.zip",
+          "url": "https://github.com/Spaced1127/WWE-WrestleMania-X8-Recomp/releases/download/v0.1.0/WrestleManiaX8Recomp-v0.1.0-Windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -178,7 +1101,65 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-13T12:57:00.036952+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T00:50:03.959060+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation + English translation of Megami Ibunroku Persona Digital Collection (1998, Director 5) for macOS, Linux and Windows. No game data included.",
+        "latest_release_url": "https://github.com/ACR-GD/persona-digital-collection-recomp/releases/tag/v0.1.0",
+        "latest_release_name": "Persona Digital Collection v0.1.0 — Recomp by Second Save",
+        "release_assets": [
+          {
+            "name": "PersonaDC-0.1.0-Linux-x64.tar.gz",
+            "url": "https://github.com/ACR-GD/persona-digital-collection-recomp/releases/download/v0.1.0/PersonaDC-0.1.0-Linux-x64.tar.gz",
+            "size": 10733021
+          },
+          {
+            "name": "PersonaDC-0.1.0-macOS.zip",
+            "url": "https://github.com/ACR-GD/persona-digital-collection-recomp/releases/download/v0.1.0/PersonaDC-0.1.0-macOS.zip",
+            "size": 15948754
+          },
+          {
+            "name": "PersonaDC-0.1.0-Windows-x64.zip",
+            "url": "https://github.com/ACR-GD/persona-digital-collection-recomp/releases/download/v0.1.0/PersonaDC-0.1.0-Windows-x64.zip",
+            "size": 10636051
+          }
+        ],
+        "releases": [
+          {
+            "name": "Persona Digital Collection v0.1.0 — Recomp by Second Save",
+            "url": "https://github.com/ACR-GD/persona-digital-collection-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-13T08:59:34Z",
+            "assets": [
+              {
+                "name": "PersonaDC-0.1.0-Linux-x64.tar.gz",
+                "url": "https://github.com/ACR-GD/persona-digital-collection-recomp/releases/download/v0.1.0/PersonaDC-0.1.0-Linux-x64.tar.gz",
+                "size": 10733021
+              },
+              {
+                "name": "PersonaDC-0.1.0-macOS.zip",
+                "url": "https://github.com/ACR-GD/persona-digital-collection-recomp/releases/download/v0.1.0/PersonaDC-0.1.0-macOS.zip",
+                "size": 15948754
+              },
+              {
+                "name": "PersonaDC-0.1.0-Windows-x64.zip",
+                "url": "https://github.com/ACR-GD/persona-digital-collection-recomp/releases/download/v0.1.0/PersonaDC-0.1.0-Windows-x64.zip",
+                "size": 10636051
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -192,9 +1173,26 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "PersonaDC-0.1.0-Linux-x64.tar.gz",
+          "url": "https://github.com/ACR-GD/persona-digital-collection-recomp/releases/download/v0.1.0/PersonaDC-0.1.0-Linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "PersonaDC-0.1.0-macOS.zip",
+          "url": "https://github.com/ACR-GD/persona-digital-collection-recomp/releases/download/v0.1.0/PersonaDC-0.1.0-macOS.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PersonaDC-0.1.0-Windows-x64.zip",
+          "url": "https://github.com/ACR-GD/persona-digital-collection-recomp/releases/download/v0.1.0/PersonaDC-0.1.0-Windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -212,7 +1210,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-13T12:57:00.035765+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T00:50:05.313996+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "The Saboteur (PC, 2009) on Android via static recompilation: x86 → native ARM64, Direct3D 9 → Vulkan (DXVK). No Wine, no emulator. No game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -245,7 +1260,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-13T12:57:00.034672+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-14T00:50:06.586582+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of The King of Fighters XI for native PC. Bring your own disc images; no game data in this repo.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
