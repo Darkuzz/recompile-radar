@@ -1,7 +1,430 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-15T12:37:16.928253+00:00",
+  "last_updated": "2026-11-15T23:53:52.471215+00:00",
   "candidates": [
+    {
+      "title": "HolyCaonima/ra3-ios-android-win-mac-recomp",
+      "url": "https://github.com/HolyCaonima/ra3-ios-android-win-mac-recomp",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-15T12:35:26Z",
+      "summary": "Red Alert 3 native recompilation for iOS, Android, Windows & macOS. Tools, runtime components and platform patches; no game assets or generated lift C. | 红警3原生重编译：公开工具、运行时组件与平台补丁，不含游戏资源和生成的 lift C。 Inspired by / 方法参考: https://github.com/elkir0/sc2-android-recomp",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T23:53:39.434558+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "clearmoon247/Kyujo",
+      "url": "https://github.com/clearmoon247/Kyujo",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-15T17:13:22Z",
+      "summary": "Play the N64 classic Pokemon Stadium as a native program on Windows, Linux, Android and Nintendo Switch, from your own game file. No emulator: Kyujo runs the game's code and reproduces the console's hardware by hand. Topics: recomp, recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T23:53:39.433495+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux, android"
+      ]
+    },
+    {
+      "title": "CrownParkComputing/pacman-ce2-recomp",
+      "url": "https://github.com/CrownParkComputing/pacman-ce2-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-15T15:11:04Z",
+      "summary": "PAC-MAN Championship Edition 2 native Linux and Android port; runtime source and build instructions, game data supplied separately",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T23:53:37.499323+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, linux, android"
+      ]
+    },
+    {
+      "title": "CrownParkComputing/polybius-recomp",
+      "url": "https://github.com/CrownParkComputing/polybius-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-15T16:55:21Z",
+      "summary": "Polybius CUSA08328 Linux and Android native port using the shared PS4 runtime; original game data required.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T23:53:37.498340+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: native port",
+        "Есть игровые/платформенные признаки: game, original game, linux, android"
+      ]
+    },
+    {
+      "title": "CrownParkComputing/raiden-fighters-recomp",
+      "url": "https://github.com/CrownParkComputing/raiden-fighters-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-15T21:49:35Z",
+      "summary": "Raiden Fighters Remix Collection CUSA53688 Linux and Android port using the shared PS4 runtime; original game data required.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T23:53:37.495965+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, original game, linux, android"
+      ]
+    },
+    {
+      "title": "champi12/snake-puzzle-PSP",
+      "url": "https://github.com/champi12/snake-puzzle-PSP",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-15T21:50:03Z",
+      "summary": "A port of the Android game *Snake Puzzle* for the PSP console, bringing the mobile experience to the console.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T23:53:37.495338+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Garrietta/ONE-Launcher",
+      "url": "https://github.com/Garrietta/ONE-Launcher",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-15T23:47:39Z",
+      "summary": "ONE — a Material 3 Expressive launcher for native Android game ports and recompilations on foldables. Organizes your own legally dumped game files and pulls them from your own Premiumize cloud.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T23:53:37.493836+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Byloth/altair",
+      "url": "https://github.com/Byloth/altair",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-15T22:04:49Z",
+      "summary": "A static recompilation of Assassin's Creed (2007), to run it natively and in the browser and to use it as the basis for an improved game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T23:53:30.868271+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Kapro777/lethal-shot-engine",
+      "url": "https://github.com/Kapro777/lethal-shot-engine",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-15T23:40:34Z",
+      "summary": "Lethal Shot port engine: runs your own game disc natively via static recompilation. Ships no game code. Legal, by design.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T23:53:30.867513+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "HanYolo1/timeLink",
+      "url": "https://github.com/HanYolo1/timeLink",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-15T23:23:56Z",
+      "summary": "A personal fork of timeLink: a static recompilation of a supported console game, running natively on Windows and Linux. GPL-3.0-or-later. Topics: gpl-3-0, linux, n64, ocarina-of-time, static-recompilation, switch, vulkan, windows, zelda",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T23:53:30.866747+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "costa961/Crash-OTT-web",
+      "url": "https://github.com/costa961/Crash-OTT-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-15T22:29:25Z",
+      "summary": "Crash of the Titans (Xbox 360) in the browser web: a WebAssembly + WebGPU port, built from your own copy of the game. Unofficial, no game files included. Topics: crash-bandicoot, crash-of-the-titans, online-coop, web, web-assembly, web-gpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T23:53:26.477432+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "oakridge-rgb/Hover-web-port",
+      "url": "https://github.com/oakridge-rgb/Hover-web-port",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-15T23:08:42Z",
+      "summary": "Hover! (1995) - the original Windows 95 game statically recompiled to WebAssembly (WIP)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T23:53:26.476126+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, windows"
+      ]
+    },
     {
       "title": "xmllua/tlou-remastered-android",
       "url": "https://github.com/xmllua/tlou-remastered-android",
@@ -11,7 +434,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-15T12:37:00.768007+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-15T23:53:41.040024+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "tlou-ui-approval-log32-20261105",
+        "description": "The Last of Us Remastered Android port (FEX x86-64 translation + Vulkan). Mirror of erickmendes22/tlou-remastered-android branch tlou-ui-approval-log32-20261105 (real Android source). No game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +485,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-15T12:37:00.767317+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-15T23:53:42.530930+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "THPS 2X Recompiled on handhelds (OpenGL ES, Linux/aarch64 and Android): patches and glue, no game data",
+        "latest_release_url": "https://github.com/GASQBDUV/thps2x-handheld-ports/releases/tag/v1.0.0-bananaos-rgds",
+        "latest_release_name": "RG DS (BananaOS) v1.0.0",
+        "release_assets": [
+          {
+            "name": "thps2x-rgds-bananaos-v1.0.0.zip",
+            "url": "https://github.com/GASQBDUV/thps2x-handheld-ports/releases/download/v1.0.0-bananaos-rgds/thps2x-rgds-bananaos-v1.0.0.zip",
+            "size": 8090240
+          }
+        ],
+        "releases": [
+          {
+            "name": "RG DS (BananaOS) v1.0.0",
+            "url": "https://github.com/GASQBDUV/thps2x-handheld-ports/releases/tag/v1.0.0-bananaos-rgds",
+            "published_at": "2026-11-14T21:51:08Z",
+            "assets": [
+              {
+                "name": "thps2x-rgds-bananaos-v1.0.0.zip",
+                "url": "https://github.com/GASQBDUV/thps2x-handheld-ports/releases/download/v1.0.0-bananaos-rgds/thps2x-rgds-bananaos-v1.0.0.zip",
+                "size": 8090240
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "RG Rotate (Android) v1.0.0",
+            "url": "https://github.com/GASQBDUV/thps2x-handheld-ports/releases/tag/v1.0.0-android-rotate",
+            "published_at": "2026-11-14T21:51:11Z",
+            "assets": [
+              {
+                "name": "thps2x-rg-rotate-android-v1.0.0.apk",
+                "url": "https://github.com/GASQBDUV/thps2x-handheld-ports/releases/download/v1.0.0-android-rotate/thps2x-rg-rotate-android-v1.0.0.apk",
+                "size": 9019997
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -61,10 +553,22 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "thps2x-rgds-bananaos-v1.0.0.zip",
+          "url": "https://github.com/GASQBDUV/thps2x-handheld-ports/releases/download/v1.0.0-bananaos-rgds/thps2x-rgds-bananaos-v1.0.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "thps2x-rg-rotate-android-v1.0.0.apk",
+          "url": "https://github.com/GASQBDUV/thps2x-handheld-ports/releases/download/v1.0.0-android-rotate/thps2x-rg-rotate-android-v1.0.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -82,7 +586,73 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-15T12:37:00.766008+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-15T23:53:44.115102+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android port of Celeste (2018) running your own PC copy: .NET + FNA + SDL3, Vulkan, FMOD, launcher with game import.",
+        "latest_release_url": "https://github.com/BelmanteGu/CelesteAndroid/releases/tag/v1.1.0",
+        "latest_release_name": "CelesteAndroid v1.1.0 — Widescreen, touch controls & new launcher",
+        "release_assets": [
+          {
+            "name": "CelesteAndroid-1.1.0.apk",
+            "url": "https://github.com/BelmanteGu/CelesteAndroid/releases/download/v1.1.0/CelesteAndroid-1.1.0.apk",
+            "size": 24985544
+          }
+        ],
+        "releases": [
+          {
+            "name": "CelesteAndroid v1.1.0 — Widescreen, touch controls & new launcher",
+            "url": "https://github.com/BelmanteGu/CelesteAndroid/releases/tag/v1.1.0",
+            "published_at": "2026-11-15T03:06:48Z",
+            "assets": [
+              {
+                "name": "CelesteAndroid-1.1.0.apk",
+                "url": "https://github.com/BelmanteGu/CelesteAndroid/releases/download/v1.1.0/CelesteAndroid-1.1.0.apk",
+                "size": 24985544
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "CelesteAndroid v1.0.1",
+            "url": "https://github.com/BelmanteGu/CelesteAndroid/releases/tag/v1.0.1",
+            "published_at": "2026-09-24T04:02:58Z",
+            "assets": [
+              {
+                "name": "CelesteAndroid-1.0.1.apk",
+                "url": "https://github.com/BelmanteGu/CelesteAndroid/releases/download/v1.0.1/CelesteAndroid-1.0.1.apk",
+                "size": 24972615
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "CelesteAndroid v1.0.0",
+            "url": "https://github.com/BelmanteGu/CelesteAndroid/releases/tag/v1.0.0",
+            "published_at": "2026-09-24T03:43:38Z",
+            "assets": [
+              {
+                "name": "CelesteAndroid-1.0.0.apk",
+                "url": "https://github.com/BelmanteGu/CelesteAndroid/releases/download/v1.0.0/CelesteAndroid-1.0.0.apk",
+                "size": 24025124
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -96,9 +666,26 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "CelesteAndroid-1.1.0.apk",
+          "url": "https://github.com/BelmanteGu/CelesteAndroid/releases/download/v1.1.0/CelesteAndroid-1.1.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "CelesteAndroid-1.0.1.apk",
+          "url": "https://github.com/BelmanteGu/CelesteAndroid/releases/download/v1.0.1/CelesteAndroid-1.0.1.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "CelesteAndroid-1.0.0.apk",
+          "url": "https://github.com/BelmanteGu/CelesteAndroid/releases/download/v1.0.0/CelesteAndroid-1.0.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -116,7 +703,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-15T12:37:00.764531+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-15T23:53:45.658535+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Android port of OpenBGI (Ethornell/BGI engine reimplementation), patched and optimized to run Subarashiki Hibi (Wonderful Everyday). Requires your own copy of the game files.",
+        "latest_release_url": "https://github.com/nurwed/openbgi-subahibi-android/releases/tag/v1.0.0",
+        "latest_release_name": "SubaHibi",
+        "release_assets": [
+          {
+            "name": "SubaHibi.apk",
+            "url": "https://github.com/nurwed/openbgi-subahibi-android/releases/download/v1.0.0/SubaHibi.apk",
+            "size": 19618433
+          }
+        ],
+        "releases": [
+          {
+            "name": "SubaHibi",
+            "url": "https://github.com/nurwed/openbgi-subahibi-android/releases/tag/v1.0.0",
+            "published_at": "2026-11-15T08:20:01Z",
+            "assets": [
+              {
+                "name": "SubaHibi.apk",
+                "url": "https://github.com/nurwed/openbgi-subahibi-android/releases/download/v1.0.0/SubaHibi.apk",
+                "size": 19618433
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -130,9 +755,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SubaHibi.apk",
+          "url": "https://github.com/nurwed/openbgi-subahibi-android/releases/download/v1.0.0/SubaHibi.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -150,7 +782,257 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-15T12:37:00.763766+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-15T23:53:47.215623+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Open-source mobile port of Angband 4.2.6 for Android and iOS. Touch-friendly PWA with ASCII, tiles, and offline play.",
+        "latest_release_url": "https://github.com/eugene-lesnov/pocketband/releases/tag/0.2.4",
+        "latest_release_name": "0.2.4",
+        "release_assets": [
+          {
+            "name": "pocketband-source.tar.gz",
+            "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.4/pocketband-source.tar.gz",
+            "size": 7261736
+          },
+          {
+            "name": "pocketband-web.zip",
+            "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.4/pocketband-web.zip",
+            "size": 6173407
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.4/SHA256SUMS",
+            "size": 176
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.2.4",
+            "url": "https://github.com/eugene-lesnov/pocketband/releases/tag/0.2.4",
+            "published_at": "2026-11-15T21:10:02Z",
+            "assets": [
+              {
+                "name": "pocketband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.4/pocketband-source.tar.gz",
+                "size": 7261736
+              },
+              {
+                "name": "pocketband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.4/pocketband-web.zip",
+                "size": 6173407
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.4/SHA256SUMS",
+                "size": 176
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.2.3",
+            "url": "https://github.com/eugene-lesnov/pocketband/releases/tag/0.2.3",
+            "published_at": "2026-11-15T20:57:22Z",
+            "assets": [
+              {
+                "name": "pocketband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.3/pocketband-source.tar.gz",
+                "size": 7261246
+              },
+              {
+                "name": "pocketband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.3/pocketband-web.zip",
+                "size": 6172428
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.3/SHA256SUMS",
+                "size": 176
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.2.2",
+            "url": "https://github.com/eugene-lesnov/pocketband/releases/tag/0.2.2",
+            "published_at": "2026-11-15T20:37:17Z",
+            "assets": [
+              {
+                "name": "pocketband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.2/pocketband-source.tar.gz",
+                "size": 7261192
+              },
+              {
+                "name": "pocketband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.2/pocketband-web.zip",
+                "size": 6172348
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.2/SHA256SUMS",
+                "size": 176
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.2.1",
+            "url": "https://github.com/eugene-lesnov/pocketband/releases/tag/0.2.1",
+            "published_at": "2026-11-15T20:15:46Z",
+            "assets": [
+              {
+                "name": "pocketband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.1/pocketband-source.tar.gz",
+                "size": 7261091
+              },
+              {
+                "name": "pocketband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.1/pocketband-web.zip",
+                "size": 6172138
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.1/SHA256SUMS",
+                "size": 176
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.2.0",
+            "url": "https://github.com/eugene-lesnov/pocketband/releases/tag/0.2.0",
+            "published_at": "2026-11-15T19:05:21Z",
+            "assets": [
+              {
+                "name": "pocketband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.0/pocketband-source.tar.gz",
+                "size": 7259673
+              },
+              {
+                "name": "pocketband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.0/pocketband-web.zip",
+                "size": 6169535
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.0/SHA256SUMS",
+                "size": 176
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.1.1",
+            "url": "https://github.com/eugene-lesnov/pocketband/releases/tag/0.1.1",
+            "published_at": "2026-11-15T07:06:44Z",
+            "assets": [
+              {
+                "name": "pocketband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.1/pocketband-source.tar.gz",
+                "size": 7250661
+              },
+              {
+                "name": "pocketband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.1/pocketband-web.zip",
+                "size": 6154824
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.1/SHA256SUMS",
+                "size": 176
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.1.0",
+            "url": "https://github.com/eugene-lesnov/pocketband/releases/tag/0.1.0",
+            "published_at": "2026-11-15T00:11:07Z",
+            "assets": [
+              {
+                "name": "pocketband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.0/pocketband-source.tar.gz",
+                "size": 7249963
+              },
+              {
+                "name": "pocketband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.0/pocketband-web.zip",
+                "size": 6154795
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.0/SHA256SUMS",
+                "size": 176
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.0-rc.1",
+            "url": "https://github.com/eugene-lesnov/pocketband/releases/tag/v0.1.0-rc.1",
+            "published_at": "2026-11-13T17:50:05Z",
+            "assets": [
+              {
+                "name": "pocketband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/v0.1.0-rc.1/pocketband-source.tar.gz",
+                "size": 5664304
+              },
+              {
+                "name": "pocketband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/v0.1.0-rc.1/pocketband-web.zip",
+                "size": 3026602
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/v0.1.0-rc.1/SHA256SUMS",
+                "size": 176
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "0.1.0-rc.2",
+            "url": "https://github.com/eugene-lesnov/pocketband/releases/tag/0.1.0-rc.2",
+            "published_at": "2026-11-13T19:17:09Z",
+            "assets": [
+              {
+                "name": "pocketband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.0-rc.2/pocketband-source.tar.gz",
+                "size": 5647440
+              },
+              {
+                "name": "pocketband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.0-rc.2/pocketband-web.zip",
+                "size": 3017642
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.0-rc.2/SHA256SUMS",
+                "size": 176
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -163,9 +1045,146 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "pocketband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.4/pocketband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.4/pocketband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.4/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.3/pocketband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.3/pocketband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.3/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.2/pocketband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.2/pocketband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.1/pocketband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.1/pocketband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.0/pocketband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.0/pocketband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.2.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.1/pocketband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.1/pocketband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.0/pocketband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.0/pocketband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/v0.1.0-rc.1/pocketband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/v0.1.0-rc.1/pocketband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/v0.1.0-rc.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.0-rc.2/pocketband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.0-rc.2/pocketband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketband/releases/download/0.1.0-rc.2/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
@@ -183,7 +1202,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-15T12:37:00.762083+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-15T23:53:48.830771+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": false,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub вернул 404. Проект не удаляем; проверку нужно повторить."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -216,7 +1251,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-15T12:36:54.611123+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-15T23:53:49.537415+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "iOS build of the mcla-recomp static recompilation (no game code)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -243,7 +1295,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-15T12:36:54.610485+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-15T23:53:51.023985+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of Star Fox Assault (GameCube) via static recompilation with gcn-recomp. Bring your own disc; no game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
