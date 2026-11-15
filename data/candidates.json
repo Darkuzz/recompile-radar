@@ -1,16 +1,248 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-14T23:47:52.901581+00:00",
+  "last_updated": "2026-11-15T12:37:16.928253+00:00",
   "candidates": [
     {
-      "title": "PaceTea/world-across",
-      "url": "https://github.com/PaceTea/world-across",
-      "source_name": "GitHub: static recompilation",
-      "published": "2026-11-14T21:01:08Z",
-      "summary": "Native PC port of A Link Between Worlds (3DS) by static recompilation, with a GPU renderer. No game data included: bring your own dump.",
+      "title": "xmllua/tlou-remastered-android",
+      "url": "https://github.com/xmllua/tlou-remastered-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-14T19:29:53Z",
+      "summary": "The Last of Us Remastered Android port (FEX x86-64 translation + Vulkan). Mirror of erickmendes22/tlou-remastered-android branch tlou-ui-approval-log32-20261105 (real Android source). No game files.",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-14T23:47:33.860563+00:00",
+      "found_at": "2026-11-15T12:37:00.768007+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "GASQBDUV/thps2x-handheld-ports",
+      "url": "https://github.com/GASQBDUV/thps2x-handheld-ports",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-14T21:52:50Z",
+      "summary": "THPS 2X Recompiled on handhelds (OpenGL ES, Linux/aarch64 and Android): patches and glue, no game data",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T12:37:00.767317+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux, android"
+      ]
+    },
+    {
+      "title": "BelmanteGu/CelesteAndroid",
+      "url": "https://github.com/BelmanteGu/CelesteAndroid",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-15T03:57:05Z",
+      "summary": "Native Android port of Celeste (2018) running your own PC copy: .NET + FNA + SDL3, Vulkan, FMOD, launcher with game import. Topics: android, celeste, dotnet, fna, monomod, port, sdl3",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T12:37:00.766008+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "nurwed/openbgi-subahibi-android",
+      "url": "https://github.com/nurwed/openbgi-subahibi-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-15T08:19:58Z",
+      "summary": "Android port of OpenBGI (Ethornell/BGI engine reimplementation), patched and optimized to run Subarashiki Hibi (Wonderful Everyday). Requires your own copy of the game files. Topics: android, openbgi, port, visual-novel",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T12:37:00.764531+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, reimplementation, android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "eugene-lesnov/pocketband",
+      "url": "https://github.com/eugene-lesnov/pocketband",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-15T08:24:16Z",
+      "summary": "Open-source mobile port of Angband 4.2.6 for Android and iOS. Touch-friendly PWA with ASCII, tiles, and offline play. Topics: android, angband, game, ios, pwa, roguelike",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T12:37:00.763766+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "kunpolos55/Basara3utage",
+      "url": "https://github.com/kunpolos55/Basara3utage",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-15T11:35:52Z",
+      "summary": "Paket pengerjaan port Android Sengoku Basara 3 Utage (Wii, S3HJ08) di atas B2HWii-Android: scaffold recompilasi statis, lapisan identitas dua game, dan branding. Wajib disc sendiri — tanpa file game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T12:37:00.762083+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "solluxcaptor429/mcla-ios",
+      "url": "https://github.com/solluxcaptor429/mcla-ios",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-15T07:31:41Z",
+      "summary": "iOS build of the mcla-recomp static recompilation (no game code)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T12:36:54.611123+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "bossman-CT/sfassault-recomp",
+      "url": "https://github.com/bossman-CT/sfassault-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-15T07:58:17Z",
+      "summary": "Native PC port of Star Fox Assault (GameCube) via static recompilation with gcn-recomp. Bring your own disc; no game data included. Topics: gamecube, pc-port, recompilation, star-fox, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T12:36:54.610485+00:00",
       "check": null,
       "category": "pc",
       "platforms_guess": [
@@ -28,6 +260,450 @@
       "build_links": [],
       "classification_notes": [
         "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "dea7hsmiless/Midnight-Club-3-ReDUB",
+      "url": "https://github.com/dea7hsmiless/Midnight-Club-3-ReDUB",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-15T09:38:34Z",
+      "summary": "A Windows community edition of Midnight Club 3: DUB Edition Remix, built from the original Xbox game through static recompilation. Topics: dlss, game-preservation, midnight-club-3, static-recompilation, vulkan, windows, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T12:36:54.609666+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "bc160201983/GoW-Ascension-Recomp",
+      "url": "https://github.com/bc160201983/GoW-Ascension-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-15T09:54:49Z",
+      "summary": "Static recompilation of God of War: Ascension (PS3) to native Windows. Bring your own game. Single player and community online multiplayer.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T12:36:54.608912+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "007hacky007/black-and-white-2",
+      "url": "https://github.com/007hacky007/black-and-white-2",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-15T10:50:55Z",
+      "summary": "Native Apple Silicon macOS port of Black & White 2 by static recompilation. Bring your own game discs.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T12:36:54.608247+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "paviv14/TraumaTeam-Resuscitated",
+      "url": "https://github.com/paviv14/TraumaTeam-Resuscitated",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-15T11:40:44Z",
+      "summary": "Unofficial native PC port of Trauma Team (Wii, 2010) via static recompilation. No game data included: requires your own copy.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T12:36:54.607629+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "eliasm4r/WondersBeyondRecomp",
+      "url": "https://github.com/eliasm4r/WondersBeyondRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-15T12:01:45Z",
+      "summary": "WondersBeyondRecomp: PokéPark 2: Wonders Beyond running natively on PC (static recompilation of the Wii game, up to 240 fps, 21:9, HD textures) Topics: pc-port, pc-port-wii, pokemon, pokepark, pokepark-2, pokepark2, recomp, recompilation, static-recompilation, wii",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T12:36:54.606760+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "StarkillerVv/switch-ports-daily",
+      "url": "https://github.com/StarkillerVv/switch-ports-daily",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-15T12:34:32Z",
+      "summary": "Daily findings on unofficial Nintendo Switch game ports — fan/homebrew source ports, decompilations, Android loaders and static recompilations. Updated every day at 6am ET.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T12:36:54.605716+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "MaxsimusAI/block-blast-browser",
+      "url": "https://github.com/MaxsimusAI/block-blast-browser",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-15T10:18:48Z",
+      "summary": "Unofficial browser port of the supplied Block Blast 11.0.0 package. Static game for phone and desktop.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T12:36:45.341505+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Down1oads/OACWEB",
+      "url": "https://github.com/Down1oads/OACWEB",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-15T12:34:09Z",
+      "summary": "Unofficial browser port of One-armed Cook (fan project, runs the original game via static recompilation)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-15T12:36:45.340916+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, browser port, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game"
+      ]
+    },
+    {
+      "title": "PaceTea/world-across",
+      "url": "https://github.com/PaceTea/world-across",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-14T21:01:08Z",
+      "summary": "Native PC port of A Link Between Worlds (3DS) by static recompilation, with a GPU renderer. No game data included: bring your own dump.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-14T23:47:33.860563+00:00",
+      "check": {
+        "checked_at": "2026-11-15T12:37:04.420041+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of A Link Between Worlds (3DS) by static recompilation, with a GPU renderer. No game data included: bring your own dump.",
+        "latest_release_url": "https://github.com/PaceTea/world-across/releases/tag/v0.1.3",
+        "latest_release_name": "World Across 0.1.3",
+        "release_assets": [
+          {
+            "name": "World-Across-Windows.zip",
+            "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.3/World-Across-Windows.zip",
+            "size": 31669814
+          },
+          {
+            "name": "World-Across-x86_64.AppImage",
+            "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.3/World-Across-x86_64.AppImage",
+            "size": 41982456
+          }
+        ],
+        "releases": [
+          {
+            "name": "World Across 0.1.3",
+            "url": "https://github.com/PaceTea/world-across/releases/tag/v0.1.3",
+            "published_at": "2026-11-14T21:01:08Z",
+            "assets": [
+              {
+                "name": "World-Across-Windows.zip",
+                "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.3/World-Across-Windows.zip",
+                "size": 31669814
+              },
+              {
+                "name": "World-Across-x86_64.AppImage",
+                "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.3/World-Across-x86_64.AppImage",
+                "size": 41982456
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "World Across 0.1.2",
+            "url": "https://github.com/PaceTea/world-across/releases/tag/v0.1.2",
+            "published_at": "2026-11-14T20:05:06Z",
+            "assets": [
+              {
+                "name": "World-Across-Windows.zip",
+                "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.2/World-Across-Windows.zip",
+                "size": 31664136
+              },
+              {
+                "name": "World-Across-x86_64.AppImage",
+                "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.2/World-Across-x86_64.AppImage",
+                "size": 41970168
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "World Across 0.1.1",
+            "url": "https://github.com/PaceTea/world-across/releases/tag/v0.1.1",
+            "published_at": "2026-11-14T19:30:12Z",
+            "assets": [
+              {
+                "name": "World-Across-Windows.zip",
+                "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.1/World-Across-Windows.zip",
+                "size": 31663921
+              },
+              {
+                "name": "World-Across-x86_64.AppImage",
+                "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.1/World-Across-x86_64.AppImage",
+                "size": 41970168
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "World Across 0.1.0",
+            "url": "https://github.com/PaceTea/world-across/releases/tag/v0.1.0",
+            "published_at": "2026-11-14T18:54:14Z",
+            "assets": [
+              {
+                "name": "World-Across-Windows.zip",
+                "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.0/World-Across-Windows.zip",
+                "size": 31662972
+              },
+              {
+                "name": "World-Across-x86_64.AppImage",
+                "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.0/World-Across-x86_64.AppImage",
+                "size": 41970168
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "World-Across-Windows.zip",
+          "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.3/World-Across-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "World-Across-x86_64.AppImage",
+          "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.3/World-Across-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "World-Across-Windows.zip",
+          "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.2/World-Across-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "World-Across-x86_64.AppImage",
+          "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.2/World-Across-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "World-Across-Windows.zip",
+          "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.1/World-Across-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "World-Across-x86_64.AppImage",
+          "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.1/World-Across-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "World-Across-Windows.zip",
+          "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.0/World-Across-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "World-Across-x86_64.AppImage",
+          "url": "https://github.com/PaceTea/world-across/releases/download/v0.1.0/World-Across-x86_64.AppImage",
+          "type": "desktop_package"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -45,7 +721,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T23:47:33.860004+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-15T12:37:06.074381+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of Ring: The Legend of the Nibelungen (1999): static recompilation, 4x panoramas, full-colour movies. No game files included.",
+        "latest_release_url": "https://github.com/kingzmanh/ring-nibelungen-pc-native/releases/tag/v0.1.0",
+        "latest_release_name": "v0.1.0 (test build)",
+        "release_assets": [
+          {
+            "name": "Ring.PC.Setup.exe",
+            "url": "https://github.com/kingzmanh/ring-nibelungen-pc-native/releases/download/v0.1.0/Ring.PC.Setup.exe",
+            "size": 12820449
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0 (test build)",
+            "url": "https://github.com/kingzmanh/ring-nibelungen-pc-native/releases/tag/v0.1.0",
+            "published_at": "2026-11-14T21:10:17Z",
+            "assets": [
+              {
+                "name": "Ring.PC.Setup.exe",
+                "url": "https://github.com/kingzmanh/ring-nibelungen-pc-native/releases/download/v0.1.0/Ring.PC.Setup.exe",
+                "size": 12820449
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -59,9 +773,16 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Ring.PC.Setup.exe",
+          "url": "https://github.com/kingzmanh/ring-nibelungen-pc-native/releases/download/v0.1.0/Ring.PC.Setup.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -79,7 +800,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T23:47:33.859396+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-15T12:37:07.655172+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "From Dust (Xbox 360 XBLA) static recompilation with ReXGlue for the Steam Deck: native D3D12 renderer under Proton, 60 FPS. Bring your own game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -106,7 +844,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T23:47:33.858794+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-15T12:37:09.193290+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Fatal Frame (Xbox) static recompilation - cloud build/CI project. No game code or assets in this repo.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -133,7 +888,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T23:47:33.858216+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-15T12:37:10.732799+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Fatal Frame Native Engine: runs the user's own Xbox disc natively via static recompilation. Ships no game code. Legal, by design.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -160,7 +932,41 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T23:47:29.763686+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-15T12:37:12.271012+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "The studio shut down. The game didn't. Game servers sealed into keyless NEAR contracts, verified in an enclave without being opened, released by anyone when the studio goes silent, and revived in the browser with every player's items.",
+        "latest_release_url": "https://github.com/Femtech-web/Encroe/releases/tag/v0.2.0",
+        "latest_release_name": "Encroe v0.2.0",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "Encroe v0.2.0",
+            "url": "https://github.com/Femtech-web/Encroe/releases/tag/v0.2.0",
+            "published_at": "2026-11-14T18:06:19Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Encroe v0.1.0",
+            "url": "https://github.com/Femtech-web/Encroe/releases/tag/v0.1.0",
+            "published_at": "2026-11-14T18:05:45Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -195,7 +1001,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T23:47:29.762191+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-15T12:37:13.844947+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A desktop in the browser, written in Rust: GPU-rendered UI compiled to WebAssembly, with a security game inside",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -940,7 +1763,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-14T17:56:21.224225+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-15T12:37:15.385665+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation runtime for Mass Effect (Xbox 360) on Android (XDroid360) and PC. No game code or data: the player's own copy is recompiled.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
