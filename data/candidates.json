@@ -1,7 +1,530 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-15T23:53:52.471215+00:00",
+  "last_updated": "2026-11-16T13:29:18.641235+00:00",
   "candidates": [
+    {
+      "title": "aidp2/tssm-ports",
+      "url": "https://github.com/aidp2/tssm-ports",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-16T03:31:34Z",
+      "summary": "Windows, Android, Switch and 3DS ports of The SpongeBob SquarePants Movie, built on its matching decompilation. Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-16T13:29:03.336959+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": [
+          "3ds port"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "pipe-code/joey-passion-recomp",
+      "url": "https://github.com/pipe-code/joey-passion-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-16T02:47:35Z",
+      "summary": "Native macOS, Windows, Android and PS Vita port of Yu-Gi-Oh! Power of Chaos: Joey the Passion via static x86-to-C recompilation (bring your own game files) Topics: android, decompilation, game-port, ps-vita, sdl2, static-recompilation, yugioh",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-16T13:29:03.336444+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": [
+          "ps vita"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "IamWilmar/resonance-recomp",
+      "url": "https://github.com/IamWilmar/resonance-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-16T05:18:52Z",
+      "summary": "Native Android port of Final Fantasy Resonance for the Retroid Pocket Flip 2. Early version. Bring your own extracted game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-16T13:29:03.335336+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "CrownParkComputing/raiden-v-recomp",
+      "url": "https://github.com/CrownParkComputing/raiden-v-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-16T05:50:18Z",
+      "summary": "Linux x86-64 and Android ARM64 port of Raiden V: Director's Cut (CUSA07673). Original game data not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-16T13:29:03.334908+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game, linux, android"
+      ]
+    },
+    {
+      "title": "IamWilmar/catherine-recomp",
+      "url": "https://github.com/IamWilmar/catherine-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-16T06:24:54Z",
+      "summary": "Native Android port of Catherine: Full Body for the Retroid Pocket Flip 2. Early version. Bring your own extracted game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-16T13:29:03.334449+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "SirWinstonChurchillTheFirst/mario-kart-wii-native",
+      "url": "https://github.com/SirWinstonChurchillTheFirst/mario-kart-wii-native",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-16T08:32:30Z",
+      "summary": "Native Windows and Linux build of Mario Kart Wii (Wii) by static recompilation. Bring your own disc; no game data included. Topics: linux, native-port, nintendo-wii, recompilation, static-recompilation, wii, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-16T13:28:56.858476+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "linux build"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "SirWinstonChurchillTheFirst/mario-and-sonic-olympic-winter-games-native",
+      "url": "https://github.com/SirWinstonChurchillTheFirst/mario-and-sonic-olympic-winter-games-native",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-16T08:32:33Z",
+      "summary": "Native Windows and Linux build of Mario & Sonic at the Olympic Winter Games (Wii) by static recompilation. Bring your own disc; no game data included. Topics: linux, native-port, nintendo-wii, recompilation, static-recompilation, wii, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-16T13:28:56.857842+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "linux build"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "SirWinstonChurchillTheFirst/super-mario-galaxy-native",
+      "url": "https://github.com/SirWinstonChurchillTheFirst/super-mario-galaxy-native",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-16T08:32:36Z",
+      "summary": "Native Windows and Linux build of Super Mario Galaxy (Wii) by static recompilation. Bring your own disc; no game data included. Topics: linux, native-port, nintendo-wii, recompilation, static-recompilation, wii, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-16T13:28:56.857207+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "linux build"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "SirWinstonChurchillTheFirst/mario-and-sonic-london-2012-native",
+      "url": "https://github.com/SirWinstonChurchillTheFirst/mario-and-sonic-london-2012-native",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-16T08:32:38Z",
+      "summary": "Native Windows and Linux build of Mario & Sonic at the London 2012 Olympic Games (Wii) by static recompilation. Bring your own disc; no game data included. Topics: linux, native-port, nintendo-wii, recompilation, static-recompilation, wii, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-16T13:28:56.856588+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "linux build"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "SirWinstonChurchillTheFirst/super-smash-bros-brawl-native",
+      "url": "https://github.com/SirWinstonChurchillTheFirst/super-smash-bros-brawl-native",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-16T08:32:42Z",
+      "summary": "Native Windows and Linux build of Super Smash Bros. Brawl (Wii) by static recompilation. Bring your own disc; no game data included. Topics: linux, native-port, nintendo-wii, recompilation, static-recompilation, wii, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-16T13:28:56.855950+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "linux build"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "aplaino/darksouls2-mac",
+      "url": "https://github.com/aplaino/darksouls2-mac",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-16T09:06:24Z",
+      "summary": "Dark Souls II (original) running natively on Apple silicon Macs, via static recompilation (x86recomp). No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-16T13:28:56.855421+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "linuxopt/mp4-recomp",
+      "url": "https://github.com/linuxopt/mp4-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-16T10:25:02Z",
+      "summary": "Metroid Prime 4 Beyond for Linux as a self-contained AppImage — MP4 Recomp's static recompilation, built from your own game files. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-16T13:28:56.854904+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "bassobr/Far-Cry-Instincts-Evolution-Recomp",
+      "url": "https://github.com/bassobr/Far-Cry-Instincts-Evolution-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-16T12:21:22Z",
+      "summary": "Static recompilation of the original Xbox Far Cry Instincts Evolution into a native Windows x64 executable (Direct3D 11). Bring your own copy of the game; no game files included. Topics: direct3d11, far-cry, far-cry-instincts, far-cry-instincts-evolution, original-xbox, pc-port, recompilation, static-recompilation, steam-deck, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-16T13:28:56.854195+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "sw-fun/evolving-game",
+      "url": "https://github.com/sw-fun/evolving-game",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-16T07:25:46Z",
+      "summary": "A family of castle-siege games written in X_eTaL, played in the browser as WebAssembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-16T13:28:52.518027+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "kpagar1010-creator/snake-and-ladders",
+      "url": "https://github.com/kpagar1010-creator/snake-and-ladders",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-16T10:47:03Z",
+      "summary": "Two-player Snake and Ladders browser game with C/WebAssembly source.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-16T13:28:52.515582+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "HolyCaonima/ra3-ios-android-win-mac-recomp",
       "url": "https://github.com/HolyCaonima/ra3-ios-android-win-mac-recomp",
@@ -11,7 +534,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-15T23:53:39.434558+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-16T13:29:06.770017+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Red Alert 3 native recompilation for iOS, Android, Windows & macOS. Tools, runtime components and platform patches; no game assets or generated lift C. | 红警3原生重编译：公开工具、运行时组件与平台补丁，不含游戏资源和生成的 lift C。 Inspired by / 方法参考: https://github.com/elkir0/sc2-android-recomp",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -48,7 +588,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-15T23:53:39.433495+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-16T13:29:08.202715+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Play the N64 classic Pokemon Stadium as a native program on Windows, Linux, Android and Nintendo Switch, from your own game file. No emulator: Kyujo runs the game's code and reproduces the console's hardware by hand.",
+        "latest_release_url": "https://github.com/clearmoon247/Kyujo/releases/tag/0.1.0",
+        "latest_release_name": "0.1.0",
+        "release_assets": [
+          {
+            "name": "Kyujo-windows-x86_64.zip",
+            "url": "https://github.com/clearmoon247/Kyujo/releases/download/0.1.0/Kyujo-windows-x86_64.zip",
+            "size": 614154
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.1.0",
+            "url": "https://github.com/clearmoon247/Kyujo/releases/tag/0.1.0",
+            "published_at": "2026-11-15T09:21:51Z",
+            "assets": [
+              {
+                "name": "Kyujo-windows-x86_64.zip",
+                "url": "https://github.com/clearmoon247/Kyujo/releases/download/0.1.0/Kyujo-windows-x86_64.zip",
+                "size": 614154
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -67,11 +645,18 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Kyujo-windows-x86_64.zip",
+          "url": "https://github.com/clearmoon247/Kyujo/releases/download/0.1.0/Kyujo-windows-x86_64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
         "В описании обнаружены признаки PC-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -89,7 +674,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-15T23:53:37.499323+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-16T13:29:09.735876+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "PAC-MAN Championship Edition 2 native Linux and Android port; runtime source and build instructions, game data supplied separately",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -127,7 +729,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-15T23:53:37.498340+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-16T13:29:11.185923+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Polybius CUSA08328 Linux and Android native port using the shared PS4 runtime; original game data required.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -164,7 +783,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-15T23:53:37.495965+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-16T13:29:12.751133+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Raiden Fighters Remix Collection CUSA53688 Linux and Android port using the shared PS4 runtime; original game data required.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -202,7 +838,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-15T23:53:37.495338+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-16T13:29:14.241361+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "claude/sweet-bardeen-jekasy",
+        "description": "A port of the Android game *Snake Puzzle* for the PSP console, bringing the mobile experience to the console.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -235,7 +888,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-15T23:53:37.493836+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-16T13:29:15.656023+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "ONE — a Material 3 Expressive launcher for native Android game ports and recompilations on foldables. Organizes your own legally dumped game files and pulls them from your own Premiumize cloud.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -268,7 +938,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-15T23:53:30.868271+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-16T13:29:17.136901+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "A static recompilation of Assassin's Creed (2007), to run it natively and in the browser and to use it as the basis for an improved game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
