@@ -1,7 +1,359 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-17T02:51:47.994993+00:00",
+  "last_updated": "2026-11-17T14:14:56.348202+00:00",
   "candidates": [
+    {
+      "title": "yanm1103/grandchase-featurephone-recomp",
+      "url": "https://github.com/yanm1103/grandchase-featurephone-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-17T03:19:52Z",
+      "summary": "Static recompilation (ARM/WIPI-C → C) of the Korean feature-phone game Grand Chase, with SDL3 runtime, PT-BR retranslation and Android port. No game files included. Topics: game-preservation, grand-chase, recompilation, sdl3, wipi",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-17T14:14:39.775693+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "bang-ijall/MostWanted-Android",
+      "url": "https://github.com/bang-ijall/MostWanted-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-17T08:34:07Z",
+      "summary": "Native Android port of Need for Speed: Most Wanted (Xbox, 2005): static recompilation to C++ with a Vulkan renderer, up to 120 fps. Bring your own game ISO. Topics: android, need-for-speed, nfs-most-wanted, port, recompilation, static-recompilation, vulkan, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-17T14:14:39.773945+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "suiyecc/pocketports-catalog",
+      "url": "https://github.com/suiyecc/pocketports-catalog",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-17T12:22:58Z",
+      "summary": "A sourced catalog of PC and console game ports for Android, iPhone, iPad, macOS and Windows, with release platforms and installation guides. Topics: android, decompilation, game-ports, game-preservation, ios, ipados, macos, source-ports, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-17T14:14:39.771588+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "devall96/Unchained",
+      "url": "https://github.com/devall96/Unchained",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-17T08:45:59Z",
+      "summary": "Whiplash (original Xbox, 2003) as a native Windows and Linux PC port: a static recompilation with full resolution, real widescreen, Vulkan, FSR 1 and controller prompts. Bring your own copy of the game. Made with AI (Claude). Topics: linux, original-xbox, pc-port, recompilation, static-recompilation, steam-deck, vulkan, whiplash, windows, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-17T14:14:37.680251+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "maxi000q/EvilInsidePort",
+      "url": "https://github.com/maxi000q/EvilInsidePort",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-17T10:20:50Z",
+      "summary": "Native Android port of PS5 titles via static recompilation: x86-64 game code AOT-compiled to ARM64, libSce* HLE on Android NDK + Vulkan + AAudio. Evil Inside Recomp. GPL-2.0, derived from PortPS5.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-17T14:14:33.193527+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Cleverdee/pop-ww-android",
+      "url": "https://github.com/Cleverdee/pop-ww-android",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-17T13:32:35Z",
+      "summary": "Prince of Persia: Warrior Within for Android - static recompilation of the PC game (bring your own copy)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-17T14:14:33.192656+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "weile10000/xc2-ns2-recomp",
+      "url": "https://github.com/weile10000/xc2-ns2-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-17T14:07:40Z",
+      "summary": "Static recompilation of Xenoblade Chronicles 2 (Nintendo Switch 2 Edition) to Windows + Vulkan. GPL-3.0, no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-17T14:14:33.191842+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "tools81/alien-gate-static-recomp",
+      "url": "https://github.com/tools81/alien-gate-static-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-17T13:50:21Z",
+      "summary": "Static recompilation of the Philips CD-i game Alien Gate to native Windows (bring your own disc image)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-17T14:14:33.190989+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "smil-is-vibe-coding/Unfocus",
+      "url": "https://github.com/smil-is-vibe-coding/Unfocus",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-17T05:08:42Z",
+      "summary": "UNFOCUS — neon hover combat racing built with Godot 4. Download for Windows / macOS (browser version is a work in progress). Topics: game, gdscript, godot, godot4, hover-racing, indie-game, neon, racing-game, webassembly, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-17T14:14:28.420370+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, webgl, windows",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "Rydgel/deus_ex_web",
+      "url": "https://github.com/Rydgel/deus_ex_web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-17T07:12:23Z",
+      "summary": "Deus Ex (2000) in the browser: an independent reimplementation of its engine in Rust and WebAssembly, checked against the original. Bring your own copy of the game. Topics: deus-ex, game, game-development, game-engine, game-preservation, gamedev, javascript, reimplementation, reverse-engineering, rust, threejs, unreal-engine, unrealscript, wasm, webassembly, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-17T14:14:28.417351+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: reimplementation",
+        "Есть игровые/платформенные признаки: game, webassembly, wasm, webgl"
+      ]
+    },
     {
       "title": "51k0/Prince-Of-Persia-2008-Android-port",
       "url": "https://github.com/51k0/Prince-Of-Persia-2008-Android-port",
@@ -11,7 +363,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-17T02:51:34.149695+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-17T14:14:43.651802+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "This is a native android port of the jave / j2me game Prince of Persia 2008 . i made this game with the help of multiple ai and a little bit of experience this is my first port and i hope you enjoy like i did.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +414,53 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-17T02:51:34.148618+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-17T14:14:45.221300+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "This is a native android port of the jave / j2me game Prince of Persia 2008 . i made this game with the help of multiple ai and a little bit of experience this is my first port and i hope you enjoy like i did.",
+        "latest_release_url": "https://github.com/51k0/Prince-of-Persia-2008-java-android-port-/releases/tag/V2.0",
+        "latest_release_name": " Prince of Persia 2008 Java native android port",
+        "release_assets": [
+          {
+            "name": "Prince.of.Persia.2008.java.By.51k0.apk.zip",
+            "url": "https://github.com/51k0/Prince-of-Persia-2008-java-android-port-/releases/download/V2.0/Prince.of.Persia.2008.java.By.51k0.apk.zip",
+            "size": 688623
+          }
+        ],
+        "releases": [
+          {
+            "name": " Prince of Persia 2008 Java native android port",
+            "url": "https://github.com/51k0/Prince-of-Persia-2008-java-android-port-/releases/tag/V2.0",
+            "published_at": "2026-11-17T13:25:22Z",
+            "assets": [
+              {
+                "name": "Prince.of.Persia.2008.java.By.51k0.apk.zip",
+                "url": "https://github.com/51k0/Prince-of-Persia-2008-java-android-port-/releases/download/V2.0/Prince.of.Persia.2008.java.By.51k0.apk.zip",
+                "size": 688623
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "Prince of Persia 2008 java android port ",
+            "url": "https://github.com/51k0/Prince-of-Persia-2008-java-android-port-/releases/tag/Game",
+            "published_at": "2026-11-16T16:22:30Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -59,9 +474,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Prince.of.Persia.2008.java.By.51k0.apk.zip",
+          "url": "https://github.com/51k0/Prince-of-Persia-2008-java-android-port-/releases/download/V2.0/Prince.of.Persia.2008.java.By.51k0.apk.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -79,7 +501,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-17T02:51:34.147537+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-17T14:14:46.846437+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Downhill Revived · Latchi DZ Edition — native Android/PC port of Downhill Domination (PS2, SCUS-97177): Bluetooth gamepad auto-detect + logcat diagnostics (LatchiPad), in-game button remap, immersive fullscreen. Branded by Iskander Khantouche (Latchi DZ). GPLv3 fork of skuza-oss/downhill-revived — bring your own disc.",
+        "latest_release_url": "https://github.com/latchidz/downhill-revived-latchi-dz/releases/tag/v0.8.9-latchi-dz.1",
+        "latest_release_name": "Downhill Revived · Latchi DZ Edition 0.8.9",
+        "release_assets": [
+          {
+            "name": "DownhillRevived-LatchiDZ-0.8.9-android.apk",
+            "url": "https://github.com/latchidz/downhill-revived-latchi-dz/releases/download/v0.8.9-latchi-dz.1/DownhillRevived-LatchiDZ-0.8.9-android.apk",
+            "size": 36527069
+          },
+          {
+            "name": "latest.json",
+            "url": "https://github.com/latchidz/downhill-revived-latchi-dz/releases/download/v0.8.9-latchi-dz.1/latest.json",
+            "size": 1969
+          }
+        ],
+        "releases": [
+          {
+            "name": "Downhill Revived · Latchi DZ Edition 0.8.9",
+            "url": "https://github.com/latchidz/downhill-revived-latchi-dz/releases/tag/v0.8.9-latchi-dz.1",
+            "published_at": "2026-11-16T16:24:21Z",
+            "assets": [
+              {
+                "name": "DownhillRevived-LatchiDZ-0.8.9-android.apk",
+                "url": "https://github.com/latchidz/downhill-revived-latchi-dz/releases/download/v0.8.9-latchi-dz.1/DownhillRevived-LatchiDZ-0.8.9-android.apk",
+                "size": 36527069
+              },
+              {
+                "name": "latest.json",
+                "url": "https://github.com/latchidz/downhill-revived-latchi-dz/releases/download/v0.8.9-latchi-dz.1/latest.json",
+                "size": 1969
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -95,10 +565,22 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "DownhillRevived-LatchiDZ-0.8.9-android.apk",
+          "url": "https://github.com/latchidz/downhill-revived-latchi-dz/releases/download/v0.8.9-latchi-dz.1/DownhillRevived-LatchiDZ-0.8.9-android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "latest.json",
+          "url": "https://github.com/latchidz/downhill-revived-latchi-dz/releases/download/v0.8.9-latchi-dz.1/latest.json",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 8,
       "relevance_status": "promising",
@@ -116,7 +598,65 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-17T02:51:32.373937+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-17T14:14:48.448599+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native PC port of Asura’s Wrath (PS3) via static recompilation. No emulator or PS3 firmware: build it from your own EU copy (BLES01227). Any resolution up to 4K, 30-120 fps, gamepad or keyboard, update + DLC, trophies, launcher. Windows; Linux and Steam Deck experimental. No game files include",
+        "latest_release_url": "https://github.com/RecompPort/asura-wrath-pc/releases/tag/asura",
+        "latest_release_name": "Asura's Wrath Native Port PC v1.0",
+        "release_assets": [
+          {
+            "name": "AsurasWrath-PC-v1.0-Linux.tar.gz",
+            "url": "https://github.com/RecompPort/asura-wrath-pc/releases/download/asura/AsurasWrath-PC-v1.0-Linux.tar.gz",
+            "size": 3889450
+          },
+          {
+            "name": "AsurasWrath-PC-v1.0-Setup.exe",
+            "url": "https://github.com/RecompPort/asura-wrath-pc/releases/download/asura/AsurasWrath-PC-v1.0-Setup.exe",
+            "size": 5786624
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/RecompPort/asura-wrath-pc/releases/download/asura/SHA256SUMS.txt",
+            "size": 195
+          }
+        ],
+        "releases": [
+          {
+            "name": "Asura's Wrath Native Port PC v1.0",
+            "url": "https://github.com/RecompPort/asura-wrath-pc/releases/tag/asura",
+            "published_at": "2026-11-16T18:08:59Z",
+            "assets": [
+              {
+                "name": "AsurasWrath-PC-v1.0-Linux.tar.gz",
+                "url": "https://github.com/RecompPort/asura-wrath-pc/releases/download/asura/AsurasWrath-PC-v1.0-Linux.tar.gz",
+                "size": 3889450
+              },
+              {
+                "name": "AsurasWrath-PC-v1.0-Setup.exe",
+                "url": "https://github.com/RecompPort/asura-wrath-pc/releases/download/asura/AsurasWrath-PC-v1.0-Setup.exe",
+                "size": 5786624
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/RecompPort/asura-wrath-pc/releases/download/asura/SHA256SUMS.txt",
+                "size": 195
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -132,9 +672,26 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "AsurasWrath-PC-v1.0-Linux.tar.gz",
+          "url": "https://github.com/RecompPort/asura-wrath-pc/releases/download/asura/AsurasWrath-PC-v1.0-Linux.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "AsurasWrath-PC-v1.0-Setup.exe",
+          "url": "https://github.com/RecompPort/asura-wrath-pc/releases/download/asura/AsurasWrath-PC-v1.0-Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/RecompPort/asura-wrath-pc/releases/download/asura/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -152,7 +709,162 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-17T02:51:32.372494+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-17T14:14:50.008709+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Longshot for the PlayStation 5: a port of Longshot (static recompilation) to the PS5, with the Longshot PS5 Builder for Linux and Windows. No PC builds of the game.",
+        "latest_release_url": "https://github.com/heydemoura/PS5_Longshot/releases/tag/v0.1.3",
+        "latest_release_name": "Longshot PS5 Builder v0.1.3",
+        "release_assets": [
+          {
+            "name": "LongshotPS5Builder-v0.1.3-windows-x64.zip",
+            "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.3/LongshotPS5Builder-v0.1.3-windows-x64.zip",
+            "size": 292704363
+          },
+          {
+            "name": "LongshotPS5Builder-v0.1.3-windows-x64.zip.sha256",
+            "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.3/LongshotPS5Builder-v0.1.3-windows-x64.zip.sha256",
+            "size": 108
+          },
+          {
+            "name": "LongshotPS5Builder-v0.1.3-x86_64.AppImage",
+            "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.3/LongshotPS5Builder-v0.1.3-x86_64.AppImage",
+            "size": 292284920
+          },
+          {
+            "name": "LongshotPS5Builder-v0.1.3-x86_64.AppImage.sha256",
+            "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.3/LongshotPS5Builder-v0.1.3-x86_64.AppImage.sha256",
+            "size": 108
+          }
+        ],
+        "releases": [
+          {
+            "name": "Longshot PS5 Builder v0.1.3",
+            "url": "https://github.com/heydemoura/PS5_Longshot/releases/tag/v0.1.3",
+            "published_at": "2026-11-16T21:47:56Z",
+            "assets": [
+              {
+                "name": "LongshotPS5Builder-v0.1.3-windows-x64.zip",
+                "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.3/LongshotPS5Builder-v0.1.3-windows-x64.zip",
+                "size": 292704363
+              },
+              {
+                "name": "LongshotPS5Builder-v0.1.3-windows-x64.zip.sha256",
+                "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.3/LongshotPS5Builder-v0.1.3-windows-x64.zip.sha256",
+                "size": 108
+              },
+              {
+                "name": "LongshotPS5Builder-v0.1.3-x86_64.AppImage",
+                "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.3/LongshotPS5Builder-v0.1.3-x86_64.AppImage",
+                "size": 292284920
+              },
+              {
+                "name": "LongshotPS5Builder-v0.1.3-x86_64.AppImage.sha256",
+                "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.3/LongshotPS5Builder-v0.1.3-x86_64.AppImage.sha256",
+                "size": 108
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Longshot PS5 Builder v0.1.2",
+            "url": "https://github.com/heydemoura/PS5_Longshot/releases/tag/v0.1.2",
+            "published_at": "2026-11-16T20:38:10Z",
+            "assets": [
+              {
+                "name": "LongshotPS5Builder-v0.1.2-windows-x64.zip",
+                "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.2/LongshotPS5Builder-v0.1.2-windows-x64.zip",
+                "size": 292703767
+              },
+              {
+                "name": "LongshotPS5Builder-v0.1.2-windows-x64.zip.sha256",
+                "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.2/LongshotPS5Builder-v0.1.2-windows-x64.zip.sha256",
+                "size": 108
+              },
+              {
+                "name": "LongshotPS5Builder-v0.1.2-x86_64.AppImage",
+                "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.2/LongshotPS5Builder-v0.1.2-x86_64.AppImage",
+                "size": 292268536
+              },
+              {
+                "name": "LongshotPS5Builder-v0.1.2-x86_64.AppImage.sha256",
+                "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.2/LongshotPS5Builder-v0.1.2-x86_64.AppImage.sha256",
+                "size": 108
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Longshot PS5 Builder v0.1.1",
+            "url": "https://github.com/heydemoura/PS5_Longshot/releases/tag/v0.1.1",
+            "published_at": "2026-11-16T17:33:04Z",
+            "assets": [
+              {
+                "name": "LongshotPS5Builder-v0.1.1-windows-x64.zip",
+                "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.1/LongshotPS5Builder-v0.1.1-windows-x64.zip",
+                "size": 292684349
+              },
+              {
+                "name": "LongshotPS5Builder-v0.1.1-windows-x64.zip.sha256",
+                "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.1/LongshotPS5Builder-v0.1.1-windows-x64.zip.sha256",
+                "size": 108
+              },
+              {
+                "name": "LongshotPS5Builder-v0.1.1-x86_64.AppImage",
+                "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.1/LongshotPS5Builder-v0.1.1-x86_64.AppImage",
+                "size": 292248056
+              },
+              {
+                "name": "LongshotPS5Builder-v0.1.1-x86_64.AppImage.sha256",
+                "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.1/LongshotPS5Builder-v0.1.1-x86_64.AppImage.sha256",
+                "size": 108
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Longshot PS5 Builder v0.1.0",
+            "url": "https://github.com/heydemoura/PS5_Longshot/releases/tag/v0.1.0",
+            "published_at": "2026-11-16T16:15:37Z",
+            "assets": [
+              {
+                "name": "LongshotPS5Builder-v0.1.0-windows-x64.zip",
+                "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.0/LongshotPS5Builder-v0.1.0-windows-x64.zip",
+                "size": 292353135
+              },
+              {
+                "name": "LongshotPS5Builder-v0.1.0-windows-x64.zip.sha256",
+                "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.0/LongshotPS5Builder-v0.1.0-windows-x64.zip.sha256",
+                "size": 108
+              },
+              {
+                "name": "LongshotPS5Builder-v0.1.0-x86_64.AppImage",
+                "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.0/LongshotPS5Builder-v0.1.0-x86_64.AppImage",
+                "size": 291957240
+              },
+              {
+                "name": "LongshotPS5Builder-v0.1.0-x86_64.AppImage.sha256",
+                "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.0/LongshotPS5Builder-v0.1.0-x86_64.AppImage.sha256",
+                "size": 108
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -166,9 +878,91 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "LongshotPS5Builder-v0.1.3-windows-x64.zip",
+          "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.3/LongshotPS5Builder-v0.1.3-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LongshotPS5Builder-v0.1.3-windows-x64.zip.sha256",
+          "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.3/LongshotPS5Builder-v0.1.3-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "LongshotPS5Builder-v0.1.3-x86_64.AppImage",
+          "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.3/LongshotPS5Builder-v0.1.3-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LongshotPS5Builder-v0.1.3-x86_64.AppImage.sha256",
+          "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.3/LongshotPS5Builder-v0.1.3-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "LongshotPS5Builder-v0.1.2-windows-x64.zip",
+          "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.2/LongshotPS5Builder-v0.1.2-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LongshotPS5Builder-v0.1.2-windows-x64.zip.sha256",
+          "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.2/LongshotPS5Builder-v0.1.2-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "LongshotPS5Builder-v0.1.2-x86_64.AppImage",
+          "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.2/LongshotPS5Builder-v0.1.2-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LongshotPS5Builder-v0.1.2-x86_64.AppImage.sha256",
+          "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.2/LongshotPS5Builder-v0.1.2-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "LongshotPS5Builder-v0.1.1-windows-x64.zip",
+          "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.1/LongshotPS5Builder-v0.1.1-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LongshotPS5Builder-v0.1.1-windows-x64.zip.sha256",
+          "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.1/LongshotPS5Builder-v0.1.1-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "LongshotPS5Builder-v0.1.1-x86_64.AppImage",
+          "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.1/LongshotPS5Builder-v0.1.1-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LongshotPS5Builder-v0.1.1-x86_64.AppImage.sha256",
+          "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.1/LongshotPS5Builder-v0.1.1-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "LongshotPS5Builder-v0.1.0-windows-x64.zip",
+          "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.0/LongshotPS5Builder-v0.1.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LongshotPS5Builder-v0.1.0-windows-x64.zip.sha256",
+          "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.0/LongshotPS5Builder-v0.1.0-windows-x64.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "LongshotPS5Builder-v0.1.0-x86_64.AppImage",
+          "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.0/LongshotPS5Builder-v0.1.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LongshotPS5Builder-v0.1.0-x86_64.AppImage.sha256",
+          "url": "https://github.com/heydemoura/PS5_Longshot/releases/download/v0.1.0/LongshotPS5Builder-v0.1.0-x86_64.AppImage.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -186,7 +980,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-17T02:51:28.774397+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-17T14:14:51.745321+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows and Linux build of Mario Sports Mix (Wii) by static recompilation. Bring your own disc; no game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -221,7 +1032,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-17T02:51:28.773563+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-17T14:14:53.257933+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows and Linux build of Mario Strikers Charged (Wii) by static recompilation. Bring your own disc; no game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -256,7 +1084,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-17T02:51:28.772713+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-17T14:14:54.808469+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows and Linux build of Mario Super Sluggers (Wii) by static recompilation. Bring your own disc; no game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
