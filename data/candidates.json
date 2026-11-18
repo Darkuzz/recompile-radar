@@ -1,7 +1,559 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-17T14:14:56.348202+00:00",
+  "last_updated": "2026-11-18T02:18:25.043323+00:00",
   "candidates": [
+    {
+      "title": "EddyGameDev/bioshock1-native-recomp",
+      "url": "https://github.com/EddyGameDev/bioshock1-native-recomp",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-17T20:55:07Z",
+      "summary": "Static recompilation launchers for BioShock 1 on Windows and Android - real ReXGlue runtime, guest-presented title screen, no game data in the APK",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T02:18:12.485573+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android, apk"
+      ]
+    },
+    {
+      "title": "zettelmuseum/MrMatt",
+      "url": "https://github.com/zettelmuseum/MrMatt",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-17T16:46:38Z",
+      "summary": "Mr.Matt 2007 game Android port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T02:18:10.739840+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "zettelmuseum/Atomix",
+      "url": "https://github.com/zettelmuseum/Atomix",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-17T17:46:36Z",
+      "summary": "Atomix Puzzle Game Android Port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T02:18:10.739316+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "zettelmuseum/Lasertank",
+      "url": "https://github.com/zettelmuseum/Lasertank",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-17T17:58:15Z",
+      "summary": "Lasertank puzzle game 1:1 Android Port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T02:18:10.738759+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "zettelmuseum/Vexed",
+      "url": "https://github.com/zettelmuseum/Vexed",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-17T18:07:36Z",
+      "summary": "Vexed puzzle game Android port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T02:18:10.738200+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Joolace/T5-Jool---Black-Ops-Recomp",
+      "url": "https://github.com/Joolace/T5-Jool---Black-Ops-Recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-17T23:07:07Z",
+      "summary": "Native 64-bit port of Black Ops Zombies for Linux and Android. Vulkan, upscalers, LAN co-op, touch and controller support. Game files not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T02:18:10.736719+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux, android"
+      ]
+    },
+    {
+      "title": "DevZer0D4Y/neighbors-dark-riddle",
+      "url": "https://github.com/DevZer0D4Y/neighbors-dark-riddle",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-17T21:14:01Z",
+      "summary": "Neighbor's Dark Riddle: an unofficial native C++ port of the Android Unity game Dark Riddle for Nintendo Switch (homebrew), Windows and Linux. Runs the original levels, models, animations, sounds and UI, converted from your own APK. No game assets included. Topics: cpp, devkitpro, game-port, libnx, linux, nintendo-switch, opengl-es, reverse-engineering, sdl2, switch-homebrew, unity, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T02:18:08.759751+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux, android, apk"
+      ]
+    },
+    {
+      "title": "SirWinstonChurchillTheFirst/pokemon-ultra-moon-native",
+      "url": "https://github.com/SirWinstonChurchillTheFirst/pokemon-ultra-moon-native",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-17T22:15:35Z",
+      "summary": "Scripts that build Pokémon Ultra Moon (3DS) as a native Windows/Linux program by static recompilation, on the Bergamota runtime. Beta. Bring your own dump; no game data included. Topics: 3ds, linux, native-port, nintendo-3ds, recompilation, static-recompilation, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T02:18:04.998204+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "umagamer83182/Shinobido-Way-of-the-Ninja-Native-PC-Port",
+      "url": "https://github.com/umagamer83182/Shinobido-Way-of-the-Ninja-Native-PC-Port",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-17T22:39:21Z",
+      "summary": "Native Windows port of Shinobido: Way of the Ninja (PS2, PAL SCES-53931) built with static recompilation (PS2Recomp). Not an emulator. 60 fps, up to 4K, 21:9, HD texture pack support, F9 settings menu, cheats, skins, mods and controller support. No game data included: bring your own ISO.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T02:18:04.996840+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "killersheaven/ds-ignition-recomp",
+      "url": "https://github.com/killersheaven/ds-ignition-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-18T00:37:36Z",
+      "summary": "Work-in-progress native PC port of Dead Space Ignition via static recompilation of the Xbox 360 executable (ReXGlue). Bring your own game files. Unofficial; not affiliated with EA.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T02:18:04.995732+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "leomoon/tank-battles-recomp",
+      "url": "https://github.com/leomoon/tank-battles-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-18T00:39:36Z",
+      "summary": "WIP Tank Battles (PS3) static recompilation project using ps3recomp. No game files included; requires your own purchased game decrypted dump.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T02:18:04.994854+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "scarxity/kirby-forgotten-land-recompiled",
+      "url": "https://github.com/scarxity/kirby-forgotten-land-recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-18T01:42:57Z",
+      "summary": "A static recompilation of Kirby and the Forgotten Land (Nintendo Switch) for Windows. Not an emulator. No game files included: you need your own copy.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T02:18:04.993993+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "finalpantasy/hot-shots-golf-ps3-recomp",
+      "url": "https://github.com/finalpantasy/hot-shots-golf-ps3-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-18T02:10:00Z",
+      "summary": "Hot Shots Golf: World Invitational (Everybody's Golf 6) native PC port by PS3 static recompilation. Work in progress: boots, does not render yet. Bring your own game files. Topics: d3d12, everybodys-golf, hot-shots-golf, pc-port, playstation-3, ps3, ps3recomp, recompilation, reverse-engineering, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T02:18:04.992878+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "gigantic536wall/orbit-courier",
+      "url": "https://github.com/gigantic536wall/orbit-courier",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-17T23:54:28Z",
+      "summary": "Gravity-assist delivery game in C++20 + raylib, playable in the browser (WebAssembly) Topics: cmake, cpp, cpp20, emscripten, game, physics, raylib, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T02:18:01.068343+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, playable, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "Caliko06/RE-NFSU",
+      "url": "https://github.com/Caliko06/RE-NFSU",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-18T01:03:10Z",
+      "summary": "Need for Speed: Underground (2003) recompiled from x86 to WebAssembly: the PC game in a browser tab, with the Underground 2 city joined by one road.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T02:18:01.063545+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
+    {
+      "title": "oakridge-rgb/Vega-Strike-web-port",
+      "url": "https://github.com/oakridge-rgb/Vega-Strike-web-port",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-18T01:24:30Z",
+      "summary": "Clean-room browser port of the Vega Strike space sim (GPL) - trade, fight, upgrade in the Gemini sector; single self-contained HTML, authentic GPL game data",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T02:17:56.875415+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "yanm1103/grandchase-featurephone-recomp",
       "url": "https://github.com/yanm1103/grandchase-featurephone-recomp",
@@ -11,7 +563,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-17T14:14:39.775693+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-18T02:18:14.328849+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation (ARM/WIPI-C → C) of the Korean feature-phone game Grand Chase, with SDL3 runtime, PT-BR retranslation and Android port. No game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +614,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-17T14:14:39.773945+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-18T02:18:15.595833+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android port of Need for Speed: Most Wanted (Xbox, 2005): static recompilation to C++ with a Vulkan renderer, up to 120 fps. Bring your own game ISO.",
+        "latest_release_url": "https://github.com/bang-ijall/MostWanted-Android/releases/tag/v0.9.0",
+        "latest_release_name": "NFS: Most Wanted for Android 0.9.0",
+        "release_assets": [
+          {
+            "name": "NFSMW-0.9.0-release.apk",
+            "url": "https://github.com/bang-ijall/MostWanted-Android/releases/download/v0.9.0/NFSMW-0.9.0-release.apk",
+            "size": 9894265
+          }
+        ],
+        "releases": [
+          {
+            "name": "NFS: Most Wanted for Android 0.9.0",
+            "url": "https://github.com/bang-ijall/MostWanted-Android/releases/tag/v0.9.0",
+            "published_at": "2026-11-17T08:34:07Z",
+            "assets": [
+              {
+                "name": "NFSMW-0.9.0-release.apk",
+                "url": "https://github.com/bang-ijall/MostWanted-Android/releases/download/v0.9.0/NFSMW-0.9.0-release.apk",
+                "size": 9894265
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -59,9 +666,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "NFSMW-0.9.0-release.apk",
+          "url": "https://github.com/bang-ijall/MostWanted-Android/releases/download/v0.9.0/NFSMW-0.9.0-release.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -79,7 +693,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-17T14:14:39.771588+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-18T02:18:16.980050+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A sourced catalog of PC and console game ports for Android, iPhone, iPad, macOS, Windows and Linux, with original release platforms and installation guides.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -91,7 +722,8 @@
           "android"
         ],
         "pc_terms": [
-          "windows"
+          "windows",
+          "linux"
         ],
         "other_platform_terms": []
       },
@@ -104,7 +736,7 @@
       "relevance_status": "promising",
       "relevance_reasons": [
         "Есть прямые признаки порта/рекомпиляции: decompil, explicit port/recompilation wording",
-        "Есть игровые/платформенные признаки: game, windows, android"
+        "Есть игровые/платформенные признаки: game, windows, linux, android"
       ]
     },
     {
@@ -116,7 +748,75 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-17T14:14:37.680251+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-18T02:18:18.279774+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Whiplash (original Xbox, 2003) as a native Windows and Linux PC port: a static recompilation with full resolution, real widescreen, Vulkan, FSR 1 and controller prompts. Bring your own copy of the game. Made with AI (Claude).",
+        "latest_release_url": "https://github.com/devall96/Unchained/releases/tag/v0.1",
+        "latest_release_name": "Unchained 0.1",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/devall96/Unchained/releases/download/v0.1/SHA256SUMS.txt",
+            "size": 270
+          },
+          {
+            "name": "Unchained-0.1-Setup.exe",
+            "url": "https://github.com/devall96/Unchained/releases/download/v0.1/Unchained-0.1-Setup.exe",
+            "size": 55357205
+          },
+          {
+            "name": "Unchained-0.1-x86_64.AppImage",
+            "url": "https://github.com/devall96/Unchained/releases/download/v0.1/Unchained-0.1-x86_64.AppImage",
+            "size": 148302328
+          },
+          {
+            "name": "Unchained-0.1.zip",
+            "url": "https://github.com/devall96/Unchained/releases/download/v0.1/Unchained-0.1.zip",
+            "size": 82822374
+          }
+        ],
+        "releases": [
+          {
+            "name": "Unchained 0.1",
+            "url": "https://github.com/devall96/Unchained/releases/tag/v0.1",
+            "published_at": "2026-11-17T08:41:38Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/devall96/Unchained/releases/download/v0.1/SHA256SUMS.txt",
+                "size": 270
+              },
+              {
+                "name": "Unchained-0.1-Setup.exe",
+                "url": "https://github.com/devall96/Unchained/releases/download/v0.1/Unchained-0.1-Setup.exe",
+                "size": 55357205
+              },
+              {
+                "name": "Unchained-0.1-x86_64.AppImage",
+                "url": "https://github.com/devall96/Unchained/releases/download/v0.1/Unchained-0.1-x86_64.AppImage",
+                "size": 148302328
+              },
+              {
+                "name": "Unchained-0.1.zip",
+                "url": "https://github.com/devall96/Unchained/releases/download/v0.1/Unchained-0.1.zip",
+                "size": 82822374
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -131,9 +831,31 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/devall96/Unchained/releases/download/v0.1/SHA256SUMS.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "Unchained-0.1-Setup.exe",
+          "url": "https://github.com/devall96/Unchained/releases/download/v0.1/Unchained-0.1-Setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Unchained-0.1-x86_64.AppImage",
+          "url": "https://github.com/devall96/Unchained/releases/download/v0.1/Unchained-0.1-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Unchained-0.1.zip",
+          "url": "https://github.com/devall96/Unchained/releases/download/v0.1/Unchained-0.1.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -151,7 +873,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-17T14:14:33.193527+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-18T02:18:19.568036+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "DolphinSpirit (Unity IL2CPP PS5) static recompilation port — ARM64 Android runtime",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -185,7 +924,83 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-17T14:14:33.192656+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-18T02:18:21.043014+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Prince of Persia: Warrior Within for Android - static recompilation of the PC game (bring your own copy)",
+        "latest_release_url": "https://github.com/Cleverdee/pop-ww-android/releases/tag/v0.1.2",
+        "latest_release_name": "Warrior Within for Android v0.1.2",
+        "release_assets": [
+          {
+            "name": "PrepareGame.zip",
+            "url": "https://github.com/Cleverdee/pop-ww-android/releases/download/v0.1.2/PrepareGame.zip",
+            "size": 1659
+          },
+          {
+            "name": "PrinceOfPersiaWW-v0.1.2.apk",
+            "url": "https://github.com/Cleverdee/pop-ww-android/releases/download/v0.1.2/PrinceOfPersiaWW-v0.1.2.apk",
+            "size": 53712088
+          }
+        ],
+        "releases": [
+          {
+            "name": "Warrior Within for Android v0.1.2",
+            "url": "https://github.com/Cleverdee/pop-ww-android/releases/tag/v0.1.2",
+            "published_at": "2026-11-17T15:15:30Z",
+            "assets": [
+              {
+                "name": "PrepareGame.zip",
+                "url": "https://github.com/Cleverdee/pop-ww-android/releases/download/v0.1.2/PrepareGame.zip",
+                "size": 1659
+              },
+              {
+                "name": "PrinceOfPersiaWW-v0.1.2.apk",
+                "url": "https://github.com/Cleverdee/pop-ww-android/releases/download/v0.1.2/PrinceOfPersiaWW-v0.1.2.apk",
+                "size": 53712088
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Warrior Within for Android v0.1.1",
+            "url": "https://github.com/Cleverdee/pop-ww-android/releases/tag/v0.1.1",
+            "published_at": "2026-11-17T13:32:35Z",
+            "assets": [
+              {
+                "name": "PrinceOfPersiaWW-v0.1.1.apk",
+                "url": "https://github.com/Cleverdee/pop-ww-android/releases/download/v0.1.1/PrinceOfPersiaWW-v0.1.1.apk",
+                "size": 53709936
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Warrior Within for Android v0.1.0",
+            "url": "https://github.com/Cleverdee/pop-ww-android/releases/tag/v0.1.0",
+            "published_at": "2026-11-17T11:13:03Z",
+            "assets": [
+              {
+                "name": "PrinceOfPersiaWW-v0.1.0.apk",
+                "url": "https://github.com/Cleverdee/pop-ww-android/releases/download/v0.1.0/PrinceOfPersiaWW-v0.1.0.apk",
+                "size": 53707280
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -198,9 +1013,31 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "PrepareGame.zip",
+          "url": "https://github.com/Cleverdee/pop-ww-android/releases/download/v0.1.2/PrepareGame.zip",
+          "type": "archive"
+        },
+        {
+          "name": "PrinceOfPersiaWW-v0.1.2.apk",
+          "url": "https://github.com/Cleverdee/pop-ww-android/releases/download/v0.1.2/PrinceOfPersiaWW-v0.1.2.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "PrinceOfPersiaWW-v0.1.1.apk",
+          "url": "https://github.com/Cleverdee/pop-ww-android/releases/download/v0.1.1/PrinceOfPersiaWW-v0.1.1.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "PrinceOfPersiaWW-v0.1.0.apk",
+          "url": "https://github.com/Cleverdee/pop-ww-android/releases/download/v0.1.0/PrinceOfPersiaWW-v0.1.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -218,7 +1055,69 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-17T14:14:33.191842+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-18T02:18:22.348345+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Xenoblade Chronicles 2 (Nintendo Switch 2 Edition) to Windows + Vulkan. GPL-3.0, no game data included.",
+        "latest_release_url": "https://github.com/weile10000/xc2-ns2-recomp/releases/tag/v0.1.1",
+        "latest_release_name": "0.1.1 — first playable package / 首个可玩发布",
+        "release_assets": [
+          {
+            "name": "xc2-launcher-0.1.1-src.zip",
+            "url": "https://github.com/weile10000/xc2-ns2-recomp/releases/download/v0.1.1/xc2-launcher-0.1.1-src.zip",
+            "size": 513775
+          },
+          {
+            "name": "XC2-package-dist.zip",
+            "url": "https://github.com/weile10000/xc2-ns2-recomp/releases/download/v0.1.1/XC2-package-dist.zip",
+            "size": 162281848
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.1.1 — first playable package / 首个可玩发布",
+            "url": "https://github.com/weile10000/xc2-ns2-recomp/releases/tag/v0.1.1",
+            "published_at": "2026-11-17T22:33:21Z",
+            "assets": [
+              {
+                "name": "xc2-launcher-0.1.1-src.zip",
+                "url": "https://github.com/weile10000/xc2-ns2-recomp/releases/download/v0.1.1/xc2-launcher-0.1.1-src.zip",
+                "size": 513775
+              },
+              {
+                "name": "XC2-package-dist.zip",
+                "url": "https://github.com/weile10000/xc2-ns2-recomp/releases/download/v0.1.1/XC2-package-dist.zip",
+                "size": 162281848
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "XC2 NS2 Recomp v0.1.0 — first public release / 首个公开版本",
+            "url": "https://github.com/weile10000/xc2-ns2-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-16T16:00:11Z",
+            "assets": [
+              {
+                "name": "nxrecomp-e7a5a54-xc2.tar.gz",
+                "url": "https://github.com/weile10000/xc2-ns2-recomp/releases/download/v0.1.0/nxrecomp-e7a5a54-xc2.tar.gz",
+                "size": 4850393
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -233,10 +1132,27 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "xc2-launcher-0.1.1-src.zip",
+          "url": "https://github.com/weile10000/xc2-ns2-recomp/releases/download/v0.1.1/xc2-launcher-0.1.1-src.zip",
+          "type": "archive"
+        },
+        {
+          "name": "XC2-package-dist.zip",
+          "url": "https://github.com/weile10000/xc2-ns2-recomp/releases/download/v0.1.1/XC2-package-dist.zip",
+          "type": "archive"
+        },
+        {
+          "name": "nxrecomp-e7a5a54-xc2.tar.gz",
+          "url": "https://github.com/weile10000/xc2-ns2-recomp/releases/download/v0.1.0/nxrecomp-e7a5a54-xc2.tar.gz",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки PC-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -254,7 +1170,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-17T14:14:33.190989+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-18T02:18:23.721445+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of the Philips CD-i game Alien Gate to native Windows (bring your own disc image)",
+        "latest_release_url": "https://github.com/tools81/alien-gate-static-recomp/releases/tag/v1.0.0",
+        "latest_release_name": "Alien Gate 1.0.0",
+        "release_assets": [
+          {
+            "name": "AlienGate-1.0.0-portable.zip",
+            "url": "https://github.com/tools81/alien-gate-static-recomp/releases/download/v1.0.0/AlienGate-1.0.0-portable.zip",
+            "size": 1196503
+          },
+          {
+            "name": "AlienGate-1.0.0-setup.exe",
+            "url": "https://github.com/tools81/alien-gate-static-recomp/releases/download/v1.0.0/AlienGate-1.0.0-setup.exe",
+            "size": 2939986
+          }
+        ],
+        "releases": [
+          {
+            "name": "Alien Gate 1.0.0",
+            "url": "https://github.com/tools81/alien-gate-static-recomp/releases/tag/v1.0.0",
+            "published_at": "2026-11-17T13:50:22Z",
+            "assets": [
+              {
+                "name": "AlienGate-1.0.0-portable.zip",
+                "url": "https://github.com/tools81/alien-gate-static-recomp/releases/download/v1.0.0/AlienGate-1.0.0-portable.zip",
+                "size": 1196503
+              },
+              {
+                "name": "AlienGate-1.0.0-setup.exe",
+                "url": "https://github.com/tools81/alien-gate-static-recomp/releases/download/v1.0.0/AlienGate-1.0.0-setup.exe",
+                "size": 2939986
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -267,9 +1231,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "AlienGate-1.0.0-portable.zip",
+          "url": "https://github.com/tools81/alien-gate-static-recomp/releases/download/v1.0.0/AlienGate-1.0.0-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "AlienGate-1.0.0-setup.exe",
+          "url": "https://github.com/tools81/alien-gate-static-recomp/releases/download/v1.0.0/AlienGate-1.0.0-setup.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
