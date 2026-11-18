@@ -1,7 +1,81 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-18T02:18:25.043323+00:00",
+  "last_updated": "2026-11-18T13:45:28.013800+00:00",
   "candidates": [
+    {
+      "title": "sakib142/saltline-mirror",
+      "url": "https://github.com/sakib142/saltline-mirror",
+      "source_name": "GitHub: WebGL ports",
+      "published": "2026-11-18T13:04:17Z",
+      "summary": "A browser FPS set in a rainy container port — cut three uplink relays while drones and robot dogs hunt you. One HTML file, procedural three.js, zero downloaded assets. Topics: ai-generated, browser-game, fps, game, threejs, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T13:45:15.049679+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webgl",
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "aesaganda/aoe2-on-browser",
+      "url": "https://github.com/aesaganda/aoe2-on-browser",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-18T12:05:08Z",
+      "summary": "Age of Empires II: The Conquerors statically recompiled (x86 -> C) to native Linux and WebAssembly. Bring your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-18T13:45:12.698617+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, linux"
+      ]
+    },
     {
       "title": "EddyGameDev/bioshock1-native-recomp",
       "url": "https://github.com/EddyGameDev/bioshock1-native-recomp",
@@ -11,7 +85,63 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-18T02:18:12.485573+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-18T13:45:16.983508+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation launchers for BioShock 1 on Windows and Android - real ReXGlue runtime, guest-presented title screen, no game data in the APK",
+        "latest_release_url": "https://github.com/EddyGameDev/bioshock1-native-recomp/releases/tag/v0.0.2-experimental",
+        "latest_release_name": "v0.0.2-experimental - Windows + Android binaries (dual sticks, F1 resolution toggle)",
+        "release_assets": [
+          {
+            "name": "bioshock1-android-v0.0.2-experimental.apk",
+            "url": "https://github.com/EddyGameDev/bioshock1-native-recomp/releases/download/v0.0.2-experimental/bioshock1-android-v0.0.2-experimental.apk",
+            "size": 51956295
+          },
+          {
+            "name": "bioshock1-windows-v0.0.2-experimental.zip",
+            "url": "https://github.com/EddyGameDev/bioshock1-native-recomp/releases/download/v0.0.2-experimental/bioshock1-windows-v0.0.2-experimental.zip",
+            "size": 91599976
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.0.2-experimental - Windows + Android binaries (dual sticks, F1 resolution toggle)",
+            "url": "https://github.com/EddyGameDev/bioshock1-native-recomp/releases/tag/v0.0.2-experimental",
+            "published_at": "2026-11-17T16:59:35Z",
+            "assets": [
+              {
+                "name": "bioshock1-android-v0.0.2-experimental.apk",
+                "url": "https://github.com/EddyGameDev/bioshock1-native-recomp/releases/download/v0.0.2-experimental/bioshock1-android-v0.0.2-experimental.apk",
+                "size": 51956295
+              },
+              {
+                "name": "bioshock1-windows-v0.0.2-experimental.zip",
+                "url": "https://github.com/EddyGameDev/bioshock1-native-recomp/releases/download/v0.0.2-experimental/bioshock1-windows-v0.0.2-experimental.zip",
+                "size": 91599976
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.0.1-experimental - First guest-rendered title screen (Windows + Android)",
+            "url": "https://github.com/EddyGameDev/bioshock1-native-recomp/releases/tag/v0.0.1-experimental",
+            "published_at": "2026-11-17T15:49:08Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -27,10 +157,22 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "bioshock1-android-v0.0.2-experimental.apk",
+          "url": "https://github.com/EddyGameDev/bioshock1-native-recomp/releases/download/v0.0.2-experimental/bioshock1-android-v0.0.2-experimental.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "bioshock1-windows-v0.0.2-experimental.zip",
+          "url": "https://github.com/EddyGameDev/bioshock1-native-recomp/releases/download/v0.0.2-experimental/bioshock1-windows-v0.0.2-experimental.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -48,7 +190,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-18T02:18:10.739840+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-18T13:45:18.360683+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Mr.Matt 2007 game Android port",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -82,7 +241,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-18T02:18:10.739316+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-18T13:45:19.684279+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Atomix Puzzle Game Android Port",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -116,7 +292,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-18T02:18:10.738759+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-18T13:45:21.032326+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Lasertank puzzle game 1:1 Android Port",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -150,7 +343,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-18T02:18:10.738200+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-18T13:45:22.386281+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Vexed puzzle game Android port",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -184,7 +394,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-18T02:18:10.736719+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-18T13:45:23.793467+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native 64-bit port of Black Ops Zombies for Linux and Android. Vulkan, upscalers, LAN co-op, touch and controller support. Game files not included.",
+        "latest_release_url": "https://github.com/Joolace/T5-Jool---Black-Ops-Recomp/releases/tag/alpha-v0.1",
+        "latest_release_name": "T5Jool v0.1-alpha",
+        "release_assets": [
+          {
+            "name": "T5Jool-alpha.apk",
+            "url": "https://github.com/Joolace/T5-Jool---Black-Ops-Recomp/releases/download/alpha-v0.1/T5Jool-alpha.apk",
+            "size": 33975086
+          },
+          {
+            "name": "T5Jool-v0.1-alpha-linux-x86_64.tar.gz",
+            "url": "https://github.com/Joolace/T5-Jool---Black-Ops-Recomp/releases/download/alpha-v0.1/T5Jool-v0.1-alpha-linux-x86_64.tar.gz",
+            "size": 26730947
+          }
+        ],
+        "releases": [
+          {
+            "name": "T5Jool v0.1-alpha",
+            "url": "https://github.com/Joolace/T5-Jool---Black-Ops-Recomp/releases/tag/alpha-v0.1",
+            "published_at": "2026-11-17T23:04:06Z",
+            "assets": [
+              {
+                "name": "T5Jool-alpha.apk",
+                "url": "https://github.com/Joolace/T5-Jool---Black-Ops-Recomp/releases/download/alpha-v0.1/T5Jool-alpha.apk",
+                "size": 33975086
+              },
+              {
+                "name": "T5Jool-v0.1-alpha-linux-x86_64.tar.gz",
+                "url": "https://github.com/Joolace/T5-Jool---Black-Ops-Recomp/releases/download/alpha-v0.1/T5Jool-v0.1-alpha-linux-x86_64.tar.gz",
+                "size": 26730947
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -200,10 +458,22 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "T5Jool-alpha.apk",
+          "url": "https://github.com/Joolace/T5-Jool---Black-Ops-Recomp/releases/download/alpha-v0.1/T5Jool-alpha.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "T5Jool-v0.1-alpha-linux-x86_64.tar.gz",
+          "url": "https://github.com/Joolace/T5-Jool---Black-Ops-Recomp/releases/download/alpha-v0.1/T5Jool-v0.1-alpha-linux-x86_64.tar.gz",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -221,7 +491,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-18T02:18:08.759751+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-18T13:45:25.215094+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Neighbor's Dark Riddle: an unofficial native C++ port of the Android Unity game Dark Riddle for Nintendo Switch (homebrew), Windows and Linux. Runs the original levels, models, animations, sounds and UI, converted from your own APK. No game assets included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -262,7 +549,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-18T02:18:04.998204+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-18T13:45:26.569037+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Scripts that build Pokémon Ultra Moon (3DS) as a native Windows/Linux program by static recompilation, on the Bergamota runtime. Beta. Bring your own dump; no game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
