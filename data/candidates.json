@@ -1,53 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-19T01:49:37.497954+00:00",
+  "last_updated": "2026-11-19T14:15:10.455109+00:00",
   "candidates": [
     {
-      "title": "evilHazzarD/ReHoMM4-translations",
-      "url": "https://github.com/evilHazzarD/ReHoMM4-translations",
+      "title": "IamWilmar/mhs2-recomp",
+      "url": "https://github.com/IamWilmar/mhs2-recomp",
       "source_name": "GitHub: Android ports",
-      "published": "2026-11-18T20:17:00Z",
-      "summary": "Translations of Heroes of Might and Magic IV for ReHoMM4, the native port for Mac, Linux, iPhone, iPad, Android and the Switch. Players pick a language from the list in the game's main menu. The app then downloads that language's pack from this repository's latest release and applies it to their own GOG copy of the game.",
+      "published": "2026-11-19T03:10:21Z",
+      "summary": "Native Android port of Monster Hunter Stories 2 for the Retroid Pocket 5 and Flip 2. Early version. Bring your own extracted game files.",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-19T01:49:20.959505+00:00",
-      "check": null,
-      "category": "pc",
-      "platforms_guess": [
-        "Android",
-        "PC"
-      ],
-      "category_evidence": {
-        "browser_terms": [],
-        "android_terms": [
-          "android"
-        ],
-        "pc_terms": [
-          "linux"
-        ],
-        "other_platform_terms": []
-      },
-      "build_links": [],
-      "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
-      ],
-      "relevance_score": 6,
-      "relevance_status": "promising",
-      "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: native port",
-        "Есть игровые/платформенные признаки: game, linux, android"
-      ]
-    },
-    {
-      "title": "IamWilmar/xenoblade3-recomp",
-      "url": "https://github.com/IamWilmar/xenoblade3-recomp",
-      "source_name": "GitHub: Android ports",
-      "published": "2026-11-18T22:22:01Z",
-      "summary": "Native Android port of Xenoblade Chronicles 3 for the Retroid Pocket Flip 2. Early version. Bring your own extracted game files.",
-      "status": "unverified",
-      "browser_playable": "unknown",
-      "found_at": "2026-11-19T01:49:20.958675+00:00",
+      "found_at": "2026-11-19T14:14:54.315327+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -66,22 +29,91 @@
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
       ],
-      "relevance_score": 11,
+      "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть прямые признаки порта/рекомпиляции: port of, android port",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
     {
-      "title": "P1R4N351/oot-android",
-      "url": "https://github.com/P1R4N351/oot-android",
+      "title": "gmejia11/ridgeracer_slipstream_vita",
+      "url": "https://github.com/gmejia11/ridgeracer_slipstream_vita",
       "source_name": "GitHub: Android ports",
-      "published": "2026-11-19T00:26:46Z",
-      "summary": "Native Android port & dual-screen companion for The Legend of Zelda: Ocarina of Time (Switch 2, v131072) on Adreno handhelds. Bring your own game dump.",
+      "published": "2026-11-19T05:18:30Z",
+      "summary": "PS Vita port of the Android game Ridge Racer Slipstream (based on soloader-boilerplate)",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-19T01:49:20.956883+00:00",
+      "found_at": "2026-11-19T14:14:54.313855+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "ps vita"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "kodi-game/game.libretro.uae4arm",
+      "url": "https://github.com/kodi-game/game.libretro.uae4arm",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-19T06:26:26Z",
+      "summary": "Port of uae4arm for libretro (rpi/android)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T14:14:54.313347+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "killdano/license-revoked",
+      "url": "https://github.com/killdano/license-revoked",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-19T10:37:19Z",
+      "summary": "License Revoked: Pebble game and its Android port",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T14:14:54.312186+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -108,14 +140,14 @@
       ]
     },
     {
-      "title": "UnknuwProjects/THPS4-Android-Releases",
-      "url": "https://github.com/UnknuwProjects/THPS4-Android-Releases",
+      "title": "XHYN-PH/landofthedroid",
+      "url": "https://github.com/XHYN-PH/landofthedroid",
       "source_name": "GitHub: Android ports",
-      "published": "2026-11-19T00:27:13Z",
-      "summary": "Unofficial Android port of Tony Hawk's Pro Skater 4 (Xbox) - public release channel: stable builds and changelogs. Game data not included.",
+      "published": "2026-11-19T13:51:51Z",
+      "summary": "Native 64-bit ARM Android port of Land of the Dead: Road to Fiddler's Green (Unreal Engine 2) with custom touch HUD, GLES3 rendering, and in-game cheats Topics: android, fps, gles3, land-of-the-dead, port, sdl3, survival-horror, unreal-engine-2",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-19T01:49:20.956180+00:00",
+      "found_at": "2026-11-19T14:14:54.310674+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -134,56 +166,56 @@
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
       ],
-      "relevance_score": 11,
+      "relevance_score": 8,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть прямые признаки порта/рекомпиляции: port of, android port",
         "Есть игровые/платформенные признаки: game, android"
       ]
     },
     {
-      "title": "Adriansyah101/GangstarMiamiVindication-PC-Port",
-      "url": "https://github.com/Adriansyah101/GangstarMiamiVindication-PC-Port",
-      "source_name": "GitHub: PC ports",
-      "published": "2026-11-18T14:23:22Z",
-      "summary": "Unofficial Windows and Linux port of Gangstar: Miami Vindication (Mac version) for x86 PCs, with fixes and optional enhancements. Requires your own copy of the game. Topics: game-port, gameloft, gangstar, gangstar-gameloft, gangstar-miami-vindication, gangstar-mv, linux, loader, mach-o, opengl, sdl3, windows",
+      "title": "CounterClockTTRPG/ftl-android",
+      "url": "https://github.com/CounterClockTTRPG/ftl-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-19T13:56:48Z",
+      "summary": "An android port of FTL. Needs the original game files",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-19T01:49:18.931191+00:00",
+      "found_at": "2026-11-19T14:14:54.309983+00:00",
       "check": null,
-      "category": "pc",
+      "category": "android",
       "platforms_guess": [
-        "PC"
+        "Android"
       ],
       "category_evidence": {
         "browser_terms": [],
-        "android_terms": [],
-        "pc_terms": [
-          "windows",
-          "linux"
+        "android_terms": [
+          "android",
+          "android port"
         ],
+        "pc_terms": [],
         "other_platform_terms": []
       },
       "build_links": [],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки Android-поддержки."
       ],
-      "relevance_score": 6,
+      "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: port of",
-        "Есть игровые/платформенные признаки: game, windows, linux"
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game, android"
       ]
     },
     {
-      "title": "ranggawaridat/game-port",
-      "url": "https://github.com/ranggawaridat/game-port",
-      "source_name": "GitHub: source ports",
-      "published": "2026-11-16T11:12:15Z",
-      "summary": "Katalog port native Android dari game PC & konsol — source port, dekompilasi, dan rekompilasi statis yang menjalankan kode game langsung di perangkat, bukan emulasi.",
+      "title": "codepdbh/hotd2re-android-evolved",
+      "url": "https://github.com/codepdbh/hotd2re-android-evolved",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-19T13:56:55Z",
+      "summary": "Native Android ARM64 port of HOTD2RE using SDL3, Vulkan and locally imported game data.",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-19T01:49:16.772640+00:00",
+      "found_at": "2026-11-19T14:14:54.309440+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -201,6 +233,1176 @@
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
       ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "GamebreakerDev/Gamebreaker",
+      "url": "https://github.com/GamebreakerDev/Gamebreaker",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-19T12:20:04Z",
+      "summary": "Native Windows port of NBA Street Vol. 2 (Xbox, 2003) by static recompilation. Bring your own disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T14:14:47.964012+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: windows"
+      ]
+    },
+    {
+      "title": "Adriansyah101/GTRacingMotorAcademyRecomp",
+      "url": "https://github.com/Adriansyah101/GTRacingMotorAcademyRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-19T13:30:41Z",
+      "summary": "Unofficial PC port of GT Racing: Motor Academy HD (iPad) by static recompilation: ARMv7 → C → x86. Widescreen, keyboard/mouse/gamepad, LAN and online multiplayer. No game files included; bring your own copy. Topics: game-port, gameloft, gtracing, gtracing-gameloft, gtracingfree, gtracingmotoracademy, opengl, sdl3, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T14:14:47.962999+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "cha0skvlt/pocket-planes",
+      "url": "https://github.com/cha0skvlt/pocket-planes",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-19T13:14:56Z",
+      "summary": "A browser game demo about exploring a pocket dimension: fly an FPV drone through a night-time flooded city. Powered by a Rust physics core + WASM rendering. Experience the vibe of the waves. Topics: 3d, browser-game, demo, drone, flight-simulator, fpv, game, game-development, javascript, procedural-generation, rust, shaders, threejs, vite, wasm, webassembly, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T14:14:43.539779+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm, webgl",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "ThinHeader/classic-pool-minigame",
+      "url": "https://github.com/ThinHeader/classic-pool-minigame",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-19T07:40:38Z",
+      "summary": "Classic 8-ball pool as a WeChat mini game — online friend match, AI opponent, playable in desktop browser. Port of henshmi/Classic-Pool-Game (MIT). Topics: 8-ball, billiards, canvas, game, javascript, minigame, pool, wechat, wechat-minigame",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T14:14:38.690190+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable"
+      ]
+    },
+    {
+      "title": "sidodadi-dev/harbor-heat",
+      "url": "https://github.com/sidodadi-dev/harbor-heat",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-19T11:28:20Z",
+      "summary": "Harbor Heat — an original top-down open-world crime game in a browser: Port Meridian, traffic, police chases and courier missions. Built by an AI agent for make.fun's \"Make GTA 6\" bounty, $1,666 in USDC. Topics: ai-agents, bounties, game, makefun",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T14:14:38.689090+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "evilHazzarD/ReHoMM4-translations",
+      "url": "https://github.com/evilHazzarD/ReHoMM4-translations",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-18T20:17:00Z",
+      "summary": "Translations of Heroes of Might and Magic IV for ReHoMM4, the native port for Mac, Linux, iPhone, iPad, Android and the Switch. Players pick a language from the list in the game's main menu. The app then downloads that language's pack from this repository's latest release and applies it to their own GOG copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:20.959505+00:00",
+      "check": {
+        "checked_at": "2026-11-19T14:14:57.966065+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Translations of Heroes of Might and Magic IV for ReHoMM4, the native port for Mac, Linux, iPhone, iPad, Android and the Switch. Players pick a language from the list in the game's main menu. The app then downloads that language's pack from this repository's latest release and applies it to their own GOG copy of the game.",
+        "latest_release_url": "https://github.com/evilHazzarD/ReHoMM4-translations/releases/tag/0.1",
+        "latest_release_name": "0.1",
+        "release_assets": [
+          {
+            "name": "languages.json",
+            "url": "https://github.com/evilHazzarD/ReHoMM4-translations/releases/download/0.1/languages.json",
+            "size": 442
+          },
+          {
+            "name": "uk.h4p",
+            "url": "https://github.com/evilHazzarD/ReHoMM4-translations/releases/download/0.1/uk.h4p",
+            "size": 33813253
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.1",
+            "url": "https://github.com/evilHazzarD/ReHoMM4-translations/releases/tag/0.1",
+            "published_at": "2026-11-18T15:42:23Z",
+            "assets": [
+              {
+                "name": "languages.json",
+                "url": "https://github.com/evilHazzarD/ReHoMM4-translations/releases/download/0.1/languages.json",
+                "size": 442
+              },
+              {
+                "name": "uk.h4p",
+                "url": "https://github.com/evilHazzarD/ReHoMM4-translations/releases/download/0.1/uk.h4p",
+                "size": 33813253
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "languages.json",
+          "url": "https://github.com/evilHazzarD/ReHoMM4-translations/releases/download/0.1/languages.json",
+          "type": "other_file"
+        },
+        {
+          "name": "uk.h4p",
+          "url": "https://github.com/evilHazzarD/ReHoMM4-translations/releases/download/0.1/uk.h4p",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: native port",
+        "Есть игровые/платформенные признаки: game, linux, android"
+      ]
+    },
+    {
+      "title": "IamWilmar/xenoblade3-recomp",
+      "url": "https://github.com/IamWilmar/xenoblade3-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-18T22:22:01Z",
+      "summary": "Native Android port of Xenoblade Chronicles 3 for the Retroid Pocket Flip 2. Early version. Bring your own extracted game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:20.958675+00:00",
+      "check": {
+        "checked_at": "2026-11-19T14:14:59.420772+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android port of Xenoblade Chronicles 3 for the Retroid Pocket Flip 2. Early version. Bring your own extracted game files.",
+        "latest_release_url": "https://github.com/IamWilmar/xenoblade3-recomp/releases/tag/v0.4.0",
+        "latest_release_name": "Xenoblade 3 port v0.4.0",
+        "release_assets": [
+          {
+            "name": "xenoblade3port-v0.4.0.apk",
+            "url": "https://github.com/IamWilmar/xenoblade3-recomp/releases/download/v0.4.0/xenoblade3port-v0.4.0.apk",
+            "size": 22541306
+          }
+        ],
+        "releases": [
+          {
+            "name": "Xenoblade 3 port v0.4.0",
+            "url": "https://github.com/IamWilmar/xenoblade3-recomp/releases/tag/v0.4.0",
+            "published_at": "2026-11-19T02:45:00Z",
+            "assets": [
+              {
+                "name": "xenoblade3port-v0.4.0.apk",
+                "url": "https://github.com/IamWilmar/xenoblade3-recomp/releases/download/v0.4.0/xenoblade3port-v0.4.0.apk",
+                "size": 22541306
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Xenoblade 3 port v0.3.0",
+            "url": "https://github.com/IamWilmar/xenoblade3-recomp/releases/tag/v0.3.0",
+            "published_at": "2026-11-18T22:22:02Z",
+            "assets": [
+              {
+                "name": "xenoblade3port-v0.3.0.apk",
+                "url": "https://github.com/IamWilmar/xenoblade3-recomp/releases/download/v0.3.0/xenoblade3port-v0.3.0.apk",
+                "size": 22512634
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Xenoblade 3 port v0.2.0",
+            "url": "https://github.com/IamWilmar/xenoblade3-recomp/releases/tag/v0.2.0",
+            "published_at": "2026-11-18T21:59:10Z",
+            "assets": [
+              {
+                "name": "xenoblade3port-v0.2.0.apk",
+                "url": "https://github.com/IamWilmar/xenoblade3-recomp/releases/download/v0.2.0/xenoblade3port-v0.2.0.apk",
+                "size": 22508538
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.0",
+            "url": "https://github.com/IamWilmar/xenoblade3-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-18T02:36:30Z",
+            "assets": [
+              {
+                "name": "xenoblade3port-v0.1.0.apk",
+                "url": "https://github.com/IamWilmar/xenoblade3-recomp/releases/download/v0.1.0/xenoblade3port-v0.1.0.apk",
+                "size": 22344698
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "xenoblade3port-v0.4.0.apk",
+          "url": "https://github.com/IamWilmar/xenoblade3-recomp/releases/download/v0.4.0/xenoblade3port-v0.4.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "xenoblade3port-v0.3.0.apk",
+          "url": "https://github.com/IamWilmar/xenoblade3-recomp/releases/download/v0.3.0/xenoblade3port-v0.3.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "xenoblade3port-v0.2.0.apk",
+          "url": "https://github.com/IamWilmar/xenoblade3-recomp/releases/download/v0.2.0/xenoblade3port-v0.2.0.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "xenoblade3port-v0.1.0.apk",
+          "url": "https://github.com/IamWilmar/xenoblade3-recomp/releases/download/v0.1.0/xenoblade3port-v0.1.0.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "P1R4N351/oot-android",
+      "url": "https://github.com/P1R4N351/oot-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-19T00:26:46Z",
+      "summary": "Native Android port & dual-screen companion for The Legend of Zelda: Ocarina of Time (Switch 2, v131072) on Adreno handhelds. Bring your own game dump.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:20.956883+00:00",
+      "check": {
+        "checked_at": "2026-11-19T14:15:00.986258+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android port & dual-screen companion for The Legend of Zelda: Ocarina of Time (Switch 2, v131072) on Adreno handhelds. Bring your own game dump.",
+        "latest_release_url": "https://github.com/P1R4N351/oot-android/releases/tag/v0.2.0-beta.1",
+        "latest_release_name": "OoT Native v0.2.0-beta.1 (Beta Pre-release)",
+        "release_assets": [
+          {
+            "name": "OoT-Native-0.2.0-beta.1.apk",
+            "url": "https://github.com/P1R4N351/oot-android/releases/download/v0.2.0-beta.1/OoT-Native-0.2.0-beta.1.apk",
+            "size": 9000088
+          },
+          {
+            "name": "OoT-Native-0.2.0-beta.1.apk.sha256",
+            "url": "https://github.com/P1R4N351/oot-android/releases/download/v0.2.0-beta.1/OoT-Native-0.2.0-beta.1.apk.sha256",
+            "size": 94
+          }
+        ],
+        "releases": [
+          {
+            "name": "OoT Native v0.2.0-beta.1 (Beta Pre-release)",
+            "url": "https://github.com/P1R4N351/oot-android/releases/tag/v0.2.0-beta.1",
+            "published_at": "2026-11-19T13:15:49Z",
+            "assets": [
+              {
+                "name": "OoT-Native-0.2.0-beta.1.apk",
+                "url": "https://github.com/P1R4N351/oot-android/releases/download/v0.2.0-beta.1/OoT-Native-0.2.0-beta.1.apk",
+                "size": 9000088
+              },
+              {
+                "name": "OoT-Native-0.2.0-beta.1.apk.sha256",
+                "url": "https://github.com/P1R4N351/oot-android/releases/download/v0.2.0-beta.1/OoT-Native-0.2.0-beta.1.apk.sha256",
+                "size": 94
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "OoT-Native-0.2.0-beta.1.apk",
+          "url": "https://github.com/P1R4N351/oot-android/releases/download/v0.2.0-beta.1/OoT-Native-0.2.0-beta.1.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "OoT-Native-0.2.0-beta.1.apk.sha256",
+          "url": "https://github.com/P1R4N351/oot-android/releases/download/v0.2.0-beta.1/OoT-Native-0.2.0-beta.1.apk.sha256",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "UnknuwProjects/THPS4-Android-Releases",
+      "url": "https://github.com/UnknuwProjects/THPS4-Android-Releases",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-19T00:27:13Z",
+      "summary": "Unofficial Android port of Tony Hawk's Pro Skater 4 (Xbox) - public release channel: stable builds and changelogs. Game data not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:20.956180+00:00",
+      "check": {
+        "checked_at": "2026-11-19T14:15:02.839677+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial Android port of Tony Hawk's Pro Skater 4 (Xbox) - public release channel: stable builds and changelogs. Game data not included.",
+        "latest_release_url": "https://github.com/UnknuwProjects/THPS4-Android-Releases/releases/tag/1.0.3",
+        "latest_release_name": "1.0.3",
+        "release_assets": [
+          {
+            "name": "THPS4-1.0.3.apk",
+            "url": "https://github.com/UnknuwProjects/THPS4-Android-Releases/releases/download/1.0.3/THPS4-1.0.3.apk",
+            "size": 19686737
+          }
+        ],
+        "releases": [
+          {
+            "name": "1.0.3",
+            "url": "https://github.com/UnknuwProjects/THPS4-Android-Releases/releases/tag/1.0.3",
+            "published_at": "2026-11-19T13:32:02Z",
+            "assets": [
+              {
+                "name": "THPS4-1.0.3.apk",
+                "url": "https://github.com/UnknuwProjects/THPS4-Android-Releases/releases/download/1.0.3/THPS4-1.0.3.apk",
+                "size": 19686737
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "1.0.2",
+            "url": "https://github.com/UnknuwProjects/THPS4-Android-Releases/releases/tag/1.0.2",
+            "published_at": "2026-11-19T12:08:53Z",
+            "assets": [
+              {
+                "name": "THPS4-1.0.2.apk",
+                "url": "https://github.com/UnknuwProjects/THPS4-Android-Releases/releases/download/1.0.2/THPS4-1.0.2.apk",
+                "size": 19681909
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "THPS4 Android 1.0.1",
+            "url": "https://github.com/UnknuwProjects/THPS4-Android-Releases/releases/tag/1.0.1",
+            "published_at": "2026-11-19T10:27:19Z",
+            "assets": [
+              {
+                "name": "THPS4-1.0.1.apk",
+                "url": "https://github.com/UnknuwProjects/THPS4-Android-Releases/releases/download/1.0.1/THPS4-1.0.1.apk",
+                "size": 19678461
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "THPS4 Android 1.0.0",
+            "url": "https://github.com/UnknuwProjects/THPS4-Android-Releases/releases/tag/1.0.0",
+            "published_at": "2026-11-19T07:43:09Z",
+            "assets": [
+              {
+                "name": "THPS4-1.0.0.apk",
+                "url": "https://github.com/UnknuwProjects/THPS4-Android-Releases/releases/download/1.0.0/THPS4-1.0.0.apk",
+                "size": 19678621
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "THPS4-1.0.3.apk",
+          "url": "https://github.com/UnknuwProjects/THPS4-Android-Releases/releases/download/1.0.3/THPS4-1.0.3.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "THPS4-1.0.2.apk",
+          "url": "https://github.com/UnknuwProjects/THPS4-Android-Releases/releases/download/1.0.2/THPS4-1.0.2.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "THPS4-1.0.1.apk",
+          "url": "https://github.com/UnknuwProjects/THPS4-Android-Releases/releases/download/1.0.1/THPS4-1.0.1.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "THPS4-1.0.0.apk",
+          "url": "https://github.com/UnknuwProjects/THPS4-Android-Releases/releases/download/1.0.0/THPS4-1.0.0.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Adriansyah101/GangstarMiamiVindication-PC-Port",
+      "url": "https://github.com/Adriansyah101/GangstarMiamiVindication-PC-Port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-18T14:23:22Z",
+      "summary": "Unofficial Windows and Linux port of Gangstar: Miami Vindication (Mac version) for x86 PCs, with fixes and optional enhancements. Requires your own copy of the game. Topics: game-port, gameloft, gangstar, gangstar-gameloft, gangstar-miami-vindication, gangstar-mv, linux, loader, mach-o, opengl, sdl3, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:18.931191+00:00",
+      "check": {
+        "checked_at": "2026-11-19T14:15:04.334374+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial Windows and Linux port of Gangstar: Miami Vindication (Mac version) for x86 PCs, with fixes and optional enhancements. Requires your own copy of the game.",
+        "latest_release_url": "https://github.com/Adriansyah101/GangstarMiamiVindication-PC-Port/releases/tag/V1.0.0",
+        "latest_release_name": "GangstarMV PC Port V1.0.0",
+        "release_assets": [
+          {
+            "name": "GangstarMV-PC-Port-V1.0.0-Linux-x86.tar.gz",
+            "url": "https://github.com/Adriansyah101/GangstarMiamiVindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Linux-x86.tar.gz",
+            "size": 690393
+          },
+          {
+            "name": "GangstarMV-PC-Port-V1.0.0-Windows-x86.zip",
+            "url": "https://github.com/Adriansyah101/GangstarMiamiVindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Windows-x86.zip",
+            "size": 2587194
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/Adriansyah101/GangstarMiamiVindication-PC-Port/releases/download/V1.0.0/SHA256SUMS.txt",
+            "size": 217
+          }
+        ],
+        "releases": [
+          {
+            "name": "GangstarMV PC Port V1.0.0",
+            "url": "https://github.com/Adriansyah101/GangstarMiamiVindication-PC-Port/releases/tag/V1.0.0",
+            "published_at": "2026-11-18T14:23:22Z",
+            "assets": [
+              {
+                "name": "GangstarMV-PC-Port-V1.0.0-Linux-x86.tar.gz",
+                "url": "https://github.com/Adriansyah101/GangstarMiamiVindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Linux-x86.tar.gz",
+                "size": 690393
+              },
+              {
+                "name": "GangstarMV-PC-Port-V1.0.0-Windows-x86.zip",
+                "url": "https://github.com/Adriansyah101/GangstarMiamiVindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Windows-x86.zip",
+                "size": 2587194
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/Adriansyah101/GangstarMiamiVindication-PC-Port/releases/download/V1.0.0/SHA256SUMS.txt",
+                "size": 217
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "GangstarMV-PC-Port-V1.0.0-Linux-x86.tar.gz",
+          "url": "https://github.com/Adriansyah101/GangstarMiamiVindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Linux-x86.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "GangstarMV-PC-Port-V1.0.0-Windows-x86.zip",
+          "url": "https://github.com/Adriansyah101/GangstarMiamiVindication-PC-Port/releases/download/V1.0.0/GangstarMV-PC-Port-V1.0.0-Windows-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/Adriansyah101/GangstarMiamiVindication-PC-Port/releases/download/V1.0.0/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "ranggawaridat/game-port",
+      "url": "https://github.com/ranggawaridat/game-port",
+      "source_name": "GitHub: source ports",
+      "published": "2026-11-16T11:12:15Z",
+      "summary": "Katalog port native Android dari game PC & konsol — source port, dekompilasi, dan rekompilasi statis yang menjalankan kode game langsung di perangkat, bukan emulasi.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:16.772640+00:00",
+      "check": {
+        "checked_at": "2026-11-19T14:15:05.811120+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Katalog port native Android dari game PC & konsol — source port, dekompilasi, dan rekompilasi statis yang menjalankan kode game langsung di perangkat, bukan emulasi.",
+        "latest_release_url": "https://github.com/ranggawaridat/game-port/releases/tag/deploy-9",
+        "latest_release_name": "Backend build 9",
+        "release_assets": [
+          {
+            "name": "gameport-backend-linux-amd64.tar.gz",
+            "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-9/gameport-backend-linux-amd64.tar.gz",
+            "size": 7980530
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-9/SHA256SUMS",
+            "size": 102
+          },
+          {
+            "name": "version.txt",
+            "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-9/version.txt",
+            "size": 41
+          }
+        ],
+        "releases": [
+          {
+            "name": "Backend build 9",
+            "url": "https://github.com/ranggawaridat/game-port/releases/tag/deploy-9",
+            "published_at": "2026-11-16T10:38:47Z",
+            "assets": [
+              {
+                "name": "gameport-backend-linux-amd64.tar.gz",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-9/gameport-backend-linux-amd64.tar.gz",
+                "size": 7980530
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-9/SHA256SUMS",
+                "size": 102
+              },
+              {
+                "name": "version.txt",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-9/version.txt",
+                "size": 41
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Backend build 8",
+            "url": "https://github.com/ranggawaridat/game-port/releases/tag/deploy-8",
+            "published_at": "2026-11-15T07:22:29Z",
+            "assets": [
+              {
+                "name": "gameport-backend-linux-amd64.tar.gz",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-8/gameport-backend-linux-amd64.tar.gz",
+                "size": 4349977
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-8/SHA256SUMS",
+                "size": 102
+              },
+              {
+                "name": "version.txt",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-8/version.txt",
+                "size": 41
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Backend build 7",
+            "url": "https://github.com/ranggawaridat/game-port/releases/tag/deploy-7",
+            "published_at": "2026-11-15T07:13:21Z",
+            "assets": [
+              {
+                "name": "gameport-backend-linux-amd64.tar.gz",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-7/gameport-backend-linux-amd64.tar.gz",
+                "size": 4350070
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-7/SHA256SUMS",
+                "size": 102
+              },
+              {
+                "name": "version.txt",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-7/version.txt",
+                "size": 41
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Backend build 6",
+            "url": "https://github.com/ranggawaridat/game-port/releases/tag/deploy-6",
+            "published_at": "2026-11-15T07:06:03Z",
+            "assets": [
+              {
+                "name": "gameport-backend-linux-amd64.tar.gz",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-6/gameport-backend-linux-amd64.tar.gz",
+                "size": 4350292
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-6/SHA256SUMS",
+                "size": 102
+              },
+              {
+                "name": "version.txt",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-6/version.txt",
+                "size": 41
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Backend build 5",
+            "url": "https://github.com/ranggawaridat/game-port/releases/tag/deploy-5",
+            "published_at": "2026-11-14T12:24:08Z",
+            "assets": [
+              {
+                "name": "gameport-backend-linux-amd64.tar.gz",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-5/gameport-backend-linux-amd64.tar.gz",
+                "size": 4350022
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-5/SHA256SUMS",
+                "size": 102
+              },
+              {
+                "name": "version.txt",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-5/version.txt",
+                "size": 41
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Backend build 4",
+            "url": "https://github.com/ranggawaridat/game-port/releases/tag/deploy-4",
+            "published_at": "2026-11-14T10:48:05Z",
+            "assets": [
+              {
+                "name": "gameport-backend-linux-amd64.tar.gz",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-4/gameport-backend-linux-amd64.tar.gz",
+                "size": 4346438
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-4/SHA256SUMS",
+                "size": 102
+              },
+              {
+                "name": "version.txt",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-4/version.txt",
+                "size": 41
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Backend build 3",
+            "url": "https://github.com/ranggawaridat/game-port/releases/tag/deploy-3",
+            "published_at": "2026-11-14T03:37:28Z",
+            "assets": [
+              {
+                "name": "gameport-backend-linux-amd64.tar.gz",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-3/gameport-backend-linux-amd64.tar.gz",
+                "size": 4346331
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-3/SHA256SUMS",
+                "size": 102
+              },
+              {
+                "name": "version.txt",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-3/version.txt",
+                "size": 41
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Backend build 2",
+            "url": "https://github.com/ranggawaridat/game-port/releases/tag/deploy-2",
+            "published_at": "2026-11-14T03:34:23Z",
+            "assets": [
+              {
+                "name": "gameport-backend-linux-amd64.tar.gz",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-2/gameport-backend-linux-amd64.tar.gz",
+                "size": 4350560
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-2/SHA256SUMS",
+                "size": 102
+              },
+              {
+                "name": "version.txt",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-2/version.txt",
+                "size": 41
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Backend build 1",
+            "url": "https://github.com/ranggawaridat/game-port/releases/tag/deploy-1",
+            "published_at": "2026-11-14T03:21:44Z",
+            "assets": [
+              {
+                "name": "gameport-backend-linux-amd64.tar.gz",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-1/gameport-backend-linux-amd64.tar.gz",
+                "size": 4350542
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-1/SHA256SUMS",
+                "size": 102
+              },
+              {
+                "name": "version.txt",
+                "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-1/version.txt",
+                "size": 41
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "gameport-backend-linux-amd64.tar.gz",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-9/gameport-backend-linux-amd64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-9/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "version.txt",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-9/version.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "gameport-backend-linux-amd64.tar.gz",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-8/gameport-backend-linux-amd64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-8/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "version.txt",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-8/version.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "gameport-backend-linux-amd64.tar.gz",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-7/gameport-backend-linux-amd64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-7/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "version.txt",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-7/version.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "gameport-backend-linux-amd64.tar.gz",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-6/gameport-backend-linux-amd64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-6/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "version.txt",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-6/version.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "gameport-backend-linux-amd64.tar.gz",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-5/gameport-backend-linux-amd64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-5/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "version.txt",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-5/version.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "gameport-backend-linux-amd64.tar.gz",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-4/gameport-backend-linux-amd64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-4/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "version.txt",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-4/version.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "gameport-backend-linux-amd64.tar.gz",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-3/gameport-backend-linux-amd64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-3/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "version.txt",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-3/version.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "gameport-backend-linux-amd64.tar.gz",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-2/gameport-backend-linux-amd64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "version.txt",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-2/version.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "gameport-backend-linux-amd64.tar.gz",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-1/gameport-backend-linux-amd64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "version.txt",
+          "url": "https://github.com/ranggawaridat/game-port/releases/download/deploy-1/version.txt",
+          "type": "other_file"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 5,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -217,7 +1419,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-19T01:49:16.771302+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-19T14:15:07.448899+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "openD3: DOOM 3 on the openQ4 engine. A source port that is GPL end to end, engine and game code alike, running the original 2004 game from your retail files with OpenGL or Vulkan rendering. Early development; Windows x64 only so far.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -251,7 +1470,94 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-19T01:49:16.769741+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-19T14:15:08.925790+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Open-source port of MindMaze, the castle trivia game from Microsoft Encarta. Bring your own Encarta disc (2006, or 95 to 98); runs on Windows and Android.",
+        "latest_release_url": "https://github.com/rainthefrog/mindmaze-port/releases/tag/v1.0.1",
+        "latest_release_name": "MindMaze 1.0.1",
+        "release_assets": [
+          {
+            "name": "MindMaze-linux-x86_64.tar.gz",
+            "url": "https://github.com/rainthefrog/mindmaze-port/releases/download/v1.0.1/MindMaze-linux-x86_64.tar.gz",
+            "size": 34834341
+          },
+          {
+            "name": "MindMaze-macos.zip",
+            "url": "https://github.com/rainthefrog/mindmaze-port/releases/download/v1.0.1/MindMaze-macos.zip",
+            "size": 38771079
+          },
+          {
+            "name": "MindMaze.apk",
+            "url": "https://github.com/rainthefrog/mindmaze-port/releases/download/v1.0.1/MindMaze.apk",
+            "size": 37298296
+          },
+          {
+            "name": "MindMaze.exe",
+            "url": "https://github.com/rainthefrog/mindmaze-port/releases/download/v1.0.1/MindMaze.exe",
+            "size": 5551630
+          }
+        ],
+        "releases": [
+          {
+            "name": "MindMaze 1.0.1",
+            "url": "https://github.com/rainthefrog/mindmaze-port/releases/tag/v1.0.1",
+            "published_at": "2026-11-18T17:49:34Z",
+            "assets": [
+              {
+                "name": "MindMaze-linux-x86_64.tar.gz",
+                "url": "https://github.com/rainthefrog/mindmaze-port/releases/download/v1.0.1/MindMaze-linux-x86_64.tar.gz",
+                "size": 34834341
+              },
+              {
+                "name": "MindMaze-macos.zip",
+                "url": "https://github.com/rainthefrog/mindmaze-port/releases/download/v1.0.1/MindMaze-macos.zip",
+                "size": 38771079
+              },
+              {
+                "name": "MindMaze.apk",
+                "url": "https://github.com/rainthefrog/mindmaze-port/releases/download/v1.0.1/MindMaze.apk",
+                "size": 37298296
+              },
+              {
+                "name": "MindMaze.exe",
+                "url": "https://github.com/rainthefrog/mindmaze-port/releases/download/v1.0.1/MindMaze.exe",
+                "size": 5551630
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0.0",
+            "url": "https://github.com/rainthefrog/mindmaze-port/releases/tag/v1.0.0",
+            "published_at": "2026-11-18T07:28:40Z",
+            "assets": [
+              {
+                "name": "MindMaze.apk",
+                "url": "https://github.com/rainthefrog/mindmaze-port/releases/download/v1.0.0/MindMaze.apk",
+                "size": 37296516
+              },
+              {
+                "name": "MindMaze.exe",
+                "url": "https://github.com/rainthefrog/mindmaze-port/releases/download/v1.0.0/MindMaze.exe",
+                "size": 3317774
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -263,14 +1569,47 @@
           "android"
         ],
         "pc_terms": [
-          "windows"
+          "windows",
+          "linux"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "MindMaze-linux-x86_64.tar.gz",
+          "url": "https://github.com/rainthefrog/mindmaze-port/releases/download/v1.0.1/MindMaze-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "MindMaze-macos.zip",
+          "url": "https://github.com/rainthefrog/mindmaze-port/releases/download/v1.0.1/MindMaze-macos.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MindMaze.apk",
+          "url": "https://github.com/rainthefrog/mindmaze-port/releases/download/v1.0.1/MindMaze.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "MindMaze.exe",
+          "url": "https://github.com/rainthefrog/mindmaze-port/releases/download/v1.0.1/MindMaze.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "MindMaze.apk",
+          "url": "https://github.com/rainthefrog/mindmaze-port/releases/download/v1.0.0/MindMaze.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "MindMaze.exe",
+          "url": "https://github.com/rainthefrog/mindmaze-port/releases/download/v1.0.0/MindMaze.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
