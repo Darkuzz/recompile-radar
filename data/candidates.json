@@ -1,7 +1,587 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-18T13:45:28.013800+00:00",
+  "last_updated": "2026-11-19T01:49:37.497954+00:00",
   "candidates": [
+    {
+      "title": "evilHazzarD/ReHoMM4-translations",
+      "url": "https://github.com/evilHazzarD/ReHoMM4-translations",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-18T20:17:00Z",
+      "summary": "Translations of Heroes of Might and Magic IV for ReHoMM4, the native port for Mac, Linux, iPhone, iPad, Android and the Switch. Players pick a language from the list in the game's main menu. The app then downloads that language's pack from this repository's latest release and applies it to their own GOG copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:20.959505+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: native port",
+        "Есть игровые/платформенные признаки: game, linux, android"
+      ]
+    },
+    {
+      "title": "IamWilmar/xenoblade3-recomp",
+      "url": "https://github.com/IamWilmar/xenoblade3-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-18T22:22:01Z",
+      "summary": "Native Android port of Xenoblade Chronicles 3 for the Retroid Pocket Flip 2. Early version. Bring your own extracted game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:20.958675+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "P1R4N351/oot-android",
+      "url": "https://github.com/P1R4N351/oot-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-19T00:26:46Z",
+      "summary": "Native Android port & dual-screen companion for The Legend of Zelda: Ocarina of Time (Switch 2, v131072) on Adreno handhelds. Bring your own game dump.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:20.956883+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "UnknuwProjects/THPS4-Android-Releases",
+      "url": "https://github.com/UnknuwProjects/THPS4-Android-Releases",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-19T00:27:13Z",
+      "summary": "Unofficial Android port of Tony Hawk's Pro Skater 4 (Xbox) - public release channel: stable builds and changelogs. Game data not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:20.956180+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Adriansyah101/GangstarMiamiVindication-PC-Port",
+      "url": "https://github.com/Adriansyah101/GangstarMiamiVindication-PC-Port",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-18T14:23:22Z",
+      "summary": "Unofficial Windows and Linux port of Gangstar: Miami Vindication (Mac version) for x86 PCs, with fixes and optional enhancements. Requires your own copy of the game. Topics: game-port, gameloft, gangstar, gangstar-gameloft, gangstar-miami-vindication, gangstar-mv, linux, loader, mach-o, opengl, sdl3, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:18.931191+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "ranggawaridat/game-port",
+      "url": "https://github.com/ranggawaridat/game-port",
+      "source_name": "GitHub: source ports",
+      "published": "2026-11-16T11:12:15Z",
+      "summary": "Katalog port native Android dari game PC & konsol — source port, dekompilasi, dan rekompilasi statis yang menjalankan kode game langsung di perangkat, bukan emulasi.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:16.772640+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "themuffinator/openD3",
+      "url": "https://github.com/themuffinator/openD3",
+      "source_name": "GitHub: source ports",
+      "published": "2026-11-18T07:56:05Z",
+      "summary": "openD3: DOOM 3 on the openQ4 engine. A source port that is GPL end to end, engine and game code alike, running the original 2004 game from your retail files with OpenGL or Vulkan rendering. Early development; Windows x64 only so far. Topics: doom, doom-3, doom3, first-person-shooter, fps, fps-game, game-engine, id-software, idtech, idtech4, linux-gaming, macos-gaming, opengl, retro-gaming, sdl3, source-port, steam-deck, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:16.771302+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port, source-port",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "rainthefrog/mindmaze-port",
+      "url": "https://github.com/rainthefrog/mindmaze-port",
+      "source_name": "GitHub: source ports",
+      "published": "2026-11-18T17:50:16Z",
+      "summary": "Open-source port of MindMaze, the castle trivia game from Microsoft Encarta. Bring your own Encarta disc (2006, or 95 to 98); runs on Windows and Android.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:16.769741+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "SirWinstonChurchillTheFirst/mario-and-sonic-olympic-games-native",
+      "url": "https://github.com/SirWinstonChurchillTheFirst/mario-and-sonic-olympic-games-native",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-18T22:49:02Z",
+      "summary": "Native Windows and Linux build of Mario & Sonic at the Olympic Games (Wii) by static recompilation. Bring your own disc; no game data included. Topics: linux, native-port, nintendo-wii, recompilation, static-recompilation, wii, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:14.562475+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "linux build"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "hexporter/advanced-daisenryaku",
+      "url": "https://github.com/hexporter/advanced-daisenryaku",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-18T22:49:26Z",
+      "summary": "Advanced Daisenryaku (Mega Drive, 1991) as a native Mac and Windows game, translated into English, German, French and Spanish – static recompilation, bring your own ROM Topics: fan-translation, macos, mega-drive, recompilation, sega-genesis, static-recompilation, strategy-game, translation, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:14.561395+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows"
+      ]
+    },
+    {
+      "title": "AliEnes2/nfsuc-recomp",
+      "url": "https://github.com/AliEnes2/nfsuc-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-18T23:22:07Z",
+      "summary": "Native Windows port of Need for Speed: Undercover (Xbox 360) via ReXGlue static recompilation. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:14.560504+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "SirWinstonChurchillTheFirst/mario-sonic-rio-2016-native",
+      "url": "https://github.com/SirWinstonChurchillTheFirst/mario-sonic-rio-2016-native",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-18T23:45:57Z",
+      "summary": "Mario & Sonic at the Rio 2016 Olympic Games (Wii U) as a native Linux program by static recompilation: work in progress, not playable yet. No game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:14.559847+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable, linux"
+      ]
+    },
+    {
+      "title": "ShubhxYT/nsmbw-native",
+      "url": "https://github.com/ShubhxYT/nsmbw-native",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-19T01:47:17Z",
+      "summary": "New Super Mario Bros. Wii as a native app: static recompilation to a macOS .app, Windows .exe or unsigned iPad IPA. No emulator, no game data — bring your own disc. Topics: apple-silicon, ios, ipa, ipados, livecontainer, macos, metal, new-super-mario-bros-wii, nintendo-wii, nsmbw, recompilation, static-recompilation, wii, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:14.558808+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "AntAir267/AntiStatic-Recomp-Toolkit",
+      "url": "https://github.com/AntAir267/AntiStatic-Recomp-Toolkit",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-18T23:58:38Z",
+      "summary": "Static recompilation of 32-bit Windows games to native Linux/Windows code: x86 to C, a Win32 runtime, Vulkan renderers. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:14.557798+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Swisha33/NFSCVita",
+      "url": "https://github.com/Swisha33/NFSCVita",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-19T00:42:03Z",
+      "summary": "Need for Speed Carbon (PC v1.4) on the PS Vita: static recompilation of your own NFSC.exe with a sceGxm renderer. Unofficial fan port; you need your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:14.557092+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "ps vita"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, fan port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "iCosiSenpai/age-of-decomp",
+      "url": "https://github.com/iCosiSenpai/age-of-decomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-19T00:47:06Z",
+      "summary": "Native Windows/Linux build of your own Hyrule Warriors: Age of Imprisonment (Switch 2): static recompilation, step-by-step setup, full settings, native controllers, RecompLauncher-ready. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:14.556303+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "linux build"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Cryptopiy/GPT-6-Astra-Portside-Open-World",
+      "url": "https://github.com/Cryptopiy/GPT-6-Astra-Portside-Open-World",
+      "source_name": "GitHub: WebGL ports",
+      "published": "2026-11-18T20:13:57Z",
+      "summary": "GPT 6 Astra improves its own open-world browser game: Portside v1.1, v2, v3 (Three.js) | ИИ дорабатывает игру Topics: ai-generated, browser-game, game-development, gpt, javascript, llm-benchmark, open-world, openai, threejs, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-19T01:49:12.530959+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webgl",
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "sakib142/saltline-mirror",
       "url": "https://github.com/sakib142/saltline-mirror",
@@ -11,7 +591,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-18T13:45:15.049679+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-19T01:49:24.689665+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A browser FPS set in a rainy container port — cut three uplink relays while drones and robot dogs hunt you. One HTML file, procedural three.js, zero downloaded assets.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -47,7 +644,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-18T13:45:12.698617+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-19T01:49:26.228881+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Age of Empires II: The Conquerors statically recompiled (x86 -> C) to native Linux and WebAssembly. Bring your own copy of the game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -600,7 +1214,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-18T02:18:04.996840+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-19T01:49:27.744728+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows port of Shinobido: Way of the Ninja (PS2, PAL SCES-53931) built with static recompilation (PS2Recomp). Not an emulator. 60 fps, up to 4K, 21:9, HD texture pack support, F9 settings menu, cheats, skins, mods and controller support. No game data included: bring your own ISO.",
+        "latest_release_url": "https://github.com/umagamer83182/Shinobido-Way-of-the-Ninja-Native-PC-Port/releases/tag/1.6.29",
+        "latest_release_name": "1.6.29",
+        "release_assets": [
+          {
+            "name": "Shinobido.zip",
+            "url": "https://github.com/umagamer83182/Shinobido-Way-of-the-Ninja-Native-PC-Port/releases/download/1.6.29/Shinobido.zip",
+            "size": 70672647
+          }
+        ],
+        "releases": [
+          {
+            "name": "1.6.29",
+            "url": "https://github.com/umagamer83182/Shinobido-Way-of-the-Ninja-Native-PC-Port/releases/tag/1.6.29",
+            "published_at": "2026-11-17T22:39:21Z",
+            "assets": [
+              {
+                "name": "Shinobido.zip",
+                "url": "https://github.com/umagamer83182/Shinobido-Way-of-the-Ninja-Native-PC-Port/releases/download/1.6.29/Shinobido.zip",
+                "size": 70672647
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -613,9 +1265,16 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Shinobido.zip",
+          "url": "https://github.com/umagamer83182/Shinobido-Way-of-the-Ninja-Native-PC-Port/releases/download/1.6.29/Shinobido.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -633,7 +1292,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-18T02:18:04.995732+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-19T01:49:29.365962+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Work-in-progress native PC port of Dead Space Ignition via static recompilation of the Xbox 360 executable (ReXGlue). Bring your own game files. Unofficial; not affiliated with EA.",
+        "latest_release_url": "https://github.com/killersheaven/ds-ignition-recomp/releases/tag/v0.1.1",
+        "latest_release_name": "DSI Recomp v0.1.1 - Multi Language Support",
+        "release_assets": [
+          {
+            "name": "DSI-Recomp-v0.1.1-win64.zip",
+            "url": "https://github.com/killersheaven/ds-ignition-recomp/releases/download/v0.1.1/DSI-Recomp-v0.1.1-win64.zip",
+            "size": 45285397
+          }
+        ],
+        "releases": [
+          {
+            "name": "DSI Recomp v0.1.1 - Multi Language Support",
+            "url": "https://github.com/killersheaven/ds-ignition-recomp/releases/tag/v0.1.1",
+            "published_at": "2026-11-18T00:37:36Z",
+            "assets": [
+              {
+                "name": "DSI-Recomp-v0.1.1-win64.zip",
+                "url": "https://github.com/killersheaven/ds-ignition-recomp/releases/download/v0.1.1/DSI-Recomp-v0.1.1-win64.zip",
+                "size": 45285397
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "DSI Recomp v0.1.0",
+            "url": "https://github.com/killersheaven/ds-ignition-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-17T18:09:48Z",
+            "assets": [
+              {
+                "name": "DSI-Recomp-v0.1.0-win64.zip",
+                "url": "https://github.com/killersheaven/ds-ignition-recomp/releases/download/v0.1.0/DSI-Recomp-v0.1.0-win64.zip",
+                "size": 45480510
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -642,14 +1353,27 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
+          "win64",
           "pc port",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "DSI-Recomp-v0.1.1-win64.zip",
+          "url": "https://github.com/killersheaven/ds-ignition-recomp/releases/download/v0.1.1/DSI-Recomp-v0.1.1-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "DSI-Recomp-v0.1.0-win64.zip",
+          "url": "https://github.com/killersheaven/ds-ignition-recomp/releases/download/v0.1.0/DSI-Recomp-v0.1.0-win64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -667,7 +1391,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-18T02:18:04.994854+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-19T01:49:30.984369+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "WIP Tank Battles (PS3) static recompilation project using ps3recomp. No game files included; requires your own purchased game decrypted dump.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -694,7 +1435,95 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-18T02:18:04.993993+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-19T01:49:32.550029+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A static recompilation of Kirby and the Forgotten Land (Nintendo Switch) for Windows. Not an emulator. No game files included: you need your own copy.",
+        "latest_release_url": "https://github.com/scarxity/kirby-forgotten-land-recompiled/releases/tag/v0.3.2",
+        "latest_release_name": "Forgotten Land Recomp 0.3.2",
+        "release_assets": [
+          {
+            "name": "ForgottenLandRecomp-0.3.2-Windows-x64.zip",
+            "url": "https://github.com/scarxity/kirby-forgotten-land-recompiled/releases/download/v0.3.2/ForgottenLandRecomp-0.3.2-Windows-x64.zip",
+            "size": 90293912
+          }
+        ],
+        "releases": [
+          {
+            "name": "Forgotten Land Recomp 0.3.2",
+            "url": "https://github.com/scarxity/kirby-forgotten-land-recompiled/releases/tag/v0.3.2",
+            "published_at": "2026-11-18T01:43:32Z",
+            "assets": [
+              {
+                "name": "ForgottenLandRecomp-0.3.2-Windows-x64.zip",
+                "url": "https://github.com/scarxity/kirby-forgotten-land-recompiled/releases/download/v0.3.2/ForgottenLandRecomp-0.3.2-Windows-x64.zip",
+                "size": 90293912
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Forgotten Land Recomp 0.3.0",
+            "url": "https://github.com/scarxity/kirby-forgotten-land-recompiled/releases/tag/v0.3.0",
+            "published_at": "2026-11-16T22:23:13Z",
+            "assets": [
+              {
+                "name": "ForgottenLandRecomp-0.3.0-Windows-x64.zip",
+                "url": "https://github.com/scarxity/kirby-forgotten-land-recompiled/releases/download/v0.3.0/ForgottenLandRecomp-0.3.0-Windows-x64.zip",
+                "size": 89853962
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Forgotten Land Recomp 0.2.0",
+            "url": "https://github.com/scarxity/kirby-forgotten-land-recompiled/releases/tag/v0.2.0",
+            "published_at": "2026-11-15T17:39:31Z",
+            "assets": [
+              {
+                "name": "ForgottenLandRecomp-0.2.0-Windows-x64.zip",
+                "url": "https://github.com/scarxity/kirby-forgotten-land-recompiled/releases/download/v0.2.0/ForgottenLandRecomp-0.2.0-Windows-x64.zip",
+                "size": 93586073
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Forgotten Land Recomp 0.1.1",
+            "url": "https://github.com/scarxity/kirby-forgotten-land-recompiled/releases/tag/v0.1.1",
+            "published_at": "2026-11-14T12:29:36Z",
+            "assets": [
+              {
+                "name": "ForgottenLandRecomp-0.1.1-Windows-x64.zip",
+                "url": "https://github.com/scarxity/kirby-forgotten-land-recompiled/releases/download/v0.1.1/ForgottenLandRecomp-0.1.1-Windows-x64.zip",
+                "size": 93569562
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Forgotten Land Recomp 0.1.0",
+            "url": "https://github.com/scarxity/kirby-forgotten-land-recompiled/releases/tag/v0.1.0",
+            "published_at": "2026-11-14T06:20:06Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -709,10 +1538,32 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "ForgottenLandRecomp-0.3.2-Windows-x64.zip",
+          "url": "https://github.com/scarxity/kirby-forgotten-land-recompiled/releases/download/v0.3.2/ForgottenLandRecomp-0.3.2-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ForgottenLandRecomp-0.3.0-Windows-x64.zip",
+          "url": "https://github.com/scarxity/kirby-forgotten-land-recompiled/releases/download/v0.3.0/ForgottenLandRecomp-0.3.0-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ForgottenLandRecomp-0.2.0-Windows-x64.zip",
+          "url": "https://github.com/scarxity/kirby-forgotten-land-recompiled/releases/download/v0.2.0/ForgottenLandRecomp-0.2.0-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ForgottenLandRecomp-0.1.1-Windows-x64.zip",
+          "url": "https://github.com/scarxity/kirby-forgotten-land-recompiled/releases/download/v0.1.1/ForgottenLandRecomp-0.1.1-Windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки PC-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -730,7 +1581,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-18T02:18:04.992878+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-19T01:49:34.229635+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Hot Shots Golf: World Invitational (Everybody's Golf 6) native PC port by PS3 static recompilation. Work in progress: boots, does not render yet. Bring your own game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -764,10 +1632,79 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-18T02:18:01.068343+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-19T01:49:35.771294+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Gravity-assist delivery game in C++20 + raylib, playable in the browser (WebAssembly)",
+        "latest_release_url": "https://github.com/gigantic536wall/orbit-courier/releases/tag/v1.0.0",
+        "latest_release_name": "Orbit Courier v1.0.0",
+        "release_assets": [
+          {
+            "name": "orbit-courier-v1.0.0-linux-x64.tar.gz",
+            "url": "https://github.com/gigantic536wall/orbit-courier/releases/download/v1.0.0/orbit-courier-v1.0.0-linux-x64.tar.gz",
+            "size": 1045623
+          },
+          {
+            "name": "orbit-courier-v1.0.0-macos-universal.zip",
+            "url": "https://github.com/gigantic536wall/orbit-courier/releases/download/v1.0.0/orbit-courier-v1.0.0-macos-universal.zip",
+            "size": 1469878
+          },
+          {
+            "name": "orbit-courier-v1.0.0-web.zip",
+            "url": "https://github.com/gigantic536wall/orbit-courier/releases/download/v1.0.0/orbit-courier-v1.0.0-web.zip",
+            "size": 192603
+          },
+          {
+            "name": "orbit-courier-v1.0.0-windows-x64.zip",
+            "url": "https://github.com/gigantic536wall/orbit-courier/releases/download/v1.0.0/orbit-courier-v1.0.0-windows-x64.zip",
+            "size": 481424
+          }
+        ],
+        "releases": [
+          {
+            "name": "Orbit Courier v1.0.0",
+            "url": "https://github.com/gigantic536wall/orbit-courier/releases/tag/v1.0.0",
+            "published_at": "2026-11-18T17:11:06Z",
+            "assets": [
+              {
+                "name": "orbit-courier-v1.0.0-linux-x64.tar.gz",
+                "url": "https://github.com/gigantic536wall/orbit-courier/releases/download/v1.0.0/orbit-courier-v1.0.0-linux-x64.tar.gz",
+                "size": 1045623
+              },
+              {
+                "name": "orbit-courier-v1.0.0-macos-universal.zip",
+                "url": "https://github.com/gigantic536wall/orbit-courier/releases/download/v1.0.0/orbit-courier-v1.0.0-macos-universal.zip",
+                "size": 1469878
+              },
+              {
+                "name": "orbit-courier-v1.0.0-web.zip",
+                "url": "https://github.com/gigantic536wall/orbit-courier/releases/download/v1.0.0/orbit-courier-v1.0.0-web.zip",
+                "size": 192603
+              },
+              {
+                "name": "orbit-courier-v1.0.0-windows-x64.zip",
+                "url": "https://github.com/gigantic536wall/orbit-courier/releases/download/v1.0.0/orbit-courier-v1.0.0-windows-x64.zip",
+                "size": 481424
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
-        "Web"
+        "Web",
+        "PC"
       ],
       "category_evidence": {
         "browser_terms": [
@@ -775,12 +1712,38 @@
           "webassembly"
         ],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "orbit-courier-v1.0.0-linux-x64.tar.gz",
+          "url": "https://github.com/gigantic536wall/orbit-courier/releases/download/v1.0.0/orbit-courier-v1.0.0-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "orbit-courier-v1.0.0-macos-universal.zip",
+          "url": "https://github.com/gigantic536wall/orbit-courier/releases/download/v1.0.0/orbit-courier-v1.0.0-macos-universal.zip",
+          "type": "archive"
+        },
+        {
+          "name": "orbit-courier-v1.0.0-web.zip",
+          "url": "https://github.com/gigantic536wall/orbit-courier/releases/download/v1.0.0/orbit-courier-v1.0.0-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "orbit-courier-v1.0.0-windows-x64.zip",
+          "url": "https://github.com/gigantic536wall/orbit-courier/releases/download/v1.0.0/orbit-courier-v1.0.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "possible",
