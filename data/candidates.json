@@ -1,7 +1,223 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-20T01:44:25.907430+00:00",
+  "last_updated": "2026-11-20T13:55:36.957896+00:00",
   "candidates": [
+    {
+      "title": "chayuto/generals-rust",
+      "url": "https://github.com/chayuto/generals-rust",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-20T12:41:28Z",
+      "summary": "Bit-exact deterministic Rust port of the Zero Hour (SAGE) 30 Hz game logic engine across macOS, Linux, and Windows, verified frame-for-frame via replay XferCRC. Topics: command-and-conquer, cpp-to-rust, cross-platform, deterministic-simulation, ffi, game-engine, gamedev, rts, rust, sage-engine, source-port, zero-hour",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-20T13:55:21.346855+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source-port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Caliko06/need-for-speed-underground-browser",
+      "url": "https://github.com/Caliko06/need-for-speed-underground-browser",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-20T05:41:59Z",
+      "summary": "Play Need for Speed Underground (2003) online in your browser at nfsu.cc: free, no download, no emulator. The PC game recompiled from x86 to WebAssembly. Topics: browser-game, decompilation, directx9, emscripten, game-port, game-preservation, ghidra, need-for-speed, need-for-speed-underground, nfs-underground, nfsu, racing-game, recompilation, retro-gaming, reverse-engineering, static-recompilation, wasm, webassembly, webgpu, x86",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-20T13:55:12.950249+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, wasm"
+      ]
+    },
+    {
+      "title": "iams1am/LUMENVALLEY",
+      "url": "https://github.com/iams1am/LUMENVALLEY",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-20T05:56:00Z",
+      "summary": "A painterly 2D platformer about a wayfarer carrying light through five worlds. Python + pygame-ce, playable in the browser. Topics: browser-game, game, indie-game, platformer, procedural-art, pygame, pygame-ce, pygbag, python, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-20T13:55:12.949217+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, playable, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "ford442/bolts_and_volts",
+      "url": "https://github.com/ford442/bolts_and_volts",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-20T07:25:16Z",
+      "summary": "A 2D platformer adventure game that runs entirely in the browser, powered by C++ compiled to WebAssembly. Topics: platformer, side-scroller",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-20T13:55:12.947349+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "chiengyn/aoe-wasm",
+      "url": "https://github.com/chiengyn/aoe-wasm",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-20T10:07:40Z",
+      "summary": "Age of Empires: Rise of Rome ported to WebAssembly, running the recovered game code in the browser",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-20T13:55:12.944831+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly, wasm"
+      ]
+    },
+    {
+      "title": "ProPaint/openairstrike",
+      "url": "https://github.com/ProPaint/openairstrike",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-20T10:50:49Z",
+      "summary": "A new engine for AirStrike 3D, AirStrike 2 and Gulf Thunder (DivoGames) on desktop, Android and the web. No game data included. Topics: airstrike, airstrike-2, airstrike-3d, android, browser-game, divogames, emscripten, game-engine, gulf-thunder, helicopter-shooter, opengl-es, reimplementation, sdl2, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-20T13:55:12.944034+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "desktop"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: reimplementation",
+        "Есть игровые/платформенные признаки: game, webassembly, android"
+      ]
+    },
     {
       "title": "deivid22srk/nxnative-android",
       "url": "https://github.com/deivid22srk/nxnative-android",
@@ -11,7 +227,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-20T01:44:18.155041+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-20T13:55:26.783752+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Android port of the nxnative Switch-to-native runtime (bring your own game files)",
+        "latest_release_url": "https://github.com/deivid22srk/nxnative-android/releases/tag/Log",
+        "latest_release_name": "Log",
+        "release_assets": [
+          {
+            "name": "nx2a-0100F7E00C70E000.zip",
+            "url": "https://github.com/deivid22srk/nxnative-android/releases/download/Log/nx2a-0100F7E00C70E000.zip",
+            "size": 4231
+          }
+        ],
+        "releases": [
+          {
+            "name": "Log",
+            "url": "https://github.com/deivid22srk/nxnative-android/releases/tag/Log",
+            "published_at": "2026-11-19T17:34:19Z",
+            "assets": [
+              {
+                "name": "nx2a-0100F7E00C70E000.zip",
+                "url": "https://github.com/deivid22srk/nxnative-android/releases/download/Log/nx2a-0100F7E00C70E000.zip",
+                "size": 4231
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -25,9 +279,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "nx2a-0100F7E00C70E000.zip",
+          "url": "https://github.com/deivid22srk/nxnative-android/releases/download/Log/nx2a-0100F7E00C70E000.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -45,7 +306,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-20T01:44:18.154329+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-20T13:55:28.165681+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A port of Prehistoric Tribes J2ME game, running natively on Android",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -78,7 +356,281 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-20T01:44:18.153478+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-20T13:55:29.468843+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "An unofficial, open-source mobile port of Angband with touch controls, portrait layout, and offline play.",
+        "latest_release_url": "https://github.com/eugene-lesnov/pocketangband/releases/tag/0.5.3",
+        "latest_release_name": "0.5.3",
+        "release_assets": [
+          {
+            "name": "pocketangband-source.tar.gz",
+            "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.3/pocketangband-source.tar.gz",
+            "size": 7279730
+          },
+          {
+            "name": "pocketangband-web.zip",
+            "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.3/pocketangband-web.zip",
+            "size": 6113598
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.3/SHA256SUMS",
+            "size": 182
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.5.3",
+            "url": "https://github.com/eugene-lesnov/pocketangband/releases/tag/0.5.3",
+            "published_at": "2026-11-20T00:09:26Z",
+            "assets": [
+              {
+                "name": "pocketangband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.3/pocketangband-source.tar.gz",
+                "size": 7279730
+              },
+              {
+                "name": "pocketangband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.3/pocketangband-web.zip",
+                "size": 6113598
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.3/SHA256SUMS",
+                "size": 182
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.5.2",
+            "url": "https://github.com/eugene-lesnov/pocketangband/releases/tag/0.5.2",
+            "published_at": "2026-11-20T00:03:48Z",
+            "assets": [
+              {
+                "name": "pocketangband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.2/pocketangband-source.tar.gz",
+                "size": 7279701
+              },
+              {
+                "name": "pocketangband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.2/pocketangband-web.zip",
+                "size": 6113520
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.2/SHA256SUMS",
+                "size": 182
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.5.1",
+            "url": "https://github.com/eugene-lesnov/pocketangband/releases/tag/0.5.1",
+            "published_at": "2026-11-19T16:53:17Z",
+            "assets": [
+              {
+                "name": "pocketangband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.1/pocketangband-source.tar.gz",
+                "size": 7269391
+              },
+              {
+                "name": "pocketangband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.1/pocketangband-web.zip",
+                "size": 6104550
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.1/SHA256SUMS",
+                "size": 182
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.5.0",
+            "url": "https://github.com/eugene-lesnov/pocketangband/releases/tag/0.5.0",
+            "published_at": "2026-11-19T15:09:26Z",
+            "assets": [
+              {
+                "name": "pocketangband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.0/pocketangband-source.tar.gz",
+                "size": 7258336
+              },
+              {
+                "name": "pocketangband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.0/pocketangband-web.zip",
+                "size": 6116497
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.0/SHA256SUMS",
+                "size": 182
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.4.2",
+            "url": "https://github.com/eugene-lesnov/pocketangband/releases/tag/0.4.2",
+            "published_at": "2026-11-19T00:47:39Z",
+            "assets": [
+              {
+                "name": "pocketband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.2/pocketband-source.tar.gz",
+                "size": 7258107
+              },
+              {
+                "name": "pocketband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.2/pocketband-web.zip",
+                "size": 6116553
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.2/SHA256SUMS",
+                "size": 176
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.4.1",
+            "url": "https://github.com/eugene-lesnov/pocketangband/releases/tag/0.4.1",
+            "published_at": "2026-11-18T23:55:27Z",
+            "assets": [
+              {
+                "name": "pocketband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.1/pocketband-source.tar.gz",
+                "size": 7256949
+              },
+              {
+                "name": "pocketband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.1/pocketband-web.zip",
+                "size": 6115054
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.1/SHA256SUMS",
+                "size": 176
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.4.0",
+            "url": "https://github.com/eugene-lesnov/pocketangband/releases/tag/0.4.0",
+            "published_at": "2026-11-18T23:45:59Z",
+            "assets": [
+              {
+                "name": "pocketband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.0/pocketband-source.tar.gz",
+                "size": 7256999
+              },
+              {
+                "name": "pocketband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.0/pocketband-web.zip",
+                "size": 6115129
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.0/SHA256SUMS",
+                "size": 176
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.3.18",
+            "url": "https://github.com/eugene-lesnov/pocketangband/releases/tag/0.3.18",
+            "published_at": "2026-11-18T12:36:48Z",
+            "assets": [
+              {
+                "name": "pocketband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.18/pocketband-source.tar.gz",
+                "size": 7241154
+              },
+              {
+                "name": "pocketband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.18/pocketband-web.zip",
+                "size": 6110357
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.18/SHA256SUMS",
+                "size": 176
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.3.17",
+            "url": "https://github.com/eugene-lesnov/pocketangband/releases/tag/0.3.17",
+            "published_at": "2026-11-18T12:14:17Z",
+            "assets": [
+              {
+                "name": "pocketband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.17/pocketband-source.tar.gz",
+                "size": 7241110
+              },
+              {
+                "name": "pocketband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.17/pocketband-web.zip",
+                "size": 6110280
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.17/SHA256SUMS",
+                "size": 176
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.3.16",
+            "url": "https://github.com/eugene-lesnov/pocketangband/releases/tag/0.3.16",
+            "published_at": "2026-11-18T10:33:00Z",
+            "assets": [
+              {
+                "name": "pocketband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.16/pocketband-source.tar.gz",
+                "size": 7241065
+              },
+              {
+                "name": "pocketband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.16/pocketband-web.zip",
+                "size": 6110121
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.16/SHA256SUMS",
+                "size": 176
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -91,9 +643,161 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "pocketangband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.3/pocketangband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketangband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.3/pocketangband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.3/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketangband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.2/pocketangband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketangband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.2/pocketangband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketangband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.1/pocketangband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketangband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.1/pocketangband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketangband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.0/pocketangband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketangband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.0/pocketangband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.5.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.2/pocketband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.2/pocketband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.1/pocketband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.1/pocketband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.0/pocketband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.0/pocketband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.4.0/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.18/pocketband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.18/pocketband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.18/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.17/pocketband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.17/pocketband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.17/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.16/pocketband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.16/pocketband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketangband/releases/download/0.3.16/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 8,
       "relevance_status": "promising",
@@ -111,7 +815,95 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-20T01:44:16.173911+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-20T13:55:30.903944+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A native Windows, Linux and macOS port of Grand Theft Auto: Liberty City Stories (PS2, USA), made by recompiling the game's PS2 executable into C++. Bring your own disc.",
+        "latest_release_url": "https://github.com/emptystill/gta-lcs-recomp/releases/tag/v0.1.0",
+        "latest_release_name": "GTA Liberty City Stories Launcher v0.1.0",
+        "release_assets": [
+          {
+            "name": "LCS-Recomp-0.1.0-macos-arm64.dmg",
+            "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-macos-arm64.dmg",
+            "size": 47656048
+          },
+          {
+            "name": "LCS-Recomp-0.1.0-macos-arm64.dmg.sha256",
+            "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-macos-arm64.dmg.sha256",
+            "size": 99
+          },
+          {
+            "name": "LCS-Recomp-0.1.0-windows.zip",
+            "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-windows.zip",
+            "size": 85682017
+          },
+          {
+            "name": "LCS-Recomp-0.1.0-windows.zip.sha256",
+            "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-windows.zip.sha256",
+            "size": 96
+          },
+          {
+            "name": "LCS-Recomp-0.1.0-x86_64.AppImage",
+            "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-x86_64.AppImage",
+            "size": 39119352
+          },
+          {
+            "name": "LCS-Recomp-0.1.0-x86_64.AppImage.sha256",
+            "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-x86_64.AppImage.sha256",
+            "size": 99
+          }
+        ],
+        "releases": [
+          {
+            "name": "GTA Liberty City Stories Launcher v0.1.0",
+            "url": "https://github.com/emptystill/gta-lcs-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-19T17:35:04Z",
+            "assets": [
+              {
+                "name": "LCS-Recomp-0.1.0-macos-arm64.dmg",
+                "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-macos-arm64.dmg",
+                "size": 47656048
+              },
+              {
+                "name": "LCS-Recomp-0.1.0-macos-arm64.dmg.sha256",
+                "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-macos-arm64.dmg.sha256",
+                "size": 99
+              },
+              {
+                "name": "LCS-Recomp-0.1.0-windows.zip",
+                "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-windows.zip",
+                "size": 85682017
+              },
+              {
+                "name": "LCS-Recomp-0.1.0-windows.zip.sha256",
+                "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-windows.zip.sha256",
+                "size": 96
+              },
+              {
+                "name": "LCS-Recomp-0.1.0-x86_64.AppImage",
+                "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-x86_64.AppImage",
+                "size": 39119352
+              },
+              {
+                "name": "LCS-Recomp-0.1.0-x86_64.AppImage.sha256",
+                "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-x86_64.AppImage.sha256",
+                "size": 99
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -125,9 +917,41 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "LCS-Recomp-0.1.0-macos-arm64.dmg",
+          "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-macos-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LCS-Recomp-0.1.0-macos-arm64.dmg.sha256",
+          "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-macos-arm64.dmg.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "LCS-Recomp-0.1.0-windows.zip",
+          "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "LCS-Recomp-0.1.0-windows.zip.sha256",
+          "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-windows.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "LCS-Recomp-0.1.0-x86_64.AppImage",
+          "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "LCS-Recomp-0.1.0-x86_64.AppImage.sha256",
+          "url": "https://github.com/emptystill/gta-lcs-recomp/releases/download/v0.1.0/LCS-Recomp-0.1.0-x86_64.AppImage.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -145,7 +969,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-20T01:44:12.288693+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-20T13:55:32.364189+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": false,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub вернул 404. Проект не удаляем; проверку нужно повторить."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -178,7 +1018,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-20T01:44:12.287929+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-20T13:55:32.998703+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of NieR (Xbox 360) into a native Windows port, with Direct3D 12 rendering, high frame rates, FSR upscaling and Steam Deck support. Requires your own copy of the game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -211,7 +1068,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-20T01:44:12.287339+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-20T13:55:34.303703+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Mario Kart Wii as a buildAR engine, over WiiCompiled's static recompilation of the player's own disc (no game data here)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -238,7 +1112,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-20T01:44:12.286798+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-20T13:55:35.614785+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial standalone Meta Quest 3 VR port of BLACK (2006), built on a static recompilation of the original Xbox game. Bring your own game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
