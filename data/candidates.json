@@ -1,7 +1,324 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-19T14:15:10.455109+00:00",
+  "last_updated": "2026-11-20T01:44:25.907430+00:00",
   "candidates": [
+    {
+      "title": "deivid22srk/nxnative-android",
+      "url": "https://github.com/deivid22srk/nxnative-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-19T21:44:30Z",
+      "summary": "Android port of the nxnative Switch-to-native runtime (bring your own game files)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-20T01:44:18.155041+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Keitaro0104/blueberry-prehistribes-android",
+      "url": "https://github.com/Keitaro0104/blueberry-prehistribes-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-20T00:52:31Z",
+      "summary": "A port of Prehistoric Tribes J2ME game, running natively on Android",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-20T01:44:18.154329+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "eugene-lesnov/pocketangband",
+      "url": "https://github.com/eugene-lesnov/pocketangband",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-20T00:08:17Z",
+      "summary": "An unofficial, open-source mobile port of Angband with touch controls, portrait layout, and offline play. Topics: android, angband, game, ios, pwa, roguelike",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-20T01:44:18.153478+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "emptystill/gta-lcs-recomp",
+      "url": "https://github.com/emptystill/gta-lcs-recomp",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-19T17:34:29Z",
+      "summary": "A native Windows, Linux and macOS port of Grand Theft Auto: Liberty City Stories (PS2, USA), made by recompiling the game's PS2 executable into C++. Bring your own disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-20T01:44:16.173911+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "maxi000q/DreamingSaraRecomp",
+      "url": "https://github.com/maxi000q/DreamingSaraRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-19T23:14:21Z",
+      "summary": "Static recompilation runtime for PS5 Dreaming Sara (PPSA02929) — x86-64 eboot AOT-translated to native ARM64, Android app. Users supply their own legally-obtained decrypted dump; no game data is bundled (GPL-2.0-only).",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-20T01:44:12.288693+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "techman771/nier-recomp",
+      "url": "https://github.com/techman771/nier-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-19T23:41:31Z",
+      "summary": "Static recompilation of NieR (Xbox 360) into a native Windows port, with Direct3D 12 rendering, high frame rates, FSR upscaling and Steam Deck support. Requires your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-20T01:44:12.287929+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "rhythmerc/mkw-headless",
+      "url": "https://github.com/rhythmerc/mkw-headless",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-19T23:54:20Z",
+      "summary": "Mario Kart Wii as a buildAR engine, over WiiCompiled's static recompilation of the player's own disc (no game data here)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-20T01:44:12.287339+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "KungFuKennyOG/black-vr-quest",
+      "url": "https://github.com/KungFuKennyOG/black-vr-quest",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-20T00:19:54Z",
+      "summary": "Unofficial standalone Meta Quest 3 VR port of BLACK (2006), built on a static recompilation of the original Xbox game. Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-20T01:44:12.286798+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "ARandomFromFan/Afterglow",
+      "url": "https://github.com/ARandomFromFan/Afterglow",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-20T00:41:32Z",
+      "summary": "Native PC port of The Duskbloods by static recompilation. Linux first, Windows planned. Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-20T01:44:12.286235+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "SlickAmogus/GTAAdvanceRecomp",
+      "url": "https://github.com/SlickAmogus/GTAAdvanceRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-20T01:13:54Z",
+      "summary": "Grand Theft Auto Advance (GBA) static recompilation for PC using gbarecomp, with modern controls. Bring your own ROM and BIOS; no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-20T01:44:12.285650+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom"
+      ]
+    },
     {
       "title": "IamWilmar/mhs2-recomp",
       "url": "https://github.com/IamWilmar/mhs2-recomp",
@@ -11,7 +328,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-19T14:14:54.315327+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-20T01:44:21.535363+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +378,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-19T14:14:54.313855+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-20T01:44:22.081585+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -81,7 +430,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-19T14:14:54.313347+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-20T01:44:22.628913+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -114,7 +479,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-19T14:14:54.312186+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-20T01:44:23.173261+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -148,7 +529,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-19T14:14:54.310674+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-20T01:44:23.719751+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -182,7 +579,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-19T14:14:54.309983+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-20T01:44:24.267740+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -216,7 +629,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-19T14:14:54.309440+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-20T01:44:24.815019+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -249,7 +678,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-19T14:14:47.964012+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-20T01:44:25.361053+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
