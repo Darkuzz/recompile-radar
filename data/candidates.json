@@ -1,7 +1,246 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-21T01:18:04.976896+00:00",
+  "last_updated": "2026-11-21T13:20:01.926940+00:00",
   "candidates": [
+    {
+      "title": "Jaiden56YT/NSMBWRecomp",
+      "url": "https://github.com/Jaiden56YT/NSMBWRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-21T09:47:32Z",
+      "summary": "New Super Mario Bros. Wii static recompilation: Mac/Windows ports, online play, mod builds. No game data: bring your own disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T13:19:46.627275+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "nacholuver1/Blitz-TheLeague-Recomp",
+      "url": "https://github.com/nacholuver1/Blitz-TheLeague-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-21T12:26:29Z",
+      "summary": "Native Windows & Linux port of Blitz: The League (Xbox 360) via static recompilation with the ReXGlue SDK. No emulator, no game data included: bring your own disc dump. Topics: blitz-the-league, native-port, recomp, recompilation, rexglue, static-recompilation, xbox360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T13:19:46.626538+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Qilin1066/PunchOutWii--QilinRecomp",
+      "url": "https://github.com/Qilin1066/PunchOutWii--QilinRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-21T12:56:40Z",
+      "summary": "Static recompilation of Punch-Out!! (Wii, 2009) to portable C++23 with Vulkan 1.3, for Windows, Linux and macOS. No game data included. Topics: cpp23, game-preservation, recompilation, static-recompilation, vulkan, wii",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T13:19:46.625712+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Qilin1066/RhythmHeavenFever--QilinRecomp",
+      "url": "https://github.com/Qilin1066/RhythmHeavenFever--QilinRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-21T13:02:41Z",
+      "summary": "Static recompilation of Beat the Beat: Rhythm Paradise (Wii, PAL) to portable C++23 with Vulkan 1.3, for Windows, Linux and macOS. No game data included. Topics: cpp23, game-preservation, recompilation, static-recompilation, vulkan, wii",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T13:19:46.624904+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Qilin1066/GBTGhoulies--QilinRecomp",
+      "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-21T13:05:29Z",
+      "summary": "Static recompilation of Grabbed by the Ghoulies (original Xbox, 2003) to portable C++23 with Vulkan 1.3, for Windows, Linux and macOS. No game data included. Topics: cpp23, game-preservation, recompilation, static-recompilation, vulkan, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T13:19:46.624069+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Qilin1066/ApbArcade--QilinRecomp",
+      "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-21T13:15:47Z",
+      "summary": "Static recompilation of APB - All Points Bulletin (Atari Games, 1987 arcade) to portable C++23 with Vulkan 1.3, for Windows, Linux and macOS. No game data included. Topics: arcade, cpp23, game-preservation, recompilation, static-recompilation, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T13:19:46.623195+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "joyeechuah/Port-Meridien",
+      "url": "https://github.com/joyeechuah/Port-Meridien",
+      "source_name": "GitHub: WebGL ports",
+      "published": "2026-11-21T13:07:40Z",
+      "summary": "🏎️ Race the coastal roads, explore Old Quay on foot, or take a boat across the harbour. 🌊 Port Meridien is a 3D open-world browser game built with Three.js. Choose your outfit, take delivery jobs, and discover waterfront landmarks between races. 🚨 Draw police attention and your free ride can turn into a chase. Topics: 3d-game, boating, browser-game, driving-game, javascript, mobile-game, open-world, racing-game, threejs, webgl",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T13:19:44.730330+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webgl"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webgl",
+        "Источник специализируется на портах; требуется проверить сам проект",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "qzj112223/TGAAC-Android",
       "url": "https://github.com/qzj112223/TGAAC-Android",
@@ -11,7 +250,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-21T01:17:57.190887+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-21T13:19:50.461185+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "The Great Ace Attorney Chronicles 1&2 — Android native port build (APK only, no game data)",
+        "latest_release_url": "https://github.com/qzj112223/TGAAC-Android/releases/tag/v1.0.0",
+        "latest_release_name": "v1.0.0 — APK",
+        "release_assets": [
+          {
+            "name": "TheGreatAceAttorneyChronicles.apk",
+            "url": "https://github.com/qzj112223/TGAAC-Android/releases/download/v1.0.0/TheGreatAceAttorneyChronicles.apk",
+            "size": 28978777
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.0.0 — APK",
+            "url": "https://github.com/qzj112223/TGAAC-Android/releases/tag/v1.0.0",
+            "published_at": "2026-11-20T14:46:17Z",
+            "assets": [
+              {
+                "name": "TheGreatAceAttorneyChronicles.apk",
+                "url": "https://github.com/qzj112223/TGAAC-Android/releases/download/v1.0.0/TheGreatAceAttorneyChronicles.apk",
+                "size": 28978777
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -24,9 +301,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "TheGreatAceAttorneyChronicles.apk",
+          "url": "https://github.com/qzj112223/TGAAC-Android/releases/download/v1.0.0/TheGreatAceAttorneyChronicles.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -44,7 +328,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-21T01:17:57.190318+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-21T13:19:51.875734+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial Windows and Android ports of Spider-Man 2 (original Xbox, 2004), statically recompiled. Bring your own game; no game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -82,7 +383,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-21T01:17:57.189713+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-21T13:19:53.294048+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Android port of Stronghold Crusader. A project to bring the classic PC strategy game to Android devices with touchscreen controls and APK support.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -116,7 +434,87 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-21T01:17:57.187725+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-21T13:19:54.679339+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A native port of SCP: Containment Breach for Android and standalone Meta Quest 3 VR, built using 100% original game files and assets. This is NOT a remake, recreation, or fan-made reimagining, but a port of the original game, preserving its authentic gameplay, mechanics, atmosphere, and content.",
+        "latest_release_url": "https://github.com/lauti8483/SCP-CONTAINMENT-BREACH-VR-STANDALONE-ANDROID/releases/tag/VR1",
+        "latest_release_name": "SCP CONTAINMENT BREACH: VR STANDALONE 2.6",
+        "release_assets": [
+          {
+            "name": "scp-cb-quest3-vr-2.6.apk",
+            "url": "https://github.com/lauti8483/SCP-CONTAINMENT-BREACH-VR-STANDALONE-ANDROID/releases/download/VR1/scp-cb-quest3-vr-2.6.apk",
+            "size": 256898505
+          }
+        ],
+        "releases": [
+          {
+            "name": "SCP CONTAINMENT BREACH: VR STANDALONE 2.6",
+            "url": "https://github.com/lauti8483/SCP-CONTAINMENT-BREACH-VR-STANDALONE-ANDROID/releases/tag/VR1",
+            "published_at": "2026-11-21T12:37:45Z",
+            "assets": [
+              {
+                "name": "scp-cb-quest3-vr-2.6.apk",
+                "url": "https://github.com/lauti8483/SCP-CONTAINMENT-BREACH-VR-STANDALONE-ANDROID/releases/download/VR1/scp-cb-quest3-vr-2.6.apk",
+                "size": 256898505
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SCP CONTAINMENT BREACH: VR STANDALONE",
+            "url": "https://github.com/lauti8483/SCP-CONTAINMENT-BREACH-VR-STANDALONE-ANDROID/releases/tag/VR",
+            "published_at": "2026-11-20T23:52:51Z",
+            "assets": [
+              {
+                "name": "scp-cb-quest3-vr-2.5.apk",
+                "url": "https://github.com/lauti8483/SCP-CONTAINMENT-BREACH-VR-STANDALONE-ANDROID/releases/download/VR/scp-cb-quest3-vr-2.5.apk",
+                "size": 256898505
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SCP CONTAINMENT BREACH: ANDROID (NON VR) 0.5",
+            "url": "https://github.com/lauti8483/SCP-CONTAINMENT-BREACH-VR-STANDALONE-ANDROID/releases/tag/ANDROID1",
+            "published_at": "2026-11-21T12:39:01Z",
+            "assets": [
+              {
+                "name": "scp-cb-android-touch-0.5.apk",
+                "url": "https://github.com/lauti8483/SCP-CONTAINMENT-BREACH-VR-STANDALONE-ANDROID/releases/download/ANDROID1/scp-cb-android-touch-0.5.apk",
+                "size": 255137141
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "SCP CONTAINMENT BREACH: ANDROID (NON VR)",
+            "url": "https://github.com/lauti8483/SCP-CONTAINMENT-BREACH-VR-STANDALONE-ANDROID/releases/tag/ANDROID",
+            "published_at": "2026-11-20T23:54:42Z",
+            "assets": [
+              {
+                "name": "scp-cb-android-touch.apk",
+                "url": "https://github.com/lauti8483/SCP-CONTAINMENT-BREACH-VR-STANDALONE-ANDROID/releases/download/ANDROID/scp-cb-android-touch.apk",
+                "size": 255137141
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -129,9 +527,31 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "scp-cb-quest3-vr-2.6.apk",
+          "url": "https://github.com/lauti8483/SCP-CONTAINMENT-BREACH-VR-STANDALONE-ANDROID/releases/download/VR1/scp-cb-quest3-vr-2.6.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "scp-cb-quest3-vr-2.5.apk",
+          "url": "https://github.com/lauti8483/SCP-CONTAINMENT-BREACH-VR-STANDALONE-ANDROID/releases/download/VR/scp-cb-quest3-vr-2.5.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "scp-cb-android-touch-0.5.apk",
+          "url": "https://github.com/lauti8483/SCP-CONTAINMENT-BREACH-VR-STANDALONE-ANDROID/releases/download/ANDROID1/scp-cb-android-touch-0.5.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "scp-cb-android-touch.apk",
+          "url": "https://github.com/lauti8483/SCP-CONTAINMENT-BREACH-VR-STANDALONE-ANDROID/releases/download/ANDROID/scp-cb-android-touch.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -149,7 +569,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-21T01:17:57.186966+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-21T13:19:56.239484+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial port of Titan Souls (Android) to the Nintendo Switch. Requires your own copy of the game.",
+        "latest_release_url": "https://github.com/siiiimooooon/TitanSouls-nx/releases/tag/v1.0.1",
+        "latest_release_name": "v1.0.1",
+        "release_assets": [
+          {
+            "name": "titansouls_nx.nro",
+            "url": "https://github.com/siiiimooooon/TitanSouls-nx/releases/download/v1.0.1/titansouls_nx.nro",
+            "size": 4093526
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.0.1",
+            "url": "https://github.com/siiiimooooon/TitanSouls-nx/releases/tag/v1.0.1",
+            "published_at": "2026-11-21T01:00:22Z",
+            "assets": [
+              {
+                "name": "titansouls_nx.nro",
+                "url": "https://github.com/siiiimooooon/TitanSouls-nx/releases/download/v1.0.1/titansouls_nx.nro",
+                "size": 4093526
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -164,10 +622,17 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "titansouls_nx.nro",
+          "url": "https://github.com/siiiimooooon/TitanSouls-nx/releases/download/v1.0.1/titansouls_nx.nro",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 8,
       "relevance_status": "promising",
@@ -185,7 +650,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-21T01:17:53.460079+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-21T13:19:57.635957+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Source port of Descent to Undermountain (Interplay, 1997). Requires the original game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -212,7 +694,74 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-21T01:17:51.660864+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-21T13:19:58.974782+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Research: static recompilation of the original Xbox Manhunt to Nintendo Switch (no game data included)",
+        "latest_release_url": "https://github.com/marmota94/manhunt1_nx/releases/tag/v1.0.0",
+        "latest_release_name": "Manhunt for Switch v1.0.0",
+        "release_assets": [
+          {
+            "name": "manhunt1-nx-v1.0.0-lgpl-source.zip",
+            "url": "https://github.com/marmota94/manhunt1_nx/releases/download/v1.0.0/manhunt1-nx-v1.0.0-lgpl-source.zip",
+            "size": 93266
+          },
+          {
+            "name": "manhunt1-nx-v1.0.0.zip",
+            "url": "https://github.com/marmota94/manhunt1_nx/releases/download/v1.0.0/manhunt1-nx-v1.0.0.zip",
+            "size": 10426579
+          }
+        ],
+        "releases": [
+          {
+            "name": "Manhunt for Switch v1.0.0",
+            "url": "https://github.com/marmota94/manhunt1_nx/releases/tag/v1.0.0",
+            "published_at": "2026-11-20T21:27:17Z",
+            "assets": [
+              {
+                "name": "manhunt1-nx-v1.0.0-lgpl-source.zip",
+                "url": "https://github.com/marmota94/manhunt1_nx/releases/download/v1.0.0/manhunt1-nx-v1.0.0-lgpl-source.zip",
+                "size": 93266
+              },
+              {
+                "name": "manhunt1-nx-v1.0.0.zip",
+                "url": "https://github.com/marmota94/manhunt1_nx/releases/download/v1.0.0/manhunt1-nx-v1.0.0.zip",
+                "size": 10426579
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Manhunt for Switch v0.3.0",
+            "url": "https://github.com/marmota94/manhunt1_nx/releases/tag/v0.3.0",
+            "published_at": "2026-11-20T21:24:24Z",
+            "assets": [
+              {
+                "name": "manhunt1-nx-v0.3.0-lgpl-source.zip",
+                "url": "https://github.com/marmota94/manhunt1_nx/releases/download/v0.3.0/manhunt1-nx-v0.3.0-lgpl-source.zip",
+                "size": 93266
+              },
+              {
+                "name": "manhunt1-nx-v0.3.0.zip",
+                "url": "https://github.com/marmota94/manhunt1_nx/releases/download/v0.3.0/manhunt1-nx-v0.3.0.zip",
+                "size": 10426588
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -223,9 +772,31 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "manhunt1-nx-v1.0.0-lgpl-source.zip",
+          "url": "https://github.com/marmota94/manhunt1_nx/releases/download/v1.0.0/manhunt1-nx-v1.0.0-lgpl-source.zip",
+          "type": "archive"
+        },
+        {
+          "name": "manhunt1-nx-v1.0.0.zip",
+          "url": "https://github.com/marmota94/manhunt1_nx/releases/download/v1.0.0/manhunt1-nx-v1.0.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "manhunt1-nx-v0.3.0-lgpl-source.zip",
+          "url": "https://github.com/marmota94/manhunt1_nx/releases/download/v0.3.0/manhunt1-nx-v0.3.0-lgpl-source.zip",
+          "type": "archive"
+        },
+        {
+          "name": "manhunt1-nx-v0.3.0.zip",
+          "url": "https://github.com/marmota94/manhunt1_nx/releases/download/v0.3.0/manhunt1-nx-v0.3.0.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 10,
       "relevance_status": "promising",
@@ -243,7 +814,282 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-21T01:17:51.660209+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-21T13:20:00.434503+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Metroid Dread (Switch, 2.1.0) for Windows, Linux and Steam Deck. Bring your own dump: no game files, keys or dumping tools included.",
+        "latest_release_url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/tag/v0.5.10",
+        "latest_release_name": "v0.5.10",
+        "release_assets": [
+          {
+            "name": "clang-0.5.10.zip",
+            "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/clang-0.5.10.zip",
+            "size": 75442720
+          },
+          {
+            "name": "MetroidDread-PC-v0.5.10-Windows-x64.zip",
+            "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/MetroidDread-PC-v0.5.10-Windows-x64.zip",
+            "size": 152183980
+          },
+          {
+            "name": "Metroid_Dread-x86_64.AppImage",
+            "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/Metroid_Dread-x86_64.AppImage",
+            "size": 154692088
+          },
+          {
+            "name": "update-0.5.10.zip",
+            "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/update-0.5.10.zip",
+            "size": 4504947
+          },
+          {
+            "name": "update-linux.txt",
+            "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/update-linux.txt",
+            "size": 216
+          },
+          {
+            "name": "update.txt",
+            "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/update.txt",
+            "size": 408881
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.5.10",
+            "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/tag/v0.5.10",
+            "published_at": "2026-11-19T09:09:34Z",
+            "assets": [
+              {
+                "name": "clang-0.5.10.zip",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/clang-0.5.10.zip",
+                "size": 75442720
+              },
+              {
+                "name": "MetroidDread-PC-v0.5.10-Windows-x64.zip",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/MetroidDread-PC-v0.5.10-Windows-x64.zip",
+                "size": 152183980
+              },
+              {
+                "name": "Metroid_Dread-x86_64.AppImage",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/Metroid_Dread-x86_64.AppImage",
+                "size": 154692088
+              },
+              {
+                "name": "update-0.5.10.zip",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/update-0.5.10.zip",
+                "size": 4504947
+              },
+              {
+                "name": "update-linux.txt",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/update-linux.txt",
+                "size": 216
+              },
+              {
+                "name": "update.txt",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/update.txt",
+                "size": 408881
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.5.9",
+            "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/tag/v0.5.9",
+            "published_at": "2026-11-12T13:04:16Z",
+            "assets": [
+              {
+                "name": "MetroidDread-PC-v0.5.9-Windows-x64.zip",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.9/MetroidDread-PC-v0.5.9-Windows-x64.zip",
+                "size": 152009022
+              },
+              {
+                "name": "Metroid_Dread-x86_64.AppImage",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.9/Metroid_Dread-x86_64.AppImage",
+                "size": 154671608
+              },
+              {
+                "name": "update-0.5.9.zip",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.9/update-0.5.9.zip",
+                "size": 4488964
+              },
+              {
+                "name": "update-linux.txt",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.9/update-linux.txt",
+                "size": 214
+              },
+              {
+                "name": "update.txt",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.9/update.txt",
+                "size": 3377
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "AMD debugging build (AMD Radeon users only)",
+            "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/tag/v0.5.9-amd-test",
+            "published_at": "2026-11-13T03:18:52Z",
+            "assets": [
+              {
+                "name": "Metroid-Dread-AMD-test-x86_64.AppImage",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.9-amd-test/Metroid-Dread-AMD-test-x86_64.AppImage",
+                "size": 3865080
+              },
+              {
+                "name": "Metroid-Dread-AMD-test.exe",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.9-amd-test/Metroid-Dread-AMD-test.exe",
+                "size": 11576299
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.5.0",
+            "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/tag/v0.5.0",
+            "published_at": "2026-10-30T19:06:22Z",
+            "assets": [
+              {
+                "name": "MetroidDread-PC-v0.5.0.zip",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.0/MetroidDread-PC-v0.5.0.zip",
+                "size": 75715063
+              },
+              {
+                "name": "Metroid_Dread-x86_64.AppImage",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.0/Metroid_Dread-x86_64.AppImage",
+                "size": 71866872
+              },
+              {
+                "name": "update-0.5.0.zip",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.0/update-0.5.0.zip",
+                "size": 4282467
+              },
+              {
+                "name": "update-linux.txt",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.0/update-linux.txt",
+                "size": 213
+              },
+              {
+                "name": "update.txt",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.0/update.txt",
+                "size": 2825
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.4.0",
+            "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/tag/v0.4.0",
+            "published_at": "2026-10-24T16:18:21Z",
+            "assets": [
+              {
+                "name": "MetroidDread-PC-v0.4.0.zip",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.4.0/MetroidDread-PC-v0.4.0.zip",
+                "size": 75598950
+              },
+              {
+                "name": "update-0.4.0.zip",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.4.0/update-0.4.0.zip",
+                "size": 4165941
+              },
+              {
+                "name": "update.txt",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.4.0/update.txt",
+                "size": 2825
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.3.1",
+            "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/tag/v0.3.1",
+            "published_at": "2026-10-24T04:54:05Z",
+            "assets": [
+              {
+                "name": "MetroidDread-PC-v0.3.1.zip",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.3.1/MetroidDread-PC-v0.3.1.zip",
+                "size": 75596974
+              },
+              {
+                "name": "update-0.3.1.zip",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.3.1/update-0.3.1.zip",
+                "size": 4160925
+              },
+              {
+                "name": "update.txt",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.3.1/update.txt",
+                "size": 2825
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.3.0",
+            "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/tag/v0.3.0",
+            "published_at": "2026-10-23T21:38:47Z",
+            "assets": [
+              {
+                "name": "MetroidDread-PC-v0.3.0.zip",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.3.0/MetroidDread-PC-v0.3.0.zip",
+                "size": 75596609
+              },
+              {
+                "name": "update-0.3.0.zip",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.3.0/update-0.3.0.zip",
+                "size": 4160389
+              },
+              {
+                "name": "update.txt",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.3.0/update.txt",
+                "size": 2825
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.2.0",
+            "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/tag/v0.2.0",
+            "published_at": "2026-10-23T10:09:43Z",
+            "assets": [
+              {
+                "name": "MetroidDread-PC-v0.2.0.zip",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.2.0/MetroidDread-PC-v0.2.0.zip",
+                "size": 75541307
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Metroid Dread — recompiled for PC v0.1.0 (preview)",
+            "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/tag/v0.1.0",
+            "published_at": "2026-10-22T23:46:03Z",
+            "assets": [
+              {
+                "name": "MetroidDread-PC-v0.1.0.zip",
+                "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.1.0/MetroidDread-PC-v0.1.0.zip",
+                "size": 75455929
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -257,9 +1103,156 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "clang-0.5.10.zip",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/clang-0.5.10.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MetroidDread-PC-v0.5.10-Windows-x64.zip",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/MetroidDread-PC-v0.5.10-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Metroid_Dread-x86_64.AppImage",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/Metroid_Dread-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "update-0.5.10.zip",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/update-0.5.10.zip",
+          "type": "archive"
+        },
+        {
+          "name": "update-linux.txt",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/update-linux.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "update.txt",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/update.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "MetroidDread-PC-v0.5.9-Windows-x64.zip",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.9/MetroidDread-PC-v0.5.9-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Metroid_Dread-x86_64.AppImage",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.9/Metroid_Dread-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "update-0.5.9.zip",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.9/update-0.5.9.zip",
+          "type": "archive"
+        },
+        {
+          "name": "update-linux.txt",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.9/update-linux.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "update.txt",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.9/update.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "Metroid-Dread-AMD-test-x86_64.AppImage",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.9-amd-test/Metroid-Dread-AMD-test-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "Metroid-Dread-AMD-test.exe",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.9-amd-test/Metroid-Dread-AMD-test.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "MetroidDread-PC-v0.5.0.zip",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.0/MetroidDread-PC-v0.5.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Metroid_Dread-x86_64.AppImage",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.0/Metroid_Dread-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "update-0.5.0.zip",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.0/update-0.5.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "update-linux.txt",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.0/update-linux.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "update.txt",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.0/update.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "MetroidDread-PC-v0.4.0.zip",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.4.0/MetroidDread-PC-v0.4.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "update-0.4.0.zip",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.4.0/update-0.4.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "update.txt",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.4.0/update.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "MetroidDread-PC-v0.3.1.zip",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.3.1/MetroidDread-PC-v0.3.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "update-0.3.1.zip",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.3.1/update-0.3.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "update.txt",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.3.1/update.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "MetroidDread-PC-v0.3.0.zip",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.3.0/MetroidDread-PC-v0.3.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "update-0.3.0.zip",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.3.0/update-0.3.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "update.txt",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.3.0/update.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "MetroidDread-PC-v0.2.0.zip",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.2.0/MetroidDread-PC-v0.2.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MetroidDread-PC-v0.1.0.zip",
+          "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.1.0/MetroidDread-PC-v0.1.0.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
