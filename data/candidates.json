@@ -1,7 +1,334 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-20T13:55:36.957896+00:00",
+  "last_updated": "2026-11-21T01:18:04.976896+00:00",
   "candidates": [
+    {
+      "title": "qzj112223/TGAAC-Android",
+      "url": "https://github.com/qzj112223/TGAAC-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-20T16:43:51Z",
+      "summary": "The Great Ace Attorney Chronicles 1&2 — Android native port build (APK only, no game data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T01:17:57.190887+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: native port",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "kivi-man/SpiderMan2-2004-PC-Android",
+      "url": "https://github.com/kivi-man/SpiderMan2-2004-PC-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-20T17:51:58Z",
+      "summary": "Unofficial Windows and Android ports of Spider-Man 2 (original Xbox, 2004), statically recompiled. Bring your own game; no game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T01:17:57.190318+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "saefalasalynbtel198-a11y/stronghold-crusader-android",
+      "url": "https://github.com/saefalasalynbtel198-a11y/stronghold-crusader-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-20T21:47:27Z",
+      "summary": "Android port of Stronghold Crusader. A project to bring the classic PC strategy game to Android devices with touchscreen controls and APK support.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T01:17:57.189713+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "lauti8483/SCP-CONTAINMENT-BREACH-VR-STANDALONE-ANDROID",
+      "url": "https://github.com/lauti8483/SCP-CONTAINMENT-BREACH-VR-STANDALONE-ANDROID",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-20T23:54:42Z",
+      "summary": "A native port of SCP: Containment Breach for Android and standalone Meta Quest 3 VR, built using 100% original game files and assets. This is NOT a remake, recreation, or fan-made reimagining, but a port of the original game, preserving its authentic gameplay, mechanics, atmosphere, and content.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T01:17:57.187725+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, gameplay, original game, android"
+      ]
+    },
+    {
+      "title": "siiiimooooon/TitanSouls-nx",
+      "url": "https://github.com/siiiimooooon/TitanSouls-nx",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-21T01:00:22Z",
+      "summary": "Unofficial port of Titan Souls (Android) to the Nintendo Switch. Requires your own copy of the game. Topics: homebrew, nintendo-switch, so-loader, titan-souls",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T01:17:57.186966+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "vorvek/ASCENT",
+      "url": "https://github.com/vorvek/ASCENT",
+      "source_name": "GitHub: source ports",
+      "published": "2026-11-21T00:41:07Z",
+      "summary": "Source port of Descent to Undermountain (Interplay, 1997). Requires the original game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T01:17:53.460079+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game"
+      ]
+    },
+    {
+      "title": "marmota94/manhunt1_nx",
+      "url": "https://github.com/marmota94/manhunt1_nx",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-20T21:37:03Z",
+      "summary": "Research: static recompilation of the original Xbox Manhunt to Nintendo Switch (no game data included)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T01:17:51.660864+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "yozander2009-stack/Metroid-Dread-Recomp",
+      "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-20T22:15:12Z",
+      "summary": "Static recompilation of Metroid Dread (Switch, 2.1.0) for Windows, Linux and Steam Deck. Bring your own dump: no game files, keys or dumping tools included. Topics: metroid-dread, nintendo-switch, opengl, pc-port, recompilation, static-recompilation, steam-deck, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T01:17:51.660209+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Byloth/ts2-retold",
+      "url": "https://github.com/Byloth/ts2-retold",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-21T01:09:58Z",
+      "summary": "Unofficial fan-made static recompilation of Toy Story 2 (PC, 1999). Bring your own copy of the game: no game code or assets here.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T01:17:51.659473+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "nearbycoder/4th-and-fury",
+      "url": "https://github.com/nearbycoder/4th-and-fury",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-20T21:33:17Z",
+      "summary": "Over-the-top 7-on-7 arcade football for 1-8 players on one screen. Unreal Engine 5 game with a three.js browser port.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-21T01:17:43.376684+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 7,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "chayuto/generals-rust",
       "url": "https://github.com/chayuto/generals-rust",
@@ -11,7 +338,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-20T13:55:21.346855+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-21T01:18:00.592001+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -45,7 +388,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-20T13:55:12.950249+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-21T01:18:01.137816+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -80,7 +439,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-20T13:55:12.949217+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-21T01:18:01.686804+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -115,7 +490,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-20T13:55:12.947349+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-21T01:18:02.234627+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -150,7 +541,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-20T13:55:12.944831+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-21T01:18:02.781794+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -185,7 +592,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-20T13:55:12.944034+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-21T01:18:03.330470+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -1156,7 +1579,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-20T01:44:12.286235+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-21T01:18:03.879700+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -1192,7 +1631,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-20T01:44:12.285650+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-21T01:18:04.428829+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
