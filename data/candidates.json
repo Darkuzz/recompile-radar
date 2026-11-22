@@ -1,7 +1,673 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-21T13:20:01.926940+00:00",
+  "last_updated": "2026-11-22T00:13:38.281434+00:00",
   "candidates": [
+    {
+      "title": "GUPRON98/TheAvengers-Android",
+      "url": "https://github.com/GUPRON98/TheAvengers-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-21T09:00:07Z",
+      "summary": "The Avengers (Gameloft / Samsung S8000) Native Android Port with True Landscape Fullscreen, 28-30 FPS lock, and In-Game Cheat Engine",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:24.198102+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "GUPRON98/SpiderMan-ToxicCity-Android",
+      "url": "https://github.com/GUPRON98/SpiderMan-ToxicCity-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-21T09:00:09Z",
+      "summary": "Spider-Man: Toxic City - Native Android Port with WVGA 800x480 Landscape, 28-30 FPS Lock, Touch Screen & In-Game Cheat Engine",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:24.197270+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "fldlqu/beatoraja-android",
+      "url": "https://github.com/fldlqu/beatoraja-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-21T13:02:30Z",
+      "summary": "Android-only port of beatoraja (BMS rhythm game) with native Material start screen and MPEG-1 BGA playback",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:24.196481+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "neverlless/tsto-nx",
+      "url": "https://github.com/neverlless/tsto-nx",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-21T13:29:25Z",
+      "summary": "Native Nintendo Switch port of The Simpsons: Tapped Out: runs the game's own Android arm64 engine on Horizon, fully offline. Bring your own APK. Topics: homebrew, libnx, nintendo-switch, port, so-loader, switch-homebrew, tapped-out",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:24.195593+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch",
+          "switch port"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "rayishere0/Harvest-Moon-Friends-of-Mineral-Town-Android",
+      "url": "https://github.com/rayishere0/Harvest-Moon-Friends-of-Mineral-Town-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-21T19:28:30Z",
+      "summary": "A recompiled, native port of the famous GBA game known as \"harvest moon: friends of mineral town\" for android.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:24.192866+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Chizuui/Carbon-Android",
+      "url": "https://github.com/Chizuui/Carbon-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-21T23:30:15Z",
+      "summary": "Unofficial native Android port of Need for Speed: Carbon (Xbox). The x86 code is statically recompiled to C++ with XboxXBE-Recomp and built for arm64, with a Vulkan renderer, SDL3, touch/controller/keyboard input, and extended graphics options. No emulator, no game assets included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:24.189102+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Destinity13/TimeSplitters-2-Native-Recomp-Windows-Linux-SteamDeck",
+      "url": "https://github.com/Destinity13/TimeSplitters-2-Native-Recomp-Windows-Linux-SteamDeck",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-21T08:30:21Z",
+      "summary": "Crystal Cut: a native PC port of TimeSplitters 2 (PS2, USA and PAL) with cut content restored from your own disc. Windows, Linux and Steam Deck, 60 FPS, true 16:9, up to 8x resolution, online play. Statically recompiled and checked against PCSX2. No game files included. Topics: 60fps, cpp, direct3d11, linux, native-port, online-multiplayer, pc-port, pcsx2, playstation-2, ps2, ps2recomp, retro-gaming, static-recompilation, steam-deck, timesplitters, timesplitters-2, vulkan, widescreen, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:22.454484+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "nacholuver1/Blitz-TheLeague-II-Recomp",
+      "url": "https://github.com/nacholuver1/Blitz-TheLeague-II-Recomp",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-21T19:05:37Z",
+      "summary": "Native Windows & Linux port of Blitz: The League II (Xbox 360) via static recompilation with the ReXGlue SDK. No emulator, no game data included: bring your own disc dump. Topics: blitz-the-league, native-port, recomp, recompilation, rexglue, static-recompilation, xbox360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:22.452455+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "kcin1107/bioforge-reforged",
+      "url": "https://github.com/kcin1107/bioforge-reforged",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-21T21:53:29Z",
+      "summary": "A faithful native port of BioForge (Origin, 1995) for macOS, with previews for Windows, Linux and the Steam Deck. Bring your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:22.451451+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, native port",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "vorvek/ASCENT-DTU",
+      "url": "https://github.com/vorvek/ASCENT-DTU",
+      "source_name": "GitHub: source ports",
+      "published": "2026-11-21T21:40:46Z",
+      "summary": "Source port of Descent to Undermountain (Interplay, 1997). Requires the original game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:20.631684+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game"
+      ]
+    },
+    {
+      "title": "Benexdrake/Alundra-Recomp",
+      "url": "https://github.com/Benexdrake/Alundra-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-21T21:16:22Z",
+      "summary": "PSX static recompilation of Alundra (EU/DE, SLES-01256) with 16:9 widescreen. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:18.773711+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Benexdrake/BreathOfFire3-Recomp",
+      "url": "https://github.com/Benexdrake/BreathOfFire3-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-21T21:16:24Z",
+      "summary": "PSX static recompilation of Breath of Fire III (EU) with 16:9 widescreen. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:18.772983+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Benexdrake/BreathOfFire4-Recomp",
+      "url": "https://github.com/Benexdrake/BreathOfFire4-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-21T21:16:26Z",
+      "summary": "PSX static recompilation of Breath of Fire IV (EU). No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:18.772289+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Benexdrake/LegendOfDragoon-Recomp",
+      "url": "https://github.com/Benexdrake/LegendOfDragoon-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-21T21:16:28Z",
+      "summary": "PSX static recompilation of Legend of Dragoon (DE) with 16:9 battles. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:18.771584+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "aplaino/darksouls3-mac",
+      "url": "https://github.com/aplaino/darksouls3-mac",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-21T21:39:38Z",
+      "summary": "Dark Souls III running natively on Apple silicon Macs, via static recompilation (x86recomp). No game files included. Topics: apple-silicon, dark-souls, dark-souls-3, macos, metal, reverse-engineering, sdl3, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:18.770705+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "nicobm/otomedius-recomp",
+      "url": "https://github.com/nicobm/otomedius-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-21T22:21:58Z",
+      "summary": "Native Linux x86-64 static recompilation of Konami's 2008 arcade shooter Otomedius: AOT x86→C translation, no emulator or Wine. SDL3 + Flatpak. Bring your own dump; no game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:18.769606+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "djrobson5/Hellmouth-buffy-recomp",
+      "url": "https://github.com/djrobson5/Hellmouth-buffy-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-21T23:14:24Z",
+      "summary": "Buffy the Vampire Slayer (Xbox, 2002) running natively on Apple Silicon Macs, by static recompilation, with 25 built-in achievements. Bring your own disc: no game files included. Topics: apple-silicon, buffy-the-vampire-slayer, macos, moltenvk, static-recompilation, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:18.768437+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "IvandersonBordin/handkerchief-vita",
+      "url": "https://github.com/IvandersonBordin/handkerchief-vita",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-21T23:52:04Z",
+      "summary": "Unofficial PS Vita port of the PC game Handkerchief (1999-2000) by full static recompilation. Bring your own game files. Topics: homebrew, ps-vita, static-recompilation, vitasdk",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:18.767390+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "ps vita"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Txukie/joyride",
+      "url": "https://github.com/Txukie/joyride",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-21T23:47:35Z",
+      "summary": "Static recompilation of the 1997 Windows Grand Theft Auto to portable C++ (bring your own game files)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:18.766551+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "Hrhcoolshegs/beatbricks-live",
+      "url": "https://github.com/Hrhcoolshegs/beatbricks-live",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-21T18:33:52Z",
+      "summary": "A rhythm dance game where NVIDIA MotionBricks generates every dance move live in the browser. Topics: browser-game, character-animation, dance, generative-ai, javascript, machine-learning, motion-generation, nvidia, onnx, onnxruntime, rhythm-game, skeletal-animation, threejs, webassembly, webgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:15.194156+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "Louistuis/webassembly-edition",
+      "url": "https://github.com/Louistuis/webassembly-edition",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-21T22:53:22Z",
+      "summary": "Minecraft WebSim WASM Edition: the full block game compiled to WebAssembly and WebGPU, playable in a browser tab. Built on the open-source Horizon client. No Mojang files included. Topics: browser-game, rust, wasm, webassembly, webgpu, websim",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:15.187210+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, playable, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "Jaiden56YT/NSMBWRecomp",
       "url": "https://github.com/Jaiden56YT/NSMBWRecomp",
@@ -11,7 +677,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-21T13:19:46.627275+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-22T00:13:27.834070+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "New Super Mario Bros. Wii static recompilation: Mac/Windows ports, online play, mod builds. No game data: bring your own disc.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -44,7 +727,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-21T13:19:46.626538+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-22T00:13:29.130620+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows & Linux port of Blitz: The League (Xbox 360) via static recompilation with the ReXGlue SDK. No emulator, no game data included: bring your own disc dump.",
+        "latest_release_url": "https://github.com/nacholuver1/Blitz-TheLeague-Recomp/releases/tag/v1.0.0",
+        "latest_release_name": "Blitz: The League Recomp v1.0.0",
+        "release_assets": [
+          {
+            "name": "BlitzTheLeague-1.0.0-linux-x64.tar.gz",
+            "url": "https://github.com/nacholuver1/Blitz-TheLeague-Recomp/releases/download/v1.0.0/BlitzTheLeague-1.0.0-linux-x64.tar.gz",
+            "size": 20564003
+          },
+          {
+            "name": "BlitzTheLeague-1.0.0-win64.zip",
+            "url": "https://github.com/nacholuver1/Blitz-TheLeague-Recomp/releases/download/v1.0.0/BlitzTheLeague-1.0.0-win64.zip",
+            "size": 18028634
+          }
+        ],
+        "releases": [
+          {
+            "name": "Blitz: The League Recomp v1.0.0",
+            "url": "https://github.com/nacholuver1/Blitz-TheLeague-Recomp/releases/tag/v1.0.0",
+            "published_at": "2026-11-21T12:16:09Z",
+            "assets": [
+              {
+                "name": "BlitzTheLeague-1.0.0-linux-x64.tar.gz",
+                "url": "https://github.com/nacholuver1/Blitz-TheLeague-Recomp/releases/download/v1.0.0/BlitzTheLeague-1.0.0-linux-x64.tar.gz",
+                "size": 20564003
+              },
+              {
+                "name": "BlitzTheLeague-1.0.0-win64.zip",
+                "url": "https://github.com/nacholuver1/Blitz-TheLeague-Recomp/releases/download/v1.0.0/BlitzTheLeague-1.0.0-win64.zip",
+                "size": 18028634
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -54,13 +785,26 @@
         "android_terms": [],
         "pc_terms": [
           "windows",
+          "win64",
           "linux"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "BlitzTheLeague-1.0.0-linux-x64.tar.gz",
+          "url": "https://github.com/nacholuver1/Blitz-TheLeague-Recomp/releases/download/v1.0.0/BlitzTheLeague-1.0.0-linux-x64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "BlitzTheLeague-1.0.0-win64.zip",
+          "url": "https://github.com/nacholuver1/Blitz-TheLeague-Recomp/releases/download/v1.0.0/BlitzTheLeague-1.0.0-win64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -78,7 +822,117 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-21T13:19:46.625712+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-22T00:13:30.421859+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Punch-Out!! (Wii, 2009) to portable C++23 with Vulkan 1.3, for Windows, Linux and macOS. No game data included.",
+        "latest_release_url": "https://github.com/Qilin1066/PunchOutWii--QilinRecomp/releases/tag/v0.20.0",
+        "latest_release_name": "v0.20.0: a Windows download that needs nothing installed, as APB's",
+        "release_assets": [
+          {
+            "name": "PunchOut-QilinComp-0.20.0-windows-x64.zip",
+            "url": "https://github.com/Qilin1066/PunchOutWii--QilinRecomp/releases/download/v0.20.0/PunchOut-QilinComp-0.20.0-windows-x64.zip",
+            "size": 81178130
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.20.0: a Windows download that needs nothing installed, as APB's",
+            "url": "https://github.com/Qilin1066/PunchOutWii--QilinRecomp/releases/tag/v0.20.0",
+            "published_at": "2026-11-21T01:56:28Z",
+            "assets": [
+              {
+                "name": "PunchOut-QilinComp-0.20.0-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/PunchOutWii--QilinRecomp/releases/download/v0.20.0/PunchOut-QilinComp-0.20.0-windows-x64.zip",
+                "size": 81178130
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.19.0: whole-disc code audit; two gaps it found, fixed",
+            "url": "https://github.com/Qilin1066/PunchOutWii--QilinRecomp/releases/tag/v0.19.0",
+            "published_at": "2026-11-21T01:56:26Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.18.1: use controllers connected before the start, and say what was found",
+            "url": "https://github.com/Qilin1066/PunchOutWii--QilinRecomp/releases/tag/v0.18.1",
+            "published_at": "2026-11-21T01:56:26Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.18.0: settings menu, picture looks and press-to-bind controls",
+            "url": "https://github.com/Qilin1066/PunchOutWii--QilinRecomp/releases/tag/v0.18.0",
+            "published_at": "2026-11-21T01:56:25Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.17.0: decode and record the GPU's commands on their own thread",
+            "url": "https://github.com/Qilin1066/PunchOutWii--QilinRecomp/releases/tag/v0.17.0",
+            "published_at": "2026-11-21T01:56:24Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.16.0: recorder CPU per fight frame halved (26 -> 13 ms)",
+            "url": "https://github.com/Qilin1066/PunchOutWii--QilinRecomp/releases/tag/v0.16.0",
+            "published_at": "2026-11-21T01:56:23Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.15.0: specialised pixel pipelines; no image churn in fights",
+            "url": "https://github.com/Qilin1066/PunchOutWii--QilinRecomp/releases/tag/v0.15.0",
+            "published_at": "2026-11-21T01:56:22Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.14.0: the first fight",
+            "url": "https://github.com/Qilin1066/PunchOutWii--QilinRecomp/releases/tag/v0.14.0",
+            "published_at": "2026-11-21T01:56:21Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.13.9",
+            "url": "https://github.com/Qilin1066/PunchOutWii--QilinRecomp/releases/tag/v0.13.9",
+            "published_at": "2026-11-21T01:56:20Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.13.8",
+            "url": "https://github.com/Qilin1066/PunchOutWii--QilinRecomp/releases/tag/v0.13.8",
+            "published_at": "2026-11-21T01:56:19Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -92,9 +946,16 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "PunchOut-QilinComp-0.20.0-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/PunchOutWii--QilinRecomp/releases/download/v0.20.0/PunchOut-QilinComp-0.20.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -112,7 +973,105 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-21T13:19:46.624904+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-22T00:13:31.763922+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Beat the Beat: Rhythm Paradise (Wii, PAL) to portable C++23 with Vulkan 1.3, for Windows, Linux and macOS. No game data included.",
+        "latest_release_url": "https://github.com/Qilin1066/RhythmHeavenFever--QilinRecomp/releases/tag/v0.17.0",
+        "latest_release_name": "v0.17.0: less lag and stutter, a new settings menu, the first remix",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "v0.17.0: less lag and stutter, a new settings menu, the first remix",
+            "url": "https://github.com/Qilin1066/RhythmHeavenFever--QilinRecomp/releases/tag/v0.17.0",
+            "published_at": "2026-11-21T01:49:19Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.16.0",
+            "url": "https://github.com/Qilin1066/RhythmHeavenFever--QilinRecomp/releases/tag/v0.16.0",
+            "published_at": "2026-11-21T01:55:01Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.15.0",
+            "url": "https://github.com/Qilin1066/RhythmHeavenFever--QilinRecomp/releases/tag/v0.15.0",
+            "published_at": "2026-11-21T01:55:00Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.14.0",
+            "url": "https://github.com/Qilin1066/RhythmHeavenFever--QilinRecomp/releases/tag/v0.14.0",
+            "published_at": "2026-11-21T01:54:59Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.13.0",
+            "url": "https://github.com/Qilin1066/RhythmHeavenFever--QilinRecomp/releases/tag/v0.13.0",
+            "published_at": "2026-11-21T01:54:58Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.12.0",
+            "url": "https://github.com/Qilin1066/RhythmHeavenFever--QilinRecomp/releases/tag/v0.12.0",
+            "published_at": "2026-11-21T01:54:57Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.11.0",
+            "url": "https://github.com/Qilin1066/RhythmHeavenFever--QilinRecomp/releases/tag/v0.11.0",
+            "published_at": "2026-11-21T01:54:55Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.10.0",
+            "url": "https://github.com/Qilin1066/RhythmHeavenFever--QilinRecomp/releases/tag/v0.10.0",
+            "published_at": "2026-11-21T01:54:53Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.9.0",
+            "url": "https://github.com/Qilin1066/RhythmHeavenFever--QilinRecomp/releases/tag/v0.9.0",
+            "published_at": "2026-11-21T01:54:52Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.8.0",
+            "url": "https://github.com/Qilin1066/RhythmHeavenFever--QilinRecomp/releases/tag/v0.8.0",
+            "published_at": "2026-11-21T01:54:51Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -146,7 +1105,165 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-21T13:19:46.624069+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-22T00:13:33.139572+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Grabbed by the Ghoulies (original Xbox, 2003) to portable C++23 with Vulkan 1.3, for Windows, Linux and macOS. No game data included.",
+        "latest_release_url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/tag/v0.40.2",
+        "latest_release_name": "v0.40.2",
+        "release_assets": [
+          {
+            "name": "GBTGhoulies-QilinRecomp-0.40.2-windows-x64.zip",
+            "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.40.2/GBTGhoulies-QilinRecomp-0.40.2-windows-x64.zip",
+            "size": 80872115
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.40.2",
+            "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/tag/v0.40.2",
+            "published_at": "2026-11-21T01:58:07Z",
+            "assets": [
+              {
+                "name": "GBTGhoulies-QilinRecomp-0.40.2-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.40.2/GBTGhoulies-QilinRecomp-0.40.2-windows-x64.zip",
+                "size": 80872115
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.40.1",
+            "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/tag/v0.40.1",
+            "published_at": "2026-11-21T01:58:06Z",
+            "assets": [
+              {
+                "name": "GBTGhoulies-QilinRecomp-0.40.1-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.40.1/GBTGhoulies-QilinRecomp-0.40.1-windows-x64.zip",
+                "size": 80870287
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.40.0",
+            "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/tag/v0.40.0",
+            "published_at": "2026-11-21T01:58:04Z",
+            "assets": [
+              {
+                "name": "GBTGhoulies-QilinRecomp-0.40.0-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.40.0/GBTGhoulies-QilinRecomp-0.40.0-windows-x64.zip",
+                "size": 80862082
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.39.1",
+            "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/tag/v0.39.1",
+            "published_at": "2026-11-21T01:58:02Z",
+            "assets": [
+              {
+                "name": "GBTGhoulies-QilinRecomp-0.39.1-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.39.1/GBTGhoulies-QilinRecomp-0.39.1-windows-x64.zip",
+                "size": 80856771
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.39.0",
+            "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/tag/v0.39.0",
+            "published_at": "2026-11-21T01:58:01Z",
+            "assets": [
+              {
+                "name": "GBTGhoulies-QilinRecomp-0.39.0-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.39.0/GBTGhoulies-QilinRecomp-0.39.0-windows-x64.zip",
+                "size": 80852729
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.38.0",
+            "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/tag/v0.38.0",
+            "published_at": "2026-11-21T01:57:59Z",
+            "assets": [
+              {
+                "name": "GBTGhoulies-QilinRecomp-0.38.0-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.38.0/GBTGhoulies-QilinRecomp-0.38.0-windows-x64.zip",
+                "size": 80789736
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.37.0",
+            "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/tag/v0.37.0",
+            "published_at": "2026-11-21T01:57:57Z",
+            "assets": [
+              {
+                "name": "GBTGhoulies-QilinRecomp-0.37.0-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.37.0/GBTGhoulies-QilinRecomp-0.37.0-windows-x64.zip",
+                "size": 80763986
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.36.0",
+            "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/tag/v0.36.0",
+            "published_at": "2026-11-21T01:57:56Z",
+            "assets": [
+              {
+                "name": "Ghoulies-QilinComp-0.36.0-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.36.0/Ghoulies-QilinComp-0.36.0-windows-x64.zip",
+                "size": 80706522
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.35.0",
+            "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/tag/v0.35.0",
+            "published_at": "2026-11-21T01:57:55Z",
+            "assets": [
+              {
+                "name": "Ghoulies-QilinComp-0.35.0-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.35.0/Ghoulies-QilinComp-0.35.0-windows-x64.zip",
+                "size": 80094502
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.34.0",
+            "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/tag/v0.34.0",
+            "published_at": "2026-11-21T01:57:53Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -160,9 +1277,56 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "GBTGhoulies-QilinRecomp-0.40.2-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.40.2/GBTGhoulies-QilinRecomp-0.40.2-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GBTGhoulies-QilinRecomp-0.40.1-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.40.1/GBTGhoulies-QilinRecomp-0.40.1-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GBTGhoulies-QilinRecomp-0.40.0-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.40.0/GBTGhoulies-QilinRecomp-0.40.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GBTGhoulies-QilinRecomp-0.39.1-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.39.1/GBTGhoulies-QilinRecomp-0.39.1-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GBTGhoulies-QilinRecomp-0.39.0-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.39.0/GBTGhoulies-QilinRecomp-0.39.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GBTGhoulies-QilinRecomp-0.38.0-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.38.0/GBTGhoulies-QilinRecomp-0.38.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GBTGhoulies-QilinRecomp-0.37.0-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.37.0/GBTGhoulies-QilinRecomp-0.37.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Ghoulies-QilinComp-0.36.0-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.36.0/Ghoulies-QilinComp-0.36.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Ghoulies-QilinComp-0.35.0-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/GBTGhoulies--QilinRecomp/releases/download/v0.35.0/Ghoulies-QilinComp-0.35.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -180,7 +1344,153 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-21T13:19:46.623195+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-22T00:13:34.438739+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of APB - All Points Bulletin (Atari Games, 1987 arcade) to portable C++23 with Vulkan 1.3, for Windows, Linux and macOS. No game data included.",
+        "latest_release_url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/tag/v0.22.0",
+        "latest_release_name": "APB QilinRecomp 0.22.0",
+        "release_assets": [
+          {
+            "name": "ApbArcade--QilinRecomp-0.22.0-windows-x64.zip",
+            "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/download/v0.22.0/ApbArcade--QilinRecomp-0.22.0-windows-x64.zip",
+            "size": 81468451
+          }
+        ],
+        "releases": [
+          {
+            "name": "APB QilinRecomp 0.22.0",
+            "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/tag/v0.22.0",
+            "published_at": "2026-11-21T14:47:06Z",
+            "assets": [
+              {
+                "name": "ApbArcade--QilinRecomp-0.22.0-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/download/v0.22.0/ApbArcade--QilinRecomp-0.22.0-windows-x64.zip",
+                "size": 81468451
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "APB QilinRecomp 0.21.0",
+            "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/tag/v0.21.0",
+            "published_at": "2026-11-21T01:47:19Z",
+            "assets": [
+              {
+                "name": "APB-QilinRecomp-0.21.0-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/download/v0.21.0/APB-QilinRecomp-0.21.0-windows-x64.zip",
+                "size": 81373461
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "APB QilinRecomp 0.20.0",
+            "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/tag/v0.20.0",
+            "published_at": "2026-11-21T01:47:18Z",
+            "assets": [
+              {
+                "name": "APB-QilinRecomp-0.20.0-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/download/v0.20.0/APB-QilinRecomp-0.20.0-windows-x64.zip",
+                "size": 81364893
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "APB QilinRecomp 0.19.0",
+            "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/tag/v0.19.0",
+            "published_at": "2026-11-21T01:47:48Z",
+            "assets": [
+              {
+                "name": "APB-QilinRecomp-0.19.0-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/download/v0.19.0/APB-QilinRecomp-0.19.0-windows-x64.zip",
+                "size": 81337584
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "APB QilinRecomp 0.18.1",
+            "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/tag/v0.18.1",
+            "published_at": "2026-11-21T01:47:07Z",
+            "assets": [
+              {
+                "name": "APB-QilinRecomp-0.18.1-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/download/v0.18.1/APB-QilinRecomp-0.18.1-windows-x64.zip",
+                "size": 81289069
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "APB QilinRecomp 0.18.0",
+            "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/tag/v0.18.0",
+            "published_at": "2026-11-21T01:47:03Z",
+            "assets": [
+              {
+                "name": "APB-QilinRecomp-0.18.0-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/download/v0.18.0/APB-QilinRecomp-0.18.0-windows-x64.zip",
+                "size": 81288981
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "APB QilinRecomp 0.17.0",
+            "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/tag/v0.17.0",
+            "published_at": "2026-11-21T01:46:56Z",
+            "assets": [
+              {
+                "name": "APB-QilinRecomp-0.17.0-windows-x64.zip",
+                "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/download/v0.17.0/APB-QilinRecomp-0.17.0-windows-x64.zip",
+                "size": 81233721
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "APB QilinRecomp 0.16.0",
+            "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/tag/v0.16.0",
+            "published_at": "2026-11-21T01:55:25Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "APB QilinRecomp 0.15.0",
+            "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/tag/v0.15.0",
+            "published_at": "2026-11-21T01:55:23Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "APB QilinRecomp 0.14.0",
+            "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/tag/v0.14.0",
+            "published_at": "2026-11-21T01:55:22Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -194,9 +1504,46 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "ApbArcade--QilinRecomp-0.22.0-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/download/v0.22.0/ApbArcade--QilinRecomp-0.22.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "APB-QilinRecomp-0.21.0-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/download/v0.21.0/APB-QilinRecomp-0.21.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "APB-QilinRecomp-0.20.0-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/download/v0.20.0/APB-QilinRecomp-0.20.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "APB-QilinRecomp-0.19.0-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/download/v0.19.0/APB-QilinRecomp-0.19.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "APB-QilinRecomp-0.18.1-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/download/v0.18.1/APB-QilinRecomp-0.18.1-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "APB-QilinRecomp-0.18.0-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/download/v0.18.0/APB-QilinRecomp-0.18.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "APB-QilinRecomp-0.17.0-windows-x64.zip",
+          "url": "https://github.com/Qilin1066/ApbArcade--QilinRecomp/releases/download/v0.17.0/APB-QilinRecomp-0.17.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -214,7 +1561,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-21T13:19:44.730330+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-22T00:13:35.777740+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "🏎️ Race the coastal roads, explore Old Quay on foot, or take a boat across the harbour. 🌊 Port Meridien is a 3D open-world browser game built with Three.js. Choose your outfit, take delivery jobs, and discover waterfront landmarks between races. 🚨 Draw police attention and your free ride can turn into a chase.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -1270,7 +2634,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-21T01:17:51.659473+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-22T00:13:37.036437+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial fan-made static recompilation of Toy Story 2 (PC, 1999). Bring your own copy of the game: no game code or assets here.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
