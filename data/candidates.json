@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-22T00:13:38.281434+00:00",
+  "last_updated": "2026-11-22T13:11:46.375921+00:00",
   "candidates": [
     {
-      "title": "GUPRON98/TheAvengers-Android",
-      "url": "https://github.com/GUPRON98/TheAvengers-Android",
+      "title": "GUPRON98/WonderZoo-Android",
+      "url": "https://github.com/GUPRON98/WonderZoo-Android",
       "source_name": "GitHub: Android ports",
-      "published": "2026-11-21T09:00:07Z",
-      "summary": "The Avengers (Gameloft / Samsung S8000) Native Android Port with True Landscape Fullscreen, 28-30 FPS lock, and In-Game Cheat Engine",
+      "published": "2026-11-22T00:25:55Z",
+      "summary": "Gameloft Wonder Zoo (Samsung S8000 WVGA Touch Edition) Native Android Port with Direct Screen Touch & In-Game Cheats",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-22T00:13:24.198102+00:00",
+      "found_at": "2026-11-22T13:11:34.810402+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -28,6 +28,415 @@
       "build_links": [],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: android port",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Disconnect0/p5r-android",
+      "url": "https://github.com/Disconnect0/p5r-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-22T03:21:29Z",
+      "summary": "Persona 5 Royal for Android: a native port that runs your own dump (the APK holds no game code or data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T13:11:34.809681+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: native port",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "ZuanCrisp/MarioKartWorld-Port",
+      "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-22T05:53:46Z",
+      "summary": "Static recompilation of Mario Kart World to native Windows x86-64, with a Vulkan renderer. Dump your own Switch Game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T13:11:29.386785+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "pixl27/ProjectReCity",
+      "url": "https://github.com/pixl27/ProjectReCity",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-22T05:54:55Z",
+      "summary": "Project ReCity: GTA VI (Xbox Series) static recompilation for Windows, built on your PC from your own copy. No game files included. Topics: gta6, rdna2, reverse-engineering, spirv, static-recompilation, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T13:11:29.386306+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "Cleverdee/pop-sot-android",
+      "url": "https://github.com/Cleverdee/pop-sot-android",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-22T12:52:16Z",
+      "summary": "Prince of Persia: The Sands of Time for Android - static recompilation of the PC game (bring your own copy)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T13:11:29.385832+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "stelaras0925-del/BlackKatRecomp",
+      "url": "https://github.com/stelaras0925-del/BlackKatRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-22T10:09:05Z",
+      "summary": "Trying Static Recompilation for Pirates: Legends of Black Kat PS2 game using AI tools",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T13:11:29.385440+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "colormusicc/motorstorm-apocalypse-recomp",
+      "url": "https://github.com/colormusicc/motorstorm-apocalypse-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-22T12:12:00Z",
+      "summary": "Open-source PC port of MotorStorm: Apocalypse (PS3) via static recompilation (ps3recomp). WIP ~15%. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T13:11:29.385018+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "R0Y00/Xbox2Windows",
+      "url": "https://github.com/R0Y00/Xbox2Windows",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-22T13:09:43Z",
+      "summary": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified. Topics: d3d12, directx-raytracing, scarlett, static-recompilation, windows, xbox, xbox-series-x",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T13:11:29.384458+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "Abhiguy/MBPUWeb",
+      "url": "https://github.com/Abhiguy/MBPUWeb",
+      "source_name": "GitHub: WebGL ports",
+      "published": "2026-11-22T13:07:12Z",
+      "summary": "A web port of Marble Blast Powered Up. Topics: 3d, game, marble-blast, marble-blast-powered-up, marble-game, web, webgl, webgl-game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T13:11:27.653635+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webgl",
+          "web port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: web port of, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webgl"
+      ]
+    },
+    {
+      "title": "DanielEnki420/ferrum-nova",
+      "url": "https://github.com/DanielEnki420/ferrum-nova",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-22T09:41:45Z",
+      "summary": "Ferrum Nova – Echtzeitstrategie in Rust + Bevy, im Browser spielbar. Hommage an Thandor. Topics: bevy, browser-game, cloudflare-workers, game, multiplayer, real-time-strategy, rts, rust, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T13:11:25.774599+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "Cel23010997/astral-siege",
+      "url": "https://github.com/Cel23010997/astral-siege",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-22T11:12:36Z",
+      "summary": "A C++ space tower-defence team game, with an independent WebAssembly browser port.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T13:11:21.818905+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
+    {
+      "title": "GUPRON98/TheAvengers-Android",
+      "url": "https://github.com/GUPRON98/TheAvengers-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-21T09:00:07Z",
+      "summary": "The Avengers (Gameloft / Samsung S8000) Native Android Port with True Landscape Fullscreen, 28-30 FPS lock, and In-Game Cheat Engine",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-22T00:13:24.198102+00:00",
+      "check": {
+        "checked_at": "2026-11-22T13:11:37.991221+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "The Avengers (Gameloft / Samsung S8000) Native Android Port with True Landscape Fullscreen, 28-30 FPS lock, and In-Game Cheat Engine",
+        "latest_release_url": "https://github.com/GUPRON98/TheAvengers-Android/releases/tag/v1.0.0",
+        "latest_release_name": "The Avengers Android Native v1.0.0",
+        "release_assets": [
+          {
+            "name": "TheAvengers.apk",
+            "url": "https://github.com/GUPRON98/TheAvengers-Android/releases/download/v1.0.0/TheAvengers.apk",
+            "size": 2452774
+          }
+        ],
+        "releases": [
+          {
+            "name": "The Avengers Android Native v1.0.0",
+            "url": "https://github.com/GUPRON98/TheAvengers-Android/releases/tag/v1.0.0",
+            "published_at": "2026-11-21T04:42:59Z",
+            "assets": [
+              {
+                "name": "TheAvengers.apk",
+                "url": "https://github.com/GUPRON98/TheAvengers-Android/releases/download/v1.0.0/TheAvengers.apk",
+                "size": 2452774
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "TheAvengers.apk",
+          "url": "https://github.com/GUPRON98/TheAvengers-Android/releases/download/v1.0.0/TheAvengers.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
@@ -45,7 +454,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-22T00:13:24.197270+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-22T13:11:39.340614+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Spider-Man: Toxic City - Native Android Port with WVGA 800x480 Landscape, 28-30 FPS Lock, Touch Screen & In-Game Cheat Engine",
+        "latest_release_url": "https://github.com/GUPRON98/SpiderMan-ToxicCity-Android/releases/tag/v1.0.0",
+        "latest_release_name": "Spider-Man: Toxic City Android Native v1.0.0",
+        "release_assets": [
+          {
+            "name": "SpiderManToxicCity.apk",
+            "url": "https://github.com/GUPRON98/SpiderMan-ToxicCity-Android/releases/download/v1.0.0/SpiderManToxicCity.apk",
+            "size": 994033
+          }
+        ],
+        "releases": [
+          {
+            "name": "Spider-Man: Toxic City Android Native v1.0.0",
+            "url": "https://github.com/GUPRON98/SpiderMan-ToxicCity-Android/releases/tag/v1.0.0",
+            "published_at": "2026-11-21T04:43:06Z",
+            "assets": [
+              {
+                "name": "SpiderManToxicCity.apk",
+                "url": "https://github.com/GUPRON98/SpiderMan-ToxicCity-Android/releases/download/v1.0.0/SpiderManToxicCity.apk",
+                "size": 994033
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -59,9 +506,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SpiderManToxicCity.apk",
+          "url": "https://github.com/GUPRON98/SpiderMan-ToxicCity-Android/releases/download/v1.0.0/SpiderManToxicCity.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
@@ -79,7 +533,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-22T00:13:24.196481+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-22T13:11:40.651786+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Android-only port of beatoraja (BMS rhythm game) with native Material start screen and MPEG-1 BGA playback",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -112,7 +583,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-22T00:13:24.195593+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-22T13:11:41.969692+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Nintendo Switch port of The Simpsons: Tapped Out: runs the game's own Android arm64 engine on Horizon, fully offline. Bring your own APK.",
+        "latest_release_url": "https://github.com/neverlless/tsto-nx/releases/tag/v0.1.0",
+        "latest_release_name": "tsto-nx 0.1.0",
+        "release_assets": [
+          {
+            "name": "tsto-nx-0.1.0.zip",
+            "url": "https://github.com/neverlless/tsto-nx/releases/download/v0.1.0/tsto-nx-0.1.0.zip",
+            "size": 3189299
+          },
+          {
+            "name": "tsto-nx.nro",
+            "url": "https://github.com/neverlless/tsto-nx/releases/download/v0.1.0/tsto-nx.nro",
+            "size": 7607644
+          }
+        ],
+        "releases": [
+          {
+            "name": "tsto-nx 0.1.0",
+            "url": "https://github.com/neverlless/tsto-nx/releases/tag/v0.1.0",
+            "published_at": "2026-11-21T13:29:25Z",
+            "assets": [
+              {
+                "name": "tsto-nx-0.1.0.zip",
+                "url": "https://github.com/neverlless/tsto-nx/releases/download/v0.1.0/tsto-nx-0.1.0.zip",
+                "size": 3189299
+              },
+              {
+                "name": "tsto-nx.nro",
+                "url": "https://github.com/neverlless/tsto-nx/releases/download/v0.1.0/tsto-nx.nro",
+                "size": 7607644
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -128,10 +647,22 @@
           "switch port"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "tsto-nx-0.1.0.zip",
+          "url": "https://github.com/neverlless/tsto-nx/releases/download/v0.1.0/tsto-nx-0.1.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "tsto-nx.nro",
+          "url": "https://github.com/neverlless/tsto-nx/releases/download/v0.1.0/tsto-nx.nro",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -149,7 +680,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-22T00:13:24.192866+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-22T13:11:43.640619+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A recompiled, native port of the famous GBA game known as \"harvest moon: friends of mineral town\" for android.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Не удалось проверить релизы (HTTP 403).",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -182,7 +730,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-22T00:13:24.189102+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-22T13:11:44.819449+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -216,7 +780,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-22T00:13:22.454484+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-22T13:11:45.342405+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -252,7 +832,23 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-22T00:13:22.452455+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-22T13:11:45.859059+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": null,
+        "archived": null,
+        "default_branch": null,
+        "description": "",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "GitHub API вернул HTTP 403; проверку нужно повторить."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
