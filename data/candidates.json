@@ -1,7 +1,615 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-23T00:43:07.332194+00:00",
+  "last_updated": "2026-11-23T15:49:26.427097+00:00",
   "candidates": [
+    {
+      "title": "IamWilmar/p5r-recomp",
+      "url": "https://github.com/IamWilmar/p5r-recomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-23T02:33:57Z",
+      "summary": "Native Android port of Persona 5 Royal for the Retroid Pocket Flip 2. Early version. Bring your own extracted game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:12.070319+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "izukiken32-bit/Persona-3-fes",
+      "url": "https://github.com/izukiken32-bit/Persona-3-fes",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-23T10:06:40Z",
+      "summary": "Persona 3 fes for Android: a native port that runs your own dump (the APK holds no game code or data)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:12.069106+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: native port",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "ceejaydelacruz13-glitch/Warfront-Port",
+      "url": "https://github.com/ceejaydelacruz13-glitch/Warfront-Port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-23T12:19:04Z",
+      "summary": "An unofficial Android port of the WarFront demo with touch controls, adjustable resolution, and a quick in-game guide.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:12.067939+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "maxyo/seawolves",
+      "url": "https://github.com/maxyo/seawolves",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-23T15:40:38Z",
+      "summary": "Seawolves: an unofficial Android port of Sea Dogs: To Each His Own (Корсары: Каждому своё) on a fork of Storm Engine. Needs your own copy of the game. Topics: android, bgfx, corsairs, cpp, game-engine, sea-dogs, source-port, storm-engine",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:12.065774+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source-port, port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "ebram212131/vgz-seabattle",
+      "url": "https://github.com/ebram212131/vgz-seabattle",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-23T15:12:26Z",
+      "summary": "Kotlin port of the Android game VGZ Sea Battle (minSdk 21 / targetSdk 35) with a PHP + SQLite3 backend, crash-safe networking, file logging, and the full decompiled reference sources.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:12.063817+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "afrowebster/Carmageddon-2-Android-port",
+      "url": "https://github.com/afrowebster/Carmageddon-2-Android-port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-23T15:43:42Z",
+      "summary": "Carmageddon II: Carpocalypse Now recompiled for Android and Linux (bring your own GOG game files)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:12.063030+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux, android"
+      ]
+    },
+    {
+      "title": "robbert229/lrr-portable",
+      "url": "https://github.com/robbert229/lrr-portable",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-23T07:25:22Z",
+      "summary": "A port of Lego Rock Raiders (1999) for modern systems. Currently supports Mac, Linux, and Windows Topics: decompilation, game, game-restoration, retro",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:10.035701+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "PotatoRecomp/Underground-2-Android",
+      "url": "https://github.com/PotatoRecomp/Underground-2-Android",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-23T11:16:05Z",
+      "summary": "Unofficial native Android port of Need for Speed: Underground 2, built through static recompilation. Requires your own legally obtained game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:05.846808+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "12dm1/nfs5-web",
+      "url": "https://github.com/12dm1/nfs5-web",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-23T13:51:04Z",
+      "summary": "Need for Speed: Porsche Unleashed in the browser (static recompilation, WebGPU). No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:05.846157+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "BelmanteGu/3dWorldRecomp",
+      "url": "https://github.com/BelmanteGu/3dWorldRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-23T14:02:29Z",
+      "summary": "Static recompilation of a Wii U 3D platformer (RedCarpet.rpx) to native Android and PC with Vulkan. No game code, assets or keys. Topics: android, port, recompilation, static-recompilation, vulkan, wii-u",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:05.845365+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "PrimeTimerer/Project-Grand-Tourer-Advanced",
+      "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-23T14:03:40Z",
+      "summary": "Native Windows PC port of Gran Turismo 6 (EU BCES01893, update 1.22): static recompilation and a one-click setup launcher. The game is not included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:05.844628+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "Vnnc1/MK8-online",
+      "url": "https://github.com/Vnnc1/MK8-online",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-23T14:49:35Z",
+      "summary": "Experimental static recompilation of Mario Kart 8 Deluxe 4.0.1 for Windows x64 and Linux amd64. Native Vulkan runtime, Mii creator, online play via Nextendo and Steam rooms. Bring your own game files and keys: no ROMs, assets or keys included. Topics: aarch64, arm64, linux, mario-kart-8-deluxe, nintendo-switch-online, pc-port, static-recompilation, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:05.843739+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Augestxr/Re-Fine",
+      "url": "https://github.com/Augestxr/Re-Fine",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-23T15:01:39Z",
+      "summary": "Native PC port of Hatsune Miku: Project DIVA F (PS3) by static recompilation with ps3recomp. Any frame rate, Vulkan/D3D12. Bring your own copy: no game files included. Topics: cpp, hatsune-miku, pc-port, project-diva, ps3, ps3recomp, recompilation, rhythm-game, static-recompilation, vocaloid, vulkan, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:05.842707+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "ElKiro1311/smrpg-recompiled",
+      "url": "https://github.com/ElKiro1311/smrpg-recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-23T15:04:07Z",
+      "summary": "SMRPG Recomp: an unofficial static recompilation of Super Mario RPG (Switch, 2023) for Windows, built on LASRecomp. No game files included. Topics: game-port, recompilation, static-recompilation, vulkan, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:05.841802+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "ElKiro1311/smrpg-recompiled-android",
+      "url": "https://github.com/ElKiro1311/smrpg-recompiled-android",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-23T15:04:22Z",
+      "summary": "SMRPG Recomp for Android: an unofficial static recompilation of Super Mario RPG (Switch, 2023), built on LASRecomp. No game files included. Topics: android, game-port, recompilation, static-recompilation, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:05.841000+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Kajcsi/G6Recomp",
+      "url": "https://github.com/Kajcsi/G6Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-23T15:18:06Z",
+      "summary": "Unofficial static recompilation of an Xbox Series X|S game executable to native Windows. Contains no game code, data, or assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:05.840275+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "VictorMinister/leonida-pc-recompiler",
+      "url": "https://github.com/VictorMinister/leonida-pc-recompiler",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-23T15:31:45Z",
+      "summary": "Leonida PC Recompiler 2026 — Static recompilation research tool for Xbox Series games on Windows. Bring your own copy. No game files included. Topics: game-research, leonida, pc-port, recompiler, reverse-engineering-, static-recompilation, vulkan, windows-tool, x86-64, xbox-recompiler",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:05.839351+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "Omeynu/wakfu-recomp",
+      "url": "https://github.com/Omeynu/wakfu-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-23T15:47:07Z",
+      "summary": "Native PC port of Islands of Wakfu (Xbox 360 XBLA) by static recompilation. A fan of the Wakfu series since childhood, I wanted to play it natively on my PC instead of through an emulator. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T15:49:05.838304+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "AllenWalkerED/nier-reincarnation-pc",
       "url": "https://github.com/AllenWalkerED/nier-reincarnation-pc",
@@ -11,7 +619,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T00:42:51.540453+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-23T15:49:15.716169+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Unofficial PC port of NieR Re[in]carnation (Global 3.7.1): local server, Android runtime, launcher. Bring your own game files.",
+        "latest_release_url": "https://github.com/AllenWalkerED/nier-reincarnation-pc/releases/tag/v1.1",
+        "latest_release_name": "NieR Re[in]carnation PC port 1.1",
+        "release_assets": [
+          {
+            "name": "NieR-Reincarnation-PC-v1.1.zip",
+            "url": "https://github.com/AllenWalkerED/nier-reincarnation-pc/releases/download/v1.1/NieR-Reincarnation-PC-v1.1.zip",
+            "size": 213378231
+          }
+        ],
+        "releases": [
+          {
+            "name": "NieR Re[in]carnation PC port 1.1",
+            "url": "https://github.com/AllenWalkerED/nier-reincarnation-pc/releases/tag/v1.1",
+            "published_at": "2026-11-22T19:07:50Z",
+            "assets": [
+              {
+                "name": "NieR-Reincarnation-PC-v1.1.zip",
+                "url": "https://github.com/AllenWalkerED/nier-reincarnation-pc/releases/download/v1.1/NieR-Reincarnation-PC-v1.1.zip",
+                "size": 213378231
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "NieR Re[in]carnation PC port 1.0",
+            "url": "https://github.com/AllenWalkerED/nier-reincarnation-pc/releases/tag/v1.0",
+            "published_at": "2026-11-22T17:09:30Z",
+            "assets": [
+              {
+                "name": "NieR-Reincarnation-PC-v1.0.zip",
+                "url": "https://github.com/AllenWalkerED/nier-reincarnation-pc/releases/download/v1.0/NieR-Reincarnation-PC-v1.0.zip",
+                "size": 213317586
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -28,10 +688,22 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "NieR-Reincarnation-PC-v1.1.zip",
+          "url": "https://github.com/AllenWalkerED/nier-reincarnation-pc/releases/download/v1.1/NieR-Reincarnation-PC-v1.1.zip",
+          "type": "archive"
+        },
+        {
+          "name": "NieR-Reincarnation-PC-v1.0.zip",
+          "url": "https://github.com/AllenWalkerED/nier-reincarnation-pc/releases/download/v1.0/NieR-Reincarnation-PC-v1.0.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -49,7 +721,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T00:42:51.538254+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-23T15:49:17.076404+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A port of the Android game Earth And Legend to the PlayStation Vita.",
+        "latest_release_url": "https://github.com/theFilthyAnimal/EarthAndLegend-Vita/releases/tag/v1.0.0",
+        "latest_release_name": "Earth And Legend 3.0.0 — PS Vita port 1.0.0",
+        "release_assets": [
+          {
+            "name": "earthandlegend.vpk",
+            "url": "https://github.com/theFilthyAnimal/EarthAndLegend-Vita/releases/download/v1.0.0/earthandlegend.vpk",
+            "size": 1043315
+          }
+        ],
+        "releases": [
+          {
+            "name": "Earth And Legend 3.0.0 — PS Vita port 1.0.0",
+            "url": "https://github.com/theFilthyAnimal/EarthAndLegend-Vita/releases/tag/v1.0.0",
+            "published_at": "2026-11-22T20:45:09Z",
+            "assets": [
+              {
+                "name": "earthandlegend.vpk",
+                "url": "https://github.com/theFilthyAnimal/EarthAndLegend-Vita/releases/download/v1.0.0/earthandlegend.vpk",
+                "size": 1043315
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -64,10 +774,17 @@
           "playstation vita"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "earthandlegend.vpk",
+          "url": "https://github.com/theFilthyAnimal/EarthAndLegend-Vita/releases/download/v1.0.0/earthandlegend.vpk",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 8,
       "relevance_status": "promising",
@@ -85,7 +802,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T00:42:49.510623+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-23T15:49:18.466655+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Linux build of the New Super Mario Bros. 2 recompiled port (European 3DS release): cross-compiles the Windows x64 game with LLVM-MinGW and plays it through Proton or Wine. Bring your own cartridge — no game files included.",
+        "latest_release_url": "https://github.com/HassanB48/nsmb2-linux-recompiled/releases/tag/v1.0.0",
+        "latest_release_name": "Linux build v1.0.0",
+        "release_assets": [
+          {
+            "name": "NSMB2-Linux-x64-1.0.0.tar.gz",
+            "url": "https://github.com/HassanB48/nsmb2-linux-recompiled/releases/download/v1.0.0/NSMB2-Linux-x64-1.0.0.tar.gz",
+            "size": 77139
+          }
+        ],
+        "releases": [
+          {
+            "name": "Linux build v1.0.0",
+            "url": "https://github.com/HassanB48/nsmb2-linux-recompiled/releases/tag/v1.0.0",
+            "published_at": "2026-11-22T21:34:56Z",
+            "assets": [
+              {
+                "name": "NSMB2-Linux-x64-1.0.0.tar.gz",
+                "url": "https://github.com/HassanB48/nsmb2-linux-recompiled/releases/download/v1.0.0/NSMB2-Linux-x64-1.0.0.tar.gz",
+                "size": 77139
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -100,9 +855,16 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "NSMB2-Linux-x64-1.0.0.tar.gz",
+          "url": "https://github.com/HassanB48/nsmb2-linux-recompiled/releases/download/v1.0.0/NSMB2-Linux-x64-1.0.0.tar.gz",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -120,7 +882,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T00:42:45.513901+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-23T15:49:19.804900+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Mario Kart 8 (Wii U) as a native PC program by static recompilation: races run at 58-60 fps on a Batocera console. No game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -153,7 +932,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T00:42:45.513113+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-23T15:49:21.085924+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Ultra Street Fighter IV (Steam PC) natively on Apple Silicon (arm64 + Metal) by static recompilation. No game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -180,7 +976,171 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T00:42:45.512126+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-23T15:49:22.429870+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows port of Crimson Skies: High Road to Revenge (original Xbox) via static recompilation with Xbox XBE Recomp. 30-240 fps, launcher, FXAA. No emulator, no game data: bring your own disc.",
+        "latest_release_url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/tag/v1.7.0",
+        "latest_release_name": "v1.7.0",
+        "release_assets": [
+          {
+            "name": "CrimsonSkiesRecomp-1.7.0-win64.zip",
+            "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.7.0/CrimsonSkiesRecomp-1.7.0-win64.zip",
+            "size": 60911634
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.7.0",
+            "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/tag/v1.7.0",
+            "published_at": "2026-11-23T01:43:45Z",
+            "assets": [
+              {
+                "name": "CrimsonSkiesRecomp-1.7.0-win64.zip",
+                "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.7.0/CrimsonSkiesRecomp-1.7.0-win64.zip",
+                "size": 60911634
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.6.0",
+            "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/tag/v1.6.0",
+            "published_at": "2026-11-23T01:30:56Z",
+            "assets": [
+              {
+                "name": "CrimsonSkiesRecomp-1.6.0-win64.zip",
+                "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.6.0/CrimsonSkiesRecomp-1.6.0-win64.zip",
+                "size": 60911485
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.5.0",
+            "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/tag/v1.5.0",
+            "published_at": "2026-11-22T23:11:31Z",
+            "assets": [
+              {
+                "name": "CrimsonSkiesRecomp-1.5.0-win64.zip",
+                "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.5.0/CrimsonSkiesRecomp-1.5.0-win64.zip",
+                "size": 60911431
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.4.1",
+            "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/tag/v1.4.1",
+            "published_at": "2026-11-22T21:59:05Z",
+            "assets": [
+              {
+                "name": "CrimsonSkiesRecomp-1.4.1-win64.zip",
+                "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.4.1/CrimsonSkiesRecomp-1.4.1-win64.zip",
+                "size": 60911208
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.4.0",
+            "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/tag/v1.4.0",
+            "published_at": "2026-11-22T21:25:33Z",
+            "assets": [
+              {
+                "name": "CrimsonSkiesRecomp-1.4.0-win64.zip",
+                "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.4.0/CrimsonSkiesRecomp-1.4.0-win64.zip",
+                "size": 60910930
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.3.0",
+            "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/tag/v1.3.0",
+            "published_at": "2026-11-22T20:49:39Z",
+            "assets": [
+              {
+                "name": "CrimsonSkiesRecomp-1.3.0-win64.zip",
+                "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.3.0/CrimsonSkiesRecomp-1.3.0-win64.zip",
+                "size": 60900863
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.2.0",
+            "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/tag/v1.2.0",
+            "published_at": "2026-11-22T20:18:53Z",
+            "assets": [
+              {
+                "name": "CrimsonSkiesRecomp-1.2.0-win64.zip",
+                "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.2.0/CrimsonSkiesRecomp-1.2.0-win64.zip",
+                "size": 60900330
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.1.0",
+            "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/tag/v1.1.0",
+            "published_at": "2026-11-22T19:30:06Z",
+            "assets": [
+              {
+                "name": "CrimsonSkiesRecomp-1.1.0-win64.zip",
+                "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.1.0/CrimsonSkiesRecomp-1.1.0-win64.zip",
+                "size": 74494034
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0.1",
+            "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/tag/v1.0.1",
+            "published_at": "2026-11-22T19:18:08Z",
+            "assets": [
+              {
+                "name": "CrimsonSkiesRecomp-1.0.1-win64.zip",
+                "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.0.1/CrimsonSkiesRecomp-1.0.1-win64.zip",
+                "size": 74493227
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0.0",
+            "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/tag/v1.0.0",
+            "published_at": "2026-11-22T12:58:06Z",
+            "assets": [
+              {
+                "name": "CrimsonSkiesRecomp-1.0.0-win64.zip",
+                "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.0.0/CrimsonSkiesRecomp-1.0.0-win64.zip",
+                "size": 74493098
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -189,13 +1149,66 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
-          "windows"
+          "windows",
+          "win64"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "CrimsonSkiesRecomp-1.7.0-win64.zip",
+          "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.7.0/CrimsonSkiesRecomp-1.7.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CrimsonSkiesRecomp-1.6.0-win64.zip",
+          "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.6.0/CrimsonSkiesRecomp-1.6.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CrimsonSkiesRecomp-1.5.0-win64.zip",
+          "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.5.0/CrimsonSkiesRecomp-1.5.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CrimsonSkiesRecomp-1.4.1-win64.zip",
+          "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.4.1/CrimsonSkiesRecomp-1.4.1-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CrimsonSkiesRecomp-1.4.0-win64.zip",
+          "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.4.0/CrimsonSkiesRecomp-1.4.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CrimsonSkiesRecomp-1.3.0-win64.zip",
+          "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.3.0/CrimsonSkiesRecomp-1.3.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CrimsonSkiesRecomp-1.2.0-win64.zip",
+          "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.2.0/CrimsonSkiesRecomp-1.2.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CrimsonSkiesRecomp-1.1.0-win64.zip",
+          "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.1.0/CrimsonSkiesRecomp-1.1.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CrimsonSkiesRecomp-1.0.1-win64.zip",
+          "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.0.1/CrimsonSkiesRecomp-1.0.1-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "CrimsonSkiesRecomp-1.0.0-win64.zip",
+          "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/releases/download/v1.0.0/CrimsonSkiesRecomp-1.0.0-win64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -213,7 +1226,115 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T00:42:45.511131+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-23T15:49:23.756481+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Early work in progress: PC static recompilation of Dave Mirra Freestyle BMX 2 (PS2). No game data included; bring your own disc.",
+        "latest_release_url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/tag/v0.1.6",
+        "latest_release_name": "v0.1.6 (early work in progress)",
+        "release_assets": [
+          {
+            "name": "Dave-Mirra-2-Launcher.exe",
+            "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/download/v0.1.6/Dave-Mirra-2-Launcher.exe",
+            "size": 14461277
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.6 (early work in progress)",
+            "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/tag/v0.1.6",
+            "published_at": "2026-11-23T01:02:53Z",
+            "assets": [
+              {
+                "name": "Dave-Mirra-2-Launcher.exe",
+                "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/download/v0.1.6/Dave-Mirra-2-Launcher.exe",
+                "size": 14461277
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.1.5 (early work in progress)",
+            "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/tag/v0.1.5",
+            "published_at": "2026-11-22T23:42:32Z",
+            "assets": [
+              {
+                "name": "Dave-Mirra-2-Launcher.exe",
+                "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/download/v0.1.5/Dave-Mirra-2-Launcher.exe",
+                "size": 14461277
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.1.4 (early work in progress)",
+            "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/tag/v0.1.4",
+            "published_at": "2026-11-22T19:37:19Z",
+            "assets": [
+              {
+                "name": "Dave-Mirra-2-Launcher.exe",
+                "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/download/v0.1.4/Dave-Mirra-2-Launcher.exe",
+                "size": 14461277
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.1.3 (early work in progress)",
+            "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/tag/v0.1.3",
+            "published_at": "2026-11-21T21:11:03Z",
+            "assets": [
+              {
+                "name": "Dave-Mirra-2-Launcher.exe",
+                "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/download/v0.1.3/Dave-Mirra-2-Launcher.exe",
+                "size": 14462416
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.1.2 (early work in progress)",
+            "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/tag/v0.1.2",
+            "published_at": "2026-11-21T07:53:48Z",
+            "assets": [
+              {
+                "name": "Dave-Mirra-2-Launcher.exe",
+                "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/download/v0.1.2/Dave-Mirra-2-Launcher.exe",
+                "size": 14459159
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          },
+          {
+            "name": "v0.1.1 (early work in progress)",
+            "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/tag/v0.1.1",
+            "published_at": "2026-11-21T06:07:25Z",
+            "assets": [
+              {
+                "name": "Dave-Mirra-2-Launcher.exe",
+                "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/download/v0.1.1/Dave-Mirra-2-Launcher.exe",
+                "size": 14461406
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -222,8 +1343,41 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "Dave-Mirra-2-Launcher.exe",
+          "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/download/v0.1.6/Dave-Mirra-2-Launcher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Dave-Mirra-2-Launcher.exe",
+          "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/download/v0.1.5/Dave-Mirra-2-Launcher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Dave-Mirra-2-Launcher.exe",
+          "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/download/v0.1.4/Dave-Mirra-2-Launcher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Dave-Mirra-2-Launcher.exe",
+          "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/download/v0.1.3/Dave-Mirra-2-Launcher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Dave-Mirra-2-Launcher.exe",
+          "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/download/v0.1.2/Dave-Mirra-2-Launcher.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "Dave-Mirra-2-Launcher.exe",
+          "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp/releases/download/v0.1.1/Dave-Mirra-2-Launcher.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
+      "classification_notes": [
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -240,7 +1394,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T00:42:45.510182+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-23T15:49:25.104202+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A static recompilation of Ocarina of Time into a native Windows executable, with ray traced lighting, frame interpolation and widescreen. Bring your own copy of the game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
