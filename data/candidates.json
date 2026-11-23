@@ -1,7 +1,305 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-22T13:11:46.375921+00:00",
+  "last_updated": "2026-11-23T00:43:07.332194+00:00",
   "candidates": [
+    {
+      "title": "AllenWalkerED/nier-reincarnation-pc",
+      "url": "https://github.com/AllenWalkerED/nier-reincarnation-pc",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-22T19:11:30Z",
+      "summary": "Unofficial PC port of NieR Re[in]carnation (Global 3.7.1): local server, Android runtime, launcher. Bring your own game files. Topics: android, applibot, arm64, binary-translation, compatibility-layer, direct3d11, fan-project, game-preservation, lunar-tear, nier, nier-reincarnation, nierreincarnation, offline, pc-port, private-server, square-enix, unity, unofficial-port, vulkan, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T00:42:51.540453+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "theFilthyAnimal/EarthAndLegend-Vita",
+      "url": "https://github.com/theFilthyAnimal/EarthAndLegend-Vita",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-22T20:48:07Z",
+      "summary": "A port of the Android game Earth And Legend to the PlayStation Vita.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T00:42:51.538254+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "playstation vita"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "HassanB48/nsmb2-linux-recompiled",
+      "url": "https://github.com/HassanB48/nsmb2-linux-recompiled",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-22T22:16:25Z",
+      "summary": "Linux build of the New Super Mario Bros. 2 recompiled port (European 3DS release): cross-compiles the Windows x64 game with LLVM-MinGW and plays it through Proton or Wine. Bring your own cartridge — no game files included. Topics: cross-compilation, linux, llvm-mingw, new-super-mario-bros-2, nintendo-3ds, proton, recompilation, recomplauncher, wine",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T00:42:49.510623+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "linux build"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "SirWinstonChurchillTheFirst/mario-kart-8-native",
+      "url": "https://github.com/SirWinstonChurchillTheFirst/mario-kart-8-native",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-22T21:16:03Z",
+      "summary": "Mario Kart 8 (Wii U) as a native PC program by static recompilation: races run at 58-60 fps on a Batocera console. No game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T00:42:45.513901+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "maxiumpro/usf4-mac",
+      "url": "https://github.com/maxiumpro/usf4-mac",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-22T22:01:25Z",
+      "summary": "Ultra Street Fighter IV (Steam PC) natively on Apple Silicon (arm64 + Metal) by static recompilation. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T00:42:45.513113+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo",
+      "url": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-22T23:11:31Z",
+      "summary": "Native Windows port of Crimson Skies: High Road to Revenge (original Xbox) via static recompilation with Xbox XBE Recomp. 30-240 fps, launcher, FXAA. No emulator, no game data: bring your own disc. Topics: crimson-skies, direct3d12, original-xbox, pc-port, recompilation, static-recompilation, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T00:42:45.512126+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "ADHD-TISM/Dave-Mirra-2-Recomp",
+      "url": "https://github.com/ADHD-TISM/Dave-Mirra-2-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-22T23:41:53Z",
+      "summary": "Early work in progress: PC static recompilation of Dave Mirra Freestyle BMX 2 (PS2). No game data included; bring your own disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T00:42:45.511131+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "JonB-Dev/oot-recompiled",
+      "url": "https://github.com/JonB-Dev/oot-recompiled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-22T23:58:39Z",
+      "summary": "A static recompilation of Ocarina of Time into a native Windows executable, with ray traced lighting, frame interpolation and widescreen. Bring your own copy of the game. Topics: direct3d12, n64, nintendo-64, raytracing, recompilation, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T00:42:45.510182+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "eric-rolph/prism-game",
+      "url": "https://github.com/eric-rolph/prism-game",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-22T23:30:11Z",
+      "summary": "Auto-firing light refracted through shards you collect — a Vampire-Survivors-style geometric roguelite built in Rust + WebAssembly on Cloudflare Workers. Topics: browser-game, canvas, cloudflare-workers, game, game-dev, roguelite, rust, vampire-survivors, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-23T00:42:41.539727+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "GUPRON98/WonderZoo-Android",
       "url": "https://github.com/GUPRON98/WonderZoo-Android",
@@ -11,7 +309,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-22T13:11:34.810402+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-23T00:42:55.163983+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Gameloft Wonder Zoo (Samsung S8000 WVGA Touch Edition) Native Android Port with Direct Screen Touch & In-Game Cheats",
+        "latest_release_url": "https://github.com/GUPRON98/WonderZoo-Android/releases/tag/v1.0.0",
+        "latest_release_name": "Wonder Zoo v1.0.0 - Native Android Port (Samsung S8000 WVGA)",
+        "release_assets": [
+          {
+            "name": "WonderZoo.apk",
+            "url": "https://github.com/GUPRON98/WonderZoo-Android/releases/download/v1.0.0/WonderZoo.apk",
+            "size": 2333398
+          }
+        ],
+        "releases": [
+          {
+            "name": "Wonder Zoo v1.0.0 - Native Android Port (Samsung S8000 WVGA)",
+            "url": "https://github.com/GUPRON98/WonderZoo-Android/releases/tag/v1.0.0",
+            "published_at": "2026-11-22T00:26:06Z",
+            "assets": [
+              {
+                "name": "WonderZoo.apk",
+                "url": "https://github.com/GUPRON98/WonderZoo-Android/releases/download/v1.0.0/WonderZoo.apk",
+                "size": 2333398
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -25,9 +361,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "WonderZoo.apk",
+          "url": "https://github.com/GUPRON98/WonderZoo-Android/releases/download/v1.0.0/WonderZoo.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 5,
       "relevance_status": "promising",
@@ -45,7 +388,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-22T13:11:34.809681+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-23T00:42:56.664712+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "pers",
+        "description": "Persona 5 Royal for Android: a native port that runs your own dump (the APK holds no game code or data)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -78,7 +438,158 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-22T13:11:29.386785+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-23T00:42:58.125512+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Mario Kart World to native Windows x86-64, with a Vulkan renderer. Dump your own Switch Game.",
+        "latest_release_url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/tag/v1.0.1",
+        "latest_release_name": "BlueShell v1.0.1",
+        "release_assets": [
+          {
+            "name": "BlueShellBuilder.exe",
+            "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.1/BlueShellBuilder.exe",
+            "size": 250368
+          },
+          {
+            "name": "BlueShellBuilder.exe.sha256",
+            "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.1/BlueShellBuilder.exe.sha256",
+            "size": 87
+          },
+          {
+            "name": "hookshot-setup.txt",
+            "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.1/hookshot-setup.txt",
+            "size": 1724
+          },
+          {
+            "name": "SHA256SUMS-upstream.txt",
+            "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.1/SHA256SUMS-upstream.txt",
+            "size": 272
+          }
+        ],
+        "releases": [
+          {
+            "name": "BlueShell v1.0.1",
+            "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/tag/v1.0.1",
+            "published_at": "2026-11-22T05:53:55Z",
+            "assets": [
+              {
+                "name": "BlueShellBuilder.exe",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.1/BlueShellBuilder.exe",
+                "size": 250368
+              },
+              {
+                "name": "BlueShellBuilder.exe.sha256",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.1/BlueShellBuilder.exe.sha256",
+                "size": 87
+              },
+              {
+                "name": "hookshot-setup.txt",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.1/hookshot-setup.txt",
+                "size": 1724
+              },
+              {
+                "name": "SHA256SUMS-upstream.txt",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.1/SHA256SUMS-upstream.txt",
+                "size": 272
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "BlueShell v1.0.0",
+            "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/tag/v1.0.0",
+            "published_at": "2026-11-22T05:54:02Z",
+            "assets": [
+              {
+                "name": "BlueShellBuilder.exe",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.0/BlueShellBuilder.exe",
+                "size": 250368
+              },
+              {
+                "name": "BlueShellBuilder.exe.sha256",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.0/BlueShellBuilder.exe.sha256",
+                "size": 87
+              },
+              {
+                "name": "hookshot-setup.txt",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.0/hookshot-setup.txt",
+                "size": 1724
+              },
+              {
+                "name": "SHA256SUMS-upstream.txt",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.0/SHA256SUMS-upstream.txt",
+                "size": 272
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Builder parts",
+            "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/tag/builder-parts",
+            "published_at": "2026-11-22T05:54:15Z",
+            "assets": [
+              {
+                "name": "BlueShellBuilder-app-29e7a70fe850.zip",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/BlueShellBuilder-app-29e7a70fe850.zip",
+                "size": 8694348
+              },
+              {
+                "name": "BlueShellBuilder-app-eb26878fbd0d.zip",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/BlueShellBuilder-app-eb26878fbd0d.zip",
+                "size": 8787966
+              },
+              {
+                "name": "BlueShellBuilder-cpm-bcd7d2f94b77.zip",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/BlueShellBuilder-cpm-bcd7d2f94b77.zip",
+                "size": 18642591
+              },
+              {
+                "name": "BlueShellBuilder-dotnet-5232387fc9a2.zip",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/BlueShellBuilder-dotnet-5232387fc9a2.zip",
+                "size": 66113003
+              },
+              {
+                "name": "BlueShellBuilder-emsdk-90942b03dad3.zip",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/BlueShellBuilder-emsdk-90942b03dad3.zip",
+                "size": 120100913
+              },
+              {
+                "name": "BlueShellBuilder-python-6cdcf4428329.zip",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/BlueShellBuilder-python-6cdcf4428329.zip",
+                "size": 56796532
+              },
+              {
+                "name": "BlueShellBuilder-third_party-6a7bbce70413.zip",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/BlueShellBuilder-third_party-6a7bbce70413.zip",
+                "size": 30072696
+              },
+              {
+                "name": "BlueShellBuilder-wgpu-native-1d7b8f623a3e.zip",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/BlueShellBuilder-wgpu-native-1d7b8f623a3e.zip",
+                "size": 2162212
+              },
+              {
+                "name": "SHA256SUMS-upstream.txt",
+                "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/SHA256SUMS-upstream.txt",
+                "size": 872
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -91,9 +602,96 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "BlueShellBuilder.exe",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.1/BlueShellBuilder.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "BlueShellBuilder.exe.sha256",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.1/BlueShellBuilder.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "hookshot-setup.txt",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.1/hookshot-setup.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS-upstream.txt",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.1/SHA256SUMS-upstream.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "BlueShellBuilder.exe",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.0/BlueShellBuilder.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "BlueShellBuilder.exe.sha256",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.0/BlueShellBuilder.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "hookshot-setup.txt",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.0/hookshot-setup.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "SHA256SUMS-upstream.txt",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/v1.0.0/SHA256SUMS-upstream.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "BlueShellBuilder-app-29e7a70fe850.zip",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/BlueShellBuilder-app-29e7a70fe850.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BlueShellBuilder-app-eb26878fbd0d.zip",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/BlueShellBuilder-app-eb26878fbd0d.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BlueShellBuilder-cpm-bcd7d2f94b77.zip",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/BlueShellBuilder-cpm-bcd7d2f94b77.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BlueShellBuilder-dotnet-5232387fc9a2.zip",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/BlueShellBuilder-dotnet-5232387fc9a2.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BlueShellBuilder-emsdk-90942b03dad3.zip",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/BlueShellBuilder-emsdk-90942b03dad3.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BlueShellBuilder-python-6cdcf4428329.zip",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/BlueShellBuilder-python-6cdcf4428329.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BlueShellBuilder-third_party-6a7bbce70413.zip",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/BlueShellBuilder-third_party-6a7bbce70413.zip",
+          "type": "archive"
+        },
+        {
+          "name": "BlueShellBuilder-wgpu-native-1d7b8f623a3e.zip",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/BlueShellBuilder-wgpu-native-1d7b8f623a3e.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS-upstream.txt",
+          "url": "https://github.com/ZuanCrisp/MarioKartWorld-Port/releases/download/builder-parts/SHA256SUMS-upstream.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -111,7 +709,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-22T13:11:29.386306+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-23T00:42:59.658786+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Project ReCity: GTA VI (Xbox Series) static recompilation for Windows, built on your PC from your own copy. No game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -144,7 +759,73 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-22T13:11:29.385832+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-23T00:43:01.105099+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Prince of Persia: The Sands of Time for Android - static recompilation of the PC game (bring your own copy)",
+        "latest_release_url": "https://github.com/Cleverdee/pop-sot-android/releases/tag/v0.1.2",
+        "latest_release_name": "v0.1.2: Graphics menu fix",
+        "release_assets": [
+          {
+            "name": "PrinceOfPersiaSoT-v0.1.2.apk",
+            "url": "https://github.com/Cleverdee/pop-sot-android/releases/download/v0.1.2/PrinceOfPersiaSoT-v0.1.2.apk",
+            "size": 37410476
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.2: Graphics menu fix",
+            "url": "https://github.com/Cleverdee/pop-sot-android/releases/tag/v0.1.2",
+            "published_at": "2026-11-22T12:52:16Z",
+            "assets": [
+              {
+                "name": "PrinceOfPersiaSoT-v0.1.2.apk",
+                "url": "https://github.com/Cleverdee/pop-sot-android/releases/download/v0.1.2/PrinceOfPersiaSoT-v0.1.2.apk",
+                "size": 37410476
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Sands of Time for Android v0.1.1",
+            "url": "https://github.com/Cleverdee/pop-sot-android/releases/tag/v0.1.1",
+            "published_at": "2026-11-22T09:36:13Z",
+            "assets": [
+              {
+                "name": "PrinceOfPersiaSoT-v0.1.1.apk",
+                "url": "https://github.com/Cleverdee/pop-sot-android/releases/download/v0.1.1/PrinceOfPersiaSoT-v0.1.1.apk",
+                "size": 37410188
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Sands of Time for Android v0.1.0",
+            "url": "https://github.com/Cleverdee/pop-sot-android/releases/tag/v0.1.0",
+            "published_at": "2026-11-22T06:26:04Z",
+            "assets": [
+              {
+                "name": "PrinceOfPersiaSoT-v0.1.0.apk",
+                "url": "https://github.com/Cleverdee/pop-sot-android/releases/download/v0.1.0/PrinceOfPersiaSoT-v0.1.0.apk",
+                "size": 37409964
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -157,9 +838,26 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "PrinceOfPersiaSoT-v0.1.2.apk",
+          "url": "https://github.com/Cleverdee/pop-sot-android/releases/download/v0.1.2/PrinceOfPersiaSoT-v0.1.2.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "PrinceOfPersiaSoT-v0.1.1.apk",
+          "url": "https://github.com/Cleverdee/pop-sot-android/releases/download/v0.1.1/PrinceOfPersiaSoT-v0.1.1.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "PrinceOfPersiaSoT-v0.1.0.apk",
+          "url": "https://github.com/Cleverdee/pop-sot-android/releases/download/v0.1.0/PrinceOfPersiaSoT-v0.1.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -177,7 +875,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-22T13:11:29.385440+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-23T00:43:02.621100+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Trying Static Recompilation for Pirates: Legends of Black Kat PS2 game using AI tools",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -204,7 +919,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-22T13:11:29.385018+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-23T00:43:04.058189+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Open-source PC port of MotorStorm: Apocalypse (PS3) via static recompilation (ps3recomp). WIP ~15%. No game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -237,7 +969,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-22T13:11:29.384458+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-23T00:43:05.872785+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
+        "latest_release_url": "https://github.com/R0Y00/Xbox2Windows/releases/tag/gpu-check-v0.1.0",
+        "latest_release_name": "Windows GPU Check v0.1.0 — native wave64 testers wanted",
+        "release_assets": [
+          {
+            "name": "Xbox2Windows-GpuCheck-win-x64.zip",
+            "url": "https://github.com/R0Y00/Xbox2Windows/releases/download/gpu-check-v0.1.0/Xbox2Windows-GpuCheck-win-x64.zip",
+            "size": 187311
+          },
+          {
+            "name": "Xbox2Windows-GpuCheck-win-x64.zip.sha256",
+            "url": "https://github.com/R0Y00/Xbox2Windows/releases/download/gpu-check-v0.1.0/Xbox2Windows-GpuCheck-win-x64.zip.sha256",
+            "size": 101
+          }
+        ],
+        "releases": [
+          {
+            "name": "Windows GPU Check v0.1.0 — native wave64 testers wanted",
+            "url": "https://github.com/R0Y00/Xbox2Windows/releases/tag/gpu-check-v0.1.0",
+            "published_at": "2026-11-20T20:53:10Z",
+            "assets": [
+              {
+                "name": "Xbox2Windows-GpuCheck-win-x64.zip",
+                "url": "https://github.com/R0Y00/Xbox2Windows/releases/download/gpu-check-v0.1.0/Xbox2Windows-GpuCheck-win-x64.zip",
+                "size": 187311
+              },
+              {
+                "name": "Xbox2Windows-GpuCheck-win-x64.zip.sha256",
+                "url": "https://github.com/R0Y00/Xbox2Windows/releases/download/gpu-check-v0.1.0/Xbox2Windows-GpuCheck-win-x64.zip.sha256",
+                "size": 101
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -250,9 +1030,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Xbox2Windows-GpuCheck-win-x64.zip",
+          "url": "https://github.com/R0Y00/Xbox2Windows/releases/download/gpu-check-v0.1.0/Xbox2Windows-GpuCheck-win-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Xbox2Windows-GpuCheck-win-x64.zip.sha256",
+          "url": "https://github.com/R0Y00/Xbox2Windows/releases/download/gpu-check-v0.1.0/Xbox2Windows-GpuCheck-win-x64.zip.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
