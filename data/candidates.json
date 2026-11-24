@@ -1,7 +1,535 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-24T04:41:31.187810+00:00",
+  "last_updated": "2026-11-24T15:41:03.662149+00:00",
   "candidates": [
+    {
+      "title": "kikamitrsh22/SaintsRow-Android-Port",
+      "url": "https://github.com/kikamitrsh22/SaintsRow-Android-Port",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-23T16:57:37Z",
+      "summary": "Static recompilation port of Saints Row (Xbox 360) to Windows and Android. Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-24T15:40:48.939436+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "Xive080/element-115",
+      "url": "https://github.com/Xive080/element-115",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-23T22:34:39Z",
+      "summary": "Unofficial native port of a zombies game, harness for macOS + Android (arm64, Vulkan). No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-24T15:40:46.453733+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "manuk-bulan/MANUK-MKSM-Xbox-Android",
+      "url": "https://github.com/manuk-bulan/MANUK-MKSM-Xbox-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-24T04:15:13Z",
+      "summary": "Unofficial Android (arm64) port of Mortal Kombat: Shaolin Monks (Xbox), statically recompiled with XboxXBE-Recomp. Vulkan renderer, touch controls, gamepad support, optional CRT/scanline filters, FXAA/SSAA and cheats. No game files included — bring your own disc image.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-24T15:40:46.451919+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "team-hippodrome/stadion",
+      "url": "https://github.com/team-hippodrome/stadion",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-24T06:53:32Z",
+      "summary": "stadion: a native N64 game port for Windows, macOS, Linux and Android, with local multiplayer, Transfer Pak support and a built-in Game Boy Tower.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-24T15:40:44.058619+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 6,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: game port",
+        "Есть игровые/платформенные признаки: game, windows, linux, android"
+      ]
+    },
+    {
+      "title": "lsyymmilo/Handkerchief2000-NX",
+      "url": "https://github.com/lsyymmilo/Handkerchief2000-NX",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-24T13:13:29Z",
+      "summary": "Nintendo Switch port of Handkerchief 2000 - static recompilation (x86 to C), Chinese text, save/load/delete slots, native widescreen. You need your own copy of the game. Topics: atmosphere, game-port, libnx, nintendo-switch, sdl2, static-recompilation, switch-homebrew",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-24T15:40:39.264088+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch",
+          "switch port"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "zwaetschge/trackmania-turbo-android",
+      "url": "https://github.com/zwaetschge/trackmania-turbo-android",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-24T13:24:43Z",
+      "summary": "Build-it-yourself Android (arm64) port of the PC game Trackmania Turbo via static recompilation - bring your own copy, no game files included Topics: android, arm64, dxvk, game-port, recompilation, static-recompilation, trackmania, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-24T15:40:39.263093+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android build"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "e85442695-beep/kestrel",
+      "url": "https://github.com/e85442695-beep/kestrel",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-24T13:25:02Z",
+      "summary": "Console -> PC: static recompilation of the Xbox Series build of GTA VI. No game data. Topics: gta6, recompilation, reverse-engineering, runtime, vulkan, xbox-series",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-24T15:40:39.262232+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "irolup/skate3-nx2",
+      "url": "https://github.com/irolup/skate3-nx2",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-24T13:48:39Z",
+      "summary": "Unofficial Nintendo Switch 2 homebrew port of the Skate 3 static recompilation (skate3recomp). No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-24T15:40:39.261507+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "scarlett-commons/scarlett-commons",
+      "url": "https://github.com/scarlett-commons/scarlett-commons",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-24T14:20:26Z",
+      "summary": "An open hybrid recompiler for Xbox Series X|S titles on PC: native execution now, static recompilation of what matters, checked on real hardware. Built by people and AI agents; no game data. Topics: ai-agents, compatibility-layer, gpu-testing, rdna2, reverse-engineering, shader-testing, xbox, xbox-series-x",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-24T15:40:39.260598+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "kelvynzucco/majistic-recomp",
+      "url": "https://github.com/kelvynzucco/majistic-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-24T14:41:35Z",
+      "summary": "Native PC port and static recompilation of Majin and the Forsaken Kingdom (Xbox 360) for Windows, with a focus on game preservation. Vulkan, locked 60 FPS, and 4K support. Topics: 60fps, cpp23, direct3d12, dx12, game-port, game-preservation, majin, majin-and-the-forsaken-kingdom, native-pc-port, pc-port, powerpc, recomp, recompilation, reverse-engineering, static-recompilation, tauri, windows, x64, xbox-360, xbox360",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-24T15:40:39.259352+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, game preservation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "kilnan/pes6-recomp",
+      "url": "https://github.com/kilnan/pes6-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-24T14:46:34Z",
+      "summary": "Static recompilation of Pro Evolution Soccer 6 (PS2, PAL) with PS2Recomp. No game data included; use your own copy.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-24T15:40:39.258336+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "dguillot-gh/spirit-tracks-recomp",
+      "url": "https://github.com/dguillot-gh/spirit-tracks-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-24T15:29:57Z",
+      "summary": "Native PC and Android port of Zelda: Spirit Tracks (DS) by static recompilation. No game data: build from your own ROM.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-24T15:40:39.257617+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, android"
+      ]
+    },
+    {
+      "title": "Sammiee2015lulz/neon-asteroid-dodge-2026-11-24",
+      "url": "https://github.com/Sammiee2015lulz/neon-asteroid-dodge-2026-11-24",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-11-24T06:14:12Z",
+      "summary": "Fun daily game by Grok: Neon Asteroid Dodge! Control your ship, dodge asteroids, catch power-ups. Play in browser!",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-24T15:40:31.709428+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "play in browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, play in browser",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
+      ]
+    },
+    {
+      "title": "WGAnkur/mukti-game",
+      "url": "https://github.com/WGAnkur/mukti-game",
+      "source_name": "GitHub: browser playable",
+      "published": "2026-11-24T15:18:19Z",
+      "summary": "Mukti game - play in browser",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-24T15:40:31.708736+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "play in browser"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, play in browser",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса"
+      ]
+    },
+    {
+      "title": "formae-group/diamond-rush-web",
+      "url": "https://github.com/formae-group/diamond-rush-web",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-23T16:38:45Z",
+      "summary": "A browser port of Diamond Rush (J2ME, Sony Ericsson S700) that runs the original game logic, with a preservation lab.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-24T15:40:28.601091+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game"
+      ]
+    },
+    {
+      "title": "denis-1337/USI-3D-Game",
+      "url": "https://github.com/denis-1337/USI-3D-Game",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-24T01:29:30Z",
+      "summary": "3D browser port of a old DOS game",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-24T15:40:28.600456+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "IamWilmar/p5r-recomp",
       "url": "https://github.com/IamWilmar/p5r-recomp",
@@ -1220,7 +1748,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T15:49:05.846157+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-24T15:40:50.749566+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Need for Speed: Porsche Unleashed in the browser (static recompilation, WebGPU). No game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -1253,7 +1798,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T15:49:05.845365+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-24T15:40:52.228044+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of a Wii U 3D platformer (RedCarpet.rpx) to native Android and PC with Vulkan. No game code, assets or keys.",
+        "latest_release_url": "https://github.com/BelmanteGu/3dWorldRecomp/releases/tag/v1.0",
+        "latest_release_name": "v1.0 — sopro, giroscópio e mais leve",
+        "release_assets": [
+          {
+            "name": "SM3DW-v1.0.apk",
+            "url": "https://github.com/BelmanteGu/3dWorldRecomp/releases/download/v1.0/SM3DW-v1.0.apk",
+            "size": 96310730
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.0 — sopro, giroscópio e mais leve",
+            "url": "https://github.com/BelmanteGu/3dWorldRecomp/releases/tag/v1.0",
+            "published_at": "2026-11-23T14:03:18Z",
+            "assets": [
+              {
+                "name": "SM3DW-v1.0.apk",
+                "url": "https://github.com/BelmanteGu/3dWorldRecomp/releases/download/v1.0/SM3DW-v1.0.apk",
+                "size": 96310730
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -1266,9 +1849,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SM3DW-v1.0.apk",
+          "url": "https://github.com/BelmanteGu/3dWorldRecomp/releases/download/v1.0/SM3DW-v1.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -1286,7 +1876,171 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T15:49:05.844628+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-24T15:40:53.828701+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows PC port of Gran Turismo 6 (EU BCES01893, update 1.22): static recompilation and a one-click setup launcher. The game is not included.",
+        "latest_release_url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/tag/v20261124-2208",
+        "latest_release_name": "GT6 PC 20261124-2208",
+        "release_assets": [
+          {
+            "name": "GT6_PC_20261124-2208.zip",
+            "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261124-2208/GT6_PC_20261124-2208.zip",
+            "size": 87852947
+          }
+        ],
+        "releases": [
+          {
+            "name": "GT6 PC 20261124-2208",
+            "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/tag/v20261124-2208",
+            "published_at": "2026-11-24T13:09:47Z",
+            "assets": [
+              {
+                "name": "GT6_PC_20261124-2208.zip",
+                "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261124-2208/GT6_PC_20261124-2208.zip",
+                "size": 87852947
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "GT6 PC 20261124-1834",
+            "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/tag/v20261124-1834",
+            "published_at": "2026-11-24T09:35:12Z",
+            "assets": [
+              {
+                "name": "GT6_PC_20261124-1834.zip",
+                "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261124-1834/GT6_PC_20261124-1834.zip",
+                "size": 87844957
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "GT6 PC 20261124-1612",
+            "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/tag/v20261124-1612",
+            "published_at": "2026-11-24T07:13:17Z",
+            "assets": [
+              {
+                "name": "GT6_PC_20261124-1612.zip",
+                "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261124-1612/GT6_PC_20261124-1612.zip",
+                "size": 87836322
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "GT6 PC 20261124-1512",
+            "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/tag/v20261124-1512",
+            "published_at": "2026-11-24T06:12:48Z",
+            "assets": [
+              {
+                "name": "GT6_PC_20261124-1512.zip",
+                "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261124-1512/GT6_PC_20261124-1512.zip",
+                "size": 87834242
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "GT6 PC 20261124-1213",
+            "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/tag/v20261124-1213",
+            "published_at": "2026-11-24T03:15:39Z",
+            "assets": [
+              {
+                "name": "GT6_PC_20261124-1213.zip",
+                "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261124-1213/GT6_PC_20261124-1213.zip",
+                "size": 87834059
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "GT6 PC 20261124-0952",
+            "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/tag/v20261124-0952",
+            "published_at": "2026-11-24T00:53:34Z",
+            "assets": [
+              {
+                "name": "GT6_PC_20261124-0952.zip",
+                "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261124-0952/GT6_PC_20261124-0952.zip",
+                "size": 87824282
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "GT6 PC 20261123-2302",
+            "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/tag/v20261123-2302",
+            "published_at": "2026-11-23T14:03:40Z",
+            "assets": [
+              {
+                "name": "GT6_PC_20261123-2302.zip",
+                "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261123-2302/GT6_PC_20261123-2302.zip",
+                "size": 87824797
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "GT6 PC 20261123-2139",
+            "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/tag/v20261123-2139",
+            "published_at": "2026-11-23T12:40:30Z",
+            "assets": [
+              {
+                "name": "GT6_PC_20261123-2139.zip",
+                "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261123-2139/GT6_PC_20261123-2139.zip",
+                "size": 87825044
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "GT6 PC 20261123-2019",
+            "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/tag/v20261123-2019",
+            "published_at": "2026-11-23T11:22:23Z",
+            "assets": [
+              {
+                "name": "GT6_PC_20261123-2019.zip",
+                "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261123-2019/GT6_PC_20261123-2019.zip",
+                "size": 87821238
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "GT6 PC 20261123-1429",
+            "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/tag/v20261123-1429",
+            "published_at": "2026-11-23T05:30:25Z",
+            "assets": [
+              {
+                "name": "GT6_PC_20261123-1429.zip",
+                "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261123-1429/GT6_PC_20261123-1429.zip",
+                "size": 87809082
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -1300,9 +2054,61 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "GT6_PC_20261124-2208.zip",
+          "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261124-2208/GT6_PC_20261124-2208.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GT6_PC_20261124-1834.zip",
+          "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261124-1834/GT6_PC_20261124-1834.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GT6_PC_20261124-1612.zip",
+          "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261124-1612/GT6_PC_20261124-1612.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GT6_PC_20261124-1512.zip",
+          "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261124-1512/GT6_PC_20261124-1512.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GT6_PC_20261124-1213.zip",
+          "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261124-1213/GT6_PC_20261124-1213.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GT6_PC_20261124-0952.zip",
+          "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261124-0952/GT6_PC_20261124-0952.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GT6_PC_20261123-2302.zip",
+          "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261123-2302/GT6_PC_20261123-2302.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GT6_PC_20261123-2139.zip",
+          "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261123-2139/GT6_PC_20261123-2139.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GT6_PC_20261123-2019.zip",
+          "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261123-2019/GT6_PC_20261123-2019.zip",
+          "type": "archive"
+        },
+        {
+          "name": "GT6_PC_20261123-1429.zip",
+          "url": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced/releases/download/v20261123-1429/GT6_PC_20261123-1429.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -1320,7 +2126,486 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T15:49:05.843739+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-24T15:40:55.473420+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Experimental static recompilation of Mario Kart 8 Deluxe 4.0.1 for Windows x64 and Linux amd64. Native Vulkan runtime, Mii creator, online play via Nextendo and Steam rooms. Bring your own game files and keys: no ROMs, assets or keys included.",
+        "latest_release_url": "https://github.com/Vnnc1/MK8-online/releases/tag/v0.6.3",
+        "latest_release_name": "MK8-online 0.6.3 — 60 FPS Races Again, Linux Build Recognition & Steam Controller on Wayland",
+        "release_assets": [
+          {
+            "name": "build-ffmpeg.sh",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/build-ffmpeg.sh",
+            "size": 3845
+          },
+          {
+            "name": "ffmpeg-9.0.2.tar.xz",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/ffmpeg-9.0.2.tar.xz",
+            "size": 12040788
+          },
+          {
+            "name": "MK8-online-0.6.3-linux-x86_64.AppImage",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-linux-x86_64.AppImage",
+            "size": 48859640
+          },
+          {
+            "name": "MK8-online-0.6.3-linux-x86_64.AppImage.sha256",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-linux-x86_64.AppImage.sha256",
+            "size": 105
+          },
+          {
+            "name": "MK8-online-0.6.3-linux-x86_64.tar.gz",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-linux-x86_64.tar.gz",
+            "size": 48329547
+          },
+          {
+            "name": "MK8-online-0.6.3-linux-x86_64.tar.gz.sha256",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-linux-x86_64.tar.gz.sha256",
+            "size": 103
+          },
+          {
+            "name": "MK8-online-0.6.3-portable.zip",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-portable.zip",
+            "size": 51869556
+          },
+          {
+            "name": "MK8-online-0.6.3-portable.zip.sha256",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-portable.zip.sha256",
+            "size": 97
+          },
+          {
+            "name": "MK8-online-0.6.3-setup.exe",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-setup.exe",
+            "size": 62932480
+          },
+          {
+            "name": "MK8-online-0.6.3-setup.exe.sha256",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-setup.exe.sha256",
+            "size": 94
+          }
+        ],
+        "releases": [
+          {
+            "name": "MK8-online 0.6.3 — 60 FPS Races Again, Linux Build Recognition & Steam Controller on Wayland",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/tag/v0.6.3",
+            "published_at": "2026-11-23T21:47:03Z",
+            "assets": [
+              {
+                "name": "build-ffmpeg.sh",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/build-ffmpeg.sh",
+                "size": 3845
+              },
+              {
+                "name": "ffmpeg-9.0.2.tar.xz",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/ffmpeg-9.0.2.tar.xz",
+                "size": 12040788
+              },
+              {
+                "name": "MK8-online-0.6.3-linux-x86_64.AppImage",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-linux-x86_64.AppImage",
+                "size": 48859640
+              },
+              {
+                "name": "MK8-online-0.6.3-linux-x86_64.AppImage.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-linux-x86_64.AppImage.sha256",
+                "size": 105
+              },
+              {
+                "name": "MK8-online-0.6.3-linux-x86_64.tar.gz",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-linux-x86_64.tar.gz",
+                "size": 48329547
+              },
+              {
+                "name": "MK8-online-0.6.3-linux-x86_64.tar.gz.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-linux-x86_64.tar.gz.sha256",
+                "size": 103
+              },
+              {
+                "name": "MK8-online-0.6.3-portable.zip",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-portable.zip",
+                "size": 51869556
+              },
+              {
+                "name": "MK8-online-0.6.3-portable.zip.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-portable.zip.sha256",
+                "size": 97
+              },
+              {
+                "name": "MK8-online-0.6.3-setup.exe",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-setup.exe",
+                "size": 62932480
+              },
+              {
+                "name": "MK8-online-0.6.3-setup.exe.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-setup.exe.sha256",
+                "size": 94
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "MK8-online 0.6.1 — Nextendo Sign-in Fix",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/tag/v0.6.1",
+            "published_at": "2026-11-23T17:55:04Z",
+            "assets": [
+              {
+                "name": "build-ffmpeg.sh",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/build-ffmpeg.sh",
+                "size": 3845
+              },
+              {
+                "name": "ffmpeg-9.0.2.tar.xz",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/ffmpeg-9.0.2.tar.xz",
+                "size": 12040788
+              },
+              {
+                "name": "MK8-online-0.6.1-linux-x86_64.AppImage",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/MK8-online-0.6.1-linux-x86_64.AppImage",
+                "size": 48863736
+              },
+              {
+                "name": "MK8-online-0.6.1-linux-x86_64.AppImage.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/MK8-online-0.6.1-linux-x86_64.AppImage.sha256",
+                "size": 105
+              },
+              {
+                "name": "MK8-online-0.6.1-linux-x86_64.tar.gz",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/MK8-online-0.6.1-linux-x86_64.tar.gz",
+                "size": 48325590
+              },
+              {
+                "name": "MK8-online-0.6.1-linux-x86_64.tar.gz.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/MK8-online-0.6.1-linux-x86_64.tar.gz.sha256",
+                "size": 103
+              },
+              {
+                "name": "MK8-online-0.6.1-portable.zip",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/MK8-online-0.6.1-portable.zip",
+                "size": 51861066
+              },
+              {
+                "name": "MK8-online-0.6.1-portable.zip.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/MK8-online-0.6.1-portable.zip.sha256",
+                "size": 97
+              },
+              {
+                "name": "MK8-online-0.6.1-setup.exe",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/MK8-online-0.6.1-setup.exe",
+                "size": 62925824
+              },
+              {
+                "name": "MK8-online-0.6.1-setup.exe.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/MK8-online-0.6.1-setup.exe.sha256",
+                "size": 94
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "MK8-online 0.6.0 — RomFS Mods, Ultrawide Frame Generation & One Tree for Windows and Linux",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/tag/v0.6.0",
+            "published_at": "2026-11-23T15:15:27Z",
+            "assets": [
+              {
+                "name": "build-ffmpeg.sh",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/build-ffmpeg.sh",
+                "size": 3845
+              },
+              {
+                "name": "ffmpeg-9.0.2.tar.xz",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/ffmpeg-9.0.2.tar.xz",
+                "size": 12040788
+              },
+              {
+                "name": "MK8-online-0.6.0-linux-x86_64.AppImage",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/MK8-online-0.6.0-linux-x86_64.AppImage",
+                "size": 48851448
+              },
+              {
+                "name": "MK8-online-0.6.0-linux-x86_64.AppImage.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/MK8-online-0.6.0-linux-x86_64.AppImage.sha256",
+                "size": 105
+              },
+              {
+                "name": "MK8-online-0.6.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/MK8-online-0.6.0-linux-x86_64.tar.gz",
+                "size": 48325276
+              },
+              {
+                "name": "MK8-online-0.6.0-linux-x86_64.tar.gz.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/MK8-online-0.6.0-linux-x86_64.tar.gz.sha256",
+                "size": 103
+              },
+              {
+                "name": "MK8-online-0.6.0-portable.zip",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/MK8-online-0.6.0-portable.zip",
+                "size": 51869283
+              },
+              {
+                "name": "MK8-online-0.6.0-portable.zip.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/MK8-online-0.6.0-portable.zip.sha256",
+                "size": 97
+              },
+              {
+                "name": "MK8-online-0.6.0-setup.exe",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/MK8-online-0.6.0-setup.exe",
+                "size": 62965760
+              },
+              {
+                "name": "MK8-online-0.6.0-setup.exe.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/MK8-online-0.6.0-setup.exe.sha256",
+                "size": 94
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "MK8-online 0.5.0 — Native Linux AppImage, Mii Profiles & Graphics Settings",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/tag/v0.5.0",
+            "published_at": "2026-11-21T02:50:05Z",
+            "assets": [
+              {
+                "name": "build-ffmpeg.sh",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/build-ffmpeg.sh",
+                "size": 3845
+              },
+              {
+                "name": "ffmpeg-9.0.2.tar.xz",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/ffmpeg-9.0.2.tar.xz",
+                "size": 12040788
+              },
+              {
+                "name": "MK8-online-0.5.0-linux-x86_64.AppImage",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/MK8-online-0.5.0-linux-x86_64.AppImage",
+                "size": 47962616
+              },
+              {
+                "name": "MK8-online-0.5.0-linux-x86_64.AppImage.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/MK8-online-0.5.0-linux-x86_64.AppImage.sha256",
+                "size": 105
+              },
+              {
+                "name": "MK8-online-0.5.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/MK8-online-0.5.0-linux-x86_64.tar.gz",
+                "size": 47409165
+              },
+              {
+                "name": "MK8-online-0.5.0-linux-x86_64.tar.gz.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/MK8-online-0.5.0-linux-x86_64.tar.gz.sha256",
+                "size": 103
+              },
+              {
+                "name": "MK8-online-0.5.0-portable.zip",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/MK8-online-0.5.0-portable.zip",
+                "size": 49392434
+              },
+              {
+                "name": "MK8-online-0.5.0-portable.zip.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/MK8-online-0.5.0-portable.zip.sha256",
+                "size": 97
+              },
+              {
+                "name": "MK8-online-0.5.0-setup.exe",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/MK8-online-0.5.0-setup.exe",
+                "size": 60190720
+              },
+              {
+                "name": "MK8-online-0.5.0-setup.exe.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/MK8-online-0.5.0-setup.exe.sha256",
+                "size": 94
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "MK8-online 0.4.0 Re-release — Native Online Play with Nextendo (Experimental)",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/tag/v0.4.0",
+            "published_at": "2026-11-20T02:02:56Z",
+            "assets": [
+              {
+                "name": "build-ffmpeg.sh",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.4.0/build-ffmpeg.sh",
+                "size": 3845
+              },
+              {
+                "name": "ffmpeg-9.0.2.tar.xz",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.4.0/ffmpeg-9.0.2.tar.xz",
+                "size": 12040788
+              },
+              {
+                "name": "MK8-online-0.4.0-portable.zip",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.4.0/MK8-online-0.4.0-portable.zip",
+                "size": 49154462
+              },
+              {
+                "name": "MK8-online-0.4.0-portable.zip.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.4.0/MK8-online-0.4.0-portable.zip.sha256",
+                "size": 97
+              },
+              {
+                "name": "MK8-online-0.4.0-setup.exe",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.4.0/MK8-online-0.4.0-setup.exe",
+                "size": 59863040
+              },
+              {
+                "name": "MK8-online-0.4.0-setup.exe.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.4.0/MK8-online-0.4.0-setup.exe.sha256",
+                "size": 94
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "MK8-online 0.3.0 — CTGP Deluxe on 4.0.1 & Launcher Overhaul (Experimental)",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/tag/v0.3.0",
+            "published_at": "2026-11-16T22:16:19Z",
+            "assets": [
+              {
+                "name": "build-ffmpeg.sh",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.3.0/build-ffmpeg.sh",
+                "size": 3845
+              },
+              {
+                "name": "ffmpeg-9.0.2.tar.xz",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.3.0/ffmpeg-9.0.2.tar.xz",
+                "size": 12040788
+              },
+              {
+                "name": "MK8-online-0.3.0-setup.exe",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.3.0/MK8-online-0.3.0-setup.exe",
+                "size": 59518464
+              },
+              {
+                "name": "MK8-online-0.3.0-setup.exe.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.3.0/MK8-online-0.3.0-setup.exe.sha256",
+                "size": 94
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "MK8-online 0.2.0 — Mii Creator & Steam Multiplayer (Experimental)",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/tag/v0.2.0",
+            "published_at": "2026-11-13T05:17:20Z",
+            "assets": [
+              {
+                "name": "build-ffmpeg.sh",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.2.0/build-ffmpeg.sh",
+                "size": 3845
+              },
+              {
+                "name": "ffmpeg-9.0.2.tar.xz",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.2.0/ffmpeg-9.0.2.tar.xz",
+                "size": 12040788
+              },
+              {
+                "name": "MK8-online-0.2.0-setup.exe",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.2.0/MK8-online-0.2.0-setup.exe",
+                "size": 57975296
+              },
+              {
+                "name": "MK8-online-0.2.0-setup.exe.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.2.0/MK8-online-0.2.0-setup.exe.sha256",
+                "size": 94
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "MK8-online 0.1.8 — Preparation & stability fixes / Correções de preparação e estabilidade",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/tag/v0.1.8",
+            "published_at": "2026-11-09T18:38:50Z",
+            "assets": [
+              {
+                "name": "build-ffmpeg.sh",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.8/build-ffmpeg.sh",
+                "size": 3845
+              },
+              {
+                "name": "ffmpeg-9.0.2.tar.xz",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.8/ffmpeg-9.0.2.tar.xz",
+                "size": 12040788
+              },
+              {
+                "name": "MK8-online-0.1.8-setup.exe",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.8/MK8-online-0.1.8-setup.exe",
+                "size": 55676928
+              },
+              {
+                "name": "MK8-online-0.1.8-setup.exe.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.8/MK8-online-0.1.8-setup.exe.sha256",
+                "size": 94
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "MK8-online 0.1.7 — Automatic Python setup",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/tag/v0.1.7",
+            "published_at": "2026-11-09T17:18:38Z",
+            "assets": [
+              {
+                "name": "build-ffmpeg.sh",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.7/build-ffmpeg.sh",
+                "size": 3845
+              },
+              {
+                "name": "ffmpeg-9.0.2.tar.xz",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.7/ffmpeg-9.0.2.tar.xz",
+                "size": 12040788
+              },
+              {
+                "name": "MK8-online-0.1.7-setup.exe",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.7/MK8-online-0.1.7-setup.exe",
+                "size": 55501824
+              },
+              {
+                "name": "MK8-online-0.1.7-setup.exe.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.7/MK8-online-0.1.7-setup.exe.sha256",
+                "size": 94
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "MK8-online v0.1.6 — Experimental / Release experimental",
+            "url": "https://github.com/Vnnc1/MK8-online/releases/tag/v0.1.6",
+            "published_at": "2026-11-09T02:57:11Z",
+            "assets": [
+              {
+                "name": "MK8-online-0.1.6-setup.exe",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.6/MK8-online-0.1.6-setup.exe",
+                "size": 55499776
+              },
+              {
+                "name": "MK8-online-0.1.6-setup.exe.sha256",
+                "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.6/MK8-online-0.1.6-setup.exe.sha256",
+                "size": 94
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -1334,9 +2619,331 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "build-ffmpeg.sh",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/build-ffmpeg.sh",
+          "type": "other_file"
+        },
+        {
+          "name": "ffmpeg-9.0.2.tar.xz",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/ffmpeg-9.0.2.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.6.3-linux-x86_64.AppImage",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "MK8-online-0.6.3-linux-x86_64.AppImage.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-linux-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.6.3-linux-x86_64.tar.gz",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "MK8-online-0.6.3-linux-x86_64.tar.gz.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-linux-x86_64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.6.3-portable.zip",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MK8-online-0.6.3-portable.zip.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-portable.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.6.3-setup.exe",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "MK8-online-0.6.3-setup.exe.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.3/MK8-online-0.6.3-setup.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "build-ffmpeg.sh",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/build-ffmpeg.sh",
+          "type": "other_file"
+        },
+        {
+          "name": "ffmpeg-9.0.2.tar.xz",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/ffmpeg-9.0.2.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.6.1-linux-x86_64.AppImage",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/MK8-online-0.6.1-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "MK8-online-0.6.1-linux-x86_64.AppImage.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/MK8-online-0.6.1-linux-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.6.1-linux-x86_64.tar.gz",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/MK8-online-0.6.1-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "MK8-online-0.6.1-linux-x86_64.tar.gz.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/MK8-online-0.6.1-linux-x86_64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.6.1-portable.zip",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/MK8-online-0.6.1-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MK8-online-0.6.1-portable.zip.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/MK8-online-0.6.1-portable.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.6.1-setup.exe",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/MK8-online-0.6.1-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "MK8-online-0.6.1-setup.exe.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.1/MK8-online-0.6.1-setup.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "build-ffmpeg.sh",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/build-ffmpeg.sh",
+          "type": "other_file"
+        },
+        {
+          "name": "ffmpeg-9.0.2.tar.xz",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/ffmpeg-9.0.2.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.6.0-linux-x86_64.AppImage",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/MK8-online-0.6.0-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "MK8-online-0.6.0-linux-x86_64.AppImage.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/MK8-online-0.6.0-linux-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.6.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/MK8-online-0.6.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "MK8-online-0.6.0-linux-x86_64.tar.gz.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/MK8-online-0.6.0-linux-x86_64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.6.0-portable.zip",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/MK8-online-0.6.0-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MK8-online-0.6.0-portable.zip.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/MK8-online-0.6.0-portable.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.6.0-setup.exe",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/MK8-online-0.6.0-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "MK8-online-0.6.0-setup.exe.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.6.0/MK8-online-0.6.0-setup.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "build-ffmpeg.sh",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/build-ffmpeg.sh",
+          "type": "other_file"
+        },
+        {
+          "name": "ffmpeg-9.0.2.tar.xz",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/ffmpeg-9.0.2.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.5.0-linux-x86_64.AppImage",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/MK8-online-0.5.0-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "MK8-online-0.5.0-linux-x86_64.AppImage.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/MK8-online-0.5.0-linux-x86_64.AppImage.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.5.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/MK8-online-0.5.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "MK8-online-0.5.0-linux-x86_64.tar.gz.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/MK8-online-0.5.0-linux-x86_64.tar.gz.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.5.0-portable.zip",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/MK8-online-0.5.0-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MK8-online-0.5.0-portable.zip.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/MK8-online-0.5.0-portable.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.5.0-setup.exe",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/MK8-online-0.5.0-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "MK8-online-0.5.0-setup.exe.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.5.0/MK8-online-0.5.0-setup.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "build-ffmpeg.sh",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.4.0/build-ffmpeg.sh",
+          "type": "other_file"
+        },
+        {
+          "name": "ffmpeg-9.0.2.tar.xz",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.4.0/ffmpeg-9.0.2.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.4.0-portable.zip",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.4.0/MK8-online-0.4.0-portable.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MK8-online-0.4.0-portable.zip.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.4.0/MK8-online-0.4.0-portable.zip.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.4.0-setup.exe",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.4.0/MK8-online-0.4.0-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "MK8-online-0.4.0-setup.exe.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.4.0/MK8-online-0.4.0-setup.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "build-ffmpeg.sh",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.3.0/build-ffmpeg.sh",
+          "type": "other_file"
+        },
+        {
+          "name": "ffmpeg-9.0.2.tar.xz",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.3.0/ffmpeg-9.0.2.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.3.0-setup.exe",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.3.0/MK8-online-0.3.0-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "MK8-online-0.3.0-setup.exe.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.3.0/MK8-online-0.3.0-setup.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "build-ffmpeg.sh",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.2.0/build-ffmpeg.sh",
+          "type": "other_file"
+        },
+        {
+          "name": "ffmpeg-9.0.2.tar.xz",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.2.0/ffmpeg-9.0.2.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.2.0-setup.exe",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.2.0/MK8-online-0.2.0-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "MK8-online-0.2.0-setup.exe.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.2.0/MK8-online-0.2.0-setup.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "build-ffmpeg.sh",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.8/build-ffmpeg.sh",
+          "type": "other_file"
+        },
+        {
+          "name": "ffmpeg-9.0.2.tar.xz",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.8/ffmpeg-9.0.2.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.1.8-setup.exe",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.8/MK8-online-0.1.8-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "MK8-online-0.1.8-setup.exe.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.8/MK8-online-0.1.8-setup.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "build-ffmpeg.sh",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.7/build-ffmpeg.sh",
+          "type": "other_file"
+        },
+        {
+          "name": "ffmpeg-9.0.2.tar.xz",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.7/ffmpeg-9.0.2.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.1.7-setup.exe",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.7/MK8-online-0.1.7-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "MK8-online-0.1.7-setup.exe.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.7/MK8-online-0.1.7-setup.exe.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "MK8-online-0.1.6-setup.exe",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.6/MK8-online-0.1.6-setup.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "MK8-online-0.1.6-setup.exe.sha256",
+          "url": "https://github.com/Vnnc1/MK8-online/releases/download/v0.1.6/MK8-online-0.1.6-setup.exe.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -1354,7 +2961,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T15:49:05.842707+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-24T15:40:57.281119+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port of Hatsune Miku: Project DIVA F (PS3) by static recompilation with ps3recomp. Any frame rate, Vulkan/D3D12. Bring your own copy: no game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -1389,7 +3013,89 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T15:49:05.841802+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-24T15:40:58.800525+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "SMRPG Recomp: an unofficial static recompilation of Super Mario RPG (Switch, 2023) for Windows, built on LASRecomp. No game files included.",
+        "latest_release_url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/tag/0.52.0-beta",
+        "latest_release_name": "0.52.0-beta: in English and Spanish",
+        "release_assets": [
+          {
+            "name": "mingw-w64-gcc-16.2.0-7.src.tar.zst",
+            "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/download/0.52.0-beta/mingw-w64-gcc-16.2.0-7.src.tar.zst",
+            "size": 107231432
+          },
+          {
+            "name": "mingw-w64-libiconv-1.19.1-1.src.tar.zst",
+            "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/download/0.52.0-beta/mingw-w64-libiconv-1.19.1-1.src.tar.zst",
+            "size": 5104269
+          },
+          {
+            "name": "SMRPG-Recomp-Installer-0.52.0-beta.exe",
+            "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/download/0.52.0-beta/SMRPG-Recomp-Installer-0.52.0-beta.exe",
+            "size": 126683713
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.52.0-beta: in English and Spanish",
+            "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/tag/0.52.0-beta",
+            "published_at": "2026-11-23T15:04:08Z",
+            "assets": [
+              {
+                "name": "mingw-w64-gcc-16.2.0-7.src.tar.zst",
+                "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/download/0.52.0-beta/mingw-w64-gcc-16.2.0-7.src.tar.zst",
+                "size": 107231432
+              },
+              {
+                "name": "mingw-w64-libiconv-1.19.1-1.src.tar.zst",
+                "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/download/0.52.0-beta/mingw-w64-libiconv-1.19.1-1.src.tar.zst",
+                "size": 5104269
+              },
+              {
+                "name": "SMRPG-Recomp-Installer-0.52.0-beta.exe",
+                "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/download/0.52.0-beta/SMRPG-Recomp-Installer-0.52.0-beta.exe",
+                "size": 126683713
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.51.0-beta: first public version",
+            "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/tag/0.51.0-beta",
+            "published_at": "2026-11-23T02:07:24Z",
+            "assets": [
+              {
+                "name": "mingw-w64-gcc-16.2.0-7.src.tar.zst",
+                "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/download/0.51.0-beta/mingw-w64-gcc-16.2.0-7.src.tar.zst",
+                "size": 107231432
+              },
+              {
+                "name": "mingw-w64-libiconv-1.19.1-1.src.tar.zst",
+                "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/download/0.51.0-beta/mingw-w64-libiconv-1.19.1-1.src.tar.zst",
+                "size": 5104269
+              },
+              {
+                "name": "SMRPG-Recomp-Instalador-0.51.0-beta.exe",
+                "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/download/0.51.0-beta/SMRPG-Recomp-Instalador-0.51.0-beta.exe",
+                "size": 126645932
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -1402,9 +3108,41 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "mingw-w64-gcc-16.2.0-7.src.tar.zst",
+          "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/download/0.52.0-beta/mingw-w64-gcc-16.2.0-7.src.tar.zst",
+          "type": "other_file"
+        },
+        {
+          "name": "mingw-w64-libiconv-1.19.1-1.src.tar.zst",
+          "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/download/0.52.0-beta/mingw-w64-libiconv-1.19.1-1.src.tar.zst",
+          "type": "other_file"
+        },
+        {
+          "name": "SMRPG-Recomp-Installer-0.52.0-beta.exe",
+          "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/download/0.52.0-beta/SMRPG-Recomp-Installer-0.52.0-beta.exe",
+          "type": "windows_installer_or_executable"
+        },
+        {
+          "name": "mingw-w64-gcc-16.2.0-7.src.tar.zst",
+          "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/download/0.51.0-beta/mingw-w64-gcc-16.2.0-7.src.tar.zst",
+          "type": "other_file"
+        },
+        {
+          "name": "mingw-w64-libiconv-1.19.1-1.src.tar.zst",
+          "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/download/0.51.0-beta/mingw-w64-libiconv-1.19.1-1.src.tar.zst",
+          "type": "other_file"
+        },
+        {
+          "name": "SMRPG-Recomp-Instalador-0.51.0-beta.exe",
+          "url": "https://github.com/ElKiro1311/smrpg-recompiled/releases/download/0.51.0-beta/SMRPG-Recomp-Instalador-0.51.0-beta.exe",
+          "type": "windows_installer_or_executable"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -1422,7 +3160,74 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T15:49:05.841000+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-24T15:41:00.591190+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "SMRPG Recomp for Android: an unofficial static recompilation of Super Mario RPG (Switch, 2023), built on LASRecomp. No game files included.",
+        "latest_release_url": "https://github.com/ElKiro1311/smrpg-recompiled-android/releases/tag/0.10.0-alpha",
+        "latest_release_name": "0.10.0-alpha: in English and Spanish",
+        "release_assets": [
+          {
+            "name": "ffmpeg-9.0.2.tar.xz",
+            "url": "https://github.com/ElKiro1311/smrpg-recompiled-android/releases/download/0.10.0-alpha/ffmpeg-9.0.2.tar.xz",
+            "size": 12040788
+          },
+          {
+            "name": "smrpg-recomp-android-0.10.0-alpha.apk",
+            "url": "https://github.com/ElKiro1311/smrpg-recompiled-android/releases/download/0.10.0-alpha/smrpg-recomp-android-0.10.0-alpha.apk",
+            "size": 13823020
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.10.0-alpha: in English and Spanish",
+            "url": "https://github.com/ElKiro1311/smrpg-recompiled-android/releases/tag/0.10.0-alpha",
+            "published_at": "2026-11-23T14:45:43Z",
+            "assets": [
+              {
+                "name": "ffmpeg-9.0.2.tar.xz",
+                "url": "https://github.com/ElKiro1311/smrpg-recompiled-android/releases/download/0.10.0-alpha/ffmpeg-9.0.2.tar.xz",
+                "size": 12040788
+              },
+              {
+                "name": "smrpg-recomp-android-0.10.0-alpha.apk",
+                "url": "https://github.com/ElKiro1311/smrpg-recompiled-android/releases/download/0.10.0-alpha/smrpg-recomp-android-0.10.0-alpha.apk",
+                "size": 13823020
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.9.1-alpha: first published APK",
+            "url": "https://github.com/ElKiro1311/smrpg-recompiled-android/releases/tag/0.9.1-alpha",
+            "published_at": "2026-11-23T14:05:07Z",
+            "assets": [
+              {
+                "name": "ffmpeg-9.0.2.tar.xz",
+                "url": "https://github.com/ElKiro1311/smrpg-recompiled-android/releases/download/0.9.1-alpha/ffmpeg-9.0.2.tar.xz",
+                "size": 12040788
+              },
+              {
+                "name": "smrpg-recomp-android-0.9.1-alpha.apk",
+                "url": "https://github.com/ElKiro1311/smrpg-recompiled-android/releases/download/0.9.1-alpha/smrpg-recomp-android-0.9.1-alpha.apk",
+                "size": 13806659
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -1435,9 +3240,31 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "ffmpeg-9.0.2.tar.xz",
+          "url": "https://github.com/ElKiro1311/smrpg-recompiled-android/releases/download/0.10.0-alpha/ffmpeg-9.0.2.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "smrpg-recomp-android-0.10.0-alpha.apk",
+          "url": "https://github.com/ElKiro1311/smrpg-recompiled-android/releases/download/0.10.0-alpha/smrpg-recomp-android-0.10.0-alpha.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "ffmpeg-9.0.2.tar.xz",
+          "url": "https://github.com/ElKiro1311/smrpg-recompiled-android/releases/download/0.9.1-alpha/ffmpeg-9.0.2.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "smrpg-recomp-android-0.9.1-alpha.apk",
+          "url": "https://github.com/ElKiro1311/smrpg-recompiled-android/releases/download/0.9.1-alpha/smrpg-recomp-android-0.9.1-alpha.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -1455,7 +3282,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T15:49:05.840275+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-24T15:41:02.230796+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial static recompilation of an Xbox Series X|S game executable to native Windows. Contains no game code, data, or assets.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
