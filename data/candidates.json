@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-23T15:49:26.427097+00:00",
+  "last_updated": "2026-11-24T04:41:31.187810+00:00",
   "candidates": [
     {
       "title": "IamWilmar/p5r-recomp",
@@ -11,7 +11,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T15:49:12.070319+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-24T04:41:19.643778+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android port of Persona 5 Royal for the Retroid Pocket Flip 2. Early version. Bring your own extracted game files.",
+        "latest_release_url": "https://github.com/IamWilmar/p5r-recomp/releases/tag/v0.1.0",
+        "latest_release_name": "P5R port v0.1.0",
+        "release_assets": [
+          {
+            "name": "p5rport-v0.1.0.apk",
+            "url": "https://github.com/IamWilmar/p5r-recomp/releases/download/v0.1.0/p5rport-v0.1.0.apk",
+            "size": 21873658
+          }
+        ],
+        "releases": [
+          {
+            "name": "P5R port v0.1.0",
+            "url": "https://github.com/IamWilmar/p5r-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-23T02:33:57Z",
+            "assets": [
+              {
+                "name": "p5rport-v0.1.0.apk",
+                "url": "https://github.com/IamWilmar/p5r-recomp/releases/download/v0.1.0/p5rport-v0.1.0.apk",
+                "size": 21873658
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -25,9 +63,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "p5rport-v0.1.0.apk",
+          "url": "https://github.com/IamWilmar/p5r-recomp/releases/download/v0.1.0/p5rport-v0.1.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -45,7 +90,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T15:49:12.069106+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-24T04:41:21.105399+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Persona 3 fes for Android: a native port that runs your own dump (the APK holds no game code or data)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -78,7 +140,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T15:49:12.067939+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-24T04:41:22.464605+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "An unofficial Android port of the WarFront demo with touch controls, adjustable resolution, and a quick in-game guide.",
+        "latest_release_url": "https://github.com/ceejaydelacruz13-glitch/Warfront-Port/releases/tag/v0.1",
+        "latest_release_name": "WarFront Android Demo v0.1.",
+        "release_assets": [
+          {
+            "name": "WarFrontDemo.apk",
+            "url": "https://github.com/ceejaydelacruz13-glitch/Warfront-Port/releases/download/v0.1/WarFrontDemo.apk",
+            "size": 184658148
+          }
+        ],
+        "releases": [
+          {
+            "name": "WarFront Android Demo v0.1.",
+            "url": "https://github.com/ceejaydelacruz13-glitch/Warfront-Port/releases/tag/v0.1",
+            "published_at": "2026-11-23T12:19:05Z",
+            "assets": [
+              {
+                "name": "WarFrontDemo.apk",
+                "url": "https://github.com/ceejaydelacruz13-glitch/Warfront-Port/releases/download/v0.1/WarFrontDemo.apk",
+                "size": 184658148
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -92,9 +192,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "WarFrontDemo.apk",
+          "url": "https://github.com/ceejaydelacruz13-glitch/Warfront-Port/releases/download/v0.1/WarFrontDemo.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -112,7 +219,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T15:49:12.065774+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-24T04:41:23.874685+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Seawolves: an unofficial Android port of Sea Dogs: To Each His Own (Корсары: Каждому своё) on a fork of Storm Engine. Needs your own copy of the game.",
+        "latest_release_url": "https://github.com/maxyo/seawolves/releases/tag/v1.0.0-alpha.1",
+        "latest_release_name": "1.0.0-alpha.1",
+        "release_assets": [
+          {
+            "name": "seawolves-1.0.0-alpha.1-arm64.apk",
+            "url": "https://github.com/maxyo/seawolves/releases/download/v1.0.0-alpha.1/seawolves-1.0.0-alpha.1-arm64.apk",
+            "size": 30674249
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/maxyo/seawolves/releases/download/v1.0.0-alpha.1/SHA256SUMS",
+            "size": 100
+          }
+        ],
+        "releases": [
+          {
+            "name": "1.0.0-alpha.1",
+            "url": "https://github.com/maxyo/seawolves/releases/tag/v1.0.0-alpha.1",
+            "published_at": "2026-11-23T16:19:34Z",
+            "assets": [
+              {
+                "name": "seawolves-1.0.0-alpha.1-arm64.apk",
+                "url": "https://github.com/maxyo/seawolves/releases/download/v1.0.0-alpha.1/seawolves-1.0.0-alpha.1-arm64.apk",
+                "size": 30674249
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/maxyo/seawolves/releases/download/v1.0.0-alpha.1/SHA256SUMS",
+                "size": 100
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -126,9 +281,21 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "seawolves-1.0.0-alpha.1-arm64.apk",
+          "url": "https://github.com/maxyo/seawolves/releases/download/v1.0.0-alpha.1/seawolves-1.0.0-alpha.1-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/maxyo/seawolves/releases/download/v1.0.0-alpha.1/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -146,7 +313,116 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T15:49:12.063817+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-24T04:41:25.339121+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Kotlin port of the Android game VGZ Sea Battle (minSdk 21 / targetSdk 35) with a PHP + SQLite3 backend, crash-safe networking, file logging, and the full decompiled reference sources.",
+        "latest_release_url": "https://github.com/ebram212131/vgz-seabattle/releases/tag/v2.2.2",
+        "latest_release_name": "VGZ Sea Battle 2.2.2 (versionCode 9)",
+        "release_assets": [
+          {
+            "name": "VGZ-SeaBattle-2.2.2-debug.apk",
+            "url": "https://github.com/ebram212131/vgz-seabattle/releases/download/v2.2.2/VGZ-SeaBattle-2.2.2-debug.apk",
+            "size": 3476209
+          },
+          {
+            "name": "VGZ-SeaBattle-2.2.2-release-signed.apk",
+            "url": "https://github.com/ebram212131/vgz-seabattle/releases/download/v2.2.2/VGZ-SeaBattle-2.2.2-release-signed.apk",
+            "size": 3213530
+          }
+        ],
+        "releases": [
+          {
+            "name": "VGZ Sea Battle 2.2.2 (versionCode 9)",
+            "url": "https://github.com/ebram212131/vgz-seabattle/releases/tag/v2.2.2",
+            "published_at": "2026-11-23T18:59:06Z",
+            "assets": [
+              {
+                "name": "VGZ-SeaBattle-2.2.2-debug.apk",
+                "url": "https://github.com/ebram212131/vgz-seabattle/releases/download/v2.2.2/VGZ-SeaBattle-2.2.2-debug.apk",
+                "size": 3476209
+              },
+              {
+                "name": "VGZ-SeaBattle-2.2.2-release-signed.apk",
+                "url": "https://github.com/ebram212131/vgz-seabattle/releases/download/v2.2.2/VGZ-SeaBattle-2.2.2-release-signed.apk",
+                "size": 3213530
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v2.2.0",
+            "url": "https://github.com/ebram212131/vgz-seabattle/releases/tag/v2.2.0",
+            "published_at": "2026-11-23T16:18:52Z",
+            "assets": [
+              {
+                "name": "vgz-sea-battle-2.2.0-release.apk",
+                "url": "https://github.com/ebram212131/vgz-seabattle/releases/download/v2.2.0/vgz-sea-battle-2.2.0-release.apk",
+                "size": 3212782
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v2.1.2 — Fix menu-navigation crash on Android 14+",
+            "url": "https://github.com/ebram212131/vgz-seabattle/releases/tag/v2.1.2",
+            "published_at": "2026-11-23T15:12:42Z",
+            "assets": [
+              {
+                "name": "vgz-seabattle-2.1.2-release.apk",
+                "url": "https://github.com/ebram212131/vgz-seabattle/releases/download/v2.1.2/vgz-seabattle-2.1.2-release.apk",
+                "size": 3212737
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v2.1.1 — Fix sound-play crash + bulletproof logging",
+            "url": "https://github.com/ebram212131/vgz-seabattle/releases/tag/v2.1.1",
+            "published_at": "2026-11-23T14:42:40Z",
+            "assets": [
+              {
+                "name": "vgz-seabattle-2.1.1-release.apk",
+                "url": "https://github.com/ebram212131/vgz-seabattle/releases/download/v2.1.1/vgz-seabattle-2.1.1-release.apk",
+                "size": 3212231
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "VGZ Sea Battle 2.1 (versionCode 4)",
+            "url": "https://github.com/ebram212131/vgz-seabattle/releases/tag/v2.1",
+            "published_at": "2026-11-23T13:51:29Z",
+            "assets": [
+              {
+                "name": "VGZ-SeaBattle-2.1-debug.apk",
+                "url": "https://github.com/ebram212131/vgz-seabattle/releases/download/v2.1/VGZ-SeaBattle-2.1-debug.apk",
+                "size": 3471718
+              },
+              {
+                "name": "VGZ-SeaBattle-2.1-release-signed.apk",
+                "url": "https://github.com/ebram212131/vgz-seabattle/releases/download/v2.1/VGZ-SeaBattle-2.1-release-signed.apk",
+                "size": 3210216
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -159,9 +435,46 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "VGZ-SeaBattle-2.2.2-debug.apk",
+          "url": "https://github.com/ebram212131/vgz-seabattle/releases/download/v2.2.2/VGZ-SeaBattle-2.2.2-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "VGZ-SeaBattle-2.2.2-release-signed.apk",
+          "url": "https://github.com/ebram212131/vgz-seabattle/releases/download/v2.2.2/VGZ-SeaBattle-2.2.2-release-signed.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "vgz-sea-battle-2.2.0-release.apk",
+          "url": "https://github.com/ebram212131/vgz-seabattle/releases/download/v2.2.0/vgz-sea-battle-2.2.0-release.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "vgz-seabattle-2.1.2-release.apk",
+          "url": "https://github.com/ebram212131/vgz-seabattle/releases/download/v2.1.2/vgz-seabattle-2.1.2-release.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "vgz-seabattle-2.1.1-release.apk",
+          "url": "https://github.com/ebram212131/vgz-seabattle/releases/download/v2.1.1/vgz-seabattle-2.1.1-release.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "VGZ-SeaBattle-2.1-debug.apk",
+          "url": "https://github.com/ebram212131/vgz-seabattle/releases/download/v2.1/VGZ-SeaBattle-2.1-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "VGZ-SeaBattle-2.1-release-signed.apk",
+          "url": "https://github.com/ebram212131/vgz-seabattle/releases/download/v2.1/VGZ-SeaBattle-2.1-release-signed.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -179,7 +492,233 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T15:49:12.063030+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-24T04:41:26.834982+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Carmageddon II: Carpocalypse Now recompiled for Android and Linux (bring your own GOG game files)",
+        "latest_release_url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/tag/v1.1.1",
+        "latest_release_name": "v1.1.1",
+        "release_assets": [
+          {
+            "name": "carma2-apk-builder-1.1.1-linux-x64-full.tar.xz",
+            "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-linux-x64-full.tar.xz",
+            "size": 119214648
+          },
+          {
+            "name": "carma2-apk-builder-1.1.1-linux-x64-light.tar.xz",
+            "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-linux-x64-light.tar.xz",
+            "size": 63397880
+          },
+          {
+            "name": "carma2-apk-builder-1.1.1-macos-arm64-full.tar.xz",
+            "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-macos-arm64-full.tar.xz",
+            "size": 83874500
+          },
+          {
+            "name": "carma2-apk-builder-1.1.1-macos-arm64-light.tar.xz",
+            "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-macos-arm64-light.tar.xz",
+            "size": 31050516
+          },
+          {
+            "name": "carma2-apk-builder-1.1.1-macos-x64-full.tar.xz",
+            "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-macos-x64-full.tar.xz",
+            "size": 94709628
+          },
+          {
+            "name": "carma2-apk-builder-1.1.1-macos-x64-light.tar.xz",
+            "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-macos-x64-light.tar.xz",
+            "size": 36389464
+          },
+          {
+            "name": "carma2-apk-builder-1.1.1-windows-x64-full.zip",
+            "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-windows-x64-full.zip",
+            "size": 151788663
+          },
+          {
+            "name": "carma2-apk-builder-1.1.1-windows-x64-light.zip",
+            "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-windows-x64-light.zip",
+            "size": 60911407
+          },
+          {
+            "name": "carma2-runtime-template.apk",
+            "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-runtime-template.apk",
+            "size": 4298000
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.1.1",
+            "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/tag/v1.1.1",
+            "published_at": "2026-11-24T00:19:15Z",
+            "assets": [
+              {
+                "name": "carma2-apk-builder-1.1.1-linux-x64-full.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-linux-x64-full.tar.xz",
+                "size": 119214648
+              },
+              {
+                "name": "carma2-apk-builder-1.1.1-linux-x64-light.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-linux-x64-light.tar.xz",
+                "size": 63397880
+              },
+              {
+                "name": "carma2-apk-builder-1.1.1-macos-arm64-full.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-macos-arm64-full.tar.xz",
+                "size": 83874500
+              },
+              {
+                "name": "carma2-apk-builder-1.1.1-macos-arm64-light.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-macos-arm64-light.tar.xz",
+                "size": 31050516
+              },
+              {
+                "name": "carma2-apk-builder-1.1.1-macos-x64-full.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-macos-x64-full.tar.xz",
+                "size": 94709628
+              },
+              {
+                "name": "carma2-apk-builder-1.1.1-macos-x64-light.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-macos-x64-light.tar.xz",
+                "size": 36389464
+              },
+              {
+                "name": "carma2-apk-builder-1.1.1-windows-x64-full.zip",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-windows-x64-full.zip",
+                "size": 151788663
+              },
+              {
+                "name": "carma2-apk-builder-1.1.1-windows-x64-light.zip",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-windows-x64-light.zip",
+                "size": 60911407
+              },
+              {
+                "name": "carma2-runtime-template.apk",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-runtime-template.apk",
+                "size": 4298000
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.1.0",
+            "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/tag/v1.1.0",
+            "published_at": "2026-11-23T23:27:14Z",
+            "assets": [
+              {
+                "name": "carma2-apk-builder-1.1.0-linux-x64-full.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-apk-builder-1.1.0-linux-x64-full.tar.xz",
+                "size": 119250060
+              },
+              {
+                "name": "carma2-apk-builder-1.1.0-linux-x64-light.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-apk-builder-1.1.0-linux-x64-light.tar.xz",
+                "size": 63394104
+              },
+              {
+                "name": "carma2-apk-builder-1.1.0-macos-arm64-full.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-apk-builder-1.1.0-macos-arm64-full.tar.xz",
+                "size": 83844188
+              },
+              {
+                "name": "carma2-apk-builder-1.1.0-macos-arm64-light.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-apk-builder-1.1.0-macos-arm64-light.tar.xz",
+                "size": 31043452
+              },
+              {
+                "name": "carma2-apk-builder-1.1.0-macos-x64-full.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-apk-builder-1.1.0-macos-x64-full.tar.xz",
+                "size": 94705732
+              },
+              {
+                "name": "carma2-apk-builder-1.1.0-macos-x64-light.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-apk-builder-1.1.0-macos-x64-light.tar.xz",
+                "size": 36383940
+              },
+              {
+                "name": "carma2-apk-builder-1.1.0-windows-x64-full.zip",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-apk-builder-1.1.0-windows-x64-full.zip",
+                "size": 151787632
+              },
+              {
+                "name": "carma2-apk-builder-1.1.0-windows-x64-light.zip",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-apk-builder-1.1.0-windows-x64-light.zip",
+                "size": 60910376
+              },
+              {
+                "name": "carma2-runtime-template.apk",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-runtime-template.apk",
+                "size": 4297776
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0.0",
+            "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/tag/v1.0.0",
+            "published_at": "2026-11-23T16:08:53Z",
+            "assets": [
+              {
+                "name": "carma2-apk-builder-1.0.0-linux-x64-full.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-apk-builder-1.0.0-linux-x64-full.tar.xz",
+                "size": 118958308
+              },
+              {
+                "name": "carma2-apk-builder-1.0.0-linux-x64-light.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-apk-builder-1.0.0-linux-x64-light.tar.xz",
+                "size": 63131776
+              },
+              {
+                "name": "carma2-apk-builder-1.0.0-macos-arm64-full.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-apk-builder-1.0.0-macos-arm64-full.tar.xz",
+                "size": 83632300
+              },
+              {
+                "name": "carma2-apk-builder-1.0.0-macos-arm64-light.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-apk-builder-1.0.0-macos-arm64-light.tar.xz",
+                "size": 30791296
+              },
+              {
+                "name": "carma2-apk-builder-1.0.0-macos-x64-full.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-apk-builder-1.0.0-macos-x64-full.tar.xz",
+                "size": 94450008
+              },
+              {
+                "name": "carma2-apk-builder-1.0.0-macos-x64-light.tar.xz",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-apk-builder-1.0.0-macos-x64-light.tar.xz",
+                "size": 36127104
+              },
+              {
+                "name": "carma2-apk-builder-1.0.0-windows-x64-full.zip",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-apk-builder-1.0.0-windows-x64-full.zip",
+                "size": 151290070
+              },
+              {
+                "name": "carma2-apk-builder-1.0.0-windows-x64-light.zip",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-apk-builder-1.0.0-windows-x64-light.zip",
+                "size": 60412814
+              },
+              {
+                "name": "carma2-runtime-template.apk",
+                "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-runtime-template.apk",
+                "size": 3779504
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -191,14 +730,152 @@
           "android"
         ],
         "pc_terms": [
+          "windows",
           "linux"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "carma2-apk-builder-1.1.1-linux-x64-full.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-linux-x64-full.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.1.1-linux-x64-light.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-linux-x64-light.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.1.1-macos-arm64-full.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-macos-arm64-full.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.1.1-macos-arm64-light.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-macos-arm64-light.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.1.1-macos-x64-full.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-macos-x64-full.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.1.1-macos-x64-light.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-macos-x64-light.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.1.1-windows-x64-full.zip",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-windows-x64-full.zip",
+          "type": "archive"
+        },
+        {
+          "name": "carma2-apk-builder-1.1.1-windows-x64-light.zip",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-apk-builder-1.1.1-windows-x64-light.zip",
+          "type": "archive"
+        },
+        {
+          "name": "carma2-runtime-template.apk",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.1/carma2-runtime-template.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "carma2-apk-builder-1.1.0-linux-x64-full.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-apk-builder-1.1.0-linux-x64-full.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.1.0-linux-x64-light.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-apk-builder-1.1.0-linux-x64-light.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.1.0-macos-arm64-full.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-apk-builder-1.1.0-macos-arm64-full.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.1.0-macos-arm64-light.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-apk-builder-1.1.0-macos-arm64-light.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.1.0-macos-x64-full.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-apk-builder-1.1.0-macos-x64-full.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.1.0-macos-x64-light.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-apk-builder-1.1.0-macos-x64-light.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.1.0-windows-x64-full.zip",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-apk-builder-1.1.0-windows-x64-full.zip",
+          "type": "archive"
+        },
+        {
+          "name": "carma2-apk-builder-1.1.0-windows-x64-light.zip",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-apk-builder-1.1.0-windows-x64-light.zip",
+          "type": "archive"
+        },
+        {
+          "name": "carma2-runtime-template.apk",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.1.0/carma2-runtime-template.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "carma2-apk-builder-1.0.0-linux-x64-full.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-apk-builder-1.0.0-linux-x64-full.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.0.0-linux-x64-light.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-apk-builder-1.0.0-linux-x64-light.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.0.0-macos-arm64-full.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-apk-builder-1.0.0-macos-arm64-full.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.0.0-macos-arm64-light.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-apk-builder-1.0.0-macos-arm64-light.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.0.0-macos-x64-full.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-apk-builder-1.0.0-macos-x64-full.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.0.0-macos-x64-light.tar.xz",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-apk-builder-1.0.0-macos-x64-light.tar.xz",
+          "type": "other_file"
+        },
+        {
+          "name": "carma2-apk-builder-1.0.0-windows-x64-full.zip",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-apk-builder-1.0.0-windows-x64-full.zip",
+          "type": "archive"
+        },
+        {
+          "name": "carma2-apk-builder-1.0.0-windows-x64-light.zip",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-apk-builder-1.0.0-windows-x64-light.zip",
+          "type": "archive"
+        },
+        {
+          "name": "carma2-runtime-template.apk",
+          "url": "https://github.com/afrowebster/Carmageddon-2-Android-port/releases/download/v1.0.0/carma2-runtime-template.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 9,
       "relevance_status": "promising",
@@ -216,23 +893,237 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T15:49:10.035701+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-24T04:41:28.301753+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A port of Lego Rock Raiders (1999) for modern systems. Currently supports Mac, Linux, and Windows",
+        "latest_release_url": "https://github.com/robbert229/lrr-portable/releases/tag/v1.0.0-beta1",
+        "latest_release_name": "lrr-portable 1.0.0-beta1",
+        "release_assets": [
+          {
+            "name": "lrr-portable-1.0.0-beta1-3DS-homebrew-test.zip",
+            "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-3DS-homebrew-test.zip",
+            "size": 2634023
+          },
+          {
+            "name": "lrr-portable-1.0.0-beta1-Android-debug-test.apk",
+            "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Android-debug-test.apk",
+            "size": 6490647
+          },
+          {
+            "name": "lrr-portable-1.0.0-beta1-Darwin-arm64.dmg",
+            "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Darwin-arm64.dmg",
+            "size": 2186258
+          },
+          {
+            "name": "lrr-portable-1.0.0-beta1-Darwin-x86_64.dmg",
+            "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Darwin-x86_64.dmg",
+            "size": 2453126
+          },
+          {
+            "name": "lrr-portable-1.0.0-beta1-Linux-aarch64.flatpak",
+            "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Linux-aarch64.flatpak",
+            "size": 1997000
+          },
+          {
+            "name": "lrr-portable-1.0.0-beta1-Linux-x86_64.AppImage",
+            "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Linux-x86_64.AppImage",
+            "size": 3762680
+          },
+          {
+            "name": "lrr-portable-1.0.0-beta1-Linux-x86_64.flatpak",
+            "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Linux-x86_64.flatpak",
+            "size": 2206656
+          },
+          {
+            "name": "lrr-portable-1.0.0-beta1-Linux-x86_64.tar.gz",
+            "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Linux-x86_64.tar.gz",
+            "size": 3071574
+          },
+          {
+            "name": "lrr-portable-1.0.0-beta1-Windows-arm64.zip",
+            "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Windows-arm64.zip",
+            "size": 2754107
+          },
+          {
+            "name": "lrr-portable-1.0.0-beta1-Windows-x64.zip",
+            "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Windows-x64.zip",
+            "size": 2538083
+          },
+          {
+            "name": "lrr-portable-1.0.0-beta1-Windows-x86.zip",
+            "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Windows-x86.zip",
+            "size": 2172463
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/SHA256SUMS",
+            "size": 1216
+          }
+        ],
+        "releases": [
+          {
+            "name": "lrr-portable 1.0.0-beta1",
+            "url": "https://github.com/robbert229/lrr-portable/releases/tag/v1.0.0-beta1",
+            "published_at": "2026-11-23T04:34:23Z",
+            "assets": [
+              {
+                "name": "lrr-portable-1.0.0-beta1-3DS-homebrew-test.zip",
+                "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-3DS-homebrew-test.zip",
+                "size": 2634023
+              },
+              {
+                "name": "lrr-portable-1.0.0-beta1-Android-debug-test.apk",
+                "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Android-debug-test.apk",
+                "size": 6490647
+              },
+              {
+                "name": "lrr-portable-1.0.0-beta1-Darwin-arm64.dmg",
+                "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Darwin-arm64.dmg",
+                "size": 2186258
+              },
+              {
+                "name": "lrr-portable-1.0.0-beta1-Darwin-x86_64.dmg",
+                "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Darwin-x86_64.dmg",
+                "size": 2453126
+              },
+              {
+                "name": "lrr-portable-1.0.0-beta1-Linux-aarch64.flatpak",
+                "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Linux-aarch64.flatpak",
+                "size": 1997000
+              },
+              {
+                "name": "lrr-portable-1.0.0-beta1-Linux-x86_64.AppImage",
+                "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Linux-x86_64.AppImage",
+                "size": 3762680
+              },
+              {
+                "name": "lrr-portable-1.0.0-beta1-Linux-x86_64.flatpak",
+                "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Linux-x86_64.flatpak",
+                "size": 2206656
+              },
+              {
+                "name": "lrr-portable-1.0.0-beta1-Linux-x86_64.tar.gz",
+                "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Linux-x86_64.tar.gz",
+                "size": 3071574
+              },
+              {
+                "name": "lrr-portable-1.0.0-beta1-Windows-arm64.zip",
+                "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Windows-arm64.zip",
+                "size": 2754107
+              },
+              {
+                "name": "lrr-portable-1.0.0-beta1-Windows-x64.zip",
+                "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Windows-x64.zip",
+                "size": 2538083
+              },
+              {
+                "name": "lrr-portable-1.0.0-beta1-Windows-x86.zip",
+                "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Windows-x86.zip",
+                "size": 2172463
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/SHA256SUMS",
+                "size": 1216
+              }
+            ],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
+        "Android",
         "PC"
       ],
       "category_evidence": {
         "browser_terms": [],
-        "android_terms": [],
+        "android_terms": [
+          "android"
+        ],
         "pc_terms": [
           "windows",
           "linux"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "lrr-portable-1.0.0-beta1-3DS-homebrew-test.zip",
+          "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-3DS-homebrew-test.zip",
+          "type": "archive"
+        },
+        {
+          "name": "lrr-portable-1.0.0-beta1-Android-debug-test.apk",
+          "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Android-debug-test.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "lrr-portable-1.0.0-beta1-Darwin-arm64.dmg",
+          "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Darwin-arm64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "lrr-portable-1.0.0-beta1-Darwin-x86_64.dmg",
+          "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Darwin-x86_64.dmg",
+          "type": "desktop_package"
+        },
+        {
+          "name": "lrr-portable-1.0.0-beta1-Linux-aarch64.flatpak",
+          "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Linux-aarch64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "lrr-portable-1.0.0-beta1-Linux-x86_64.AppImage",
+          "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "lrr-portable-1.0.0-beta1-Linux-x86_64.flatpak",
+          "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Linux-x86_64.flatpak",
+          "type": "other_file"
+        },
+        {
+          "name": "lrr-portable-1.0.0-beta1-Linux-x86_64.tar.gz",
+          "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "lrr-portable-1.0.0-beta1-Windows-arm64.zip",
+          "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Windows-arm64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "lrr-portable-1.0.0-beta1-Windows-x64.zip",
+          "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "lrr-portable-1.0.0-beta1-Windows-x86.zip",
+          "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/lrr-portable-1.0.0-beta1-Windows-x86.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/robbert229/lrr-portable/releases/download/v1.0.0-beta1/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -250,7 +1141,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-23T15:49:05.846808+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-24T04:41:29.772949+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native Android port of Need for Speed: Underground 2, built through static recompilation. Requires your own legally obtained game files.",
+        "latest_release_url": "https://github.com/PotatoRecomp/Underground-2-Android/releases/tag/v1.0.0",
+        "latest_release_name": "Underground 2 for Android v1.0.0",
+        "release_assets": [
+          {
+            "name": "Underground2-1.0.0.apk",
+            "url": "https://github.com/PotatoRecomp/Underground-2-Android/releases/download/v1.0.0/Underground2-1.0.0.apk",
+            "size": 11926582
+          }
+        ],
+        "releases": [
+          {
+            "name": "Underground 2 for Android v1.0.0",
+            "url": "https://github.com/PotatoRecomp/Underground-2-Android/releases/tag/v1.0.0",
+            "published_at": "2026-11-23T11:36:57Z",
+            "assets": [
+              {
+                "name": "Underground2-1.0.0.apk",
+                "url": "https://github.com/PotatoRecomp/Underground-2-Android/releases/download/v1.0.0/Underground2-1.0.0.apk",
+                "size": 11926582
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -264,9 +1193,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Underground2-1.0.0.apk",
+          "url": "https://github.com/PotatoRecomp/Underground-2-Android/releases/download/v1.0.0/Underground2-1.0.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
