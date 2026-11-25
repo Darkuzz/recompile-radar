@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-24T15:41:03.662149+00:00",
+  "last_updated": "2026-11-25T03:28:08.850853+00:00",
   "candidates": [
     {
       "title": "kikamitrsh22/SaintsRow-Android-Port",
@@ -11,7 +11,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-24T15:40:48.939436+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-25T03:27:57.713281+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Static recompilation port of Saints Row (Xbox 360) to Windows and Android. Bring your own game files.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -48,7 +65,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-24T15:40:46.453733+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-25T03:27:59.067513+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native port of a zombies game, harness for macOS + Android (arm64, Vulkan). No game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -81,7 +115,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-24T15:40:46.451919+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-25T03:28:00.385120+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial Android (arm64) port of Mortal Kombat: Shaolin Monks (Xbox), statically recompiled with XboxXBE-Recomp. Vulkan renderer, touch controls, gamepad support, optional CRT/scanline filters, FXAA/SSAA and cheats. No game files included — bring your own disc image.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -114,7 +165,406 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-24T15:40:44.058619+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-25T03:28:01.721505+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "stadion: a native N64 game port for Windows, macOS, Linux and Android, with local multiplayer, Transfer Pak support and a built-in Game Boy Tower.",
+        "latest_release_url": "https://github.com/team-hippodrome/stadion/releases/tag/v0.0.17",
+        "latest_release_name": "v0.0.17",
+        "release_assets": [
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/SHA256SUMS",
+            "size": 506
+          },
+          {
+            "name": "stadion-android-arm64-v0.0.17-debug.apk",
+            "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/stadion-android-arm64-v0.0.17-debug.apk",
+            "size": 100276111
+          },
+          {
+            "name": "stadion-linux-x86_64-v0.0.17.AppImage",
+            "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/stadion-linux-x86_64-v0.0.17.AppImage",
+            "size": 9423352
+          },
+          {
+            "name": "stadion-macos-arm64-v0.0.17.zip",
+            "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/stadion-macos-arm64-v0.0.17.zip",
+            "size": 8684630
+          },
+          {
+            "name": "stadion-windows-arm64-v0.0.17.zip",
+            "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/stadion-windows-arm64-v0.0.17.zip",
+            "size": 8888423
+          },
+          {
+            "name": "stadion-windows-x64-v0.0.17.zip",
+            "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/stadion-windows-x64-v0.0.17.zip",
+            "size": 9351882
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.0.17",
+            "url": "https://github.com/team-hippodrome/stadion/releases/tag/v0.0.17",
+            "published_at": "2026-11-24T05:17:30Z",
+            "assets": [
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/SHA256SUMS",
+                "size": 506
+              },
+              {
+                "name": "stadion-android-arm64-v0.0.17-debug.apk",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/stadion-android-arm64-v0.0.17-debug.apk",
+                "size": 100276111
+              },
+              {
+                "name": "stadion-linux-x86_64-v0.0.17.AppImage",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/stadion-linux-x86_64-v0.0.17.AppImage",
+                "size": 9423352
+              },
+              {
+                "name": "stadion-macos-arm64-v0.0.17.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/stadion-macos-arm64-v0.0.17.zip",
+                "size": 8684630
+              },
+              {
+                "name": "stadion-windows-arm64-v0.0.17.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/stadion-windows-arm64-v0.0.17.zip",
+                "size": 8888423
+              },
+              {
+                "name": "stadion-windows-x64-v0.0.17.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/stadion-windows-x64-v0.0.17.zip",
+                "size": 9351882
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.0.16",
+            "url": "https://github.com/team-hippodrome/stadion/releases/tag/v0.0.16",
+            "published_at": "2026-11-17T22:51:57Z",
+            "assets": [
+              {
+                "name": "pokestadium-android-arm64-v0.0.16-debug.apk",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.16/pokestadium-android-arm64-v0.0.16-debug.apk",
+                "size": 94784575
+              },
+              {
+                "name": "pokestadium-linux-x86_64-v0.0.16.AppImage",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.16/pokestadium-linux-x86_64-v0.0.16.AppImage",
+                "size": 7010808
+              },
+              {
+                "name": "pokestadium-macos-arm64-v0.0.16.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.16/pokestadium-macos-arm64-v0.0.16.zip",
+                "size": 6467414
+              },
+              {
+                "name": "pokestadium-windows-arm64-v0.0.16.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.16/pokestadium-windows-arm64-v0.0.16.zip",
+                "size": 6473432
+              },
+              {
+                "name": "pokestadium-windows-x64-v0.0.16.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.16/pokestadium-windows-x64-v0.0.16.zip",
+                "size": 6925476
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.16/SHA256SUMS",
+                "size": 526
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.0.15",
+            "url": "https://github.com/team-hippodrome/stadion/releases/tag/v0.0.15",
+            "published_at": "2026-11-16T05:22:10Z",
+            "assets": [
+              {
+                "name": "pokestadium-android-arm64-v0.0.15-debug.apk",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.15/pokestadium-android-arm64-v0.0.15-debug.apk",
+                "size": 93940131
+              },
+              {
+                "name": "pokestadium-linux-x86_64-v0.0.15.AppImage",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.15/pokestadium-linux-x86_64-v0.0.15.AppImage",
+                "size": 6994424
+              },
+              {
+                "name": "pokestadium-macos-arm64-v0.0.15.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.15/pokestadium-macos-arm64-v0.0.15.zip",
+                "size": 6436190
+              },
+              {
+                "name": "pokestadium-windows-arm64-v0.0.15.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.15/pokestadium-windows-arm64-v0.0.15.zip",
+                "size": 6446758
+              },
+              {
+                "name": "pokestadium-windows-x64-v0.0.15.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.15/pokestadium-windows-x64-v0.0.15.zip",
+                "size": 6897515
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.15/SHA256SUMS",
+                "size": 526
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.0.14",
+            "url": "https://github.com/team-hippodrome/stadion/releases/tag/v0.0.14",
+            "published_at": "2026-11-13T01:10:20Z",
+            "assets": [
+              {
+                "name": "pokestadium-android-arm64-v0.0.14-debug.apk",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.14/pokestadium-android-arm64-v0.0.14-debug.apk",
+                "size": 93878059
+              },
+              {
+                "name": "pokestadium-linux-x86_64-v0.0.14.AppImage",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.14/pokestadium-linux-x86_64-v0.0.14.AppImage",
+                "size": 6994424
+              },
+              {
+                "name": "pokestadium-macos-arm64-v0.0.14.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.14/pokestadium-macos-arm64-v0.0.14.zip",
+                "size": 6422165
+              },
+              {
+                "name": "pokestadium-windows-arm64-v0.0.14.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.14/pokestadium-windows-arm64-v0.0.14.zip",
+                "size": 6531770
+              },
+              {
+                "name": "pokestadium-windows-x64-v0.0.14.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.14/pokestadium-windows-x64-v0.0.14.zip",
+                "size": 6979312
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.14/SHA256SUMS",
+                "size": 526
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.0.13",
+            "url": "https://github.com/team-hippodrome/stadion/releases/tag/v0.0.13",
+            "published_at": "2026-11-12T13:32:10Z",
+            "assets": [
+              {
+                "name": "pokestadium-android-arm64-v0.0.13-debug.apk",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.13/pokestadium-android-arm64-v0.0.13-debug.apk",
+                "size": 93753379
+              },
+              {
+                "name": "pokestadium-linux-x86_64-v0.0.13.AppImage",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.13/pokestadium-linux-x86_64-v0.0.13.AppImage",
+                "size": 6982136
+              },
+              {
+                "name": "pokestadium-macos-arm64-v0.0.13.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.13/pokestadium-macos-arm64-v0.0.13.zip",
+                "size": 6417740
+              },
+              {
+                "name": "pokestadium-windows-arm64-v0.0.13.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.13/pokestadium-windows-arm64-v0.0.13.zip",
+                "size": 6526520
+              },
+              {
+                "name": "pokestadium-windows-x64-v0.0.13.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.13/pokestadium-windows-x64-v0.0.13.zip",
+                "size": 6973727
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.13/SHA256SUMS",
+                "size": 526
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.0.12 — Windows x64",
+            "url": "https://github.com/team-hippodrome/stadion/releases/tag/v0.0.12",
+            "published_at": "2026-11-10T10:13:45Z",
+            "assets": [
+              {
+                "name": "pokestadium-windows-x64-v0.0.12.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.12/pokestadium-windows-x64-v0.0.12.zip",
+                "size": 7727541
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.12/SHA256SUMS",
+                "size": 102
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.0.11",
+            "url": "https://github.com/team-hippodrome/stadion/releases/tag/v0.0.11",
+            "published_at": "2026-11-03T13:24:14Z",
+            "assets": [
+              {
+                "name": "pokestadium-android-arm64-v0.0.11-debug.apk",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.11/pokestadium-android-arm64-v0.0.11-debug.apk",
+                "size": 82911691
+              },
+              {
+                "name": "pokestadium-linux-x86_64-v0.0.11.AppImage",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.11/pokestadium-linux-x86_64-v0.0.11.AppImage",
+                "size": 6855160
+              },
+              {
+                "name": "pokestadium-macos-arm64-v0.0.11.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.11/pokestadium-macos-arm64-v0.0.11.zip",
+                "size": 6236184
+              },
+              {
+                "name": "pokestadium-windows-arm64-v0.0.11.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.11/pokestadium-windows-arm64-v0.0.11.zip",
+                "size": 7105692
+              },
+              {
+                "name": "pokestadium-windows-x64-v0.0.11.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.11/pokestadium-windows-x64-v0.0.11.zip",
+                "size": 7528158
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.11/SHA256SUMS",
+                "size": 526
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.0.10 — Windows x64",
+            "url": "https://github.com/team-hippodrome/stadion/releases/tag/v0.0.10",
+            "published_at": "2026-11-03T09:20:22Z",
+            "assets": [
+              {
+                "name": "pokestadium-windows-x64-v0.0.10.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.10/pokestadium-windows-x64-v0.0.10.zip",
+                "size": 7539780
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.10/SHA256SUMS",
+                "size": 103
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.0.9",
+            "url": "https://github.com/team-hippodrome/stadion/releases/tag/v0.0.9",
+            "published_at": "2026-11-03T02:07:41Z",
+            "assets": [
+              {
+                "name": "pokestadium-android-arm64-v0.0.9-debug.apk",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.9/pokestadium-android-arm64-v0.0.9-debug.apk",
+                "size": 80533679
+              },
+              {
+                "name": "pokestadium-linux-x86_64-v0.0.9.AppImage",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.9/pokestadium-linux-x86_64-v0.0.9.AppImage",
+                "size": 6810104
+              },
+              {
+                "name": "pokestadium-macos-arm64-v0.0.9.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.9/pokestadium-macos-arm64-v0.0.9.zip",
+                "size": 6178381
+              },
+              {
+                "name": "pokestadium-windows-arm64-v0.0.9.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.9/pokestadium-windows-arm64-v0.0.9.zip",
+                "size": 7049451
+              },
+              {
+                "name": "pokestadium-windows-x64-v0.0.9.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.9/pokestadium-windows-x64-v0.0.9.zip",
+                "size": 7469012
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.9/SHA256SUMS",
+                "size": 521
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.0.8",
+            "url": "https://github.com/team-hippodrome/stadion/releases/tag/v0.0.8",
+            "published_at": "2026-11-02T04:14:47Z",
+            "assets": [
+              {
+                "name": "pokestadium-android-arm64-v0.0.8-debug.apk",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.8/pokestadium-android-arm64-v0.0.8-debug.apk",
+                "size": 80381007
+              },
+              {
+                "name": "pokestadium-linux-x86_64-v0.0.8.AppImage",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.8/pokestadium-linux-x86_64-v0.0.8.AppImage",
+                "size": 6797816
+              },
+              {
+                "name": "pokestadium-macos-arm64-v0.0.8.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.8/pokestadium-macos-arm64-v0.0.8.zip",
+                "size": 6175682
+              },
+              {
+                "name": "pokestadium-windows-arm64-v0.0.8.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.8/pokestadium-windows-arm64-v0.0.8.zip",
+                "size": 6957050
+              },
+              {
+                "name": "pokestadium-windows-x64-v0.0.8.zip",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.8/pokestadium-windows-x64-v0.0.8.zip",
+                "size": 7379506
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.8/SHA256SUMS",
+                "size": 521
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -131,10 +581,272 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "stadion-android-arm64-v0.0.17-debug.apk",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/stadion-android-arm64-v0.0.17-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "stadion-linux-x86_64-v0.0.17.AppImage",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/stadion-linux-x86_64-v0.0.17.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "stadion-macos-arm64-v0.0.17.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/stadion-macos-arm64-v0.0.17.zip",
+          "type": "archive"
+        },
+        {
+          "name": "stadion-windows-arm64-v0.0.17.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/stadion-windows-arm64-v0.0.17.zip",
+          "type": "archive"
+        },
+        {
+          "name": "stadion-windows-x64-v0.0.17.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.17/stadion-windows-x64-v0.0.17.zip",
+          "type": "archive"
+        },
+        {
+          "name": "pokestadium-android-arm64-v0.0.16-debug.apk",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.16/pokestadium-android-arm64-v0.0.16-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "pokestadium-linux-x86_64-v0.0.16.AppImage",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.16/pokestadium-linux-x86_64-v0.0.16.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "pokestadium-macos-arm64-v0.0.16.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.16/pokestadium-macos-arm64-v0.0.16.zip",
+          "type": "archive"
+        },
+        {
+          "name": "pokestadium-windows-arm64-v0.0.16.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.16/pokestadium-windows-arm64-v0.0.16.zip",
+          "type": "archive"
+        },
+        {
+          "name": "pokestadium-windows-x64-v0.0.16.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.16/pokestadium-windows-x64-v0.0.16.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.16/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pokestadium-android-arm64-v0.0.15-debug.apk",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.15/pokestadium-android-arm64-v0.0.15-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "pokestadium-linux-x86_64-v0.0.15.AppImage",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.15/pokestadium-linux-x86_64-v0.0.15.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "pokestadium-macos-arm64-v0.0.15.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.15/pokestadium-macos-arm64-v0.0.15.zip",
+          "type": "archive"
+        },
+        {
+          "name": "pokestadium-windows-arm64-v0.0.15.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.15/pokestadium-windows-arm64-v0.0.15.zip",
+          "type": "archive"
+        },
+        {
+          "name": "pokestadium-windows-x64-v0.0.15.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.15/pokestadium-windows-x64-v0.0.15.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.15/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pokestadium-android-arm64-v0.0.14-debug.apk",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.14/pokestadium-android-arm64-v0.0.14-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "pokestadium-linux-x86_64-v0.0.14.AppImage",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.14/pokestadium-linux-x86_64-v0.0.14.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "pokestadium-macos-arm64-v0.0.14.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.14/pokestadium-macos-arm64-v0.0.14.zip",
+          "type": "archive"
+        },
+        {
+          "name": "pokestadium-windows-arm64-v0.0.14.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.14/pokestadium-windows-arm64-v0.0.14.zip",
+          "type": "archive"
+        },
+        {
+          "name": "pokestadium-windows-x64-v0.0.14.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.14/pokestadium-windows-x64-v0.0.14.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.14/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pokestadium-android-arm64-v0.0.13-debug.apk",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.13/pokestadium-android-arm64-v0.0.13-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "pokestadium-linux-x86_64-v0.0.13.AppImage",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.13/pokestadium-linux-x86_64-v0.0.13.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "pokestadium-macos-arm64-v0.0.13.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.13/pokestadium-macos-arm64-v0.0.13.zip",
+          "type": "archive"
+        },
+        {
+          "name": "pokestadium-windows-arm64-v0.0.13.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.13/pokestadium-windows-arm64-v0.0.13.zip",
+          "type": "archive"
+        },
+        {
+          "name": "pokestadium-windows-x64-v0.0.13.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.13/pokestadium-windows-x64-v0.0.13.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.13/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pokestadium-windows-x64-v0.0.12.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.12/pokestadium-windows-x64-v0.0.12.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.12/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pokestadium-android-arm64-v0.0.11-debug.apk",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.11/pokestadium-android-arm64-v0.0.11-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "pokestadium-linux-x86_64-v0.0.11.AppImage",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.11/pokestadium-linux-x86_64-v0.0.11.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "pokestadium-macos-arm64-v0.0.11.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.11/pokestadium-macos-arm64-v0.0.11.zip",
+          "type": "archive"
+        },
+        {
+          "name": "pokestadium-windows-arm64-v0.0.11.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.11/pokestadium-windows-arm64-v0.0.11.zip",
+          "type": "archive"
+        },
+        {
+          "name": "pokestadium-windows-x64-v0.0.11.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.11/pokestadium-windows-x64-v0.0.11.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.11/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pokestadium-windows-x64-v0.0.10.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.10/pokestadium-windows-x64-v0.0.10.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.10/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pokestadium-android-arm64-v0.0.9-debug.apk",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.9/pokestadium-android-arm64-v0.0.9-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "pokestadium-linux-x86_64-v0.0.9.AppImage",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.9/pokestadium-linux-x86_64-v0.0.9.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "pokestadium-macos-arm64-v0.0.9.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.9/pokestadium-macos-arm64-v0.0.9.zip",
+          "type": "archive"
+        },
+        {
+          "name": "pokestadium-windows-arm64-v0.0.9.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.9/pokestadium-windows-arm64-v0.0.9.zip",
+          "type": "archive"
+        },
+        {
+          "name": "pokestadium-windows-x64-v0.0.9.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.9/pokestadium-windows-x64-v0.0.9.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.9/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pokestadium-android-arm64-v0.0.8-debug.apk",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.8/pokestadium-android-arm64-v0.0.8-debug.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "pokestadium-linux-x86_64-v0.0.8.AppImage",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.8/pokestadium-linux-x86_64-v0.0.8.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "pokestadium-macos-arm64-v0.0.8.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.8/pokestadium-macos-arm64-v0.0.8.zip",
+          "type": "archive"
+        },
+        {
+          "name": "pokestadium-windows-arm64-v0.0.8.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.8/pokestadium-windows-arm64-v0.0.8.zip",
+          "type": "archive"
+        },
+        {
+          "name": "pokestadium-windows-x64-v0.0.8.zip",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.8/pokestadium-windows-x64-v0.0.8.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/team-hippodrome/stadion/releases/download/v0.0.8/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 6,
       "relevance_status": "promising",
@@ -152,7 +864,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-24T15:40:39.264088+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-25T03:28:03.289100+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Nintendo Switch port of Handkerchief 2000 - static recompilation (x86 to C), Chinese text, save/load/delete slots, native widescreen. You need your own copy of the game.",
+        "latest_release_url": "https://github.com/lsyymmilo/Handkerchief2000-NX/releases/tag/2.0",
+        "latest_release_name": "2.0",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "2.0",
+            "url": "https://github.com/lsyymmilo/Handkerchief2000-NX/releases/tag/2.0",
+            "published_at": "2026-11-24T13:13:30Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -184,7 +922,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-24T15:40:39.263093+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-25T03:28:04.692246+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Build-it-yourself Android (arm64) port of the PC game Trackmania Turbo via static recompilation - bring your own copy, no game files included",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -218,7 +973,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-24T15:40:39.262232+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-25T03:28:06.062399+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Console -> PC: static recompilation of the Xbox Series build of GTA VI. No game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -245,7 +1017,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-24T15:40:39.261507+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-25T03:28:07.419903+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial Nintendo Switch 2 homebrew port of the Skate 3 static recompilation (skate3recomp). No game files included.",
+        "latest_release_url": "https://github.com/irolup/skate3-nx2/releases/tag/v1.0.0",
+        "latest_release_name": "v1.0.0",
+        "release_assets": [
+          {
+            "name": "skate3-nx2.zip",
+            "url": "https://github.com/irolup/skate3-nx2/releases/download/v1.0.0/skate3-nx2.zip",
+            "size": 52716821
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.0.0",
+            "url": "https://github.com/irolup/skate3-nx2/releases/tag/v1.0.0",
+            "published_at": "2026-11-22T17:34:23Z",
+            "assets": [
+              {
+                "name": "skate3-nx2.zip",
+                "url": "https://github.com/irolup/skate3-nx2/releases/download/v1.0.0/skate3-nx2.zip",
+                "size": 52716821
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "other",
       "platforms_guess": [],
       "category_evidence": {
@@ -256,9 +1066,16 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "skate3-nx2.zip",
+          "url": "https://github.com/irolup/skate3-nx2/releases/download/v1.0.0/skate3-nx2.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
