@@ -1,7 +1,764 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-25T03:28:08.850853+00:00",
+  "last_updated": "2026-11-25T15:25:22.240548+00:00",
   "candidates": [
+    {
+      "title": "moistman42069/SilentHill3-Quest-VR",
+      "url": "https://github.com/moistman42069/SilentHill3-Quest-VR",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-24T17:47:30Z",
+      "summary": "Unofficial VR port of Silent Hill 3 (PC), standalone on Meta Quest, on cutarev's sh3-nx static recompilation with NotGodlikeUwU's PC VR mod findings. First release in development, testers wanted. Bring your own copy of the PC game. Topics: android, meta-quest, openxr, quest, quest-3, recompilation, sidequest, silent-hill, silent-hill-3, virtual-reality, vr-mod",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:25:06.758814+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "zwaetschge/mewgenics-android",
+      "url": "https://github.com/zwaetschge/mewgenics-android",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-24T21:22:33Z",
+      "summary": "Build-it-yourself Android (arm64) port of the PC game Mewgenics via static recompilation - bring your own copy, no game files included Topics: android, arm64, game-port, mewgenics, opengl-es, recompilation, sdl3, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:25:06.757711+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android build"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "BelmanteGu/RaymanOriginsPCRecomp",
+      "url": "https://github.com/BelmanteGu/RaymanOriginsPCRecomp",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-25T02:25:10Z",
+      "summary": "Static recompilation of Rayman Origins (PC/Steam, x86-32) to native Linux and Android arm64 with Vulkan 1.1. No game code or assets.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:25:06.756837+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux, android"
+      ]
+    },
+    {
+      "title": "zwaetschge/burnout-paradise-android",
+      "url": "https://github.com/zwaetschge/burnout-paradise-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-25T06:34:55Z",
+      "summary": "Build-it-yourself Android (arm64) port of the PC game Burnout Paradise: The Ultimate Box via static recompilation - bring your own copy, no game files included Topics: android, arm64, burnout-paradise, direct3d9, dxvk, game-port, recompilation, static-recompilation, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:25:04.598149+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android build"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "eugene-lesnov/pocketfaangband",
+      "url": "https://github.com/eugene-lesnov/pocketfaangband",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-25T09:05:35Z",
+      "summary": "An unofficial, open-source mobile port of FAangband with touch controls, portrait layout, and offline play. Topics: android, angband, browser, game, ios, pwa, roguelike",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:25:04.596849+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web",
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser"
+        ],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Human9283/The-Movies-Android",
+      "url": "https://github.com/Human9283/The-Movies-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-25T10:40:50Z",
+      "summary": "Native Android ARM64 port of The Movies (2005) by statically recompiling the original Windows executable to C. Bring your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:25:04.595902+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "IvanBarbosaFilho/Yakuza-Kenzan-Recomp",
+      "url": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-25T00:32:48Z",
+      "summary": "Unofficial native PC port of Ryu ga Gotoku Kenzan! (PS3, BLJM60064) for Linux and Windows. Statically recompiled with ps3recomp and rendered with Vulkan, with the English fan translation, 30/60/120 FPS options and a launcher that installs from your own copy of the game. No game files included. Topics: decompilation, pcport, port, ps3, ps3-recompilation, ps3dev, ps3recomp, recomp, recompiled, ryu-ga-gotoku, yakuza, yakuza-0, yakuza-0-review, yakuza-2-trainer-skill-points, yakuza-6-combo-karaoke-perfect, yakuza-extension, yakuza-kiwami, yakuza-kiwami-2, yakuza-kiwami-3, yakuza-like-a-dragon",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:25:02.270126+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "lorransouzaaguiar/Digimon-World-4-Recomp",
+      "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-25T02:56:42Z",
+      "summary": "Digimon World 4 PC port — static recompilation of the original Xbox game into a native Linux program (Vulkan / OpenGL). Windows and macOS planned. Bring your own game dump. Topics: digimon, digimon-world-4, game-port, game-preservation, linux, native-port, opengl, pc-port, recompilation, reverse-engineering, static-recompilation, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:25:02.268494+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom",
+      "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-25T03:59:57Z",
+      "summary": "A native Windows, Linux, Android and iOS port of Sakura Wars: So Long, My Love - Rebloom, built from the PS2 game through static recompilation. Topics: android, game-preservation, ios, linux, ps2, sakura-wars, sakura-wars-v, static-recompilation, vulkan, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:25:02.267217+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": [
+          "ios port"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux, android"
+      ]
+    },
+    {
+      "title": "MaChInEgUn3/TopGear3000-Recompiled",
+      "url": "https://github.com/MaChInEgUn3/TopGear3000-Recompiled",
+      "source_name": "GitHub: PC ports",
+      "published": "2026-11-25T12:16:54Z",
+      "summary": "Native PC port (Linux and Windows) of the SNES game Top Gear 3000, built on the verified readable C of tg3000-decomp. No emulator. Bring your own ROM.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:25:02.264748+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom, windows, linux"
+      ]
+    },
+    {
+      "title": "DayvuJoness/nfs-undercover-mac",
+      "url": "https://github.com/DayvuJoness/nfs-undercover-mac",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-25T12:13:20Z",
+      "summary": "Native Apple Silicon Mac version of Need for Speed: Undercover, built by a Setup app from your own Steam copy of the game (static recompilation, Metal, 24 built-in mods).",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:24:57.448792+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "zap0xfce2/Kula-World-Rerolled",
+      "url": "https://github.com/zap0xfce2/Kula-World-Rerolled",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-25T12:23:56Z",
+      "summary": "Static recompilation of Kula World (PAL, SCES-01000) to native Linux, Windows and macOS using psxrecomp. No game data included – please bring your own disc image.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:24:57.447830+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "vamidi/scars-n64recomp",
+      "url": "https://github.com/vamidi/scars-n64recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-25T13:29:16Z",
+      "summary": "Static recompilation of the game S.C.A.R.S to PC & Switch",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:24:57.447045+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Buyukcaglar/NFSSE",
+      "url": "https://github.com/Buyukcaglar/NFSSE",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-25T13:31:11Z",
+      "summary": "Native ports of The Need for Speed: Special Edition for Windows (64-bit), macOS, PlayStation 3 and PlayStation Vita, made by static recompilation of the original game program. Bring your own game files. Topics: force-feedback, game-preservation, macos, native-port, need-for-speed, nfsse, ps3, psvita, retrogaming, static-recompilation, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:24:57.446187+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": [
+          "playstation vita"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, original game, windows"
+      ]
+    },
+    {
+      "title": "alexbeavs-ps1-ports/disneys-hercules-action-game-recomp",
+      "url": "https://github.com/alexbeavs-ps1-ports/disneys-hercules-action-game-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-25T13:32:23Z",
+      "summary": "Static recompilation of Disney's Hercules Action Game (PlayStation). Owned-input kit: you supply your own disc and BIOS.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:24:57.445221+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "jurek-zsl/EzlosHat",
+      "url": "https://github.com/jurek-zsl/EzlosHat",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-25T13:34:44Z",
+      "summary": "Experimental PS Vita runner for The Legend of Zelda: The Minish Cap (GBA) via static recompilation. Bring your own ROM and BIOS. No game data included. Topics: gba, homebrew, psvita, static-recompilation, vitasdk",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:24:57.444385+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "ps vita"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom"
+      ]
+    },
+    {
+      "title": "finalpantasy/star-road-recomp",
+      "url": "https://github.com/finalpantasy/star-road-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-25T15:18:45Z",
+      "summary": "Star Road Recomp: Super Mario RPG (Nintendo Switch 2023 remake) native PC port via static recompilation and decompilation. SMRPG on Windows with 4K, high FPS, QoL and mods. ARM64 to x86-64, Vulkan. Bring your own dump; no game files included. Topics: aarch64, arm64, decomp, decompilation, il2cpp, mario, native-port, nintendo-switch, pc-port, recomp, recompilation, reverse-engineering, rpg, smrpg, star-road, static-recompilation, super-mario-rpg, switch, unity, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:24:57.443192+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "Simon3Sarkis/fifa-street-3-pc-recomp",
+      "url": "https://github.com/Simon3Sarkis/fifa-street-3-pc-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-25T15:15:18Z",
+      "summary": "FIFA Street 3 (Xbox 360) barebone PC port: native Windows and Linux / Steam Deck builds (ReXGlue static recompilation). Bring your own copy of the game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:24:57.441999+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "chiikabu/minecraft-web",
+      "url": "https://github.com/chiikabu/minecraft-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-25T09:35:32Z",
+      "summary": "Minecraft: Java Edition 26.3 in the browser. Tooling and patches only; build it from your own copy of the game. Topics: browser, browser-game, game, java, javascript, minecraft, minecraft-client, minecraft-java-edition, minecraft-web, port, pwa, shaders, teavm, wasm, wasm-gc, web, webassembly, webaudio, webgl2, webgpu",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:24:52.588749+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "webgl",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "wugang6812/narrow-connect-four",
+      "url": "https://github.com/wugang6812/narrow-connect-four",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-25T09:50:51Z",
+      "summary": "Draw strategies and optimal active-switch budgets for narrow gravity Connect Four, with Lean proofs and a browser game. Topics: connect-four, lean, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:24:52.587340+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "salamaashoush/last-stand",
+      "url": "https://github.com/salamaashoush/last-stand",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-25T14:21:32Z",
+      "summary": "Horde wall defense game: math gates, locked loot, upgrade cards and procedural bosses. C++23 + raylib, plays in the browser. Topics: cpp23, game, raylib, tower-defense, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:24:52.582035+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "Amatya27/CrappyBirds",
+      "url": "https://github.com/Amatya27/CrappyBirds",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-25T01:01:51Z",
+      "summary": "Flappy Bird-style game in Java Swing, plus a browser port with the same physics. Play it on GitHub Pages. Topics: game, game-development, github-pages, html5-canvas, java, javascript, swing",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:24:47.443051+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "html5",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, html5"
+      ]
+    },
     {
       "title": "kikamitrsh22/SaintsRow-Android-Port",
       "url": "https://github.com/kikamitrsh22/SaintsRow-Android-Port",
@@ -1093,7 +1850,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-24T15:40:39.260598+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-25T15:25:08.584901+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "An open hybrid recompiler for Xbox Series X|S titles on PC: native execution now, static recompilation of what matters, checked on real hardware. Built by people and AI agents; no game data.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -1120,7 +1894,160 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-24T15:40:39.259352+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-25T15:25:10.353212+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC port and static recompilation of Majin and the Forsaken Kingdom (Xbox 360) for Windows, with a focus on game preservation. Vulkan, locked 60 FPS, and 4K support.",
+        "latest_release_url": "https://github.com/kelvynzucco/majistic-recomp/releases/tag/v0.1.5",
+        "latest_release_name": "Majistic Recomp v0.1.5 - Full-Res SSSM Fix, Shadow Scaling, Save Profiles & Clean Auto-Updater",
+        "release_assets": [
+          {
+            "name": "latest.json",
+            "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.5/latest.json",
+            "size": 1865
+          },
+          {
+            "name": "Majistic-Recomp-v0.1.5-Windows-x64.zip",
+            "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.5/Majistic-Recomp-v0.1.5-Windows-x64.zip",
+            "size": 131323443
+          },
+          {
+            "name": "Majistic-Recomp-v0.1.5-Windows-x64.zip.sig",
+            "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.5/Majistic-Recomp-v0.1.5-Windows-x64.zip.sig",
+            "size": 452
+          }
+        ],
+        "releases": [
+          {
+            "name": "Majistic Recomp v0.1.5 - Full-Res SSSM Fix, Shadow Scaling, Save Profiles & Clean Auto-Updater",
+            "url": "https://github.com/kelvynzucco/majistic-recomp/releases/tag/v0.1.5",
+            "published_at": "2026-11-24T18:54:01Z",
+            "assets": [
+              {
+                "name": "latest.json",
+                "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.5/latest.json",
+                "size": 1865
+              },
+              {
+                "name": "Majistic-Recomp-v0.1.5-Windows-x64.zip",
+                "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.5/Majistic-Recomp-v0.1.5-Windows-x64.zip",
+                "size": 131323443
+              },
+              {
+                "name": "Majistic-Recomp-v0.1.5-Windows-x64.zip.sig",
+                "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.5/Majistic-Recomp-v0.1.5-Windows-x64.zip.sig",
+                "size": 452
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Majistic Recomp v0.1.4 - Initial Shader Precompilation & Launcher Visual Improvements",
+            "url": "https://github.com/kelvynzucco/majistic-recomp/releases/tag/v0.1.4",
+            "published_at": "2026-11-19T22:45:41Z",
+            "assets": [
+              {
+                "name": "latest.json",
+                "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.4/latest.json",
+                "size": 1327
+              },
+              {
+                "name": "Majistic-Recomp-v0.1.4-Windows-x64.zip",
+                "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.4/Majistic-Recomp-v0.1.4-Windows-x64.zip",
+                "size": 130968454
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Majistic Recomp v0.1.3 - Multi-Edition ISO Support & Control Enhancements",
+            "url": "https://github.com/kelvynzucco/majistic-recomp/releases/tag/v0.1.3",
+            "published_at": "2026-11-17T22:51:15Z",
+            "assets": [
+              {
+                "name": "latest.json",
+                "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.3/latest.json",
+                "size": 1753
+              },
+              {
+                "name": "Majistic-Recomp-v0.1.3-Windows-x64.zip",
+                "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.3/Majistic-Recomp-v0.1.3-Windows-x64.zip",
+                "size": 128950174
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Majistic Recomp v0.1.2 - Release / Dev Launcher Split & Usability Update",
+            "url": "https://github.com/kelvynzucco/majistic-recomp/releases/tag/v0.1.2",
+            "published_at": "2026-11-09T19:39:04Z",
+            "assets": [
+              {
+                "name": "latest.json",
+                "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.2/latest.json",
+                "size": 1379
+              },
+              {
+                "name": "Majistic-Recomp-v0.1.2-Windows-x64.zip",
+                "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.2/Majistic-Recomp-v0.1.2-Windows-x64.zip",
+                "size": 97557000
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Majistic Recomp v0.1.1 - Self-Contained Release & Performance Update",
+            "url": "https://github.com/kelvynzucco/majistic-recomp/releases/tag/v0.1.1",
+            "published_at": "2026-11-08T21:33:28Z",
+            "assets": [
+              {
+                "name": "latest.json",
+                "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.1/latest.json",
+                "size": 1107
+              },
+              {
+                "name": "Majistic-Launcher-v0.1.1-windows-x64.zip",
+                "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.1/Majistic-Launcher-v0.1.1-windows-x64.zip",
+                "size": 78492061
+              },
+              {
+                "name": "Majistic-Recomp-v0.1.1-Windows-x64.zip",
+                "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.1/Majistic-Recomp-v0.1.1-Windows-x64.zip",
+                "size": 97505081
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Majistic Recomp v0.1.0 - Initial Release",
+            "url": "https://github.com/kelvynzucco/majistic-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-08T00:30:40Z",
+            "assets": [
+              {
+                "name": "Majistic-Recomp-v0.1.0-Windows-x64.zip",
+                "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.0/Majistic-Recomp-v0.1.0-Windows-x64.zip",
+                "size": 97347760
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -1135,9 +2062,76 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "latest.json",
+          "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.5/latest.json",
+          "type": "other_file"
+        },
+        {
+          "name": "Majistic-Recomp-v0.1.5-Windows-x64.zip",
+          "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.5/Majistic-Recomp-v0.1.5-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Majistic-Recomp-v0.1.5-Windows-x64.zip.sig",
+          "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.5/Majistic-Recomp-v0.1.5-Windows-x64.zip.sig",
+          "type": "other_file"
+        },
+        {
+          "name": "latest.json",
+          "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.4/latest.json",
+          "type": "other_file"
+        },
+        {
+          "name": "Majistic-Recomp-v0.1.4-Windows-x64.zip",
+          "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.4/Majistic-Recomp-v0.1.4-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "latest.json",
+          "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.3/latest.json",
+          "type": "other_file"
+        },
+        {
+          "name": "Majistic-Recomp-v0.1.3-Windows-x64.zip",
+          "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.3/Majistic-Recomp-v0.1.3-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "latest.json",
+          "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.2/latest.json",
+          "type": "other_file"
+        },
+        {
+          "name": "Majistic-Recomp-v0.1.2-Windows-x64.zip",
+          "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.2/Majistic-Recomp-v0.1.2-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "latest.json",
+          "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.1/latest.json",
+          "type": "other_file"
+        },
+        {
+          "name": "Majistic-Launcher-v0.1.1-windows-x64.zip",
+          "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.1/Majistic-Launcher-v0.1.1-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Majistic-Recomp-v0.1.1-Windows-x64.zip",
+          "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.1/Majistic-Recomp-v0.1.1-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Majistic-Recomp-v0.1.0-Windows-x64.zip",
+          "url": "https://github.com/kelvynzucco/majistic-recomp/releases/download/v0.1.0/Majistic-Recomp-v0.1.0-Windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -1155,7 +2149,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-24T15:40:39.258336+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-25T15:25:12.226426+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Pro Evolution Soccer 6 (PS2, PAL) with PS2Recomp. No game data included; use your own copy.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -1182,7 +2193,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-24T15:40:39.257617+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-25T15:25:13.948097+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC and Android port of Zelda: Spirit Tracks (DS) by static recompilation. No game data: build from your own ROM.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -1220,7 +2248,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-24T15:40:31.709428+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-25T15:25:15.537347+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Fun daily game by Grok: Neon Asteroid Dodge! Control your ship, dodge asteroids, catch power-ups. Play in browser!",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -1254,7 +2299,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-24T15:40:31.708736+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-25T15:25:17.138172+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Mukti game - play in browser",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -1288,7 +2350,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-24T15:40:28.601091+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-25T15:25:18.822572+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A browser port of Diamond Rush (J2ME, Sony Ericsson S700) that runs the original game logic, with a preservation lab.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -1322,7 +2401,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-24T15:40:28.600456+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-25T15:25:20.543185+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "3D browser port of a old DOS game",
+        "latest_release_url": "https://github.com/denis-1337/USI-3D-Game/releases/tag/1.0",
+        "latest_release_name": "1.0 release",
+        "release_assets": [
+          {
+            "name": "usi_browsergame_release1.0.zip",
+            "url": "https://github.com/denis-1337/USI-3D-Game/releases/download/1.0/usi_browsergame_release1.0.zip",
+            "size": 254292
+          }
+        ],
+        "releases": [
+          {
+            "name": "1.0 release",
+            "url": "https://github.com/denis-1337/USI-3D-Game/releases/tag/1.0",
+            "published_at": "2026-05-23T18:19:53Z",
+            "assets": [
+              {
+                "name": "usi_browsergame_release1.0.zip",
+                "url": "https://github.com/denis-1337/USI-3D-Game/releases/download/1.0/usi_browsergame_release1.0.zip",
+                "size": 254292
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -1336,9 +2453,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "usi_browsergame_release1.0.zip",
+          "url": "https://github.com/denis-1337/USI-3D-Game/releases/download/1.0/usi_browsergame_release1.0.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 10,
       "relevance_status": "promising",
