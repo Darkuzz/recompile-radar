@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-25T15:25:22.240548+00:00",
+  "last_updated": "2026-11-26T02:43:49.897789+00:00",
   "candidates": [
     {
-      "title": "moistman42069/SilentHill3-Quest-VR",
-      "url": "https://github.com/moistman42069/SilentHill3-Quest-VR",
-      "source_name": "GitHub: Android recompilation",
-      "published": "2026-11-24T17:47:30Z",
-      "summary": "Unofficial VR port of Silent Hill 3 (PC), standalone on Meta Quest, on cutarev's sh3-nx static recompilation with NotGodlikeUwU's PC VR mod findings. First release in development, testers wanted. Bring your own copy of the PC game. Topics: android, meta-quest, openxr, quest, quest-3, recompilation, sidequest, silent-hill, silent-hill-3, virtual-reality, vr-mod",
+      "title": "erickgxbriel/littlerecomp",
+      "url": "https://github.com/erickgxbriel/littlerecomp",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-25T18:16:07Z",
+      "summary": "LittleRecomp: Native Android ARM64 + Vulkan 1.1 TBDR port of efm-games/scarface-recomp (BYOG, zero game assets included)",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-25T15:25:06.758814+00:00",
+      "found_at": "2026-11-26T02:43:33.271111+00:00",
       "check": null,
       "category": "android",
       "platforms_guess": [
@@ -28,6 +28,562 @@
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки."
       ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "JayElDragon/Pokeborne-Android",
+      "url": "https://github.com/JayElDragon/Pokeborne-Android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-25T18:29:19Z",
+      "summary": "Offline Android port of the Pokeborne web game: WebView wrapper, on-screen controls, 60/120 Hz",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-26T02:43:33.270535+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "vecnam/bounty-hunter-black-dawn-pc",
+      "url": "https://github.com/vecnam/bounty-hunter-black-dawn-pc",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-25T20:11:57Z",
+      "summary": "Unofficial PC port of Bounty Hunter: Black Dawn (Unity 6). No game files: build it from your own copy of the Android game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-26T02:43:33.269922+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "bshar1865/MetroidPrime2Port",
+      "url": "https://github.com/bshar1865/MetroidPrime2Port",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-25T21:06:12Z",
+      "summary": "Native port of Metroid Prime 2: Echoes (GameCube) for Linux and Android, built from the PrimeDecomp decompilation. No emulator, no game assets included: bring your own disc image.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-26T02:43:33.269197+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: decompil, port of, native port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux, android"
+      ]
+    },
+    {
+      "title": "celophi/lom-native",
+      "url": "https://github.com/celophi/lom-native",
+      "source_name": "GitHub: source ports",
+      "published": "2026-11-26T02:39:39Z",
+      "summary": "Source port for the game Legend of Mana built using the lom-decomp project",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-26T02:43:29.073049+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Pfahli/OpenCiM",
+      "url": "https://github.com/Pfahli/OpenCiM",
+      "source_name": "GitHub: source ports",
+      "published": "2026-11-26T02:08:18Z",
+      "summary": "Source port of Cities in Motion with a modern Vulkan renderer, mod support and quality-of-life features. Requires the original game.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-26T02:43:29.072462+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 8,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: source port, port of",
+        "Есть игровые/платформенные признаки: game, original game"
+      ]
+    },
+    {
+      "title": "Qilin1066/ToyCommander--QilinRecomp",
+      "url": "https://github.com/Qilin1066/ToyCommander--QilinRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-25T23:26:39Z",
+      "summary": "Static recompilations of Toy Commander (Dreamcast, 1999) and Toy Racer (Dreamcast, 2000) to portable C++23 with Vulkan 1.3, for Windows, Linux and macOS. No game data included. Topics: cpp23, dreamcast, game-preservation, recompilation, static-recompilation, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-26T02:43:26.812062+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Qilin1066/MetropolisStreetRacer--QilinRecomp",
+      "url": "https://github.com/Qilin1066/MetropolisStreetRacer--QilinRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-25T23:33:18Z",
+      "summary": "Static recompilation of Metropolis Street Racer (Dreamcast, 2000) to portable C++23 with Vulkan 1.3, for Windows, Linux and macOS. No game data included. Topics: cpp23, dreamcast, game-preservation, recompilation, static-recompilation, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-26T02:43:26.811164+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Qilin1066/RidgeRacer7--QilinRecomp",
+      "url": "https://github.com/Qilin1066/RidgeRacer7--QilinRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-25T23:34:12Z",
+      "summary": "Static recompilation of Ridge Racer 7 (PlayStation 3, 2006) to portable C++23 with Vulkan 1.3, for Windows, Linux and macOS. No game data included. Topics: cpp23, game-preservation, ps3, recompilation, static-recompilation, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-26T02:43:26.810296+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Qilin1066/BarbieWildHorseRescue--QilinRecomp",
+      "url": "https://github.com/Qilin1066/BarbieWildHorseRescue--QilinRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-25T23:38:00Z",
+      "summary": "Static recompilation of Barbie Horse Adventures: Wild Horse Rescue (original Xbox, 2003) to portable C++23 with Vulkan 1.3, for Windows, Linux and macOS. No game data included. Topics: cpp23, game-preservation, recompilation, static-recompilation, vulkan, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-26T02:43:26.809401+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "heaven-hm/GameRecomp-SDK",
+      "url": "https://github.com/heaven-hm/GameRecomp-SDK",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-26T00:07:30Z",
+      "summary": "Language SDKs and examples for the GameReComp PE32 x86 static recompilation pipeline",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-26T02:43:26.808645+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording"
+      ]
+    },
+    {
+      "title": "760hdz-creator/Project-Nexus",
+      "url": "https://github.com/760hdz-creator/Project-Nexus",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-26T01:22:34Z",
+      "summary": "Project Nexus: native PC port by static recompilation. Bring your own game disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-26T02:43:26.808078+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Tacitts/Peggle2Recomp",
+      "url": "https://github.com/Tacitts/Peggle2Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-26T01:37:42Z",
+      "summary": "Native Windows port of Peggle 2 (Xbox 360) via static recompilation with XenonRecomp. Work in progress, not playable yet. No game files included: you need your own legally obtained copy.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-26T02:43:26.807442+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 13,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, playable, windows"
+      ]
+    },
+    {
+      "title": "fatuhsa/ct3-recomp",
+      "url": "https://github.com/fatuhsa/ct3-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-26T02:37:01Z",
+      "summary": "Crazy Taxi 3: High Roller (Original Xbox) — Native Android ARM64 + Vulkan static recompilation (no game code/assets included) Topics: android, arm64, cpp, crazy-taxi-3, static-recompilation, vulkan, xbe, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-26T02:43:26.806556+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Indigenous-Healthcare-Advancements/doc-browser-source",
+      "url": "https://github.com/Indigenous-Healthcare-Advancements/doc-browser-source",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-25T22:52:18Z",
+      "summary": "Derby Owners Club in the browser: source for the Flycast WebAssembly cores and game page (GPL)",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-26T02:43:22.510522+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 4,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
+    {
+      "title": "moistman42069/SilentHill3-Quest-VR",
+      "url": "https://github.com/moistman42069/SilentHill3-Quest-VR",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-24T17:47:30Z",
+      "summary": "Unofficial VR port of Silent Hill 3 (PC), standalone on Meta Quest, on cutarev's sh3-nx static recompilation with NotGodlikeUwU's PC VR mod findings. First release in development, testers wanted. Bring your own copy of the PC game. Topics: android, meta-quest, openxr, quest, quest-3, recompilation, sidequest, silent-hill, silent-hill-3, virtual-reality, vr-mod",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-25T15:25:06.758814+00:00",
+      "check": {
+        "checked_at": "2026-11-26T02:43:36.934305+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial VR port of Silent Hill 3 (PC), standalone on Meta Quest, on cutarev's sh3-nx static recompilation with NotGodlikeUwU's PC VR mod findings. First release in development, testers wanted. Bring your own copy of the PC game.",
+        "latest_release_url": "https://github.com/moistman42069/SilentHill3-Quest-VR/releases/tag/v0.1.1",
+        "latest_release_name": "Silent Hill 3 Quest VR 0.1.1",
+        "release_assets": [
+          {
+            "name": "SH3QuestVR-0.1.1.apk",
+            "url": "https://github.com/moistman42069/SilentHill3-Quest-VR/releases/download/v0.1.1/SH3QuestVR-0.1.1.apk",
+            "size": 9200394
+          }
+        ],
+        "releases": [
+          {
+            "name": "Silent Hill 3 Quest VR 0.1.1",
+            "url": "https://github.com/moistman42069/SilentHill3-Quest-VR/releases/tag/v0.1.1",
+            "published_at": "2026-11-26T02:18:00Z",
+            "assets": [
+              {
+                "name": "SH3QuestVR-0.1.1.apk",
+                "url": "https://github.com/moistman42069/SilentHill3-Quest-VR/releases/download/v0.1.1/SH3QuestVR-0.1.1.apk",
+                "size": 9200394
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Silent Hill 3 Quest VR 0.1.0",
+            "url": "https://github.com/moistman42069/SilentHill3-Quest-VR/releases/tag/v0.1.0",
+            "published_at": "2026-11-26T01:53:01Z",
+            "assets": [
+              {
+                "name": "SH3QuestVR-0.1.0.apk",
+                "url": "https://github.com/moistman42069/SilentHill3-Quest-VR/releases/download/v0.1.0/SH3QuestVR-0.1.0.apk",
+                "size": 9198022
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "SH3QuestVR-0.1.1.apk",
+          "url": "https://github.com/moistman42069/SilentHill3-Quest-VR/releases/download/v0.1.1/SH3QuestVR-0.1.1.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "SH3QuestVR-0.1.0.apk",
+          "url": "https://github.com/moistman42069/SilentHill3-Quest-VR/releases/download/v0.1.0/SH3QuestVR-0.1.0.apk",
+          "type": "android_apk"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -44,7 +600,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-25T15:25:06.757711+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-26T02:43:38.581317+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Build-it-yourself Android (arm64) port of the PC game Mewgenics via static recompilation - bring your own copy, no game files included",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -78,7 +651,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-25T15:25:06.756837+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-26T02:43:40.108383+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Rayman Origins (PC/Steam, x86-32) to native Linux and Android arm64 with Vulkan 1.1. No game code or assets.",
+        "latest_release_url": "https://github.com/BelmanteGu/RaymanOriginsPCRecomp/releases/tag/v1.1",
+        "latest_release_name": "Rayman Origins PC Recomp 1.1 (Android)",
+        "release_assets": [
+          {
+            "name": "RaymanOriginsPC-v1.1-android-arm64.apk",
+            "url": "https://github.com/BelmanteGu/RaymanOriginsPCRecomp/releases/download/v1.1/RaymanOriginsPC-v1.1-android-arm64.apk",
+            "size": 28663849
+          }
+        ],
+        "releases": [
+          {
+            "name": "Rayman Origins PC Recomp 1.1 (Android)",
+            "url": "https://github.com/BelmanteGu/RaymanOriginsPCRecomp/releases/tag/v1.1",
+            "published_at": "2026-11-25T02:08:56Z",
+            "assets": [
+              {
+                "name": "RaymanOriginsPC-v1.1-android-arm64.apk",
+                "url": "https://github.com/BelmanteGu/RaymanOriginsPCRecomp/releases/download/v1.1/RaymanOriginsPC-v1.1-android-arm64.apk",
+                "size": 28663849
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Rayman Origins PC Recomp 1.0 (Android)",
+            "url": "https://github.com/BelmanteGu/RaymanOriginsPCRecomp/releases/tag/v1.0",
+            "published_at": "2026-11-23T03:06:09Z",
+            "assets": [
+              {
+                "name": "RaymanOriginsPC-v1.0-android-arm64.apk",
+                "url": "https://github.com/BelmanteGu/RaymanOriginsPCRecomp/releases/download/v1.0/RaymanOriginsPC-v1.0-android-arm64.apk",
+                "size": 28159727
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -94,10 +719,22 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "RaymanOriginsPC-v1.1-android-arm64.apk",
+          "url": "https://github.com/BelmanteGu/RaymanOriginsPCRecomp/releases/download/v1.1/RaymanOriginsPC-v1.1-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "RaymanOriginsPC-v1.0-android-arm64.apk",
+          "url": "https://github.com/BelmanteGu/RaymanOriginsPCRecomp/releases/download/v1.0/RaymanOriginsPC-v1.0-android-arm64.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -115,7 +752,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-25T15:25:04.598149+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-26T02:43:41.675480+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Build-it-yourself Android (arm64) port of the PC game Burnout Paradise: The Ultimate Box via static recompilation - bring your own copy, no game files included",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -149,7 +803,209 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-25T15:25:04.596849+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-26T02:43:43.222871+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "An unofficial, open-source mobile port of FAangband with touch controls, portrait layout, and offline play.",
+        "latest_release_url": "https://github.com/eugene-lesnov/pocketfaangband/releases/tag/0.1.6",
+        "latest_release_name": "0.1.6",
+        "release_assets": [
+          {
+            "name": "pocketfaangband-source.tar.gz",
+            "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.6/pocketfaangband-source.tar.gz",
+            "size": 7511723
+          },
+          {
+            "name": "pocketfaangband-web.zip",
+            "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.6/pocketfaangband-web.zip",
+            "size": 6411900
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.6/SHA256SUMS",
+            "size": 186
+          }
+        ],
+        "releases": [
+          {
+            "name": "0.1.6",
+            "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/tag/0.1.6",
+            "published_at": "2026-11-25T09:06:52Z",
+            "assets": [
+              {
+                "name": "pocketfaangband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.6/pocketfaangband-source.tar.gz",
+                "size": 7511723
+              },
+              {
+                "name": "pocketfaangband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.6/pocketfaangband-web.zip",
+                "size": 6411900
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.6/SHA256SUMS",
+                "size": 186
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.1.5",
+            "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/tag/0.1.5",
+            "published_at": "2026-11-25T07:49:47Z",
+            "assets": [
+              {
+                "name": "pocketfaangband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.5/pocketfaangband-source.tar.gz",
+                "size": 7511671
+              },
+              {
+                "name": "pocketfaangband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.5/pocketfaangband-web.zip",
+                "size": 6411783
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.5/SHA256SUMS",
+                "size": 186
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.1.4",
+            "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/tag/0.1.4",
+            "published_at": "2026-11-25T00:04:46Z",
+            "assets": [
+              {
+                "name": "pocketfaangband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.4/pocketfaangband-source.tar.gz",
+                "size": 7511109
+              },
+              {
+                "name": "pocketfaangband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.4/pocketfaangband-web.zip",
+                "size": 6411474
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.4/SHA256SUMS",
+                "size": 186
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.1.3",
+            "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/tag/0.1.3",
+            "published_at": "2026-11-24T23:13:43Z",
+            "assets": [
+              {
+                "name": "pocketfaangband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.3/pocketfaangband-source.tar.gz",
+                "size": 7511556
+              },
+              {
+                "name": "pocketfaangband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.3/pocketfaangband-web.zip",
+                "size": 6411480
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.3/SHA256SUMS",
+                "size": 186
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.1.2",
+            "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/tag/0.1.2",
+            "published_at": "2026-11-24T22:05:58Z",
+            "assets": [
+              {
+                "name": "pocketfaangband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.2/pocketfaangband-source.tar.gz",
+                "size": 7511557
+              },
+              {
+                "name": "pocketfaangband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.2/pocketfaangband-web.zip",
+                "size": 6411477
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.2/SHA256SUMS",
+                "size": 186
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.1.1",
+            "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/tag/0.1.1",
+            "published_at": "2026-11-24T21:53:26Z",
+            "assets": [
+              {
+                "name": "pocketfaangband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.1/pocketfaangband-source.tar.gz",
+                "size": 7511539
+              },
+              {
+                "name": "pocketfaangband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.1/pocketfaangband-web.zip",
+                "size": 6411360
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.1/SHA256SUMS",
+                "size": 186
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "0.1.0",
+            "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/tag/0.1.0",
+            "published_at": "2026-11-24T09:49:01Z",
+            "assets": [
+              {
+                "name": "pocketfaangband-source.tar.gz",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.0/pocketfaangband-source.tar.gz",
+                "size": 7470762
+              },
+              {
+                "name": "pocketfaangband-web.zip",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.0/pocketfaangband-web.zip",
+                "size": 6353141
+              },
+              {
+                "name": "SHA256SUMS",
+                "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.0/SHA256SUMS",
+                "size": 186
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web",
@@ -165,10 +1021,117 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "pocketfaangband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.6/pocketfaangband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketfaangband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.6/pocketfaangband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.6/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketfaangband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.5/pocketfaangband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketfaangband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.5/pocketfaangband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.5/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketfaangband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.4/pocketfaangband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketfaangband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.4/pocketfaangband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.4/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketfaangband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.3/pocketfaangband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketfaangband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.3/pocketfaangband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.3/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketfaangband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.2/pocketfaangband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketfaangband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.2/pocketfaangband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.2/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketfaangband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.1/pocketfaangband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketfaangband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.1/pocketfaangband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.1/SHA256SUMS",
+          "type": "other_file"
+        },
+        {
+          "name": "pocketfaangband-source.tar.gz",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.0/pocketfaangband-source.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "pocketfaangband-web.zip",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.0/pocketfaangband-web.zip",
+          "type": "archive"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/eugene-lesnov/pocketfaangband/releases/download/0.1.0/SHA256SUMS",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён.",
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 8,
       "relevance_status": "promising",
@@ -186,7 +1149,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-25T15:25:04.595902+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-26T02:43:44.974157+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Android ARM64 port of The Movies (2005) by statically recompiling the original Windows executable to C. Bring your own copy of the game.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -223,7 +1203,55 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-25T15:25:02.270126+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-26T02:43:46.505018+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial native PC port of Ryu ga Gotoku Kenzan! (PS3, BLJM60064) for Linux and Windows. Statically recompiled with ps3recomp and rendered with Vulkan, with the English fan translation, 30/60/120 FPS options and a launcher that installs from your own copy of the game. No game files included.",
+        "latest_release_url": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp/releases/tag/V1.0.0",
+        "latest_release_name": "Yakuza Kenzan (Beta)",
+        "release_assets": [
+          {
+            "name": "Kenzan-Windows.zip",
+            "url": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp/releases/download/V1.0.0/Kenzan-Windows.zip",
+            "size": 360437617
+          },
+          {
+            "name": "Kenzan-x86_64.AppImage",
+            "url": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp/releases/download/V1.0.0/Kenzan-x86_64.AppImage",
+            "size": 387463672
+          }
+        ],
+        "releases": [
+          {
+            "name": "Yakuza Kenzan (Beta)",
+            "url": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp/releases/tag/V1.0.0",
+            "published_at": "2026-11-24T21:44:54Z",
+            "assets": [
+              {
+                "name": "Kenzan-Windows.zip",
+                "url": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp/releases/download/V1.0.0/Kenzan-Windows.zip",
+                "size": 360437617
+              },
+              {
+                "name": "Kenzan-x86_64.AppImage",
+                "url": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp/releases/download/V1.0.0/Kenzan-x86_64.AppImage",
+                "size": 387463672
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -239,9 +1267,21 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Kenzan-Windows.zip",
+          "url": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp/releases/download/V1.0.0/Kenzan-Windows.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Kenzan-x86_64.AppImage",
+          "url": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp/releases/download/V1.0.0/Kenzan-x86_64.AppImage",
+          "type": "desktop_package"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
@@ -259,7 +1299,282 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-25T15:25:02.268494+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-26T02:43:48.103519+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Digimon World 4 PC port — static recompilation of the original Xbox game into a native Linux program (Vulkan / OpenGL). Windows and macOS planned. Bring your own game dump.",
+        "latest_release_url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/tag/v0.5.1",
+        "latest_release_name": "v0.5.1",
+        "release_assets": [
+          {
+            "name": "DigimonWorld4-Recomp-v0.5.1-linux-x86_64.tar.gz",
+            "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.1/DigimonWorld4-Recomp-v0.5.1-linux-x86_64.tar.gz",
+            "size": 79143619
+          },
+          {
+            "name": "DigimonWorld4-Recomp-v0.5.1-windows-x86_64.zip",
+            "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.1/DigimonWorld4-Recomp-v0.5.1-windows-x86_64.zip",
+            "size": 55096691
+          },
+          {
+            "name": "DigimonWorld4-Recomp-v0.5.1-x86_64.AppImage",
+            "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.1/DigimonWorld4-Recomp-v0.5.1-x86_64.AppImage",
+            "size": 72010232
+          },
+          {
+            "name": "SHA256SUMS-v0.5.1.txt",
+            "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.1/SHA256SUMS-v0.5.1.txt",
+            "size": 337
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.5.1",
+            "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/tag/v0.5.1",
+            "published_at": "2026-11-26T00:57:30Z",
+            "assets": [
+              {
+                "name": "DigimonWorld4-Recomp-v0.5.1-linux-x86_64.tar.gz",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.1/DigimonWorld4-Recomp-v0.5.1-linux-x86_64.tar.gz",
+                "size": 79143619
+              },
+              {
+                "name": "DigimonWorld4-Recomp-v0.5.1-windows-x86_64.zip",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.1/DigimonWorld4-Recomp-v0.5.1-windows-x86_64.zip",
+                "size": 55096691
+              },
+              {
+                "name": "DigimonWorld4-Recomp-v0.5.1-x86_64.AppImage",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.1/DigimonWorld4-Recomp-v0.5.1-x86_64.AppImage",
+                "size": 72010232
+              },
+              {
+                "name": "SHA256SUMS-v0.5.1.txt",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.1/SHA256SUMS-v0.5.1.txt",
+                "size": 337
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.5.0",
+            "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/tag/v0.5.0",
+            "published_at": "2026-11-25T23:30:12Z",
+            "assets": [
+              {
+                "name": "DigimonWorld4-Recomp-v0.5.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.0/DigimonWorld4-Recomp-v0.5.0-linux-x86_64.tar.gz",
+                "size": 79141083
+              },
+              {
+                "name": "DigimonWorld4-Recomp-v0.5.0-windows-x86_64.zip",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.0/DigimonWorld4-Recomp-v0.5.0-windows-x86_64.zip",
+                "size": 55096521
+              },
+              {
+                "name": "DigimonWorld4-Recomp-v0.5.0-x86_64.AppImage",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.0/DigimonWorld4-Recomp-v0.5.0-x86_64.AppImage",
+                "size": 72014328
+              },
+              {
+                "name": "SHA256SUMS-v0.5.0.txt",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.0/SHA256SUMS-v0.5.0.txt",
+                "size": 337
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.4.1",
+            "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/tag/v0.4.1",
+            "published_at": "2026-11-25T19:58:08Z",
+            "assets": [
+              {
+                "name": "DigimonWorld4-Recomp-v0.4.1-linux-x86_64.tar.gz",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.4.1/DigimonWorld4-Recomp-v0.4.1-linux-x86_64.tar.gz",
+                "size": 78907411
+              },
+              {
+                "name": "DigimonWorld4-Recomp-v0.4.1-windows-x86_64.zip",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.4.1/DigimonWorld4-Recomp-v0.4.1-windows-x86_64.zip",
+                "size": 55074565
+              },
+              {
+                "name": "DigimonWorld4-Recomp-v0.4.1-x86_64.AppImage",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.4.1/DigimonWorld4-Recomp-v0.4.1-x86_64.AppImage",
+                "size": 71784952
+              },
+              {
+                "name": "SHA256SUMS-v0.4.1.txt",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.4.1/SHA256SUMS-v0.4.1.txt",
+                "size": 337
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.4.0",
+            "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/tag/v0.4.0",
+            "published_at": "2026-11-25T18:15:39Z",
+            "assets": [
+              {
+                "name": "DigimonWorld4-Recomp-v0.4.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.4.0/DigimonWorld4-Recomp-v0.4.0-linux-x86_64.tar.gz",
+                "size": 78903570
+              },
+              {
+                "name": "DigimonWorld4-Recomp-v0.4.0-windows-x86_64.zip",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.4.0/DigimonWorld4-Recomp-v0.4.0-windows-x86_64.zip",
+                "size": 8944091
+              },
+              {
+                "name": "DigimonWorld4-Recomp-v0.4.0-x86_64.AppImage",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.4.0/DigimonWorld4-Recomp-v0.4.0-x86_64.AppImage",
+                "size": 71780856
+              },
+              {
+                "name": "SHA256SUMS-v0.4.0.txt",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.4.0/SHA256SUMS-v0.4.0.txt",
+                "size": 337
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.3.2",
+            "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/tag/v0.3.2",
+            "published_at": "2026-11-25T02:53:41Z",
+            "assets": [
+              {
+                "name": "DigimonWorld4-Recomp-v0.3.2-linux-x86_64.tar.gz",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.2/DigimonWorld4-Recomp-v0.3.2-linux-x86_64.tar.gz",
+                "size": 78905343
+              },
+              {
+                "name": "DigimonWorld4-Recomp-v0.3.2-x86_64.AppImage",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.2/DigimonWorld4-Recomp-v0.3.2-x86_64.AppImage",
+                "size": 71784952
+              },
+              {
+                "name": "SHA256SUMS-v0.3.2.txt",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.2/SHA256SUMS-v0.3.2.txt",
+                "size": 224
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.3.1",
+            "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/tag/v0.3.1",
+            "published_at": "2026-11-25T01:18:14Z",
+            "assets": [
+              {
+                "name": "DigimonWorld4-Recomp-v0.3.1-linux-x86_64.tar.gz",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.1/DigimonWorld4-Recomp-v0.3.1-linux-x86_64.tar.gz",
+                "size": 78901170
+              },
+              {
+                "name": "DigimonWorld4-Recomp-v0.3.1-x86_64.AppImage",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.1/DigimonWorld4-Recomp-v0.3.1-x86_64.AppImage",
+                "size": 71780856
+              },
+              {
+                "name": "SHA256SUMS-v0.3.1.txt",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.1/SHA256SUMS-v0.3.1.txt",
+                "size": 224
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.3.0",
+            "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/tag/v0.3.0",
+            "published_at": "2026-11-24T23:19:47Z",
+            "assets": [
+              {
+                "name": "DigimonWorld4-Recomp-v0.3.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.0/DigimonWorld4-Recomp-v0.3.0-linux-x86_64.tar.gz",
+                "size": 78901067
+              },
+              {
+                "name": "DigimonWorld4-Recomp-v0.3.0-x86_64.AppImage",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.0/DigimonWorld4-Recomp-v0.3.0-x86_64.AppImage",
+                "size": 71780856
+              },
+              {
+                "name": "SHA256SUMS-v0.3.0.txt",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.0/SHA256SUMS-v0.3.0.txt",
+                "size": 224
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.2.0",
+            "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/tag/v0.2.0",
+            "published_at": "2026-11-24T19:39:48Z",
+            "assets": [
+              {
+                "name": "DigimonWorld4-Recomp-v0.2.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.2.0/DigimonWorld4-Recomp-v0.2.0-linux-x86_64.tar.gz",
+                "size": 78880194
+              },
+              {
+                "name": "DigimonWorld4-Recomp-v0.2.0-x86_64.AppImage",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.2.0/DigimonWorld4-Recomp-v0.2.0-x86_64.AppImage",
+                "size": 71752184
+              },
+              {
+                "name": "SHA256SUMS-v0.2.0.txt",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.2.0/SHA256SUMS-v0.2.0.txt",
+                "size": 224
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.0",
+            "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-24T04:46:10Z",
+            "assets": [
+              {
+                "name": "DigimonWorld4-Recomp-v0.1.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.1.0/DigimonWorld4-Recomp-v0.1.0-linux-x86_64.tar.gz",
+                "size": 78805333
+              },
+              {
+                "name": "DigimonWorld4-Recomp-v0.1.0-x86_64.AppImage",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.1.0/DigimonWorld4-Recomp-v0.1.0-x86_64.AppImage",
+                "size": 71694840
+              },
+              {
+                "name": "SHA256SUMS-v0.1.0.txt",
+                "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.1.0/SHA256SUMS-v0.1.0.txt",
+                "size": 224
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -274,9 +1589,166 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "DigimonWorld4-Recomp-v0.5.1-linux-x86_64.tar.gz",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.1/DigimonWorld4-Recomp-v0.5.1-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.5.1-windows-x86_64.zip",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.1/DigimonWorld4-Recomp-v0.5.1-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.5.1-x86_64.AppImage",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.1/DigimonWorld4-Recomp-v0.5.1-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SHA256SUMS-v0.5.1.txt",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.1/SHA256SUMS-v0.5.1.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.5.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.0/DigimonWorld4-Recomp-v0.5.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.5.0-windows-x86_64.zip",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.0/DigimonWorld4-Recomp-v0.5.0-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.5.0-x86_64.AppImage",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.0/DigimonWorld4-Recomp-v0.5.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SHA256SUMS-v0.5.0.txt",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.5.0/SHA256SUMS-v0.5.0.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.4.1-linux-x86_64.tar.gz",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.4.1/DigimonWorld4-Recomp-v0.4.1-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.4.1-windows-x86_64.zip",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.4.1/DigimonWorld4-Recomp-v0.4.1-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.4.1-x86_64.AppImage",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.4.1/DigimonWorld4-Recomp-v0.4.1-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SHA256SUMS-v0.4.1.txt",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.4.1/SHA256SUMS-v0.4.1.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.4.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.4.0/DigimonWorld4-Recomp-v0.4.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.4.0-windows-x86_64.zip",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.4.0/DigimonWorld4-Recomp-v0.4.0-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.4.0-x86_64.AppImage",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.4.0/DigimonWorld4-Recomp-v0.4.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SHA256SUMS-v0.4.0.txt",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.4.0/SHA256SUMS-v0.4.0.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.3.2-linux-x86_64.tar.gz",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.2/DigimonWorld4-Recomp-v0.3.2-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.3.2-x86_64.AppImage",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.2/DigimonWorld4-Recomp-v0.3.2-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SHA256SUMS-v0.3.2.txt",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.2/SHA256SUMS-v0.3.2.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.3.1-linux-x86_64.tar.gz",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.1/DigimonWorld4-Recomp-v0.3.1-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.3.1-x86_64.AppImage",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.1/DigimonWorld4-Recomp-v0.3.1-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SHA256SUMS-v0.3.1.txt",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.1/SHA256SUMS-v0.3.1.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.3.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.0/DigimonWorld4-Recomp-v0.3.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.3.0-x86_64.AppImage",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.0/DigimonWorld4-Recomp-v0.3.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SHA256SUMS-v0.3.0.txt",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.3.0/SHA256SUMS-v0.3.0.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.2.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.2.0/DigimonWorld4-Recomp-v0.2.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.2.0-x86_64.AppImage",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.2.0/DigimonWorld4-Recomp-v0.2.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SHA256SUMS-v0.2.0.txt",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.2.0/SHA256SUMS-v0.2.0.txt",
+          "type": "other_file"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.1.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.1.0/DigimonWorld4-Recomp-v0.1.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "DigimonWorld4-Recomp-v0.1.0-x86_64.AppImage",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.1.0/DigimonWorld4-Recomp-v0.1.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SHA256SUMS-v0.1.0.txt",
+          "url": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/releases/download/v0.1.0/SHA256SUMS-v0.1.0.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
