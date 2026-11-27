@@ -1,7 +1,142 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-27T02:44:20.816607+00:00",
+  "last_updated": "2026-11-27T14:51:55.710791+00:00",
   "candidates": [
+    {
+      "title": "sumeriangod/mpsrecomp",
+      "url": "https://github.com/sumeriangod/mpsrecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-27T12:58:57Z",
+      "summary": "Native Windows port of Mario Party Superstars (v1.0.0) by static recompilation. Bring your own extracted game files: no game code or assets included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T14:51:40.717848+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "pixelnorth/DreamstarRecomp",
+      "url": "https://github.com/pixelnorth/DreamstarRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-27T13:44:35Z",
+      "summary": "Native PC (Vulkan) static recompilation of Kirby Star Allies. Bring your own game files. Fork of LAS Recomp.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T14:51:40.717220+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Dantxxzz/Tag-Force-3-Recomp",
+      "url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-27T14:34:09Z",
+      "summary": "Static recompilation of Yu-Gi-Oh! GX Tag Force 3 (PSP, ULES-01183) to native Windows. Fork of Tag Force Recomp by Artknighty. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T14:51:40.716541+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "hyperpolymath/affinescript-vite",
+      "url": "https://github.com/hyperpolymath/affinescript-vite",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-27T12:32:41Z",
+      "summary": "Retro driving game written in AffineScript. Test Drive III: The Passion-inspired — perspective road rendering + centripetal-force steering. Prototype. Topics: 3d-rendering, affinescript, browser-game, deterministic-simulation, driving-game, epistemic-computing, epistemic-infrastructure, equivalence-aware-computing, game-development, game-physics, hyperpolymath, just, open-source, prototype, retro-game, simulation, typed-provenance, veridical-computing, wasm, webassembly",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T14:51:36.241684+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "webassembly",
+          "wasm"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 5,
+      "relevance_status": "possible",
+      "relevance_reasons": [
+        "Есть игровые/платформенные признаки: game, webassembly, wasm",
+        "Описание указывает на игру в браузере; требуется ручная проверка способа переноса",
+        "Есть веб-технологии, но прямое указание на порт/рекомпиляцию не найдено"
+      ]
+    },
     {
       "title": "zwaetschge/hatintime-android",
       "url": "https://github.com/zwaetschge/hatintime-android",
@@ -11,7 +146,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-27T02:44:08.509959+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-27T14:51:42.872165+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Build-it-yourself Android (arm64) port of the PC game A Hat in Time via static recompilation - bring your own copy, no game files included",
+        "latest_release_url": "https://github.com/zwaetschge/hatintime-android/releases/tag/v0.1.0",
+        "latest_release_name": "v0.1.0 — Initial Android arm64 static recompilation",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "v0.1.0 — Initial Android arm64 static recompilation",
+            "url": "https://github.com/zwaetschge/hatintime-android/releases/tag/v0.1.0",
+            "published_at": "2026-11-26T05:53:18Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -45,7 +206,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-27T02:44:08.509191+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-27T14:51:44.403884+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Rune Factory: Tides of Destiny (Wii) statically recompiled to native Windows and Android. No game files included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -82,7 +260,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-27T02:44:08.508263+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-27T14:51:45.910952+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "An open-source static recompilation project bringing an IOS ARM64 3D action-adventure title to Android natively. Built with C/C++. Requires your own .ipa file. No game data assets included",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -115,7 +310,89 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-27T02:44:08.507429+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-27T14:51:47.409774+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "An android apk that generates a static recompilation and launches the game with 4U heavenfall mod",
+        "latest_release_url": "https://github.com/popzol/heavenfall-recomp-android/releases/tag/v1.0.1",
+        "latest_release_name": "Heavenfall 1.0.1",
+        "release_assets": [
+          {
+            "name": "Heavenfall-android-release.json",
+            "url": "https://github.com/popzol/heavenfall-recomp-android/releases/download/v1.0.1/Heavenfall-android-release.json",
+            "size": 652
+          },
+          {
+            "name": "Heavenfall-android.apk",
+            "url": "https://github.com/popzol/heavenfall-recomp-android/releases/download/v1.0.1/Heavenfall-android.apk",
+            "size": 8950451
+          },
+          {
+            "name": "Heavenfall-android.apk.sha256",
+            "url": "https://github.com/popzol/heavenfall-recomp-android/releases/download/v1.0.1/Heavenfall-android.apk.sha256",
+            "size": 89
+          }
+        ],
+        "releases": [
+          {
+            "name": "Heavenfall 1.0.1",
+            "url": "https://github.com/popzol/heavenfall-recomp-android/releases/tag/v1.0.1",
+            "published_at": "2026-11-27T14:05:56Z",
+            "assets": [
+              {
+                "name": "Heavenfall-android-release.json",
+                "url": "https://github.com/popzol/heavenfall-recomp-android/releases/download/v1.0.1/Heavenfall-android-release.json",
+                "size": 652
+              },
+              {
+                "name": "Heavenfall-android.apk",
+                "url": "https://github.com/popzol/heavenfall-recomp-android/releases/download/v1.0.1/Heavenfall-android.apk",
+                "size": 8950451
+              },
+              {
+                "name": "Heavenfall-android.apk.sha256",
+                "url": "https://github.com/popzol/heavenfall-recomp-android/releases/download/v1.0.1/Heavenfall-android.apk.sha256",
+                "size": 89
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Heavenfall 1.0.0",
+            "url": "https://github.com/popzol/heavenfall-recomp-android/releases/tag/v1.0.0",
+            "published_at": "2026-11-26T22:48:01Z",
+            "assets": [
+              {
+                "name": "Heavenfall-android-release.json",
+                "url": "https://github.com/popzol/heavenfall-recomp-android/releases/download/v1.0.0/Heavenfall-android-release.json",
+                "size": 652
+              },
+              {
+                "name": "Heavenfall-android.apk",
+                "url": "https://github.com/popzol/heavenfall-recomp-android/releases/download/v1.0.0/Heavenfall-android.apk",
+                "size": 8950451
+              },
+              {
+                "name": "Heavenfall-android.apk.sha256",
+                "url": "https://github.com/popzol/heavenfall-recomp-android/releases/download/v1.0.0/Heavenfall-android.apk.sha256",
+                "size": 89
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -129,9 +406,41 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Heavenfall-android-release.json",
+          "url": "https://github.com/popzol/heavenfall-recomp-android/releases/download/v1.0.1/Heavenfall-android-release.json",
+          "type": "other_file"
+        },
+        {
+          "name": "Heavenfall-android.apk",
+          "url": "https://github.com/popzol/heavenfall-recomp-android/releases/download/v1.0.1/Heavenfall-android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "Heavenfall-android.apk.sha256",
+          "url": "https://github.com/popzol/heavenfall-recomp-android/releases/download/v1.0.1/Heavenfall-android.apk.sha256",
+          "type": "other_file"
+        },
+        {
+          "name": "Heavenfall-android-release.json",
+          "url": "https://github.com/popzol/heavenfall-recomp-android/releases/download/v1.0.0/Heavenfall-android-release.json",
+          "type": "other_file"
+        },
+        {
+          "name": "Heavenfall-android.apk",
+          "url": "https://github.com/popzol/heavenfall-recomp-android/releases/download/v1.0.0/Heavenfall-android.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "Heavenfall-android.apk.sha256",
+          "url": "https://github.com/popzol/heavenfall-recomp-android/releases/download/v1.0.0/Heavenfall-android.apk.sha256",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 12,
       "relevance_status": "promising",
@@ -149,7 +458,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-27T02:44:06.787103+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-27T14:51:49.031372+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Build-it-yourself Android (arm64) port of the PC game Assassin's Creed: Director's Cut via static recompilation - bring your own copy, no game files included",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -183,7 +509,73 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-27T02:44:06.785662+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-27T14:51:51.003129+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "master",
+        "description": "Mafia II (2010) native Android port: static x86 recompilation, own Win32/D3D9 layer. Very early stage, bring your own game copy.",
+        "latest_release_url": "https://github.com/VinTeRuS/mafia2-re/releases/tag/v0.1.2",
+        "latest_release_name": "v0.1.2 — Adreno 8xx graphics, lighter cloth physics, menu arrows",
+        "release_assets": [
+          {
+            "name": "mafia2re-v0.1.2.apk",
+            "url": "https://github.com/VinTeRuS/mafia2-re/releases/download/v0.1.2/mafia2re-v0.1.2.apk",
+            "size": 62319317
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.2 — Adreno 8xx graphics, lighter cloth physics, menu arrows",
+            "url": "https://github.com/VinTeRuS/mafia2-re/releases/tag/v0.1.2",
+            "published_at": "2026-11-27T14:35:13Z",
+            "assets": [
+              {
+                "name": "mafia2re-v0.1.2.apk",
+                "url": "https://github.com/VinTeRuS/mafia2-re/releases/download/v0.1.2/mafia2re-v0.1.2.apk",
+                "size": 62319317
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.1 — Adreno 8xx and Mali fixes, cutscene sound, English, gyro aim",
+            "url": "https://github.com/VinTeRuS/mafia2-re/releases/tag/v0.1.1",
+            "published_at": "2026-11-27T09:56:09Z",
+            "assets": [
+              {
+                "name": "mafia2re-v0.1.1.apk",
+                "url": "https://github.com/VinTeRuS/mafia2-re/releases/download/v0.1.1/mafia2re-v0.1.1.apk",
+                "size": 62319317
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.0 — first test build (very early)",
+            "url": "https://github.com/VinTeRuS/mafia2-re/releases/tag/v0.1.0",
+            "published_at": "2026-11-26T10:28:37Z",
+            "assets": [
+              {
+                "name": "mafia2re-v0.1.0.apk",
+                "url": "https://github.com/VinTeRuS/mafia2-re/releases/download/v0.1.0/mafia2re-v0.1.0.apk",
+                "size": 62315221
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -197,9 +589,26 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "mafia2re-v0.1.2.apk",
+          "url": "https://github.com/VinTeRuS/mafia2-re/releases/download/v0.1.2/mafia2re-v0.1.2.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "mafia2re-v0.1.1.apk",
+          "url": "https://github.com/VinTeRuS/mafia2-re/releases/download/v0.1.1/mafia2re-v0.1.1.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "mafia2re-v0.1.0.apk",
+          "url": "https://github.com/VinTeRuS/mafia2-re/releases/download/v0.1.0/mafia2re-v0.1.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -217,17 +626,216 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-27T02:44:00.923561+00:00",
-      "check": null,
-      "category": "needs_review",
-      "platforms_guess": [],
+      "check": {
+        "checked_at": "2026-11-27T14:51:52.553824+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Unofficial static recompilation of Bayonetta 2. Builds the game on your PC from your own legally dumped copy. No game files, keys or SDK code included.",
+        "latest_release_url": "https://github.com/Zexyen/Moon-River/releases/tag/v0.3.0",
+        "latest_release_name": "Moon-River v0.3.0",
+        "release_assets": [
+          {
+            "name": "MoonRiver-v0.3.0-linux-x86_64.tar.gz",
+            "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.3.0/MoonRiver-v0.3.0-linux-x86_64.tar.gz",
+            "size": 180382576
+          },
+          {
+            "name": "MoonRiver-v0.3.0-windows-x86_64.zip",
+            "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.3.0/MoonRiver-v0.3.0-windows-x86_64.zip",
+            "size": 115546058
+          },
+          {
+            "name": "MoonRiver-v0.3.0-x86_64.AppImage",
+            "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.3.0/MoonRiver-v0.3.0-x86_64.AppImage",
+            "size": 162695672
+          }
+        ],
+        "releases": [
+          {
+            "name": "Moon-River v0.3.0",
+            "url": "https://github.com/Zexyen/Moon-River/releases/tag/v0.3.0",
+            "published_at": "2026-11-27T07:19:26Z",
+            "assets": [
+              {
+                "name": "MoonRiver-v0.3.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.3.0/MoonRiver-v0.3.0-linux-x86_64.tar.gz",
+                "size": 180382576
+              },
+              {
+                "name": "MoonRiver-v0.3.0-windows-x86_64.zip",
+                "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.3.0/MoonRiver-v0.3.0-windows-x86_64.zip",
+                "size": 115546058
+              },
+              {
+                "name": "MoonRiver-v0.3.0-x86_64.AppImage",
+                "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.3.0/MoonRiver-v0.3.0-x86_64.AppImage",
+                "size": 162695672
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Moon-River v0.2.1",
+            "url": "https://github.com/Zexyen/Moon-River/releases/tag/v0.2.1",
+            "published_at": "2026-11-26T07:03:47Z",
+            "assets": [
+              {
+                "name": "MoonRiver-v0.2.1-linux-x86_64.tar.gz",
+                "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.2.1/MoonRiver-v0.2.1-linux-x86_64.tar.gz",
+                "size": 180356707
+              },
+              {
+                "name": "MoonRiver-v0.2.1-windows-x86_64.zip",
+                "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.2.1/MoonRiver-v0.2.1-windows-x86_64.zip",
+                "size": 115528080
+              },
+              {
+                "name": "MoonRiver-v0.2.1-x86_64.AppImage",
+                "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.2.1/MoonRiver-v0.2.1-x86_64.AppImage",
+                "size": 162667000
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Moon-River v0.2.0",
+            "url": "https://github.com/Zexyen/Moon-River/releases/tag/v0.2.0",
+            "published_at": "2026-11-25T09:02:37Z",
+            "assets": [
+              {
+                "name": "MoonRiver-v0.2.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.2.0/MoonRiver-v0.2.0-linux-x86_64.tar.gz",
+                "size": 180349437
+              },
+              {
+                "name": "MoonRiver-v0.2.0-windows-x86_64.zip",
+                "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.2.0/MoonRiver-v0.2.0-windows-x86_64.zip",
+                "size": 115516474
+              },
+              {
+                "name": "MoonRiver-v0.2.0-x86_64.AppImage",
+                "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.2.0/MoonRiver-v0.2.0-x86_64.AppImage",
+                "size": 162658808
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Moon-River v0.1.0",
+            "url": "https://github.com/Zexyen/Moon-River/releases/tag/v0.1.0",
+            "published_at": "2026-11-25T06:27:44Z",
+            "assets": [
+              {
+                "name": "MoonRiver-v0.1.0-linux-x86_64.tar.gz",
+                "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.1.0/MoonRiver-v0.1.0-linux-x86_64.tar.gz",
+                "size": 179925733
+              },
+              {
+                "name": "MoonRiver-v0.1.0-windows-x86_64.zip",
+                "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.1.0/MoonRiver-v0.1.0-windows-x86_64.zip",
+                "size": 115113160
+              },
+              {
+                "name": "MoonRiver-v0.1.0-x86_64.AppImage",
+                "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.1.0/MoonRiver-v0.1.0-x86_64.AppImage",
+                "size": 162265592
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
       "category_evidence": {
         "browser_terms": [],
         "android_terms": [],
-        "pc_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
         "other_platform_terms": []
       },
-      "build_links": [],
-      "classification_notes": [],
+      "build_links": [
+        {
+          "name": "MoonRiver-v0.3.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.3.0/MoonRiver-v0.3.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "MoonRiver-v0.3.0-windows-x86_64.zip",
+          "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.3.0/MoonRiver-v0.3.0-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MoonRiver-v0.3.0-x86_64.AppImage",
+          "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.3.0/MoonRiver-v0.3.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "MoonRiver-v0.2.1-linux-x86_64.tar.gz",
+          "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.2.1/MoonRiver-v0.2.1-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "MoonRiver-v0.2.1-windows-x86_64.zip",
+          "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.2.1/MoonRiver-v0.2.1-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MoonRiver-v0.2.1-x86_64.AppImage",
+          "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.2.1/MoonRiver-v0.2.1-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "MoonRiver-v0.2.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.2.0/MoonRiver-v0.2.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "MoonRiver-v0.2.0-windows-x86_64.zip",
+          "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.2.0/MoonRiver-v0.2.0-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MoonRiver-v0.2.0-x86_64.AppImage",
+          "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.2.0/MoonRiver-v0.2.0-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "MoonRiver-v0.1.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.1.0/MoonRiver-v0.1.0-linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "MoonRiver-v0.1.0-windows-x86_64.zip",
+          "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.1.0/MoonRiver-v0.1.0-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MoonRiver-v0.1.0-x86_64.AppImage",
+          "url": "https://github.com/Zexyen/Moon-River/releases/download/v0.1.0/MoonRiver-v0.1.0-x86_64.AppImage",
+          "type": "desktop_package"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 10,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -244,7 +852,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-27T02:44:00.922755+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-27T14:51:54.240396+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Xbox 360 port of Luigi's Mansion (GameCube) in development. Static recompilation of your own disc to a native XEX, no GameCube emulation. Already boots on real hardware: menus, 5 languages, intro and gameplay in the mansion. Code coming later. No game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
