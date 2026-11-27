@@ -1,7 +1,470 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-26T14:54:43.870666+00:00",
+  "last_updated": "2026-11-27T02:44:20.816607+00:00",
   "candidates": [
+    {
+      "title": "zwaetschge/hatintime-android",
+      "url": "https://github.com/zwaetschge/hatintime-android",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-26T05:53:17Z",
+      "summary": "Build-it-yourself Android (arm64) port of the PC game A Hat in Time via static recompilation - bring your own copy, no game files included",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T02:44:08.509959+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android build"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "SeaOfStar-Project/SeaOfStar-ToD",
+      "url": "https://github.com/SeaOfStar-Project/SeaOfStar-ToD",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-26T08:35:51Z",
+      "summary": "Rune Factory: Tides of Destiny (Wii) statically recompiled to native Windows and Android. No game files included. Topics: android, game-preservation, native-port, recompilation, rune-factory, sdl3, static-recompilation, vulkan, wii, windows",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T02:44:08.509191+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "Android",
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки.",
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 9,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, android"
+      ]
+    },
+    {
+      "title": "HanVian-06/OH2Recomp",
+      "url": "https://github.com/HanVian-06/OH2Recomp",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-26T09:27:06Z",
+      "summary": "An open-source static recompilation project bringing an IOS ARM64 3D action-adventure title to Android natively. Built with C/C++. Requires your own .ipa file. No game data assets included Topics: android-ndk, arm64, binary-translation, c, cpp, game-preservation, ios, ios-to-android, static-recompilation",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T02:44:08.508263+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "popzol/heavenfall-recomp-android",
+      "url": "https://github.com/popzol/heavenfall-recomp-android",
+      "source_name": "GitHub: Android recompilation",
+      "published": "2026-11-26T22:04:57Z",
+      "summary": "An android apk that generates a static recompilation and launches the game with 4U heavenfall mod",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T02:44:08.507429+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android apk"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android, apk"
+      ]
+    },
+    {
+      "title": "zwaetschge/assassins-creed-android",
+      "url": "https://github.com/zwaetschge/assassins-creed-android",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-26T12:48:07Z",
+      "summary": "Build-it-yourself Android (arm64) port of the PC game Assassin's Creed: Director's Cut via static recompilation - bring your own copy, no game files included Topics: android, arm64, assassins-creed, direct3d9, dxvk, game-port, recompilation, static-recompilation, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T02:44:06.787103+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android build"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "VinTeRuS/mafia2-re",
+      "url": "https://github.com/VinTeRuS/mafia2-re",
+      "source_name": "GitHub: Android ports",
+      "published": "2026-11-26T19:06:23Z",
+      "summary": "Mafia II (2010) native Android port: static x86 recompilation, own Win32/D3D9 layer. Very early stage, bring your own game copy.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T02:44:06.785662+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android",
+          "android port"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, android port, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "Zexyen/Moon-River",
+      "url": "https://github.com/Zexyen/Moon-River",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-26T22:58:18Z",
+      "summary": "Unofficial static recompilation of Bayonetta 2. Builds the game on your PC from your own legally dumped copy. No game files, keys or SDK code included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T02:44:00.923561+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "EduDicaseGameplay/LuigisMansion-X360",
+      "url": "https://github.com/EduDicaseGameplay/LuigisMansion-X360",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-26T23:32:14Z",
+      "summary": "Native Xbox 360 port of Luigi's Mansion (GameCube) in development. Static recompilation of your own disc to a native XEX, no GameCube emulation. Already boots on real hardware: menus, 5 languages, intro and gameplay in the mansion. Code coming later. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T02:44:00.922755+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, gameplay"
+      ]
+    },
+    {
+      "title": "Duck912/xc2-ns2-recomp",
+      "url": "https://github.com/Duck912/xc2-ns2-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-26T23:46:56Z",
+      "summary": "Xenoblade Chronicles 2 - Nintendo Switch 2 Edition as a native Windows PC game: static recompilation, drawn by NVN-HLE",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T02:44:00.921985+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "onederson/the-3rd-birthday-recomp-android",
+      "url": "https://github.com/onederson/the-3rd-birthday-recomp-android",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-26T23:52:14Z",
+      "summary": "The 3rd Birthday (PSP) running natively on Android through static recompilation, with a Vulkan renderer tuned for phones. No game data included. Topics: android, psp, recompilation, the-3rd-birthday, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T02:44:00.921261+00:00",
+      "check": null,
+      "category": "android",
+      "platforms_guess": [
+        "Android"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [
+          "android"
+        ],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки Android-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, android"
+      ]
+    },
+    {
+      "title": "nnnns75/samourai-64-recomp",
+      "url": "https://github.com/nnnns75/samourai-64-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-27T00:32:31Z",
+      "summary": "Static recompilation of Samurai Shodown 64 (Hyper Neo Geo 64) into a native PC port, built on ReBuriki and N64Recomp. It runs the full game in colour, from title screen to fights. No ROMs or binaries are included, so you build it yourself from your own ROM dumps. Unofficial fan project, MIT licensed.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T02:44:00.920341+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, rom"
+      ]
+    },
+    {
+      "title": "AngeloAscheri/mario-tennis-fever-recomp",
+      "url": "https://github.com/AngeloAscheri/mario-tennis-fever-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-27T01:23:45Z",
+      "summary": "Static recompilation of Mario Tennis Fever (Nintendo Switch 2) into a native PC program. No game files included: bring your own dump. Topics: aarch64, mario-tennis, nintendo-switch-2, recompilation, reverse-engineering, static-recompilation, switch2, vulkan",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T02:44:00.919371+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "native pc"
+        ],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "maafeu/MPayne2-nx",
+      "url": "https://github.com/maafeu/MPayne2-nx",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-27T01:57:38Z",
+      "summary": "Max Payne 2 (Xbox) static recompilation port for Nintendo Switch and PC. The game is not included: build from your own disc.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T02:44:00.918597+00:00",
+      "check": null,
+      "category": "other",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": [
+          "nintendo switch"
+        ]
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "bugcoder00/FarCryInstinctsPredatorRecomp",
+      "url": "https://github.com/bugcoder00/FarCryInstinctsPredatorRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-27T02:00:03Z",
+      "summary": "PC port of Far Cry Instincts Predator (Xbox 360) by static recompilation. Fan project. No game files included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T02:44:00.917913+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
     {
       "title": "erickgxbriel/littlerecomp",
       "url": "https://github.com/erickgxbriel/littlerecomp",
@@ -821,7 +1284,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-26T02:43:26.810296+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-27T02:44:10.212143+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Ridge Racer 7 (PlayStation 3, 2006) to portable C++23 with Vulkan 1.3, for Windows, Linux and macOS. No game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -855,7 +1335,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-26T02:43:26.809401+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-27T02:44:11.507303+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Barbie Horse Adventures: Wild Horse Rescue (original Xbox, 2003) to portable C++23 with Vulkan 1.3, for Windows, Linux and macOS. No game data included.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -889,7 +1386,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-26T02:43:26.808645+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-27T02:44:12.819423+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Language SDKs and examples for the GameReComp PE32 x86 static recompilation pipeline",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "needs_review",
       "platforms_guess": [],
       "category_evidence": {
@@ -915,7 +1429,93 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-26T02:43:26.808078+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-27T02:44:14.073196+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Project Nexus: native PC port by static recompilation. Bring your own game disc.",
+        "latest_release_url": "https://github.com/760hdz-creator/Project-Nexus/releases/tag/v0.1.20",
+        "latest_release_name": "v0.1.20",
+        "release_assets": [
+          {
+            "name": "ProjectNexus-0.1.20-Windows-x64.zip",
+            "url": "https://github.com/760hdz-creator/Project-Nexus/releases/download/v0.1.20/ProjectNexus-0.1.20-Windows-x64.zip",
+            "size": 101846911
+          },
+          {
+            "name": "ProjectNexus-Linux-x64-0.1.20.tar.gz",
+            "url": "https://github.com/760hdz-creator/Project-Nexus/releases/download/v0.1.20/ProjectNexus-Linux-x64-0.1.20.tar.gz",
+            "size": 58462409
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.20",
+            "url": "https://github.com/760hdz-creator/Project-Nexus/releases/tag/v0.1.20",
+            "published_at": "2026-11-26T22:21:22Z",
+            "assets": [
+              {
+                "name": "ProjectNexus-0.1.20-Windows-x64.zip",
+                "url": "https://github.com/760hdz-creator/Project-Nexus/releases/download/v0.1.20/ProjectNexus-0.1.20-Windows-x64.zip",
+                "size": 101846911
+              },
+              {
+                "name": "ProjectNexus-Linux-x64-0.1.20.tar.gz",
+                "url": "https://github.com/760hdz-creator/Project-Nexus/releases/download/v0.1.20/ProjectNexus-Linux-x64-0.1.20.tar.gz",
+                "size": 58462409
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.19",
+            "url": "https://github.com/760hdz-creator/Project-Nexus/releases/tag/v0.1.19",
+            "published_at": "2026-11-26T17:03:55Z",
+            "assets": [
+              {
+                "name": "ProjectNexus-0.1.19-Windows-x64.zip",
+                "url": "https://github.com/760hdz-creator/Project-Nexus/releases/download/v0.1.19/ProjectNexus-0.1.19-Windows-x64.zip",
+                "size": 101843281
+              },
+              {
+                "name": "ProjectNexus-Linux-x64-0.1.19.tar.gz",
+                "url": "https://github.com/760hdz-creator/Project-Nexus/releases/download/v0.1.19/ProjectNexus-Linux-x64-0.1.19.tar.gz",
+                "size": 58459415
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v0.1.18",
+            "url": "https://github.com/760hdz-creator/Project-Nexus/releases/tag/v0.1.18",
+            "published_at": "2026-11-26T01:19:51Z",
+            "assets": [
+              {
+                "name": "ProjectNexus-0.1.18-Windows-x64.zip",
+                "url": "https://github.com/760hdz-creator/Project-Nexus/releases/download/v0.1.18/ProjectNexus-0.1.18-Windows-x64.zip",
+                "size": 101840215
+              },
+              {
+                "name": "ProjectNexus-Linux-x64-0.1.18.tar.gz",
+                "url": "https://github.com/760hdz-creator/Project-Nexus/releases/download/v0.1.18/ProjectNexus-Linux-x64-0.1.18.tar.gz",
+                "size": 58456938
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -924,14 +1524,48 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
+          "windows",
+          "linux",
           "pc port",
           "native pc"
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "ProjectNexus-0.1.20-Windows-x64.zip",
+          "url": "https://github.com/760hdz-creator/Project-Nexus/releases/download/v0.1.20/ProjectNexus-0.1.20-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ProjectNexus-Linux-x64-0.1.20.tar.gz",
+          "url": "https://github.com/760hdz-creator/Project-Nexus/releases/download/v0.1.20/ProjectNexus-Linux-x64-0.1.20.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "ProjectNexus-0.1.19-Windows-x64.zip",
+          "url": "https://github.com/760hdz-creator/Project-Nexus/releases/download/v0.1.19/ProjectNexus-0.1.19-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ProjectNexus-Linux-x64-0.1.19.tar.gz",
+          "url": "https://github.com/760hdz-creator/Project-Nexus/releases/download/v0.1.19/ProjectNexus-Linux-x64-0.1.19.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "ProjectNexus-0.1.18-Windows-x64.zip",
+          "url": "https://github.com/760hdz-creator/Project-Nexus/releases/download/v0.1.18/ProjectNexus-0.1.18-Windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "ProjectNexus-Linux-x64-0.1.18.tar.gz",
+          "url": "https://github.com/760hdz-creator/Project-Nexus/releases/download/v0.1.18/ProjectNexus-Linux-x64-0.1.18.tar.gz",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 10,
       "relevance_status": "promising",
@@ -949,7 +1583,33 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-26T02:43:26.807442+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-27T02:44:15.394400+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows port of Peggle 2 (Xbox 360) via static recompilation with XenonRecomp. Work in progress, not playable yet. No game files included: you need your own legally obtained copy.",
+        "latest_release_url": "https://github.com/Tacitts/Peggle2Recomp/releases/tag/v0.1.0",
+        "latest_release_name": "v0.1.0 (source only)",
+        "release_assets": [],
+        "releases": [
+          {
+            "name": "v0.1.0 (source only)",
+            "url": "https://github.com/Tacitts/Peggle2Recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-26T15:45:36Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найден релиз без прикреплённых файлов.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -982,7 +1642,45 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-26T02:43:26.806556+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-27T02:44:16.745241+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Crazy Taxi 3: High Roller (Original Xbox) — Native Android ARM64 + Vulkan static recompilation (no game code/assets included)",
+        "latest_release_url": "https://github.com/fatuhsa/ct3-recomp/releases/tag/v0.1.0",
+        "latest_release_name": "v0.1.0 — Crazy Taxi 3 Recomp (Android ARM64 + Vulkan)",
+        "release_assets": [
+          {
+            "name": "CrazyTaxi3-0.1.0-arm64.apk",
+            "url": "https://github.com/fatuhsa/ct3-recomp/releases/download/v0.1.0/CrazyTaxi3-0.1.0-arm64.apk",
+            "size": 17423244
+          }
+        ],
+        "releases": [
+          {
+            "name": "v0.1.0 — Crazy Taxi 3 Recomp (Android ARM64 + Vulkan)",
+            "url": "https://github.com/fatuhsa/ct3-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-26T02:37:03Z",
+            "assets": [
+              {
+                "name": "CrazyTaxi3-0.1.0-arm64.apk",
+                "url": "https://github.com/fatuhsa/ct3-recomp/releases/download/v0.1.0/CrazyTaxi3-0.1.0-arm64.apk",
+                "size": 17423244
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -995,9 +1693,16 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "CrazyTaxi3-0.1.0-arm64.apk",
+          "url": "https://github.com/fatuhsa/ct3-recomp/releases/download/v0.1.0/CrazyTaxi3-0.1.0-arm64.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -1015,7 +1720,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-26T02:43:22.510522+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-27T02:44:18.094742+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Derby Owners Club in the browser: source for the Flycast WebAssembly cores and game page (GPL)",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -2313,7 +3035,95 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-25T15:25:02.267217+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-27T02:44:19.410543+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "A native Windows, Linux, Android and iOS port of Sakura Wars: So Long, My Love - Rebloom, built from the PS2 game through static recompilation.",
+        "latest_release_url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/tag/v0.1",
+        "latest_release_name": "Rebloom 0.1",
+        "release_assets": [
+          {
+            "name": "Rebloom-0.1-android-arm64.apk",
+            "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/Rebloom-0.1-android-arm64.apk",
+            "size": 50034100
+          },
+          {
+            "name": "Rebloom-0.1-ios-unsigned.ipa",
+            "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/Rebloom-0.1-ios-unsigned.ipa",
+            "size": 20969301
+          },
+          {
+            "name": "Rebloom-0.1-Linux-x86_64.tar.gz",
+            "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/Rebloom-0.1-Linux-x86_64.tar.gz",
+            "size": 33614996
+          },
+          {
+            "name": "Rebloom-0.1-Windows-x86_64.zip",
+            "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/Rebloom-0.1-Windows-x86_64.zip",
+            "size": 36481838
+          },
+          {
+            "name": "Rebloom-0.1-x86_64.AppImage",
+            "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/Rebloom-0.1-x86_64.AppImage",
+            "size": 32836088
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/SHA256SUMS.txt",
+            "size": 485
+          }
+        ],
+        "releases": [
+          {
+            "name": "Rebloom 0.1",
+            "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/tag/v0.1",
+            "published_at": "2026-11-24T21:30:11Z",
+            "assets": [
+              {
+                "name": "Rebloom-0.1-android-arm64.apk",
+                "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/Rebloom-0.1-android-arm64.apk",
+                "size": 50034100
+              },
+              {
+                "name": "Rebloom-0.1-ios-unsigned.ipa",
+                "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/Rebloom-0.1-ios-unsigned.ipa",
+                "size": 20969301
+              },
+              {
+                "name": "Rebloom-0.1-Linux-x86_64.tar.gz",
+                "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/Rebloom-0.1-Linux-x86_64.tar.gz",
+                "size": 33614996
+              },
+              {
+                "name": "Rebloom-0.1-Windows-x86_64.zip",
+                "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/Rebloom-0.1-Windows-x86_64.zip",
+                "size": 36481838
+              },
+              {
+                "name": "Rebloom-0.1-x86_64.AppImage",
+                "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/Rebloom-0.1-x86_64.AppImage",
+                "size": 32836088
+              },
+              {
+                "name": "SHA256SUMS.txt",
+                "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/SHA256SUMS.txt",
+                "size": 485
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "Android",
@@ -2332,11 +3142,43 @@
           "ios port"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "Rebloom-0.1-android-arm64.apk",
+          "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/Rebloom-0.1-android-arm64.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "Rebloom-0.1-ios-unsigned.ipa",
+          "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/Rebloom-0.1-ios-unsigned.ipa",
+          "type": "ios_package"
+        },
+        {
+          "name": "Rebloom-0.1-Linux-x86_64.tar.gz",
+          "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/Rebloom-0.1-Linux-x86_64.tar.gz",
+          "type": "archive"
+        },
+        {
+          "name": "Rebloom-0.1-Windows-x86_64.zip",
+          "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/Rebloom-0.1-Windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "Rebloom-0.1-x86_64.AppImage",
+          "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/Rebloom-0.1-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/releases/download/v0.1/SHA256SUMS.txt",
+          "type": "other_file"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки Android-поддержки.",
         "В описании обнаружены признаки PC-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 13,
       "relevance_status": "promising",
