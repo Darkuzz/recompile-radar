@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-27T14:51:55.710791+00:00",
+  "last_updated": "2026-11-28T02:34:45.995148+00:00",
   "candidates": [
     {
-      "title": "sumeriangod/mpsrecomp",
-      "url": "https://github.com/sumeriangod/mpsrecomp",
+      "title": "sumadeumas/pso-plus-recomp",
+      "url": "https://github.com/sumadeumas/pso-plus-recomp",
       "source_name": "GitHub: static recompilation",
-      "published": "2026-11-27T12:58:57Z",
-      "summary": "Native Windows port of Mario Party Superstars (v1.0.0) by static recompilation. Bring your own extracted game files: no game code or assets included.",
+      "published": "2026-11-27T21:50:04Z",
+      "summary": "Phantasy Star Online Episode I & II Plus (PSO) for PS4 and PC: a native port by static recompilation of the GameCube game. PS4 homebrew (GoldHEN) and Windows. Topics: decompilation, gamecube, goldhen, phantasy-star-online, port, ps4, ps4-homebrew, pso, recompilation, sega, static-recompilation, windows",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-27T14:51:40.717848+00:00",
+      "found_at": "2026-11-28T02:34:33.331841+00:00",
       "check": null,
       "category": "pc",
       "platforms_guess": [
@@ -31,19 +31,46 @@
       "relevance_score": 12,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, static recompilation, native port, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game, windows"
       ]
     },
     {
-      "title": "pixelnorth/DreamstarRecomp",
-      "url": "https://github.com/pixelnorth/DreamstarRecomp",
+      "title": "Imadynamo/RogueSquadronRecomp",
+      "url": "https://github.com/Imadynamo/RogueSquadronRecomp",
       "source_name": "GitHub: static recompilation",
-      "published": "2026-11-27T13:44:35Z",
-      "summary": "Native PC (Vulkan) static recompilation of Kirby Star Allies. Bring your own game files. Fork of LAS Recomp.",
+      "published": "2026-11-27T22:09:39Z",
+      "summary": "Star Wars: Rogue Squadron (N64) static recompilation port (no game assets included)",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-27T14:51:40.717220+00:00",
+      "found_at": "2026-11-28T02:34:33.330851+00:00",
+      "check": null,
+      "category": "needs_review",
+      "platforms_guess": [],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "scandro1d/ShootManyRobots-PC-recomp",
+      "url": "https://github.com/scandro1d/ShootManyRobots-PC-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-27T23:03:23Z",
+      "summary": "Unofficial PC port of the Xbox 360 (XBLA) game Shoot Many Robots, made by static recompilation. Bring your own game files. Topics: directx12, pc-port, recompilation, shoot-many-robots, static-recompilation, xbox360, xenonrecomp",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-28T02:34:33.329947+00:00",
       "check": null,
       "category": "pc",
       "platforms_guess": [
@@ -53,7 +80,7 @@
         "browser_terms": [],
         "android_terms": [],
         "pc_terms": [
-          "native pc"
+          "pc port"
         ],
         "other_platform_terms": []
       },
@@ -61,22 +88,56 @@
       "classification_notes": [
         "В описании обнаружены признаки PC-поддержки."
       ],
-      "relevance_score": 10,
+      "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
-        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
         "Есть игровые/платформенные признаки: game"
       ]
     },
     {
-      "title": "Dantxxzz/Tag-Force-3-Recomp",
-      "url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp",
+      "title": "godofknife/TMSRecomp",
+      "url": "https://github.com/godofknife/TMSRecomp",
       "source_name": "GitHub: static recompilation",
-      "published": "2026-11-27T14:34:09Z",
-      "summary": "Static recompilation of Yu-Gi-Oh! GX Tag Force 3 (PSP, ULES-01183) to native Windows. Fork of Tag Force Recomp by Artknighty. No game data included.",
+      "published": "2026-11-27T23:54:39Z",
+      "summary": "Tokyo Mirage Sessions #FE Encore, recompiled to run natively on Windows and Linux / Steam Deck (experimental) (static recompilation, Vulkan, no emulator). Bring your own game. Topics: linux, nintendo-switch, pc-port, recompilation, static-recompilation, steam-deck, tokyo-mirage-sessions, vulkan",
       "status": "unverified",
       "browser_playable": "unknown",
-      "found_at": "2026-11-27T14:51:40.716541+00:00",
+      "found_at": "2026-11-28T02:34:33.328707+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows, linux"
+      ]
+    },
+    {
+      "title": "Aghostinbloom/otogi2-recomp",
+      "url": "https://github.com/Aghostinbloom/otogi2-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-28T00:22:07Z",
+      "summary": "Native Windows port of Otogi 2: Immortal Warriors (original Xbox) by static recompilation. No game data included. Topics: decompilation, otogi, pc-port, static-recompilation, xbox",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-28T02:34:33.327498+00:00",
       "check": null,
       "category": "pc",
       "platforms_guess": [
@@ -94,6 +155,525 @@
       "classification_notes": [
         "В описании обнаружены признаки PC-поддержки."
       ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, decompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "nynjardin/motorstorm-apocalypse-recomp",
+      "url": "https://github.com/nynjardin/motorstorm-apocalypse-recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-28T01:53:25Z",
+      "summary": "Native PC port of MotorStorm: Apocalypse (PS3) by static recompilation with ps3recomp. No game or firmware files in the repository.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-28T02:34:33.326392+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "pc port",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "kristenadd/daytona-3-nse-decomp",
+      "url": "https://github.com/kristenadd/daytona-3-nse-decomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-28T02:05:02Z",
+      "summary": "Static recompilation of Daytona Championship USA (2017 and 2019 PC editions) to native macOS, iOS / iPadOS, Apple Vision Pro and Linux / Steam Deck. Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-28T02:34:33.325110+00:00",
+      "check": null,
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "linux"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, linux"
+      ]
+    },
+    {
+      "title": "dogukanduran/wa-web",
+      "url": "https://github.com/dogukanduran/wa-web",
+      "source_name": "GitHub: WebAssembly games",
+      "published": "2026-11-28T02:20:23Z",
+      "summary": "Static recompilation of Worms Armageddon (GOG v3.8.1) to WebAssembly + WebGPU. Bring your own game files. Topics: emscripten, reverse-engineering, static-recompilation, webassembly, webgpu, worms-armageddon",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-28T02:34:29.773865+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "webassembly"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 11,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, webassembly"
+      ]
+    },
+    {
+      "title": "SkyExploreWasTaken/fnaf1-browser",
+      "url": "https://github.com/SkyExploreWasTaken/fnaf1-browser",
+      "source_name": "GitHub: browser ports",
+      "published": "2026-11-27T19:04:25Z",
+      "summary": "Unofficial browser port of Five Nights at Freddy's 1 with game-speed controls. Bring your own game files.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-28T02:34:25.840837+00:00",
+      "check": null,
+      "category": "browser",
+      "platforms_guess": [
+        "Web"
+      ],
+      "category_evidence": {
+        "browser_terms": [
+          "browser",
+          "browser port"
+        ],
+        "android_terms": [],
+        "pc_terms": [],
+        "other_platform_terms": []
+      },
+      "build_links": [],
+      "classification_notes": [
+        "Есть признаки веб-версии; запуск непосредственно в браузере пока не подтверждён."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: browser port, port of, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "sumeriangod/mpsrecomp",
+      "url": "https://github.com/sumeriangod/mpsrecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-27T12:58:57Z",
+      "summary": "Native Windows port of Mario Party Superstars (v1.0.0) by static recompilation. Bring your own extracted game files: no game code or assets included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T14:51:40.717848+00:00",
+      "check": {
+        "checked_at": "2026-11-28T02:34:35.369826+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native Windows port of Mario Party Superstars (v1.0.0) by static recompilation. Bring your own extracted game files: no game code or assets included.",
+        "latest_release_url": "https://github.com/sumeriangod/mpsrecomp/releases/tag/v0.1.3",
+        "latest_release_name": "MPS Recomp 0.1.3",
+        "release_assets": [
+          {
+            "name": "MPSRecomp-windows-x86_64.zip",
+            "url": "https://github.com/sumeriangod/mpsrecomp/releases/download/v0.1.3/MPSRecomp-windows-x86_64.zip",
+            "size": 113033278
+          }
+        ],
+        "releases": [
+          {
+            "name": "MPS Recomp 0.1.3",
+            "url": "https://github.com/sumeriangod/mpsrecomp/releases/tag/v0.1.3",
+            "published_at": "2026-11-27T18:53:27Z",
+            "assets": [
+              {
+                "name": "MPSRecomp-windows-x86_64.zip",
+                "url": "https://github.com/sumeriangod/mpsrecomp/releases/download/v0.1.3/MPSRecomp-windows-x86_64.zip",
+                "size": 113033278
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "MPS Recomp 0.1.2",
+            "url": "https://github.com/sumeriangod/mpsrecomp/releases/tag/v0.1.2",
+            "published_at": "2026-11-27T18:11:42Z",
+            "assets": [
+              {
+                "name": "MPSRecomp-windows-x86_64.zip",
+                "url": "https://github.com/sumeriangod/mpsrecomp/releases/download/v0.1.2/MPSRecomp-windows-x86_64.zip",
+                "size": 113035459
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "MPS Recomp 0.1.1",
+            "url": "https://github.com/sumeriangod/mpsrecomp/releases/tag/v0.1.1",
+            "published_at": "2026-11-27T15:53:43Z",
+            "assets": [
+              {
+                "name": "MPSRecomp-windows-x86_64.zip",
+                "url": "https://github.com/sumeriangod/mpsrecomp/releases/download/v0.1.1/MPSRecomp-windows-x86_64.zip",
+                "size": 113033152
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "MPS Recomp 0.1.0",
+            "url": "https://github.com/sumeriangod/mpsrecomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-27T12:51:27Z",
+            "assets": [
+              {
+                "name": "MPSRecomp-windows-x86_64.zip",
+                "url": "https://github.com/sumeriangod/mpsrecomp/releases/download/v0.1.0/MPSRecomp-windows-x86_64.zip",
+                "size": 113030662
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "MPSRecomp-windows-x86_64.zip",
+          "url": "https://github.com/sumeriangod/mpsrecomp/releases/download/v0.1.3/MPSRecomp-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MPSRecomp-windows-x86_64.zip",
+          "url": "https://github.com/sumeriangod/mpsrecomp/releases/download/v0.1.2/MPSRecomp-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MPSRecomp-windows-x86_64.zip",
+          "url": "https://github.com/sumeriangod/mpsrecomp/releases/download/v0.1.1/MPSRecomp-windows-x86_64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "MPSRecomp-windows-x86_64.zip",
+          "url": "https://github.com/sumeriangod/mpsrecomp/releases/download/v0.1.0/MPSRecomp-windows-x86_64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 12,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, port of, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game, windows"
+      ]
+    },
+    {
+      "title": "pixelnorth/DreamstarRecomp",
+      "url": "https://github.com/pixelnorth/DreamstarRecomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-27T13:44:35Z",
+      "summary": "Native PC (Vulkan) static recompilation of Kirby Star Allies. Bring your own game files. Fork of LAS Recomp.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T14:51:40.717220+00:00",
+      "check": {
+        "checked_at": "2026-11-28T02:34:36.762428+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Native PC (Vulkan) static recompilation of Kirby Star Allies. Bring your own game files. Fork of LAS Recomp.",
+        "latest_release_url": "https://github.com/pixelnorth/DreamstarRecomp/releases/tag/v1.0.1",
+        "latest_release_name": "Dreamstar Recomp 1.0.1",
+        "release_assets": [
+          {
+            "name": "DreamstarRecomp-1.0.1-linux-x86_64.AppImage",
+            "url": "https://github.com/pixelnorth/DreamstarRecomp/releases/download/v1.0.1/DreamstarRecomp-1.0.1-linux-x86_64.AppImage",
+            "size": 78875128
+          },
+          {
+            "name": "DreamstarRecomp-1.0.1-windows-x64.zip",
+            "url": "https://github.com/pixelnorth/DreamstarRecomp/releases/download/v1.0.1/DreamstarRecomp-1.0.1-windows-x64.zip",
+            "size": 80706816
+          }
+        ],
+        "releases": [
+          {
+            "name": "Dreamstar Recomp 1.0.1",
+            "url": "https://github.com/pixelnorth/DreamstarRecomp/releases/tag/v1.0.1",
+            "published_at": "2026-11-27T13:44:46Z",
+            "assets": [
+              {
+                "name": "DreamstarRecomp-1.0.1-linux-x86_64.AppImage",
+                "url": "https://github.com/pixelnorth/DreamstarRecomp/releases/download/v1.0.1/DreamstarRecomp-1.0.1-linux-x86_64.AppImage",
+                "size": 78875128
+              },
+              {
+                "name": "DreamstarRecomp-1.0.1-windows-x64.zip",
+                "url": "https://github.com/pixelnorth/DreamstarRecomp/releases/download/v1.0.1/DreamstarRecomp-1.0.1-windows-x64.zip",
+                "size": 80706816
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Dreamstar Recomp 1.0.0",
+            "url": "https://github.com/pixelnorth/DreamstarRecomp/releases/tag/v1.0.0",
+            "published_at": "2026-11-24T18:09:12Z",
+            "assets": [
+              {
+                "name": "DreamstarRecomp-1.0.0-windows-x64.zip",
+                "url": "https://github.com/pixelnorth/DreamstarRecomp/releases/download/v1.0.0/DreamstarRecomp-1.0.0-windows-x64.zip",
+                "size": 80696278
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "linux",
+          "native pc"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "DreamstarRecomp-1.0.1-linux-x86_64.AppImage",
+          "url": "https://github.com/pixelnorth/DreamstarRecomp/releases/download/v1.0.1/DreamstarRecomp-1.0.1-linux-x86_64.AppImage",
+          "type": "desktop_package"
+        },
+        {
+          "name": "DreamstarRecomp-1.0.1-windows-x64.zip",
+          "url": "https://github.com/pixelnorth/DreamstarRecomp/releases/download/v1.0.1/DreamstarRecomp-1.0.1-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "DreamstarRecomp-1.0.0-windows-x64.zip",
+          "url": "https://github.com/pixelnorth/DreamstarRecomp/releases/download/v1.0.0/DreamstarRecomp-1.0.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
+      "relevance_score": 10,
+      "relevance_status": "promising",
+      "relevance_reasons": [
+        "Есть прямые признаки порта/рекомпиляции: recompil, static recompilation, explicit port/recompilation wording",
+        "Есть игровые/платформенные признаки: game"
+      ]
+    },
+    {
+      "title": "Dantxxzz/Tag-Force-3-Recomp",
+      "url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp",
+      "source_name": "GitHub: static recompilation",
+      "published": "2026-11-27T14:34:09Z",
+      "summary": "Static recompilation of Yu-Gi-Oh! GX Tag Force 3 (PSP, ULES-01183) to native Windows. Fork of Tag Force Recomp by Artknighty. No game data included.",
+      "status": "unverified",
+      "browser_playable": "unknown",
+      "found_at": "2026-11-27T14:51:40.716541+00:00",
+      "check": {
+        "checked_at": "2026-11-28T02:34:38.135030+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Yu-Gi-Oh! GX Tag Force 3 (PSP, ULES-01183) to native Windows. Fork of Tag Force Recomp by Artknighty. No game data included.",
+        "latest_release_url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp/releases/tag/v0.8.2",
+        "latest_release_name": "Tag Force 3 Recomp 0.8.2 - RecompLauncher Easy Setup",
+        "release_assets": [
+          {
+            "name": "TagForce3Recomp-0.8.2-win64.zip",
+            "url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp/releases/download/v0.8.2/TagForce3Recomp-0.8.2-win64.zip",
+            "size": 10199801
+          }
+        ],
+        "releases": [
+          {
+            "name": "Tag Force 3 Recomp 0.8.2 - RecompLauncher Easy Setup",
+            "url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp/releases/tag/v0.8.2",
+            "published_at": "2026-11-27T15:18:02Z",
+            "assets": [
+              {
+                "name": "TagForce3Recomp-0.8.2-win64.zip",
+                "url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp/releases/download/v0.8.2/TagForce3Recomp-0.8.2-win64.zip",
+                "size": 10199801
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Tag Force 3 Recomp 0.8.1",
+            "url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp/releases/tag/v0.8.1",
+            "published_at": "2026-11-27T14:34:45Z",
+            "assets": [
+              {
+                "name": "TagForce3Recomp-0.8.1-win64.zip",
+                "url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp/releases/download/v0.8.1/TagForce3Recomp-0.8.1-win64.zip",
+                "size": 10195852
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Tag Force 3 Recomp 0.8.0 - Achievements",
+            "url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp/releases/tag/v0.8.0",
+            "published_at": "2026-11-26T21:14:38Z",
+            "assets": [
+              {
+                "name": "TagForce3Recomp-0.8.0-win64.zip",
+                "url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp/releases/download/v0.8.0/TagForce3Recomp-0.8.0-win64.zip",
+                "size": 10194990
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "Tag Force 3 Recomp 0.7.0",
+            "url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp/releases/tag/v0.7.0",
+            "published_at": "2026-11-26T18:15:37Z",
+            "assets": [
+              {
+                "name": "TagForce3Recomp-0.7.0-win64.zip",
+                "url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp/releases/download/v0.7.0/TagForce3Recomp-0.7.0-win64.zip",
+                "size": 10148438
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
+      "category": "pc",
+      "platforms_guess": [
+        "PC"
+      ],
+      "category_evidence": {
+        "browser_terms": [],
+        "android_terms": [],
+        "pc_terms": [
+          "windows",
+          "win64"
+        ],
+        "other_platform_terms": []
+      },
+      "build_links": [
+        {
+          "name": "TagForce3Recomp-0.8.2-win64.zip",
+          "url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp/releases/download/v0.8.2/TagForce3Recomp-0.8.2-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "TagForce3Recomp-0.8.1-win64.zip",
+          "url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp/releases/download/v0.8.1/TagForce3Recomp-0.8.1-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "TagForce3Recomp-0.8.0-win64.zip",
+          "url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp/releases/download/v0.8.0/TagForce3Recomp-0.8.0-win64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "TagForce3Recomp-0.7.0-win64.zip",
+          "url": "https://github.com/Dantxxzz/Tag-Force-3-Recomp/releases/download/v0.7.0/TagForce3Recomp-0.7.0-win64.zip",
+          "type": "archive"
+        }
+      ],
+      "classification_notes": [
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
+      ],
       "relevance_score": 11,
       "relevance_status": "promising",
       "relevance_reasons": [
@@ -110,7 +690,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-27T14:51:36.241684+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-28T02:34:39.474862+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Retro driving game written in AffineScript. Test Drive III: The Passion-inspired — perspective road rendering + centripetal-force steering. Prototype.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "browser",
       "platforms_guess": [
         "Web"
@@ -896,7 +1493,65 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-27T02:44:00.921985+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-28T02:34:40.713700+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Xenoblade Chronicles 2 - Nintendo Switch 2 Edition as a native Windows PC game: static recompilation, drawn by NVN-HLE",
+        "latest_release_url": "https://github.com/Duck912/xc2-ns2-recomp/releases/tag/v0.1.0",
+        "latest_release_name": "xc2-ns2-recomp v0.1.0",
+        "release_assets": [
+          {
+            "name": "n2den-nvnhle-0.1.0-windows-x64.zip",
+            "url": "https://github.com/Duck912/xc2-ns2-recomp/releases/download/v0.1.0/n2den-nvnhle-0.1.0-windows-x64.zip",
+            "size": 36039445
+          },
+          {
+            "name": "n2den-nvnhle-src-0.1.0.zip",
+            "url": "https://github.com/Duck912/xc2-ns2-recomp/releases/download/v0.1.0/n2den-nvnhle-src-0.1.0.zip",
+            "size": 19671608
+          },
+          {
+            "name": "xc2-ns2-recomp-0.1.0-windows-x64.zip",
+            "url": "https://github.com/Duck912/xc2-ns2-recomp/releases/download/v0.1.0/xc2-ns2-recomp-0.1.0-windows-x64.zip",
+            "size": 25503702
+          }
+        ],
+        "releases": [
+          {
+            "name": "xc2-ns2-recomp v0.1.0",
+            "url": "https://github.com/Duck912/xc2-ns2-recomp/releases/tag/v0.1.0",
+            "published_at": "2026-11-26T23:46:56Z",
+            "assets": [
+              {
+                "name": "n2den-nvnhle-0.1.0-windows-x64.zip",
+                "url": "https://github.com/Duck912/xc2-ns2-recomp/releases/download/v0.1.0/n2den-nvnhle-0.1.0-windows-x64.zip",
+                "size": 36039445
+              },
+              {
+                "name": "n2den-nvnhle-src-0.1.0.zip",
+                "url": "https://github.com/Duck912/xc2-ns2-recomp/releases/download/v0.1.0/n2den-nvnhle-src-0.1.0.zip",
+                "size": 19671608
+              },
+              {
+                "name": "xc2-ns2-recomp-0.1.0-windows-x64.zip",
+                "url": "https://github.com/Duck912/xc2-ns2-recomp/releases/download/v0.1.0/xc2-ns2-recomp-0.1.0-windows-x64.zip",
+                "size": 25503702
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -911,10 +1566,27 @@
           "nintendo switch"
         ]
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "n2den-nvnhle-0.1.0-windows-x64.zip",
+          "url": "https://github.com/Duck912/xc2-ns2-recomp/releases/download/v0.1.0/n2den-nvnhle-0.1.0-windows-x64.zip",
+          "type": "archive"
+        },
+        {
+          "name": "n2den-nvnhle-src-0.1.0.zip",
+          "url": "https://github.com/Duck912/xc2-ns2-recomp/releases/download/v0.1.0/n2den-nvnhle-src-0.1.0.zip",
+          "type": "archive"
+        },
+        {
+          "name": "xc2-ns2-recomp-0.1.0-windows-x64.zip",
+          "url": "https://github.com/Duck912/xc2-ns2-recomp/releases/download/v0.1.0/xc2-ns2-recomp-0.1.0-windows-x64.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
         "В описании обнаружены признаки PC-поддержки.",
-        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта."
+        "Обнаружены упоминания других платформ; нужно уточнить основную платформу проекта.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -932,7 +1604,59 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-27T02:44:00.921261+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-28T02:34:42.066653+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "The 3rd Birthday (PSP) running natively on Android through static recompilation, with a Vulkan renderer tuned for phones. No game data included.",
+        "latest_release_url": "https://github.com/onederson/the-3rd-birthday-recomp-android/releases/tag/v1.1",
+        "latest_release_name": "v1.1 — Movies in sync / Vídeos sincronizados",
+        "release_assets": [
+          {
+            "name": "the-3rd-birthday-android-v1.1.apk",
+            "url": "https://github.com/onederson/the-3rd-birthday-recomp-android/releases/download/v1.1/the-3rd-birthday-android-v1.1.apk",
+            "size": 69320845
+          }
+        ],
+        "releases": [
+          {
+            "name": "v1.1 — Movies in sync / Vídeos sincronizados",
+            "url": "https://github.com/onederson/the-3rd-birthday-recomp-android/releases/tag/v1.1",
+            "published_at": "2026-11-27T20:21:24Z",
+            "assets": [
+              {
+                "name": "the-3rd-birthday-android-v1.1.apk",
+                "url": "https://github.com/onederson/the-3rd-birthday-recomp-android/releases/download/v1.1/the-3rd-birthday-android-v1.1.apk",
+                "size": 69320845
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "v1.0 — The 3rd Birthday for Android",
+            "url": "https://github.com/onederson/the-3rd-birthday-recomp-android/releases/tag/v1.0",
+            "published_at": "2026-11-27T03:43:23Z",
+            "assets": [
+              {
+                "name": "the-3rd-birthday-android-v1.0.apk",
+                "url": "https://github.com/onederson/the-3rd-birthday-recomp-android/releases/download/v1.0/the-3rd-birthday-android-v1.0.apk",
+                "size": 69320345
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "android",
       "platforms_guess": [
         "Android"
@@ -945,9 +1669,21 @@
         "pc_terms": [],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "the-3rd-birthday-android-v1.1.apk",
+          "url": "https://github.com/onederson/the-3rd-birthday-recomp-android/releases/download/v1.1/the-3rd-birthday-android-v1.1.apk",
+          "type": "android_apk"
+        },
+        {
+          "name": "the-3rd-birthday-android-v1.0.apk",
+          "url": "https://github.com/onederson/the-3rd-birthday-recomp-android/releases/download/v1.0/the-3rd-birthday-android-v1.0.apk",
+          "type": "android_apk"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки Android-поддержки."
+        "В описании обнаружены признаки Android-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -965,7 +1701,53 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-27T02:44:00.920341+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-28T02:34:43.379582+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Samurai Shodown 64 (Hyper Neo Geo 64) into a native PC port, built on ReBuriki and N64Recomp. It runs the full game in colour, from title screen to fights. No ROMs or binaries are included, so you build it yourself from your own ROM dumps. Unofficial fan project, MIT licensed.",
+        "latest_release_url": "https://github.com/nnnns75/samourai-64-recomp/releases/tag/SamuRecompv2",
+        "latest_release_name": "samsho v2",
+        "release_assets": [
+          {
+            "name": "SamuRecomp-repo.zip",
+            "url": "https://github.com/nnnns75/samourai-64-recomp/releases/download/SamuRecompv2/SamuRecomp-repo.zip",
+            "size": 409344
+          }
+        ],
+        "releases": [
+          {
+            "name": "samsho v2",
+            "url": "https://github.com/nnnns75/samourai-64-recomp/releases/tag/SamuRecompv2",
+            "published_at": "2026-11-27T19:06:52Z",
+            "assets": [
+              {
+                "name": "SamuRecomp-repo.zip",
+                "url": "https://github.com/nnnns75/samourai-64-recomp/releases/download/SamuRecompv2/SamuRecomp-repo.zip",
+                "size": 409344
+              }
+            ],
+            "draft": false,
+            "prerelease": false
+          },
+          {
+            "name": "samsho64 v1.0.0",
+            "url": "https://github.com/nnnns75/samourai-64-recomp/releases/tag/alpha",
+            "published_at": "2026-11-27T00:32:31Z",
+            "assets": [],
+            "draft": false,
+            "prerelease": true
+          }
+        ],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Найдены файлы релиза; их работоспособность автоматически не подтверждена.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
@@ -979,9 +1761,16 @@
         ],
         "other_platform_terms": []
       },
-      "build_links": [],
+      "build_links": [
+        {
+          "name": "SamuRecomp-repo.zip",
+          "url": "https://github.com/nnnns75/samourai-64-recomp/releases/download/SamuRecompv2/SamuRecomp-repo.zip",
+          "type": "archive"
+        }
+      ],
       "classification_notes": [
-        "В описании обнаружены признаки PC-поддержки."
+        "В описании обнаружены признаки PC-поддержки.",
+        "Найдены ссылки на файлы релизов; работоспособность и назначение файлов не подтверждены."
       ],
       "relevance_score": 11,
       "relevance_status": "promising",
@@ -999,7 +1788,24 @@
       "status": "unverified",
       "browser_playable": "unknown",
       "found_at": "2026-11-27T02:44:00.919371+00:00",
-      "check": null,
+      "check": {
+        "checked_at": "2026-11-28T02:34:44.689852+00:00",
+        "check_type": "github_metadata",
+        "repository_accessible": true,
+        "archived": false,
+        "default_branch": "main",
+        "description": "Static recompilation of Mario Tennis Fever (Nintendo Switch 2) into a native PC program. No game files included: bring your own dump.",
+        "latest_release_url": null,
+        "latest_release_name": null,
+        "release_assets": [],
+        "releases": [],
+        "verification": "unverified",
+        "browser_playable": "unknown",
+        "check_notes": [
+          "Публичные релизы не найдены.",
+          "Нужна отдельная проверка запуска, совместимости и необходимости оригинальных игровых файлов."
+        ]
+      },
       "category": "pc",
       "platforms_guess": [
         "PC"
